@@ -1,0 +1,3912 @@
+{
+  "categoryId": "carb-lipid-metabolism",
+  "categoryName": "Carbohydrate & Lipid Metabolism",
+  "questions": [
+    {
+      "id": "bo18-001",
+      "stem": "A weaning infant is diagnosed with an inherited enzyme deficiency that impairs fructose metabolism, and ingestion of fructose is causing progressive liver injury. The parents are counseled to eliminate dietary fructose. In addition to obvious fructose sources, which of the following dietary carbohydrates must they avoid because its digestion releases fructose?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Lactose"
+        },
+        {
+          "label": "B",
+          "text": "Sucrose"
+        },
+        {
+          "label": "C",
+          "text": "Maltose"
+        },
+        {
+          "label": "D",
+          "text": "Amylose"
+        },
+        {
+          "label": "E",
+          "text": "Cellulose"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Sucrose is a disaccharide of glucose and fructose, so its hydrolysis liberates free fructose.",
+        "whyCorrect": "The brick teaches that sucrose (table sugar) is composed of glucose and fructose linked through both anomeric carbons. When digested, it releases fructose, which would be harmful to an infant unable to metabolize it.",
+        "whyWrongByChoice": {
+          "A": "Lactose is composed of galactose and glucose and contains no fructose.",
+          "C": "Maltose is composed of two glucose molecules linked by an alpha-1,4 bond and contains no fructose.",
+          "D": "Amylose is a linear alpha-1,4 polymer of glucose only, with no fructose.",
+          "E": "Cellulose is a beta-1,4 glucose polymer; it contains no fructose and is not digestible by humans."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "disaccharides",
+        "fructose",
+        "clinical"
+      ],
+      "topicId": "carbohydrates-and-carbohydrate-metabolism-overview-i",
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I"
+    },
+    {
+      "id": "bo18-002",
+      "stem": "A researcher studies a membrane protein in the apical brush border of renal proximal tubule cells that moves glucose into the cell even when the intracellular glucose concentration exceeds that of the tubular lumen. This uphill transport is powered by an inwardly directed sodium gradient maintained by the Na+/K+ ATPase. Which of the following transporters is being described?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "SGLT"
+        },
+        {
+          "label": "B",
+          "text": "GLUT1"
+        },
+        {
+          "label": "C",
+          "text": "GLUT2"
+        },
+        {
+          "label": "D",
+          "text": "GLUT4"
+        },
+        {
+          "label": "E",
+          "text": "GLUT5"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "SGLT uses sodium symport to move glucose against its concentration gradient by secondary active transport.",
+        "whyCorrect": "The brick states that all GLUTs use facilitated diffusion except the sodium-glucose transporter (SGLT), which couples glucose uptake to a sodium gradient (secondary active transport) to reabsorb glucose in the proximal tubule and take up glucose/galactose from the intestinal lumen.",
+        "whyWrongByChoice": {
+          "B": "GLUT1 is a facilitated-diffusion transporter on RBCs and barrier tissues; it cannot move glucose against a gradient.",
+          "C": "GLUT2 is a bidirectional facilitated transporter of liver, beta-cells, and basolateral enterocytes; it does not use sodium.",
+          "D": "GLUT4 is an insulin-responsive facilitated transporter of muscle and adipose; it does not perform active transport.",
+          "E": "GLUT5 is a facilitated fructose transporter and does not use a sodium gradient."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "GLUT",
+        "SGLT",
+        "membrane transport"
+      ],
+      "topicId": "carbohydrates-and-carbohydrate-metabolism-overview-i",
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I"
+    },
+    {
+      "id": "bo18-003",
+      "stem": "In pancreatic beta-cells, a glucose transporter with a high Km and high Vmax allows glucose entry to track blood glucose concentration, so uptake rises sharply only when blood glucose is elevated. This behavior helps couple hyperglycemia to insulin secretion. Which transporter has these kinetic properties?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "GLUT1"
+        },
+        {
+          "label": "B",
+          "text": "GLUT2"
+        },
+        {
+          "label": "C",
+          "text": "GLUT3"
+        },
+        {
+          "label": "D",
+          "text": "GLUT4"
+        },
+        {
+          "label": "E",
+          "text": "SGLT"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "GLUT2 has a high Km (low affinity) and high Vmax, matching the glucose-sensing role of the liver and pancreatic beta-cells.",
+        "whyCorrect": "The brick emphasizes that GLUT2's high relative Km means it only transports appreciably at high glucose concentrations, and its high Vmax and bidirectional flux fit the liver's role in blood glucose control and the beta-cell's role in sensing high glucose to release insulin.",
+        "whyWrongByChoice": {
+          "A": "GLUT1 has a low Km (high affinity) for basal uptake, not the high-Km sensing kinetics described.",
+          "C": "GLUT3 has a low Km to preserve glucose for neurons, opposite of the described kinetics.",
+          "D": "GLUT4 has a low Km and is insulin-responsive in muscle and adipose, not a high-Km beta-cell sensor.",
+          "E": "SGLT is a sodium-coupled active transporter of kidney and gut, not the beta-cell glucose sensor."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "GLUT2",
+        "kinetics",
+        "insulin"
+      ],
+      "topicId": "carbohydrates-and-carbohydrate-metabolism-overview-i",
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I"
+    },
+    {
+      "id": "bo18-004",
+      "stem": "A patient with type 2 diabetes and insulin resistance is counseled that physical activity lowers blood glucose independently of insulin. During exercise, ATP is consumed and AMP accumulates, activating a cascade that increases glucose uptake into skeletal muscle. Which transporter is recruited to the plasma membrane by both insulin and this exercise-induced pathway?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "GLUT1"
+        },
+        {
+          "label": "B",
+          "text": "GLUT2"
+        },
+        {
+          "label": "C",
+          "text": "GLUT3"
+        },
+        {
+          "label": "D",
+          "text": "GLUT4"
+        },
+        {
+          "label": "E",
+          "text": "GLUT5"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "GLUT4 is the insulin-responsive muscle/adipose transporter that is also recruited during exercise via AMP signaling.",
+        "whyCorrect": "The brick states GLUT4 is recruited to the membrane in response to insulin, and that exercise causes ATP expenditure and AMP accumulation, activating a cascade that also deposits GLUT4 on the cell surface. This insulin-independent route helps lower glucose when insulin resistance is present.",
+        "whyWrongByChoice": {
+          "A": "GLUT1 provides constitutive basal uptake and is not insulin- or exercise-recruited.",
+          "B": "GLUT2 is a high-Km sensor of liver and beta-cells, not the muscle insulin-responsive transporter.",
+          "C": "GLUT3 is the CNS neuronal transporter and is not recruited by insulin or exercise.",
+          "E": "GLUT5 transports fructose in the intestine and sperm, unrelated to insulin-stimulated muscle uptake."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "GLUT4",
+        "insulin",
+        "exercise",
+        "diabetes"
+      ],
+      "topicId": "carbohydrates-and-carbohydrate-metabolism-overview-i",
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I"
+    },
+    {
+      "id": "bo18-005",
+      "stem": "Red blood cells lack mitochondria and depend entirely on glucose for energy, so they must take up glucose continuously even when a person is fasting and blood glucose is relatively low. Which property of the glucose transporter expressed on RBCs allows uptake to continue during fasting?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A low Km giving it high affinity for glucose"
+        },
+        {
+          "label": "B",
+          "text": "A high Km that limits uptake to high glucose levels"
+        },
+        {
+          "label": "C",
+          "text": "Insulin-dependent recruitment to the membrane"
+        },
+        {
+          "label": "D",
+          "text": "Sodium-coupled secondary active transport"
+        },
+        {
+          "label": "E",
+          "text": "Selective specificity for fructose over glucose"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "GLUT1 on RBCs has a low Km (high affinity), so it binds and transports glucose even at low concentrations.",
+        "whyCorrect": "The brick teaches that GLUT1, expressed on RBCs and barrier tissues, has a low Km (high affinity) and can transport glucose during times of fasting. Tissues that heavily rely on glucose express low-Km transporters mirroring high-affinity hexokinase.",
+        "whyWrongByChoice": {
+          "B": "A high Km would restrict uptake to high glucose levels, which is the GLUT2 pattern and would fail RBCs during fasting.",
+          "C": "GLUT1 is not insulin-dependent; that describes GLUT4 in muscle and adipose.",
+          "D": "Sodium-coupled active transport is a feature of SGLT in kidney and gut, not the RBC transporter.",
+          "E": "The RBC transporter carries glucose, not fructose; GLUT5 is the fructose transporter."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "GLUT1",
+        "RBC",
+        "Km",
+        "fasting"
+      ],
+      "topicId": "carbohydrates-and-carbohydrate-metabolism-overview-i",
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I"
+    },
+    {
+      "id": "bo18-006",
+      "stem": "Neurons can use only glucose for energy production, and the body prioritizes delivering glucose to the brain when circulating glucose is limited. The major central nervous system glucose transporter accomplishes this because it has a low Km for glucose. Which transporter is the major CNS transporter?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "GLUT1"
+        },
+        {
+          "label": "B",
+          "text": "GLUT2"
+        },
+        {
+          "label": "C",
+          "text": "GLUT3"
+        },
+        {
+          "label": "D",
+          "text": "GLUT4"
+        },
+        {
+          "label": "E",
+          "text": "GLUT5"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "GLUT3 is the major CNS neuronal transporter with a low Km (high affinity) that reserves scarce glucose for neurons.",
+        "whyCorrect": "The brick identifies GLUT3 as the major CNS transporter expressed on neurons, with a low relative Km for glucose, allowing low blood glucose to be reserved for neurons that can only use glucose for energy.",
+        "whyWrongByChoice": {
+          "A": "GLUT1 has a low Km but is described for RBCs and barrier tissues (including the blood-brain barrier), not as the neuronal CNS transporter.",
+          "B": "GLUT2 is a high-Km sensor of liver and beta-cells, unsuitable for guaranteeing neuronal uptake at low glucose.",
+          "D": "GLUT4 is the insulin-responsive muscle/adipose transporter, not a neuronal transporter.",
+          "E": "GLUT5 transports fructose in the intestine and sperm, not glucose in the CNS."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "GLUT3",
+        "CNS",
+        "neurons"
+      ],
+      "topicId": "carbohydrates-and-carbohydrate-metabolism-overview-i",
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I"
+    },
+    {
+      "id": "bo18-007",
+      "stem": "A 25-year-old develops bloating and diarrhea after drinking milk because of a brush-border enzyme deficiency. The offending sugar is a disaccharide of galactose and glucose. The brush-border enzyme normally hydrolyzes the specific glycosidic bond linking these two monosaccharides. Which glycosidic linkage joins the two sugars of this disaccharide?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "alpha-1,2"
+        },
+        {
+          "label": "B",
+          "text": "alpha-1,4"
+        },
+        {
+          "label": "C",
+          "text": "alpha-1,6"
+        },
+        {
+          "label": "D",
+          "text": "beta-1,4"
+        },
+        {
+          "label": "E",
+          "text": "beta-1,3"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Lactose is galactose and glucose joined by a beta-1,4 glycosidic bond that lactase hydrolyzes.",
+        "whyCorrect": "The brick states lactose is made of galactose and glucose linked in a beta-1,4 glycosidic bond, and that human lactase hydrolyzes this beta-1,4 bond. Deficiency of this brush-border enzyme causes lactose intolerance.",
+        "whyWrongByChoice": {
+          "A": "alpha-1,2 is the linkage in sucrose (glucose-fructose), not lactose.",
+          "B": "alpha-1,4 links the two glucose units of maltose, not galactose and glucose.",
+          "C": "alpha-1,6 forms the branch points of amylopectin, not the lactose linkage.",
+          "E": "beta-1,3 is found in oat mucilage beta-glucan, not in lactose."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "lactose",
+        "glycosidic bond",
+        "lactase"
+      ],
+      "topicId": "carbohydrates-and-carbohydrate-metabolism-overview-i",
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I"
+    },
+    {
+      "id": "bo18-008",
+      "stem": "During a laboratory exercise, a student finds that glucose, maltose, and lactose all give a positive result in an assay that detects reducing sugars, but sucrose does not. Which structural feature best explains why sucrose is a nonreducing sugar?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Both anomeric carbons are engaged in the glycosidic bond"
+        },
+        {
+          "label": "B",
+          "text": "It contains a ketose rather than an aldose unit"
+        },
+        {
+          "label": "C",
+          "text": "It is a furanose rather than a pyranose ring"
+        },
+        {
+          "label": "D",
+          "text": "It is joined by a beta rather than an alpha linkage"
+        },
+        {
+          "label": "E",
+          "text": "It contains only five-carbon monosaccharides"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Sucrose is nonreducing because glucose and fructose are linked through both of their anomeric carbons, leaving no free anomeric carbon to be oxidized.",
+        "whyCorrect": "The brick explains a reducing sugar has a free anomeric carbon that can interconvert to the open-chain carbonyl and be oxidized. In sucrose, glucose and fructose are linked through both anomeric carbons (alpha-1,2), so neither can open to a carbonyl, making sucrose nonreducing.",
+        "whyWrongByChoice": {
+          "B": "Fructose is a ketose, but having a ketose unit does not prevent reduction; free fructose is a reducing sugar.",
+          "C": "Ring size (furanose vs pyranose) does not determine reducing status; a free anomeric carbon does.",
+          "D": "Bond stereochemistry (alpha vs beta) does not determine reducing status; lactose is beta-linked yet reducing.",
+          "E": "Sucrose is built from two hexoses, and carbon count does not determine reducing status."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "reducing sugar",
+        "anomeric carbon",
+        "sucrose"
+      ],
+      "topicId": "carbohydrates-and-carbohydrate-metabolism-overview-i",
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I"
+    },
+    {
+      "id": "bo18-009",
+      "stem": "A nutritionist explains that dietary cellulose passes through the gastrointestinal tract largely intact, providing bulk but minimal caloric value, whereas starch is readily digested to glucose. Both are polymers of glucose. What is the fundamental reason humans cannot digest cellulose?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Humans lack an enzyme to cleave the beta-1,4 linkages between its glucose units"
+        },
+        {
+          "label": "B",
+          "text": "Cellulose is made of galactose rather than glucose"
+        },
+        {
+          "label": "C",
+          "text": "Cellulose lacks a free anomeric carbon anywhere in the polymer"
+        },
+        {
+          "label": "D",
+          "text": "Salivary amylase is inactivated by the acidic stomach before reaching cellulose"
+        },
+        {
+          "label": "E",
+          "text": "Cellulose cannot be transported across enterocytes by GLUT2"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Humans lack the enzyme needed to hydrolyze cellulose's beta-1,4 glucose linkages, so it is indigestible.",
+        "whyCorrect": "The brick contrasts human lactase, which can hydrolyze the beta-1,4 bond of lactose, with cellulose, whose repeating beta-1,4 glucose linkages humans cannot cleave. Therefore cellulose has minimal nutritional value and moves through the gut as fiber.",
+        "whyWrongByChoice": {
+          "B": "Cellulose is a polymer of glucose, not galactose; the problem is the bond, not the monomer.",
+          "C": "Reducing-end chemistry is not why cellulose is indigestible; the missing enzyme for beta-1,4 bonds is.",
+          "D": "Amylase acts on starch's alpha-1,4 bonds; even a fully active amylase could not cleave cellulose's beta-1,4 bonds.",
+          "E": "The block is enzymatic hydrolysis, not transport; monosaccharides are never generated from cellulose to transport."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "cellulose",
+        "fiber",
+        "beta-1,4",
+        "digestion"
+      ],
+      "topicId": "carbohydrates-and-carbohydrate-metabolism-overview-i",
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I"
+    },
+    {
+      "id": "bo18-010",
+      "stem": "A modern glucometer uses glucose oxidase to convert glucose to gluconate, and the reaction is coupled to a signal read as glucose concentration. Because this enzymatic step is irreversible, nearly all of the blood glucose can be measured. Which principle explains why the irreversible reaction improves the measurement?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It pulls the cyclic/open-chain equilibrium toward the open-chain aldehyde form that is oxidized"
+        },
+        {
+          "label": "B",
+          "text": "It converts the furanose ring to a more stable pyranose ring"
+        },
+        {
+          "label": "C",
+          "text": "It hydrolyzes glycosidic bonds to release additional glucose"
+        },
+        {
+          "label": "D",
+          "text": "It prevents fructose in the sample from interfering with the reading"
+        },
+        {
+          "label": "E",
+          "text": "It activates SGLT to concentrate glucose at the sensor"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Glucose oxidase irreversibly removes the open-chain form, shifting the equilibrium so essentially all glucose is pulled into the oxidizable open-chain aldehyde.",
+        "whyCorrect": "The brick describes that glucose exists in equilibrium between cyclic and open-chain forms, and that the irreversible glucose oxidase step drives the equilibrium toward the open-chain aldehyde, so relatively all blood glucose is 'pulled' into the form that is oxidized and measured.",
+        "whyWrongByChoice": {
+          "B": "Ring size conversion is not the mechanism; the assay depends on accessing the open-chain carbonyl.",
+          "C": "Glucose oxidase oxidizes glucose; it does not hydrolyze glycosidic bonds to liberate more glucose.",
+          "D": "The advantage is completeness of measurement via equilibrium shift, not exclusion of fructose.",
+          "E": "SGLT is an intestinal/renal transporter and plays no role in the glucometer chemistry."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "glucometer",
+        "glucose oxidase",
+        "equilibrium",
+        "reducing sugar"
+      ],
+      "topicId": "carbohydrates-and-carbohydrate-metabolism-overview-i",
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I"
+    },
+    {
+      "id": "bo18-011",
+      "stem": "A 40-year-old with chronic diarrhea and weight loss is evaluated for malabsorption. She is given an oral dose of a simple sugar that requires no digestive enzymes and is absorbed largely by passive diffusion across an intact mucosa without a dedicated transporter; blood and urine levels are then measured. Reduced absorption suggests mucosal damage. Which sugar is used in this test?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "D-xylose"
+        },
+        {
+          "label": "B",
+          "text": "Sucrose"
+        },
+        {
+          "label": "C",
+          "text": "Lactose"
+        },
+        {
+          "label": "D",
+          "text": "Fructose"
+        },
+        {
+          "label": "E",
+          "text": "Maltose"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The D-xylose test assesses intestinal mucosal integrity because D-xylose is absorbed by passive diffusion without needing enzymes or a transporter.",
+        "whyCorrect": "The brick explains the D-xylose test: D-xylose is a simple sugar that does not require digestive enzymes and is absorbed by passive diffusion across an intact mucosa, so measuring its blood and urine levels reflects mucosal integrity, with decreased absorption in mucosal damage.",
+        "whyWrongByChoice": {
+          "B": "Sucrose is a disaccharide requiring sucrase digestion, so it cannot test passive mucosal absorption directly.",
+          "C": "Lactose requires lactase and specific transport, and it tests for lactase deficiency, not general mucosal integrity by passive diffusion.",
+          "D": "Fructose requires the GLUT5 transporter for absorption, so it does not measure passive diffusion across the mucosa.",
+          "E": "Maltose is a disaccharide requiring maltase digestion and is not the passive-diffusion probe used clinically."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "D-xylose",
+        "malabsorption",
+        "absorption"
+      ],
+      "topicId": "carbohydrates-and-carbohydrate-metabolism-overview-i",
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I"
+    },
+    {
+      "id": "bo18-012",
+      "stem": "In a well-fed hepatocyte, glucose is abundant and glycolysis generates more acetyl-CoA than the TCA cycle can oxidize for immediate energy needs. Rather than being fully oxidized, this excess acetyl-CoA is diverted to store energy. Which of the following is an alternative fate of the excess acetyl-CoA?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Lipogenesis (fatty acid synthesis)"
+        },
+        {
+          "label": "B",
+          "text": "Glycogen synthesis"
+        },
+        {
+          "label": "C",
+          "text": "Pentose phosphate pathway"
+        },
+        {
+          "label": "D",
+          "text": "Reabsorption of glucose from the renal tubule"
+        },
+        {
+          "label": "E",
+          "text": "Direct conversion to ribose-5-phosphate"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Excess acetyl-CoA is channeled into lipogenesis, storing surplus glucose carbon as fat.",
+        "whyCorrect": "The brick teaches that abundant glucose in the liver can be used for the pentose phosphate pathway, glycogenesis, or fatty acid production, and that excess acetyl-CoA (not solely used as a TCA substrate) is stored as lipid via lipogenesis.",
+        "whyWrongByChoice": {
+          "B": "Glycogen is synthesized from glucose-6-phosphate, not from acetyl-CoA.",
+          "C": "The pentose phosphate pathway uses glucose-6-phosphate as substrate; acetyl-CoA does not enter it.",
+          "D": "Renal glucose reabsorption is an SGLT transport function, not a metabolic fate of acetyl-CoA.",
+          "E": "Ribose-5-phosphate is produced from glucose-6-phosphate in the pentose phosphate pathway, not from acetyl-CoA."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "glucose fates",
+        "acetyl-CoA",
+        "lipogenesis"
+      ],
+      "topicId": "carbohydrates-and-carbohydrate-metabolism-overview-i",
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I"
+    },
+    {
+      "id": "bo19-001",
+      "stem": "A 4-year-old boy is evaluated because his parents noticed he does not track objects well and has cloudiness of both eyes. Examination reveals bilateral cataracts. He is growing and developing normally, has no hepatomegaly, and has met his cognitive milestones. Urinalysis reveals reducing substances and elevated galactose. Which of the following enzymes is most likely deficient?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Galactose-1-phosphate uridyl transferase (GALT)"
+        },
+        {
+          "label": "B",
+          "text": "UDP-galactose epimerase (GALE)"
+        },
+        {
+          "label": "C",
+          "text": "Galactokinase"
+        },
+        {
+          "label": "D",
+          "text": "Aldose reductase"
+        },
+        {
+          "label": "E",
+          "text": "Lactase"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Isolated cataracts with elevated galactose and no systemic disease indicate galactokinase deficiency (type II galactosemia).",
+        "whyCorrect": "Galactokinase deficiency is a mild disorder in which galactose-1-phosphate is never formed, so patients lack hepatic and neurologic disease. Excess galactose is instead shunted to galactitol by aldose reductase; galactitol accumulates in the lens and causes cataracts, which are often the only manifestation.",
+        "whyWrongByChoice": {
+          "A": "GALT deficiency is classic (type I) galactosemia and causes severe hepatomegaly, jaundice, failure to thrive, and intellectual disability, not isolated cataracts in a well-developing child.",
+          "B": "GALE deficiency (type III) is rare, and its severity is generally similar to classic galactosemia, not a mild isolated-cataract picture.",
+          "D": "Aldose reductase is the enzyme that produces galactitol; it is not deficient here and its loss would prevent, not cause, cataracts.",
+          "E": "Lactase deficiency causes gastrointestinal symptoms such as diarrhea and bloating, not cataracts."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "galactosemia",
+        "galactokinase deficiency",
+        "cataracts"
+      ],
+      "topicId": "glycogen-lactose-intolerance-galactosemia",
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I: Glycogen, Lactose Intolerance, and Galactosemia"
+    },
+    {
+      "id": "bo19-002",
+      "stem": "A 6-day-old exclusively breastfed girl presents with poor feeding, vomiting, jaundice, and hepatomegaly. Laboratory studies show hypoglycemia and urinary reducing substances that are not glucose. She subsequently develops Escherichia coli sepsis. Which of the following enzymes is most likely deficient?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Galactose-1-phosphate uridyl transferase (GALT)"
+        },
+        {
+          "label": "B",
+          "text": "Galactokinase"
+        },
+        {
+          "label": "C",
+          "text": "Aldose reductase"
+        },
+        {
+          "label": "D",
+          "text": "Lactase"
+        },
+        {
+          "label": "E",
+          "text": "Aldolase B"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "A breastfed neonate with jaundice, hepatomegaly, hypoglycemia, and E. coli sepsis has classic (type I) galactosemia from GALT deficiency.",
+        "whyCorrect": "In classic galactosemia the deficient enzyme is GALT, so galactose-1-phosphate accumulates and is toxic, producing hepatomegaly, jaundice, failure to thrive, and hypoglycemia within days of milk (lactose) feeding. Excess galactose within neutrophils impairs their bactericidal activity, predisposing the neonate to E. coli sepsis.",
+        "whyWrongByChoice": {
+          "B": "Galactokinase deficiency is mild, causing isolated cataracts without liver disease or sepsis.",
+          "C": "Aldose reductase produces galactitol and is not a primary deficiency disorder; it does not explain hepatic failure and sepsis.",
+          "D": "Lactase deficiency causes osmotic diarrhea, not hepatomegaly, jaundice, and sepsis.",
+          "E": "Aldolase B deficiency (hereditary fructose intolerance) is triggered by fructose or sucrose on weaning to fruits, not by lactose in breast milk."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "classic galactosemia",
+        "GALT",
+        "neonatal sepsis"
+      ],
+      "topicId": "glycogen-lactose-intolerance-galactosemia",
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I: Glycogen, Lactose Intolerance, and Galactosemia"
+    },
+    {
+      "id": "bo19-003",
+      "stem": "Both galactokinase deficiency and classic galactosemia can cause cataracts even though galactose-1-phosphate accumulates in only one of them. Which of the following is the direct biochemical cause of the lens opacity shared by both disorders?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Deposition of galactose-1-phosphate within lens fibers"
+        },
+        {
+          "label": "B",
+          "text": "Glycation of crystallin proteins by free galactose"
+        },
+        {
+          "label": "C",
+          "text": "Accumulation of UDP-galactose"
+        },
+        {
+          "label": "D",
+          "text": "Conversion of excess galactose to galactitol by aldose reductase, causing osmotic and oxidative stress"
+        },
+        {
+          "label": "E",
+          "text": "Primary deficiency of glutathione peroxidase in the lens"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Cataracts in galactose disorders result from galactitol produced by aldose reductase, which causes osmotic and oxidative stress in the lens.",
+        "whyCorrect": "Excess galactose is reduced to galactitol by aldose reductase in the lens. Galactitol cannot be further metabolized or exported, so it accumulates and draws in water (osmotic stress); its production also consumes NADPH, lowering reduced glutathione and adding oxidative stress. Together these denature and aggregate lens proteins, producing opacity.",
+        "whyWrongByChoice": {
+          "A": "Galactose-1-phosphate does not accumulate in galactokinase deficiency, yet cataracts still occur, so the shared cause must be galactitol, not galactose-1-phosphate.",
+          "B": "Glycation of crystallins is not the mechanism described in the source.",
+          "C": "UDP-galactose accumulation relates to GALE and is not the lens cataract mechanism.",
+          "E": "The problem is reduced NADPH supply for glutathione, not a primary glutathione peroxidase deficiency."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "galactitol",
+        "aldose reductase",
+        "cataracts"
+      ],
+      "topicId": "glycogen-lactose-intolerance-galactosemia",
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I: Glycogen, Lactose Intolerance, and Galactosemia"
+    },
+    {
+      "id": "bo19-004",
+      "stem": "Aldose reductase converts galactose to galactitol in patients with galactosemia but is essentially inactive under normal physiologic conditions. Which of the following properties best explains why this enzyme becomes active only when galactose is in excess?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It has a very low Km (high affinity) for galactose"
+        },
+        {
+          "label": "B",
+          "text": "It has a very high Km (low affinity) for galactose"
+        },
+        {
+          "label": "C",
+          "text": "It requires ATP that is depleted at normal galactose levels"
+        },
+        {
+          "label": "D",
+          "text": "It is competitively inhibited by NADPH"
+        },
+        {
+          "label": "E",
+          "text": "It is expressed only during the fasting state"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Aldose reductase has a very high Km, so it only produces galactitol when galactose accumulates to high levels.",
+        "whyCorrect": "A very high Km means low substrate affinity, so at normal galactose concentrations the enzyme is nearly inactive. Only when galactose accumulates (as in galactosemia) does the substrate concentration approach the Km, allowing the enzyme to generate galactitol while consuming NADPH.",
+        "whyWrongByChoice": {
+          "A": "A low Km (high affinity) enzyme such as galactokinase works efficiently at low substrate concentrations, which is the opposite of aldose reductase.",
+          "C": "Aldose reductase uses NADPH, not ATP.",
+          "D": "NADPH is the cofactor consumed by the reaction, not an inhibitor.",
+          "E": "Its activity is driven by substrate concentration, not by the fasting state."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "aldose reductase",
+        "enzyme kinetics",
+        "Km"
+      ],
+      "topicId": "glycogen-lactose-intolerance-galactosemia",
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I: Glycogen, Lactose Intolerance, and Galactosemia"
+    },
+    {
+      "id": "bo19-005",
+      "stem": "Glycogen consists of glucose residues joined into linear chains with periodic branches. Which of the following linkages is found specifically at the branch points?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Alpha-1,4 glycosidic bond"
+        },
+        {
+          "label": "B",
+          "text": "Beta-1,4 glycosidic bond"
+        },
+        {
+          "label": "C",
+          "text": "Beta-1,6 glycosidic bond"
+        },
+        {
+          "label": "D",
+          "text": "Alpha-1,1 glycosidic bond"
+        },
+        {
+          "label": "E",
+          "text": "Alpha-1,6 glycosidic bond"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Glycogen branch points are formed by alpha-1,6 glycosidic bonds.",
+        "whyCorrect": "The linear core of glycogen is linked by alpha-1,4 glycosidic bonds, while branch points, which occur every 8 to 12 residues, are created by alpha-1,6 glycosidic bonds. This branching produces glycogen's highly branched architecture.",
+        "whyWrongByChoice": {
+          "A": "Alpha-1,4 bonds form the linear chains, not the branch points.",
+          "B": "Beta-1,4 linkages are found in cellulose and lactose, not in glycogen branches.",
+          "C": "Beta-1,6 is not the glycogen branch linkage.",
+          "D": "Alpha-1,1 links glucose units in trehalose, not in glycogen."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "glycogen",
+        "glycosidic bonds",
+        "structure"
+      ],
+      "topicId": "glycogen-lactose-intolerance-galactosemia",
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I: Glycogen, Lactose Intolerance, and Galactosemia"
+    },
+    {
+      "id": "bo19-006",
+      "stem": "The highly branched structure of glycogen is advantageous in exercising muscle or in the fasting liver. Which of the following features of branching most directly permits rapid mobilization of glucose?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It increases the number of reducing ends attached to glycogenin"
+        },
+        {
+          "label": "B",
+          "text": "It strengthens alpha-1,6 bonds against hydrolysis"
+        },
+        {
+          "label": "C",
+          "text": "It creates many non-reducing ends where degradative enzymes act simultaneously"
+        },
+        {
+          "label": "D",
+          "text": "It allows glucose to diffuse out of the polymer without enzymes"
+        },
+        {
+          "label": "E",
+          "text": "It reduces the total number of glucose molecules that can be stored"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Branching multiplies non-reducing ends, allowing many enzymes to release glucose at once.",
+        "whyCorrect": "Each branch adds a non-reducing end, and degradative enzymes act on non-reducing ends. Numerous branches therefore let many enzyme molecules liberate glucose simultaneously, greatly increasing the rate of release. A linear polymer would offer only a single such site.",
+        "whyWrongByChoice": {
+          "A": "There is only one reducing end (attached to glycogenin); branching multiplies non-reducing ends, not reducing ends.",
+          "B": "Branching does not make bonds resistant to hydrolysis; the benefit is faster degradation, not stability.",
+          "D": "Glucose release requires enzymatic cleavage of the polymer, not free diffusion.",
+          "E": "Branching organizes the same amount of glucose for faster access and does not reduce how much is stored."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "glycogen",
+        "non-reducing ends",
+        "glucose mobilization"
+      ],
+      "topicId": "glycogen-lactose-intolerance-galactosemia",
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I: Glycogen, Lactose Intolerance, and Galactosemia"
+    },
+    {
+      "id": "bo19-007",
+      "stem": "Cells store glucose as glycogen rather than as free glucose molecules. Storing the same total quantity of glucose as free monosaccharides instead of polymerized glycogen would most likely cause which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Massive osmotic water influx and cell swelling"
+        },
+        {
+          "label": "B",
+          "text": "Intracellular acidosis"
+        },
+        {
+          "label": "C",
+          "text": "Depletion of cellular ATP"
+        },
+        {
+          "label": "D",
+          "text": "An increase in blood glucose osmolarity only"
+        },
+        {
+          "label": "E",
+          "text": "Precipitation of glucose crystals within the cytoplasm"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Polymerizing glucose into glycogen minimizes osmotically active particles, preventing water influx.",
+        "whyCorrect": "Combining many glucose units into one large glycogen molecule greatly reduces the number of osmotically active particles inside the cell. The same amount of glucose as free monosaccharides would raise intracellular osmolarity and draw water in to balance osmolality, swelling and distorting the tissue and compromising function.",
+        "whyWrongByChoice": {
+          "B": "The stress described is osmotic, not a change in pH or acidosis.",
+          "C": "Storing free glucose does not by itself deplete ATP; the concern is osmosis.",
+          "D": "The osmotic stress is intracellular, not limited to the blood.",
+          "E": "Glucose remains in solution and does not precipitate as crystals."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "glycogen",
+        "osmolarity",
+        "storage"
+      ],
+      "topicId": "glycogen-lactose-intolerance-galactosemia",
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I: Glycogen, Lactose Intolerance, and Galactosemia"
+    },
+    {
+      "id": "bo19-008",
+      "stem": "A 10-month-old infant has hepatomegaly, failure to thrive, and progressive liver cirrhosis. A liver biopsy shows abnormally structured glycogen with a normal core but absent branches, along with chronic hepatic inflammation. The condition is usually fatal within about 2 years. Which of the following enzymes is most likely deficient?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Glycogen debranching enzyme"
+        },
+        {
+          "label": "B",
+          "text": "Glucose-6-phosphatase"
+        },
+        {
+          "label": "C",
+          "text": "Galactokinase"
+        },
+        {
+          "label": "D",
+          "text": "Glycogen branching enzyme"
+        },
+        {
+          "label": "E",
+          "text": "Lysosomal acid alpha-glucosidase"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Unbranched glycogen with hepatic inflammation and early fatal cirrhosis is Andersen disease (type IV GSD), a branching enzyme deficiency.",
+        "whyCorrect": "In Andersen disease the branching enzyme is deficient, so the glycogen core forms but branches fail. The abnormally structured glycogen is perceived by the immune system as foreign, causing chronic hepatic inflammation, cirrhosis, and death typically within about 2 years.",
+        "whyWrongByChoice": {
+          "A": "Debranching enzyme deficiency (Cori disease) produces glycogen with short outer branches rather than absent branches, and it is generally milder.",
+          "B": "Glucose-6-phosphatase deficiency (von Gierke disease) causes severe fasting hypoglycemia and hepatomegaly, not unbranched glycogen with cirrhosis.",
+          "C": "Galactokinase deficiency causes cataracts, not this hepatic picture.",
+          "E": "Acid alpha-glucosidase deficiency (Pompe disease) causes lysosomal glycogen accumulation with cardiomegaly and hypotonia."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "Andersen disease",
+        "glycogen storage disease",
+        "branching enzyme"
+      ],
+      "topicId": "glycogen-lactose-intolerance-galactosemia",
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I: Glycogen, Lactose Intolerance, and Galactosemia"
+    },
+    {
+      "id": "bo19-009",
+      "stem": "An adult with lactase deficiency develops bloating, flatulence, and watery diarrhea after drinking milk. Which of the following mechanisms best explains the watery diarrhea?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Direct toxicity of lactose to enterocytes"
+        },
+        {
+          "label": "B",
+          "text": "Autoimmune destruction of the intestinal villi"
+        },
+        {
+          "label": "C",
+          "text": "Increased SGLT-mediated glucose absorption"
+        },
+        {
+          "label": "D",
+          "text": "Pancreatic enzyme insufficiency"
+        },
+        {
+          "label": "E",
+          "text": "Osmotically active lactic acid from bacterial fermentation drawing water into the lumen"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Undigested lactose is fermented by gut bacteria to osmotically active lactic acid, which draws water into the lumen and triggers diarrhea.",
+        "whyCorrect": "Because lactase is deficient, lactose remains in the gut lumen where bacteria ferment it into gas (CO2, methane) plus lactic acid and other byproducts. The gas causes bloating and flatulence, while the osmotically active lactic acid pulls water into the lumen, distending the intestinal wall and triggering powerful peristalsis that produces watery diarrhea.",
+        "whyWrongByChoice": {
+          "A": "Lactose is not directly toxic to enterocytes; the problem is luminal fermentation and osmosis.",
+          "B": "Lactose intolerance is not an autoimmune villous destruction, which characterizes celiac disease.",
+          "C": "Absorption is decreased, not increased; uncleaved lactose does not liberate glucose and galactose for SGLT uptake.",
+          "D": "The pancreas and its enzymes are normal in lactose intolerance."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "lactose intolerance",
+        "osmotic diarrhea",
+        "bacterial fermentation"
+      ],
+      "topicId": "glycogen-lactose-intolerance-galactosemia",
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I: Glycogen, Lactose Intolerance, and Galactosemia"
+    },
+    {
+      "id": "bo19-010",
+      "stem": "A newborn develops severe watery diarrhea, weight loss, and dehydration within days of starting breast milk. The symptoms resolve completely when a lactose-free formula is substituted. The disorder is inherited in an autosomal recessive pattern. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Adult-type hypolactasia"
+        },
+        {
+          "label": "B",
+          "text": "Congenital lactase deficiency"
+        },
+        {
+          "label": "C",
+          "text": "Classic galactosemia"
+        },
+        {
+          "label": "D",
+          "text": "Andersen disease"
+        },
+        {
+          "label": "E",
+          "text": "Hereditary fructose intolerance"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "A severe autosomal recessive newborn diarrhea that resolves with lactose removal is congenital lactase deficiency.",
+        "whyCorrect": "Congenital lactase deficiency is a severe autosomal recessive disorder with markedly reduced or absent lactase from birth. It presents as soon as the newborn is fed breast milk or lactose-containing formula, with watery diarrhea, weight loss, and dehydration, and removing lactose from the diet restores normal growth and development.",
+        "whyWrongByChoice": {
+          "A": "Adult-type hypolactasia develops later in childhood or adulthood as lactase levels decline, not in a newborn.",
+          "C": "Classic galactosemia causes systemic disease such as jaundice, hepatomegaly, and hypoglycemia rather than isolated osmotic diarrhea that resolves cleanly.",
+          "D": "Andersen disease causes progressive liver failure and cirrhosis, not diarrhea that resolves with a formula change.",
+          "E": "Hereditary fructose intolerance presents when fructose or sucrose is introduced on weaning to fruits, not with breast milk."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "congenital lactase deficiency",
+        "newborn",
+        "autosomal recessive"
+      ],
+      "topicId": "glycogen-lactose-intolerance-galactosemia",
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I: Glycogen, Lactose Intolerance, and Galactosemia"
+    },
+    {
+      "id": "bo19-011",
+      "stem": "A gastroenterologist wants to confirm carbohydrate malabsorption noninvasively. The patient ingests a specific test sugar, and exhaled breath is analyzed over time. Detection of which of the following gases indicates bacterial fermentation of unabsorbed sugar?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Oxygen and nitrogen"
+        },
+        {
+          "label": "B",
+          "text": "Carbon monoxide"
+        },
+        {
+          "label": "C",
+          "text": "Hydrogen, methane, and hydrogen sulfide"
+        },
+        {
+          "label": "D",
+          "text": "Nitric oxide"
+        },
+        {
+          "label": "E",
+          "text": "Ammonia"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The hydrogen breath test detects hydrogen, methane, or hydrogen sulfide produced by bacterial fermentation of unabsorbed sugar.",
+        "whyCorrect": "In the hydrogen breath test, a patient consumes a specific carbohydrate and breath samples are analyzed for hydrogen, methane, or hydrogen sulfide. Elevated gas content indicates that undigested or unabsorbed sugars are being fermented by gut bacteria, supporting diagnoses such as lactose intolerance, SIBO, or fructose malabsorption.",
+        "whyWrongByChoice": {
+          "A": "Oxygen and nitrogen are normal components of air and are not fermentation markers.",
+          "B": "Carbon monoxide is not the bacterial fermentation product measured in this test.",
+          "D": "Nitric oxide is not the gas assayed by the hydrogen breath test.",
+          "E": "Ammonia is not the gas measured in this diagnostic test."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "hydrogen breath test",
+        "malabsorption",
+        "diagnosis"
+      ],
+      "topicId": "glycogen-lactose-intolerance-galactosemia",
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I: Glycogen, Lactose Intolerance, and Galactosemia"
+    },
+    {
+      "id": "bo19-012",
+      "stem": "In classic galactosemia, affected infants develop fasting hypoglycemia. Accumulated galactose-1-phosphate contributes to this hypoglycemia by which of the following pairs of mechanisms?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Activating insulin secretion and causing glucagon resistance"
+        },
+        {
+          "label": "B",
+          "text": "Stimulating aldose reductase and glycogen synthase"
+        },
+        {
+          "label": "C",
+          "text": "Inhibiting hexokinase and activating glucose-6-phosphatase"
+        },
+        {
+          "label": "D",
+          "text": "Depleting ATP through phosphate trapping and inhibiting glycogen phosphorylase"
+        },
+        {
+          "label": "E",
+          "text": "Enhancing gluconeogenesis and glycogenolysis"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Galactose-1-phosphate traps phosphate to deplete ATP and inhibits glycogen phosphorylase, impairing glucose output and causing hypoglycemia.",
+        "whyCorrect": "Because the first step (galactokinase) is intact in GALT deficiency, galactose-1-phosphate accumulates, trapping phosphate and depleting ATP, which impairs ATP-dependent hepatic gluconeogenesis. High galactose-1-phosphate also inhibits glycogen phosphorylase, blocking the first step of glycogen degradation. Both effects reduce hepatic glucose output, producing fasting hypoglycemia.",
+        "whyWrongByChoice": {
+          "A": "The mechanism is metabolic enzyme inhibition and ATP depletion, not altered insulin or glucagon signaling.",
+          "B": "Aldose reductase produces galactitol (cataracts) and does not raise blood glucose, and stimulating glycogen synthase would not explain reduced glucose output.",
+          "C": "Hexokinase inhibition and glucose-6-phosphatase activation are not the mechanisms described.",
+          "E": "Gluconeogenesis and glycogenolysis are impaired, not enhanced, in classic galactosemia."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "classic galactosemia",
+        "phosphate trapping",
+        "hypoglycemia"
+      ],
+      "topicId": "glycogen-lactose-intolerance-galactosemia",
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I: Glycogen, Lactose Intolerance, and Galactosemia"
+    },
+    {
+      "id": "bo20-001",
+      "stem": "A skeletal muscle cell accumulates high levels of glucose 6-phosphate during rest. Which enzyme's activity is most directly reduced as a consequence of this accumulation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hexokinase"
+        },
+        {
+          "label": "B",
+          "text": "Glucokinase"
+        },
+        {
+          "label": "C",
+          "text": "Phosphofructokinase-1"
+        },
+        {
+          "label": "D",
+          "text": "Pyruvate kinase"
+        },
+        {
+          "label": "E",
+          "text": "Glucose 6-phosphatase"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Hexokinase is feedback-inhibited by its own product, glucose 6-phosphate.",
+        "whyCorrect": "Hexokinase catalyzes step 1 of glycolysis and has a low Km and low Vmax. High glucose 6-phosphate signals that a cell's glucose/energy needs are met, so the product allosterically inhibits hexokinase to prevent trapping additional glucose that could be prioritized for other tissues.",
+        "whyWrongByChoice": {
+          "B": "Glucokinase, the liver isozyme, is NOT inhibited by glucose 6-phosphate, allowing continued rapid glucose uptake when glucose is abundant.",
+          "C": "PFK-1 is inhibited by ATP and citrate, not directly by glucose 6-phosphate.",
+          "D": "Pyruvate kinase (step 10) is inhibited by ATP, alanine, and glucagon signaling, not by glucose 6-phosphate.",
+          "E": "Glucose 6-phosphatase is a gluconeogenic enzyme; its activity is not governed by product inhibition from glucose 6-phosphate in this manner."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "glycolysis",
+        "hexokinase",
+        "control points"
+      ],
+      "topicId": "carbohydrate-metabolism-overview-ii",
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II"
+    },
+    {
+      "id": "bo20-002",
+      "stem": "A well-fed hepatocyte is exposed to high insulin during glucose abundance. Which molecule most directly increases glycolytic flux at phosphofructokinase-1?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "ATP"
+        },
+        {
+          "label": "B",
+          "text": "Citrate"
+        },
+        {
+          "label": "C",
+          "text": "Fructose 2,6-bisphosphate"
+        },
+        {
+          "label": "D",
+          "text": "Glucose 6-phosphate"
+        },
+        {
+          "label": "E",
+          "text": "Alanine"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Fructose 2,6-bisphosphate is the potent allosteric activator of PFK-1 in the fed liver.",
+        "whyCorrect": "In the liver, insulin promotes the kinase activity of the bifunctional enzyme PFK-2, which produces fructose 2,6-bisphosphate. This metabolite is a positive allosteric activator of PFK-1, speeding glycolysis so glucose can be used for glycogen replenishment and fatty acid synthesis.",
+        "whyWrongByChoice": {
+          "A": "ATP is a high-energy signal that inhibits PFK-1, slowing glycolysis when energy is abundant.",
+          "B": "Citrate, an early TCA intermediate, inhibits PFK-1 as a signal of sufficient biosynthetic and energy substrate.",
+          "D": "Glucose 6-phosphate inhibits hexokinase (step 1) and is not the direct activator of PFK-1.",
+          "E": "Alanine is an inhibitor of pyruvate kinase and a gluconeogenic substrate, not a PFK-1 activator."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "PFK-1",
+        "PFK-2",
+        "insulin",
+        "glycolysis"
+      ],
+      "topicId": "carbohydrate-metabolism-overview-ii",
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II"
+    },
+    {
+      "id": "bo20-003",
+      "stem": "A fasting patient's hepatocytes are exposed to high glucagon, which raises intracellular cAMP and activates protein kinase A (PKA). Which of the following is most likely occurring in these liver cells?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Insulin activates the kinase domain of PFK-2, raising fructose 2,6-bisphosphate"
+        },
+        {
+          "label": "B",
+          "text": "PKA phosphorylates PFK-2, lowering fructose 2,6-bisphosphate and slowing glycolysis"
+        },
+        {
+          "label": "C",
+          "text": "PFK-1 is allosterically activated by fructose 2,6-bisphosphate to accelerate glycolysis"
+        },
+        {
+          "label": "D",
+          "text": "Pyruvate kinase is dephosphorylated and thereby activated"
+        },
+        {
+          "label": "E",
+          "text": "Fructose 2,6-bisphosphate accumulates and promotes hepatic glycolysis"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Glucagon (via cAMP/PKA) phosphorylates PFK-2, activating its phosphatase function and lowering fructose 2,6-bisphosphate to slow hepatic glycolysis.",
+        "whyCorrect": "During fasting, glucagon binds hepatocytes, activating adenylate cyclase, raising cAMP, and activating PKA. PKA phosphorylates PFK-2, which suppresses its kinase activity and activates its FBPase-2 (phosphatase) activity. This decreases fructose 2,6-bisphosphate, reducing PFK-1 activation so the liver exports glucose rather than catabolizing it.",
+        "whyWrongByChoice": {
+          "A": "Insulin (not glucagon) drives PFK-2 kinase activity; this state is dominated by glucagon.",
+          "C": "Fructose 2,6-bisphosphate levels fall in this state, so PFK-1 is not being activated by it.",
+          "D": "Glucagon/PKA phosphorylates and inhibits pyruvate kinase; it does not dephosphorylate/activate it.",
+          "E": "Fructose 2,6-bisphosphate is cleaved and decreases during fasting, slowing rather than promoting glycolysis."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "glucagon",
+        "PFK-2",
+        "cAMP",
+        "hepatic glycolysis"
+      ],
+      "topicId": "carbohydrate-metabolism-overview-ii",
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II"
+    },
+    {
+      "id": "bo20-004",
+      "stem": "During prolonged fasting, a hepatocyte converts pyruvate to oxaloacetate to sustain gluconeogenesis. Which enzyme catalyzes this step, requiring biotin and activation by acetyl-CoA?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "PEP carboxykinase (PEPCK)"
+        },
+        {
+          "label": "B",
+          "text": "Pyruvate carboxylase"
+        },
+        {
+          "label": "C",
+          "text": "Fructose 1,6-bisphosphatase"
+        },
+        {
+          "label": "D",
+          "text": "Glucose 6-phosphatase"
+        },
+        {
+          "label": "E",
+          "text": "Pyruvate kinase"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Pyruvate carboxylase adds CO2 to pyruvate to form oxaloacetate, requiring biotin (vitamin B7) and activation by acetyl-CoA.",
+        "whyCorrect": "Pyruvate carboxylase is a gluconeogenic bypass enzyme that carboxylates pyruvate to oxaloacetate. It requires the cofactor biotin (vitamin B7) and is allosterically activated by acetyl-CoA, which accumulates during fasting from fatty acid oxidation.",
+        "whyWrongByChoice": {
+          "A": "PEPCK converts oxaloacetate to phosphoenolpyruvate; it acts after pyruvate carboxylase and does not use biotin.",
+          "C": "Fructose 1,6-bisphosphatase cleaves a phosphate off fructose 1,6-bisphosphate, bypassing PFK-1, not the pyruvate step.",
+          "D": "Glucose 6-phosphatase removes phosphate from glucose 6-phosphate for export; it does not act on pyruvate.",
+          "E": "Pyruvate kinase runs the forward glycolytic step (PEP to pyruvate) and is not gluconeogenic."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "gluconeogenesis",
+        "pyruvate carboxylase",
+        "biotin"
+      ],
+      "topicId": "carbohydrate-metabolism-overview-ii",
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II"
+    },
+    {
+      "id": "bo20-005",
+      "stem": "A hepatocyte performs active gluconeogenesis and glycogenolysis but is unable to release free glucose into the bloodstream via GLUT2. A deficiency of which enzyme best explains this finding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Glucokinase"
+        },
+        {
+          "label": "B",
+          "text": "PEP carboxykinase (PEPCK)"
+        },
+        {
+          "label": "C",
+          "text": "Pyruvate carboxylase"
+        },
+        {
+          "label": "D",
+          "text": "Glucose 6-phosphatase"
+        },
+        {
+          "label": "E",
+          "text": "Fructose 1,6-bisphosphatase"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Glucose 6-phosphatase removes the phosphate from glucose 6-phosphate so that glucose can be exported via GLUT2.",
+        "whyCorrect": "There is no transporter for phosphorylated glucose. Glucose 6-phosphatase produces free glucose from glucose 6-phosphate, enabling export of glucose derived from both gluconeogenesis and glycogenolysis. Without it, the liver cannot release glucose to the circulation.",
+        "whyWrongByChoice": {
+          "A": "Glucokinase phosphorylates glucose (traps it in the cell); its loss would not block export of already-formed glucose.",
+          "B": "PEPCK acts upstream converting oxaloacetate to PEP and does not dephosphorylate glucose 6-phosphate.",
+          "C": "Pyruvate carboxylase forms oxaloacetate from pyruvate, an early gluconeogenic step, not the final export step.",
+          "E": "Fructose 1,6-bisphosphatase acts at the fructose bisphosphate step, not the terminal glucose 6-phosphate step."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "gluconeogenesis",
+        "glucose 6-phosphatase",
+        "GLUT2"
+      ],
+      "topicId": "carbohydrate-metabolism-overview-ii",
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II"
+    },
+    {
+      "id": "bo20-006",
+      "stem": "An investigational drug inhibits the malate-aspartate shuttle in hepatocytes. Which of the following is most likely to increase as a direct result?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Mitochondrial ATP yield from glucose"
+        },
+        {
+          "label": "B",
+          "text": "Lactate production"
+        },
+        {
+          "label": "C",
+          "text": "Gluconeogenic flux"
+        },
+        {
+          "label": "D",
+          "text": "Acetyl-CoA entry into the TCA cycle"
+        },
+        {
+          "label": "E",
+          "text": "Oxidative phosphorylation rate"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Blocking NADH shuttles causes cytosolic NADH to accumulate, driving pyruvate toward lactate.",
+        "whyCorrect": "There is no mitochondrial NAD+/NADH transporter, so cytosolic NADH from glycolysis reaches the ETC only through shuttles. Inhibiting the malate-aspartate shuttle leaves cytosolic NADH elevated, shifting the lactate dehydrogenase equilibrium to convert pyruvate to lactate and regenerate NAD+.",
+        "whyWrongByChoice": {
+          "A": "ATP yield would decrease because glycolytic reducing equivalents no longer reach the ETC.",
+          "C": "Gluconeogenesis would fall, since accumulated NADH diverts pyruvate to lactate rather than to glucose synthesis.",
+          "D": "Acetyl-CoA entry into the TCA is not increased; impaired NADH transfer reduces overall oxidative flux.",
+          "E": "Oxidative phosphorylation would decrease because fewer reducing equivalents reach the electron transport chain."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "malate-aspartate shuttle",
+        "NADH",
+        "lactate"
+      ],
+      "topicId": "carbohydrate-metabolism-overview-ii",
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II"
+    },
+    {
+      "id": "bo20-007",
+      "stem": "Mature red blood cells lack mitochondria and rely entirely on glycolysis for ATP. Which fate of pyruvate allows these cells to regenerate NAD+ and sustain glycolysis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Reduction to lactate by lactate dehydrogenase"
+        },
+        {
+          "label": "B",
+          "text": "Conversion to acetyl-CoA by pyruvate dehydrogenase"
+        },
+        {
+          "label": "C",
+          "text": "Transamination to alanine by ALT"
+        },
+        {
+          "label": "D",
+          "text": "Carboxylation to oxaloacetate by pyruvate carboxylase"
+        },
+        {
+          "label": "E",
+          "text": "Conversion to glucose via gluconeogenesis"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "In RBCs, pyruvate is reduced to lactate by LDH, regenerating NAD+ needed to keep glycolysis running.",
+        "whyCorrect": "Because RBCs cannot oxidize NADH in mitochondria, they must regenerate cytosolic NAD+ another way. Lactate dehydrogenase reduces pyruvate to lactate while oxidizing NADH to NAD+, allowing glycolysis (the RBC's only ATP source) to continue.",
+        "whyWrongByChoice": {
+          "B": "PDH requires mitochondria, which mature RBCs lack, so acetyl-CoA formation cannot occur.",
+          "C": "Alanine formation via ALT does not regenerate NAD+ and is not the RBC's mechanism for sustaining glycolysis.",
+          "D": "Pyruvate carboxylase is mitochondrial and gluconeogenic; RBCs do not perform this reaction.",
+          "E": "RBCs do not perform gluconeogenesis; that is a hepatic (and renal) process."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "pyruvate fates",
+        "RBC",
+        "lactate dehydrogenase"
+      ],
+      "topicId": "carbohydrate-metabolism-overview-ii",
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II"
+    },
+    {
+      "id": "bo20-008",
+      "stem": "The pyruvate dehydrogenase complex oxidatively decarboxylates pyruvate, generating NADH and CO2. Which of its required coenzymes is derived from niacin (vitamin B3)?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Thiamin pyrophosphate (TPP)"
+        },
+        {
+          "label": "B",
+          "text": "Flavin adenine dinucleotide (FAD)"
+        },
+        {
+          "label": "C",
+          "text": "Nicotinamide adenine dinucleotide (NAD+)"
+        },
+        {
+          "label": "D",
+          "text": "Coenzyme A (CoA)"
+        },
+        {
+          "label": "E",
+          "text": "Lipoate (lipoamide)"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "NAD+ is the PDH coenzyme derived from niacin (vitamin B3).",
+        "whyCorrect": "The PDH complex requires five coenzymes. NAD+, derived from niacin (vitamin B3), is the terminal electron acceptor that is reduced to NADH during the oxidative decarboxylation of pyruvate to acetyl-CoA.",
+        "whyWrongByChoice": {
+          "A": "Thiamin pyrophosphate (TPP) is derived from thiamin (vitamin B1), not niacin.",
+          "B": "FAD is derived from riboflavin (vitamin B2).",
+          "D": "Coenzyme A is derived from pantothenate (vitamin B5).",
+          "E": "Lipoate is derived from octanoic acid, a fatty acid, not from niacin."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "PDH complex",
+        "coenzymes",
+        "niacin",
+        "NAD+"
+      ],
+      "topicId": "carbohydrate-metabolism-overview-ii",
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II"
+    },
+    {
+      "id": "bo20-009",
+      "stem": "A 35-year-old man presents with two months of fatigue, difficulty walking, and new peripheral pain. Five months ago he began eating mostly white rice after losing his job. Exam shows pronounced calf muscle weakness; labs reveal a high anion gap metabolic acidosis with elevated lactate. Which enzyme is most likely adversely affected?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Glucose 6-phosphate dehydrogenase"
+        },
+        {
+          "label": "B",
+          "text": "Phosphofructokinase-1"
+        },
+        {
+          "label": "C",
+          "text": "Phosphofructokinase-2"
+        },
+        {
+          "label": "D",
+          "text": "Pyruvate kinase"
+        },
+        {
+          "label": "E",
+          "text": "Pyruvate dehydrogenase complex"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "A white-rice diet causes thiamin deficiency, which compromises the thiamin (TPP)-dependent pyruvate dehydrogenase complex.",
+        "whyCorrect": "The PDH complex requires thiamin (as TPP), which becomes deficient with a polished-rice diet. Impaired PDH activity causes pyruvate to accumulate and shift toward lactate (lactic/metabolic acidosis) and greatly limits ATP production, accounting for the weakness. This is the beriberi picture.",
+        "whyWrongByChoice": {
+          "A": "Glucose 6-phosphate dehydrogenase requires niacin-derived NADP+, not thiamin, and its deficiency causes hemolysis, not this presentation.",
+          "B": "PFK-1 is a glycolytic control point enzyme that does not require a vitamin-derived coenzyme.",
+          "C": "PFK-2 regulates fructose 2,6-bisphosphate and does not require a thiamin coenzyme.",
+          "D": "Pyruvate kinase is a glycolytic enzyme not dependent on a vitamin-derived coenzyme."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "thiamin deficiency",
+        "beriberi",
+        "PDH complex",
+        "vignette"
+      ],
+      "topicId": "carbohydrate-metabolism-overview-ii",
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II"
+    },
+    {
+      "id": "bo20-010",
+      "stem": "A patient with severe thiamin deficiency presents with lower extremity edema and dilated cardiomyopathy. Which classification best describes this presentation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Dry beriberi"
+        },
+        {
+          "label": "B",
+          "text": "Wet beriberi"
+        },
+        {
+          "label": "C",
+          "text": "Wernicke encephalopathy"
+        },
+        {
+          "label": "D",
+          "text": "Korsakoff dementia"
+        },
+        {
+          "label": "E",
+          "text": "Pellagra"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Wet beriberi is the cardiovascular form of thiamin deficiency, with edema and dilated cardiomyopathy.",
+        "whyCorrect": "Beriberi has two classifications by presentation: wet beriberi is cardiovascular in nature, presenting with edema due to dilated cardiomyopathy, whereas dry beriberi is neuromuscular. This patient's edema and dilated cardiomyopathy define the wet form.",
+        "whyWrongByChoice": {
+          "A": "Dry beriberi is neuromuscular, presenting with muscle weakness and peripheral nerve pain (typically in the legs), not cardiac edema.",
+          "C": "Wernicke encephalopathy presents with ataxia, confusion, and ophthalmoplegia/nystagmus, not dilated cardiomyopathy.",
+          "D": "Korsakoff dementia is a chronic amnestic syndrome with confabulation, not a cardiovascular presentation.",
+          "E": "Pellagra results from niacin (B3) deficiency, causing dermatitis, diarrhea, and dementia."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "thiamin deficiency",
+        "beriberi",
+        "cardiomyopathy"
+      ],
+      "topicId": "carbohydrate-metabolism-overview-ii",
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II"
+    },
+    {
+      "id": "bo20-011",
+      "stem": "A disoriented patient with a history of chronic alcohol abuse is hypoglycemic and acidotic. The attending insists on giving thiamin before administering IV dextrose. What is the best rationale for giving thiamin first?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Pyruvate dehydrogenase requires thiamin, so glucose cannot be properly metabolized without it, worsening lactic acidosis and neurologic dysfunction"
+        },
+        {
+          "label": "B",
+          "text": "Dextrose directly inhibits transketolase in the pentose phosphate pathway"
+        },
+        {
+          "label": "C",
+          "text": "Glucose administration acutely raises blood ammonia levels"
+        },
+        {
+          "label": "D",
+          "text": "Thiamin is required to activate glucokinase before glucose can be phosphorylated"
+        },
+        {
+          "label": "E",
+          "text": "Dextrose precipitates hemolysis in thiamin-deficient patients"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "In thiamin deficiency, PDH cannot fully oxidize administered glucose, so giving dextrose before thiamin can be harmful.",
+        "whyCorrect": "PDH requires thiamin (TPP). If a chronically malnourished alcoholic is thiamin-deficient, administered glucose cannot be properly oxidized through PDH, and the glucose load can precipitate or worsen thiamin-dependent enzyme failure, driving lactic acidosis and neurologic decline (e.g., Wernicke encephalopathy). A thiamin bolus should ensure PDH is functional before glucose is given.",
+        "whyWrongByChoice": {
+          "B": "Dextrose does not directly inhibit transketolase; the problem is a lack of thiamin cofactor, not glucose-mediated inhibition.",
+          "C": "The danger relates to impaired glucose oxidation, not an acute rise in ammonia.",
+          "D": "Glucokinase does not require thiamin; the thiamin-dependent enzyme in glucose oxidation is PDH.",
+          "E": "Dextrose does not cause hemolysis in thiamin deficiency; the risk is metabolic and neurologic."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "thiamin",
+        "alcohol",
+        "PDH",
+        "clinical reasoning"
+      ],
+      "topicId": "carbohydrate-metabolism-overview-ii",
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II"
+    },
+    {
+      "id": "bo20-012",
+      "stem": "A patient has chronic hemolytic anemia, and a peripheral smear shows echinocytes (burr cells) with evenly distributed spiky surfaces. Deficiency of which glycolytic enzyme in red blood cells best explains these findings?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hexokinase"
+        },
+        {
+          "label": "B",
+          "text": "Glucose 6-phosphate dehydrogenase"
+        },
+        {
+          "label": "C",
+          "text": "Phosphofructokinase-1"
+        },
+        {
+          "label": "D",
+          "text": "Pyruvate kinase"
+        },
+        {
+          "label": "E",
+          "text": "Lactate dehydrogenase"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "RBC pyruvate kinase deficiency causes chronic hemolytic anemia with echinocytes (burr cells).",
+        "whyCorrect": "RBCs depend entirely on glycolysis for ATP. Pyruvate kinase deficiency depletes ATP; without ATP, Na/K pumps fail and the membrane retracts, producing echinocytes (burr cells) with evenly distributed spiky surfaces and chronic hemolytic anemia.",
+        "whyWrongByChoice": {
+          "A": "Hexokinase deficiency is not the enzyme specifically linked in this brick to hemolysis with echinocytes.",
+          "B": "G6PD deficiency causes oxidative hemolysis with Heinz bodies and bite cells, not echinocytes from ATP depletion.",
+          "C": "PFK-1 deficiency is not the cause described here; the brick attributes RBC hemolysis and burr cells to pyruvate kinase.",
+          "E": "Lactate dehydrogenase deficiency does not produce this classic ATP-depletion echinocyte picture."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "pyruvate kinase deficiency",
+        "hemolytic anemia",
+        "echinocytes",
+        "RBC"
+      ],
+      "topicId": "carbohydrate-metabolism-overview-ii",
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II"
+    },
+    {
+      "id": "bo21-001",
+      "stem": "A physiologist is comparing how the body handles a dietary bolus of glucose versus an equivalent bolus of fructose. Unlike glucose, which is taken up and metabolized by a wide spectrum of tissues, dietary fructose is metabolized almost exclusively at a single site. In which organ does the great majority of fructose metabolism occur?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Skeletal muscle"
+        },
+        {
+          "label": "B",
+          "text": "Liver"
+        },
+        {
+          "label": "C",
+          "text": "Brain"
+        },
+        {
+          "label": "D",
+          "text": "Adipose tissue"
+        },
+        {
+          "label": "E",
+          "text": "Red blood cells"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Fructose is metabolized nearly exclusively in the liver, unlike glucose, which is used throughout the body.",
+        "whyCorrect": "The brick states that, unlike glucose, fructose is nearly exclusively metabolized within the liver (and to a much lesser extent the kidneys). Hepatic fructokinase and aldolase B carry out the first committed steps of fructose catabolism.",
+        "whyWrongByChoice": {
+          "A": "Skeletal muscle relies on glucose and does not appreciably metabolize fructose; fructose handling is hepatic.",
+          "C": "The brain uses glucose (and ketones during fasting) as fuel and is not the major site of fructose metabolism.",
+          "D": "Adipose tissue stores the lipid products of hepatic fructose metabolism but does not itself carry out the bulk of fructose catabolism.",
+          "E": "Red blood cells depend on glucose taken up by GLUT1 for glycolysis; they are not a site of fructose metabolism."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "fructose metabolism",
+        "liver",
+        "LO1"
+      ],
+      "topicId": "carbohydrate-metabolism-fructose-polyol-disorders",
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II: Fructose, HFCS, the Polyol Pathway, and Fructose Disorders"
+    },
+    {
+      "id": "bo21-002",
+      "stem": "A student is tracing carbon atoms through hepatic sugar metabolism. She notes that fructose metabolism and glycolysis proceed through separate early enzymes but ultimately share a common pair of three-carbon intermediates, after which the pathways are identical. Which pair of intermediates represents this point of convergence?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Glucose 6-phosphate and NADPH"
+        },
+        {
+          "label": "B",
+          "text": "Fructose 6-phosphate and fructose 1,6-bisphosphate"
+        },
+        {
+          "label": "C",
+          "text": "Dihydroxyacetone phosphate (DHAP) and glyceraldehyde 3-phosphate"
+        },
+        {
+          "label": "D",
+          "text": "Fructose 1-phosphate and fructose 6-phosphate"
+        },
+        {
+          "label": "E",
+          "text": "Pyruvate and lactate"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Glucose and fructose metabolism converge at DHAP and glyceraldehyde 3-phosphate.",
+        "whyCorrect": "The brick teaches that both pathways produce dihydroxyacetone phosphate (DHAP) and glyceraldehyde 3-phosphate as intermediates, at which point the pathways converge. In fructose metabolism these are generated by aldolase B, downstream of the PFK-1 control point.",
+        "whyWrongByChoice": {
+          "A": "Glucose 6-phosphate is an early glycolytic intermediate and NADPH is a pentose phosphate pathway product; neither marks the convergence with fructose metabolism.",
+          "B": "Fructose 6-phosphate and fructose 1,6-bisphosphate are glycolytic intermediates produced before and at the PFK-1 step, upstream of the convergence point.",
+          "D": "Fructose 1-phosphate is exclusive to fructose metabolism and fructose 6-phosphate is exclusive to glycolysis; they are not the shared convergence intermediates.",
+          "E": "Pyruvate and lactate lie far downstream after glycolysis is already complete and shared, not at the point where the two pathways first merge."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "glycolysis",
+        "fructose metabolism",
+        "convergence",
+        "LO1"
+      ],
+      "topicId": "carbohydrate-metabolism-fructose-polyol-disorders",
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II: Fructose, HFCS, the Polyol Pathway, and Fructose Disorders"
+    },
+    {
+      "id": "bo21-003",
+      "stem": "A biochemistry instructor emphasizes that fructose metabolism is metabolically hazardous largely because of where its carbons enter glycolysis relative to a key regulated step. Fructose-derived intermediates join glycolysis downstream of the enzyme that is normally inhibited by ATP and citrate. Which glycolytic enzyme does fructose metabolism bypass?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Glucokinase"
+        },
+        {
+          "label": "B",
+          "text": "Phosphofructokinase-1 (PFK-1)"
+        },
+        {
+          "label": "C",
+          "text": "Pyruvate kinase"
+        },
+        {
+          "label": "D",
+          "text": "Hexokinase"
+        },
+        {
+          "label": "E",
+          "text": "Pyruvate dehydrogenase"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Fructose metabolism bypasses the PFK-1 control point of glycolysis.",
+        "whyCorrect": "Aldolase B produces DHAP and glyceraldehyde 3-phosphate, which enter glycolysis after the PFK-1 step. Because PFK-1 is the major control point inhibited by ATP and citrate, fructose escapes this negative feedback and can be shunted toward lipogenesis.",
+        "whyWrongByChoice": {
+          "A": "Glucokinase catalyzes the first step of glucose (not fructose) metabolism; fructose uses fructokinase instead, so glucokinase is not the bypassed regulatory step.",
+          "C": "Pyruvate kinase acts at the end of glycolysis and uses substrate generated by both pathways; it is not the regulated step that fructose circumvents.",
+          "D": "Hexokinase phosphorylates glucose in most tissues but is not the key regulated point of glycolysis that fructose bypasses.",
+          "E": "Pyruvate dehydrogenase links glycolysis to the TCA cycle after pyruvate formation and is not part of glycolytic flux control that fructose evades."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "PFK-1",
+        "regulation",
+        "fructose metabolism",
+        "LO2"
+      ],
+      "topicId": "carbohydrate-metabolism-fructose-polyol-disorders",
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II: Fructose, HFCS, the Polyol Pathway, and Fructose Disorders"
+    },
+    {
+      "id": "bo21-004",
+      "stem": "A 45-year-old sedentary man consumes several sugar-sweetened sodas daily and has gained substantial weight over the past year. His clinician explains that fructose is handled differently from glucose and that this difference underlies his rapid weight gain. Which mechanism best explains why chronic high fructose intake promotes fat storage even when cellular energy is already abundant?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Fructose strongly stimulates insulin secretion, driving glucose into fat cells"
+        },
+        {
+          "label": "B",
+          "text": "Fructose is preferentially stored as glycogen rather than metabolized"
+        },
+        {
+          "label": "C",
+          "text": "Fructose enters glycolysis below the PFK-1 step, escaping feedback inhibition by ATP and citrate and feeding lipogenesis"
+        },
+        {
+          "label": "D",
+          "text": "Fructose cannot be metabolized and is excreted unchanged in the urine"
+        },
+        {
+          "label": "E",
+          "text": "Fructose inhibits fructokinase, causing carbons to accumulate as fructose 1-phosphate"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Fructose bypasses the ATP/citrate-regulated PFK-1 step, so excess carbons flow unchecked into fatty acid synthesis.",
+        "whyCorrect": "Because fructose intermediates converge with glycolysis downstream of PFK-1, they are not subject to the negative feedback exerted by ATP and citrate. Even when citrate accumulates, fructose is not shunted into alternative pathways, so a sedentary person converts the excess into fatty acids and stores lipids, causing rapid weight gain.",
+        "whyWrongByChoice": {
+          "A": "Fructose has a low glycemic index and does not acutely stimulate insulin secretion, so an insulin surge is not the mechanism.",
+          "B": "Fructose is not preferentially diverted into glycogen; when not used for energy it is converted to fatty acids and stored as lipid.",
+          "D": "Normal fructose is metabolized in the liver, not simply excreted; urinary fructose is a feature of essential fructosuria, not typical intake.",
+          "E": "Fructokinase is highly efficient and is not inhibited by fructose; pathologic fructose 1-phosphate accumulation occurs in hereditary fructose intolerance due to aldolase B deficiency, not in a healthy person."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "HFCS",
+        "lipogenesis",
+        "weight gain",
+        "LO2"
+      ],
+      "topicId": "carbohydrate-metabolism-fructose-polyol-disorders",
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II: Fructose, HFCS, the Polyol Pathway, and Fructose Disorders"
+    },
+    {
+      "id": "bo21-005",
+      "stem": "A food scientist is manufacturing high fructose corn syrup (HFCS). Corn starch is first broken down into free glucose, yielding conventional corn syrup. To create HFCS, an additional processing step converts a portion of that glucose into fructose. Which enzyme catalyzes this final glucose-to-fructose conversion?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Alpha-amylase"
+        },
+        {
+          "label": "B",
+          "text": "Fructokinase"
+        },
+        {
+          "label": "C",
+          "text": "Glucose isomerase"
+        },
+        {
+          "label": "D",
+          "text": "Aldolase B"
+        },
+        {
+          "label": "E",
+          "text": "Sorbitol dehydrogenase"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "An isomerase converts glucose to fructose to produce HFCS from corn syrup.",
+        "whyCorrect": "The brick explains that plant starch is broken into free glucose by alpha-amylase to make conventional corn syrup; to make HFCS, the glucose-containing corn syrup is further processed by an isomerase that generates fructose from glucose.",
+        "whyWrongByChoice": {
+          "A": "Alpha-amylase digests corn starch into free glucose (making conventional corn syrup) but does not convert glucose to fructose.",
+          "B": "Fructokinase phosphorylates fructose to fructose 1-phosphate inside the liver; it is not used in industrial HFCS production.",
+          "D": "Aldolase B cleaves fructose 1-phosphate during metabolism and has no role in HFCS manufacture.",
+          "E": "Sorbitol dehydrogenase converts sorbitol to fructose in the polyol pathway, not glucose to fructose during HFCS production."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "HFCS",
+        "isomerase",
+        "food science",
+        "LO2"
+      ],
+      "topicId": "carbohydrate-metabolism-fructose-polyol-disorders",
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II: Fructose, HFCS, the Polyol Pathway, and Fructose Disorders"
+    },
+    {
+      "id": "bo21-006",
+      "stem": "A nutrition researcher notes that fructose has a glycemic index of only about 20, a value that might suggest it is a benign sweetener. She cautions that this figure can be deceptive without an understanding of fructose metabolism. Which statement best explains why fructose has such a low glycemic index yet still carries metabolic risk?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Fructose does not acutely stimulate insulin secretion, but it still bypasses PFK-1 regulation and feeds lipogenesis"
+        },
+        {
+          "label": "B",
+          "text": "Fructose is not absorbed from the gut, so it never reaches the circulation"
+        },
+        {
+          "label": "C",
+          "text": "Fructose raises blood glucose more slowly because it is stored entirely as glycogen"
+        },
+        {
+          "label": "D",
+          "text": "Fructose triggers a large insulin spike that rapidly clears it from the blood"
+        },
+        {
+          "label": "E",
+          "text": "Fructose is converted to glucose in the intestine before absorption"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Fructose's low glycemic index reflects that it does not acutely raise glucose or insulin, yet it still promotes lipogenesis by escaping PFK-1 control.",
+        "whyCorrect": "The brick states that fructose has a low glycemic index of 20 and does not acutely stimulate insulin secretion, but warns this value is deceptive: because fructose metabolism bypasses the PFK-1 control point, it can be converted to fatty acids and stored as lipid without feedback regulation.",
+        "whyWrongByChoice": {
+          "B": "Fructose is absorbed and delivered to the liver, where it is metabolized; it does reach the circulation.",
+          "C": "The low glycemic index is due to a lack of acute glucose/insulin rise, not to complete storage as glycogen.",
+          "D": "Fructose does not trigger a large acute insulin spike; a lack of acute insulin stimulation is precisely why its glycemic index is low.",
+          "E": "Dietary fructose is not converted to glucose in the intestine before absorption; it is largely metabolized in the liver."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "glycemic index",
+        "insulin",
+        "fructose",
+        "LO2"
+      ],
+      "topicId": "carbohydrate-metabolism-fructose-polyol-disorders",
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II: Fructose, HFCS, the Polyol Pathway, and Fructose Disorders"
+    },
+    {
+      "id": "bo21-007",
+      "stem": "A 58-year-old man with a 15-year history of poorly controlled type 2 diabetes develops bilateral cataracts and a symmetric peripheral neuropathy. His physician explains that persistently elevated intracellular glucose in the lens and peripheral nerves activates a pathway that would normally be inactive. Which enzyme initiates this pathologic pathway by reducing glucose to sorbitol?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Aldose reductase"
+        },
+        {
+          "label": "B",
+          "text": "Sorbitol dehydrogenase"
+        },
+        {
+          "label": "C",
+          "text": "Aldolase B"
+        },
+        {
+          "label": "D",
+          "text": "Glucokinase"
+        },
+        {
+          "label": "E",
+          "text": "Hexokinase"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Aldose reductase reduces glucose to sorbitol and initiates the polyol pathway that damages lens and nerve in diabetes.",
+        "whyCorrect": "Aldose reductase has a high Km for glucose, so it becomes active only when glucose is in excess, as in poorly controlled diabetes. Retina and nerve cells constitutively express GLUTs and polyol enzymes, so excess glucose is reduced to sorbitol, contributing to cataract formation and neuropathy.",
+        "whyWrongByChoice": {
+          "B": "Sorbitol dehydrogenase acts second, oxidizing sorbitol to fructose; it does not initiate the pathway by reducing glucose.",
+          "C": "Aldolase B is a fructose metabolism enzyme (cleaving fructose 1-phosphate) and has no role in the polyol pathway.",
+          "D": "Glucokinase phosphorylates glucose in the liver during glycolysis and is unrelated to sorbitol production in lens and nerve.",
+          "E": "Hexokinase traps glucose as glucose 6-phosphate for glycolysis but does not produce sorbitol."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "polyol pathway",
+        "aldose reductase",
+        "diabetes",
+        "LO3"
+      ],
+      "topicId": "carbohydrate-metabolism-fructose-polyol-disorders",
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II: Fructose, HFCS, the Polyol Pathway, and Fructose Disorders"
+    },
+    {
+      "id": "bo21-008",
+      "stem": "In the polyol pathway, glucose is reduced to a sugar alcohol that cannot readily leave the cell and therefore accumulates when glucose is chronically elevated. This trapped intermediate draws water into the cell. Which type of cellular stress does this accumulating intermediate most directly produce?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Oxidative stress"
+        },
+        {
+          "label": "B",
+          "text": "Osmotic stress"
+        },
+        {
+          "label": "C",
+          "text": "Glycative stress"
+        },
+        {
+          "label": "D",
+          "text": "Endoplasmic reticulum stress"
+        },
+        {
+          "label": "E",
+          "text": "Shear stress"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Sorbitol accumulation is osmotically active, drawing water into the cell and causing osmotic stress.",
+        "whyCorrect": "The brick teaches that sorbitol production and accumulation causes osmotic stress, meaning water moves into the cell. Sorbitol is the alcohol sugar of glucose and is osmotically active when it builds up intracellularly.",
+        "whyWrongByChoice": {
+          "A": "Oxidative stress in the polyol pathway results from NADPH depletion and GSSG accumulation, not from sorbitol drawing in water.",
+          "C": "Glycative stress is produced by fructose covalently linking to protein side chains, not by the osmotic effect of sorbitol.",
+          "D": "Endoplasmic reticulum stress is not the mechanism described for sorbitol accumulation in the brick.",
+          "E": "Shear stress refers to mechanical force on cells (e.g., from blood flow) and is unrelated to intracellular sorbitol accumulation."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "polyol pathway",
+        "sorbitol",
+        "osmotic stress",
+        "LO3"
+      ],
+      "topicId": "carbohydrate-metabolism-fructose-polyol-disorders",
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II: Fructose, HFCS, the Polyol Pathway, and Fructose Disorders"
+    },
+    {
+      "id": "bo21-009",
+      "stem": "A researcher studying diabetic tissue damage observes that aldose reductase activity consumes a specific reducing cofactor. Depletion of this cofactor impairs the regeneration of reduced glutathione, allowing the oxidized glutathione dimer to accumulate and leaving cells unable to neutralize reactive oxygen species. Which cofactor is being depleted?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "NADPH"
+        },
+        {
+          "label": "B",
+          "text": "FADH2"
+        },
+        {
+          "label": "C",
+          "text": "ATP"
+        },
+        {
+          "label": "D",
+          "text": "Thiamine pyrophosphate"
+        },
+        {
+          "label": "E",
+          "text": "Biotin"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Aldose reductase consumes NADPH, and its depletion causes oxidative stress via impaired glutathione regeneration.",
+        "whyCorrect": "The brick states that consumption of NADPH leads to accumulation of the oxidized GSSG dimer, which is unable to neutralize oxidative species. NADPH is required to regenerate reduced glutathione (GSH), so its depletion produces oxidative stress.",
+        "whyWrongByChoice": {
+          "B": "FADH2 is an electron carrier in the electron transport chain and TCA cycle; it is not consumed by aldose reductase or used to regenerate glutathione.",
+          "C": "ATP is depleted in hereditary fructose intolerance, not by aldose reductase in the polyol pathway; glutathione regeneration depends on NADPH.",
+          "D": "Thiamine pyrophosphate is a cofactor for enzymes such as pyruvate dehydrogenase and transketolase, not for glutathione regeneration.",
+          "E": "Biotin is a cofactor for carboxylase enzymes and has no role in the polyol pathway or glutathione recycling."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "polyol pathway",
+        "NADPH",
+        "oxidative stress",
+        "glutathione",
+        "LO3"
+      ],
+      "topicId": "carbohydrate-metabolism-fructose-polyol-disorders",
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II: Fructose, HFCS, the Polyol Pathway, and Fructose Disorders"
+    },
+    {
+      "id": "bo21-010",
+      "stem": "A 62-year-old woman with type 2 diabetes has her hemoglobin A1c measured to assess long-term glycemic control. Her physician explains that A1c reflects average blood glucose over roughly the preceding few months and forms by a non-enzymatic process. Which statement best describes how HbA1c is generated?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "An enzyme actively attaches glucose to hemoglobin in proportion to insulin levels"
+        },
+        {
+          "label": "B",
+          "text": "Glucose binds hemoglobin non-enzymatically in a purely equilibrium-driven manner that rises with circulating glucose"
+        },
+        {
+          "label": "C",
+          "text": "Fructose covalently modifies hemoglobin during red cell maturation"
+        },
+        {
+          "label": "D",
+          "text": "Sorbitol accumulates within red cells and is measured as A1c"
+        },
+        {
+          "label": "E",
+          "text": "A1c reflects a single snapshot of blood glucose at the moment of the draw"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "HbA1c is a non-enzymatic, equilibrium-driven glycation of hemoglobin that rises with sustained hyperglycemia.",
+        "whyCorrect": "The brick teaches that HbA1c is a glycated form of hemoglobin whose formation is not enzymatic but driven purely by equilibrium: the more circulating glucose, the more HbA1c forms. Because red cells express GLUT1 and live about four months, A1c serves as a long-term monitor of glucose control.",
+        "whyWrongByChoice": {
+          "A": "HbA1c formation is explicitly non-enzymatic and is driven by glucose concentration and equilibrium, not by an enzyme or insulin levels.",
+          "C": "It is glucose, not fructose, that glycates hemoglobin to form A1c; the process is equilibrium-driven glycation by glucose.",
+          "D": "Sorbitol is a polyol pathway intermediate and is not what A1c measures; A1c is glycated hemoglobin.",
+          "E": "A single snapshot of blood glucose is provided by a glucometer; A1c reflects long-term (about four-month) glucose control, not an instantaneous value."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "HbA1c",
+        "glycation",
+        "diabetes monitoring",
+        "LO3"
+      ],
+      "topicId": "carbohydrate-metabolism-fructose-polyol-disorders",
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II: Fructose, HFCS, the Polyol Pathway, and Fructose Disorders"
+    },
+    {
+      "id": "bo21-011",
+      "stem": "A 7-month-old boy is brought in with recurrent vomiting, lethargy, and sweating shortly after being started on pureed fruit and juice. He was entirely well while exclusively breastfed. Exam shows hepatomegaly and jaundice. Laboratory studies reveal hypoglycemia, elevated uric acid, and low phosphate. A deficiency of which enzyme best explains this presentation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Fructokinase"
+        },
+        {
+          "label": "B",
+          "text": "Aldolase B"
+        },
+        {
+          "label": "C",
+          "text": "Galactose 1-phosphate uridyltransferase (GALT)"
+        },
+        {
+          "label": "D",
+          "text": "Galactokinase"
+        },
+        {
+          "label": "E",
+          "text": "Glucokinase"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Aldolase B deficiency causes hereditary fructose intolerance, presenting after weaning with hypoglycemia, hepatomegaly, and phosphate trapping.",
+        "whyCorrect": "In hereditary fructose intolerance, aldolase B is deficient, so fructose 1-phosphate accumulates while the efficient fructokinase step continues to consume ATP. This depletes ATP and traps phosphate, producing hypoglycemia (gluconeogenesis and glycogenolysis stall, and fructose 1-phosphate inhibits glycogen phosphorylase), hepatomegaly, jaundice, and hyperuricemia. Symptoms appear when fructose-containing foods (fruit, juice) are introduced after breastfeeding.",
+        "whyWrongByChoice": {
+          "A": "Fructokinase deficiency causes essential fructosuria, a benign condition without hypoglycemia, hepatomegaly, or metabolic derangement.",
+          "C": "GALT deficiency causes classic galactosemia, which is triggered by lactose/galactose (present in breast milk) and typically presents earlier, often with intellectual disability.",
+          "D": "Galactokinase deficiency causes isolated cataracts from galactitol and is provoked by galactose, not by fructose-containing fruit and juice.",
+          "E": "Glucokinase is the first enzyme of hepatic glycolysis; its deficiency is not associated with this fructose-triggered syndrome."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "hereditary fructose intolerance",
+        "aldolase B",
+        "hypoglycemia",
+        "LO4"
+      ],
+      "topicId": "carbohydrate-metabolism-fructose-polyol-disorders",
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II: Fructose, HFCS, the Polyol Pathway, and Fructose Disorders"
+    },
+    {
+      "id": "bo21-012",
+      "stem": "A 5-year-old girl undergoes urinalysis during a routine visit, which unexpectedly detects a reducing sugar identified as fructose. She is completely asymptomatic, growing normally, and has no history of hypoglycemia, vomiting, or liver disease. Her parents recall that she eats a lot of fruit. Which of the following is the most appropriate description of her condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A benign fructokinase deficiency requiring no treatment"
+        },
+        {
+          "label": "B",
+          "text": "Aldolase B deficiency requiring strict lifelong fructose avoidance to prevent liver failure"
+        },
+        {
+          "label": "C",
+          "text": "Classic galactosemia requiring elimination of lactose and galactose"
+        },
+        {
+          "label": "D",
+          "text": "Galactokinase deficiency requiring urgent ophthalmologic surgery"
+        },
+        {
+          "label": "E",
+          "text": "A glucokinase deficiency causing neonatal diabetes"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Essential fructosuria is a benign fructokinase deficiency that is asymptomatic and needs no treatment.",
+        "whyCorrect": "Essential fructosuria is a deficiency of fructokinase, described as a rare, benign 'non-disease.' Excess fructose can still be handled to some extent by hexokinase or excreted in the urine, so patients are asymptomatic and require no treatment; fructose may simply appear in blood or urine when intake is high.",
+        "whyWrongByChoice": {
+          "B": "Aldolase B deficiency (hereditary fructose intolerance) causes hypoglycemia, hepatomegaly, and vomiting; this asymptomatic child with normal growth does not fit that severe picture.",
+          "C": "Classic galactosemia involves galactose (not fructose) accumulation and causes serious illness including hepatomegaly and intellectual disability, not incidental asymptomatic fructosuria.",
+          "D": "Galactokinase deficiency causes cataracts from galactitol and involves galactose, not the incidental finding of urinary fructose in a well child.",
+          "E": "Glucokinase deficiency is unrelated to urinary fructose and does not describe this benign, asymptomatic condition."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "essential fructosuria",
+        "fructokinase",
+        "benign",
+        "LO4"
+      ],
+      "topicId": "carbohydrate-metabolism-fructose-polyol-disorders",
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II: Fructose, HFCS, the Polyol Pathway, and Fructose Disorders"
+    },
+    {
+      "id": "bo22-001",
+      "stem": "A 2-year-old boy is evaluated for failure to thrive and chronic bulky, pale, foul-smelling, greasy stools. Laboratory studies show a markedly low LDL cholesterol and vitamin E deficiency, and a peripheral smear reveals spiculated red cells (acanthocytes). His enterocytes are unable to assemble and secrete chylomicrons. A defect in which of the following proteins best explains this presentation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Microsomal transfer protein (MTP)"
+        },
+        {
+          "label": "B",
+          "text": "Lipoprotein lipase (LPL)"
+        },
+        {
+          "label": "C",
+          "text": "Lecithin-cholesterol acyltransferase (LCAT)"
+        },
+        {
+          "label": "D",
+          "text": "LDL receptor"
+        },
+        {
+          "label": "E",
+          "text": "Cholesteryl ester transfer protein (CETP)"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Abetalipoproteinemia is caused by a defect in MTP, which loads apoB-48 onto chylomicrons and apoB-100 onto VLDL.",
+        "whyCorrect": "MTP is required to load apoB-48 onto nascent chylomicrons in the intestine and apoB-100 onto VLDL in the liver. Without functional MTP, chylomicrons cannot form, so dietary fat is malabsorbed (causing steatorrhea), LDL levels are extremely low because VLDL cannot be generated, and fat-soluble vitamin deficiency—especially vitamin E—develops.",
+        "whyWrongByChoice": {
+          "B": "LPL deficiency causes familial hyperchylomicronemia with accumulation of chylomicrons and very high triglycerides, not absent chylomicrons and low LDL.",
+          "C": "LCAT esterifies circulating cholesterol on HDL; its loss impairs reverse cholesterol transport but does not prevent chylomicron assembly.",
+          "D": "LDL-receptor defects cause familial hypercholesterolemia with markedly elevated LDL, the opposite of the low LDL seen here.",
+          "E": "CETP swaps triglycerides and cholesteryl esters between VLDL and HDL and is not required for chylomicron formation or fat absorption."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "abetalipoproteinemia",
+        "MTP",
+        "chylomicron",
+        "fat malabsorption"
+      ],
+      "topicId": "lipids-and-lipid-metabolism-introduction",
+      "topicName": "Lipids and Lipid Metabolism Introduction"
+    },
+    {
+      "id": "bo22-002",
+      "stem": "A 6-year-old girl presents with recurrent episodes of abdominal pain diagnosed as pancreatitis. Fasting serum is grossly lipemic, and after refrigeration overnight a creamy layer forms on top of the sample. Triglycerides are severely elevated. Which of the following deficiencies most likely underlies her condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Deficiency of lipoprotein lipase or apoC-II"
+        },
+        {
+          "label": "B",
+          "text": "Deficiency of the LDL receptor"
+        },
+        {
+          "label": "C",
+          "text": "Deficiency of apoB-48"
+        },
+        {
+          "label": "D",
+          "text": "Deficiency of HMG-CoA reductase"
+        },
+        {
+          "label": "E",
+          "text": "Deficiency of medium-chain acyl-CoA dehydrogenase"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Familial hyperchylomicronemia results from deficiency of LPL or its activator apoC-II, causing chylomicron accumulation.",
+        "whyCorrect": "LPL, activated by apoC-II, hydrolyzes triglycerides within chylomicrons. When either is deficient, chylomicron triglycerides cannot be cleared, so chylomicrons accumulate in plasma (forming a creamy supernatant on centrifugation) and patients routinely present with pancreatitis from the excess triglycerides.",
+        "whyWrongByChoice": {
+          "B": "LDL-receptor deficiency raises LDL cholesterol and causes premature atherosclerosis, not a triglyceride-rich creamy chylomicron layer.",
+          "C": "Absent apoB-48 would impair chylomicron formation, producing fat malabsorption rather than chylomicron accumulation.",
+          "D": "HMG-CoA reductase is the rate-limiting enzyme of cholesterol synthesis and is not implicated in chylomicron clearance.",
+          "E": "MCAD deficiency is a disorder of fatty acid oxidation causing hypoketotic hypoglycemia, not chylomicronemia with pancreatitis."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "familial hyperchylomicronemia",
+        "lipoprotein lipase",
+        "apoC-II",
+        "pancreatitis"
+      ],
+      "topicId": "lipids-and-lipid-metabolism-introduction",
+      "topicName": "Lipids and Lipid Metabolism Introduction"
+    },
+    {
+      "id": "bo22-003",
+      "stem": "A 9-year-old boy is found to have a total cholesterol of 480 mg/dL. Physical examination reveals firm nodules over the Achilles tendons and extensor tendons of the hands. His father died of a myocardial infarction at age 35. Which of the following molecular defects most likely accounts for this patient's findings?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Defective LDL receptor or apoB-100"
+        },
+        {
+          "label": "B",
+          "text": "Deficiency of apoC-II"
+        },
+        {
+          "label": "C",
+          "text": "Overexpression of macrophage scavenger receptors"
+        },
+        {
+          "label": "D",
+          "text": "Defective microsomal transfer protein"
+        },
+        {
+          "label": "E",
+          "text": "Deficiency of carnitine acyltransferase-1"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Familial hypercholesterolemia is caused by absence or dysfunction of the LDL receptor or apoB-100.",
+        "whyCorrect": "LDL is cleared when LDL receptors bind apoB-100 for receptor-mediated endocytosis. Loss of functional LDL receptors or of apoB-100 leaves LDL in the circulation, producing markedly elevated cholesterol, tendinous xanthomas from lipid-laden macrophages in skin/tendon, and accelerated atherosclerosis with early myocardial infarction.",
+        "whyWrongByChoice": {
+          "B": "apoC-II deficiency impairs LPL activation and causes triglyceride-rich chylomicronemia, not isolated hypercholesterolemia with xanthomas.",
+          "C": "Scavenger receptors take up oxidized LDL to form foam cells but are not the primary defect that raises circulating LDL in this inherited disease.",
+          "D": "MTP defects cause abetalipoproteinemia with very low LDL, the opposite of this patient's high cholesterol.",
+          "E": "CPT1 deficiency impairs long-chain fatty acid oxidation and does not cause hypercholesterolemia."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "familial hypercholesterolemia",
+        "LDL receptor",
+        "apoB-100",
+        "xanthoma"
+      ],
+      "topicId": "lipids-and-lipid-metabolism-introduction",
+      "topicName": "Lipids and Lipid Metabolism Introduction"
+    },
+    {
+      "id": "bo22-004",
+      "stem": "A 10-month-old girl is brought to the emergency department after vomiting and becoming lethargic following a viral illness with poor oral intake. Examination shows hepatomegaly. Laboratory studies reveal hyperammonemia, hypoketotic hypoglycemia, and elevated circulating acylcarnitines. Which of the following is the most appropriate long-term management?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Avoidance of prolonged fasting"
+        },
+        {
+          "label": "B",
+          "text": "Scheduled intermittent fasting of 4 to 6 hours"
+        },
+        {
+          "label": "C",
+          "text": "A low-glucose, high-fat diet"
+        },
+        {
+          "label": "D",
+          "text": "Supplementation with L-carnitine alone"
+        },
+        {
+          "label": "E",
+          "text": "Supplementation with medium-chain fatty acids"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "MCAD deficiency, the most common fatty acid oxidation disorder, is managed by avoiding fasting.",
+        "whyCorrect": "The hypoketotic hypoglycemia and elevated acylcarnitines indicate medium-chain acyl-CoA dehydrogenase deficiency. Because beta-oxidation is impaired, the child cannot mobilize fat for energy during fasting, so treatment centers on avoiding prolonged fasting so dietary carbohydrate can supply energy.",
+        "whyWrongByChoice": {
+          "B": "Any fasting is contraindicated because the defect prevents fatty acid oxidation when carbohydrate stores run low.",
+          "C": "A low-glucose, high-fat diet forces reliance on the impaired beta-oxidation pathway and would worsen the crisis.",
+          "D": "L-carnitine is used for primary carnitine deficiency; this child can form acylcarnitine, so it is not the mainstay of therapy.",
+          "E": "MCFAs are the very substrates whose oxidation is defective, so supplementing them is inappropriate."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "MCAD deficiency",
+        "beta-oxidation",
+        "hypoketotic hypoglycemia",
+        "management"
+      ],
+      "topicId": "lipids-and-lipid-metabolism-introduction",
+      "topicName": "Lipids and Lipid Metabolism Introduction"
+    },
+    {
+      "id": "bo22-005",
+      "stem": "HDL is essential for reverse cholesterol transport, in which cholesterol from peripheral tissues is esterified and returned to the liver. Which apolipoprotein on HDL activates the enzyme lecithin-cholesterol acyltransferase (LCAT) to accomplish this esterification?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "apoA-I"
+        },
+        {
+          "label": "B",
+          "text": "apoB-48"
+        },
+        {
+          "label": "C",
+          "text": "apoB-100"
+        },
+        {
+          "label": "D",
+          "text": "apoC-II"
+        },
+        {
+          "label": "E",
+          "text": "apoE"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "apoA-I on HDL activates LCAT to esterify circulating cholesterol.",
+        "whyCorrect": "LCAT, activated by apoA-I present on HDL, esterifies endogenous circulating cholesterol, which is central to HDL's role in reverse cholesterol transport of extrahepatic cholesterol back to the liver.",
+        "whyWrongByChoice": {
+          "B": "apoB-48 is the structural protein of chylomicrons and does not activate LCAT.",
+          "C": "apoB-100 is the structural protein of VLDL and LDL and provides the LDL-receptor binding domain, not LCAT activation.",
+          "D": "apoC-II activates extrahepatic lipoprotein lipase, a different enzyme.",
+          "E": "apoE mediates hepatic uptake of chylomicron and IDL remnants rather than activating LCAT."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "apoA-I",
+        "LCAT",
+        "HDL",
+        "reverse cholesterol transport"
+      ],
+      "topicId": "lipids-and-lipid-metabolism-introduction",
+      "topicName": "Lipids and Lipid Metabolism Introduction"
+    },
+    {
+      "id": "bo22-006",
+      "stem": "A researcher studies the clearance of triglycerides from chylomicrons and VLDL by lipoprotein lipase on the capillary endothelium of adipose and muscle. Which apolipoprotein, supplied to these particles from the circulating HDL reservoir, is required to activate lipoprotein lipase?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "apoC-II"
+        },
+        {
+          "label": "B",
+          "text": "apoA-I"
+        },
+        {
+          "label": "C",
+          "text": "apoB-48"
+        },
+        {
+          "label": "D",
+          "text": "apoB-100"
+        },
+        {
+          "label": "E",
+          "text": "apoE"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "apoC-II activates extrahepatic lipoprotein lipase.",
+        "whyCorrect": "HDL serves as a circulating reservoir of apoC-II and apoE that are transferred to chylomicrons and VLDL. apoC-II is the specific activator of extrahepatic lipoprotein lipase, enabling hydrolysis of the particles' triglycerides for tissue uptake.",
+        "whyWrongByChoice": {
+          "B": "apoA-I activates LCAT on HDL, not lipoprotein lipase.",
+          "C": "apoB-48 is a structural protein of chylomicrons and does not activate LPL.",
+          "D": "apoB-100 is a structural protein of VLDL/LDL and binds the LDL receptor rather than activating LPL.",
+          "E": "apoE mediates hepatic remnant uptake, not activation of lipoprotein lipase."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "apoC-II",
+        "lipoprotein lipase",
+        "HDL reservoir",
+        "triglyceride clearance"
+      ],
+      "topicId": "lipids-and-lipid-metabolism-introduction",
+      "topicName": "Lipids and Lipid Metabolism Introduction"
+    },
+    {
+      "id": "bo22-007",
+      "stem": "In the fed state, long-chain fatty acids cannot enter the mitochondria for beta-oxidation, ensuring that fatty acid synthesis and degradation do not occur simultaneously. Which molecule, a product of fatty acid synthesis, allosterically inhibits carnitine acyltransferase-1 (CPT1) to prevent this entry?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Malonyl-CoA"
+        },
+        {
+          "label": "B",
+          "text": "Palmitoyl-CoA"
+        },
+        {
+          "label": "C",
+          "text": "Acetyl-CoA"
+        },
+        {
+          "label": "D",
+          "text": "Citrate"
+        },
+        {
+          "label": "E",
+          "text": "Methylmalonyl-CoA"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Malonyl-CoA inhibits CPT1, blocking long-chain fatty acid entry into mitochondria during active synthesis.",
+        "whyCorrect": "When fatty acid synthesis is active, acetyl-CoA carboxylase generates elevated malonyl-CoA, which allosterically inhibits carnitine acyltransferase-1. This prevents long-chain fatty acids from being shuttled into the mitochondrial matrix for beta-oxidation, keeping synthesis and degradation asynchronous.",
+        "whyWrongByChoice": {
+          "B": "Palmitoyl-CoA provides negative feedback on acetyl-CoA carboxylase, not the CPT1 inhibition described here.",
+          "C": "Acetyl-CoA is the building block for synthesis, not the inhibitor of CPT1.",
+          "D": "Citrate carries acetyl units to the cytosol and activates acetyl-CoA carboxylase; it does not inhibit CPT1.",
+          "E": "Methylmalonyl-CoA is an intermediate in odd-chain fatty acid catabolism and does not regulate CPT1."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "malonyl-CoA",
+        "CPT1",
+        "carnitine shuttle",
+        "beta-oxidation regulation"
+      ],
+      "topicId": "lipids-and-lipid-metabolism-introduction",
+      "topicName": "Lipids and Lipid Metabolism Introduction"
+    },
+    {
+      "id": "bo22-008",
+      "stem": "Acetyl-CoA carboxylase catalyzes the committed, rate-limiting step of fatty acid synthesis by carboxylating acetyl-CoA to malonyl-CoA. This reaction requires a specific vitamin-derived cofactor. Which vitamin serves as the cofactor for this carboxylation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Biotin (vitamin B7)"
+        },
+        {
+          "label": "B",
+          "text": "Cobalamin (vitamin B12)"
+        },
+        {
+          "label": "C",
+          "text": "Thiamine (vitamin B1)"
+        },
+        {
+          "label": "D",
+          "text": "Vitamin E"
+        },
+        {
+          "label": "E",
+          "text": "Niacin (vitamin B3)"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Acetyl-CoA carboxylase uses biotin (vitamin B7) to add CO2 to acetyl-CoA.",
+        "whyCorrect": "Acetyl-CoA carboxylase produces malonyl-CoA from cytosolic acetyl-CoA by adding a CO2 in a biotin (vitamin B7)-dependent manner, consistent with biotin's general role as a cofactor for carboxylase enzymes.",
+        "whyWrongByChoice": {
+          "B": "Cobalamin is the cofactor for methylmalonyl-CoA mutase in odd-chain fatty acid catabolism, not for acetyl-CoA carboxylase.",
+          "C": "Thiamine is a cofactor for dehydrogenase/transketolase reactions, not for this carboxylation.",
+          "D": "Vitamin E is a fat-soluble antioxidant with no role as a carboxylase cofactor.",
+          "E": "Niacin gives rise to NAD/NADP but is not the carboxylase cofactor here."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "acetyl-CoA carboxylase",
+        "biotin",
+        "malonyl-CoA",
+        "fatty acid synthesis"
+      ],
+      "topicId": "lipids-and-lipid-metabolism-introduction",
+      "topicName": "Lipids and Lipid Metabolism Introduction"
+    },
+    {
+      "id": "bo22-009",
+      "stem": "In hepatocytes, surplus glucose-derived acetyl-CoA generated in the mitochondria must reach the cytosol to serve as the building block for fatty acid synthesis. Because there is no direct acetyl-CoA transporter, acetyl-CoA is exported in the form of which intermediate that is then cleaved in the cytosol?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Citrate"
+        },
+        {
+          "label": "B",
+          "text": "Malate"
+        },
+        {
+          "label": "C",
+          "text": "Pyruvate"
+        },
+        {
+          "label": "D",
+          "text": "Oxaloacetate"
+        },
+        {
+          "label": "E",
+          "text": "Malonyl-CoA"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Acetyl-CoA is exported to the cytosol as citrate, which is cleaved by citrate lyase.",
+        "whyCorrect": "Mitochondrial acetyl-CoA is condensed with oxaloacetate to citrate, a TCA intermediate that is exported to the cytosol. There citrate lyase cleaves it back to oxaloacetate (which continues the shuttle) and acetyl-CoA, which is used for fatty acid synthesis.",
+        "whyWrongByChoice": {
+          "B": "Malate is part of the return arm of the citrate shuttle in the cytosol, not the carrier that exports the acetyl unit.",
+          "C": "Pyruvate is the return product that re-enters mitochondria; it does not carry the acetyl unit out.",
+          "D": "Oxaloacetate cannot cross the inner mitochondrial membrane directly and is regenerated in the cytosol after citrate is cleaved.",
+          "E": "Malonyl-CoA is formed in the cytosol from acetyl-CoA after the shuttle; it is not the export form."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "citrate shuttle",
+        "citrate lyase",
+        "acetyl-CoA",
+        "fatty acid synthesis"
+      ],
+      "topicId": "lipids-and-lipid-metabolism-introduction",
+      "topicName": "Lipids and Lipid Metabolism Introduction"
+    },
+    {
+      "id": "bo22-010",
+      "stem": "During beta-oxidation of an odd-numbered fatty acid, the final three-carbon product propionyl-CoA is converted to succinyl-CoA so it can enter the TCA cycle. This conversion proceeds through a methylmalonyl-CoA intermediate and requires a specific vitamin. Deficiency of which vitamin would impair this step?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cobalamin (vitamin B12)"
+        },
+        {
+          "label": "B",
+          "text": "Biotin (vitamin B7)"
+        },
+        {
+          "label": "C",
+          "text": "Folate"
+        },
+        {
+          "label": "D",
+          "text": "Vitamin K"
+        },
+        {
+          "label": "E",
+          "text": "Pyridoxine (vitamin B6)"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Methylmalonyl-CoA mutase requires cobalamin (B12) to convert propionyl-CoA to succinyl-CoA.",
+        "whyCorrect": "Odd-chain fatty acids yield propionyl-CoA, which is converted to succinyl-CoA through a methylmalonyl-CoA intermediate. Methylmalonyl-CoA mutase requires cobalamin, so a B12 deficiency impairs this conversion.",
+        "whyWrongByChoice": {
+          "B": "Biotin is the cofactor for carboxylases such as acetyl-CoA carboxylase, not for methylmalonyl-CoA mutase.",
+          "C": "Folate participates in one-carbon transfers for nucleotide synthesis, not this mutase reaction.",
+          "D": "Vitamin K is required for gamma-carboxylation of clotting factors, unrelated to propionyl-CoA metabolism.",
+          "E": "Pyridoxine supports transamination and other reactions but is not the cofactor for methylmalonyl-CoA mutase."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "odd-chain fatty acids",
+        "propionyl-CoA",
+        "methylmalonyl-CoA mutase",
+        "cobalamin"
+      ],
+      "topicId": "lipids-and-lipid-metabolism-introduction",
+      "topicName": "Lipids and Lipid Metabolism Introduction"
+    },
+    {
+      "id": "bo22-011",
+      "stem": "A 14-month-old boy presents with poor feeding, muscle weakness, an enlarged and weakened heart (cardiomyopathy), and hypoglycemia. Genetic testing identifies a mutation in SLC22A5 encoding the OCTN2 transporter, impairing cellular carnitine uptake. Which of the following is the most appropriate treatment?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Supplementation with L-carnitine"
+        },
+        {
+          "label": "B",
+          "text": "A ketogenic (high-fat) diet"
+        },
+        {
+          "label": "C",
+          "text": "Supplementation with biotin"
+        },
+        {
+          "label": "D",
+          "text": "Supplementation with cobalamin"
+        },
+        {
+          "label": "E",
+          "text": "Restriction of dietary carbohydrate"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Primary carnitine deficiency from OCTN2 (SLC22A5) mutation is treated with L-carnitine supplementation.",
+        "whyCorrect": "Mutations in SLC22A5 impair the OCTN2 transporter that imports carnitine, causing primary carnitine deficiency with encephalopathy, cardiomyopathy, weakness, and hypoglycemia in infancy or early childhood. Depending on the variant, supplementation with L-carnitine can be beneficial by restoring the substrate needed for the carnitine shuttle.",
+        "whyWrongByChoice": {
+          "B": "A high-fat diet increases reliance on the impaired fatty acid oxidation pathway and would not correct the carnitine deficit.",
+          "C": "Biotin addresses carboxylase reactions and would not replace deficient carnitine.",
+          "D": "Cobalamin is needed for methylmalonyl-CoA mutase, not for carnitine transport.",
+          "E": "Restricting carbohydrate would worsen energy failure, since carbohydrate is the safer fuel when fat oxidation is impaired."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "primary carnitine deficiency",
+        "OCTN2",
+        "SLC22A5",
+        "L-carnitine"
+      ],
+      "topicId": "lipids-and-lipid-metabolism-introduction",
+      "topicName": "Lipids and Lipid Metabolism Introduction"
+    },
+    {
+      "id": "bo22-012",
+      "stem": "A 55-year-old man with chronic pancreatitis has ongoing fat malabsorption producing bulky, greasy, foul-smelling stools (steatorrhea). Given that lipoproteins carry certain vitamins in their hydrophobic core, deficiency of which group of vitamins is the major concern in this patient?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Fat-soluble vitamins A, D, E, and K"
+        },
+        {
+          "label": "B",
+          "text": "Water-soluble B vitamins"
+        },
+        {
+          "label": "C",
+          "text": "Vitamin C"
+        },
+        {
+          "label": "D",
+          "text": "Folate and cobalamin"
+        },
+        {
+          "label": "E",
+          "text": "Niacin and thiamine"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Fat malabsorption and steatorrhea threaten the fat-soluble vitamins A, D, E, and K.",
+        "whyCorrect": "Dietary fat malabsorption produces steatorrhea, and because the fat-soluble vitamins A, D, E, and K are absorbed and carried within lipoproteins along with dietary lipid, their depletion is the major concern when fat absorption fails.",
+        "whyWrongByChoice": {
+          "B": "The B vitamins are water-soluble and are not lost preferentially with dietary fat.",
+          "C": "Vitamin C is water-soluble and absorbed independently of dietary fat.",
+          "D": "Folate and cobalamin are water-soluble vitamins not carried in the hydrophobic lipoprotein core.",
+          "E": "Niacin and thiamine are water-soluble B vitamins unaffected by fat malabsorption in this way."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "steatorrhea",
+        "fat-soluble vitamins",
+        "fat malabsorption",
+        "lipoproteins"
+      ],
+      "topicId": "lipids-and-lipid-metabolism-introduction",
+      "topicName": "Lipids and Lipid Metabolism Introduction"
+    },
+    {
+      "id": "bo23-001",
+      "stem": "A researcher studies the endogenous pathway that converts acetyl-CoA into cholesterol in hepatocytes. She wishes to target the single step that is rate-limiting and is exploited by a major class of lipid-lowering drugs. Which enzyme should she target?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "HMG-CoA lyase"
+        },
+        {
+          "label": "B",
+          "text": "HMG-CoA reductase"
+        },
+        {
+          "label": "C",
+          "text": "HMG-CoA synthase"
+        },
+        {
+          "label": "D",
+          "text": "Thiolase"
+        },
+        {
+          "label": "E",
+          "text": "Squalene synthase"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "HMG-CoA reductase catalyzes the rate-limiting step of cholesterol synthesis and is the target of statins.",
+        "whyCorrect": "HMG-CoA reductase reduces HMG-CoA to mevalonate using NADPH and is the rate-limiting, most clinically salient step of cytoplasmic cholesterol synthesis. Statins competitively inhibit this enzyme to lower hepatic cholesterol production.",
+        "whyWrongByChoice": {
+          "A": "HMG-CoA lyase cleaves HMG-CoA to acetoacetate in ketone body synthesis, not cholesterol synthesis.",
+          "C": "HMG-CoA synthase forms HMG-CoA but does not catalyze the rate-limiting reduction and is central to ketogenesis in the mitochondrial matrix.",
+          "D": "Thiolase condenses two acetyl-CoA into acetoacetyl-CoA and is not the rate-limiting or drug-targeted step.",
+          "E": "Squalene is a downstream precursor of cholesterol; its formation is not the rate-limiting, statin-targeted step."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "cholesterol synthesis",
+        "HMG-CoA reductase",
+        "statins"
+      ],
+      "topicId": "cholesterol-synthesis-and-ketone-bodies",
+      "topicName": "Lipids and Lipid Metabolism: Cholesterol Synthesis and Ketone Bodies"
+    },
+    {
+      "id": "bo23-002",
+      "stem": "A 58-year-old man is started on a statin for hypercholesterolemia. Several weeks later his plasma LDL is markedly reduced. Which of the following mechanisms best explains the fall in plasma LDL?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Increased hepatocyte LDL receptor expression"
+        },
+        {
+          "label": "B",
+          "text": "Direct binding and clearance of LDL particles by the drug"
+        },
+        {
+          "label": "C",
+          "text": "Decreased intestinal absorption of dietary cholesterol"
+        },
+        {
+          "label": "D",
+          "text": "Enhanced biliary excretion of free cholesterol"
+        },
+        {
+          "label": "E",
+          "text": "Inhibition of lipoprotein lipase in capillaries"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "By lowering hepatic cholesterol synthesis, statins drive the liver to upregulate LDL receptors, which clears LDL from plasma.",
+        "whyCorrect": "When statins inhibit HMG-CoA reductase, hepatic cholesterol production drops while the liver still needs cholesterol for processes like bile salt synthesis. Hepatocytes compensate by increasing LDL receptor expression on their surface to take up cholesterol from the circulation, and this increased receptor expression is what lowers plasma LDL.",
+        "whyWrongByChoice": {
+          "B": "Statins do not physically bind or clear LDL particles; they act on an intracellular enzyme.",
+          "C": "Statins act on hepatic synthesis, not on intestinal cholesterol absorption.",
+          "D": "The brick attributes LDL lowering to hepatic LDL receptor upregulation, not to increased biliary cholesterol excretion.",
+          "E": "Lipoprotein lipase hydrolyzes triglycerides in lipoproteins and is not the mechanism of statin-induced LDL lowering."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "statins",
+        "LDL receptor",
+        "cholesterol"
+      ],
+      "topicId": "cholesterol-synthesis-and-ketone-bodies",
+      "topicName": "Lipids and Lipid Metabolism: Cholesterol Synthesis and Ketone Bodies"
+    },
+    {
+      "id": "bo23-003",
+      "stem": "A 62-year-old woman taking a statin develops diffuse muscle aches without weakness. Research on statin-associated myalgia points to a deficiency of a specific molecule in muscle tissue. Which molecule is most likely reduced?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Coenzyme Q (ubiquinone)"
+        },
+        {
+          "label": "B",
+          "text": "Creatine phosphate"
+        },
+        {
+          "label": "C",
+          "text": "Thiamine (vitamin B1)"
+        },
+        {
+          "label": "D",
+          "text": "Carnitine"
+        },
+        {
+          "label": "E",
+          "text": "NADPH"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Statin-related muscle pain is linked to suboptimal coenzyme Q (ubiquinone) in muscle.",
+        "whyCorrect": "Research shows patients on statins with muscle aches have suboptimal levels of coenzyme Q (ubiquinone), a component of the electron transport chain that shares the mevalonate pathway with cholesterol. Many patients therefore take CoQ supplements, though the evidence for benefit is lacking.",
+        "whyWrongByChoice": {
+          "B": "Creatine phosphate is an energy buffer and is not the molecule the brick ties to statin myalgia.",
+          "C": "Thiamine deficiency is discussed with alcoholism and CNS energy failure, not statin muscle pain.",
+          "D": "Carnitine shuttles fatty acids into mitochondria but is not implicated in statin myalgia here.",
+          "E": "NADPH is a reductant used in cholesterol synthesis, not the muscle molecule linked to statin aches."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "statins",
+        "coenzyme Q",
+        "side effects"
+      ],
+      "topicId": "cholesterol-synthesis-and-ketone-bodies",
+      "topicName": "Lipids and Lipid Metabolism: Cholesterol Synthesis and Ketone Bodies"
+    },
+    {
+      "id": "bo23-004",
+      "stem": "A physiology student is asked which circulating hormone is directly synthesized from cholesterol as its precursor. Which of the following is the best answer?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Glucagon"
+        },
+        {
+          "label": "B",
+          "text": "Insulin"
+        },
+        {
+          "label": "C",
+          "text": "Testosterone"
+        },
+        {
+          "label": "D",
+          "text": "Thyroid hormone"
+        },
+        {
+          "label": "E",
+          "text": "Epinephrine"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Steroid hormones such as testosterone are synthesized from cholesterol.",
+        "whyCorrect": "Cholesterol is the precursor of all steroid hormones, including the sex hormones estrogen and testosterone, mineralocorticoids like aldosterone, and glucocorticoids like cortisol. Testosterone is a steroid sex hormone and thus requires cholesterol.",
+        "whyWrongByChoice": {
+          "A": "Glucagon is a peptide hormone secreted by the pancreas, not a cholesterol derivative.",
+          "B": "Insulin is a peptide hormone from pancreatic beta cells and is not built from cholesterol.",
+          "D": "Thyroid hormone is derived from tyrosine and iodine and is not cholesterol-based.",
+          "E": "Epinephrine is a catecholamine derived from tyrosine, not from cholesterol."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "cholesterol",
+        "steroid hormones",
+        "testosterone"
+      ],
+      "topicId": "cholesterol-synthesis-and-ketone-bodies",
+      "topicName": "Lipids and Lipid Metabolism: Cholesterol Synthesis and Ketone Bodies"
+    },
+    {
+      "id": "bo23-005",
+      "stem": "A 34-year-old man is noted on eye exam to have yellowish plaques on his eyelids and a faint ring around the periphery of his cornea. He also has firm nodular thickening over the Achilles tendon. Given his young age, these findings should most prompt evaluation for which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "An underlying lipid disorder"
+        },
+        {
+          "label": "B",
+          "text": "A benign, expected consequence of normal aging"
+        },
+        {
+          "label": "C",
+          "text": "Chronic ultraviolet light exposure"
+        },
+        {
+          "label": "D",
+          "text": "A primary autoimmune thyroid disease"
+        },
+        {
+          "label": "E",
+          "text": "An acute bacterial tendon infection"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Xanthelasma, corneal arcus, and tendon xanthomas in a young patient suggest an underlying lipid disorder.",
+        "whyCorrect": "Xanthomas are lipid-filled foam-cell lesions associated with high cholesterol and metabolic disorders, commonly appearing on tendons of the hands or Achilles. Xanthelasma affects the eyelids and corneal arcus rings the cornea; while these can be benign signs of aging, their appearance in someone younger than 50 is indicative of a lipid disorder.",
+        "whyWrongByChoice": {
+          "B": "Corneal arcus and xanthelasma can be benign aging changes, but in a patient under 50 they point to a lipid disorder rather than normal aging.",
+          "C": "These cholesterol-laden lesions are not caused by ultraviolet light exposure.",
+          "D": "The lesions reflect lipid accumulation, not primary autoimmune thyroid disease.",
+          "E": "Tendon xanthomas are chronic lipid deposits, not an acute bacterial tendon infection."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "xanthoma",
+        "corneal arcus",
+        "hypercholesterolemia"
+      ],
+      "topicId": "cholesterol-synthesis-and-ketone-bodies",
+      "topicName": "Lipids and Lipid Metabolism: Cholesterol Synthesis and Ketone Bodies"
+    },
+    {
+      "id": "bo23-006",
+      "stem": "During prolonged fasting, hepatocytes synthesize ketone bodies from accumulating acetyl-CoA. In which subcellular location does ketone body synthesis occur, contrasting with cholesterol synthesis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cytoplasm"
+        },
+        {
+          "label": "B",
+          "text": "Mitochondrial matrix"
+        },
+        {
+          "label": "C",
+          "text": "Smooth endoplasmic reticulum"
+        },
+        {
+          "label": "D",
+          "text": "Peroxisome"
+        },
+        {
+          "label": "E",
+          "text": "Golgi apparatus"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Ketone bodies are produced in the mitochondrial matrix of the liver, whereas cholesterol synthesis is cytoplasmic.",
+        "whyCorrect": "Although both pathways pass through an HMG-CoA intermediate and require three acetyl-CoA, ketone body formation occurs within the mitochondrial matrix while cholesterol synthesis is localized to the cytoplasm. This compartmental separation lets the two pathways use the same intermediate for different purposes.",
+        "whyWrongByChoice": {
+          "A": "The cytoplasm is where cholesterol synthesis occurs, not ketone body synthesis.",
+          "C": "The smooth endoplasmic reticulum is not the site described for ketogenesis.",
+          "D": "Peroxisomes contribute to very-long-chain fatty acid oxidation but are not the site of ketone body synthesis here.",
+          "E": "The Golgi apparatus processes and packages proteins and is not involved in ketogenesis."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "ketone bodies",
+        "mitochondria",
+        "compartmentalization"
+      ],
+      "topicId": "cholesterol-synthesis-and-ketone-bodies",
+      "topicName": "Lipids and Lipid Metabolism: Cholesterol Synthesis and Ketone Bodies"
+    },
+    {
+      "id": "bo23-007",
+      "stem": "During starvation, skeletal muscle takes up circulating ketone bodies and catabolizes them for energy. Catabolism of ketone bodies in these tissues directly regenerates which molecule that then enters the TCA cycle?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Pyruvate"
+        },
+        {
+          "label": "B",
+          "text": "Acetyl-CoA"
+        },
+        {
+          "label": "C",
+          "text": "Glucose"
+        },
+        {
+          "label": "D",
+          "text": "Alanine"
+        },
+        {
+          "label": "E",
+          "text": "Free fatty acids"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Peripheral tissues convert ketone bodies back into acetyl-CoA to feed the TCA cycle.",
+        "whyCorrect": "Ketone bodies are transported without carriers to tissues such as skeletal muscle, cardiac muscle, and renal cortex, which express enzymes that convert them back to acetyl-CoA to supply the TCA cycle. Acetyl-CoA cannot directly give rise to pyruvate or glucose.",
+        "whyWrongByChoice": {
+          "A": "Pyruvate is a gluconeogenic element; acetyl-CoA from ketolysis cannot be converted directly to pyruvate.",
+          "C": "Glucose is not produced from ketone body catabolism; acetyl-CoA cannot yield net glucose.",
+          "D": "Alanine is a gluconeogenic amino acid and is not the product of ketone body catabolism.",
+          "E": "Free fatty acid oxidation generates the acetyl-CoA that is packaged into ketone bodies; ketolysis regenerates acetyl-CoA, not fatty acids."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "ketolysis",
+        "acetyl-CoA",
+        "TCA cycle"
+      ],
+      "topicId": "cholesterol-synthesis-and-ketone-bodies",
+      "topicName": "Lipids and Lipid Metabolism: Cholesterol Synthesis and Ketone Bodies"
+    },
+    {
+      "id": "bo23-008",
+      "stem": "The liver synthesizes ketone bodies but does not consume them, avoiding a futile cycle of production and catabolism within the same cells. Nominal hepatic expression of which enzyme accounts for the liver's inability to catabolize ketone bodies?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "beta-ketoacyl-CoA transferase"
+        },
+        {
+          "label": "B",
+          "text": "beta-hydroxybutyrate dehydrogenase"
+        },
+        {
+          "label": "C",
+          "text": "Thiolase"
+        },
+        {
+          "label": "D",
+          "text": "HMG-CoA reductase"
+        },
+        {
+          "label": "E",
+          "text": "HMG-CoA synthase"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The liver expresses only nominal beta-ketoacyl-CoA transferase, so it cannot use the ketone bodies it makes.",
+        "whyCorrect": "Utilization of ketone bodies requires beta-ketoacyl-CoA transferase, which converts acetoacetate to acetoacetyl-CoA and circumvents the irreversible synthesis steps. Because the liver expresses this enzyme only nominally, it produces ketone bodies but cannot catabolize them, preventing a futile cycle.",
+        "whyWrongByChoice": {
+          "B": "beta-hydroxybutyrate dehydrogenase is expressed in the liver and tissues to interconvert acetoacetate and beta-hydroxybutyrate based on NADH.",
+          "C": "Thiolase is present in the liver as the last step of beta-oxidation and the first step of ketone synthesis.",
+          "D": "HMG-CoA reductase catalyzes the rate-limiting step of cholesterol synthesis, not ketone catabolism.",
+          "E": "HMG-CoA synthase is actually a liver ketogenic enzyme, not the one absent from the liver."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "ketone bodies",
+        "beta-ketoacyl-CoA transferase",
+        "futile cycle"
+      ],
+      "topicId": "cholesterol-synthesis-and-ketone-bodies",
+      "topicName": "Lipids and Lipid Metabolism: Cholesterol Synthesis and Ketone Bodies"
+    },
+    {
+      "id": "bo23-009",
+      "stem": "A 30-year-old woman presents with rapid weight loss after several weeks on a strict high-fat, low-carbohydrate diet. Blood pressure is 112/74 mmHg and heart rate is 90/min. Exam shows reduced muscle mass and adipose tissue. Urine shows elevated ketones but no glucose or reducing sugars. Which metabolic adaptation primarily contributes to her ketosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Disrupted insulin signaling"
+        },
+        {
+          "label": "B",
+          "text": "Heightened glycolysis"
+        },
+        {
+          "label": "C",
+          "text": "Fatty acid oxidation"
+        },
+        {
+          "label": "D",
+          "text": "Lipogenesis"
+        },
+        {
+          "label": "E",
+          "text": "Chylomicron formation"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "In dietary ketosis, glucagon-driven fatty acid oxidation floods the liver with acetyl-CoA, producing ketone bodies.",
+        "whyCorrect": "Her low insulin/glucagon ratio mobilizes triglyceride stores from adipocytes to fuel hepatic gluconeogenesis. Fatty acid oxidation produces acetyl-CoA for the TCA to power gluconeogenesis, and the combination of rising acetyl-CoA and the pulling of oxaloacetate into gluconeogenesis leads to acetyl-CoA accumulation and ketone body production.",
+        "whyWrongByChoice": {
+          "A": "There is no evidence of pathologic insulin-signaling disruption in this healthy dieter; her hormonal state is a normal low insulin/glucagon ratio.",
+          "B": "Glycolysis would not be heightened when dietary glucose is limited.",
+          "D": "Lipogenesis is an anabolic process, but she is in a catabolic, fat-mobilizing state.",
+          "E": "Chylomicron formation follows a high-fat meal and delivers carbons for use, but it is not the adaptation driving her ketosis."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "fasting ketosis",
+        "fatty acid oxidation",
+        "diet"
+      ],
+      "topicId": "cholesterol-synthesis-and-ketone-bodies",
+      "topicName": "Lipids and Lipid Metabolism: Cholesterol Synthesis and Ketone Bodies"
+    },
+    {
+      "id": "bo23-010",
+      "stem": "A 24-year-old man with a history of alcohol abuse reports drinking large amounts of whiskey over several days. Blood pressure is 100/60 mmHg and respiratory rate is 18/min. Labs show elevated lactate, a high anion gap metabolic acidosis, hypoglycemia, and elevated serum ketones. Which parameter is most directly contributing to his ketone body production?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Rising NADH/NAD+ ratio"
+        },
+        {
+          "label": "B",
+          "text": "Sustained insulin signaling"
+        },
+        {
+          "label": "C",
+          "text": "Metabolic acidosis"
+        },
+        {
+          "label": "D",
+          "text": "Thiamine deficiency"
+        },
+        {
+          "label": "E",
+          "text": "Increased pyruvate availability"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Alcohol metabolism raises the hepatic NADH/NAD+ ratio, which slows the TCA and gluconeogenesis and drives ketogenesis.",
+        "whyCorrect": "Alcohol metabolism increases the NADH/NAD+ ratio, favoring conversion of pyruvate to lactate (depriving gluconeogenesis of substrate) and oxaloacetate to malate. This depletes and slows the TCA cycle, so acetyl-CoA accumulates and is shunted into ketone body synthesis, producing hypoglycemia and ketoacidosis.",
+        "whyWrongByChoice": {
+          "B": "Decreased, not sustained, insulin signaling favors ketone body formation.",
+          "C": "The metabolic acidosis is a result of the accumulating ketones and lactate, not the cause of ketone production.",
+          "D": "Thiamine deficiency is associated with alcoholism and hypoglycemia management but does not directly cause ketone body formation.",
+          "E": "Pyruvate is actually diverted to lactate and reduced, not increased, in this high-NADH state."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "alcoholic ketoacidosis",
+        "NADH",
+        "lactic acidosis"
+      ],
+      "topicId": "cholesterol-synthesis-and-ketone-bodies",
+      "topicName": "Lipids and Lipid Metabolism: Cholesterol Synthesis and Ketone Bodies"
+    },
+    {
+      "id": "bo23-011",
+      "stem": "A 19-year-old with newly diagnosed type 1 diabetes presents in diabetic ketoacidosis. Despite a very high plasma glucose, his tissues behave as if starving. Which underlying abnormality best explains why his body remains in a catabolic, ketone-producing state?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Insulin insufficiency preventing glucose uptake via GLUT4"
+        },
+        {
+          "label": "B",
+          "text": "Excess insulin driving glucose into all tissues"
+        },
+        {
+          "label": "C",
+          "text": "A primary deficiency of glucagon secretion"
+        },
+        {
+          "label": "D",
+          "text": "Loss of hepatic glucose-6-phosphatase activity"
+        },
+        {
+          "label": "E",
+          "text": "Inability to absorb dietary carbohydrate from the gut"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "In DKA, insulin insufficiency prevents insulin-dependent glucose uptake, so tissues sense starvation despite high glucose.",
+        "whyCorrect": "The fundamental cause of DKA is insulin insufficiency, most common in type 1 diabetics who cannot synthesize insulin. Insulin is required for tissues like skeletal muscle and adipocytes to take up glucose via GLUT4, so in its absence the body perceives a starving state despite abundant plasma glucose, promoting fatty acid liberation, gluconeogenesis, and ketone body production.",
+        "whyWrongByChoice": {
+          "B": "DKA reflects a lack of insulin, not an excess driving glucose into tissues.",
+          "C": "DKA arises from insulin deficiency; glucagon signaling is relatively unopposed rather than deficient.",
+          "D": "Loss of glucose-6-phosphatase would impair glucose release, not explain the insulin-deficient starvation state of DKA.",
+          "E": "The problem is cellular glucose uptake due to missing insulin, not intestinal carbohydrate absorption."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "DKA",
+        "insulin",
+        "GLUT4"
+      ],
+      "topicId": "cholesterol-synthesis-and-ketone-bodies",
+      "topicName": "Lipids and Lipid Metabolism: Cholesterol Synthesis and Ketone Bodies"
+    },
+    {
+      "id": "bo23-012",
+      "stem": "A patient in severe diabetic ketoacidosis exhibits labored, rapid, deep breathing. This respiratory pattern is a compensatory response to the acid load. What is the physiologic purpose of this breathing pattern?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "To exhale CO2 and shift the bicarbonate buffer to consume excess protons"
+        },
+        {
+          "label": "B",
+          "text": "To retain CO2 and raise carbonic acid concentration"
+        },
+        {
+          "label": "C",
+          "text": "To exhale ketone bodies directly from the alveoli"
+        },
+        {
+          "label": "D",
+          "text": "To increase oxygen delivery and correct the underlying hypoglycemia"
+        },
+        {
+          "label": "E",
+          "text": "To increase renal bicarbonate reabsorption"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Kussmaul respirations blow off CO2, driving the bicarbonate buffer toward consuming excess protons to relieve acidosis.",
+        "whyCorrect": "Accumulating ketone bodies act as metabolic acids and cause a high anion gap metabolic acidosis. Labored deep breathing (Kussmaul respirations) rapidly exhales CO2, shifting the bicarbonate buffering equilibrium (HCO3- + H+ to H2CO3 to CO2 + H2O) so that excess protons are consumed, helping relieve the drop in pH.",
+        "whyWrongByChoice": {
+          "B": "Retaining CO2 and raising carbonic acid would worsen the acidosis, the opposite of the compensatory goal.",
+          "C": "Fruity breath comes from volatile acetone, but Kussmaul breathing itself functions to blow off CO2, not to exhale ketone acids as a compensation.",
+          "D": "The breathing pattern compensates for acidosis and does not correct the hypoglycemia.",
+          "E": "Kussmaul respirations are a pulmonary, not renal, compensatory mechanism for the acid load."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Kussmaul respirations",
+        "anion gap acidosis",
+        "DKA"
+      ],
+      "topicId": "cholesterol-synthesis-and-ketone-bodies",
+      "topicName": "Lipids and Lipid Metabolism: Cholesterol Synthesis and Ketone Bodies"
+    },
+    {
+      "id": "bo24-001",
+      "stem": "After a wasp sting, a 30-year-old man develops local swelling and redness. Tissue-resident macrophages and infiltrating neutrophils release an enzyme that liberates the substrate for eicosanoid synthesis from the phospholipids of the cell membrane. Which of the following enzymes is directly responsible for releasing this substrate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Phospholipase A2 (PLA2)"
+        },
+        {
+          "label": "B",
+          "text": "Phospholipase C (PLC)"
+        },
+        {
+          "label": "C",
+          "text": "Cyclooxygenase-1 (COX-1)"
+        },
+        {
+          "label": "D",
+          "text": "Lipoxygenase (LOX)"
+        },
+        {
+          "label": "E",
+          "text": "HMG-CoA reductase"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "PLA2 cleaves membrane phospholipids to release arachidonic acid, the substrate for eicosanoid synthesis.",
+        "whyCorrect": "In response to tissue damage, pro-inflammatory cells such as neutrophils and macrophages release phospholipase A2 (PLA2), which cleaves the sn-2 position of membrane phospholipids and liberates arachidonic acid. Arachidonic acid is the precursor from which all eicosanoids are subsequently generated.",
+        "whyWrongByChoice": {
+          "B": "Phospholipase C generates lipid-derived second messengers that alter intracellular calcium levels; it does not release arachidonic acid for eicosanoid synthesis.",
+          "C": "COX-1 acts downstream on arachidonic acid after it has already been released; it does not free the fatty acid from the membrane.",
+          "D": "LOX also acts downstream on already-released arachidonic acid to make leukotrienes, not on the membrane phospholipid itself.",
+          "E": "HMG-CoA reductase is the rate-limiting enzyme of cholesterol synthesis and has no role in liberating arachidonic acid."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "phospholipase A2",
+        "arachidonic acid",
+        "eicosanoids"
+      ],
+      "topicId": "boom-lipids-and-lipid-metabolism-introduction-3-of-3",
+      "topicName": "BOOM: Lipids and Lipid Metabolism Introduction (3 of 3)"
+    },
+    {
+      "id": "bo24-002",
+      "stem": "A biochemistry student is asked to characterize arachidonic acid, the key substrate of the inflammatory eicosanoid pathway. Which of the following best describes this molecule?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A 16-carbon saturated fatty acid"
+        },
+        {
+          "label": "B",
+          "text": "A 20-carbon omega-6 polyunsaturated fatty acid"
+        },
+        {
+          "label": "C",
+          "text": "A 20-carbon omega-3 polyunsaturated fatty acid"
+        },
+        {
+          "label": "D",
+          "text": "A sterol with a four fused-ring structure"
+        },
+        {
+          "label": "E",
+          "text": "A phospholipid with a phosphate head group"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Arachidonic acid is a 20-carbon omega-6 polyunsaturated fatty acid and the precursor of eicosanoids.",
+        "whyCorrect": "Arachidonic acid is a 20-carbon omega-6 polyunsaturated fatty acid that is an abundant membrane component. It is designated omega-6 because its first double bond occurs on the sixth carbon counting from the terminal methyl group, and its 20-carbon length is the origin of the term eicosanoid (Greek eicosa = 20).",
+        "whyWrongByChoice": {
+          "A": "Arachidonic acid is unsaturated (it has multiple double bonds) and has 20 carbons, not 16, and it is not saturated.",
+          "C": "It is an omega-6, not an omega-3, fatty acid; omega-3 species such as DHA have their first double bond on the third carbon from the methyl end.",
+          "D": "A four fused-ring structure describes cholesterol/sterols, not a fatty acid.",
+          "E": "Arachidonic acid is a free fatty acid released from phospholipids, not a phospholipid bearing a phosphate head group."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "arachidonic acid",
+        "omega-6",
+        "fatty acid structure"
+      ],
+      "topicId": "boom-lipids-and-lipid-metabolism-introduction-3-of-3",
+      "topicName": "BOOM: Lipids and Lipid Metabolism Introduction (3 of 3)"
+    },
+    {
+      "id": "bo24-003",
+      "stem": "A researcher notes that a locally produced signaling molecule derived from arachidonic acid exerts its effect only near the cell that made it and disappears within minutes. Which property of eicosanoids best explains this restricted, short-range action?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "They are stored in secretory granules and released only in bulk"
+        },
+        {
+          "label": "B",
+          "text": "They bind intracellular DNA response elements to alter transcription"
+        },
+        {
+          "label": "C",
+          "text": "They are G-protein coupled receptor ligands with a half-life of roughly 10 seconds to 5 minutes"
+        },
+        {
+          "label": "D",
+          "text": "They circulate bound to albumin for hours before acting"
+        },
+        {
+          "label": "E",
+          "text": "They are covalently incorporated into membrane phospholipids for long-term signaling"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Eicosanoids are short-lived GPCR ligands, so they act locally near their site of synthesis.",
+        "whyCorrect": "Eicosanoids are ligands for G-protein coupled receptors (GPCRs) with a short half-life of 10 seconds to 5 minutes. Because they are rapidly degraded, they alter cellular function only within close proximity to where they are synthesized, giving them autocrine/paracrine (local) rather than endocrine (systemic) actions.",
+        "whyWrongByChoice": {
+          "A": "Eicosanoids are synthesized on demand from membrane arachidonic acid rather than pre-stored in granules for bulk release.",
+          "B": "Eicosanoids act at cell-surface GPCRs, not by binding intracellular DNA elements like steroid hormones do.",
+          "D": "Their very short half-life prevents prolonged circulation; they do not act systemically for hours.",
+          "E": "They are cleaved from membranes and act as diffusible ligands, not re-incorporated for long-term membrane signaling."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "eicosanoids",
+        "GPCR",
+        "half-life"
+      ],
+      "topicId": "boom-lipids-and-lipid-metabolism-introduction-3-of-3",
+      "topicName": "BOOM: Lipids and Lipid Metabolism Introduction (3 of 3)"
+    },
+    {
+      "id": "bo24-004",
+      "stem": "During an acute inflammatory response, a particular cyclooxygenase isoform is transiently expressed and drives the hallmarks of inflammation: pain, heat, redness, and swelling. Which enzyme is being described?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "COX-1, the constitutive isoform"
+        },
+        {
+          "label": "B",
+          "text": "COX-2, the inducible isoform"
+        },
+        {
+          "label": "C",
+          "text": "Lipoxygenase (LOX)"
+        },
+        {
+          "label": "D",
+          "text": "Phospholipase A2 (PLA2)"
+        },
+        {
+          "label": "E",
+          "text": "Thromboxane synthase"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "COX-2 is the inducible isoform expressed during inflammation and tissue injury.",
+        "whyCorrect": "COX-2 is referred to as the inducible form because it is transiently expressed during inflammation or tissue injury and is associated with the hallmarks of inflammation: pain, heat (fever), redness, and swelling. This distinction is the rationale behind developing selective COX-2 inhibitors.",
+        "whyWrongByChoice": {
+          "A": "COX-1 is the constitutive form, continuously expressed to maintain physiological homeostasis, not transiently induced by inflammation.",
+          "C": "LOX produces leukotrienes and is a separate branch; it is not the induced cyclooxygenase driving these classic inflammatory signs.",
+          "D": "PLA2 releases arachidonic acid upstream of COX and is not the inducible cyclooxygenase isoform.",
+          "E": "Thromboxane synthase converts PGH2 to thromboxane A2 and is not the inducible COX isoform associated with inflammation."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "COX-2",
+        "inducible",
+        "inflammation"
+      ],
+      "topicId": "boom-lipids-and-lipid-metabolism-introduction-3-of-3",
+      "topicName": "BOOM: Lipids and Lipid Metabolism Introduction (3 of 3)"
+    },
+    {
+      "id": "bo24-005",
+      "stem": "A 70-year-old woman with a recent mild stroke is started on low-dose daily aspirin for stroke and heart-attack prevention. Her lipid panel, LDL, HDL, and HMG-CoA reductase function are all unaffected by the drug. Which mechanism best explains aspirin's antithrombotic benefit in this setting?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Reversible competitive inhibition of COX-2 in endothelium"
+        },
+        {
+          "label": "B",
+          "text": "Irreversible inhibition of platelet COX-1, blocking thromboxane A2 for the platelet's lifespan"
+        },
+        {
+          "label": "C",
+          "text": "Inhibition of HMG-CoA reductase, lowering circulating LDL"
+        },
+        {
+          "label": "D",
+          "text": "Inhibition of phospholipase A2, reducing arachidonic acid release"
+        },
+        {
+          "label": "E",
+          "text": "Blockade of leukotriene receptors on platelets"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Aspirin irreversibly inhibits platelet COX-1, abolishing thromboxane A2 production for the entire platelet lifespan.",
+        "whyCorrect": "Platelets are essentially anucleate cell fragments that lack organelles and cannot synthesize new protein. Once aspirin irreversibly inhibits COX-1 in a platelet, thromboxane A2 (TXA2) production is blocked for the entire lifespan of that platelet. Reduced platelet-derived TXA2 decreases both platelet aggregation and vasoconstriction, which is clinically beneficial in cardiovascular disease.",
+        "whyWrongByChoice": {
+          "A": "Aspirin inhibits COX irreversibly, not reversibly, and its antithrombotic effect is due to platelet COX-1, not endothelial COX-2.",
+          "C": "Aspirin does not affect HMG-CoA reductase or LDL; the vignette explicitly notes the lipid panel is unchanged.",
+          "D": "Glucocorticoids, not aspirin, inhibit PLA2; aspirin acts on COX downstream of arachidonic acid release.",
+          "E": "Aspirin acts on the COX enzyme, not on leukotriene receptors, and leukotrienes are not the antithrombotic mediator here."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "aspirin",
+        "thromboxane A2",
+        "platelets",
+        "antithrombotic"
+      ],
+      "topicId": "boom-lipids-and-lipid-metabolism-introduction-3-of-3",
+      "topicName": "BOOM: Lipids and Lipid Metabolism Introduction (3 of 3)"
+    },
+    {
+      "id": "bo24-006",
+      "stem": "Aspirin covalently modifies a serine residue in the active site of both cyclooxygenase isoforms, and this effect can only be overcome by synthesis of new enzyme. Which best describes this type of enzyme inhibition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Reversible competitive inhibition"
+        },
+        {
+          "label": "B",
+          "text": "Reversible noncompetitive inhibition"
+        },
+        {
+          "label": "C",
+          "text": "Uncompetitive inhibition"
+        },
+        {
+          "label": "D",
+          "text": "Irreversible (suicide) inhibition"
+        },
+        {
+          "label": "E",
+          "text": "Allosteric feedback inhibition"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Aspirin acetylates an active-site serine, irreversibly (suicide) inhibiting COX.",
+        "whyCorrect": "Aspirin promotes acetylation, a covalent post-translational modification, of a serine residue within the active site of both COX isoforms. This covalent modification irreversibly inhibits the enzyme by sterically blocking arachidonic acid entry into the active site, so the only way to overcome the inhibition is synthesis of new enzyme, making aspirin a suicide inhibitor.",
+        "whyWrongByChoice": {
+          "A": "Competitive inhibitors bind reversibly and can be displaced by substrate; aspirin's covalent acetylation is not reversible.",
+          "B": "Noncompetitive inhibition is reversible and does not involve covalent modification of the active site.",
+          "C": "Uncompetitive inhibition binds only the enzyme-substrate complex reversibly and does not describe covalent acetylation.",
+          "E": "Allosteric feedback inhibition is a reversible regulatory mechanism, not a covalent, irreversible modification of the active site."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "aspirin",
+        "irreversible inhibition",
+        "acetylation",
+        "COX"
+      ],
+      "topicId": "boom-lipids-and-lipid-metabolism-introduction-3-of-3",
+      "topicName": "BOOM: Lipids and Lipid Metabolism Introduction (3 of 3)"
+    },
+    {
+      "id": "bo24-007",
+      "stem": "A 45-year-old man presents with epigastric pain and bloating. He reports frequent ibuprofen use for chronic back pain over the past 8 months. Examination shows epigastric tenderness without rebound, and labs show mild normocytic anemia with no evidence of hemolysis. Which metabolic mechanism is most likely contributing to his condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Increased leukotriene production"
+        },
+        {
+          "label": "B",
+          "text": "Reduced prostaglandin synthesis"
+        },
+        {
+          "label": "C",
+          "text": "Increased arachidonic acid generation"
+        },
+        {
+          "label": "D",
+          "text": "Inadequate erythrocyte NADPH levels"
+        },
+        {
+          "label": "E",
+          "text": "Excess thromboxane A2 production"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Chronic NSAID use inhibits COX-1, reducing protective gastric prostaglandins and predisposing to ulcers and bleeding.",
+        "whyCorrect": "Prolonged intake of an NSAID inhibits COX-1 and decreases production of prostaglandins such as PGE2 that are required for protective gastric mucus and reduced acid secretion. Loss of this mucosal protection leads to gastric bleeding and ulcers, a hallmark and major side effect of NSAID overuse, consistent with epigastric pain and a mild anemia from chronic blood loss.",
+        "whyWrongByChoice": {
+          "A": "Leukotrienes are not associated with adverse GI effects; although excess arachidonic acid could be shunted to LOX, that would not explain the gastric injury.",
+          "C": "PLA2 activity and arachidonic acid generation would not be enhanced by COX inhibition, and increased substrate does not account for the mucosal damage.",
+          "D": "Inadequate erythrocyte NADPH causes hemolytic anemia (as in G6PD deficiency), but this patient has no evidence of hemolysis.",
+          "E": "COX inhibition would reduce, not increase, thromboxane A2; excess TXA2 does not cause gastric ulceration."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "NSAID",
+        "gastric ulcer",
+        "prostaglandins",
+        "PGE2"
+      ],
+      "topicId": "boom-lipids-and-lipid-metabolism-introduction-3-of-3",
+      "topicName": "BOOM: Lipids and Lipid Metabolism Introduction (3 of 3)"
+    },
+    {
+      "id": "bo24-008",
+      "stem": "A patient with a severe inflammatory condition is given a drug that broadly reduces production of prostaglandins, thromboxanes, and leukotrienes simultaneously by acting upstream in the arachidonic acid pathway. Which agent was most likely given?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Aspirin"
+        },
+        {
+          "label": "B",
+          "text": "Ibuprofen"
+        },
+        {
+          "label": "C",
+          "text": "A glucocorticoid such as prednisone"
+        },
+        {
+          "label": "D",
+          "text": "A leukotriene-receptor antagonist"
+        },
+        {
+          "label": "E",
+          "text": "A statin"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Glucocorticoids inhibit PLA2, blocking arachidonic acid release and dampening both the COX and LOX branches.",
+        "whyCorrect": "Glucocorticoids such as cortisol and prednisone dampen inflammation by inhibiting the production of arachidonic acid via PLA2. Because arachidonic acid is the common substrate for both COX and LOX enzymes, blocking its release broadly suppresses prostaglandins, thromboxanes, and leukotrienes at once.",
+        "whyWrongByChoice": {
+          "A": "Aspirin inhibits only the COX enzymes downstream of arachidonic acid; LOX-derived leukotrienes are not inhibited by COX blockade.",
+          "B": "Ibuprofen also inhibits only COX, so it does not reduce leukotriene formation.",
+          "D": "A leukotriene-receptor antagonist blocks only the LOX/leukotriene branch and does not reduce prostaglandins or thromboxanes.",
+          "E": "Statins inhibit HMG-CoA reductase to lower cholesterol synthesis and have no direct effect on the arachidonic acid pathway."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "glucocorticoids",
+        "PLA2",
+        "anti-inflammatory",
+        "COX and LOX"
+      ],
+      "topicId": "boom-lipids-and-lipid-metabolism-introduction-3-of-3",
+      "topicName": "BOOM: Lipids and Lipid Metabolism Introduction (3 of 3)"
+    },
+    {
+      "id": "bo24-009",
+      "stem": "Several minutes after a bee sting, a patient who was given an antihistamine for immediate itching and hives develops worsening bronchoconstriction and inflammation that the antihistamine fails to control. This delayed but sustained reaction is mediated by molecules known as the slow-reacting substance of anaphylaxis. From which pathway are these mediators derived?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cyclooxygenase (COX) pathway"
+        },
+        {
+          "label": "B",
+          "text": "Lipoxygenase (LOX) pathway"
+        },
+        {
+          "label": "C",
+          "text": "Phospholipase C (PLC) pathway"
+        },
+        {
+          "label": "D",
+          "text": "Pentose phosphate pathway (PPP)"
+        },
+        {
+          "label": "E",
+          "text": "HMG-CoA reductase pathway"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Leukotrienes, the slow-reacting substance of anaphylaxis, are LOX-pathway products that cause delayed bronchoconstriction and inflammation.",
+        "whyCorrect": "The lipoxygenase (LOX) pathway converts arachidonic acid into leukotrienes, which comprise the slow-reacting substance of anaphylaxis (SRS-A). Released from mast cells later than histamine and with a longer duration, leukotrienes cause pronounced bronchoconstriction and inflammation; because antihistamines do not block them, a steroid (which inhibits PLA2) is often warranted.",
+        "whyWrongByChoice": {
+          "A": "The COX pathway produces prostaglandins and thromboxanes, not the leukotrienes that make up SRS-A.",
+          "C": "The PLC pathway produces second messengers that raise intracellular calcium and does not generate leukotrienes.",
+          "D": "The pentose phosphate pathway generates NADPH and ribose-5-phosphate and has no role in eicosanoid synthesis.",
+          "E": "The HMG-CoA reductase pathway is involved in cholesterol synthesis, not leukotriene production."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "leukotrienes",
+        "LOX",
+        "SRS-A",
+        "asthma"
+      ],
+      "topicId": "boom-lipids-and-lipid-metabolism-introduction-3-of-3",
+      "topicName": "BOOM: Lipids and Lipid Metabolism Introduction (3 of 3)"
+    },
+    {
+      "id": "bo24-010",
+      "stem": "An obstetrician selects an eicosanoid agent to induce labor and to help manage postpartum hemorrhage by stimulating uterine contractions. Which mediator has these actions?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Prostaglandin E2 (PGE2)"
+        },
+        {
+          "label": "B",
+          "text": "Thromboxane A2 (TXA2)"
+        },
+        {
+          "label": "C",
+          "text": "Prostacyclin (PGI2)"
+        },
+        {
+          "label": "D",
+          "text": "Leukotriene B4"
+        },
+        {
+          "label": "E",
+          "text": "Arachidonic acid"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "PGE2 stimulates uterine contractions, aiding labor induction and management of postpartum hemorrhage.",
+        "whyCorrect": "Among the eicosanoids, PGE2 promotes labor induction and helps manage postpartum hemorrhage by stimulating uterine contractions. This reproductive role is one of the many physiological effects of prostaglandins produced through the COX pathway.",
+        "whyWrongByChoice": {
+          "B": "Thromboxane A2 causes platelet aggregation and vasoconstriction, not uterine contraction for labor induction.",
+          "C": "Prostacyclin (PGI2) inhibits platelet aggregation and dilates blood vessels; it is not used to stimulate uterine contractions.",
+          "D": "Leukotriene B4 is a LOX product that drives leukocyte chemotaxis and inflammation, not uterine contractions.",
+          "E": "Arachidonic acid is the upstream fatty acid precursor and has no direct receptor-mediated uterotonic action itself."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "PGE2",
+        "prostaglandin",
+        "reproductive",
+        "uterine contraction"
+      ],
+      "topicId": "boom-lipids-and-lipid-metabolism-introduction-3-of-3",
+      "topicName": "BOOM: Lipids and Lipid Metabolism Introduction (3 of 3)"
+    },
+    {
+      "id": "bo24-011",
+      "stem": "A cardiologist explains that low-dose aspirin permanently disables thromboxane production in platelets, yet vascular endothelial cells continue to make vasodilatory prostaglandins over time. Which feature of endothelial cells best explains their ability to overcome aspirin's inhibition and keep producing PGI2 and PGE2?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Endothelial cells contain organelles and can translate new COX-2 enzyme"
+        },
+        {
+          "label": "B",
+          "text": "Endothelial cells use LOX instead of COX to make prostaglandins"
+        },
+        {
+          "label": "C",
+          "text": "Endothelial cells lack COX enzymes entirely"
+        },
+        {
+          "label": "D",
+          "text": "Aspirin binds endothelial COX reversibly but platelet COX irreversibly"
+        },
+        {
+          "label": "E",
+          "text": "Endothelial cells convert thromboxane A2 into prostacyclin"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Because endothelial cells have organelles, they can synthesize new COX-2 and overcome aspirin's irreversible inhibition, unlike anucleate platelets.",
+        "whyCorrect": "Unlike platelets, organelle-containing endothelial cells can translate new COX-2 enzyme, which overcomes the aspirin-mediated inhibition. This restored COX-2 produces PGE2 and PGI2, both of which promote vasodilation. Low-dose aspirin is chosen so that platelet COX-1 is permanently disabled while endothelial COX-2 can regenerate, forming the basis of low-dose aspirin therapy to lower stroke and heart-attack risk.",
+        "whyWrongByChoice": {
+          "B": "Prostaglandins including PGI2 are made by COX, not LOX; LOX makes leukotrienes.",
+          "C": "Endothelial cells do express COX (notably COX-2); they do not lack the enzyme.",
+          "D": "Aspirin inhibits COX irreversibly in both cell types; the difference is that endothelium can make new enzyme while platelets cannot.",
+          "E": "There is no enzymatic conversion of thromboxane A2 into prostacyclin; PGI2 is synthesized directly from the PGH2 precursor."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "COX-2",
+        "endothelium",
+        "prostacyclin",
+        "aspirin"
+      ],
+      "topicId": "boom-lipids-and-lipid-metabolism-introduction-3-of-3",
+      "topicName": "BOOM: Lipids and Lipid Metabolism Introduction (3 of 3)"
+    },
+    {
+      "id": "bo24-012",
+      "stem": "A patient with an inflammatory disorder that has not responded to other agents is prescribed indomethacin, a very potent NSAID. Compared with aspirin, how does indomethacin inhibit cyclooxygenase, and why does it tend to cause more gastric side effects?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Irreversible acetylation of COX; more gastric effects from higher COX-2 affinity"
+        },
+        {
+          "label": "B",
+          "text": "Reversible competitive inhibition of COX; more gastric effects from higher COX-1 affinity"
+        },
+        {
+          "label": "C",
+          "text": "Reversible inhibition of PLA2; more gastric effects from reduced leukotrienes"
+        },
+        {
+          "label": "D",
+          "text": "Irreversible inhibition of LOX; more gastric effects from increased prostaglandins"
+        },
+        {
+          "label": "E",
+          "text": "Selective irreversible inhibition of COX-2 only; more gastric effects from blocked PGI2"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Indomethacin is a reversible competitive COX inhibitor with higher affinity for COX-1, accounting for its greater gastric toxicity.",
+        "whyCorrect": "Unlike aspirin, indomethacin is not a suicide inhibitor; it is a very potent reversible, competitive COX inhibitor. Although it inhibits both isoforms, indomethacin has a higher affinity for COX-1, and greater COX-1 inhibition reduces the protective gastric prostaglandins, which accounts for its increased adverse gastric effects.",
+        "whyWrongByChoice": {
+          "A": "Irreversible acetylation describes aspirin, not indomethacin; and gastric toxicity relates to COX-1, not COX-2, inhibition.",
+          "C": "Indomethacin inhibits COX, not PLA2, and its gastric effects stem from loss of protective prostaglandins, not reduced leukotrienes.",
+          "D": "Indomethacin inhibits COX, not LOX, and it decreases rather than increases prostaglandin production.",
+          "E": "Indomethacin is not a COX-2 selective agent; loss of protective gastric prostaglandins comes from COX-1, not blocked PGI2 alone."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "indomethacin",
+        "NSAID",
+        "competitive inhibition",
+        "COX-1"
+      ],
+      "topicId": "boom-lipids-and-lipid-metabolism-introduction-3-of-3",
+      "topicName": "BOOM: Lipids and Lipid Metabolism Introduction (3 of 3)"
+    }
+  ]
+}

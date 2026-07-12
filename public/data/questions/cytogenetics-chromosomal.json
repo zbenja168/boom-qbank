@@ -1,0 +1,3324 @@
+{
+  "categoryId": "cytogenetics-chromosomal",
+  "categoryName": "Cytogenetics & Chromosomal Disorders",
+  "questions": [
+    {
+      "id": "bo40-001",
+      "stem": "A researcher stains a dividing human somatic cell and captures it at prophase of mitosis, after DNA synthesis is complete. How many chromatids are present in this cell?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "23"
+        },
+        {
+          "label": "B",
+          "text": "46"
+        },
+        {
+          "label": "C",
+          "text": "69"
+        },
+        {
+          "label": "D",
+          "text": "92"
+        },
+        {
+          "label": "E",
+          "text": "184"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "After S phase each of the 46 chromosomes carries two sister chromatids, so a prophase mitotic cell has 92 chromatids.",
+        "whyCorrect": "During S phase DNA synthesis produces an identical copy of each DNA molecule, so each chromosome becomes two identical sister chromatids. At prophase of mitosis the cell still has 46 chromosomes but now contains 92 chromatids, double the amount of genetic material, ready for segregation.",
+        "whyWrongByChoice": {
+          "A": "23 chromatids would be found in a haploid gamete, not a somatic cell in mitosis.",
+          "B": "46 chromatids describes a cell in G1, before S phase replicates the DNA.",
+          "C": "69 does not correspond to any normal cell state.",
+          "E": "184 is twice the correct value and is not found in a normal cell."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "mitosis",
+        "chromatids",
+        "cell cycle"
+      ],
+      "topicId": "chromosomes",
+      "topicName": "Chromosomes"
+    },
+    {
+      "id": "bo40-002",
+      "stem": "A germ cell has completed meiosis I and is now in prophase II. How many chromatids does this cell contain?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "23"
+        },
+        {
+          "label": "B",
+          "text": "46"
+        },
+        {
+          "label": "C",
+          "text": "69"
+        },
+        {
+          "label": "D",
+          "text": "92"
+        },
+        {
+          "label": "E",
+          "text": "184"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "After meiosis I the homologs have separated to give 23 chromosomes, but each still has two sister chromatids, for 46 chromatids.",
+        "whyCorrect": "In meiosis I homologous chromosomes segregate, so the daughter cell is haploid with 23 chromosomes. However, the sister chromatids do not separate until meiosis II, so each of the 23 chromosomes still consists of two identical chromatids, giving 46 total chromatids in prophase II.",
+        "whyWrongByChoice": {
+          "A": "23 chromatids is the count only after meiosis II is complete, when sister chromatids have separated.",
+          "C": "69 does not correspond to any normal cell state.",
+          "D": "92 chromatids is the count in a diploid cell at prophase of mitosis, before meiosis I reduces the number.",
+          "E": "184 is not found in a normal cell."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "meiosis",
+        "chromatids",
+        "ploidy"
+      ],
+      "topicId": "chromosomes",
+      "topicName": "Chromosomes"
+    },
+    {
+      "id": "bo40-003",
+      "stem": "You are asked to relay a cytogenetics report for a healthy 34-year-old man being evaluated for infertility. His peripheral blood karyotype reads 46,XY,t(9;22)(p22;q13). Which of the following is the most accurate interpretation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "He has a balanced translocation involving 9p and 22q"
+        },
+        {
+          "label": "B",
+          "text": "He has an unbalanced translocation involving 9p and 22q"
+        },
+        {
+          "label": "C",
+          "text": "He has a balanced translocation involving 9q and 22p"
+        },
+        {
+          "label": "D",
+          "text": "He has a Robertsonian translocation between chromosomes 9 and 22"
+        },
+        {
+          "label": "E",
+          "text": "He has an interstitial deletion of chromosome 22"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The 't' with a total of 46 chromosomes denotes a balanced reciprocal translocation, and the bands map in order to 9p and 22q.",
+        "whyCorrect": "The abbreviation 't' indicates a translocation, and a total count of 46 chromosomes with no plus or minus sign indicates it is balanced, with no net gain or loss of material. The band coordinates in the second parentheses correspond in order to the chromosomes listed, so p22 belongs to chromosome 9 and q13 belongs to chromosome 22.",
+        "whyWrongByChoice": {
+          "B": "An unbalanced translocation implies unequal exchange with extra or missing material; the balanced 46-chromosome notation here excludes that.",
+          "C": "The band order matches the chromosome order, so the segments are 9p and 22q, not 9q and 22p.",
+          "D": "A Robertsonian translocation is denoted 'rob', involves only acrocentric chromosomes, and yields 45 chromosomes.",
+          "E": "A deletion would be denoted 'del', and this karyotype shows an exchange between two chromosomes, not a loss."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "translocation",
+        "cytogenetic nomenclature",
+        "balanced"
+      ],
+      "topicId": "chromosomes",
+      "topicName": "Chromosomes"
+    },
+    {
+      "id": "bo40-004",
+      "stem": "A 28-year-old woman with chronic myeloid leukemia is found to have a balanced translocation in which no chromosomal material is gained or lost. Her physician explains that despite the balanced exchange, the rearrangement still causes disease. Which mechanism best accounts for this?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The exchange produces a monosomy of the involved chromosomes"
+        },
+        {
+          "label": "B",
+          "text": "The translocation deletes an entire acrocentric chromosome"
+        },
+        {
+          "label": "C",
+          "text": "A breakpoint joins two genes to create an abnormal fusion gene such as BCR-ABL"
+        },
+        {
+          "label": "D",
+          "text": "The rearrangement converts all euchromatin to heterochromatin across the genome"
+        },
+        {
+          "label": "E",
+          "text": "The translocation adds a third copy of every gene on both chromosomes"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Even a balanced translocation can be pathogenic when a breakpoint disrupts a gene or fuses two genes into an abnormal product.",
+        "whyCorrect": "A balanced translocation has no net gain or loss of material, but the translocation breakpoints can still disrupt gene function. If the breakpoint falls within or between genes it can create a fusion gene, such as BCR-ABL in chronic myeloid leukemia, leading to abnormal function and disease.",
+        "whyWrongByChoice": {
+          "A": "A balanced translocation does not remove a whole chromosome, so no monosomy results.",
+          "B": "Deletion of an entire chromosome is not a feature of a balanced reciprocal translocation.",
+          "D": "Position effects can locally alter expression, but a translocation does not convert the entire genome to heterochromatin.",
+          "E": "A balanced exchange does not triplicate genes; that would be a gain of material, making it unbalanced."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "translocation",
+        "fusion gene",
+        "BCR-ABL"
+      ],
+      "topicId": "chromosomes",
+      "topicName": "Chromosomes"
+    },
+    {
+      "id": "bo40-005",
+      "stem": "A chromosomal rearrangement occurs in which the short arms of two acrocentric chromosomes are lost and their long arms fuse to form a single large chromosome with two long arms. This describes which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Interstitial deletion"
+        },
+        {
+          "label": "B",
+          "text": "Duplication"
+        },
+        {
+          "label": "C",
+          "text": "Reciprocal translocation"
+        },
+        {
+          "label": "D",
+          "text": "Robertsonian translocation"
+        },
+        {
+          "label": "E",
+          "text": "Pericentric inversion"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Fusion of the long arms of two acrocentric chromosomes with loss of the short arms defines a Robertsonian translocation.",
+        "whyCorrect": "A Robertsonian translocation specifically refers to the fusion of the q (long) arms of two acrocentric chromosomes, with subsequent loss of the p (short) arms. Because the lost short arms carry only satellite DNA and redundant ribosomal RNA genes, the rearrangement is still considered balanced.",
+        "whyWrongByChoice": {
+          "A": "A deletion is simply the loss of a chromosome segment, not a fusion of two chromosomes.",
+          "B": "A duplication is an extra copy of a portion of a chromosome, causing partial trisomy.",
+          "C": "A reciprocal translocation is an exchange of segments between two chromosomes, not a whole-arm fusion with arm loss.",
+          "E": "An inversion flips a segment end to end within a single chromosome and does not fuse two chromosomes."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Robertsonian translocation",
+        "acrocentric",
+        "structural variant"
+      ],
+      "topicId": "chromosomes",
+      "topicName": "Chromosomes"
+    },
+    {
+      "id": "bo40-006",
+      "stem": "A couple with recurrent pregnancy loss undergoes karyotyping, and the woman is found to be a balanced carrier of a Robertsonian translocation reported as 45,XX,rob(13;14)(q10;q10). What is her total chromosome number?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "23"
+        },
+        {
+          "label": "B",
+          "text": "44"
+        },
+        {
+          "label": "C",
+          "text": "45"
+        },
+        {
+          "label": "D",
+          "text": "46"
+        },
+        {
+          "label": "E",
+          "text": "47"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Balanced Robertsonian carriers have only 45 chromosomes because two acrocentric chromosomes fuse into one.",
+        "whyCorrect": "In a Robertsonian translocation the long arms of two acrocentric chromosomes fuse into a single derivative chromosome and the short arms are lost. This reduces the total count by one, so balanced carriers have 45 chromosomes, exactly as the leading number in the karyotype indicates.",
+        "whyWrongByChoice": {
+          "A": "23 is the haploid number found in a gamete, not a somatic carrier cell.",
+          "B": "44 would imply loss of two whole chromosomes; only one derivative chromosome is lost in the count.",
+          "D": "46 is the normal diploid number; the fusion reduces this by one.",
+          "E": "47 indicates an extra chromosome (aneuploidy), which is the opposite of this fusion."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Robertsonian translocation",
+        "chromosome number",
+        "recurrent pregnancy loss"
+      ],
+      "topicId": "chromosomes",
+      "topicName": "Chromosomes"
+    },
+    {
+      "id": "bo40-007",
+      "stem": "A cytogeneticist is teaching which chromosomes can participate in a Robertsonian translocation, noting that only acrocentric chromosomes are involved. Which group correctly lists the human acrocentric autosomes?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "1, 3, 16, 19, 20"
+        },
+        {
+          "label": "B",
+          "text": "2, 4, 5, 17, 18"
+        },
+        {
+          "label": "C",
+          "text": "13, 14, 15, 21, 22"
+        },
+        {
+          "label": "D",
+          "text": "6, 7, 8, 9, 10"
+        },
+        {
+          "label": "E",
+          "text": "11, 12, 19, 20, X"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The acrocentric autosomes are 13, 14, 15, 21, and 22, and only these participate in Robertsonian translocations.",
+        "whyCorrect": "Acrocentric chromosomes have a centromere almost at the end, leaving a tiny p arm; in humans these are chromosomes 13, 14, 15, 21, and 22. Their short arms contain satellite DNA and redundant ribosomal RNA genes, which is why their fusion in a Robertsonian translocation is still balanced.",
+        "whyWrongByChoice": {
+          "A": "1, 3, 16, 19, and 20 are metacentric chromosomes with roughly equal arms.",
+          "B": "2, 4, 5, 17, and 18 are submetacentric chromosomes.",
+          "D": "6 through 10 are submetacentric, not acrocentric.",
+          "E": "11, 12, and X are submetacentric; this group is not the acrocentric set."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "acrocentric",
+        "chromosome classification",
+        "Robertsonian translocation"
+      ],
+      "topicId": "chromosomes",
+      "topicName": "Chromosomes"
+    },
+    {
+      "id": "bo40-008",
+      "stem": "A 26-year-old pregnant woman has an amniocentesis after ultrasound suggests symmetrical fetal growth restriction. The report returns as 46,XX,del(4)(p15.1p15.32). Which of the following best describes this chromosomal finding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Terminal deletion of the long arm of chromosome 4"
+        },
+        {
+          "label": "B",
+          "text": "Interstitial deletion of the short arm of chromosome 4"
+        },
+        {
+          "label": "C",
+          "text": "Duplication of the short arm of chromosome 4"
+        },
+        {
+          "label": "D",
+          "text": "Balanced translocation involving chromosome 4"
+        },
+        {
+          "label": "E",
+          "text": "Trisomy of chromosome 4"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The notation del(4)(p15.1p15.32) denotes an interstitial deletion of the short (p) arm of chromosome 4.",
+        "whyCorrect": "The abbreviation 'del' indicates a deletion, and the first parentheses identify chromosome 4. The second parentheses give two band coordinates, p15.1 and p15.32, both on the p arm; two coordinates flanking a lost internal segment indicate an interstitial (not terminal) deletion of the short arm.",
+        "whyWrongByChoice": {
+          "A": "Both band coordinates are on the p (short) arm, and two coordinates indicate an interstitial rather than a terminal deletion.",
+          "C": "A duplication would be abbreviated 'dup'; this is a 'del' indicating loss, not gain.",
+          "D": "A translocation would be abbreviated 't' and involve two chromosomes; only chromosome 4 is affected here.",
+          "E": "The total count is 46 with no plus sign, so there is no extra whole chromosome 4."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "deletion",
+        "cytogenetic nomenclature",
+        "prenatal diagnosis"
+      ],
+      "topicId": "chromosomes",
+      "topicName": "Chromosomes"
+    },
+    {
+      "id": "bo40-009",
+      "stem": "The parents of the fetus with 46,XX,del(4)(p15.1p15.32) ask about the risk of recurrence in a future pregnancy. Chromosomal analysis of both parents is normal. Which of the following is the most appropriate counseling?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The deletion is inherited from a parental balanced carrier, so recurrence risk is high"
+        },
+        {
+          "label": "B",
+          "text": "The deletion most likely arose spontaneously during gamete formation, and recurrence risk is low"
+        },
+        {
+          "label": "C",
+          "text": "The finding indicates a maternal Robertsonian translocation"
+        },
+        {
+          "label": "D",
+          "text": "The result reflects trisomy 4 and warrants testing for advanced maternal age"
+        },
+        {
+          "label": "E",
+          "text": "The deletion guarantees an identical deletion in all future pregnancies"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "With normal parental karyotypes, the deletion is a de novo event that occurred during gamete formation, so recurrence risk is low.",
+        "whyCorrect": "Because chromosomal evaluation of both parents is normal, neither carries a rearrangement that could be transmitted. This indicates the deletion happened spontaneously (de novo) during gamete formation in this pregnancy, and the recurrence risk in future pregnancies is low.",
+        "whyWrongByChoice": {
+          "A": "A high recurrence risk would apply if a parent were a balanced carrier, but both parental karyotypes are normal.",
+          "C": "There is no Robertsonian translocation; the finding is an interstitial 4p deletion and the parents are normal.",
+          "D": "This is a deletion (loss), not trisomy 4, and the mother is 26 rather than of advanced age.",
+          "E": "A de novo event does not guarantee recurrence; the risk is actually low."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "genetic counseling",
+        "de novo deletion",
+        "recurrence risk"
+      ],
+      "topicId": "chromosomes",
+      "topicName": "Chromosomes"
+    },
+    {
+      "id": "bo40-010",
+      "stem": "A karyotype is reported as 47,XY,+21. Which of the following best describes the abnormality indicated by this notation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Monosomy of chromosome 21"
+        },
+        {
+          "label": "B",
+          "text": "A balanced translocation between chromosomes 21 and Y"
+        },
+        {
+          "label": "C",
+          "text": "An interstitial deletion of chromosome 21"
+        },
+        {
+          "label": "D",
+          "text": "Trisomy 21 due to an extra copy of chromosome 21"
+        },
+        {
+          "label": "E",
+          "text": "A duplication of the long arm of chromosome 21"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "A total of 47 chromosomes with '+21' denotes an extra whole chromosome 21, that is, trisomy 21.",
+        "whyCorrect": "In aneuploidy notation the total chromosome number changes and a plus or minus sign designates the extra or missing chromosome. Here 47 chromosomes with +21 means there are three copies of chromosome 21, a trisomy, which is the most common clinically significant aneuploidy.",
+        "whyWrongByChoice": {
+          "A": "Monosomy is loss of a copy, which would lower the count and use a minus sign, not +21.",
+          "B": "A translocation is denoted 't', and the total here is 47 from a gained chromosome, not an exchange.",
+          "C": "A deletion is denoted 'del' and would not raise the total chromosome number to 47.",
+          "E": "A duplication is denoted 'dup' and affects part of an arm; this notation shows an extra whole chromosome."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "aneuploidy",
+        "trisomy 21",
+        "cytogenetic nomenclature"
+      ],
+      "topicId": "chromosomes",
+      "topicName": "Chromosomes"
+    },
+    {
+      "id": "bo40-011",
+      "stem": "A karyotype is reported as 46,XY,dup(5)(q31q42). Which statement best describes the genetic consequence of this finding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It causes a partial trisomy from an extra copy of the q31 to q42 segment"
+        },
+        {
+          "label": "B",
+          "text": "It results in a net loss of the q31 to q42 segment"
+        },
+        {
+          "label": "C",
+          "text": "It fuses two acrocentric chromosomes"
+        },
+        {
+          "label": "D",
+          "text": "It inverts the orientation of chromosome 5 with no change in copy number"
+        },
+        {
+          "label": "E",
+          "text": "It represents complete monosomy of chromosome 5"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "A duplication is an extra copy of a chromosome portion, producing a partial trisomy of that segment.",
+        "whyCorrect": "The abbreviation 'dup' indicates a duplication, an abnormal extra copy of a portion of a chromosome. Here the segment q31 to q42 on the long arm of chromosome 5 is present in an extra copy, creating a situation of partial trisomy for that region.",
+        "whyWrongByChoice": {
+          "B": "A net loss would be a deletion ('del'), the opposite of a duplication.",
+          "C": "Fusion of acrocentric chromosomes is a Robertsonian translocation, not a duplication.",
+          "D": "An inversion flips a segment without changing copy number; a duplication adds a copy.",
+          "E": "Monosomy is loss of a whole chromosome; a duplication adds material to one chromosome."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "duplication",
+        "partial trisomy",
+        "cytogenetic nomenclature"
+      ],
+      "topicId": "chromosomes",
+      "topicName": "Chromosomes"
+    },
+    {
+      "id": "bo40-012",
+      "stem": "A histology instructor asks about the basic repeating unit that packages DNA into chromatin. Which of the following correctly describes the protein core of a nucleosome?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A single H1 linker histone"
+        },
+        {
+          "label": "B",
+          "text": "An octamer of two copies each of H2A, H2B, H3, and H4"
+        },
+        {
+          "label": "C",
+          "text": "A cohesin ring complex"
+        },
+        {
+          "label": "D",
+          "text": "A centromeric spindle-attachment protein"
+        },
+        {
+          "label": "E",
+          "text": "A supercoiled loop of ribosomal RNA"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The nucleosome core is a histone octamer of two copies each of H2A, H2B, H3, and H4, around which DNA is wound.",
+        "whyCorrect": "Each chromosome is a continuous DNA double helix wound around histones and packaged as chromatin. The nucleosome, the basic repeating unit, consists of DNA wrapped around a core of two copies each of the histones H2A, H2B, H3, and H4.",
+        "whyWrongByChoice": {
+          "A": "H1 is the linker histone that sits between nucleosomes to compact chromatin further; it is not the core octamer.",
+          "C": "Cohesins hold sister chromatids together and are not part of the nucleosome core.",
+          "D": "Spindle attachment occurs at the centromere and is unrelated to the nucleosome core proteins.",
+          "E": "Ribosomal RNA genes reside on acrocentric short arms and do not form the nucleosome core."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "nucleosome",
+        "histones",
+        "chromatin"
+      ],
+      "topicId": "chromosomes",
+      "topicName": "Chromosomes"
+    },
+    {
+      "id": "bo41-001",
+      "stem": "A 38-year-old woman delivers a newborn with flat facies, prominent epicanthal folds, a single transverse palmar crease, and a wide gap between the first and second toes. Karyotype shows 47,XX,+21. This trisomy most commonly results from nondisjunction occurring during which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Maternal meiosis I"
+        },
+        {
+          "label": "B",
+          "text": "Maternal meiosis II"
+        },
+        {
+          "label": "C",
+          "text": "Paternal meiosis I"
+        },
+        {
+          "label": "D",
+          "text": "Paternal meiosis II"
+        },
+        {
+          "label": "E",
+          "text": "Mitosis after fertilization"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Most trisomy 21 arises from meiotic nondisjunction, the great majority in maternal meiosis I.",
+        "whyCorrect": "About 95% of Down syndrome results from meiotic nondisjunction, with roughly 88% of those events occurring in female (maternal) meiosis I. This relates to oogenesis, in which oogonia remain arrested in prophase I for many years, and the risk rises with advanced maternal age.",
+        "whyWrongByChoice": {
+          "B": "Maternal errors more often occur in meiosis I than meiosis II; meiosis II is a less common source.",
+          "C": "Paternal nondisjunction accounts for only about 8% of cases, far fewer than maternal errors.",
+          "D": "Paternal meiosis II is an even rarer contributor than paternal meiosis I.",
+          "E": "Mitotic nondisjunction after fertilization produces mosaicism (46,XX/47,XX,+21), not the uniform 47,XX,+21 seen here."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Down syndrome",
+        "nondisjunction",
+        "trisomy 21"
+      ],
+      "topicId": "variants-in-chromosome-number",
+      "topicName": "Numerical & Structural Chromosomal Alterations (1/3) - Variants in Chromosome Number"
+    },
+    {
+      "id": "bo41-002",
+      "stem": "A newborn is noted to have a punched-out scalp lesion (cutis aplasia), microcephaly, midline cleft lip and palate, extra digits on both hands, and imaging shows a single fused cerebral ventricle. Which karyotype is most consistent with this presentation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "47,XX,+13"
+        },
+        {
+          "label": "B",
+          "text": "47,XX,+18"
+        },
+        {
+          "label": "C",
+          "text": "47,XX,+21"
+        },
+        {
+          "label": "D",
+          "text": "45,X"
+        },
+        {
+          "label": "E",
+          "text": "47,XXY"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Cutis aplasia, holoprosencephaly, cleft lip/palate, and polydactyly are hallmarks of Patau syndrome (trisomy 13).",
+        "whyCorrect": "Patau syndrome (trisomy 13, 47,+13) is characterized by cutis aplasia, microcephaly, holoprosencephaly, microphthalmia, cleft lip/palate, polydactyly, umbilical hernia/omphalocele, and rocker-bottom feet, with congenital heart and renal defects. Cutis aplasia in particular is specific for Patau syndrome.",
+        "whyWrongByChoice": {
+          "B": "Trisomy 18 (Edwards) features micrognathia, clenched hands with overlapping fingers, and rocker-bottom feet rather than cutis aplasia and polydactyly.",
+          "C": "Trisomy 21 (Down) presents with flat facies, single palmar crease, and a toe gap, not holoprosencephaly and cutis aplasia.",
+          "D": "45,X (Turner) causes short stature and a webbed neck, not this constellation of midline and scalp defects.",
+          "E": "47,XXY (Klinefelter) is a sex-chromosome aneuploidy and does not produce these severe congenital malformations."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Patau syndrome",
+        "trisomy 13",
+        "clinical features"
+      ],
+      "topicId": "variants-in-chromosome-number",
+      "topicName": "Numerical & Structural Chromosomal Alterations (1/3) - Variants in Chromosome Number"
+    },
+    {
+      "id": "bo41-003",
+      "stem": "A neonate is born with micrognathia, a prominent occiput, low-set ears, clenched fists with the second and fifth fingers overlapping the third and fourth, and rocker-bottom feet. A ventricular septal defect is detected. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Edwards syndrome (trisomy 18)"
+        },
+        {
+          "label": "B",
+          "text": "Down syndrome (trisomy 21)"
+        },
+        {
+          "label": "C",
+          "text": "Patau syndrome (trisomy 13)"
+        },
+        {
+          "label": "D",
+          "text": "Turner syndrome (45,X)"
+        },
+        {
+          "label": "E",
+          "text": "Klinefelter syndrome (47,XXY)"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Clenched hands with overlapping fingers plus micrognathia and rocker-bottom feet point to trisomy 18.",
+        "whyCorrect": "Edwards syndrome (trisomy 18) classically presents with micrognathia, prominent occiput, low-set ears, clenched hands with overlapping fingers, rocker-bottom feet, and limited hip adduction, along with congenital heart and renal defects. Prognosis is poor, with 50% dying by 2 months and 90-95% by 1 year.",
+        "whyWrongByChoice": {
+          "B": "Down syndrome shows flat facies, single palmar crease, and a toe gap, not overlapping fingers and micrognathia.",
+          "C": "Patau syndrome features cutis aplasia, holoprosencephaly, cleft lip/palate, and polydactyly.",
+          "D": "Turner syndrome (45,X) causes short stature and webbed neck, not this pattern of malformations.",
+          "E": "Klinefelter syndrome is a sex-chromosome aneuploidy without these congenital anomalies."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Edwards syndrome",
+        "trisomy 18",
+        "clinical features"
+      ],
+      "topicId": "variants-in-chromosome-number",
+      "topicName": "Numerical & Structural Chromosomal Alterations (1/3) - Variants in Chromosome Number"
+    },
+    {
+      "id": "bo41-004",
+      "stem": "A newborn with flat facies, upslanting palpebral fissures, and a single palmar crease develops bilious vomiting on the first day of life. An abdominal radiograph shows a 'double bubble' sign. Which of the following gastrointestinal anomalies is most strongly associated with this infant's underlying chromosomal disorder?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Duodenal atresia"
+        },
+        {
+          "label": "B",
+          "text": "Tracheoesophageal fistula"
+        },
+        {
+          "label": "C",
+          "text": "Pyloric stenosis"
+        },
+        {
+          "label": "D",
+          "text": "Meckel diverticulum"
+        },
+        {
+          "label": "E",
+          "text": "Biliary atresia"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Down syndrome is associated with duodenal atresia, which produces the double-bubble sign.",
+        "whyCorrect": "The dysmorphic features indicate Down syndrome (trisomy 21). The brick lists duodenal atresia and Hirschsprung disease among its gastrointestinal associations; duodenal atresia classically causes bilious vomiting and a double-bubble sign on radiograph.",
+        "whyWrongByChoice": {
+          "B": "Tracheoesophageal fistula is not among the associations emphasized for trisomy 21 and does not produce a double-bubble sign.",
+          "C": "Pyloric stenosis causes non-bilious projectile vomiting and is not a Down syndrome association here.",
+          "D": "Meckel diverticulum typically presents with painless lower GI bleeding, not neonatal bilious vomiting.",
+          "E": "Biliary atresia presents with progressive neonatal jaundice, not a double-bubble sign."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Down syndrome",
+        "duodenal atresia",
+        "associations"
+      ],
+      "topicId": "variants-in-chromosome-number",
+      "topicName": "Numerical & Structural Chromosomal Alterations (1/3) - Variants in Chromosome Number"
+    },
+    {
+      "id": "bo41-005",
+      "stem": "A phenotypically normal woman has the karyotype 45,XX,rob(21;21), a balanced Robertsonian translocation in which both copies of chromosome 21 are fused into a single chromosome. Regarding her potential offspring, which of the following is the most accurate counseling statement?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Every liveborn child she has will have Down syndrome"
+        },
+        {
+          "label": "B",
+          "text": "About one half of her liveborn children will be chromosomally normal"
+        },
+        {
+          "label": "C",
+          "text": "One sixth of her liveborn children will be balanced translocation carriers"
+        },
+        {
+          "label": "D",
+          "text": "She cannot achieve any viable pregnancy"
+        },
+        {
+          "label": "E",
+          "text": "Her children are at increased risk for Patau syndrome"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "In a rob(21;21) carrier, viable gametes yield only trisomy 21, so every surviving child has Down syndrome.",
+        "whyCorrect": "Because the long arms of both chromosome 21s are physically attached, they cannot segregate away from each other during meiosis. Half of the gametes carry the fused 21q21q chromosome (leading to trisomy 21 on fertilization) and half carry no chromosome 21 (leading to nonviable monosomy 21). Thus, every liveborn child will have Down syndrome.",
+        "whyWrongByChoice": {
+          "B": "No gamete can carry exactly one normal chromosome 21, so a chromosomally normal child is not possible.",
+          "C": "A balanced carrier outcome is impossible because the single fused chromosome cannot recreate a normal balanced complement in offspring.",
+          "D": "Viable pregnancy is possible; the trisomy 21 (Down syndrome) conceptions are viable.",
+          "E": "This translocation involves chromosome 21, producing trisomy 21 (Down), not trisomy 13 (Patau)."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "Robertsonian translocation",
+        "rob(21;21)",
+        "genetic counseling"
+      ],
+      "topicId": "variants-in-chromosome-number",
+      "topicName": "Numerical & Structural Chromosomal Alterations (1/3) - Variants in Chromosome Number"
+    },
+    {
+      "id": "bo41-006",
+      "stem": "A healthy 34-year-old woman has had four miscarriages, and two of her fetuses had translocation trisomy 14. Her karyotype is 45,XX,rob(13;14). Which of the following best explains why she is a healthy carrier yet has difficulty carrying a pregnancy?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "She is a balanced carrier, but abnormal segregation produces unbalanced gametes"
+        },
+        {
+          "label": "B",
+          "text": "She has mosaic trisomy 14 confined to her ovaries"
+        },
+        {
+          "label": "C",
+          "text": "She lost critical genetic material when the translocation formed"
+        },
+        {
+          "label": "D",
+          "text": "Her advanced maternal age causes meiosis II nondisjunction"
+        },
+        {
+          "label": "E",
+          "text": "She carries a point mutation that is lethal in the homozygous state"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "A balanced Robertsonian carrier is healthy but produces unbalanced gametes during meiotic segregation.",
+        "whyCorrect": "Balanced translocation carriers are phenotypically normal because there is no net loss or gain of critical genetic material. However, the rearrangement causes problems during gamete production: the fused chromosome cannot pair and segregate normally, so a large fraction of gametes are unbalanced, leading to nonviable fetuses or trisomic offspring.",
+        "whyWrongByChoice": {
+          "B": "Her karyotype reflects a constitutional balanced translocation, not confined ovarian mosaicism for trisomy 14.",
+          "C": "By definition a balanced translocation involves no loss or gain of critical genetic information, which is why she is healthy.",
+          "D": "Her losses are driven by unbalanced segregation of the translocation, not by age-related meiosis II nondisjunction.",
+          "E": "The problem is a chromosomal rearrangement affecting dosage, not a single-gene point mutation."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Robertsonian translocation",
+        "balanced carrier",
+        "recurrent pregnancy loss"
+      ],
+      "topicId": "variants-in-chromosome-number",
+      "topicName": "Numerical & Structural Chromosomal Alterations (1/3) - Variants in Chromosome Number"
+    },
+    {
+      "id": "bo41-007",
+      "stem": "A 3-year-old girl has milder-than-expected features of Down syndrome. Karyotype analysis of a blood sample reports 46,XX/47,XX,+21. Which of the following mechanisms best explains this finding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Mitotic nondisjunction after fertilization"
+        },
+        {
+          "label": "B",
+          "text": "Nondisjunction in maternal meiosis I"
+        },
+        {
+          "label": "C",
+          "text": "Nondisjunction in paternal meiosis II"
+        },
+        {
+          "label": "D",
+          "text": "Unbalanced Robertsonian translocation"
+        },
+        {
+          "label": "E",
+          "text": "Uniparental disomy of chromosome 21"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Two cell lines (46 and 47,+21) indicate mosaicism from a postfertilization mitotic error.",
+        "whyCorrect": "The notation 46,XX/47,XX,+21 denotes two genetically distinct cell lineages derived from a single zygote (mosaicism). This does not occur during gamete production but is a postfertilization error in mitosis; mitotic nondisjunction creates a clonal population of aneuploid cells so that only some cells carry the extra chromosome 21.",
+        "whyWrongByChoice": {
+          "B": "Maternal meiosis I nondisjunction produces a uniform 47,XX,+21 in every cell, not two cell lines.",
+          "C": "Paternal meiosis II nondisjunction likewise affects every cell of the zygote, not a mosaic subset.",
+          "D": "An unbalanced Robertsonian translocation would appear as a rob(...) karyotype with +21, not two separate cell lines.",
+          "E": "Uniparental disomy does not change chromosome number and would not produce a 46/47 mosaic pattern."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "mosaicism",
+        "mitotic nondisjunction",
+        "Down syndrome"
+      ],
+      "topicId": "variants-in-chromosome-number",
+      "topicName": "Numerical & Structural Chromosomal Alterations (1/3) - Variants in Chromosome Number"
+    },
+    {
+      "id": "bo41-008",
+      "stem": "A 46-year-old man with Down syndrome is brought in with a two-year history of progressive memory loss and functional decline consistent with early-onset Alzheimer disease. Increased dosage of a gene on which chromosome best explains his elevated risk?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Chromosome 21 (amyloid precursor protein gene)"
+        },
+        {
+          "label": "B",
+          "text": "Chromosome 18"
+        },
+        {
+          "label": "C",
+          "text": "Chromosome 13"
+        },
+        {
+          "label": "D",
+          "text": "Chromosome 14"
+        },
+        {
+          "label": "E",
+          "text": "The X chromosome"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Chromosome 21 carries APP, so trisomy 21 gives three copies and raises Alzheimer risk.",
+        "whyCorrect": "Chromosome 21 carries the gene coding for amyloid precursor protein (APP), which is involved in the pathophysiology of Alzheimer disease. Three copies of APP in Down syndrome are thought to increase Alzheimer risk, with disease onset typically beginning around age 40.",
+        "whyWrongByChoice": {
+          "B": "Chromosome 18 is implicated in Edwards syndrome, not the APP-driven Alzheimer association.",
+          "C": "Chromosome 13 is implicated in Patau syndrome and does not carry APP.",
+          "D": "Chromosome 14 is commonly involved in Robertsonian translocations but does not explain the APP dosage effect.",
+          "E": "The APP gene relevant to this association is on chromosome 21, not the X chromosome."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "Down syndrome",
+        "Alzheimer disease",
+        "APP"
+      ],
+      "topicId": "variants-in-chromosome-number",
+      "topicName": "Numerical & Structural Chromosomal Alterations (1/3) - Variants in Chromosome Number"
+    },
+    {
+      "id": "bo41-009",
+      "stem": "A 44-year-old pregnant woman is counseled that her risk of having a fetus with trisomy 21 has risen to roughly 1 in 25, compared with about 1 in 1500 in women younger than 20. Which feature of female gametogenesis best accounts for this age-related increase?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Oocytes remain arrested in prophase I for decades"
+        },
+        {
+          "label": "B",
+          "text": "Spermatogonia divide continuously throughout adult life"
+        },
+        {
+          "label": "C",
+          "text": "Oocytes complete meiosis before birth"
+        },
+        {
+          "label": "D",
+          "text": "Sister chromatids are duplicated during fertilization"
+        },
+        {
+          "label": "E",
+          "text": "Mitotic nondisjunction increases in the endometrium with age"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Prolonged meiotic arrest of oocytes underlies the maternal-age effect on nondisjunction.",
+        "whyCorrect": "In oogenesis, oogonia remain arrested in prophase I for many years. This prolonged arrest predisposes to nondisjunction, and the risk increases with advanced maternal age (from about 1:1500 in women under 20 to about 1:25 in women over 45). Most Down syndrome nondisjunction occurs in maternal meiosis I.",
+        "whyWrongByChoice": {
+          "B": "Continuous spermatogonial division relates to paternal factors and does not explain the maternal-age effect on trisomy 21.",
+          "C": "Oocytes do not complete meiosis before birth; they are held in prolonged arrest, which is the point of vulnerability.",
+          "D": "Sister chromatids are not duplicated at fertilization; DNA replication precedes meiosis in the oocyte.",
+          "E": "The relevant error is meiotic nondisjunction in the oocyte, not endometrial mitotic nondisjunction."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "maternal age",
+        "oogenesis",
+        "nondisjunction"
+      ],
+      "topicId": "variants-in-chromosome-number",
+      "topicName": "Numerical & Structural Chromosomal Alterations (1/3) - Variants in Chromosome Number"
+    },
+    {
+      "id": "bo41-010",
+      "stem": "A 4-year-old boy with Down syndrome develops fatigue, easy bruising, and pancytopenia, and a marrow examination confirms an acute leukemia. Which type of leukemia is most characteristically associated with his chromosomal disorder?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acute myeloid leukemia"
+        },
+        {
+          "label": "B",
+          "text": "Chronic myeloid leukemia"
+        },
+        {
+          "label": "C",
+          "text": "Chronic lymphocytic leukemia"
+        },
+        {
+          "label": "D",
+          "text": "Hairy cell leukemia"
+        },
+        {
+          "label": "E",
+          "text": "Adult T-cell leukemia"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Down syndrome carries an increased risk of leukemia, usually acute myeloid leukemia.",
+        "whyCorrect": "The brick lists an increased risk of leukemia (usually AML) among the associations of trisomy 21, and notes this is thought to be due to silencing of PRC2. Acute myeloid leukemia is therefore the characteristic association in a young child with Down syndrome.",
+        "whyWrongByChoice": {
+          "B": "Chronic myeloid leukemia is associated with the BCR-ABL translocation, not specifically with Down syndrome.",
+          "C": "Chronic lymphocytic leukemia is a disease of older adults and is not the Down syndrome association.",
+          "D": "Hairy cell leukemia is a rare B-cell malignancy of adults, unrelated to trisomy 21.",
+          "E": "Adult T-cell leukemia is linked to HTLV-1 infection, not to Down syndrome."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Down syndrome",
+        "leukemia",
+        "AML"
+      ],
+      "topicId": "variants-in-chromosome-number",
+      "topicName": "Numerical & Structural Chromosomal Alterations (1/3) - Variants in Chromosome Number"
+    },
+    {
+      "id": "bo41-011",
+      "stem": "A first-trimester miscarriage is evaluated, and cytogenetic analysis of the products of conception reveals 69,XXY. Which of the following terms best describes this chromosome complement?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Triploid, and therefore euploid"
+        },
+        {
+          "label": "B",
+          "text": "Aneuploid due to a single extra chromosome"
+        },
+        {
+          "label": "C",
+          "text": "Diploid with a balanced translocation"
+        },
+        {
+          "label": "D",
+          "text": "Monosomic for an autosome"
+        },
+        {
+          "label": "E",
+          "text": "Mosaic for two cell lines"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "69 chromosomes is an exact multiple of the haploid number (3n), making it triploid and euploid.",
+        "whyCorrect": "When the chromosome number is an exact multiple of the haploid number (n = 23), it is euploid. 69 chromosomes equals 3n (triploid), which is euploid but not viable; triploid and tetraploid complements are occasionally seen in fetuses but do not survive.",
+        "whyWrongByChoice": {
+          "B": "Aneuploidy refers to a number that is NOT an exact multiple of the haploid number; 69 is exactly 3n.",
+          "C": "The count is 69 chromosomes (triploid), not a diploid 46 with a translocation.",
+          "D": "Monosomy means one missing chromosome (2n - 1); triploidy is a gain of an entire haploid set.",
+          "E": "A single 69,XXY result reflects one triploid cell line, not a mosaic of two distinct lineages."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "euploidy",
+        "triploidy",
+        "terminology"
+      ],
+      "topicId": "variants-in-chromosome-number",
+      "topicName": "Numerical & Structural Chromosomal Alterations (1/3) - Variants in Chromosome Number"
+    },
+    {
+      "id": "bo41-012",
+      "stem": "A 15-year-old girl is evaluated for short stature and primary amenorrhea and is found to have a webbed neck and widely spaced nipples. Her karyotype shows a single sex chromosome. This condition is notable as which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The only monosomy compatible with life"
+        },
+        {
+          "label": "B",
+          "text": "The most common viable autosomal trisomy"
+        },
+        {
+          "label": "C",
+          "text": "The most commonly occurring trisomy overall"
+        },
+        {
+          "label": "D",
+          "text": "A result of an unbalanced Robertsonian translocation"
+        },
+        {
+          "label": "E",
+          "text": "A euploid condition with a normal chromosome count"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Monosomy X (Turner syndrome) is the only monosomy compatible with life.",
+        "whyCorrect": "The findings describe Turner syndrome (45,X). Autosomal monosomies are always incompatible with life; the only monosomy compatible with life is monosomy of the sex chromosome X, which causes Turner syndrome.",
+        "whyWrongByChoice": {
+          "B": "The most common viable autosomal trisomy is Down syndrome (trisomy 21), not a monosomy.",
+          "C": "Trisomy 16 is the most commonly occurring trisomy overall, but it is always fatal in utero and is not this patient.",
+          "D": "Turner syndrome results from loss of an X chromosome, not from an unbalanced Robertsonian translocation.",
+          "E": "45,X is aneuploid (2n - 1), not euploid with a normal chromosome count."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Turner syndrome",
+        "monosomy X",
+        "aneuploidy"
+      ],
+      "topicId": "variants-in-chromosome-number",
+      "topicName": "Numerical & Structural Chromosomal Alterations (1/3) - Variants in Chromosome Number"
+    },
+    {
+      "id": "bo42-001",
+      "stem": "A 16-year-old girl presents for evaluation of primary amenorrhea. She is embarrassed that she has not started menstruating like her friends. On examination her height is at the fifth percentile for age, and you note extra skin folds on the neck, a broad chest, and a systolic murmur in the aortic region. Which of the following karyotypes is most likely?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "45,X"
+        },
+        {
+          "label": "B",
+          "text": "46,XY"
+        },
+        {
+          "label": "C",
+          "text": "47,XXX"
+        },
+        {
+          "label": "D",
+          "text": "47,XXY"
+        },
+        {
+          "label": "E",
+          "text": "47,XYY"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Short stature, webbed neck, broad chest, and primary amenorrhea in a phenotypic female indicate Turner syndrome (45,X).",
+        "whyCorrect": "Turner syndrome results from a single X chromosome (45,X, also written 45,XO). It is the most common cause of primary amenorrhea because the ovaries are replaced by nonfunctional fibrous tissue, and it classically produces short stature, a short webbed neck, a broad chest with widely spaced nipples, and cardiac defects such as a bicuspid aortic valve.",
+        "whyWrongByChoice": {
+          "B": "A 46,XY karyotype is a normal male and would not present as a phenotypic female with primary amenorrhea and these somatic features.",
+          "C": "Triple X (47,XXX) females typically have normal sexual development, normal fertility, and are often taller than average, not short with amenorrhea.",
+          "D": "Klinefelter syndrome (47,XXY) occurs in males, who present with tall stature, small testes, and gynecomastia rather than these findings.",
+          "E": "XYY (47,XYY) occurs in males with normal genitalia and tall stature, not in a phenotypic female with amenorrhea."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "Turner syndrome",
+        "monosomy X",
+        "primary amenorrhea"
+      ],
+      "topicId": "sex-chromosome-aneuploidy",
+      "topicName": "Sex Chromosome Aneuploidy"
+    },
+    {
+      "id": "bo42-002",
+      "stem": "You are counseling the parents of a newborn girl whose karyotype is reported as 45,X. They ask what cardiac problem she is most at risk for. Which of the following congenital heart defects is most strongly associated with her diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Atrial septal defect"
+        },
+        {
+          "label": "B",
+          "text": "Bicuspid aortic valve"
+        },
+        {
+          "label": "C",
+          "text": "Tetralogy of Fallot"
+        },
+        {
+          "label": "D",
+          "text": "Tricuspid valve atresia"
+        },
+        {
+          "label": "E",
+          "text": "Ventricular septal defect"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Bicuspid aortic valve is the most common cardiac malformation in Turner syndrome (45,X).",
+        "whyCorrect": "Cardiovascular disease is the most serious health problem in Turner syndrome. Aortic valve abnormalities, primarily a bicuspid aortic valve, along with aortic coarctation, are the most common cardiac malformations and contribute to reduced life expectancy through aortic dilation and dissection.",
+        "whyWrongByChoice": {
+          "A": "Atrial septal defect is characteristically associated with Down syndrome, not Turner syndrome.",
+          "C": "Tetralogy of Fallot is classically linked to DiGeorge (22q11.2 deletion) syndrome.",
+          "D": "Tricuspid valve atresia is associated with lithium exposure during pregnancy, not with monosomy X.",
+          "E": "Ventricular septal defect is characteristically associated with Down syndrome rather than Turner syndrome."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Turner syndrome",
+        "bicuspid aortic valve",
+        "cardiac"
+      ],
+      "topicId": "sex-chromosome-aneuploidy",
+      "topicName": "Sex Chromosome Aneuploidy"
+    },
+    {
+      "id": "bo42-003",
+      "stem": "A 28-year-old man is evaluated for infertility. He is tall with disproportionately long arms and legs, and examination reveals gynecomastia, sparse facial hair, and small, firm testes. Semen analysis shows azoospermia. Which of the following karyotypes is most likely?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "45,X"
+        },
+        {
+          "label": "B",
+          "text": "46,XY"
+        },
+        {
+          "label": "C",
+          "text": "47,XXX"
+        },
+        {
+          "label": "D",
+          "text": "47,XXY"
+        },
+        {
+          "label": "E",
+          "text": "47,XYY"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Tall stature, gynecomastia, small firm testes, and infertility in a male indicate Klinefelter syndrome (47,XXY).",
+        "whyCorrect": "Klinefelter syndrome results from an extra X chromosome (47,XXY). The Y chromosome drives male differentiation while the extra X imparts some feminizing features; patients characteristically have a tall body with long limbs, gynecomastia, small fibrotic testes, reduced testosterone, and infertility from germ cell degeneration.",
+        "whyWrongByChoice": {
+          "A": "Turner syndrome (45,X) occurs in phenotypic females and presents with short stature and ovarian failure.",
+          "B": "A normal 46,XY male would not have gynecomastia, small fibrotic testes, and azoospermia as a syndrome.",
+          "C": "Triple X (47,XXX) occurs in females, not males.",
+          "E": "XYY (47,XYY) males have normal genitalia, normal testosterone, and normal fertility, not gynecomastia and azoospermia."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "Klinefelter syndrome",
+        "47,XXY",
+        "infertility"
+      ],
+      "topicId": "sex-chromosome-aneuploidy",
+      "topicName": "Sex Chromosome Aneuploidy"
+    },
+    {
+      "id": "bo42-004",
+      "stem": "A 30-year-old man with a 47,XXY karyotype is being counseled about hormone therapy. His small, fibrotic testes show germ cell degeneration on biopsy. Which of the following hormonal findings is most consistent with his diagnosis, and best explains why testosterone supplementation is often prescribed?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Decreased testosterone production"
+        },
+        {
+          "label": "B",
+          "text": "Increased testosterone production"
+        },
+        {
+          "label": "C",
+          "text": "Absent estrogen production"
+        },
+        {
+          "label": "D",
+          "text": "Elevated progesterone production"
+        },
+        {
+          "label": "E",
+          "text": "Normal gonadal hormone balance"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Klinefelter syndrome causes reduced testosterone from testicular dysfunction, so testosterone supplementation is commonly given.",
+        "whyCorrect": "In Klinefelter syndrome the testes are small and fibrotic with germ cell degeneration, leading to reduced testosterone production and a testosterone-to-estrogen imbalance. Because of this deficiency, testosterone supplementation is often prescribed to address the hypogonadal state.",
+        "whyWrongByChoice": {
+          "B": "Testosterone production is reduced, not increased, in Klinefelter syndrome.",
+          "C": "Estrogen is not absent; in fact a relative testosterone-to-estrogen imbalance contributes to features such as gynecomastia.",
+          "D": "Elevated progesterone is not a described feature of Klinefelter syndrome.",
+          "E": "Gonadal hormone balance is abnormal, which is precisely why supplementation is needed."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Klinefelter syndrome",
+        "testosterone",
+        "hypogonadism"
+      ],
+      "topicId": "sex-chromosome-aneuploidy",
+      "topicName": "Sex Chromosome Aneuploidy"
+    },
+    {
+      "id": "bo42-005",
+      "stem": "A 15-year-old boy is referred for behavioral concerns including impulsivity and difficulty focusing. He is notably tall for his family, has severe acne, and is noted to have flat feet and mild tremor. Genital examination is normal, and serum testosterone is within the normal range. Which of the following karyotypes is most likely?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "45,X"
+        },
+        {
+          "label": "B",
+          "text": "46,XY"
+        },
+        {
+          "label": "C",
+          "text": "47,XXX"
+        },
+        {
+          "label": "D",
+          "text": "47,XXY"
+        },
+        {
+          "label": "E",
+          "text": "47,XYY"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Tall stature, severe acne, flat feet, normal genitalia, and behavioral impulsivity with normal testosterone indicate XYY (Jacobs) syndrome.",
+        "whyCorrect": "XYY syndrome (47,XYY) occurs in males who have normal male external genitalia and normal testosterone levels. Associated findings include tall stature, hypotonia with flat feet (pes planus) and tremor, severe acne in adolescence, and behavioral features such as impulsivity, ADHD, and autism spectrum disorders.",
+        "whyWrongByChoice": {
+          "A": "Turner syndrome (45,X) occurs in short-statured females, not tall males with normal genitalia.",
+          "B": "A normal 46,XY male would not constitute the described cluster of tall stature with behavioral and skeletal findings as a syndrome.",
+          "C": "Triple X (47,XXX) occurs in females.",
+          "D": "Klinefelter syndrome (47,XXY) presents with small testes, gynecomastia, and low testosterone, not normal genitalia and normal testosterone."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "XYY syndrome",
+        "Jacobs syndrome",
+        "47,XYY"
+      ],
+      "topicId": "sex-chromosome-aneuploidy",
+      "topicName": "Sex Chromosome Aneuploidy"
+    },
+    {
+      "id": "bo42-006",
+      "stem": "An 18-year-old woman is found to have a sex chromosome aneuploidy after genetic testing during a learning-disability evaluation. She is taller than average, has normal external genitalia and normal pubertal development, and is expected to have normal fertility. Which of the following karyotypes best fits this presentation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "45,X"
+        },
+        {
+          "label": "B",
+          "text": "46,XX"
+        },
+        {
+          "label": "C",
+          "text": "47,XXX"
+        },
+        {
+          "label": "D",
+          "text": "47,XXY"
+        },
+        {
+          "label": "E",
+          "text": "47,XYY"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "A taller-than-average female with normal genitalia, normal fertility, and learning-disability risk fits triple X syndrome (47,XXX).",
+        "whyCorrect": "Triple X syndrome (47,XXX) affects females and may cause minimal or no noticeable effects. External genitalia and sexual development are normal, affected individuals are often taller than average and can have children, and the main associated finding is an increased risk of learning disabilities.",
+        "whyWrongByChoice": {
+          "A": "Turner syndrome (45,X) causes short stature, ovarian failure, and infertility, the opposite of this picture.",
+          "B": "A 46,XX karyotype is a normal female and is not a sex chromosome aneuploidy.",
+          "D": "Klinefelter syndrome (47,XXY) occurs in males with small testes and infertility.",
+          "E": "XYY (47,XYY) occurs in males, not females."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "Triple X syndrome",
+        "47,XXX",
+        "fertility"
+      ],
+      "topicId": "sex-chromosome-aneuploidy",
+      "topicName": "Sex Chromosome Aneuploidy"
+    },
+    {
+      "id": "bo42-007",
+      "stem": "During early embryonic development, a transcription factor encoded by a single gene commits the bipotential gonad toward testis formation; embryos lacking this gene tend to develop female sexual organs. On which chromosome is this gene normally located, and what is its product?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The Y chromosome; it encodes the testis-determining transcription factor"
+        },
+        {
+          "label": "B",
+          "text": "The X chromosome; it encodes an X-inactivation transcript"
+        },
+        {
+          "label": "C",
+          "text": "An autosome; it encodes a structural collagen protein"
+        },
+        {
+          "label": "D",
+          "text": "The pseudoautosomal region; it encodes a recombination enzyme"
+        },
+        {
+          "label": "E",
+          "text": "The mitochondrial genome; it encodes an oxidative enzyme"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The SRY gene on the Y chromosome encodes testis-determining factor, a transcription factor that directs male sex determination.",
+        "whyCorrect": "SRY is normally found on the Y chromosome and encodes testis-determining factor (TDF), a transcription factor critical for sex determination. Embryos with a copy of SRY tend to develop male sexual organs, and those without it tend to develop female sexual organs.",
+        "whyWrongByChoice": {
+          "B": "SRY is not on the X chromosome and does not encode an X-inactivation transcript; X-inactivation is a separate dosage-compensation process.",
+          "C": "SRY is not autosomal and does not encode a structural collagen protein; it encodes a transcription factor.",
+          "D": "The pseudoautosomal region allows X-Y pairing and recombination but does not itself contain the SRY gene.",
+          "E": "SRY is a nuclear sex-chromosome gene, not a mitochondrial gene, and its product is a transcription factor, not an oxidative enzyme."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "SRY gene",
+        "testis-determining factor",
+        "sex determination"
+      ],
+      "topicId": "sex-chromosome-aneuploidy",
+      "topicName": "Sex Chromosome Aneuploidy"
+    },
+    {
+      "id": "bo42-008",
+      "stem": "A researcher is studying how paternal meiotic errors generate abnormal sex chromosome complements. If nondisjunction occurs during male meiosis II and the resulting abnormal sperm fertilizes a normal X-bearing egg, which of the following karyotypes is most characteristically produced?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "45,X"
+        },
+        {
+          "label": "B",
+          "text": "47,XXX"
+        },
+        {
+          "label": "C",
+          "text": "47,XXY"
+        },
+        {
+          "label": "D",
+          "text": "47,XYY"
+        },
+        {
+          "label": "E",
+          "text": "47,YYY"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Paternal meiosis II nondisjunction can create a YY sperm that, with a normal X egg, yields 47,XYY.",
+        "whyCorrect": "Nondisjunction during male meiosis II fails to separate sister chromatids and can generate XX or YY sperm. A YY sperm fertilizing a normal X egg produces a 47,XYY zygote. In contrast, meiosis I nondisjunction is what generates XY sperm.",
+        "whyWrongByChoice": {
+          "A": "45,X arises when a nullisomic gamete lacking any sex chromosome combines with an X gamete, not specifically from a meiosis II YY sperm.",
+          "B": "47,XXX requires an XX egg fertilized by an X sperm; it is a maternal, not this paternal meiosis II, outcome.",
+          "C": "47,XXY arises from an XY sperm (a meiosis I error) plus an X egg, or an XX egg plus a Y sperm, not from a meiosis II YY sperm and an X egg.",
+          "E": "47,YYY would require multiple abnormal events and complete absence of an X, which cannot result from a single YY sperm fertilizing a normal X egg."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "nondisjunction",
+        "meiosis II",
+        "47,XYY"
+      ],
+      "topicId": "sex-chromosome-aneuploidy",
+      "topicName": "Sex Chromosome Aneuploidy"
+    },
+    {
+      "id": "bo42-009",
+      "stem": "In a pregnancy, a nondisjunction event occurs during maternal meiosis while paternal spermatogenesis is entirely normal. Which of the following offspring karyotypes is LEAST likely to result from this pregnancy?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "45,X"
+        },
+        {
+          "label": "B",
+          "text": "47,XXX"
+        },
+        {
+          "label": "C",
+          "text": "47,XXY"
+        },
+        {
+          "label": "D",
+          "text": "47,XYY"
+        },
+        {
+          "label": "E",
+          "text": "46,XX"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Because the mother is XX, maternal nondisjunction can only make XX or nullisomic eggs, so a 47,XYY child is essentially impossible without a paternal error.",
+        "whyCorrect": "The maternal genotype is XX, so nondisjunction during maternal meiosis can produce only XX eggs or eggs lacking any sex chromosome. Generating 47,XYY requires two Y chromosomes, which the mother cannot supply; with normal paternal sperm, XYY is essentially not achievable.",
+        "whyWrongByChoice": {
+          "A": "45,X can occur if a maternal egg lacking a sex chromosome is fertilized by a normal X sperm.",
+          "B": "47,XXX can occur if a maternal XX egg is fertilized by a normal X sperm.",
+          "C": "47,XXY can occur if a maternal XX egg is fertilized by a normal Y sperm.",
+          "E": "46,XX is a normal outcome when a normal maternal X egg meets a normal X sperm."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "nondisjunction",
+        "maternal meiosis",
+        "karyotype outcomes"
+      ],
+      "topicId": "sex-chromosome-aneuploidy",
+      "topicName": "Sex Chromosome Aneuploidy"
+    },
+    {
+      "id": "bo42-010",
+      "stem": "Although the X and Y chromosomes are structurally very different, they must pair and can undergo limited homologous recombination during male meiosis. Which feature of the sex chromosomes makes this pairing possible?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The pseudoautosomal region shared by X and Y"
+        },
+        {
+          "label": "B",
+          "text": "The SRY gene on the Y chromosome"
+        },
+        {
+          "label": "C",
+          "text": "X-inactivation of one X chromosome"
+        },
+        {
+          "label": "D",
+          "text": "The large number of unique genes on the X chromosome"
+        },
+        {
+          "label": "E",
+          "text": "The centromeric heterochromatin of the Y chromosome"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The pseudoautosomal region, essentially identical on X and Y, allows the two to pair and recombine like autosomes during male meiosis.",
+        "whyCorrect": "Genes in the pseudoautosomal region are found on both the X and Y chromosomes, and these stretches are essentially identical. This homology lets the X and Y pair and undergo homologous recombination during male meiosis, similar to how autosomes behave.",
+        "whyWrongByChoice": {
+          "B": "SRY drives male sex determination but does not mediate the physical pairing of X and Y during meiosis.",
+          "C": "X-inactivation is a dosage-compensation mechanism in cells with extra X chromosomes and is unrelated to meiotic pairing.",
+          "D": "The many unique X genes are precisely the non-homologous portion and do not enable X-Y pairing.",
+          "E": "Centromeric heterochromatin of the Y is not the homologous region that permits X-Y pairing and recombination."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "pseudoautosomal region",
+        "meiosis",
+        "recombination"
+      ],
+      "topicId": "sex-chromosome-aneuploidy",
+      "topicName": "Sex Chromosome Aneuploidy"
+    },
+    {
+      "id": "bo42-011",
+      "stem": "A geneticist explains why individuals with two or more X chromosomes do not express X-linked genes at proportionally higher levels than 46,XY males. Which of the following processes accounts for this normalization of X-gene dosage?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Inactivation of extra X chromosomes"
+        },
+        {
+          "label": "B",
+          "text": "Nondisjunction during meiosis"
+        },
+        {
+          "label": "C",
+          "text": "Recombination in the pseudoautosomal region"
+        },
+        {
+          "label": "D",
+          "text": "Expression of the SRY gene"
+        },
+        {
+          "label": "E",
+          "text": "Deletion of the extra X chromosome"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "X-inactivation silences extra X chromosomes so that X-linked gene dosage is balanced between the sexes.",
+        "whyCorrect": "In individuals with two or more X chromosomes, inactivation of the extra X chromosomes is a normal physiological process. It ensures that X-chromosomal genes are not expressed at proportionally higher levels compared with XY males, providing dosage compensation.",
+        "whyWrongByChoice": {
+          "B": "Nondisjunction is a cause of aneuploidy, not a mechanism for balancing gene dosage.",
+          "C": "Pseudoautosomal recombination allows X-Y pairing in meiosis but does not silence extra X genes.",
+          "D": "SRY expression governs male sex determination and does not regulate X-gene dosage compensation.",
+          "E": "The extra X chromosome is not physically deleted; it is transcriptionally inactivated while remaining present."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "X-inactivation",
+        "dosage compensation",
+        "sex chromosomes"
+      ],
+      "topicId": "sex-chromosome-aneuploidy",
+      "topicName": "Sex Chromosome Aneuploidy"
+    },
+    {
+      "id": "bo42-012",
+      "stem": "A 17-year-old girl with Turner syndrome (45,X) has never menstruated. Her mother asks why she has not begun having periods. Which of the following best explains the underlying cause of her primary amenorrhea?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Ovarian dysgenesis with premature ovarian failure and low estrogen"
+        },
+        {
+          "label": "B",
+          "text": "An imperforate hymen obstructing menstrual outflow"
+        },
+        {
+          "label": "C",
+          "text": "Excess testosterone from functioning testicular tissue"
+        },
+        {
+          "label": "D",
+          "text": "Pituitary overproduction of estrogen and progesterone"
+        },
+        {
+          "label": "E",
+          "text": "Uterine agenesis with normally functioning ovaries"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Turner syndrome causes ovarian dysgenesis and premature ovarian failure with insufficient estrogen, making it the most common cause of primary amenorrhea.",
+        "whyCorrect": "In Turner syndrome the ovaries are replaced by nonfunctional fibrous tissue and stop functioning at a young age (premature ovarian failure). The resulting lack of estrogen means menstruation and pubertal development do not occur normally, and this ovarian dysgenesis makes Turner syndrome the most common cause of primary amenorrhea.",
+        "whyWrongByChoice": {
+          "B": "An imperforate hymen causes outflow obstruction, not the ovarian failure and low estrogen characteristic of Turner syndrome.",
+          "C": "Turner patients do not have functioning testicular tissue or excess testosterone; the problem is estrogen deficiency.",
+          "D": "The hormonal picture is estrogen deficiency, not pituitary overproduction of estrogen and progesterone.",
+          "E": "The defect is ovarian (dysgenesis), not uterine agenesis with normal ovaries."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Turner syndrome",
+        "primary amenorrhea",
+        "ovarian failure"
+      ],
+      "topicId": "sex-chromosome-aneuploidy",
+      "topicName": "Sex Chromosome Aneuploidy"
+    },
+    {
+      "id": "bo43-001",
+      "stem": "A 1-month-old girl is evaluated for microcephaly and low birth weight noted at birth. Over the first few weeks of life she has had difficulty feeding because of trouble swallowing. Her mother reports a distinctive high-pitched, cat-like cry that was very different from that of her older sibling. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cri du chat syndrome"
+        },
+        {
+          "label": "B",
+          "text": "Williams syndrome"
+        },
+        {
+          "label": "C",
+          "text": "22q11.2 deletion syndrome"
+        },
+        {
+          "label": "D",
+          "text": "Down syndrome"
+        },
+        {
+          "label": "E",
+          "text": "Turner syndrome"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Microcephaly, intellectual disability, and a high-pitched cat-like cry in an infant indicate cri du chat syndrome (5p deletion).",
+        "whyCorrect": "Cri du chat syndrome results from a deletion on the short arm of chromosome 5 (5p-). The name means 'cry of the cat' in French and refers to the characteristic high-pitched cry; other features include microcephaly, intellectual disability, and cardiac abnormalities such as ventricular septal defects.",
+        "whyWrongByChoice": {
+          "B": "Williams syndrome (7q11.23 deletion) presents with elfin facies, overfriendliness, and supravalvular aortic stenosis, not a cat-like cry.",
+          "C": "22q11.2 deletion syndrome features conotruncal cardiac defects, immunodeficiency, and hypocalcemia rather than a high-pitched cry.",
+          "D": "Down syndrome (trisomy 21) is associated with flat epicanthal folds and a single palmar crease, not the described cry.",
+          "E": "Turner syndrome (45,X) affects females with short stature and gonadal dysgenesis and is not characterized by a cat-like cry."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "cri du chat",
+        "5p deletion",
+        "clinical features"
+      ],
+      "topicId": "subchromosomal-deletion-syndromes",
+      "topicName": "Numerical and Structural Chromosomal Alterations (2/3) - Subchromosomal Deletion Syndromes"
+    },
+    {
+      "id": "bo43-002",
+      "stem": "A geneticist confirms cri du chat syndrome in a female infant. Which of the following karyotype descriptions is most consistent with this diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "47,XXY"
+        },
+        {
+          "label": "B",
+          "text": "46,XX,del(22q11.2)"
+        },
+        {
+          "label": "C",
+          "text": "45,X"
+        },
+        {
+          "label": "D",
+          "text": "46,XX,del(7q11.23)"
+        },
+        {
+          "label": "E",
+          "text": "46,XX,del(5p)"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Cri du chat syndrome is caused by a deletion of the short arm of chromosome 5, written as 46,XX,del(5p) in a female.",
+        "whyCorrect": "Cri du chat syndrome is caused by a deletion on chromosome 5p. Because the breakpoints and extent of the deleted segment are variable, the notation is often written simply as del(5p), with a band location added only when known.",
+        "whyWrongByChoice": {
+          "A": "47,XXY indicates a male with Klinefelter syndrome.",
+          "B": "46,XX,del(22q11.2) describes a female with 22q11.2 deletion (DiGeorge) syndrome.",
+          "C": "45,X indicates a female with Turner syndrome.",
+          "D": "46,XX,del(7q11.23) describes a female with Williams syndrome."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "cri du chat",
+        "karyotype",
+        "5p deletion"
+      ],
+      "topicId": "subchromosomal-deletion-syndromes",
+      "topicName": "Numerical and Structural Chromosomal Alterations (2/3) - Subchromosomal Deletion Syndromes"
+    },
+    {
+      "id": "bo43-003",
+      "stem": "A newborn boy has a truncus arteriosus detected on echocardiography, a cleft palate, and an unusual facial appearance. On the second day of life he develops jitteriness and a seizure; laboratory studies reveal a low serum calcium concentration. Deletion of which of the following chromosomal regions is the most likely cause?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "22q11.2"
+        },
+        {
+          "label": "B",
+          "text": "7q11.23"
+        },
+        {
+          "label": "C",
+          "text": "5p"
+        },
+        {
+          "label": "D",
+          "text": "15q11"
+        },
+        {
+          "label": "E",
+          "text": "4p16"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Conotruncal cardiac defects with hypocalcemia and craniofacial anomalies point to a 22q11.2 deletion.",
+        "whyCorrect": "22q11.2 deletion syndrome (DiGeorge/velocardiofacial syndrome) results from a ~3 Mb deletion on chromosome 22 and is characterized by craniofacial anomalies, conotruncal cardiac defects, immunodeficiency, and hypocalcemia. Hypocalcemia and immunodeficiency reflect underdevelopment of the parathyroid glands and thymus.",
+        "whyWrongByChoice": {
+          "B": "7q11.23 deletion causes Williams syndrome, which features supravalvular aortic stenosis and hypercalcemia, not hypocalcemia.",
+          "C": "5p deletion causes cri du chat syndrome, characterized by a high-pitched cry and microcephaly.",
+          "D": "15q11 abnormalities are linked to Prader-Willi/Angelman syndromes, not the conotruncal-defect/hypocalcemia phenotype described.",
+          "E": "4p16 deletion is associated with Wolf-Hirschhorn syndrome and is not the cause of this presentation."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "22q11.2 deletion",
+        "DiGeorge",
+        "hypocalcemia"
+      ],
+      "topicId": "subchromosomal-deletion-syndromes",
+      "topicName": "Numerical and Structural Chromosomal Alterations (2/3) - Subchromosomal Deletion Syndromes"
+    },
+    {
+      "id": "bo43-004",
+      "stem": "A 4-year-old boy is described by his parents as strikingly friendly with strangers. On examination he has a broad forehead, puffiness around the eyes, a flat nasal bridge, full cheeks, and a small chin. A systolic murmur is heard, and echocardiography reveals supravalvular aortic stenosis. Deletion of which chromosomal region best explains these findings?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "7q11.23"
+        },
+        {
+          "label": "B",
+          "text": "22q11.2"
+        },
+        {
+          "label": "C",
+          "text": "5p"
+        },
+        {
+          "label": "D",
+          "text": "Xp22"
+        },
+        {
+          "label": "E",
+          "text": "17p11.2"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Elfin facies, overfriendliness, and supravalvular aortic stenosis indicate Williams syndrome (7q11.23 deletion).",
+        "whyCorrect": "Williams syndrome results from a deletion at 7q11.23 affecting 25-27 genes. It is characterized by mild to moderate intellectual disability, distinctive 'elf-like' facial features, overfriendliness with a lack of social inhibition, hypercalcemia, and cardiovascular disease, most commonly supravalvular aortic stenosis.",
+        "whyWrongByChoice": {
+          "B": "22q11.2 deletion is associated with conotruncal cardiac defects and hypocalcemia, not supravalvular aortic stenosis.",
+          "C": "5p deletion causes cri du chat syndrome, with microcephaly and a cat-like cry rather than these features.",
+          "D": "Xp22 deletions are not the cause of the described Williams-syndrome phenotype.",
+          "E": "17p11.2 abnormalities relate to other genomic syndromes and do not explain supravalvular aortic stenosis with overfriendliness."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Williams syndrome",
+        "7q11.23",
+        "supravalvular aortic stenosis"
+      ],
+      "topicId": "subchromosomal-deletion-syndromes",
+      "topicName": "Numerical and Structural Chromosomal Alterations (2/3) - Subchromosomal Deletion Syndromes"
+    },
+    {
+      "id": "bo43-005",
+      "stem": "Two unrelated patients are found to have deletions of nearly identical size and genomic location. This kind of recurrent structural variant is best explained by which of the following mechanisms?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Nonallelic homologous recombination between misaligned, highly homologous sequences"
+        },
+        {
+          "label": "B",
+          "text": "Nonhomologous end joining after a double-stranded break"
+        },
+        {
+          "label": "C",
+          "text": "A single point mutation in a coding exon"
+        },
+        {
+          "label": "D",
+          "text": "Trinucleotide repeat expansion"
+        },
+        {
+          "label": "E",
+          "text": "Uniparental disomy"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Recurrent structural variants arise from nonallelic homologous recombination, producing consistent size and location across unrelated people.",
+        "whyCorrect": "Recurrent structural variants are caused by nonallelic homologous recombination, unequal crossing over between misaligned chromatids or chromosomes that contain highly homologous sequences. Because these homologous stretches sit at consistent genomic sites, the resulting rearrangements have similar size and location in unrelated individuals.",
+        "whyWrongByChoice": {
+          "B": "Nonhomologous end joining produces nonrecurrent variants with highly variable breakpoints, not recurrent ones.",
+          "C": "A point mutation alters a single base and does not delete a multi-gene chromosomal segment.",
+          "D": "Trinucleotide repeat expansion causes disorders like Huntington disease, not recurrent segmental deletions.",
+          "E": "Uniparental disomy involves inheriting both homologs from one parent and does not create these recurrent deletions."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "recurrent variant",
+        "nonallelic homologous recombination",
+        "mechanism"
+      ],
+      "topicId": "subchromosomal-deletion-syndromes",
+      "topicName": "Numerical and Structural Chromosomal Alterations (2/3) - Subchromosomal Deletion Syndromes"
+    },
+    {
+      "id": "bo43-006",
+      "stem": "A structural variant is described as nonrecurrent, with breakpoints and deleted-segment size that differ from patient to patient and appear to occur at random. Which repair pathway is most likely responsible for this type of variant?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Nonhomologous end joining"
+        },
+        {
+          "label": "B",
+          "text": "Nonallelic homologous recombination"
+        },
+        {
+          "label": "C",
+          "text": "Mismatch repair"
+        },
+        {
+          "label": "D",
+          "text": "Base excision repair"
+        },
+        {
+          "label": "E",
+          "text": "Nucleotide excision repair"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Nonrecurrent variants result from nonhomologous end joining, an error-prone repair of double-stranded breaks with variable breakpoints.",
+        "whyCorrect": "Nonrecurrent structural variants are caused by nonhomologous end joining (NHEJ), the pathway that repairs double-stranded DNA breaks. Because NHEJ does not use a homologous template, it is inherently error-prone and can occur at random, giving rise to highly variable breakpoints.",
+        "whyWrongByChoice": {
+          "B": "Nonallelic homologous recombination produces recurrent variants of consistent size and location, the opposite of what is described.",
+          "C": "Mismatch repair corrects base-pairing errors from replication and does not generate large deletions.",
+          "D": "Base excision repair removes damaged single bases and is unrelated to double-strand-break rejoining.",
+          "E": "Nucleotide excision repair removes bulky lesions such as pyrimidine dimers, not chromosomal breakpoints."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "nonrecurrent variant",
+        "nonhomologous end joining",
+        "mechanism"
+      ],
+      "topicId": "subchromosomal-deletion-syndromes",
+      "topicName": "Numerical and Structural Chromosomal Alterations (2/3) - Subchromosomal Deletion Syndromes"
+    },
+    {
+      "id": "bo43-007",
+      "stem": "A 6-year-old girl is seen in the outpatient pediatrics clinic for follow-up, and the geneticist reports a 7q11.23 chromosomal microdeletion. Which of the following findings would you most expect to observe on examination?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Elf-like facial features and overfriendliness"
+        },
+        {
+          "label": "B",
+          "text": "Flat epicanthal folds and a single palmar crease"
+        },
+        {
+          "label": "C",
+          "text": "Frequent infections and malformed thumbs"
+        },
+        {
+          "label": "D",
+          "text": "Many bruises, low-grade fever, and weight loss"
+        },
+        {
+          "label": "E",
+          "text": "Microcephaly and a high-pitched cry"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "A 7q11.23 microdeletion causes Williams syndrome, with elfin facies and an overfriendly personality.",
+        "whyCorrect": "Williams syndrome is caused by a microdeletion on chromosome 7 (7q11.23). Its features include distinctive 'elf-like' facial features, mild to moderate intellectual disability, and a personality notable for overfriendliness and lack of social inhibition.",
+        "whyWrongByChoice": {
+          "B": "Flat epicanthal folds and a single palmar crease are characteristic of Down syndrome (trisomy 21).",
+          "C": "Frequent infections and malformed thumbs are seen in Fanconi anemia, a defect in nonhomologous end joining DNA repair.",
+          "D": "Bruising, fever, and weight loss are nonspecific features of leukemia, which can arise from a chromosomal translocation.",
+          "E": "Microcephaly and a high-pitched cry occur in cri du chat syndrome from a 5p deletion, not a 7q11.23 deletion."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Williams syndrome",
+        "7q11.23",
+        "clinical features"
+      ],
+      "topicId": "subchromosomal-deletion-syndromes",
+      "topicName": "Numerical and Structural Chromosomal Alterations (2/3) - Subchromosomal Deletion Syndromes"
+    },
+    {
+      "id": "bo43-008",
+      "stem": "A neonate with a 22q11.2 deletion is admitted with hypocalcemic tetany and is found to have severely reduced T-lymphocyte numbers. Underdevelopment of which structure best accounts for the immunodeficiency in this syndrome?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Thymus"
+        },
+        {
+          "label": "B",
+          "text": "Bone marrow"
+        },
+        {
+          "label": "C",
+          "text": "Spleen"
+        },
+        {
+          "label": "D",
+          "text": "Adrenal cortex"
+        },
+        {
+          "label": "E",
+          "text": "Bursa-equivalent lymphoid tissue"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "In 22q11.2 deletion syndrome, thymic aplasia leads to T-cell immunodeficiency, and parathyroid hypoplasia causes hypocalcemia.",
+        "whyCorrect": "22q11.2 deletion syndrome (DiGeorge) is remembered by the features of cardiac defects, abnormal facies, thymic aplasia, cleft palate, and hypocalcemia. Failure of thymic development impairs T-lymphocyte maturation, producing the immunodeficiency, while parathyroid hypoplasia produces hypocalcemia.",
+        "whyWrongByChoice": {
+          "B": "Bone marrow produces lymphoid precursors but is not the structure that fails in 22q11.2 deletion syndrome; the T-cell defect stems from thymic aplasia.",
+          "C": "The spleen contributes to immune function but its underdevelopment does not explain the T-cell deficiency of this syndrome.",
+          "D": "Adrenal cortical dysfunction is not a feature of 22q11.2 deletion syndrome.",
+          "E": "A bursa-equivalent controls B-cell development in birds; the T-cell immunodeficiency here is due to thymic, not B-cell, failure."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "22q11.2 deletion",
+        "thymic aplasia",
+        "immunodeficiency"
+      ],
+      "topicId": "subchromosomal-deletion-syndromes",
+      "topicName": "Numerical and Structural Chromosomal Alterations (2/3) - Subchromosomal Deletion Syndromes"
+    },
+    {
+      "id": "bo43-009",
+      "stem": "A pediatrician is considering both Williams syndrome and 22q11.2 deletion syndrome in a young child with dysmorphic features and a heart murmur. Which feature would most specifically favor Williams syndrome over 22q11.2 deletion syndrome?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Supravalvular aortic stenosis with an overfriendly personality"
+        },
+        {
+          "label": "B",
+          "text": "A conotruncal cardiac malformation"
+        },
+        {
+          "label": "C",
+          "text": "Hypocalcemia due to parathyroid hypoplasia"
+        },
+        {
+          "label": "D",
+          "text": "Recurrent infections from thymic aplasia"
+        },
+        {
+          "label": "E",
+          "text": "Cleft palate with velopharyngeal insufficiency"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Supravalvular aortic stenosis plus an overfriendly personality distinguishes Williams syndrome from 22q11.2 deletion syndrome.",
+        "whyCorrect": "Although the two syndromes share overlapping features and are both on the differential, the most common congenital heart lesion differs: supravalvular aortic stenosis is characteristic of Williams syndrome, whereas conotruncal malformations are associated with 22q11.2 deletion syndrome. Overfriendliness and excessive empathy are also unique to Williams syndrome.",
+        "whyWrongByChoice": {
+          "B": "Conotruncal malformations are associated with 22q11.2 deletion syndrome, not Williams syndrome.",
+          "C": "Hypocalcemia is a feature of 22q11.2 deletion syndrome; Williams syndrome is associated with hypercalcemia.",
+          "D": "Immunodeficiency from thymic aplasia is a hallmark of 22q11.2 deletion syndrome, not Williams syndrome.",
+          "E": "Cleft palate is part of the 22q11.2 deletion (velocardiofacial) phenotype rather than Williams syndrome."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Williams syndrome",
+        "22q11.2 deletion",
+        "differential diagnosis"
+      ],
+      "topicId": "subchromosomal-deletion-syndromes",
+      "topicName": "Numerical and Structural Chromosomal Alterations (2/3) - Subchromosomal Deletion Syndromes"
+    },
+    {
+      "id": "bo43-010",
+      "stem": "Which of the following statements best describes why some subchromosomal variants are classified as recurrent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "They tend to occur at nearly the same location and size in unrelated patients"
+        },
+        {
+          "label": "B",
+          "text": "They are inherited in an autosomal dominant fashion in every affected family"
+        },
+        {
+          "label": "C",
+          "text": "They always involve the same single nucleotide"
+        },
+        {
+          "label": "D",
+          "text": "They arise only during mitosis in somatic cells"
+        },
+        {
+          "label": "E",
+          "text": "They have highly variable breakpoints that differ between patients"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Recurrent variants occur at nearly the same genomic location and size in unrelated individuals because they arise from consistently placed homologous sequences.",
+        "whyCorrect": "Recurrent variants occur in nearly the same location and size in unrelated patients. This consistency reflects nonallelic homologous recombination between highly similar stretches of DNA that lie at fixed genomic positions.",
+        "whyWrongByChoice": {
+          "B": "Recurrence refers to consistent genomic location across unrelated people, not a particular inheritance pattern.",
+          "C": "Recurrent structural variants involve segments of DNA, not a single nucleotide.",
+          "D": "The recurrent mechanism relates to meiotic nonallelic homologous recombination, not exclusively somatic mitosis.",
+          "E": "Highly variable breakpoints describe nonrecurrent variants caused by nonhomologous end joining."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "recurrent variant",
+        "definition",
+        "concept"
+      ],
+      "topicId": "subchromosomal-deletion-syndromes",
+      "topicName": "Numerical and Structural Chromosomal Alterations (2/3) - Subchromosomal Deletion Syndromes"
+    },
+    {
+      "id": "bo43-011",
+      "stem": "Among the deletion syndromes discussed, which is best described as a nonrecurrent structural variant in which most cases are sporadic and the breakpoints and extent of the deletion are highly variable?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cri du chat syndrome"
+        },
+        {
+          "label": "B",
+          "text": "22q11.2 deletion syndrome"
+        },
+        {
+          "label": "C",
+          "text": "Williams syndrome"
+        },
+        {
+          "label": "D",
+          "text": "Klinefelter syndrome"
+        },
+        {
+          "label": "E",
+          "text": "Turner syndrome"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Cri du chat is a nonrecurrent variant with sporadic cases and variable breakpoints, though a critical 5p region is deleted in all patients.",
+        "whyCorrect": "Cri du chat syndrome is an example of a nonrecurrent chromosomal variant: most cases are sporadic and the breakpoints and extent of the deleted segment of 5p are highly variable. Research has nonetheless identified a critical region missing in all patients with the phenotype.",
+        "whyWrongByChoice": {
+          "B": "22q11.2 deletion syndrome is a recurrent structural variant with a consistent ~3 Mb deletion.",
+          "C": "Williams syndrome is also a recurrent variant, with a consistent 7q11.23 deletion.",
+          "D": "Klinefelter syndrome is a numerical alteration (47,XXY), not a variable subchromosomal deletion.",
+          "E": "Turner syndrome is a numerical alteration (45,X), not a nonrecurrent deletion."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "cri du chat",
+        "nonrecurrent variant",
+        "5p deletion"
+      ],
+      "topicId": "subchromosomal-deletion-syndromes",
+      "topicName": "Numerical and Structural Chromosomal Alterations (2/3) - Subchromosomal Deletion Syndromes"
+    },
+    {
+      "id": "bo43-012",
+      "stem": "A child with a confirmed chromosomal microdeletion syndrome is found to have an elevated serum calcium concentration. This laboratory finding is most consistent with which of the following syndromes?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Williams syndrome"
+        },
+        {
+          "label": "B",
+          "text": "22q11.2 deletion syndrome"
+        },
+        {
+          "label": "C",
+          "text": "Cri du chat syndrome"
+        },
+        {
+          "label": "D",
+          "text": "Klinefelter syndrome"
+        },
+        {
+          "label": "E",
+          "text": "Turner syndrome"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Hypercalcemia is characteristic of Williams syndrome, in contrast to the hypocalcemia of 22q11.2 deletion syndrome.",
+        "whyCorrect": "Patients with Williams syndrome (7q11.23 deletion) can have increased calcium levels in the blood. This helps distinguish it from 22q11.2 deletion syndrome, which is instead associated with hypocalcemia.",
+        "whyWrongByChoice": {
+          "B": "22q11.2 deletion syndrome is associated with hypocalcemia, not hypercalcemia.",
+          "C": "Cri du chat syndrome is characterized by microcephaly and a high-pitched cry, not a distinctive calcium abnormality.",
+          "D": "Klinefelter syndrome is a numerical sex-chromosome disorder and is not defined by hypercalcemia.",
+          "E": "Turner syndrome is a numerical sex-chromosome disorder and is not defined by hypercalcemia."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Williams syndrome",
+        "hypercalcemia",
+        "differential diagnosis"
+      ],
+      "topicId": "subchromosomal-deletion-syndromes",
+      "topicName": "Numerical and Structural Chromosomal Alterations (2/3) - Subchromosomal Deletion Syndromes"
+    },
+    {
+      "id": "bo44-001",
+      "stem": "A geneticist describes a patient whose body contains two cell populations that differ in genetic sequence but can both be traced back to the same fertilized egg. Which of the following terms best describes this finding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Chimerism"
+        },
+        {
+          "label": "B",
+          "text": "Mosaicism"
+        },
+        {
+          "label": "C",
+          "text": "Aneuploidy"
+        },
+        {
+          "label": "D",
+          "text": "Polyploidy"
+        },
+        {
+          "label": "E",
+          "text": "Nondisjunction"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Mosaicism is the presence in an individual of at least two genetically distinct cell lineages derived from a single zygote.",
+        "whyCorrect": "The brick defines mosaicism as the presence in an individual or tissue of at least two cell lineages that differ genetically but are derived from a single zygote. It arises from a post-conception genetic event during mitotic cell division, producing a clonal population of genetically distinct cells.",
+        "whyWrongByChoice": {
+          "A": "Chimerism describes cell populations that arise from two different zygotes, not a single one, so it fails the single-zygote criterion.",
+          "C": "Aneuploidy is an abnormal chromosome number and is a type of mutation, not a description of two distinct lineages from one zygote.",
+          "D": "Polyploidy is having complete extra sets of chromosomes and does not describe coexisting genetically distinct lineages.",
+          "E": "Nondisjunction is a mechanism that can cause mosaicism, but it names the event, not the coexistence of two lineages."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "mosaicism",
+        "definitions"
+      ],
+      "topicId": "mosaicism",
+      "topicName": "Mosaicism"
+    },
+    {
+      "id": "bo44-002",
+      "stem": "A 14-year-old girl is evaluated for delayed onset of puberty. Karyotype testing reveals 46,XX in approximately half of the cells examined and 45,X in the other half. Which of the following is most likely responsible for the two karyotypes observed in this patient?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Nondisjunction occurred in a single cell early in development"
+        },
+        {
+          "label": "B",
+          "text": "Nondisjunction occurred simultaneously in half the cells during early development"
+        },
+        {
+          "label": "C",
+          "text": "Mosaicism was present at fertilization and became generalized"
+        },
+        {
+          "label": "D",
+          "text": "Germline mosaicism was present in one of the parents"
+        },
+        {
+          "label": "E",
+          "text": "Meiotic nondisjunction in the oocyte produced a uniformly 45,X conceptus"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Mosaicism (here, mosaic Turner syndrome) arises when a post-zygotic event in a single cell establishes a clonal lineage that coexists with the original line.",
+        "whyCorrect": "Mosaicism occurs when a genetic event, such as mitotic nondisjunction, happens in one cell that then continues to divide, giving rise to a clonal lineage. A single early nondisjunction event losing an X establishes a 45,X line that coexists with the 46,XX line, producing mosaic Turner syndrome.",
+        "whyWrongByChoice": {
+          "B": "Simultaneous nondisjunction in many separate cells is far less likely than a single event that clonally expands to produce a large fraction of cells.",
+          "C": "Mosaicism always arises after fertilization within the affected individual; it cannot be present at the moment of fertilization.",
+          "D": "Germline mosaicism in a parent transmits a mutation that would make the child fully (uniformly) affected, not mosaic with two karyotypes.",
+          "E": "Meiotic nondisjunction would yield a uniform 45,X karyotype in all cells, not a two-line mosaic pattern."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "mosaicism",
+        "Turner syndrome",
+        "nondisjunction"
+      ],
+      "topicId": "mosaicism",
+      "topicName": "Mosaicism"
+    },
+    {
+      "id": "bo44-003",
+      "stem": "An 18-year-old woman reports muscle fatigue and weakness climbing stairs, with elevated serum creatine kinase. Neither parent nor her siblings are affected, but genetic testing shows she and her mother are both carriers of a pathogenic variant in the DMD gene (X-linked recessive Duchenne muscular dystrophy). Which of the following most likely explains the appearance of symptoms in this patient?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The X chromosome carrying the mutation is active in a high proportion of her muscle cells"
+        },
+        {
+          "label": "B",
+          "text": "She has a de novo mutation in the second copy of the DMD gene"
+        },
+        {
+          "label": "C",
+          "text": "She has monosomy X (Turner syndrome) and only one X chromosome"
+        },
+        {
+          "label": "D",
+          "text": "The pathogenic variant blocks X inactivation so she expresses extra dystrophin"
+        },
+        {
+          "label": "E",
+          "text": "The mutation is imprinted and therefore always expressed"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "A manifesting heterozygote results when skewed X inactivation leaves the mutation-bearing X active in a large fraction of the relevant tissue.",
+        "whyCorrect": "By chance, X inactivation can be skewed so that the normal X is silenced in most muscle cells, leaving the mutant DMD X active in a high proportion of cells. Such a female carrier expresses the phenotype and is called a manifesting heterozygote.",
+        "whyWrongByChoice": {
+          "B": "A second-hit mutation would be detected on testing and would cause the full Duchenne phenotype rather than mild, carrier-level symptoms.",
+          "C": "Turner syndrome would show a single X and additional systemic features; her karyotype and family testing point to a heterozygous carrier state.",
+          "D": "Mutations in X-linked protein-coding genes do not prevent X inactivation, and reduced (not extra) dystrophin causes disease.",
+          "E": "DMD is not an imprinted gene; the partial expression is explained by the X-inactivation pattern, not imprinting."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "X inactivation",
+        "manifesting heterozygote",
+        "DMD"
+      ],
+      "topicId": "mosaicism",
+      "topicName": "Mosaicism"
+    },
+    {
+      "id": "bo44-004",
+      "stem": "A couple with no signs of disease has two children who both carry the identical transition mutation in the FBN1 gene causing Marfan syndrome, an autosomal dominant disorder. Detailed examination and blood-based genetic testing of both parents are negative for the mutation. Which of the following is the most likely explanation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Two independent de novo mutations coincidentally occurred in the children"
+        },
+        {
+          "label": "B",
+          "text": "Germline mosaicism is present in one of the parents"
+        },
+        {
+          "label": "C",
+          "text": "The condition is actually autosomal recessive in this family"
+        },
+        {
+          "label": "D",
+          "text": "One parent carries the mutation but has non-penetrant disease"
+        },
+        {
+          "label": "E",
+          "text": "Confined placental mosaicism affected both pregnancies"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Unaffected parents with more than one child sharing the same dominant mutation suggest germline (gonadal) mosaicism in a parent.",
+        "whyCorrect": "Germline mosaicism should be considered when unaffected parents have multiple affected offspring with the same mutation. A parent whose mutation is confined to the germline is phenotypically normal and tests negative in blood, yet transmits the FBN1 variant, so future offspring have an increased recurrence risk.",
+        "whyWrongByChoice": {
+          "A": "Two independent identical de novo mutations at the same site in siblings is exceedingly improbable and does not fit the shared identical variant.",
+          "C": "Marfan syndrome is autosomal dominant; a single mutant FBN1 allele is sufficient to cause disease.",
+          "D": "Both parents tested negative on genetic testing, so an unexpressed but present constitutional mutation is not supported.",
+          "E": "Confined placental mosaicism involves only extraembryonic tissue and would not transmit a mutation to the children themselves."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "germline mosaicism",
+        "recurrence risk",
+        "Marfan"
+      ],
+      "topicId": "mosaicism",
+      "topicName": "Mosaicism"
+    },
+    {
+      "id": "bo44-005",
+      "stem": "An individual is found to have pure somatic mosaicism for a pathogenic mutation. Which of the following cell types would NOT be expected to carry the mutation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Blood cells"
+        },
+        {
+          "label": "B",
+          "text": "Kidney cells"
+        },
+        {
+          "label": "C",
+          "text": "Skin cells"
+        },
+        {
+          "label": "D",
+          "text": "Skeletal muscle cells"
+        },
+        {
+          "label": "E",
+          "text": "Oocytes"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "In pure somatic mosaicism, only non-germline tissues can be affected; gametes are spared.",
+        "whyCorrect": "Pure somatic mosaicism indicates that the mutation is present in some somatic tissues but not in the gametes. Oocytes are part of the germline and therefore would not carry the mutation, so the phenotype is not transmitted to offspring.",
+        "whyWrongByChoice": {
+          "A": "Blood is a somatic tissue and can harbor the mutation in somatic mosaicism.",
+          "B": "Kidney is a somatic tissue and may be affected.",
+          "C": "Skin is a somatic tissue and may be affected.",
+          "D": "Skeletal muscle is a somatic tissue and may be affected."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "somatic mosaicism",
+        "germline"
+      ],
+      "topicId": "mosaicism",
+      "topicName": "Mosaicism"
+    },
+    {
+      "id": "bo44-006",
+      "stem": "A couple's first child is diagnosed with segmental neurofibromatosis type 1 (NF1), with pigmentation changes and benign tumors restricted to only some tissues, indicating mosaicism for an NF1 mutation. NF1 is autosomal dominant with nearly complete penetrance, and neither parent has any phenotype. Which of the following statements is most accurate regarding risk assessment for this family?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The parents are at increased risk of having another child with segmental NF1"
+        },
+        {
+          "label": "B",
+          "text": "All subsequent offspring of the parents will be affected with segmental NF1"
+        },
+        {
+          "label": "C",
+          "text": "The parents are at increased risk of having another child with full (nonsegmental) NF1"
+        },
+        {
+          "label": "D",
+          "text": "The child's future offspring are at increased risk of having segmental NF1"
+        },
+        {
+          "label": "E",
+          "text": "The child's future offspring are at increased risk of having full (nonsegmental) NF1"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Segmental disease reflects a post-zygotic mutation; if the germline is involved, offspring inherit a constitutional mutation and develop the full disorder.",
+        "whyCorrect": "Segmental NF1 results from a post-zygotic mutation, so the parents are not at increased recurrence risk. Because germline involvement in the child cannot be excluded, the child may transmit the mutant allele; since NF1 is autosomal dominant, such offspring would have full (nonsegmental) NF1.",
+        "whyWrongByChoice": {
+          "A": "The mutation arose after fertilization in the child, so the parents' recurrence risk is not increased.",
+          "B": "Mosaicism arose post-fertilization in the child; subsequent siblings are not obligately affected.",
+          "C": "The parents did not transmit the mutation and are not at increased risk for either segmental or full NF1.",
+          "D": "Segmental disease requires a post-zygotic event in that individual; an inherited constitutional mutation produces full, not segmental, disease."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "segmental mosaicism",
+        "NF1",
+        "recurrence risk"
+      ],
+      "topicId": "mosaicism",
+      "topicName": "Mosaicism"
+    },
+    {
+      "id": "bo44-007",
+      "stem": "During prenatal evaluation, chorionic villus sampling reveals a trisomic cell line, but follow-up amniocentesis and the newborn's karyotype are normal. The pregnancy was complicated by intrauterine growth restriction. Which of the following best explains these findings?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Confined placental mosaicism"
+        },
+        {
+          "label": "B",
+          "text": "Pure germline mosaicism"
+        },
+        {
+          "label": "C",
+          "text": "Somatic mosaicism in the fetus"
+        },
+        {
+          "label": "D",
+          "text": "Maternal cell contamination of the sample"
+        },
+        {
+          "label": "E",
+          "text": "Constitutional trisomy of the fetus"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Confined placental mosaicism is an abnormal cell line limited to extraembryonic tissue, sometimes causing delayed fetal growth.",
+        "whyCorrect": "In confined placental mosaicism, the mutation or aneuploidy is found only in extraembryonic tissue and not in the embryo proper. It can result in a normal outcome or, with trisomy mosaicism, delayed fetal growth, matching the trisomic villi with a normal fetus and growth restriction.",
+        "whyWrongByChoice": {
+          "B": "Pure germline mosaicism is restricted to gametes and would not appear in placental villi or cause fetal growth restriction.",
+          "C": "Somatic mosaicism in the fetus would be detectable in fetal-derived cells such as amniocytes, which were normal here.",
+          "D": "Maternal contamination would typically produce a normal maternal karyotype, not a trisomic line, and does not explain growth restriction.",
+          "E": "Constitutional trisomy would be present in fetal cells and the neonate, whose karyotypes were normal."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "confined placental mosaicism",
+        "prenatal"
+      ],
+      "topicId": "mosaicism",
+      "topicName": "Mosaicism"
+    },
+    {
+      "id": "bo44-008",
+      "stem": "The X inactivation center contains an unusual non-coding RNA gene that acts as a master regulator of X inactivation. It is expressed from the allele on the inactive X and produces a long RNA that remains in the nucleus coating that chromosome. Which of the following genes is described?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "XIST"
+        },
+        {
+          "label": "B",
+          "text": "SRY"
+        },
+        {
+          "label": "C",
+          "text": "FMR1"
+        },
+        {
+          "label": "D",
+          "text": "FBN1"
+        },
+        {
+          "label": "E",
+          "text": "DMD"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "XIST is the non-coding RNA master regulator that silences the inactive X.",
+        "whyCorrect": "The X inactivation center contains XIST, an unusual non-coding RNA gene expressed from the inactive X. Its long ncRNA stays in the nucleus in close association with the inactive X and drives epigenetic silencing of most of its genes.",
+        "whyWrongByChoice": {
+          "B": "SRY is the Y-linked testis-determining gene and has no role in X inactivation.",
+          "C": "FMR1 is the fragile X gene, an X-linked protein-coding gene, not the inactivation regulator.",
+          "D": "FBN1 encodes fibrillin-1 and is associated with Marfan syndrome, unrelated to X inactivation.",
+          "E": "DMD encodes dystrophin and is an X-linked disease gene, not the master regulator of inactivation."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "X inactivation",
+        "XIST"
+      ],
+      "topicId": "mosaicism",
+      "topicName": "Mosaicism"
+    },
+    {
+      "id": "bo44-009",
+      "stem": "A buccal smear from a phenotypic female shows a single condensed heterochromatic mass at the periphery of the nucleus in interphase cells. This structure most directly represents which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The inactive X chromosome (Barr body)"
+        },
+        {
+          "label": "B",
+          "text": "The active X chromosome"
+        },
+        {
+          "label": "C",
+          "text": "The nucleolus"
+        },
+        {
+          "label": "D",
+          "text": "A Y chromosome"
+        },
+        {
+          "label": "E",
+          "text": "Clumped autosomal heterochromatin"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The Barr body is the cytologically visible inactive X in interphase cells.",
+        "whyCorrect": "Cytologically, the inactive X chromosome is visible as a heterochromatic mass called the Barr body in interphase cells. It reflects the epigenetically silenced, condensed inactive X.",
+        "whyWrongByChoice": {
+          "B": "The active X remains euchromatic and is not seen as a condensed peripheral mass.",
+          "C": "The nucleolus is a distinct organelle associated with ribosomal RNA synthesis, not the inactivated X.",
+          "D": "A single Barr body indicates one inactivated X in a female; it is not a Y chromosome.",
+          "E": "The mass specifically corresponds to the inactivated X, not generic autosomal heterochromatin."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "X inactivation",
+        "Barr body"
+      ],
+      "topicId": "mosaicism",
+      "topicName": "Mosaicism"
+    },
+    {
+      "id": "bo44-010",
+      "stem": "A patient has 46 chromosomes with one structurally abnormal X (an isochromosome). Studies show that in nearly all of her cells the same (abnormal) X chromosome is inactivated, rather than a random pattern. Which of the following best explains this nonrandom inactivation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Selection against genetically unbalanced cells favors survival of those inactivating the abnormal X"
+        },
+        {
+          "label": "B",
+          "text": "The XIST gene is present only on the normal X chromosome"
+        },
+        {
+          "label": "C",
+          "text": "The abnormal X lacks a functional centromere"
+        },
+        {
+          "label": "D",
+          "text": "Random inactivation always preferentially silences the paternal X"
+        },
+        {
+          "label": "E",
+          "text": "Genomic imprinting silences all structurally abnormal chromosomes"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Skewed inactivation of a structurally abnormal X reflects postnatal selection against genetically unbalanced cells.",
+        "whyCorrect": "The initial inactivation event early in development is random, but in nearly all patients with unbalanced structural X abnormalities the abnormal chromosome is the inactive X. The observed skew reflects selection against genetically unbalanced cells that have reduced viability.",
+        "whyWrongByChoice": {
+          "B": "The pattern is driven by cell selection, not by absence of XIST from the abnormal X.",
+          "C": "The chromosome is described as an X with a structural abnormality that persists in cells; a missing centromere is not the mechanism given.",
+          "D": "Random X inactivation does not systematically favor the paternal X; typical distributions are roughly balanced.",
+          "E": "Imprinting affects a small subset of specific genes and does not silence whole abnormal chromosomes."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "X inactivation",
+        "skewed inactivation",
+        "structural abnormality"
+      ],
+      "topicId": "mosaicism",
+      "topicName": "Mosaicism"
+    },
+    {
+      "id": "bo44-011",
+      "stem": "A child has somatic mosaicism for an autosomal dominant disorder, with some tissues affected and others normal. Regarding this child's own future reproductive risk, which of the following is most accurate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "There is no reproductive risk because mosaicism is never heritable"
+        },
+        {
+          "label": "B",
+          "text": "All of the child's offspring will be mosaic like the child"
+        },
+        {
+          "label": "C",
+          "text": "The child is at increased risk of having fully affected offspring because germline involvement cannot be excluded"
+        },
+        {
+          "label": "D",
+          "text": "Risk exists only if the child's future partner is also a carrier"
+        },
+        {
+          "label": "E",
+          "text": "Risk is zero because the mutation arose after fertilization"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "A mosaic individual is at increased risk of fully affected offspring because their germ cells may also carry the mutation.",
+        "whyCorrect": "Somatic mosaicism confirms the mutation is present in some tissues, but it does not tell us whether the germline is involved. Because germ cells may carry the mutation, the child is at increased risk of transmitting the mutant allele, and for an autosomal dominant disorder such offspring would be fully affected.",
+        "whyWrongByChoice": {
+          "A": "Mosaicism can involve the germline, so it is not universally non-heritable.",
+          "B": "Offspring inheriting a constitutional mutation would be fully affected, not mosaic.",
+          "D": "For an autosomal dominant disorder, a single transmitted mutant allele is sufficient; a carrier partner is not required.",
+          "E": "A post-fertilization event can still affect germ cells, so the risk is not zero."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "somatic mosaicism",
+        "germline",
+        "recurrence risk"
+      ],
+      "topicId": "mosaicism",
+      "topicName": "Mosaicism"
+    },
+    {
+      "id": "bo44-012",
+      "stem": "A child has features of Down syndrome that are subtler than typically expected. Karyotype analysis shows two cell lines: some cells with trisomy 21 and some with normal disomy 21. Compared with a child with full (nonmosaic) trisomy 21, this child is most likely to have which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A typically less severe phenotype"
+        },
+        {
+          "label": "B",
+          "text": "A consistently more severe phenotype"
+        },
+        {
+          "label": "C",
+          "text": "An identical phenotype in all cases"
+        },
+        {
+          "label": "D",
+          "text": "No phenotype whatsoever"
+        },
+        {
+          "label": "E",
+          "text": "A phenotype only if the germline is involved"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Mosaic Down syndrome, a mixture of disomic and trisomic cells, typically produces a less severe phenotype.",
+        "whyCorrect": "Mosaic Down syndrome is a mixture of cells that are disomic and trisomic for chromosome 21, seen in about 1-3% of trisomy 21 live births. These individuals typically have a less severe phenotype because a proportion of cells have the normal chromosome complement.",
+        "whyWrongByChoice": {
+          "B": "The presence of normal disomic cells generally lessens, rather than worsens, the phenotype.",
+          "C": "The phenotype is variable and usually milder, not identical to full trisomy 21.",
+          "D": "Trisomic cells are present, so an affected phenotype is still expected, just typically milder.",
+          "E": "The somatic trisomic cell line drives the phenotype; germline involvement is not required for features to appear."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "mosaic Down syndrome",
+        "trisomy 21"
+      ],
+      "topicId": "mosaicism",
+      "topicName": "Mosaicism"
+    },
+    {
+      "id": "bo45-001",
+      "stem": "A 6-month-old boy is evaluated for poor feeding, failure to thrive, and developmental delay. Examination shows low-set ears, a small chin, and a heart murmur; echocardiography reveals a ventricular septal defect. Recurrent infections and low serum calcium are noted. The physician suspects a 22q11.2 microdeletion syndrome. Which technique is the most appropriate to confirm this specific microdeletion?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "G-banded karyotype"
+        },
+        {
+          "label": "B",
+          "text": "Fluorescence in situ hybridization (FISH)"
+        },
+        {
+          "label": "C",
+          "text": "Southern blot"
+        },
+        {
+          "label": "D",
+          "text": "Polymerase chain reaction of the FXN gene"
+        },
+        {
+          "label": "E",
+          "text": "Serum electrolyte panel"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "FISH is the targeted method of choice for confirming a clinically suspected microdeletion such as 22q11.2.",
+        "whyCorrect": "FISH uses fluorescently labeled probes complementary to a specific locus, so when a particular microdeletion is already suspected it can confirm the deletion (e.g., one red 22q11 signal alongside a normal control probe). It resolves submicroscopic changes invisible on a standard karyotype.",
+        "whyWrongByChoice": {
+          "A": "A standard G-banded karyotype only detects abnormalities of roughly 5-10 Mb or larger and cannot resolve a submicroscopic 22q11 microdeletion.",
+          "C": "Southern blot detects specific sequences and repeat expansions but is a low-throughput, radiolabel-dependent method not used to confirm this microdeletion.",
+          "D": "PCR of FXN targets the Friedreich ataxia gene and is unrelated to a 22q11 microdeletion.",
+          "E": "An electrolyte panel documents hypocalcemia but does not establish the underlying chromosomal diagnosis."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "FISH",
+        "DiGeorge",
+        "22q11 deletion",
+        "microdeletion"
+      ],
+      "topicId": "molecular-biology-techniques-cytogenetics",
+      "topicName": "Molecular Biology Techniques (1 of 3) - Cytogenetics"
+    },
+    {
+      "id": "bo45-002",
+      "stem": "A newborn has a flattened facial profile, a small nose with a flat bridge, a protruding tongue, and a single transverse palmar crease. Echocardiography demonstrates an atrioventricular septal defect. A cytogenetic study visualizes all chromosomes arranged in pairs and shows three copies of chromosome 21. Which technique produced this result?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Array comparative genomic hybridization"
+        },
+        {
+          "label": "B",
+          "text": "Southern blot"
+        },
+        {
+          "label": "C",
+          "text": "G-banded karyotype"
+        },
+        {
+          "label": "D",
+          "text": "Western blot"
+        },
+        {
+          "label": "E",
+          "text": "Fluorescence in situ hybridization"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Karyotyping visualizes all chromosomes as pairs and readily reveals aneuploidy such as trisomy 21.",
+        "whyCorrect": "A G-banded karyotype arranges stained metaphase chromosomes into numbered pairs, allowing assessment of chromosome number and structure. Down syndrome appears as three copies of chromosome 21 (47,XX,+21 or 47,XY,+21), which was the finding that first linked Down syndrome to trisomy 21.",
+        "whyWrongByChoice": {
+          "A": "Array CGH detects copy number variation as a dosage ratio but does not display chromosomes as visible pairs.",
+          "B": "Southern blot detects specific DNA sequences on a membrane, not whole-chromosome number.",
+          "D": "Western blot detects proteins, not chromosomes.",
+          "E": "FISH highlights only a targeted locus rather than displaying the full set of paired chromosomes."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "karyotype",
+        "trisomy 21",
+        "Down syndrome",
+        "aneuploidy"
+      ],
+      "topicId": "molecular-biology-techniques-cytogenetics",
+      "topicName": "Molecular Biology Techniques (1 of 3) - Cytogenetics"
+    },
+    {
+      "id": "bo45-003",
+      "stem": "In preparing a G-banded karyotype, cultured cells are treated with a chemical that halts cell division at the stage where chromosomes are most condensed and aligned at the cell's equator, maximizing their visibility. Which agent is used for this purpose?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Colchicine"
+        },
+        {
+          "label": "B",
+          "text": "Trypsin"
+        },
+        {
+          "label": "C",
+          "text": "Giemsa stain"
+        },
+        {
+          "label": "D",
+          "text": "DAPI"
+        },
+        {
+          "label": "E",
+          "text": "A restriction endonuclease"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Colchicine arrests dividing cells at metaphase, when chromosomes are maximally condensed and best visualized.",
+        "whyCorrect": "Cultured cells are treated with colchicine to stop cell division at metaphase, the stage at which chromosomes are most condensed and aligned at the cell equator. This makes them highly defined and ideal for analysis before lysis and staining.",
+        "whyWrongByChoice": {
+          "B": "Trypsin is a protease that partially digests histones and chromosomal proteins to help reveal banding; it does not arrest the cell cycle.",
+          "C": "Giemsa is the dye mixture that produces the banding pattern after the cells are already arrested.",
+          "D": "DAPI is a blue DNA counterstain used in FISH, not a metaphase-arresting agent in karyotyping.",
+          "E": "Restriction endonucleases cut DNA for methods like Southern blot and are not used to arrest cells."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "karyotype",
+        "colchicine",
+        "metaphase",
+        "technique steps"
+      ],
+      "topicId": "molecular-biology-techniques-cytogenetics",
+      "topicName": "Molecular Biology Techniques (1 of 3) - Cytogenetics"
+    },
+    {
+      "id": "bo45-004",
+      "stem": "During interpretation of a G-banded chromosome, a technologist notes darkly stained bands (G-positive) with Giemsa. Compared with the lighter G-negative bands, which set of properties best characterizes these dark bands?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "GC-rich, gene-rich, euchromatin with active transcription"
+        },
+        {
+          "label": "B",
+          "text": "AT-rich, gene-poor, heterochromatin"
+        },
+        {
+          "label": "C",
+          "text": "GC-rich, gene-poor, heterochromatin"
+        },
+        {
+          "label": "D",
+          "text": "AT-rich, gene-rich, euchromatin"
+        },
+        {
+          "label": "E",
+          "text": "Regions containing only telomeric repeats"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Dark G-positive bands are AT-rich, gene-poor heterochromatin.",
+        "whyCorrect": "Giemsa binds more strongly to AT-rich DNA, producing dark bands that are gene-poor and generally associated with heterochromatin. Light G-negative bands are the opposite: GC-rich, gene-rich euchromatin with more active transcription.",
+        "whyWrongByChoice": {
+          "A": "This describes the light G-negative bands, not the dark bands.",
+          "C": "Dark bands are AT-rich, not GC-rich.",
+          "D": "Dark bands are gene-poor heterochromatin, not gene-rich euchromatin.",
+          "E": "Dark bands reflect broad AT-rich, gene-poor regions, not exclusively telomeric repeats."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "G-banding",
+        "heterochromatin",
+        "Giemsa",
+        "euchromatin"
+      ],
+      "topicId": "molecular-biology-techniques-cytogenetics",
+      "topicName": "Molecular Biology Techniques (1 of 3) - Cytogenetics"
+    },
+    {
+      "id": "bo45-005",
+      "stem": "A karyotype from a male patient shows material exchanged between chromosome 9 and chromosome 22, with both chromosomes visibly altered. The two homologs of chromosomes 9 and 22 are each affected on one member. Which description best fits this abnormality?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "del(22)(q11.2), a single-chromosome deletion"
+        },
+        {
+          "label": "B",
+          "text": "45,X monosomy"
+        },
+        {
+          "label": "C",
+          "text": "t(9;22), a translocation involving two chromosomes"
+        },
+        {
+          "label": "D",
+          "text": "dup(22)(p23.3p23), a single-chromosome duplication"
+        },
+        {
+          "label": "E",
+          "text": "A submicroscopic microdeletion detectable only by FISH"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Involvement of two different chromosomes exchanging material indicates a translocation, t(9;22).",
+        "whyCorrect": "Because two chromosomes (9 and 22) are both altered, the finding represents a translocation between them, t(9;22). A deletion or duplication would impact only a single chromosome, and the presence of a Y confirms the patient is male rather than having Turner syndrome.",
+        "whyWrongByChoice": {
+          "A": "A deletion of 22q11.2 affects only one chromosome, but here two chromosomes are altered.",
+          "B": "45,X (Turner) would show a single X and no Y; this patient is a male with a Y chromosome.",
+          "D": "A duplication affects one chromosome and would not explain changes to both 9 and 22.",
+          "E": "The exchange between two whole chromosomes is visible on the karyotype and is not a submicroscopic, FISH-only lesion."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "karyotype",
+        "translocation",
+        "t(9;22)",
+        "structural abnormality"
+      ],
+      "topicId": "molecular-biology-techniques-cytogenetics",
+      "topicName": "Molecular Biology Techniques (1 of 3) - Cytogenetics"
+    },
+    {
+      "id": "bo45-006",
+      "stem": "A geneticist wants an unbiased, genome-wide survey of chromosomal copy number variation in a child with developmental delay, intellectual disability, and dysmorphic features and a normal karyotype. Patient DNA is labeled with a red dye and reference DNA with a green dye, then co-hybridized to a microarray. In a well where the green signal exceeds the red, what has occurred in the patient's DNA at that locus?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A duplication"
+        },
+        {
+          "label": "B",
+          "text": "A deletion"
+        },
+        {
+          "label": "C",
+          "text": "No copy number variation"
+        },
+        {
+          "label": "D",
+          "text": "A balanced translocation"
+        },
+        {
+          "label": "E",
+          "text": "A point mutation"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "In array CGH, a green-dominant (weaker red) signal means the patient DNA failed to bind, indicating a deletion.",
+        "whyCorrect": "Array CGH compares red-labeled test DNA to green-labeled reference DNA and reads the red-to-green ratio. A stronger green than red signal means the patient (test) DNA did not bind the probe, implying the sequence is deleted at that locus. A red-dominant well indicates duplication, and a yellow well indicates no CNV.",
+        "whyWrongByChoice": {
+          "A": "A duplication would produce a red-dominant, not green-dominant, signal.",
+          "C": "Absence of copy number change gives a balanced yellow signal (equal red and green).",
+          "D": "Array CGH cannot detect balanced translocations, which do not change copy number.",
+          "E": "Array CGH measures copy number dosage and does not identify single-base point mutations."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "array CGH",
+        "copy number variation",
+        "deletion",
+        "fluorescence ratio"
+      ],
+      "topicId": "molecular-biology-techniques-cytogenetics",
+      "topicName": "Molecular Biology Techniques (1 of 3) - Cytogenetics"
+    },
+    {
+      "id": "bo45-007",
+      "stem": "On an array CGH plot, a genomic region returns a DNA dosage score of -1. Which interpretation is correct?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Homozygous deletion (zero copies)"
+        },
+        {
+          "label": "B",
+          "text": "Heterozygous deletion (one copy)"
+        },
+        {
+          "label": "C",
+          "text": "Normal dosage (two copies)"
+        },
+        {
+          "label": "D",
+          "text": "Duplication with three copies"
+        },
+        {
+          "label": "E",
+          "text": "Duplication with four copies"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "A dosage score of -1 on array CGH corresponds to a heterozygous deletion with one remaining copy.",
+        "whyCorrect": "The array CGH dosage scale runs from -2 to +2: -2 is a homozygous deletion (0 copies), -1 is a heterozygous deletion (1 copy), 0 is normal (2 copies), +1 is a duplication with 3 copies, and +2 is a duplication with 4 copies.",
+        "whyWrongByChoice": {
+          "A": "Zero copies corresponds to a score of -2, not -1.",
+          "C": "Normal two-copy dosage corresponds to a score of 0.",
+          "D": "Three copies corresponds to a score of +1.",
+          "E": "Four copies corresponds to a score of +2."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "array CGH",
+        "dosage score",
+        "heterozygous deletion",
+        "interpretation"
+      ],
+      "topicId": "molecular-biology-techniques-cytogenetics",
+      "topicName": "Molecular Biology Techniques (1 of 3) - Cytogenetics"
+    },
+    {
+      "id": "bo45-008",
+      "stem": "A 2-month-old girl has poor feeding, recurrent vomiting, and failure to thrive. She has microcephaly, epicanthal folds, and a ventricular septal defect. Initial testing shows a normal 46,XX karyotype, but a chromosomal microarray subsequently detects a 1.5 Mb deletion at 7q11.23. Which property of array CGH explains why it detected an abnormality that the karyotype missed?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It can detect balanced translocations that karyotyping cannot"
+        },
+        {
+          "label": "B",
+          "text": "It has much higher resolution, detecting CNVs as small as roughly 50-200 kb"
+        },
+        {
+          "label": "C",
+          "text": "It amplifies the deleted region to make it visible"
+        },
+        {
+          "label": "D",
+          "text": "It requires prior knowledge of the exact deletion location"
+        },
+        {
+          "label": "E",
+          "text": "It is more sensitive for low-level mosaicism"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Array CGH has far higher resolution than karyotyping, detecting CNVs down to ~50-200 kb.",
+        "whyCorrect": "A standard karyotype only reliably detects abnormalities of about 5-10 Mb or larger, so a 1.5 Mb 7q11.23 deletion (Williams syndrome) can be missed. Array CGH detects copy number variants as small as approximately 50-200 kb, giving it the resolution to identify this microdeletion.",
+        "whyWrongByChoice": {
+          "A": "Array CGH actually cannot detect balanced translocations because they do not change copy number.",
+          "C": "Array CGH measures hybridization dosage; it does not amplify the deleted DNA.",
+          "D": "Array CGH is an unbiased, untargeted method and does not require prior knowledge of the lesion.",
+          "E": "Array CGH has reduced, not increased, sensitivity for low-level mosaicism."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "array CGH",
+        "Williams syndrome",
+        "resolution",
+        "microdeletion"
+      ],
+      "topicId": "molecular-biology-techniques-cytogenetics",
+      "topicName": "Molecular Biology Techniques (1 of 3) - Cytogenetics"
+    },
+    {
+      "id": "bo45-009",
+      "stem": "A researcher must accurately size a very large trinucleotide GAA repeat expansion in intron 1 of the FXN gene in a patient with progressive gait ataxia, dysarthria, and cardiomyopathy. The expansion is too long for reliable amplification by conventional PCR. Which technique is best suited to size this expansion?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Fluorescence in situ hybridization"
+        },
+        {
+          "label": "B",
+          "text": "G-banded karyotype"
+        },
+        {
+          "label": "C",
+          "text": "Southern blot"
+        },
+        {
+          "label": "D",
+          "text": "Array comparative genomic hybridization"
+        },
+        {
+          "label": "E",
+          "text": "Western blot"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Southern blot can accurately size large repeat expansions that are too long for conventional PCR.",
+        "whyCorrect": "Southern blotting digests genomic DNA with a restriction enzyme, separates fragments by gel electrophoresis, and detects the target with a labeled probe. It can accurately size large repeat expansions, such as the FXN GAA expansion of Friedreich ataxia, that exceed the length reliably amplified by conventional PCR.",
+        "whyWrongByChoice": {
+          "A": "FISH localizes a probe to a chromosomal region but does not size a triplet repeat expansion.",
+          "B": "A karyotype lacks the resolution to measure a repeat expansion.",
+          "D": "Array CGH measures copy number dosage, not the length of a triplet repeat.",
+          "E": "Western blot detects proteins, not the DNA repeat length."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Southern blot",
+        "Friedreich ataxia",
+        "GAA repeat",
+        "FXN"
+      ],
+      "topicId": "molecular-biology-techniques-cytogenetics",
+      "topicName": "Molecular Biology Techniques (1 of 3) - Cytogenetics"
+    },
+    {
+      "id": "bo45-010",
+      "stem": "A student is comparing molecular techniques by their principal target molecule. Which pairing is correct?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Southern blot detects RNA"
+        },
+        {
+          "label": "B",
+          "text": "Northern blot detects proteins"
+        },
+        {
+          "label": "C",
+          "text": "Western blot detects proteins"
+        },
+        {
+          "label": "D",
+          "text": "Western blot detects DNA"
+        },
+        {
+          "label": "E",
+          "text": "Southern blot detects post-translational modifications"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Western blot detects proteins; Southern detects DNA, Northern detects RNA.",
+        "whyCorrect": "The blot family is distinguished by target: Southern blot detects DNA, Northern blot detects RNA, Western blot detects proteins, and Eastern blot detects post-translational modifications. Western blot remains a very common laboratory technique for protein detection.",
+        "whyWrongByChoice": {
+          "A": "Southern blot detects DNA, not RNA (RNA is the Northern blot target).",
+          "B": "Northern blot detects RNA, not proteins.",
+          "D": "Western blot detects proteins, not DNA.",
+          "E": "Post-translational modifications are the Eastern blot target, not the Southern blot target."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "Southern blot",
+        "Northern blot",
+        "Western blot",
+        "blotting"
+      ],
+      "topicId": "molecular-biology-techniques-cytogenetics",
+      "topicName": "Molecular Biology Techniques (1 of 3) - Cytogenetics"
+    },
+    {
+      "id": "bo45-011",
+      "stem": "A couple with three consecutive first-trimester pregnancy losses is referred for evaluation. Both partners are phenotypically normal. Karyotype testing of both partners is recommended because balanced reciprocal and Robertsonian translocations are the major abnormalities identified in this setting. What is the primary reason a balanced translocation carrier is typically phenotypically normal yet at risk for pregnancy loss?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The rearrangement deletes a large gene-rich region"
+        },
+        {
+          "label": "B",
+          "text": "No genetic material is gained or lost, but gametes may be unbalanced"
+        },
+        {
+          "label": "C",
+          "text": "The rearrangement adds a whole extra chromosome"
+        },
+        {
+          "label": "D",
+          "text": "It produces a submicroscopic duplication detectable only by array CGH"
+        },
+        {
+          "label": "E",
+          "text": "It causes a triplet repeat expansion in the carrier"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Balanced translocation carriers have no net loss or gain of material but can form unbalanced gametes, causing pregnancy loss.",
+        "whyCorrect": "In a balanced translocation the total genetic material is preserved, so the carrier is usually phenotypically normal. However, during meiosis the carrier can produce unbalanced gametes with missing or extra segments, leading to recurrent pregnancy loss; this is why karyotyping both partners is part of the recurrent-loss evaluation.",
+        "whyWrongByChoice": {
+          "A": "A balanced rearrangement by definition does not delete material, which is why the carrier is unaffected.",
+          "C": "Adding a whole chromosome is aneuploidy, not a balanced translocation.",
+          "D": "A balanced translocation does not change copy number and is actually a lesion array CGH cannot detect.",
+          "E": "Triplet repeat expansions are a distinct mechanism unrelated to balanced translocations."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "karyotype",
+        "balanced translocation",
+        "recurrent pregnancy loss",
+        "Robertsonian"
+      ],
+      "topicId": "molecular-biology-techniques-cytogenetics",
+      "topicName": "Molecular Biology Techniques (1 of 3) - Cytogenetics"
+    },
+    {
+      "id": "bo45-012",
+      "stem": "A clinician is choosing a diagnostic test but wants a method that does NOT require prior knowledge of the suspected abnormality. Which of the following best describes the key limitation that makes FISH unsuitable when the abnormality is unknown?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "FISH has very low resolution and misses small changes"
+        },
+        {
+          "label": "B",
+          "text": "FISH is a targeted, 'a priori' method that only reveals suspected abnormalities"
+        },
+        {
+          "label": "C",
+          "text": "FISH cannot use fluorescent probes"
+        },
+        {
+          "label": "D",
+          "text": "FISH requires digestion with a restriction enzyme"
+        },
+        {
+          "label": "E",
+          "text": "FISH can only be performed on proteins"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "FISH is a targeted method requiring prior knowledge, so it only detects what its probe is designed to find.",
+        "whyCorrect": "FISH is an 'a priori' targeted approach: a probe must be designed for a known sequence, so it only reveals suspected abnormalities. When the abnormality is unknown, an unbiased genome-wide method such as array CGH or karyotyping is needed instead.",
+        "whyWrongByChoice": {
+          "A": "FISH is actually a high-resolution technique that detects small changes missed by karyotyping.",
+          "C": "FISH depends on fluorescently labeled probes; using them is a defining feature, not a limitation.",
+          "D": "Restriction digestion is a step in Southern blot, not FISH.",
+          "E": "FISH targets DNA sequences on chromosomes, not proteins."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "FISH",
+        "targeted method",
+        "prior knowledge",
+        "limitations"
+      ],
+      "topicId": "molecular-biology-techniques-cytogenetics",
+      "topicName": "Molecular Biology Techniques (1 of 3) - Cytogenetics"
+    }
+  ]
+}

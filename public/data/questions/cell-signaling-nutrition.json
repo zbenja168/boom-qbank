@@ -1,0 +1,3901 @@
+{
+  "categoryId": "cell-signaling-nutrition",
+  "categoryName": "Cell Signaling & Nutrition",
+  "questions": [
+    {
+      "id": "bo25-001",
+      "stem": "A 9-year-old boy with type 1 diabetes mellitus develops severe hypoglycemia and is given a glucagon rescue injection. Glucagon is released from the pancreas, travels through the bloodstream, and acts on distant hepatocytes to raise blood glucose. Which type of cell signaling does this therapy exploit?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Autocrine signaling"
+        },
+        {
+          "label": "B",
+          "text": "Paracrine signaling"
+        },
+        {
+          "label": "C",
+          "text": "Juxtacrine signaling"
+        },
+        {
+          "label": "D",
+          "text": "Endocrine signaling"
+        },
+        {
+          "label": "E",
+          "text": "Synaptic signaling"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Hormones carried through the blood to act on distant target cells define endocrine signaling.",
+        "whyCorrect": "Glucagon is a peptide hormone secreted into the bloodstream that travels to distant hepatocytes to stimulate glucose release. Signaling that induces a response in cells at a separate, distant location via the blood is by definition endocrine signaling.",
+        "whyWrongByChoice": {
+          "A": "Autocrine signaling occurs when a cell secretes a ligand that binds its own receptors, not distant hepatocytes.",
+          "B": "Paracrine signaling acts on nearby local cells by local diffusion, not on distant organs via the blood.",
+          "C": "Juxtacrine signaling requires direct physical contact between adjacent cells through gap junctions or membrane-bound ligands.",
+          "E": "Synaptic signaling releases neurotransmitters across a synaptic cleft between neurons, not hormones into the blood."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "signaling paradigms",
+        "endocrine",
+        "glucagon"
+      ],
+      "topicId": "overview-of-cell-signaling",
+      "topicName": "Overview of Cell Signaling"
+    },
+    {
+      "id": "bo25-002",
+      "stem": "A 24-year-old woman with allergic asthma inhales an allergen. Mast cells in the airway wall release histamine, which acts on immediately adjacent smooth muscle and blood vessels to cause local bronchoconstriction and vasodilation. Which mode of cell signaling best describes the action of the released histamine?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Endocrine signaling"
+        },
+        {
+          "label": "B",
+          "text": "Paracrine signaling"
+        },
+        {
+          "label": "C",
+          "text": "Autocrine signaling"
+        },
+        {
+          "label": "D",
+          "text": "Synaptic signaling"
+        },
+        {
+          "label": "E",
+          "text": "Juxtacrine signaling"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "A mediator that diffuses a short distance to act on nearby cells is paracrine signaling.",
+        "whyCorrect": "Paracrine signaling propagates a signal to nearby cells. Histamine released from mast cells diffuses locally to act on adjacent smooth muscle and vascular cells, exactly the example the brick gives for paracrine inflammatory mediators.",
+        "whyWrongByChoice": {
+          "A": "Endocrine signaling delivers hormones through the bloodstream to distant target cells, not to immediately adjacent tissue.",
+          "C": "Autocrine signaling would require histamine to bind receptors on the same mast cell that released it.",
+          "D": "Synaptic signaling involves neurotransmitter release across a synaptic cleft between neurons.",
+          "E": "Juxtacrine signaling requires direct membrane contact or gap junctions rather than a diffusible mediator."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "signaling paradigms",
+        "paracrine",
+        "histamine"
+      ],
+      "topicId": "overview-of-cell-signaling",
+      "topicName": "Overview of Cell Signaling"
+    },
+    {
+      "id": "bo25-003",
+      "stem": "A researcher exposes a person to the nerve agent sarin. Sarin inhibits acetylcholinesterase in the synaptic cleft, preventing hydrolysis of the neurotransmitter and leading to convulsions, paralysis, and cardiac arrest. The normal signaling process disrupted by sarin is an example of which type of cell communication?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Paracrine signaling"
+        },
+        {
+          "label": "B",
+          "text": "Endocrine signaling"
+        },
+        {
+          "label": "C",
+          "text": "Synaptic signaling"
+        },
+        {
+          "label": "D",
+          "text": "Autocrine signaling"
+        },
+        {
+          "label": "E",
+          "text": "Juxtacrine signaling"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Neurotransmitter release across a synaptic cleft, terminated by acetylcholinesterase, defines synaptic signaling.",
+        "whyCorrect": "Synaptic signaling occurs when chemical signals are released from a presynaptic terminal into the synaptic cleft to bind a postsynaptic membrane. Acetylcholinesterase normally terminates the signal; sarin blocks this cessation, causing sustained neurotransmission.",
+        "whyWrongByChoice": {
+          "A": "Paracrine signaling uses diffusible mediators acting on nearby cells, not neurotransmitters at a defined synapse.",
+          "B": "Endocrine signaling delivers hormones through the blood to distant cells.",
+          "D": "Autocrine signaling occurs when a cell responds to a ligand it secreted itself.",
+          "E": "Juxtacrine signaling requires direct physical contact between cells rather than a cleft-crossing transmitter."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "signaling paradigms",
+        "synaptic",
+        "acetylcholinesterase"
+      ],
+      "topicId": "overview-of-cell-signaling",
+      "topicName": "Overview of Cell Signaling"
+    },
+    {
+      "id": "bo25-004",
+      "stem": "A steroid hormone derived from cholesterol is administered to a cultured cell. Because of its chemical nature, this hormone readily crosses the plasma membrane and binds a receptor that then regulates gene transcription. Which type of receptor most likely binds this ligand?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Receptor tyrosine kinase"
+        },
+        {
+          "label": "B",
+          "text": "G protein-coupled receptor"
+        },
+        {
+          "label": "C",
+          "text": "Ligand-gated ion channel"
+        },
+        {
+          "label": "D",
+          "text": "Nuclear receptor"
+        },
+        {
+          "label": "E",
+          "text": "Serine/threonine kinase receptor"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Lipophilic, cholesterol-derived hormones cross the membrane and act through intracellular nuclear receptors.",
+        "whyCorrect": "Steroid hormones are lipophilic and readily cross the lipid bilayer, so they are detected by intracellular nuclear receptors that act as ligand-activated transcription factors, binding DNA to regulate gene expression.",
+        "whyWrongByChoice": {
+          "A": "Receptor tyrosine kinases are cell-surface receptors for polar ligands such as growth factors that cannot passively cross the membrane.",
+          "B": "GPCRs are cell-surface receptors for hydrophilic ligands and signal through second messengers.",
+          "C": "Ligand-gated ion channels sit in the membrane and open in response to polar extracellular ligands.",
+          "E": "Serine/threonine kinase receptors are membrane enzyme-linked receptors for peptide ligands such as TGF-beta."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "hormones",
+        "nuclear receptor",
+        "steroid"
+      ],
+      "topicId": "overview-of-cell-signaling",
+      "topicName": "Overview of Cell Signaling"
+    },
+    {
+      "id": "bo25-005",
+      "stem": "A peptide hormone binds its receptor on the surface of a target cell but does not enter the cytoplasm. To generate a cellular response, the cell must produce low-molecular-weight intracellular molecules that propagate and amplify the external signal. What is the fundamental reason a peptide hormone signals in this indirect manner rather than binding an intracellular receptor?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It is hydrophilic and too large to passively cross the membrane"
+        },
+        {
+          "label": "B",
+          "text": "It is synthesized directly from cholesterol"
+        },
+        {
+          "label": "C",
+          "text": "It is lipophilic and freely diffuses across the bilayer"
+        },
+        {
+          "label": "D",
+          "text": "It is degraded by phosphodiesterases before entering the cell"
+        },
+        {
+          "label": "E",
+          "text": "It is an iodinated amine that binds nuclear receptors"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Hydrophilic, large peptide hormones cannot cross the membrane, so they use surface receptors and second messengers.",
+        "whyCorrect": "Peptide/protein hormones are substantially larger and polar, which along with their hydrophilic nature impedes passive diffusion into the cell. They must bind cell-surface receptors that trigger second messengers to propagate and amplify the signal internally.",
+        "whyWrongByChoice": {
+          "B": "Cholesterol-derived hormones are steroids, which are lipophilic and use nuclear receptors, unlike peptide hormones.",
+          "C": "Peptide hormones are hydrophilic, not lipophilic, and cannot freely diffuse across the bilayer.",
+          "D": "Phosphodiesterases degrade second messengers such as cAMP, not the extracellular peptide hormone itself.",
+          "E": "Thyroid hormones are iodinated amines that use nuclear receptors, but peptide hormones are a different class."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "hormones",
+        "second messengers",
+        "receptor reception"
+      ],
+      "topicId": "overview-of-cell-signaling",
+      "topicName": "Overview of Cell Signaling"
+    },
+    {
+      "id": "bo25-006",
+      "stem": "Epinephrine binds a beta-adrenergic G protein-coupled receptor. The receptor acts as a guanine nucleotide exchange factor on the associated Galpha subunit, which then dissociates and stimulates adenylate cyclase. Which molecule, when bound to the Galpha subunit, promotes this activation of adenylate cyclase?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "GDP"
+        },
+        {
+          "label": "B",
+          "text": "GTP"
+        },
+        {
+          "label": "C",
+          "text": "cAMP"
+        },
+        {
+          "label": "D",
+          "text": "ATP"
+        },
+        {
+          "label": "E",
+          "text": "Inositol triphosphate (IP3)"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "GTP-bound Galpha dissociates from the receptor and Gbeta-gamma to activate adenylate cyclase.",
+        "whyCorrect": "On activation, the GPCR catalyzes exchange of GDP for GTP on Galpha. The GTP-bound Galpha subunit dissociates from the beta-gamma subunits and activates adenylate cyclase to generate cAMP, propagating the signal.",
+        "whyWrongByChoice": {
+          "A": "GDP-bound Galpha is the inactive state formed after intrinsic GTPase hydrolysis shuts the pathway off.",
+          "C": "cAMP is the downstream second messenger produced after Galpha activates adenylate cyclase, not the activating nucleotide.",
+          "D": "ATP is the substrate adenylate cyclase converts into cAMP, not the molecule that binds and activates Galpha.",
+          "E": "IP3 is a second messenger of the Gq/phospholipase C pathway, not the nucleotide that activates Galpha-s."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "GPCR",
+        "G protein",
+        "GTP"
+      ],
+      "topicId": "overview-of-cell-signaling",
+      "topicName": "Overview of Cell Signaling"
+    },
+    {
+      "id": "bo25-007",
+      "stem": "A patient chronically consumes large amounts of caffeine, a methylxanthine that inhibits phosphodiesterase. As a result, the intracellular second messenger that normally activates protein kinase A has a prolonged half-life, sustaining alertness and increased heart rate. Which second messenger accumulates due to this phosphodiesterase inhibition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Diacylglycerol (DAG)"
+        },
+        {
+          "label": "B",
+          "text": "Inositol triphosphate (IP3)"
+        },
+        {
+          "label": "C",
+          "text": "cAMP"
+        },
+        {
+          "label": "D",
+          "text": "Nitric oxide (NO)"
+        },
+        {
+          "label": "E",
+          "text": "Calcium ions (Ca2+)"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Phosphodiesterases hydrolyze cyclic nucleotides; inhibiting them prolongs cAMP signaling and PKA activation.",
+        "whyCorrect": "cAMP is a cyclic purine mononucleotide that activates PKA and is normally destroyed by phosphodiesterases. Caffeine inhibits PDE, prolonging the cAMP half-life to sustain downstream effects such as alertness and increased heart rate.",
+        "whyWrongByChoice": {
+          "A": "DAG is generated by phospholipase C cleaving PIP2 and activates PKC; it is not degraded by phosphodiesterase.",
+          "B": "IP3 is a phospholipase C product that releases calcium and is not a cyclic nucleotide targeted by phosphodiesterase.",
+          "D": "Nitric oxide is a gas generated from arginine; it is not a cyclic nucleotide broken down by phosphodiesterase.",
+          "E": "Calcium ions are released from ER/SR stores and cleared by SERCA pumps, not by phosphodiesterase."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "second messengers",
+        "cAMP",
+        "phosphodiesterase"
+      ],
+      "topicId": "overview-of-cell-signaling",
+      "topicName": "Overview of Cell Signaling"
+    },
+    {
+      "id": "bo25-008",
+      "stem": "A patient develops profuse watery diarrhea and dehydration after infection with Vibrio cholerae. Cholera toxin covalently modifies a specific Galpha subunit, preventing GTP hydrolysis so the subunit is constitutively active, leading to sustained cAMP production, PKA activation, and chloride efflux into the gut lumen. Which Galpha subunit does cholera toxin lock in the active state?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Galpha-s"
+        },
+        {
+          "label": "B",
+          "text": "Galpha-i"
+        },
+        {
+          "label": "C",
+          "text": "Galpha-q"
+        },
+        {
+          "label": "D",
+          "text": "Galpha-12/13"
+        },
+        {
+          "label": "E",
+          "text": "The Gbeta-gamma complex"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Cholera toxin constitutively activates Galpha-s, driving unregulated cAMP production.",
+        "whyCorrect": "Cholera toxin covalently alters Galpha-s to prevent GTP hydrolysis, keeping it permanently active. The prolonged cAMP and PKA activity opens chloride channels; ion efflux draws water into the gut lumen, causing the severe secretory diarrhea of cholera.",
+        "whyWrongByChoice": {
+          "B": "Galpha-i is the target of pertussis toxin, which inhibits an inhibitor of adenylate cyclase, a different mechanism.",
+          "C": "Galpha-q activates phospholipase C to make IP3 and DAG and is not the cholera toxin target.",
+          "D": "Galpha-12/13 activates Rho kinases for cytoskeletal remodeling, unrelated to cholera toxin.",
+          "E": "The Gbeta-gamma complex modulates ion channels such as GIRK; it is not covalently modified by cholera toxin."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "G protein",
+        "cholera toxin",
+        "Galpha-s"
+      ],
+      "topicId": "overview-of-cell-signaling",
+      "topicName": "Overview of Cell Signaling"
+    },
+    {
+      "id": "bo25-009",
+      "stem": "Pertussis toxin from Bordetella pertussis ADP-ribosylates a Galpha subunit, effectively inhibiting an inhibitor of adenylate cyclase. This raises intracellular cAMP and impairs leukocyte function, helping the bacterium evade immune-mediated destruction. Which Galpha subunit is modified by pertussis toxin?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Galpha-q"
+        },
+        {
+          "label": "B",
+          "text": "Galpha-i"
+        },
+        {
+          "label": "C",
+          "text": "Galpha-s"
+        },
+        {
+          "label": "D",
+          "text": "Galpha-12/13"
+        },
+        {
+          "label": "E",
+          "text": "RhoA"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Pertussis toxin inactivates Galpha-i, removing inhibition of adenylate cyclase and raising cAMP.",
+        "whyCorrect": "The Galpha-i subtype normally blocks adenylate cyclase activation. Pertussis toxin modifies Galpha-i, inhibiting this inhibitor, which increases cAMP and impairs leukocyte function so the bacterium escapes immune clearance.",
+        "whyWrongByChoice": {
+          "A": "Galpha-q signals through phospholipase C to produce IP3 and DAG and is not the pertussis toxin target.",
+          "C": "Galpha-s stimulates adenylate cyclase directly and is the target of cholera toxin, not pertussis toxin.",
+          "D": "Galpha-12/13 drives Rho-mediated cytoskeletal remodeling and is unrelated to pertussis toxin.",
+          "E": "RhoA is a small G-protein downstream of Galpha-12/13, not a heterotrimeric Galpha subunit modified by the toxin."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "G protein",
+        "pertussis toxin",
+        "Galpha-i"
+      ],
+      "topicId": "overview-of-cell-signaling",
+      "topicName": "Overview of Cell Signaling"
+    },
+    {
+      "id": "bo25-010",
+      "stem": "A 55-year-old man with obesity has recently developed insulin resistance and early type 2 diabetes. Insulin levels are normal or elevated, but the downstream metabolic signaling cascade is blunted. The insulin receptor is an atypical predimerized receptor tyrosine kinase whose metabolic effects depend on a PI3-kinase pathway. Which parameter is most likely decreased in this patient?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Insulin receptor dimerization"
+        },
+        {
+          "label": "B",
+          "text": "Insulin secretion from pancreatic beta cells"
+        },
+        {
+          "label": "C",
+          "text": "Phosphorylation of PKB/Akt"
+        },
+        {
+          "label": "D",
+          "text": "Synthesis of cAMP"
+        },
+        {
+          "label": "E",
+          "text": "Activity of nuclear thyroid receptors"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Blunted insulin signaling reduces downstream PKB/Akt phosphorylation, impairing metabolic responses.",
+        "whyCorrect": "Insulin's metabolic branch depends on PIP3-mediated recruitment and PDK1 phosphorylation of PKB/Akt. When insulin signaling is compromised, PKB/Akt activation via phosphorylation falls, reducing GLUT4 translocation and glucose uptake.",
+        "whyWrongByChoice": {
+          "A": "The insulin receptor is already predimerized (linked by disulfide bonds), so dimerization is not the limiting step.",
+          "B": "Insulin is present or elevated in insulin resistance, so secretion is not decreased at onset.",
+          "D": "cAMP is produced from GPCR-mediated signaling; the insulin receptor signals through an RTK pathway instead.",
+          "E": "Nuclear thyroid receptor activity is unrelated to insulin receptor tyrosine kinase signaling."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "insulin receptor",
+        "RTK",
+        "PKB/Akt"
+      ],
+      "topicId": "overview-of-cell-signaling",
+      "topicName": "Overview of Cell Signaling"
+    },
+    {
+      "id": "bo25-011",
+      "stem": "In a research experiment, a ligand is applied to cells expressing a Gq-coupled GPCR, both with and without a SERCA inhibitor. Gq activates phospholipase C, generating IP3 and DAG; IP3 releases intracellular calcium that activates protein kinase C. Compared with cells that have functional SERCA, which parameter is most prolonged in the cells treated with the SERCA inhibitor?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "cAMP half-life"
+        },
+        {
+          "label": "B",
+          "text": "Protein kinase C activation"
+        },
+        {
+          "label": "C",
+          "text": "Phosphorylation of PKB/Akt"
+        },
+        {
+          "label": "D",
+          "text": "Calmodulin inactivation"
+        },
+        {
+          "label": "E",
+          "text": "Rho-associated kinase (ROCK) activity"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "SERCA normally clears cytosolic calcium; inhibiting it keeps calcium high and prolongs PKC activation.",
+        "whyCorrect": "Gq signaling activates phospholipase C to make IP3 and DAG; IP3 releases calcium that, with DAG, activates PKC. SERCA pumps calcium back into the ER/SR to terminate the signal, so a SERCA inhibitor keeps cytosolic calcium elevated and prolongs PKC activation.",
+        "whyWrongByChoice": {
+          "A": "cAMP is produced by the Galpha-s/adenylate cyclase pathway, not by Gq-driven phospholipase C signaling.",
+          "C": "PKB/Akt phosphorylation is part of insulin receptor tyrosine kinase signaling, not Gq/calcium signaling.",
+          "D": "Sustained high calcium would promote calmodulin activation, not inactivation, the opposite of this option.",
+          "E": "ROCK is activated downstream of Galpha-12/13 and RhoA, not by Gq-mediated calcium release."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "Galpha-q",
+        "second messengers",
+        "calcium",
+        "PKC"
+      ],
+      "topicId": "overview-of-cell-signaling",
+      "topicName": "Overview of Cell Signaling"
+    },
+    {
+      "id": "bo25-012",
+      "stem": "A 68-year-old man with stable angina places a sublingual nitroglycerine tablet under his tongue during chest pain. Nitroglycerine increases production of a gaseous signaling molecule that diffuses into vascular smooth muscle, activates cytosolic guanylate cyclase to produce cGMP, and causes vasodilation. Which molecule directly mediates this smooth muscle relaxation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Nitric oxide"
+        },
+        {
+          "label": "B",
+          "text": "cAMP"
+        },
+        {
+          "label": "C",
+          "text": "Diacylglycerol (DAG)"
+        },
+        {
+          "label": "D",
+          "text": "Epinephrine"
+        },
+        {
+          "label": "E",
+          "text": "Inositol triphosphate (IP3)"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Nitroglycerine raises nitric oxide, which activates guanylate cyclase to make cGMP and relax vascular smooth muscle.",
+        "whyCorrect": "Nitric oxide is a gas that freely diffuses across membranes to activate cytosolic guanylate cyclase, producing cGMP that stimulates smooth muscle relaxation and vasodilation. This relieves the pain of angina, the mechanism behind sublingual nitroglycerine.",
+        "whyWrongByChoice": {
+          "B": "cAMP is generated by adenylate cyclase downstream of Galpha-s and is not the gaseous mediator produced by nitroglycerine.",
+          "C": "DAG is a membrane-anchored phospholipase C product that activates PKC, not a diffusible vasodilating gas.",
+          "D": "Epinephrine is a catecholamine ligand acting on adrenergic GPCRs, not the molecule generated by nitroglycerine.",
+          "E": "IP3 releases intracellular calcium and is not the gas that activates guanylate cyclase in this pathway."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "second messengers",
+        "nitric oxide",
+        "cGMP",
+        "vasodilation"
+      ],
+      "topicId": "overview-of-cell-signaling",
+      "topicName": "Overview of Cell Signaling"
+    },
+    {
+      "id": "bo26-001",
+      "stem": "A 62-year-old woman with chronic kidney disease and symptomatic anemia is started on epoetin (recombinant erythropoietin) to stimulate red blood cell production. Erythropoietin binds a receptor that lacks intrinsic catalytic activity. Through which of the following mechanisms does this receptor most likely propagate its intracellular signal?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Intrinsic receptor autophosphorylation on cytoplasmic tyrosines"
+        },
+        {
+          "label": "B",
+          "text": "An associated Janus kinase that phosphorylates STAT proteins"
+        },
+        {
+          "label": "C",
+          "text": "A G-alpha-s subunit that activates adenylate cyclase"
+        },
+        {
+          "label": "D",
+          "text": "Receptor kinase phosphorylation of SMAD transcription factors"
+        },
+        {
+          "label": "E",
+          "text": "IKK-mediated phosphorylation and degradation of IkB"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Cytokine receptors such as the EPO receptor lack intrinsic kinase activity and rely on Janus kinases (JAKs) to phosphorylate STATs.",
+        "whyCorrect": "The EPO receptor is a hematopoietic cytokine receptor without catalytic activity of its own. Ligand binding brings associated JAKs into proximity so they phosphorylate the receptor and then STAT proteins, which dimerize and translocate to the nucleus to act as transcription factors driving RBC differentiation.",
+        "whyWrongByChoice": {
+          "A": "Intrinsic autophosphorylation describes receptor tyrosine kinases (e.g., the EGF receptor), which possess catalytic activity the EPO receptor lacks.",
+          "C": "G-alpha-s activation of adenylate cyclase is a GPCR/cAMP mechanism, not the cytokine-receptor pathway used by EPO.",
+          "D": "SMAD phosphorylation is characteristic of serine/threonine receptor kinases such as the TGF-beta receptor.",
+          "E": "IKK-mediated IkB degradation liberates NF-kB and is downstream of TNF-alpha, not EPO."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "JAK-STAT",
+        "erythropoietin",
+        "cytokine receptors"
+      ],
+      "topicId": "overview-of-cell-signaling-2",
+      "topicName": "Overview of Cell Signaling (2 of 2)"
+    },
+    {
+      "id": "bo26-002",
+      "stem": "A researcher studies how oxygen availability controls erythropoietin (EPO) production. Under well-oxygenated (normoxic) conditions, EPO gene expression is kept low. Which of the following best explains why EPO levels remain low when tissue oxygen is normal?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "HIF-1-alpha is hydroxylated, bound by VHL, and degraded by the proteasome"
+        },
+        {
+          "label": "B",
+          "text": "HIF-1-alpha dimerizes with HIF-beta and binds the hypoxia response element"
+        },
+        {
+          "label": "C",
+          "text": "Prolyl hydroxylases are inactivated, stabilizing HIF-1-alpha"
+        },
+        {
+          "label": "D",
+          "text": "JAK2 constitutively phosphorylates STAT independent of ligand"
+        },
+        {
+          "label": "E",
+          "text": "Gene amplification increases the number of EPO gene copies"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "In normoxia, oxygen-dependent prolyl hydroxylases mark HIF-1-alpha for VHL-mediated ubiquitination and proteasomal degradation, keeping EPO low.",
+        "whyCorrect": "When oxygen is abundant, prolyl hydroxylases (PHDs) hydroxylate HIF-1-alpha. Hydroxylated HIF-1-alpha is recognized by the von Hippel-Lindau (VHL) protein, which promotes ubiquitination and proteasomal degradation, preventing transcription of hypoxia genes like EPO.",
+        "whyWrongByChoice": {
+          "B": "Dimerization of HIF-1-alpha with HIF-beta at the hypoxia response element occurs during hypoxia to raise EPO, not in normoxia.",
+          "C": "PHDs are oxygen-dependent and active in normoxia; their inactivation stabilizes HIF-1-alpha and occurs during hypoxia.",
+          "D": "Constitutive JAK2 signaling describes polycythemia vera, not the normal oxygen-sensing regulation of EPO.",
+          "E": "Gene amplification is an overexpression mechanism seen in cancers such as HER2+ breast cancer, not physiologic EPO regulation."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "HIF-1-alpha",
+        "VHL",
+        "hypoxia",
+        "erythropoietin"
+      ],
+      "topicId": "overview-of-cell-signaling-2",
+      "topicName": "Overview of Cell Signaling (2 of 2)"
+    },
+    {
+      "id": "bo26-003",
+      "stem": "A 59-year-old man reports intense itching after hot showers, facial redness, and headaches. Laboratory studies show an elevated red blood cell count, and genetic testing identifies a JAK2 V617F mutation. This mutation causes constitutive signaling that mimics the binding of which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Tumor necrosis factor-alpha"
+        },
+        {
+          "label": "B",
+          "text": "Fibroblast growth factor"
+        },
+        {
+          "label": "C",
+          "text": "Erythropoietin"
+        },
+        {
+          "label": "D",
+          "text": "Alpha-melanocyte stimulating hormone"
+        },
+        {
+          "label": "E",
+          "text": "Transforming growth factor-beta"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Polycythemia vera results from a JAK2 mutation that constitutively activates the JAK-STAT pathway normally triggered by erythropoietin.",
+        "whyCorrect": "The clinical picture—elevated RBCs, aquagenic pruritus, plethora—is polycythemia vera, driven by JAK2 V617F. Because JAK2 relays erythropoietin signaling to promote RBC production, constitutive JAK2 activity mimics ongoing EPO stimulation even without ligand.",
+        "whyWrongByChoice": {
+          "A": "TNF-alpha activates the NF-kB inflammatory cascade, not the erythropoietic JAK2/STAT pathway.",
+          "B": "Fibroblast growth factor acts through FGFR-3 in bone growth (achondroplasia), unrelated to RBC overproduction.",
+          "D": "Alpha-MSH signals through MC1R/cAMP for melanin production, not JAK2-driven erythropoiesis.",
+          "E": "TGF-beta signals through SMAD proteins and is not the ligand relayed by JAK2 in erythropoiesis."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "polycythemia vera",
+        "JAK2",
+        "erythropoietin"
+      ],
+      "topicId": "overview-of-cell-signaling-2",
+      "topicName": "Overview of Cell Signaling (2 of 2)"
+    },
+    {
+      "id": "bo26-004",
+      "stem": "A 47-year-old man presents with fatigue, splenomegaly, and a markedly elevated white blood cell count. Cytogenetics reveal a t(9;22) translocation. The resulting fusion gene produces a protein that drives his disease. Which of the following best describes the pathologic protein?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "An overexpressed receptor tyrosine kinase"
+        },
+        {
+          "label": "B",
+          "text": "A constitutively active nonreceptor cytosolic tyrosine kinase"
+        },
+        {
+          "label": "C",
+          "text": "A constitutively active G-alpha-s subunit"
+        },
+        {
+          "label": "D",
+          "text": "A transcription factor with a phosphomimetic substitution"
+        },
+        {
+          "label": "E",
+          "text": "A soluble decoy receptor lacking intracellular signaling"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The Philadelphia chromosome fuses BCR and ABL, yielding a constitutively active nonreceptor tyrosine kinase that drives chronic myeloid leukemia.",
+        "whyCorrect": "The t(9;22) translocation joins the ABL gene—encoding a freely diffusible cytosolic (nonreceptor) tyrosine kinase—to BCR. The BCR-ABL fusion retains full kinase activity but loses regulatory sites, causing constitutive pro-growth signaling and CML.",
+        "whyWrongByChoice": {
+          "A": "ABL is explicitly not a receptor tyrosine kinase; it is a cytoplasmic protein, and the defect is a fusion, not overexpression.",
+          "C": "A constitutively active G-alpha-s subunit characterizes McCune-Albright syndrome, not CML.",
+          "D": "The BCR-ABL defect is a gross structural fusion, not a single phosphomimetic amino-acid substitution in a transcription factor.",
+          "E": "A soluble decoy receptor describes etanercept, a therapeutic, not the leukemogenic fusion protein."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Philadelphia chromosome",
+        "BCR-ABL",
+        "CML"
+      ],
+      "topicId": "overview-of-cell-signaling-2",
+      "topicName": "Overview of Cell Signaling (2 of 2)"
+    },
+    {
+      "id": "bo26-005",
+      "stem": "A cancer biologist studies a colon epithelial cell in which Wnt binds the Frizzled receptor, activating the intracellular component Dishevelled. Which of the following is the most direct downstream consequence of Dishevelled activation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Inhibition of the Axin/APC/GSK-3-beta destruction complex, stabilizing beta-catenin"
+        },
+        {
+          "label": "B",
+          "text": "Autophosphorylation of Frizzled on cytoplasmic tyrosine residues"
+        },
+        {
+          "label": "C",
+          "text": "Phosphorylation of STAT proteins by Janus kinases"
+        },
+        {
+          "label": "D",
+          "text": "Degradation of IkB to release NF-kB into the nucleus"
+        },
+        {
+          "label": "E",
+          "text": "Increased transbinding of E-cadherin between adjacent cells"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "In Wnt signaling, Dishevelled inhibits the beta-catenin destruction complex, allowing beta-catenin to accumulate and enter the nucleus.",
+        "whyCorrect": "When Wnt binds Frizzled (a GPCR), Dishevelled is activated and inhibits the complex of Axin, APC, GSK-3-beta, and CKI-alpha that normally targets beta-catenin for degradation. By 'inhibiting the inhibitor,' free beta-catenin translocates to the nucleus to promote gene expression.",
+        "whyWrongByChoice": {
+          "B": "Frizzled is a GPCR without intrinsic tyrosine kinase activity, so it does not autophosphorylate like an RTK.",
+          "C": "STAT phosphorylation by JAKs is part of the cytokine JAK-STAT pathway, not Wnt/Frizzled signaling.",
+          "D": "IkB degradation releasing NF-kB is the TNF-alpha inflammatory cascade, unrelated to Dishevelled.",
+          "E": "Wnt signaling frees beta-catenin for migration-promoting transcription; increased E-cadherin transbinding instead sequesters beta-catenin at the membrane."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "Wnt",
+        "beta-catenin",
+        "Frizzled"
+      ],
+      "topicId": "overview-of-cell-signaling-2",
+      "topicName": "Overview of Cell Signaling (2 of 2)"
+    },
+    {
+      "id": "bo26-006",
+      "stem": "A 5-year-old boy presents with early pubic hair, a growth spurt placing him at the 97th height percentile, enlarged testicles, and hyperpigmented macules on his torso. Imaging shows craniofacial fibrous dysplasia. Genetic testing points to a somatic mutation in a cell-signaling gene. Which of the following is the most likely pathophysiologic mechanism?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Constitutive G-alpha-s activation causing excessive adenylate cyclase and cAMP"
+        },
+        {
+          "label": "B",
+          "text": "Activating mutation of fibroblast growth factor receptor-3"
+        },
+        {
+          "label": "C",
+          "text": "Expression of a BCR-ABL fusion protein"
+        },
+        {
+          "label": "D",
+          "text": "Loss of erythropoietin expression"
+        },
+        {
+          "label": "E",
+          "text": "Amplification of a receptor tyrosine kinase gene"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "McCune-Albright syndrome arises from a somatic GNAS mutation that constitutively activates G-alpha-s, overstimulating adenylate cyclase and cAMP.",
+        "whyCorrect": "The triad of precocious puberty, cafe-au-lait spots, and fibrous dysplasia is McCune-Albright syndrome. A somatic (non-inherited) mutation in GNAS locks G-alpha-s in the active state, overproducing cAMP and driving excessive hormone synthesis and abnormal bone and pigment cell behavior.",
+        "whyWrongByChoice": {
+          "B": "An activating FGFR-3 mutation causes achondroplasia (short-limbed dwarfism), not precocious puberty with fibrous dysplasia.",
+          "C": "A BCR-ABL fusion causes leukemia through an abnormal tyrosine kinase, not this endocrine/skeletal picture.",
+          "D": "Loss of EPO expression would cause anemia and does not match these findings.",
+          "E": "RTK gene amplification drives cancers such as HER2+ breast cancer, not McCune-Albright syndrome."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "McCune-Albright",
+        "GNAS",
+        "cAMP"
+      ],
+      "topicId": "overview-of-cell-signaling-2",
+      "topicName": "Overview of Cell Signaling (2 of 2)"
+    },
+    {
+      "id": "bo26-007",
+      "stem": "A 2-year-old boy has disproportionately short upper arms and thighs, a long narrow trunk, macrocephaly with frontal bossing, and normal cognitive development. The condition results from an activating mutation in a receptor tyrosine kinase. Which of the following best explains the short stature?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Enhanced chondrocyte proliferation accelerating endochondral ossification"
+        },
+        {
+          "label": "B",
+          "text": "FGFR-3 signaling that suppresses chondrocyte proliferation and cartilage formation"
+        },
+        {
+          "label": "C",
+          "text": "Deficient intramembranous ossification of the skull and ribs"
+        },
+        {
+          "label": "D",
+          "text": "Constitutive JAK2 activation impairing bone marrow output"
+        },
+        {
+          "label": "E",
+          "text": "Loss-of-function of G-alpha-s reducing cAMP in osteoblasts"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Achondroplasia is caused by an activating FGFR-3 mutation that suppresses chondrocyte proliferation, limiting the cartilage-based (endochondral) growth of long bones.",
+        "whyCorrect": "In achondroplasia, gain-of-function FGFR-3 autophosphorylates without ligand. FGFR-3 signaling suppresses chondrocyte differentiation and proliferation, decreasing cartilage formation needed for endochondral ossification of the long bones, producing rhizomelic shortening with preserved intelligence.",
+        "whyWrongByChoice": {
+          "A": "FGFR-3 activation suppresses—rather than enhances—chondrocyte proliferation, so bone growth is inhibited.",
+          "C": "Flat bones like the skull form by intramembranous ossification, which is relatively preserved; the defect impairs endochondral ossification of long bones.",
+          "D": "JAK2 activation drives polycythemia vera, not the skeletal phenotype of achondroplasia.",
+          "E": "Achondroplasia is a gain-of-function RTK mutation, not a loss of G-alpha-s/cAMP signaling."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "achondroplasia",
+        "FGFR-3",
+        "endochondral ossification"
+      ],
+      "topicId": "overview-of-cell-signaling-2",
+      "topicName": "Overview of Cell Signaling (2 of 2)"
+    },
+    {
+      "id": "bo26-008",
+      "stem": "A pathologist evaluates a breast tumor that is classified as HER2-positive. HER2 is a pro-growth receptor tyrosine kinase. Which of the following mechanisms most commonly accounts for the increased HER2 signaling in this cancer?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A phosphomimetic substitution stabilizing the active receptor"
+        },
+        {
+          "label": "B",
+          "text": "Gene amplification producing extra HER2 gene copies"
+        },
+        {
+          "label": "C",
+          "text": "A chromosomal translocation creating a fusion protein"
+        },
+        {
+          "label": "D",
+          "text": "Altered epigenetic imprinting silencing the receptor"
+        },
+        {
+          "label": "E",
+          "text": "A promoter mutation that decreases transcription"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "HER2-positive breast cancer results from amplification/duplication of the HER2 gene, overexpressing a pro-growth RTK.",
+        "whyCorrect": "Overexpression can amplify a pro-growth pathway, and in HER2+ breast cancer the receptor is overproduced due to an increased number of HER2 gene copies (gene amplification/duplication). This excessive receptor density drives uncontrolled proliferative signaling.",
+        "whyWrongByChoice": {
+          "A": "A phosphomimetic substitution is an activating point mutation; HER2+ cancer reflects overexpression from extra gene copies, not a mimic of phosphorylation.",
+          "C": "A translocation-derived fusion protein describes BCR-ABL in leukemia, not HER2 amplification.",
+          "D": "Epigenetic silencing would reduce, not increase, receptor levels, opposite to the overexpression seen here.",
+          "E": "A promoter mutation that decreases transcription would lower HER2, whereas the disease is defined by overexpression."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "HER2",
+        "gene amplification",
+        "overexpression"
+      ],
+      "topicId": "overview-of-cell-signaling-2",
+      "topicName": "Overview of Cell Signaling (2 of 2)"
+    },
+    {
+      "id": "bo26-009",
+      "stem": "In a macrophage, TNF-alpha binds TNFR-1 and triggers the NF-kB cascade. The NF-kB complex is normally held inactive in the cytoplasm. Which of the following events most directly liberates NF-kB so it can translocate to the nucleus?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Dimerization and nuclear translocation of STAT proteins"
+        },
+        {
+          "label": "B",
+          "text": "IKK-mediated phosphorylation of IkB, marking it for proteasomal degradation"
+        },
+        {
+          "label": "C",
+          "text": "Prolyl hydroxylation of NF-kB by oxygen-dependent enzymes"
+        },
+        {
+          "label": "D",
+          "text": "Phosphorylation of SMAD proteins by an activated receptor kinase"
+        },
+        {
+          "label": "E",
+          "text": "Inhibition of the Axin/APC/GSK-3-beta destruction complex"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "NF-kB is sequestered by IkB; IKK phosphorylates IkB, targeting it for ubiquitination and proteasomal degradation, freeing NF-kB.",
+        "whyCorrect": "The inhibitor of kappa-B (IkB) keeps NF-kB in the cytoplasm. Upon receptor activation, the IkB kinase (IKK) complex phosphorylates IkB, a post-translational mark that leads to its ubiquitination and proteasomal degradation, releasing NF-kB (p50/p65) to enter the nucleus and induce gene expression.",
+        "whyWrongByChoice": {
+          "A": "STAT dimerization is the JAK-STAT pathway, not the mechanism releasing NF-kB.",
+          "C": "Prolyl hydroxylation regulates HIF-1-alpha in oxygen sensing, not NF-kB liberation.",
+          "D": "SMAD phosphorylation belongs to TGF-beta serine/threonine receptor signaling.",
+          "E": "Inhibiting the destruction complex frees beta-catenin in Wnt signaling, not NF-kB."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "NF-kB",
+        "IkB",
+        "TNF-alpha"
+      ],
+      "topicId": "overview-of-cell-signaling-2",
+      "topicName": "Overview of Cell Signaling (2 of 2)"
+    },
+    {
+      "id": "bo26-010",
+      "stem": "A 54-year-old woman with rheumatoid arthritis is prescribed etanercept, a recombinant protein resembling the shed, proteolytically cleaved TNFR-1. Which of the following best describes how etanercept reduces inflammation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It is a monoclonal antibody that opsonizes synovial cells"
+        },
+        {
+          "label": "B",
+          "text": "It acts as a soluble decoy that binds TNF-alpha but cannot transduce a signal"
+        },
+        {
+          "label": "C",
+          "text": "It phosphorylates IkB to prevent NF-kB release"
+        },
+        {
+          "label": "D",
+          "text": "It blocks the ATP-binding pocket of intracellular tyrosine kinases"
+        },
+        {
+          "label": "E",
+          "text": "It increases membrane-bound TNFR-1 to enhance signaling"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Etanercept is a soluble decoy receptor that intercepts TNF-alpha before it engages membrane receptors, dampening NF-kB-driven inflammation.",
+        "whyCorrect": "Etanercept mimics the shed soluble TNFR-1. Because it is not membrane-bound, it binds circulating TNF-alpha but cannot transduce an intracellular signal, preventing the cytokine from engaging cell-surface receptors and thereby reducing immune-related gene expression.",
+        "whyWrongByChoice": {
+          "A": "Etanercept is a recombinant decoy receptor, not a monoclonal antibody (that description fits adalimumab).",
+          "C": "It sequesters extracellular TNF-alpha; it does not act intracellularly to phosphorylate IkB.",
+          "D": "Blocking a kinase ATP pocket describes small-molecule inhibitors like imatinib, not etanercept.",
+          "E": "Etanercept intercepts TNF-alpha to reduce signaling; it does not increase membrane TNFR-1."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "etanercept",
+        "TNF-alpha",
+        "rheumatoid arthritis"
+      ],
+      "topicId": "overview-of-cell-signaling-2",
+      "topicName": "Overview of Cell Signaling (2 of 2)"
+    },
+    {
+      "id": "bo26-011",
+      "stem": "A neonate has delayed separation of the umbilical cord, recurrent skin and mucosal infections, and notably absent pus formation at sites of infection. The condition is caused by a defect in an adhesion molecule required for neutrophils to exit blood vessels. Which of the following molecules is most likely defective?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "E-cadherin"
+        },
+        {
+          "label": "B",
+          "text": "LFA-1 integrin (CD18)"
+        },
+        {
+          "label": "C",
+          "text": "P-selectin"
+        },
+        {
+          "label": "D",
+          "text": "Beta-catenin"
+        },
+        {
+          "label": "E",
+          "text": "Frizzled"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Leukocyte adhesion deficiency results from a defect in the LFA-1 integrin (CD18), impairing neutrophil adhesion and transmigration.",
+        "whyCorrect": "The classic triad—delayed umbilical cord separation, recurrent infections, and absent pus—is leukocyte adhesion deficiency (LAD). It stems from a defect in the LFA-1 integrin (CD18), which mediates firm adhesion of leukocytes to vascular endothelium; without it, neutrophils cannot transmigrate to sites of infection.",
+        "whyWrongByChoice": {
+          "A": "E-cadherin mediates epithelial cell-cell adhesion and beta-catenin signaling, not neutrophil transmigration.",
+          "C": "P-selectin mediates initial leukocyte rolling, but LAD is specifically due to an integrin (CD18) defect impairing firm adhesion.",
+          "D": "Beta-catenin is an intracellular transcription factor in Wnt/cadherin signaling, not a neutrophil adhesion receptor.",
+          "E": "Frizzled is the Wnt GPCR, unrelated to leukocyte adhesion and transmigration."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "leukocyte adhesion deficiency",
+        "integrin",
+        "CD18"
+      ],
+      "topicId": "overview-of-cell-signaling-2",
+      "topicName": "Overview of Cell Signaling (2 of 2)"
+    },
+    {
+      "id": "bo26-012",
+      "stem": "A researcher observes that as an epithelial tumor becomes more migratory, its cells internalize E-cadherin. Which of the following best describes the downstream signaling consequence that promotes this migratory, mesenchymal phenotype?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Beta-catenin is released and translocates to the nucleus to alter gene expression"
+        },
+        {
+          "label": "B",
+          "text": "Beta-catenin is further sequestered at the plasma membrane"
+        },
+        {
+          "label": "C",
+          "text": "STAT proteins are dephosphorylated and retained in the cytoplasm"
+        },
+        {
+          "label": "D",
+          "text": "IkB is stabilized, blocking NF-kB activation"
+        },
+        {
+          "label": "E",
+          "text": "HIF-1-alpha is hydroxylated and degraded by the proteasome"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Loss of E-cadherin releases beta-catenin, which enters the nucleus and reprograms gene expression to support the epithelial-to-mesenchymal transition.",
+        "whyCorrect": "Cadherin receptors normally sequester beta-catenin at the membrane. When a cell becomes migratory and internalizes E-cadherin, beta-catenin is freed, translocates to the nucleus, binds transcription factors, and shifts the gene expression profile toward movement and migration, facilitating the EMT seen in cancer progression.",
+        "whyWrongByChoice": {
+          "B": "Internalizing E-cadherin releases beta-catenin from the membrane rather than sequestering more of it there.",
+          "C": "STAT phosphorylation status is part of JAK-STAT signaling and is not the mechanism of cadherin-driven EMT.",
+          "D": "IkB stabilization concerns NF-kB inflammatory signaling, not E-cadherin/beta-catenin behavior.",
+          "E": "HIF-1-alpha degradation is the oxygen-sensing pathway and is unrelated to E-cadherin internalization."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "E-cadherin",
+        "beta-catenin",
+        "EMT"
+      ],
+      "topicId": "overview-of-cell-signaling-2",
+      "topicName": "Overview of Cell Signaling (2 of 2)"
+    },
+    {
+      "id": "bo27-001",
+      "stem": "A 22-year-old man has plasma glucose measured after an overnight fast. Given that the normal fasting range is 70-100 mg/dL, which of the following measured values is most indicative of hypoglycemia?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "50 mg/dL"
+        },
+        {
+          "label": "B",
+          "text": "72 mg/dL"
+        },
+        {
+          "label": "C",
+          "text": "90 mg/dL"
+        },
+        {
+          "label": "D",
+          "text": "110 mg/dL"
+        },
+        {
+          "label": "E",
+          "text": "140 mg/dL"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Fasting plasma glucose below the normal 70-100 mg/dL range indicates hypoglycemia.",
+        "whyCorrect": "After an overnight (basal, post-absorptive) fast the normal plasma glucose range is 70-100 mg/dL. A value of 50 mg/dL falls below this range and represents hypoglycemia, a state that first manifests with CNS symptoms because the brain depends on circulating glucose.",
+        "whyWrongByChoice": {
+          "B": "72 mg/dL sits within the normal fasting range of 70-100 mg/dL.",
+          "C": "90 mg/dL is a normal fasting glucose value.",
+          "D": "110 mg/dL is elevated for a fast (pre-diabetic range 101-125), not low.",
+          "E": "140 mg/dL is hyperglycemic for a fasting individual, not hypoglycemic."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "glucose ranges",
+        "hypoglycemia",
+        "fasting state"
+      ],
+      "topicId": "fed-and-fasting-metabolic-state",
+      "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State"
+    },
+    {
+      "id": "bo27-002",
+      "stem": "A physiologist notes that skeletal muscle stores large amounts of glycogen, yet mobilizing this glycogen during a fast does not raise blood glucose. Which of the following best explains why muscle glycogen cannot contribute to circulating glucose?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Skeletal muscle lacks glucose 6-phosphatase"
+        },
+        {
+          "label": "B",
+          "text": "Skeletal muscle lacks glycogen phosphorylase"
+        },
+        {
+          "label": "C",
+          "text": "Skeletal muscle cannot synthesize glycogen"
+        },
+        {
+          "label": "D",
+          "text": "Skeletal muscle expresses only GLUT2"
+        },
+        {
+          "label": "E",
+          "text": "Skeletal muscle converts all glycogen directly to lactate before it can be released"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Only the liver expresses glucose 6-phosphatase, so only hepatic glycogen can supply free blood glucose.",
+        "whyCorrect": "Glucose 6-phosphatase converts glucose 6-phosphate to free glucose, and GLUTs cannot transport phosphorylated glucose. The liver expresses this enzyme so its glycogen-derived glucose exits via GLUT2, whereas skeletal muscle lacks glucose 6-phosphatase and therefore consumes its glycogen locally for catabolism.",
+        "whyWrongByChoice": {
+          "B": "Skeletal muscle contains active glycogen phosphorylase and does break down its own glycogen.",
+          "C": "Muscle synthesizes glycogen normally via glycogen synthase; storage is not the problem.",
+          "D": "GLUT2 is the hepatic transporter; muscle uses GLUT4, but the export block is due to missing glucose 6-phosphatase, not the transporter type.",
+          "E": "Muscle glycogen is mobilized for local catabolism, not obligatorily converted entirely to lactate for release."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "glycogen",
+        "glucose 6-phosphatase",
+        "liver vs muscle"
+      ],
+      "topicId": "fed-and-fasting-metabolic-state",
+      "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State"
+    },
+    {
+      "id": "bo27-003",
+      "stem": "A 4-month-old infant is brought in after beginning to sleep through the night. During these longer fasts the infant develops severe hypoglycemia with pronounced lactic acidosis, and examination reveals hepatomegaly. Symptoms improve with frequent feedings. A deficiency of which of the following enzymes best explains this presentation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Glucose 6-phosphatase"
+        },
+        {
+          "label": "B",
+          "text": "Glycogen phosphorylase"
+        },
+        {
+          "label": "C",
+          "text": "Glycerol kinase"
+        },
+        {
+          "label": "D",
+          "text": "Hormone-sensitive lipase"
+        },
+        {
+          "label": "E",
+          "text": "Glucokinase"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Von Gierke disease (glycogen storage disease type I) is a glucose 6-phosphatase deficiency.",
+        "whyCorrect": "In Von Gierke disease, glycogen is formed and degraded normally, but liberated glucose is trapped as glucose 6-phosphate because glucose 6-phosphatase is deficient, causing hepatomegaly. Because the liver cannot release glucose, fasting triggers severe hypoglycemia with lactic acidosis, and treatment is frequent meals to prevent the fasting state.",
+        "whyWrongByChoice": {
+          "B": "Glycogen phosphorylase deficiency impairs glycogen breakdown, but the brick specifically attributes this trapped-glucose, hepatomegaly, lactic-acidosis picture to glucose 6-phosphatase deficiency.",
+          "C": "Glycerol kinase is a hepatic enzyme for glycerol handling and does not produce this glycogen-storage picture.",
+          "D": "Hormone-sensitive lipase acts on adipocyte triglycerides, unrelated to hepatic glycogen and lactic acidosis.",
+          "E": "Glucokinase phosphorylates glucose entering the liver and would not cause glycogen accumulation with hepatomegaly."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Von Gierke disease",
+        "glycogen storage disease",
+        "glucose 6-phosphatase"
+      ],
+      "topicId": "fed-and-fasting-metabolic-state",
+      "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State"
+    },
+    {
+      "id": "bo27-004",
+      "stem": "During a fast, glucagon stimulates hepatic glycogen breakdown but has essentially no effect on skeletal muscle glycogen. Which of the following best explains this tissue selectivity?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Skeletal muscle lacks the glucagon receptor"
+        },
+        {
+          "label": "B",
+          "text": "Skeletal muscle lacks adenylate cyclase"
+        },
+        {
+          "label": "C",
+          "text": "Skeletal muscle cannot generate cAMP by any mechanism"
+        },
+        {
+          "label": "D",
+          "text": "Skeletal muscle contains no glycogen to mobilize"
+        },
+        {
+          "label": "E",
+          "text": "Skeletal muscle lacks protein kinase A"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Skeletal muscle does not express the glucagon GPCR, so glucagon cannot act on muscle glycogen.",
+        "whyCorrect": "Glucagon signals through a GPCR that is present on hepatocytes but absent on skeletal muscle. Because muscle lacks the glucagon receptor, fasting-associated glucagon does not alter muscle glycogen stores; muscle glycogen is instead mobilized by epinephrine, AMP, and calcium.",
+        "whyWrongByChoice": {
+          "B": "Muscle possesses adenylate cyclase, which is engaged by epinephrine acting through adrenergic receptors.",
+          "C": "Muscle readily generates cAMP downstream of epinephrine; the block is the missing glucagon receptor.",
+          "D": "Skeletal muscle holds the bulk of the body's glycogen; it simply is not responsive to glucagon.",
+          "E": "Muscle expresses PKA and uses it in epinephrine signaling."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "glucagon",
+        "receptor distribution",
+        "glycogenolysis"
+      ],
+      "topicId": "fed-and-fasting-metabolic-state",
+      "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State"
+    },
+    {
+      "id": "bo27-005",
+      "stem": "During prolonged fasting, hormone-sensitive lipase in adipocytes liberates glycerol and fatty acids. The glycerol is released into the blood for hepatic use rather than being reincorporated locally. Adipocytes release glycerol because they lack which of the following enzymes?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Glycerol kinase"
+        },
+        {
+          "label": "B",
+          "text": "Glycerol 3-phosphate dehydrogenase"
+        },
+        {
+          "label": "C",
+          "text": "Hormone-sensitive lipase"
+        },
+        {
+          "label": "D",
+          "text": "Lipoprotein lipase"
+        },
+        {
+          "label": "E",
+          "text": "Glucose 6-phosphatase"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Adipocytes lack glycerol kinase, so glycerol from lipolysis cannot be phosphorylated and instead exits the cell.",
+        "whyCorrect": "Glycerol kinase reversibly forms glycerol 3-phosphate from glycerol and is expressed in the liver, not adipocytes. Because adipocytes lack glycerol kinase, the glycerol released by lipolysis cannot be recaptured and is exported to the liver, which uses it as a gluconeogenic substrate.",
+        "whyWrongByChoice": {
+          "B": "Adipocytes do have glycerol 3-phosphate dehydrogenase, which lets them make glycerol 3-phosphate from DHAP when glucose is abundant.",
+          "C": "Hormone-sensitive lipase is present and is precisely the enzyme carrying out the lipolysis described.",
+          "D": "Lipoprotein lipase acts on circulating VLDL/chylomicron triglycerides outside the cell and is not the reason glycerol is released.",
+          "E": "Glucose 6-phosphatase is a hepatic enzyme of glucose metabolism, unrelated to adipocyte glycerol handling."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "glycerol kinase",
+        "adipocyte",
+        "lipolysis"
+      ],
+      "topicId": "fed-and-fasting-metabolic-state",
+      "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State"
+    },
+    {
+      "id": "bo27-006",
+      "stem": "A healthy 30-year-old eats a carbohydrate-rich meal, and glucose uptake into skeletal muscle and adipose tissue rapidly increases. This increase results from insulin-stimulated deposition of which of the following glucose transporters at the cell surface?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "GLUT4"
+        },
+        {
+          "label": "B",
+          "text": "GLUT2"
+        },
+        {
+          "label": "C",
+          "text": "GLUT1"
+        },
+        {
+          "label": "D",
+          "text": "SGLT1"
+        },
+        {
+          "label": "E",
+          "text": "GLUT5"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Insulin promotes translocation of high-affinity GLUT4 to the surface of muscle and adipose cells.",
+        "whyCorrect": "Insulin promotes deposition of pre-formed GLUT4 transporters onto the surface of adipose and skeletal muscle. GLUT4 has a low Km (high affinity) for glucose, so its appearance causes rapid glucose uptake that fuels oxidation, glycogen synthesis, and lipogenesis in the fed state.",
+        "whyWrongByChoice": {
+          "B": "GLUT2 is the hepatic (and pancreatic) transporter that exports glucose and is not insulin-recruited to muscle and fat.",
+          "C": "GLUT1 provides basal, insulin-independent glucose uptake and is not the transporter mobilized by insulin.",
+          "D": "SGLT1 is a sodium-coupled intestinal/renal glucose transporter, unrelated to insulin-stimulated uptake in muscle and fat.",
+          "E": "GLUT5 primarily transports fructose and is not responsive to insulin in this manner."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "insulin",
+        "GLUT4",
+        "fed state"
+      ],
+      "topicId": "fed-and-fasting-metabolic-state",
+      "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State"
+    },
+    {
+      "id": "bo27-007",
+      "stem": "A teenager eats a burger, fries, and a milkshake, then sleeps for 13 hours. Compared with the immediate post-meal state, which of the following changes is most expected upon awakening?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Increased hormone-sensitive lipase activity"
+        },
+        {
+          "label": "B",
+          "text": "Increased insulin-to-glucagon ratio"
+        },
+        {
+          "label": "C",
+          "text": "Increased circulating chylomicrons"
+        },
+        {
+          "label": "D",
+          "text": "Increased hepatic PFK-2 kinase activity"
+        },
+        {
+          "label": "E",
+          "text": "Increased hepatic glycogen synthase activity"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "An overnight fast lowers insulin and raises glucagon, activating adipocyte hormone-sensitive lipase.",
+        "whyCorrect": "During the overnight fast, insulin falls and glucagon rises (a low insulin:glucagon ratio). Glucagon activates PKA via cAMP, phosphorylating and activating hormone-sensitive lipase to liberate fatty acids and glycerol from adipocytes.",
+        "whyWrongByChoice": {
+          "B": "The insulin-to-glucagon ratio falls, not rises, during a fast.",
+          "C": "Chylomicrons depend on recently ingested dietary fat and decrease after an overnight fast.",
+          "D": "Glucagon favors the phosphatase activity of PFK-2, dampening its kinase activity and slowing hepatic glycolysis.",
+          "E": "Glucagon-driven PKA phosphorylates and inactivates glycogen synthase, decreasing its activity."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "fasting state",
+        "insulin:glucagon ratio",
+        "hormone-sensitive lipase"
+      ],
+      "topicId": "fed-and-fasting-metabolic-state",
+      "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State"
+    },
+    {
+      "id": "bo27-008",
+      "stem": "A man eats a candy bar and, moments later, is startled by an assailant and must flee. Despite the recent high-carbohydrate intake, his blood glucose remains elevated to fuel skeletal muscle. Which hormone is most responsible for overriding insulin signaling in this scenario?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Epinephrine"
+        },
+        {
+          "label": "B",
+          "text": "Glucagon"
+        },
+        {
+          "label": "C",
+          "text": "Insulin"
+        },
+        {
+          "label": "D",
+          "text": "Cortisol"
+        },
+        {
+          "label": "E",
+          "text": "Growth hormone"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Epinephrine mobilizes fuel during acute stress independent of blood glucose or insulin.",
+        "whyCorrect": "Epinephrine's metabolic effects mirror glucagon's but occur independent of blood glucose levels. During fight-or-flight, epinephrine overrides insulin signaling to keep glucose elevated, producing cAMP to drive glycogenolysis and hormone-sensitive lipase activity so fuel is available for muscle.",
+        "whyWrongByChoice": {
+          "B": "Glucagon is released when glucose is low; after a candy bar, glucose is high and glucagon secretion would not be driving this response.",
+          "C": "Insulin promotes fuel storage and would lower glucose, the opposite of what is observed.",
+          "D": "Cortisol supports prolonged stress through gene expression over hours, not the immediate override described.",
+          "E": "Growth hormone is not the acute mediator emphasized here; epinephrine drives the immediate fight-or-flight response."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "epinephrine",
+        "stress response",
+        "fuel mobilization"
+      ],
+      "topicId": "fed-and-fasting-metabolic-state",
+      "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State"
+    },
+    {
+      "id": "bo27-009",
+      "stem": "During a sprint, a nerve impulse triggers glycogen breakdown in skeletal muscle even without a rise in circulating hormones. Which of the following mechanisms most directly links the nerve impulse to activation of glycogen phosphorylase?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Calcium binds calmodulin, which activates phosphorylase kinase"
+        },
+        {
+          "label": "B",
+          "text": "Glucagon activates adenylate cyclase in the myocyte"
+        },
+        {
+          "label": "C",
+          "text": "Insulin stimulates translocation of GLUT4"
+        },
+        {
+          "label": "D",
+          "text": "Protein phosphatase dephosphorylates glycogen phosphorylase"
+        },
+        {
+          "label": "E",
+          "text": "Cortisol induces transcription of glycogen phosphorylase"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Nerve impulses release Ca2+, and Ca2+-calmodulin activates phosphorylase kinase to turn on glycogen phosphorylase.",
+        "whyCorrect": "Muscle nerve conduction prompts Ca2+ release from the sarcoplasmic reticulum. This second messenger activates calmodulin, which binds phosphorylase kinase and promotes its activity toward glycogen phosphorylase, driving glycogenolysis for contracting muscle.",
+        "whyWrongByChoice": {
+          "B": "Skeletal muscle lacks the glucagon receptor, so glucagon does not act on the myocyte.",
+          "C": "Insulin/GLUT4 signaling promotes glucose uptake and storage, not glycogen breakdown.",
+          "D": "Dephosphorylation inactivates glycogen phosphorylase, opposing the mobilization that occurs during a sprint.",
+          "E": "Cortisol acts over hours via gene expression and does not provide the immediate contraction-linked activation."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "muscle contraction",
+        "calcium-calmodulin",
+        "phosphorylase kinase"
+      ],
+      "topicId": "fed-and-fasting-metabolic-state",
+      "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State"
+    },
+    {
+      "id": "bo27-010",
+      "stem": "A patient has not eaten for several days and is in the prolonged fasting (starvation) state. Which of the following fuels does the brain rely on most heavily under these conditions?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Ketone bodies"
+        },
+        {
+          "label": "B",
+          "text": "Free fatty acids"
+        },
+        {
+          "label": "C",
+          "text": "Glucose"
+        },
+        {
+          "label": "D",
+          "text": "Branched-chain amino acids"
+        },
+        {
+          "label": "E",
+          "text": "Glycerol"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "In prolonged fasting the brain shifts from glucose to ketone bodies for fuel.",
+        "whyCorrect": "The organ fuel summary shows the brain uses glucose in the well-fed and fasting states but shifts to ketone bodies during prolonged fasting. This switch takes several days to develop and spares glucose for tissues that remain glucose-dependent.",
+        "whyWrongByChoice": {
+          "B": "Free fatty acids do not readily cross the blood-brain barrier and are not the brain's fuel in starvation.",
+          "C": "Glucose fuels the brain in the well-fed and short-term fasting states, but is largely replaced by ketones in prolonged fasting.",
+          "D": "Amino acids are mobilized for gluconeogenesis in the liver, not oxidized directly by the brain as its main fuel.",
+          "E": "Glycerol serves as a hepatic gluconeogenic substrate, not a direct brain fuel."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "prolonged fasting",
+        "ketone bodies",
+        "brain metabolism"
+      ],
+      "topicId": "fed-and-fasting-metabolic-state",
+      "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State"
+    },
+    {
+      "id": "bo27-011",
+      "stem": "In the liver during a fast, glucagon activates protein kinase A, which phosphorylates glycogen synthase. What is the effect of this phosphorylation on glycogen synthase activity?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It inactivates glycogen synthase, inhibiting glycogen synthesis"
+        },
+        {
+          "label": "B",
+          "text": "It activates glycogen synthase, increasing glycogen synthesis"
+        },
+        {
+          "label": "C",
+          "text": "It activates glycogen synthase only in skeletal muscle"
+        },
+        {
+          "label": "D",
+          "text": "It converts glycogen synthase into phosphorylase kinase"
+        },
+        {
+          "label": "E",
+          "text": "It has no effect because glycogen synthase is not a PKA target"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Glucagon-driven PKA phosphorylation inactivates glycogen synthase, halting glycogenesis.",
+        "whyCorrect": "Glucagon works through cAMP and PKA to phosphorylate glycogen synthase, which inactivates it and inhibits glycogen synthesis. This complements PKA phosphorylation of phosphorylase kinase and glycogen phosphorylase, which together promote glycogen degradation during fasting.",
+        "whyWrongByChoice": {
+          "B": "Phosphorylation of glycogen synthase inactivates the anabolic enzyme; insulin (via dephosphorylation) is what activates it.",
+          "C": "The inactivating effect is not restricted to skeletal muscle, and the liver is the site described here.",
+          "D": "Phosphorylation modifies glycogen synthase's activity; it does not transform it into a different enzyme.",
+          "E": "Glycogen synthase is a genuine PKA target, and its phosphorylation is a key step in switching off glycogenesis."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "glucagon",
+        "glycogen synthase",
+        "PKA signaling"
+      ],
+      "topicId": "fed-and-fasting-metabolic-state",
+      "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State"
+    },
+    {
+      "id": "bo27-012",
+      "stem": "A researcher compares fuel use across metabolic states. Which of the following cell types relies on glucose across the well-fed, fasting, AND prolonged fasting states without ever switching to an alternative fuel?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Red blood cells"
+        },
+        {
+          "label": "B",
+          "text": "Cardiac muscle"
+        },
+        {
+          "label": "C",
+          "text": "Liver"
+        },
+        {
+          "label": "D",
+          "text": "Adipocytes"
+        },
+        {
+          "label": "E",
+          "text": "Brain"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Red blood cells use glucose in every metabolic state, including prolonged fasting.",
+        "whyCorrect": "The organ fuel table lists red blood cells as using glucose in the well-fed, fasting, and prolonged fasting states. Lacking mitochondria, RBCs cannot oxidize fatty acids or ketone bodies and remain obligately glucose-dependent throughout.",
+        "whyWrongByChoice": {
+          "B": "Cardiac muscle uses fatty acids when well-fed and shifts to fatty acids plus ketone bodies during fasting.",
+          "C": "The liver uses predominately glucose when well-fed but switches to fatty acids during fasting.",
+          "D": "Adipocytes use glucose when well-fed but rely on fatty acids during fasting.",
+          "E": "The brain uses glucose when well-fed and fasting but shifts to ketone bodies in prolonged fasting."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "organ fuel sources",
+        "red blood cells",
+        "metabolic states"
+      ],
+      "topicId": "fed-and-fasting-metabolic-state",
+      "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State"
+    },
+    {
+      "id": "bo28-001",
+      "stem": "A researcher studies isolated pancreatic beta-cells. When extracellular glucose is raised, the cells depolarize and secrete insulin. Which of the following events most directly links glucose metabolism to membrane depolarization in these cells?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Rising ATP closes ATP-sensitive potassium (K_ATP) channels"
+        },
+        {
+          "label": "B",
+          "text": "Rising ATP opens voltage-gated calcium channels"
+        },
+        {
+          "label": "C",
+          "text": "Glucose binds and directly opens calcium channels"
+        },
+        {
+          "label": "D",
+          "text": "GLUT2 actively pumps potassium out of the cell"
+        },
+        {
+          "label": "E",
+          "text": "Secreted insulin binds receptors on the same beta-cell"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Glucose-derived ATP closes K_ATP channels, which depolarizes the beta-cell membrane.",
+        "whyCorrect": "Glucose entering the beta-cell is oxidatively catabolized to generate ATP. The increased ATP acts as an allosteric inhibitor of the ATP-sensitive potassium channel, blocking potassium leak. Trapped potassium reduces the charge differential across the membrane, causing depolarization that then opens voltage-gated calcium channels.",
+        "whyWrongByChoice": {
+          "B": "Calcium channels are voltage-gated and open in response to the depolarization that follows K_ATP closure, not directly in response to ATP.",
+          "C": "Glucose does not directly gate calcium channels; it acts through metabolism to ATP and channel closure.",
+          "D": "GLUT2 is a facilitative glucose transporter, not a potassium pump.",
+          "E": "Insulin binding to peripheral receptors drives glucose uptake in muscle and fat; it is not the depolarizing trigger within the beta-cell."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "insulin secretion",
+        "beta-cell",
+        "K_ATP channel"
+      ],
+      "topicId": "cell-signaling-fed-and-fasting-metabolic-state-2",
+      "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State (2 of 2)"
+    },
+    {
+      "id": "bo28-002",
+      "stem": "A 58-year-old man with type 2 diabetes is started on a sulfonylurea to lower his blood glucose. The drug acts on pancreatic beta-cells. Which of the following best describes how it augments insulin secretion?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It blocks ATP-sensitive potassium channels, promoting depolarization"
+        },
+        {
+          "label": "B",
+          "text": "It opens ATP-sensitive potassium channels to hyperpolarize the cell"
+        },
+        {
+          "label": "C",
+          "text": "It activates GLUT2 transporters to increase glucose entry"
+        },
+        {
+          "label": "D",
+          "text": "It stimulates insulin exocytosis independent of calcium"
+        },
+        {
+          "label": "E",
+          "text": "It blocks voltage-gated calcium channels"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Sulfonylureas close the K_ATP channel pharmacologically, bypassing the need for glucose-derived ATP.",
+        "whyCorrect": "Sulfonylureas inhibit the beta-cell ATP-sensitive potassium channel independent of glucose metabolism. Closing the channel depolarizes the membrane, opens voltage-gated calcium channels, and drives insulin exocytosis. Because the strategy amplifies endogenous secretion, the patient's beta-cells must still be able to produce insulin.",
+        "whyWrongByChoice": {
+          "B": "Opening the channel would hyperpolarize the cell and suppress secretion, the opposite of the drug's action.",
+          "C": "Sulfonylureas act on the potassium channel, not on GLUT2 glucose transport.",
+          "D": "Secretion still depends on the downstream depolarization-triggered calcium influx.",
+          "E": "Blocking calcium channels would prevent, not promote, insulin release."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "sulfonylureas",
+        "insulin secretion",
+        "pharmacology"
+      ],
+      "topicId": "cell-signaling-fed-and-fasting-metabolic-state-2",
+      "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State (2 of 2)"
+    },
+    {
+      "id": "bo28-003",
+      "stem": "Pancreatic beta-cells rely on GLUT2, a transporter with a relatively high Km (low affinity) but high Vmax for glucose. What is the physiological advantage of this transporter property for insulin secretion?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Substantial glucose enters the beta-cell only when blood glucose is elevated"
+        },
+        {
+          "label": "B",
+          "text": "Glucose is transported into the cell against its concentration gradient"
+        },
+        {
+          "label": "C",
+          "text": "Beta-cells continue to take up glucose avidly during hypoglycemia"
+        },
+        {
+          "label": "D",
+          "text": "Glucose uptake by the beta-cell becomes insulin-dependent"
+        },
+        {
+          "label": "E",
+          "text": "Glucose entering the cell is prevented from being oxidized"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "GLUT2's low affinity makes beta-cell glucose uptake proportional to blood glucose, so insulin is released only when glucose is high.",
+        "whyCorrect": "Because GLUT2 has low affinity, glucose flows into the beta-cell in meaningful amounts only when circulating glucose concentrations are elevated. This ensures the ATP-driven secretion cascade fires when it is needed. Having insulin present during hypoglycemia would be dangerous, driving glucose even lower and depriving the CNS.",
+        "whyWrongByChoice": {
+          "B": "GLUT2 is a facilitative transporter that moves glucose down its gradient, not against it.",
+          "C": "The point of low affinity is precisely that uptake is minimal during hypoglycemia.",
+          "D": "Beta-cell uptake through GLUT2 is insulin-independent.",
+          "E": "Imported glucose is oxidatively catabolized to make the ATP that triggers secretion."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "GLUT2",
+        "beta-cell",
+        "glucose sensing"
+      ],
+      "topicId": "cell-signaling-fed-and-fasting-metabolic-state-2",
+      "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State (2 of 2)"
+    },
+    {
+      "id": "bo28-004",
+      "stem": "A 40-year-old woman has recurrent episodes of confusion relieved by eating. During an episode she is hypoglycemic with inappropriately elevated serum insulin. To distinguish endogenous insulin overproduction (such as an insulinoma) from injection of recombinant insulin, which laboratory value is most useful?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "C-peptide level"
+        },
+        {
+          "label": "B",
+          "text": "Blood glucose level"
+        },
+        {
+          "label": "C",
+          "text": "Serum anion gap"
+        },
+        {
+          "label": "D",
+          "text": "ALT and AST"
+        },
+        {
+          "label": "E",
+          "text": "Hemoglobin A1c"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "C-peptide is co-secreted equimolar with endogenous insulin but is absent from recombinant insulin.",
+        "whyCorrect": "Endogenous insulin is packaged with C-peptide in equimolar amounts, so an insulinoma raises both insulin and C-peptide. Recombinant injected insulin lacks C-peptide entirely. Therefore a high C-peptide points to endogenous overproduction, whereas a low C-peptide with high insulin indicates an exogenous source.",
+        "whyWrongByChoice": {
+          "B": "Blood glucose is low in both scenarios and cannot separate the two causes.",
+          "C": "Insulin excess does not produce an anion-gap acidosis, so this is unhelpful here.",
+          "D": "Insulin shock does not cause hepatocellular injury, so transaminases are not discriminating.",
+          "E": "HbA1c reflects chronic average glycemia, not the acute source of excess insulin."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "C-peptide",
+        "insulinoma",
+        "insulin shock"
+      ],
+      "topicId": "cell-signaling-fed-and-fasting-metabolic-state-2",
+      "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State (2 of 2)"
+    },
+    {
+      "id": "bo28-005",
+      "stem": "Within the pancreatic beta-cell, proinsulin is converted into the mature, active hormone before storage. Conversion of proinsulin to mature insulin requires which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Proteolytic cleavage and release of the C-peptide"
+        },
+        {
+          "label": "B",
+          "text": "Removal of the N-terminal signal peptide"
+        },
+        {
+          "label": "C",
+          "text": "Self-assembly of the protein into a hexamer"
+        },
+        {
+          "label": "D",
+          "text": "Formation of a disulfide bond between the A and C chains"
+        },
+        {
+          "label": "E",
+          "text": "Glycosylation of the B chain"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Mature insulin is generated when the C-peptide is cleaved out of proinsulin, leaving the disulfide-linked A and B chains.",
+        "whyCorrect": "Proinsulin already has its signal peptide removed; the final maturation step is proteolytic cleavage that releases the connecting C-peptide. This leaves the A and B chains as a disulfide-linked heterodimer, the active hormone. C-peptide and insulin are then stored equimolar in granules.",
+        "whyWrongByChoice": {
+          "B": "Signal peptide removal occurs earlier, converting preproinsulin to proinsulin, not proinsulin to insulin.",
+          "C": "Hexamer formation is a storage/aggregation phenomenon, not the maturation cleavage step.",
+          "D": "Mature insulin's disulfide bonds link the A and B chains; the C chain is removed.",
+          "E": "Insulin maturation is driven by proteolysis, not glycosylation."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "insulin processing",
+        "C-peptide",
+        "post-translational modification"
+      ],
+      "topicId": "cell-signaling-fed-and-fasting-metabolic-state-2",
+      "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State (2 of 2)"
+    },
+    {
+      "id": "bo28-006",
+      "stem": "A pharmaceutical company designs a rapid-acting insulin analog by mutating the primary sequence to prevent self-association after subcutaneous injection. This modification speeds the onset of action for which reason?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The monomer is the most active form, so preventing hexamers speeds availability"
+        },
+        {
+          "label": "B",
+          "text": "The hexamer is the receptor-binding active form"
+        },
+        {
+          "label": "C",
+          "text": "Monomeric insulin cannot bind the insulin receptor"
+        },
+        {
+          "label": "D",
+          "text": "The analog retains extra C-peptide to speed activation"
+        },
+        {
+          "label": "E",
+          "text": "The mutation adds disulfide bonds that stabilize the active hexamer"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Insulin is active as a monomer; hexamers are inactive, so blocking oligomerization gives faster action.",
+        "whyCorrect": "At high concentration insulin self-associates into inactive hexamers that cannot bind the receptor. Dilution normally dissociates these into active monomers. A fast-acting analog is engineered to resist oligomerization so active monomers are available sooner, while long-acting formulations deliberately favor oligomers to slow release.",
+        "whyWrongByChoice": {
+          "B": "The hexamer is the inactive storage form, not the receptor-binding species.",
+          "C": "The monomer is precisely the form that binds and activates the receptor.",
+          "D": "Purified injectable insulins lack C-peptide entirely.",
+          "E": "The engineering prevents oligomerization rather than stabilizing hexamers."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "insulin analogs",
+        "hexamer",
+        "pharmacology"
+      ],
+      "topicId": "cell-signaling-fed-and-fasting-metabolic-state-2",
+      "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State (2 of 2)"
+    },
+    {
+      "id": "bo28-007",
+      "stem": "A sedentary patient with type 2 diabetes is advised to exercise using large muscle groups such as the quadriceps and glutes. Exercising skeletal muscle increases glucose uptake even in the absence of insulin. This insulin-independent uptake occurs because muscle contraction does which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Activates AMPK, which promotes GLUT4 translocation to the cell surface"
+        },
+        {
+          "label": "B",
+          "text": "Stimulates insulin secretion directly from skeletal muscle"
+        },
+        {
+          "label": "C",
+          "text": "Increases GLUT2 expression on the muscle membrane"
+        },
+        {
+          "label": "D",
+          "text": "Directly activates the insulin receptor tyrosine kinase"
+        },
+        {
+          "label": "E",
+          "text": "Inhibits AMPK to conserve ATP during activity"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Muscle contraction consumes ATP and raises AMP, activating AMPK, which drives GLUT4 to the membrane without insulin.",
+        "whyCorrect": "Contraction expends ATP and raises intracellular AMP, activating AMP-activated protein kinase (AMPK). AMPK promotes trafficking of pre-formed GLUT4 vesicles to the plasma membrane, so glucose uptake increases independent of insulin signaling. This is why exercise engaging large muscle masses aids glucose clearance in diabetes.",
+        "whyWrongByChoice": {
+          "B": "Insulin is secreted by pancreatic beta-cells, not by skeletal muscle.",
+          "C": "Muscle uses GLUT4, not GLUT2, and the effect is on trafficking rather than GLUT2 expression.",
+          "D": "The pathway bypasses the insulin receptor entirely, which is the defining feature of insulin-independent uptake.",
+          "E": "Exercise activates AMPK; inhibiting it would not promote glucose uptake."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "exercise",
+        "AMPK",
+        "GLUT4"
+      ],
+      "topicId": "cell-signaling-fed-and-fasting-metabolic-state-2",
+      "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State (2 of 2)"
+    },
+    {
+      "id": "bo28-008",
+      "stem": "During intense exercise, AMPK is strongly activated in skeletal muscle to restore energy balance. Which of the following processes is suppressed as a direct consequence of AMPK activation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Glycogenesis"
+        },
+        {
+          "label": "B",
+          "text": "Glycolysis"
+        },
+        {
+          "label": "C",
+          "text": "Beta-oxidation of fatty acids"
+        },
+        {
+          "label": "D",
+          "text": "GLUT4 translocation to the membrane"
+        },
+        {
+          "label": "E",
+          "text": "Glucose uptake into muscle"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "AMPK inhibits ATP-consuming anabolic pathways such as glycogenesis while enhancing ATP-producing catabolism.",
+        "whyCorrect": "AMPK signals a low-energy state and therefore inhibits anabolic, ATP-consuming pathways including glycogenesis, lipogenesis, and protein synthesis. It simultaneously enhances catabolic, ATP-generating processes. Of the options listed, only glycogenesis is an anabolic process suppressed by AMPK.",
+        "whyWrongByChoice": {
+          "B": "Glycolysis is a catabolic, ATP-producing pathway that AMPK enhances.",
+          "C": "Beta-oxidation is catabolic and is promoted by AMPK to generate ATP.",
+          "D": "AMPK promotes GLUT4 translocation to bring in glucose.",
+          "E": "Glucose uptake is increased, not suppressed, by AMPK activation."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "AMPK",
+        "anabolism",
+        "energy metabolism"
+      ],
+      "topicId": "cell-signaling-fed-and-fasting-metabolic-state-2",
+      "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State (2 of 2)"
+    },
+    {
+      "id": "bo28-009",
+      "stem": "AMPK monitors cellular energy status by responding to AMP. Although ATP hydrolysis primarily yields ADP, intracellular AMP rises sharply and serves as the sensitive low-energy signal. Which enzyme generates this amplified AMP signal?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Adenylate kinase"
+        },
+        {
+          "label": "B",
+          "text": "Phosphofructokinase-1"
+        },
+        {
+          "label": "C",
+          "text": "Glycogen phosphorylase"
+        },
+        {
+          "label": "D",
+          "text": "ATP synthase"
+        },
+        {
+          "label": "E",
+          "text": "Creatine kinase"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Adenylate kinase interconverts two ADP into ATP plus AMP, causing AMP to rise disproportionately during energy stress.",
+        "whyCorrect": "Adenylate kinase catalyzes 2 ADP into ATP + AMP. Because baseline AMP concentrations are very low, this reaction produces a large fold-change in AMP even when ATP and ADP change little. That amplified AMP signal is what AMPK and enzymes like PFK-1 and glycogen phosphorylase sense as low energy.",
+        "whyWrongByChoice": {
+          "B": "PFK-1 is a glycolytic enzyme that responds to AMP; it does not generate the AMP signal.",
+          "C": "Glycogen phosphorylase is regulated by AMP but does not produce it.",
+          "D": "ATP synthase makes ATP from ADP and phosphate and does not generate AMP.",
+          "E": "Creatine kinase buffers ATP using phosphocreatine and does not create the AMP signal."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "adenylate kinase",
+        "AMP",
+        "energy sensing"
+      ],
+      "topicId": "cell-signaling-fed-and-fasting-metabolic-state-2",
+      "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State (2 of 2)"
+    },
+    {
+      "id": "bo28-010",
+      "stem": "A 62-year-old woman with type 2 diabetes has been well controlled on a sulfonylurea for a year. She now reports episodes of weakness and dizziness and is found to be hypoglycemic during a visit; her symptoms resolve after glucose administration. She recently began a daily walking and cycling routine. Which change best explains her new hypoglycemic episodes?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Exercise-driven AMPK activation adds insulin-independent glucose uptake on top of sulfonylurea-stimulated insulin secretion"
+        },
+        {
+          "label": "B",
+          "text": "Increased dietary glucose intake"
+        },
+        {
+          "label": "C",
+          "text": "Decreased alcohol consumption"
+        },
+        {
+          "label": "D",
+          "text": "Starting a common multivitamin"
+        },
+        {
+          "label": "E",
+          "text": "Decreased dietary sodium intake"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Adding exercise-induced GLUT4 uptake to a drug that already raises insulin can push glucose too low.",
+        "whyCorrect": "Her sulfonylurea continuously augments insulin secretion. Daily exercise activates AMPK and deposits GLUT4 on skeletal muscle, adding insulin-independent glucose clearance. The two effects together can drive blood glucose below normal, producing the hypoglycemic episodes that resolve with glucose.",
+        "whyWrongByChoice": {
+          "B": "More dietary glucose would tend to raise, not lower, blood glucose.",
+          "C": "Alcohol can cause hypoglycemia via a high NADH/NAD+ ratio, so decreasing intake would reduce, not cause, hypoglycemia.",
+          "D": "A standard multivitamin does not sensitize tissues to insulin or cause hypoglycemia.",
+          "E": "Reducing sodium affects blood pressure and volume, not glucose homeostasis."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "insulin shock",
+        "exercise",
+        "sulfonylureas"
+      ],
+      "topicId": "cell-signaling-fed-and-fasting-metabolic-state-2",
+      "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State (2 of 2)"
+    },
+    {
+      "id": "bo28-011",
+      "stem": "A severely malnourished 22-year-old with anorexia nervosa is admitted and started on nutritional support. Shortly after carbohydrate is reintroduced, she develops profound hypophosphatemia. What is the mechanism of the falling serum phosphate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Insulin-stimulated glycolysis drives phosphate from serum into cells"
+        },
+        {
+          "label": "B",
+          "text": "Glucose causes renal wasting of phosphate in the urine"
+        },
+        {
+          "label": "C",
+          "text": "Her diet lacks phosphate, so serum levels simply fall"
+        },
+        {
+          "label": "D",
+          "text": "Phosphate binds administered glucose in the gut lumen"
+        },
+        {
+          "label": "E",
+          "text": "Thiamine administration triggers hyperphosphaturia"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Re-feeding raises insulin, restarting glycolysis and kinase signaling that pull phosphate into cells.",
+        "whyCorrect": "Reintroducing glucose after starvation triggers insulin secretion and restarts anabolic, phosphate-dependent processes such as glycolysis and kinase-mediated signaling. Phosphate rushes intracellularly to support these reactions, dropping serum levels. Severe hypophosphatemia in re-feeding syndrome can cause seizures, coma, or death.",
+        "whyWrongByChoice": {
+          "B": "The fall is due to an intracellular shift, not renal wasting.",
+          "C": "Serum phosphate can appear low-normal in starvation, but the acute drop is driven by cellular uptake, not dietary lack.",
+          "D": "Phosphate does not chelate glucose in the gut to lower serum levels.",
+          "E": "Thiamine is given to prevent Wernicke encephalopathy and does not cause phosphaturia."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "re-feeding syndrome",
+        "hypophosphatemia",
+        "insulin"
+      ],
+      "topicId": "cell-signaling-fed-and-fasting-metabolic-state-2",
+      "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State (2 of 2)"
+    },
+    {
+      "id": "bo28-012",
+      "stem": "A liberated prisoner of war with prolonged starvation is refed with intravenous dextrose. Soon afterward he becomes confused with ophthalmoplegia and ataxia. Deficiency of which nutrient, whose demand surges when glucose is metabolized, best explains this presentation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Thiamin (vitamin B1)"
+        },
+        {
+          "label": "B",
+          "text": "Vitamin B12 (cobalamin)"
+        },
+        {
+          "label": "C",
+          "text": "Folate"
+        },
+        {
+          "label": "D",
+          "text": "Vitamin C (ascorbate)"
+        },
+        {
+          "label": "E",
+          "text": "Vitamin D"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Refeeding glucose without adequate thiamin precipitates Wernicke-Korsakoff syndrome because thiamin is a cofactor for PDH.",
+        "whyCorrect": "Thiamin is a required cofactor for pyruvate dehydrogenase (PDH) and other enzymes of glucose oxidation. When glucose is reintroduced in a thiamin-deficient patient, the surge in demand outstrips supply, precipitating Wernicke-Korsakoff syndrome with confusion, ophthalmoplegia, and ataxia. This is a key re-feeding consideration.",
+        "whyWrongByChoice": {
+          "B": "B12 deficiency causes megaloblastic anemia and subacute combined degeneration, not glucose-triggered encephalopathy.",
+          "C": "Folate deficiency causes megaloblastic anemia and is not precipitated by glucose refeeding.",
+          "D": "Vitamin C deficiency causes scurvy, unrelated to this acute neurologic picture.",
+          "E": "Vitamin D deficiency affects calcium and bone metabolism, not thiamin-dependent glucose oxidation."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "re-feeding syndrome",
+        "thiamin",
+        "Wernicke-Korsakoff"
+      ],
+      "topicId": "cell-signaling-fed-and-fasting-metabolic-state-2",
+      "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State (2 of 2)"
+    },
+    {
+      "id": "bo29-001",
+      "stem": "A committee is setting nutrient intake guidance for a newly recognized micronutrient. There is not enough scientific evidence to calculate a value that meets the requirement of 50% of healthy individuals, so they instead rely on observed and experimentally approximated intakes of healthy population groups. Which dietary reference intake value are they establishing?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Estimated Average Requirement (EAR)"
+        },
+        {
+          "label": "B",
+          "text": "Recommended Dietary Allowance (RDA)"
+        },
+        {
+          "label": "C",
+          "text": "Adequate Intake (AI)"
+        },
+        {
+          "label": "D",
+          "text": "Tolerable Upper Intake Level (UL)"
+        },
+        {
+          "label": "E",
+          "text": "Dietary Reference Intake (DRI)"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Adequate Intake (AI) is used when an EAR cannot be determined.",
+        "whyCorrect": "AI is a value based on observed or experimentally determined approximations of nutrient intake by groups of healthy people. It is set in lieu of an RDA when there is insufficient evidence to calculate an EAR, exactly the scenario described.",
+        "whyWrongByChoice": {
+          "A": "The EAR is a defined value meeting the requirement of 50% of healthy individuals; the committee could not calculate it here.",
+          "B": "The RDA is derived from the EAR and covers 97-98% of individuals, so it also cannot be set without an EAR.",
+          "D": "The UL is the safety ceiling for adverse effects, not a value for planning adequate intake.",
+          "E": "DRI is the umbrella term for the entire set of reference values, not the specific value being established."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "DRI",
+        "nutrition-terminology",
+        "LO1"
+      ],
+      "topicId": "basic-nutritional-requirements-for-metabolism",
+      "topicName": "Basic Nutritional Requirements for Metabolism (1 of 3)"
+    },
+    {
+      "id": "bo29-002",
+      "stem": "A 58-year-old man in a region where maize is the dietary staple presents with a symmetric, hyperpigmented, scaly rash over sun-exposed skin of the arms and a collar-like rash around the neck. He also reports diarrhea, and his family notes progressive confusion and irritability. Deficiency of which vitamin best explains this presentation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Vitamin B1 (thiamin)"
+        },
+        {
+          "label": "B",
+          "text": "Vitamin B3 (niacin)"
+        },
+        {
+          "label": "C",
+          "text": "Vitamin B12 (cobalamin)"
+        },
+        {
+          "label": "D",
+          "text": "Vitamin B9 (folate)"
+        },
+        {
+          "label": "E",
+          "text": "Vitamin C (ascorbic acid)"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Pellagra from niacin (B3) deficiency causes dermatitis, diarrhea, and dementia.",
+        "whyCorrect": "Niacin deficiency produces pellagra, defined by the 4 D's: dermatitis, diarrhea, dementia, and death if untreated. The photosensitive dermatitis in sun-exposed areas with the collar-like Casal necklace is classic, and it is historically common in corn-based diets.",
+        "whyWrongByChoice": {
+          "A": "Thiamin deficiency causes beriberi with cardiomyopathy and peripheral neuropathy, not a photosensitive rash with the 4 D's.",
+          "C": "B12 deficiency causes macrocytic anemia and neurologic symptoms, not pellagra.",
+          "D": "Folate deficiency causes macrocytic anemia or birth defects, not the pellagra triad.",
+          "E": "Vitamin C deficiency causes scurvy with bleeding gums and pinpoint hemorrhages, not the Casal necklace."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "niacin",
+        "pellagra",
+        "LO2"
+      ],
+      "topicId": "basic-nutritional-requirements-for-metabolism",
+      "topicName": "Basic Nutritional Requirements for Metabolism (1 of 3)"
+    },
+    {
+      "id": "bo29-003",
+      "stem": "A 6-year-old child presents with a pellagra-like photosensitive rash and intermittent cerebellar ataxia. Laboratory studies show a marked increase in neutral amino acids, including tryptophan, in the urine, while plasma amino acid levels are low. The underlying defect involves a transporter in the intestine and kidney. Which condition most likely accounts for this patient's niacin deficiency?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Carcinoid syndrome"
+        },
+        {
+          "label": "B",
+          "text": "Hartnup disease"
+        },
+        {
+          "label": "C",
+          "text": "Prolonged isoniazid therapy"
+        },
+        {
+          "label": "D",
+          "text": "Biotinidase deficiency"
+        },
+        {
+          "label": "E",
+          "text": "Classic phenylketonuria (PKU)"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Hartnup disease impairs tryptophan absorption, reducing niacin availability.",
+        "whyCorrect": "Hartnup disease is a defective neutral amino acid transporter in the intestine and kidney. Tryptophan fails to be absorbed and is lost in the urine; because tryptophan can be catabolized to nicotinamide for NAD+, this decrement can culminate in pellagra.",
+        "whyWrongByChoice": {
+          "A": "Carcinoid syndrome depletes tryptophan by shunting it into excess serotonin synthesis, not by a defective amino acid transporter with aminoaciduria.",
+          "C": "Isoniazid depletes vitamin B6 needed to synthesize niacin, but it does not cause neutral aminoaciduria.",
+          "D": "Biotinidase deficiency impairs biotin recycling and causes a biotin, not niacin, deficiency.",
+          "E": "PKU results from defective phenylalanine hydroxylase and does not cause tryptophan wasting or pellagra."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "Hartnup",
+        "tryptophan",
+        "niacin",
+        "LO2"
+      ],
+      "topicId": "basic-nutritional-requirements-for-metabolism",
+      "topicName": "Basic Nutritional Requirements for Metabolism (1 of 3)"
+    },
+    {
+      "id": "bo29-004",
+      "stem": "A 52-year-old man with a long history of chronic alcohol use is admitted with dilated cardiomyopathy and high-output heart failure along with a symmetric peripheral sensory neuropathy. His symptoms improve rapidly after intravenous administration of a specific vitamin. This vitamin's active cofactor is required by transketolase and by pyruvate dehydrogenase. Which vitamin was administered?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Vitamin B1 (thiamin)"
+        },
+        {
+          "label": "B",
+          "text": "Vitamin B2 (riboflavin)"
+        },
+        {
+          "label": "C",
+          "text": "Vitamin B3 (niacin)"
+        },
+        {
+          "label": "D",
+          "text": "Vitamin B6 (pyridoxine)"
+        },
+        {
+          "label": "E",
+          "text": "Vitamin B7 (biotin)"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Thiamin (B1) deficiency causes beriberi and is common in chronic alcoholism.",
+        "whyCorrect": "Thiamin provides thiamin pyrophosphate (TPP), the cofactor for oxidative decarboxylation enzymes such as pyruvate dehydrogenase and alpha-ketoglutarate dehydrogenase and for transketolase. Its deficiency causes beriberi with cardiac and peripheral nerve dysfunction and is especially likely in chronic alcoholism.",
+        "whyWrongByChoice": {
+          "B": "Riboflavin gives FMN/FAD; deficiency is linked to impaired iron absorption and possible normocytic anemia, not beriberi.",
+          "C": "Niacin gives NAD+/NADP+; its deficiency causes pellagra, not high-output cardiac failure.",
+          "D": "Pyridoxine gives PLP; deficiency causes convulsions and microcytic anemia, and its cofactor is not used by transketolase.",
+          "E": "Biotin supports carboxylation reactions; deficiency causes dermatitis and metabolic acidosis, not beriberi."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "thiamin",
+        "beriberi",
+        "alcoholism",
+        "LO2"
+      ],
+      "topicId": "basic-nutritional-requirements-for-metabolism",
+      "topicName": "Basic Nutritional Requirements for Metabolism (1 of 3)"
+    },
+    {
+      "id": "bo29-005",
+      "stem": "A 45-year-old man who eats an extremely limited diet with almost no fruits or vegetables presents with bleeding, swollen gums, perifollicular hemorrhages, and a poorly healing surgical wound. The deficient vitamin acts as a coenzyme for prolyl and lysyl hydroxylase. Impaired activity of these enzymes most directly explains his findings through defective synthesis of which molecule?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Heme"
+        },
+        {
+          "label": "B",
+          "text": "Mature cross-linked collagen"
+        },
+        {
+          "label": "C",
+          "text": "Serotonin"
+        },
+        {
+          "label": "D",
+          "text": "Nicotinamide for NAD+"
+        },
+        {
+          "label": "E",
+          "text": "Methionine"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Vitamin C deficiency (scurvy) impairs collagen hydroxylation and cross-linking.",
+        "whyCorrect": "Vitamin C is a coenzyme for prolyl and lysyl hydroxylase, which hydroxylate proline and lysine residues so collagen can cross-link and form stable, mature protein. Without it, collagen is weak, producing the bleeding gums, pinpoint hemorrhages, and poor wound healing of scurvy.",
+        "whyWrongByChoice": {
+          "A": "Heme synthesis begins with ALA synthase using PLP and glycine, and is not the target of prolyl/lysyl hydroxylase.",
+          "C": "Serotonin synthesis requires BH4 and PLP, not vitamin C-dependent collagen hydroxylases.",
+          "D": "Nicotinamide for NAD+ derives from tryptophan catabolism, unrelated to collagen hydroxylation.",
+          "E": "Methionine is regenerated by methionine synthase using B12 and folate, not by collagen hydroxylases."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "vitamin-C",
+        "scurvy",
+        "collagen",
+        "LO2"
+      ],
+      "topicId": "basic-nutritional-requirements-for-metabolism",
+      "topicName": "Basic Nutritional Requirements for Metabolism (1 of 3)"
+    },
+    {
+      "id": "bo29-006",
+      "stem": "A 34-year-old woman has been taking more than 2 grams per day of a vitamin supplement for premenstrual symptoms for several months, roughly 20 times the tolerable upper intake level. She develops numbness beginning in the feet, then loss of sensation in the hands, and eventually difficulty walking. Symptoms resolve after she stops the supplement. Excess of which vitamin best explains this toxicity?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Vitamin B6 (pyridoxine)"
+        },
+        {
+          "label": "B",
+          "text": "Vitamin B3 (niacin)"
+        },
+        {
+          "label": "C",
+          "text": "Vitamin C (ascorbic acid)"
+        },
+        {
+          "label": "D",
+          "text": "Vitamin B1 (thiamin)"
+        },
+        {
+          "label": "E",
+          "text": "Vitamin B5 (pantothenic acid)"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Excess vitamin B6 causes a dose-dependent peripheral sensory neuropathy.",
+        "whyCorrect": "Vitamin B6 is one of the two water-soluble vitamins (with B3) that can cause adverse effects in excess. Toxicity was recognized in studies of megadose B6 for premenstrual syndrome, producing sensory neuropathy that starts as numb feet and can progress to inability to walk, reversing after supplements are stopped.",
+        "whyWrongByChoice": {
+          "B": "Excess niacin causes a prostaglandin-mediated flush, not a progressive sensory neuropathy.",
+          "C": "The vitamin C UL is 2000 mg/d and excess does not cause this ascending neuropathy.",
+          "D": "Thiamin has no established UL and is considered safe even at high doses.",
+          "E": "Pantothenate has no established RDA and deficiency, not excess, is essentially the only concern, and even that is very rare."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "pyridoxine",
+        "vitamin-toxicity",
+        "UL",
+        "LO2"
+      ],
+      "topicId": "basic-nutritional-requirements-for-metabolism",
+      "topicName": "Basic Nutritional Requirements for Metabolism (1 of 3)"
+    },
+    {
+      "id": "bo29-007",
+      "stem": "A bodybuilder who consumes several raw egg whites daily for months develops thinning hair, a scaly dry rash, and fatigue. His diet is otherwise adequate. A protein in the raw egg white tightly binds a vitamin required by carboxylase enzymes. Which vitamin is most likely deficient?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Vitamin B2 (riboflavin)"
+        },
+        {
+          "label": "B",
+          "text": "Vitamin B7 (biotin)"
+        },
+        {
+          "label": "C",
+          "text": "Vitamin B9 (folate)"
+        },
+        {
+          "label": "D",
+          "text": "Vitamin B12 (cobalamin)"
+        },
+        {
+          "label": "E",
+          "text": "Vitamin B6 (pyridoxine)"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Avidin in raw egg white binds biotin and can cause biotin deficiency.",
+        "whyCorrect": "Biotin is the cofactor for carboxylase enzymes such as pyruvate carboxylase. Raw eggs contain avidin, which tightly binds biotin; regular consumption of raw eggs in high quantities can deplete biotin, causing thinning hair and scaly, dry skin. Heat denatures avidin, so cooked eggs are not a concern.",
+        "whyWrongByChoice": {
+          "A": "Riboflavin is not bound by avidin and its deficiency affects iron absorption and can cause anemia.",
+          "C": "Folate deficiency causes macrocytic anemia, and folate is not bound by avidin.",
+          "D": "B12 deficiency causes macrocytic anemia and neurologic disease, unrelated to raw egg intake.",
+          "E": "Pyridoxine is not bound by avidin; its deficiency causes convulsions and microcytic anemia."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "biotin",
+        "avidin",
+        "carboxylase",
+        "LO2"
+      ],
+      "topicId": "basic-nutritional-requirements-for-metabolism",
+      "topicName": "Basic Nutritional Requirements for Metabolism (1 of 3)"
+    },
+    {
+      "id": "bo29-008",
+      "stem": "A 70-year-old vegan presents with fatigue, macrocytic anemia, and paresthesias. Serum methylmalonic acid (MMA) is markedly elevated. The elevated MMA reflects reduced activity of an enzyme that normally uses this vitamin as a coenzyme. Which enzyme is impaired?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Methylmalonyl-CoA mutase"
+        },
+        {
+          "label": "B",
+          "text": "Pyruvate carboxylase"
+        },
+        {
+          "label": "C",
+          "text": "Cystathionine beta-synthase"
+        },
+        {
+          "label": "D",
+          "text": "ALA synthase"
+        },
+        {
+          "label": "E",
+          "text": "Transketolase"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Vitamin B12 is a coenzyme for methylmalonyl-CoA mutase, so deficiency raises MMA.",
+        "whyCorrect": "Vitamin B12 serves as a coenzyme for methylmalonyl-CoA mutase, a role distinct from its interdependence with folate at methionine synthase. When this function is impaired, methylmalonic acid accumulates, which is why elevated serum MMA is indicative of B12 deficiency.",
+        "whyWrongByChoice": {
+          "B": "Pyruvate carboxylase uses biotin, not B12, and its impairment does not elevate MMA.",
+          "C": "Cystathionine beta-synthase is PLP-dependent and its defect causes homocystinuria, not elevated MMA.",
+          "D": "ALA synthase uses PLP for heme synthesis and is unrelated to MMA accumulation.",
+          "E": "Transketolase uses TPP in the pentose phosphate pathway and does not affect MMA."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "vitamin-B12",
+        "methylmalonic-acid",
+        "LO4"
+      ],
+      "topicId": "basic-nutritional-requirements-for-metabolism",
+      "topicName": "Basic Nutritional Requirements for Metabolism (1 of 3)"
+    },
+    {
+      "id": "bo29-009",
+      "stem": "A 40-year-old man is started on isoniazid for latent tuberculosis. His physician co-prescribes vitamin B6 supplementation. Prolonged isoniazid therapy depletes vitamin B6, which is required to synthesize niacin. Without supplementation, the patient would be at greatest risk of developing which condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Pellagra"
+        },
+        {
+          "label": "B",
+          "text": "Beriberi"
+        },
+        {
+          "label": "C",
+          "text": "Scurvy"
+        },
+        {
+          "label": "D",
+          "text": "Macrocytic anemia"
+        },
+        {
+          "label": "E",
+          "text": "Niacin flush reaction"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Isoniazid depletes B6, reducing niacin synthesis and risking pellagra.",
+        "whyCorrect": "Long-term isoniazid use depletes vitamin B6 (pyridoxine) stores, which are required to synthesize niacin from tryptophan. Reduced niacin availability can culminate in pellagra, which is why patients on isoniazid receive supplemental vitamin B6.",
+        "whyWrongByChoice": {
+          "B": "Beriberi results from thiamin (B1) deficiency, which isoniazid does not cause.",
+          "C": "Scurvy results from vitamin C deficiency, unrelated to B6 depletion.",
+          "D": "Macrocytic anemia reflects folate or B12 deficiency, not B6 depletion from isoniazid.",
+          "E": "The niacin flush is a toxicity of excess niacin, the opposite of the deficiency risk here."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "isoniazid",
+        "pyridoxine",
+        "niacin",
+        "LO2"
+      ],
+      "topicId": "basic-nutritional-requirements-for-metabolism",
+      "topicName": "Basic Nutritional Requirements for Metabolism (1 of 3)"
+    },
+    {
+      "id": "bo29-010",
+      "stem": "A first-year medical student is reviewing which vitamin-derived cofactor is shared by pyruvate dehydrogenase, alpha-ketoglutarate dehydrogenase, and transketolase in the reactions of glucose metabolism. Which cofactor correctly completes this assignment?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Coenzyme A (from B5)"
+        },
+        {
+          "label": "B",
+          "text": "Thiamin pyrophosphate (from B1)"
+        },
+        {
+          "label": "C",
+          "text": "FAD (from B2)"
+        },
+        {
+          "label": "D",
+          "text": "NAD+ (from B3)"
+        },
+        {
+          "label": "E",
+          "text": "Biotin (from B7)"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Thiamin pyrophosphate (TPP) is the cofactor shared by these three enzymes.",
+        "whyCorrect": "Thiamin pyrophosphate (TPP), derived from vitamin B1, is required by pyruvate dehydrogenase and alpha-ketoglutarate dehydrogenase (oxidative decarboxylation in the TCA cycle) and by transketolase in the pentose phosphate pathway.",
+        "whyWrongByChoice": {
+          "A": "CoA (from B5) is used in the TCA cycle by enzymes such as pyruvate dehydrogenase but not by transketolase.",
+          "C": "FAD (from B2) participates in the TCA/electron transport chain (e.g., complex II), not transketolase.",
+          "D": "NAD+ (from B3) is used broadly in glycolysis and TCA dehydrogenases but is not the transketolase cofactor.",
+          "E": "Biotin (from B7) supports carboxylation in gluconeogenesis (pyruvate carboxylase), not these three enzymes."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "thiamin",
+        "TPP",
+        "glucose-metabolism",
+        "LO3"
+      ],
+      "topicId": "basic-nutritional-requirements-for-metabolism",
+      "topicName": "Basic Nutritional Requirements for Metabolism (1 of 3)"
+    },
+    {
+      "id": "bo29-011",
+      "stem": "A neonate with classic phenylketonuria is being studied. The defective enzyme phenylalanine hydroxylase normally converts phenylalanine to tyrosine and requires a specific cofactor that is also needed by tyrosine hydroxylase, tryptophan hydroxylase, and nitric oxide synthase. Unlike the B vitamins, this cofactor is a derivative of GTP. Which cofactor is described?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Pyridoxal phosphate (PLP)"
+        },
+        {
+          "label": "B",
+          "text": "Tetrahydrobiopterin (BH4)"
+        },
+        {
+          "label": "C",
+          "text": "Tetrahydrofolate (FH4)"
+        },
+        {
+          "label": "D",
+          "text": "Cobalamin (B12)"
+        },
+        {
+          "label": "E",
+          "text": "Coenzyme A (CoA)"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Tetrahydrobiopterin (BH4) is the GTP-derived cofactor for the aromatic hydroxylases and NO synthase.",
+        "whyCorrect": "BH4 is a derivative of GTP required by phenylalanine hydroxylase (dysfunctional in classic PKU), tyrosine hydroxylase, and tryptophan hydroxylase, feeding catecholamine and serotonin synthesis. It is also required by nitric oxide synthase to make NO from arginine.",
+        "whyWrongByChoice": {
+          "A": "PLP (from B6) is used by aminotransferases and decarboxylases, and downstream dopa decarboxylase, but not by phenylalanine hydroxylase.",
+          "C": "FH4 donates one-carbon units for methionine synthesis and is not the hydroxylase cofactor.",
+          "D": "Cobalamin serves methylmalonyl-CoA mutase and methionine synthase, not the aromatic hydroxylases.",
+          "E": "CoA is used in energy-yielding acyl transfer reactions, unrelated to amino acid hydroxylation."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "BH4",
+        "phenylalanine-hydroxylase",
+        "PKU",
+        "LO4"
+      ],
+      "topicId": "basic-nutritional-requirements-for-metabolism",
+      "topicName": "Basic Nutritional Requirements for Metabolism (1 of 3)"
+    },
+    {
+      "id": "bo29-012",
+      "stem": "A 60-year-old man takes a 1,000 mg dose of niacin for hyperlipidemia. About 20 minutes later he develops red, warm, itchy skin over his face and upper body, which resolves within about an hour. The tolerable upper intake level for niacin is only 35 mg/day, the lowest of the water-soluble vitamins. Which mechanism best explains this reaction?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Prostaglandin release causing cutaneous vasodilation and increased blood flow"
+        },
+        {
+          "label": "B",
+          "text": "IgE-mediated mast cell degranulation from a true allergy"
+        },
+        {
+          "label": "C",
+          "text": "Accumulation of methylmalonic acid in the skin"
+        },
+        {
+          "label": "D",
+          "text": "Impaired collagen cross-linking in dermal vessels"
+        },
+        {
+          "label": "E",
+          "text": "Peripheral sensory neuropathy from cofactor toxicity"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The niacin flush is a harmless prostaglandin-mediated cutaneous vasodilation.",
+        "whyCorrect": "Exceeding the niacin UL commonly causes a flush reaction with red, warm, itchy skin. Niacin in the bloodstream prompts release of prostaglandins, leading to dilation of skin blood vessels and increased blood flow. It is harmless and temporary, typically subsiding within 1-2 hours.",
+        "whyWrongByChoice": {
+          "B": "The flush is a prostaglandin-mediated response, not an IgE-mediated allergic reaction.",
+          "C": "Methylmalonic acid accumulates in B12 deficiency and does not cause cutaneous flushing.",
+          "D": "Defective collagen cross-linking is the mechanism of scurvy, not the niacin flush.",
+          "E": "Sensory neuropathy is a feature of vitamin B6 toxicity, not the transient niacin flush."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "niacin",
+        "flush",
+        "UL",
+        "LO2"
+      ],
+      "topicId": "basic-nutritional-requirements-for-metabolism",
+      "topicName": "Basic Nutritional Requirements for Metabolism (1 of 3)"
+    },
+    {
+      "id": "bo30-001",
+      "stem": "A 6-year-old boy with cystic fibrosis is evaluated for poor weight gain and greasy, foul-smelling stools. His parents report he has recently had trouble seeing in dim light. Laboratory testing confirms pancreatic insufficiency with low fecal elastase. Which of the following best explains why this child is at risk for vitamin A deficiency?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Thick mucus blocks pancreatic ducts, reducing lipase delivery and impairing incorporation of the vitamin into chylomicrons"
+        },
+        {
+          "label": "B",
+          "text": "Excess renal excretion of the water-soluble vitamin depletes body stores"
+        },
+        {
+          "label": "C",
+          "text": "A congenital defect in hepatic 25-hydroxylase prevents activation of the vitamin"
+        },
+        {
+          "label": "D",
+          "text": "Gut bacteria that synthesize the vitamin are eradicated by chronic antibiotic use"
+        },
+        {
+          "label": "E",
+          "text": "Autoantibodies destroy the intestinal receptor required for active transport of the vitamin"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Fat-soluble vitamins (A, D, E, K) require normal fat digestion; conditions that impair lipid absorption cause their deficiency.",
+        "whyCorrect": "In cystic fibrosis, thick mucus blocks pancreatic secretory ducts and reduces lipase release into the small intestine, adversely impacting fat absorption. Because fat-soluble vitamins are absorbed with lipids and incorporated into chylomicrons formed during fat digestion, any pathology that impairs lipid absorption traps these vitamins in the digestive tract and causes deficiency. Night blindness is an early indicator of vitamin A deficiency.",
+        "whyWrongByChoice": {
+          "B": "Vitamin A is fat-soluble, not water-soluble, and is stored in liver and adipose rather than being lost readily in urine.",
+          "C": "25-hydroxylase acts on vitamin D3, not vitamin A, and this is not the mechanism of malabsorption in cystic fibrosis.",
+          "D": "Loss of vitamin K-producing gut bacteria affects vitamin K, not vitamin A, and is not the cause here.",
+          "E": "Fat-soluble vitamins are absorbed passively with dietary lipids, not through a specific autoantibody-targeted active transporter."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "vitamin A",
+        "malabsorption",
+        "cystic fibrosis"
+      ],
+      "topicId": "fat-soluble-vitamins-a-d-e-k",
+      "topicName": "Fat-Soluble Vitamins (A, D, E, K)"
+    },
+    {
+      "id": "bo30-002",
+      "stem": "A 35-year-old man with known chronic pancreatic disease comes to the clinic complaining of difficulty seeing while driving home at night. Physical exam of the anterior eye later shows a dry, hardened cornea and small foamy patches on the conjunctiva. Which form of vitamin A most directly explains his night vision problem?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Retinal, a component of rhodopsin needed for visual pigment regeneration"
+        },
+        {
+          "label": "B",
+          "text": "Retinoic acid, which activates nuclear receptors to regulate keratin"
+        },
+        {
+          "label": "C",
+          "text": "Retinol bound to its transport protein for storage in the liver"
+        },
+        {
+          "label": "D",
+          "text": "Beta-carotene, the plant carotenoid precursor of vitamin A"
+        },
+        {
+          "label": "E",
+          "text": "Calcitriol, the active hormonal derivative that governs gene expression"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Night blindness in vitamin A deficiency results from insufficient retinal for regeneration of visual pigment in the retina.",
+        "whyCorrect": "Retinal is the component of rhodopsin, the light-sensing biological pigment in cells at the back of the eye. Night blindness occurs when insufficient retinal is present for visual pigment regeneration, and it is an early indicator of vitamin A deficiency. His dry hardened cornea (corneal xerosis) and conjunctival Bitot's spots reflect progression of the same deficiency (xerophthalmia).",
+        "whyWrongByChoice": {
+          "B": "Retinoic acid acts as a hormone regulating gene expression and keratin production but is not the light-sensing molecule of the retina.",
+          "C": "Retinol is the major transport and storage form of vitamin A, not the pigment that directly senses light.",
+          "D": "Beta-carotene is the inactive plant precursor cleaved into vitamin A; it is not itself the visual pigment.",
+          "E": "Calcitriol is the active form of vitamin D, unrelated to visual pigment function."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "vitamin A",
+        "vision",
+        "night blindness"
+      ],
+      "topicId": "fat-soluble-vitamins-a-d-e-k",
+      "topicName": "Fat-Soluble Vitamins (A, D, E, K)"
+    },
+    {
+      "id": "bo30-003",
+      "stem": "A dermatologist plans to prescribe isotretinoin (13-cis-retinoic acid) for a 19-year-old woman with severe cystic acne. Before starting therapy she is enrolled in a program requiring two negative pregnancy tests and adherence to a strict contraception regimen. Which property of this retinoid best justifies these precautions?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It is teratogenic because it modulates transcription factors that affect fetal development"
+        },
+        {
+          "label": "B",
+          "text": "It causes irreversible maternal night blindness during pregnancy"
+        },
+        {
+          "label": "C",
+          "text": "It precipitates as calcium oxalate and forms fetal kidney stones"
+        },
+        {
+          "label": "D",
+          "text": "It inhibits epoxide reductase and causes fetal hemorrhage"
+        },
+        {
+          "label": "E",
+          "text": "It is rapidly converted from beta-carotene and accumulates to toxic levels in the fetus"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Excess vitamin A is a well-known teratogen and is of great concern in pregnancy.",
+        "whyCorrect": "Retinoic acid acts as a hormone that regulates cell differentiation and embryonic development by modulating transcription. Excess vitamin A poses a teratogenic risk to the developing fetus and increases the risk of birth defects, which is why isotretinoin (Accutane) requires strict contraception and negative pregnancy tests before prescription.",
+        "whyWrongByChoice": {
+          "B": "Night blindness is a sign of vitamin A deficiency, not toxicity, and is not the reason for contraception requirements.",
+          "C": "Calcium oxalate stones are a feature of vitamin D toxicity, not retinoid teratogenicity.",
+          "D": "Epoxide reductase inhibition describes warfarin's effect on vitamin K, not isotretinoin.",
+          "E": "Beta-carotene conversion is too slow to cause toxicity and describes a mechanism protecting against, not causing, vitamin A toxicity."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "vitamin A",
+        "toxicity",
+        "teratogen",
+        "isotretinoin"
+      ],
+      "topicId": "fat-soluble-vitamins-a-d-e-k",
+      "topicName": "Fat-Soluble Vitamins (A, D, E, K)"
+    },
+    {
+      "id": "bo30-004",
+      "stem": "A 28-year-old woman is diagnosed with acute promyelocytic leukemia (APL). She is started on all-trans-retinoic acid (ATRA) and achieves complete remission. Which mechanism best explains the therapeutic effect of ATRA in this leukemia?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It drives differentiation of the leukemic cells into mature, nondividing granulocytes"
+        },
+        {
+          "label": "B",
+          "text": "It directly triggers apoptosis by cross-linking leukemic cell DNA"
+        },
+        {
+          "label": "C",
+          "text": "It inhibits CYP26 enzymes to prevent catabolism of the leukemic cells"
+        },
+        {
+          "label": "D",
+          "text": "It chelates calcium needed for leukemic cell proliferation"
+        },
+        {
+          "label": "E",
+          "text": "It blocks 1-alpha-hydroxylase, starving the tumor of active vitamin D"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "ATRA treats APL by promoting differentiation of the leukemic cells rather than killing them directly.",
+        "whyCorrect": "All-trans-retinoic acid is first-line therapy for acute promyelocytic leukemia. Its mechanism is to drive differentiation of the leukemic cells into nondividing mature granulocytes/macrophages, and it has proven extremely effective, with about 90% of patients achieving complete remission.",
+        "whyWrongByChoice": {
+          "B": "ATRA works by inducing differentiation, not by directly cross-linking DNA to trigger apoptosis.",
+          "C": "CYP26 inhibition describes retinoic acid metabolism blocking agents (RAMBAs), which raise RA levels; it is not the mechanism of ATRA's action in APL.",
+          "D": "Calcium chelation (by EDTA/EGTA) relates to preventing coagulation in phlebotomy, not to APL therapy.",
+          "E": "1-alpha-hydroxylase acts in vitamin D activation and is unrelated to ATRA's differentiating effect."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "vitamin A",
+        "ATRA",
+        "leukemia",
+        "differentiation"
+      ],
+      "topicId": "fat-soluble-vitamins-a-d-e-k",
+      "topicName": "Fat-Soluble Vitamins (A, D, E, K)"
+    },
+    {
+      "id": "bo30-005",
+      "stem": "A 9-month-old exclusively breastfed infant with darkly pigmented skin who lives in a northern city and gets little sun exposure is brought in for delayed motor milestones. Exam shows bowing of the legs, bone tenderness, and delayed closure of the fontanelles. Which vitamin deficiency best accounts for these findings?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Vitamin D"
+        },
+        {
+          "label": "B",
+          "text": "Vitamin A"
+        },
+        {
+          "label": "C",
+          "text": "Vitamin E"
+        },
+        {
+          "label": "D",
+          "text": "Vitamin K"
+        },
+        {
+          "label": "E",
+          "text": "Vitamin C"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Rickets from vitamin D deficiency causes soft, poorly mineralized bones in children.",
+        "whyCorrect": "Vitamin D deficiency causes rickets, the softening and weakening of bones in children. Features include delayed growth, bowing of the legs, bone pain and tenderness, and delayed closing of the fontanelles due to poor mineralization of newly formed bone. Lack of sunlight, darker skin tones with less UV absorption, and breastfeeding without supplementation are all contributing risk factors present in this infant.",
+        "whyWrongByChoice": {
+          "B": "Vitamin A deficiency causes night blindness and eye/skin changes, not bowed bones and delayed fontanelle closure.",
+          "C": "Vitamin E deficiency causes hemolytic anemia, not a rachitic bone phenotype.",
+          "D": "Vitamin K deficiency causes bleeding and prolonged coagulation, not bone deformities.",
+          "E": "Vitamin C is water-soluble and its deficiency causes scurvy; it is outside the fat-soluble vitamin scope and does not produce this classic rickets picture."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "vitamin D",
+        "rickets",
+        "deficiency"
+      ],
+      "topicId": "fat-soluble-vitamins-a-d-e-k",
+      "topicName": "Fat-Soluble Vitamins (A, D, E, K)"
+    },
+    {
+      "id": "bo30-006",
+      "stem": "A physician wants to assess a patient's overall vitamin D status. Which serum measurement provides the best reflection of the patient's vitamin D stores?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "25-OH vitamin D3 (calcidiol)"
+        },
+        {
+          "label": "B",
+          "text": "1,25-OH vitamin D3 (calcitriol)"
+        },
+        {
+          "label": "C",
+          "text": "7-dehydrocholesterol"
+        },
+        {
+          "label": "D",
+          "text": "Parathyroid hormone"
+        },
+        {
+          "label": "E",
+          "text": "Vitamin D2 (ergocalciferol)"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Serum 25-OH vitamin D3 (calcidiol) is the best marker of vitamin D status.",
+        "whyCorrect": "When checking vitamin D status, you measure the concentration of 25-OH vitamin D3 in the serum. This metabolite has a long half-life, its production in the liver is not hormonally influenced, and it is stored in this inert form until it is hydroxylated one more time, making it a better reflection of vitamin D levels.",
+        "whyWrongByChoice": {
+          "B": "Calcitriol (1,25-OH D3) is the active hormone; its production is tightly hormonally regulated and its short half-life makes it a poor marker of overall stores.",
+          "C": "7-dehydrocholesterol is a skin precursor of D3, not a circulating measure of vitamin D status.",
+          "D": "PTH regulates activation of vitamin D but is not itself a measure of vitamin D stores.",
+          "E": "Vitamin D2 is a minor dietary form and is not the standard status marker; the stored 25-OH D3 metabolite is measured instead."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "vitamin D",
+        "calcidiol",
+        "laboratory"
+      ],
+      "topicId": "fat-soluble-vitamins-a-d-e-k",
+      "topicName": "Fat-Soluble Vitamins (A, D, E, K)"
+    },
+    {
+      "id": "bo30-007",
+      "stem": "In a patient with low blood calcium, parathyroid hormone is released and stimulates the final activating step of vitamin D metabolism. Where does this hormonally stimulated hydroxylation occur, and what product is formed?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "In the kidney by 1-alpha-hydroxylase, producing calcitriol"
+        },
+        {
+          "label": "B",
+          "text": "In the liver by 25-hydroxylase, producing calcidiol"
+        },
+        {
+          "label": "C",
+          "text": "In the skin by UVB energy, producing vitamin D3"
+        },
+        {
+          "label": "D",
+          "text": "In the intestine by calcium binding protein, producing ergocalciferol"
+        },
+        {
+          "label": "E",
+          "text": "In the parathyroid gland by epoxide reductase, producing 7-dehydrocholesterol"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "PTH stimulates renal 1-alpha-hydroxylase to convert 25-OH D3 into active calcitriol.",
+        "whyCorrect": "The second hydroxylation adds a hydroxyl group at the number 1 carbon to create the biologically active steroid hormone calcitriol (1,25-OH D3). This reaction predominantly occurs in the kidney via 1-alpha-hydroxylase and, unlike the first hydroxylation, is stimulated by parathyroid hormone released in response to low blood calcium.",
+        "whyWrongByChoice": {
+          "B": "The liver 25-hydroxylase step produces calcidiol (25-OH D3) and is not hormonally governed by PTH.",
+          "C": "UVB conversion of 7-dehydrocholesterol in skin produces D3, which is upstream and not the PTH-stimulated activating step.",
+          "D": "Calcium binding protein mediates intestinal calcium absorption; it is not an enzyme that hydroxylates vitamin D.",
+          "E": "Epoxide reductase regenerates reduced vitamin K; it has no role in vitamin D activation, and 7-dehydrocholesterol is a precursor, not a product."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "vitamin D",
+        "calcitriol",
+        "PTH",
+        "activation"
+      ],
+      "topicId": "fat-soluble-vitamins-a-d-e-k",
+      "topicName": "Fat-Soluble Vitamins (A, D, E, K)"
+    },
+    {
+      "id": "bo30-008",
+      "stem": "A 46-year-old woman with sarcoidosis is found to have hypercalcemia. Her renal function is normal. Which mechanism best explains the elevated calcium in this patient?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Granuloma macrophages express 1-alpha-hydroxylase, causing extrarenal activation of vitamin D and increased intestinal calcium absorption"
+        },
+        {
+          "label": "B",
+          "text": "Impaired hepatic 25-hydroxylase leads to accumulation of active vitamin D"
+        },
+        {
+          "label": "C",
+          "text": "Loss of vitamin K carboxylation releases calcium from clotting factors"
+        },
+        {
+          "label": "D",
+          "text": "Excess dietary beta-carotene is rapidly converted to a calcium-mobilizing hormone"
+        },
+        {
+          "label": "E",
+          "text": "Warfarin-induced inhibition of epoxide reductase raises serum calcium"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "In sarcoidosis, granuloma macrophages express 1-alpha-hydroxylase, producing active vitamin D outside the kidney and causing hypercalcemia.",
+        "whyCorrect": "Hydroxylation of vitamin D at the 1-position can occur independently of renal function. In sarcoidosis, granulomas contain activated macrophages that express 1-alpha-hydroxylase. This extrarenal activation of vitamin D increases calcium absorption in the gastrointestinal tract, leading to hypercalcemia, a hallmark metabolic complication of the disease.",
+        "whyWrongByChoice": {
+          "B": "Impaired 25-hydroxylase would reduce, not increase, active vitamin D and would not raise calcium.",
+          "C": "Vitamin K carboxylation modifies clotting factors so they can bind calcium; it does not store or release systemic calcium in this way.",
+          "D": "Beta-carotene is a vitamin A precursor and does not mobilize calcium.",
+          "E": "Warfarin inhibits vitamin K cycling and affects coagulation, not serum calcium."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "vitamin D",
+        "sarcoidosis",
+        "hypercalcemia",
+        "1-alpha-hydroxylase"
+      ],
+      "topicId": "fat-soluble-vitamins-a-d-e-k",
+      "topicName": "Fat-Soluble Vitamins (A, D, E, K)"
+    },
+    {
+      "id": "bo30-009",
+      "stem": "A 58-year-old man who takes very large doses of over-the-counter vitamin D supplements presents with waves of flank and back pain. Imaging reveals renal calculi, and further workup shows hardening of several arteries. Which laboratory abnormality most directly underlies these complications?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Elevated blood calcium causing precipitation of calcium oxalate and vascular calcium phosphate deposition"
+        },
+        {
+          "label": "B",
+          "text": "Prolonged prothrombin time from impaired clotting factor synthesis"
+        },
+        {
+          "label": "C",
+          "text": "Increased intracranial pressure from excess retinol"
+        },
+        {
+          "label": "D",
+          "text": "Hemolysis from increased red blood cell lipid peroxidation"
+        },
+        {
+          "label": "E",
+          "text": "Low serum calcium triggering compensatory bone resorption"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Vitamin D toxicity raises blood calcium, forming kidney stones and calcifying vessels.",
+        "whyCorrect": "Excess vitamin D, most often from over-supplementation, raises the concentration of blood calcium. The increased calcium precipitates as calcium oxalate in soft tissues and forms stones, especially in the kidneys, causing waves of flank and back pain. Calcium phosphate deposition (apatite crystals) can also harden blood vessels (arteriosclerosis), which is especially dangerous in major arteries.",
+        "whyWrongByChoice": {
+          "B": "Prolonged prothrombin time reflects vitamin K deficiency, not vitamin D toxicity.",
+          "C": "Intracranial hypertension and headache are features of vitamin A toxicity.",
+          "D": "Red cell lipid peroxidation and hemolysis are features of vitamin E deficiency.",
+          "E": "Vitamin D toxicity causes high, not low, serum calcium; the stones and calcification arise from hypercalcemia."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "vitamin D",
+        "toxicity",
+        "hypercalcemia",
+        "kidney stones"
+      ],
+      "topicId": "fat-soluble-vitamins-a-d-e-k",
+      "topicName": "Fat-Soluble Vitamins (A, D, E, K)"
+    },
+    {
+      "id": "bo30-010",
+      "stem": "A premature infant with fat malabsorption develops anemia. Peripheral smear and labs are consistent with red blood cell destruction due to increased lipid peroxidation of the erythrocyte membrane. Deficiency of which vitamin best explains this hemolytic anemia?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Vitamin E"
+        },
+        {
+          "label": "B",
+          "text": "Vitamin A"
+        },
+        {
+          "label": "C",
+          "text": "Vitamin D"
+        },
+        {
+          "label": "D",
+          "text": "Vitamin K"
+        },
+        {
+          "label": "E",
+          "text": "Vitamin B12"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Vitamin E deficiency predisposes premature infants to hemolytic anemia from RBC lipid peroxidation.",
+        "whyCorrect": "Vitamin E functions primarily as an antioxidant that prevents oxidative damage of lipids. A major point about its deficiency is that it can predispose premature infants and children with fat malabsorption to hemolytic anemia. Without sufficient vitamin E antioxidant function, increased lipid peroxidation within red blood cells leads to their premature destruction.",
+        "whyWrongByChoice": {
+          "B": "Vitamin A deficiency causes visual and epithelial problems, not lipid-peroxidation hemolysis.",
+          "C": "Vitamin D deficiency causes bone disease (rickets/osteomalacia), not hemolytic anemia.",
+          "D": "Vitamin K deficiency causes bleeding from impaired coagulation, not membrane lipid peroxidation.",
+          "E": "Vitamin B12 is water-soluble and its deficiency causes megaloblastic (not oxidative hemolytic) anemia, and it is outside this brick's fat-soluble scope."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "vitamin E",
+        "hemolytic anemia",
+        "antioxidant"
+      ],
+      "topicId": "fat-soluble-vitamins-a-d-e-k",
+      "topicName": "Fat-Soluble Vitamins (A, D, E, K)"
+    },
+    {
+      "id": "bo30-011",
+      "stem": "A 67-year-old man on warfarin for atrial fibrillation presents with a major gastrointestinal bleed, and his INR is markedly elevated. The team administers vitamin K to reverse the anticoagulation. Which mechanism explains why warfarin produced this coagulopathy?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It inhibits epoxide reductase, preventing regeneration of reduced vitamin K needed for clotting factor carboxylation"
+        },
+        {
+          "label": "B",
+          "text": "It directly degrades circulating fibrin and clotting factors"
+        },
+        {
+          "label": "C",
+          "text": "It blocks intestinal absorption of dietary calcium required for coagulation"
+        },
+        {
+          "label": "D",
+          "text": "It stimulates gamma-glutamyl carboxylase, overactivating clotting factors"
+        },
+        {
+          "label": "E",
+          "text": "It chelates vitamin K in the gut, preventing bacterial synthesis"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Warfarin inhibits epoxide reductase, halting vitamin K recycling and impairing carboxylation of clotting factors.",
+        "whyCorrect": "During carboxylation of clotting factors, vitamin K goes from a reduced to an oxidized form and must be regenerated by epoxide reductase to keep clotting factors active. Warfarin inhibits epoxide reductase and prevents cycling of vitamin K from oxidized to reduced forms, acting as an anticoagulant. Dosing vitamin K provides more substrate to compete and can reverse the drug's effect.",
+        "whyWrongByChoice": {
+          "B": "Warfarin does not directly degrade fibrin or clotting factors; it impairs their vitamin K-dependent activation.",
+          "C": "Warfarin does not act by blocking dietary calcium absorption.",
+          "D": "Warfarin impairs, rather than stimulates, the vitamin K-dependent carboxylase pathway.",
+          "E": "Warfarin does not chelate vitamin K in the gut; it inhibits the epoxide reductase enzyme."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "vitamin K",
+        "warfarin",
+        "epoxide reductase",
+        "coagulation"
+      ],
+      "topicId": "fat-soluble-vitamins-a-d-e-k",
+      "topicName": "Fat-Soluble Vitamins (A, D, E, K)"
+    },
+    {
+      "id": "bo30-012",
+      "stem": "After an uncomplicated birth, a newborn is given a routine intramuscular vitamin K injection. The parents ask why a healthy newborn with a good Apgar score needs this shot. Which statement best explains why newborns are at increased risk of vitamin K deficiency bleeding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Vitamin K crosses the placenta poorly, breast milk is low in vitamin K, and the newborn gut lacks the bacteria that synthesize it"
+        },
+        {
+          "label": "B",
+          "text": "Newborns rapidly excrete vitamin K in urine because it is water-soluble"
+        },
+        {
+          "label": "C",
+          "text": "Newborn livers cannot perform the 25-hydroxylation needed to activate vitamin K"
+        },
+        {
+          "label": "D",
+          "text": "Maternal antibodies destroy fetal clotting factors during delivery"
+        },
+        {
+          "label": "E",
+          "text": "Newborns have excess vitamin E that permanently inactivates all vitamin K"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Newborns receive vitamin K at birth because placental transfer, breast milk content, and gut synthesis are all limited.",
+        "whyCorrect": "Because vitamin K is essential to several clotting factors, deficiency raises the risk of potentially fatal hemorrhage, known as Vitamin K Deficiency Bleeding (VKDB). Newborns are given a vitamin K shot because vitamin K does not easily cross the placenta, breast milk contains low amounts of vitamin K, and the gut microbiome that produces vitamin K is underdeveloped, as the vitamin K-synthesizing bacteria are not yet present in the newborn gut.",
+        "whyWrongByChoice": {
+          "B": "Vitamin K is fat-soluble, not water-soluble, so rapid urinary excretion is not the reason for newborn deficiency.",
+          "C": "Vitamin K is not activated by hepatic 25-hydroxylation; that step applies to vitamin D3.",
+          "D": "VKDB results from the newborn's limited vitamin K sources, not from maternal antibodies destroying clotting factors.",
+          "E": "While extreme vitamin E excess can interfere with vitamin K, newborns are not characterized by excess vitamin E, and this is not the reason for the routine shot."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "vitamin K",
+        "newborn",
+        "VKDB",
+        "hemostasis"
+      ],
+      "topicId": "fat-soluble-vitamins-a-d-e-k",
+      "topicName": "Fat-Soluble Vitamins (A, D, E, K)"
+    },
+    {
+      "id": "bo31-001",
+      "stem": "A 6-year-old boy is brought to clinic for a year of worsening behavioral changes, including new aggression and impulsivity. On close inspection of his eyes you note brownish rings at the corneal margin. Laboratory studies show elevated serum transaminases. Which of the following combinations of copper studies would you most expect to confirm the diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Liver copper high, serum ceruloplasmin high, urine copper high"
+        },
+        {
+          "label": "B",
+          "text": "Liver copper high, serum ceruloplasmin low, urine copper high"
+        },
+        {
+          "label": "C",
+          "text": "Liver copper low, serum ceruloplasmin high, urine copper low"
+        },
+        {
+          "label": "D",
+          "text": "Liver copper low, serum ceruloplasmin low, urine copper low"
+        },
+        {
+          "label": "E",
+          "text": "Liver copper high, serum ceruloplasmin high, urine copper low"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Wilson disease produces hepatic copper overload with low serum ceruloplasmin and high urinary copper.",
+        "whyCorrect": "In Wilson disease the ATP7B defect prevents copper from being incorporated into ceruloplasmin and excreted into bile, so copper accumulates in hepatocytes (high liver copper) and serum ceruloplasmin is low. Unbound copper spills into blood and is filtered at the glomerulus but cannot be reabsorbed, giving high urinary copper. Kayser-Fleischer rings and elevated transaminases support the diagnosis.",
+        "whyWrongByChoice": {
+          "A": "Ceruloplasmin is low, not high, because copper cannot be loaded onto apoceruloplasmin.",
+          "C": "Liver copper is high in Wilson disease because copper is trapped in hepatocytes, and urine copper is high.",
+          "D": "This low/low/low pattern fits Menkes disease (copper deficiency), not Wilson disease.",
+          "E": "Both serum ceruloplasmin (low) and urine copper (high) are incorrect here."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "copper",
+        "Wilson disease",
+        "ATP7B",
+        "ceruloplasmin"
+      ],
+      "topicId": "basic-nutritional-requirements-select-minerals",
+      "topicName": "Basic Nutritional Requirements for Metabolism: Select Minerals"
+    },
+    {
+      "id": "bo31-002",
+      "stem": "A previously healthy patient presents to the emergency department with an increased respiratory rate. Serum studies show pH 7.22, bicarbonate 14 mEq/L, sodium 140 mEq/L, chloride 100 mEq/L, and an anion gap of 26 mEq/L. Which of the following best describes this patient's expected ionized calcium?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Ionized calcium will be low because binding to albumin is increased"
+        },
+        {
+          "label": "B",
+          "text": "Ionized calcium will be low because binding to albumin is decreased"
+        },
+        {
+          "label": "C",
+          "text": "Ionized calcium will be high because binding to albumin is increased"
+        },
+        {
+          "label": "D",
+          "text": "Ionized calcium will be high because binding to albumin is decreased"
+        },
+        {
+          "label": "E",
+          "text": "Ionized calcium will be unchanged because pH does not affect calcium binding"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Acidemia raises free ionized calcium by displacing calcium from albumin.",
+        "whyCorrect": "The labs show a high anion-gap metabolic acidosis (low pH, low bicarbonate, gap of 26). In acidemia, excess protons occupy the negatively charged sites on albumin, displacing bound calcium. This decreased albumin binding releases calcium and elevates the ionized (free) fraction.",
+        "whyWrongByChoice": {
+          "A": "Increased albumin binding and lower ionized calcium occur in alkalemia, not this acidotic patient.",
+          "B": "The mechanism (decreased binding) is right, but decreased binding raises, not lowers, ionized calcium.",
+          "C": "Ionized calcium is high, but through decreased binding, not increased binding.",
+          "E": "Serum pH does affect calcium binding to albumin, so ionized calcium changes."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "calcium",
+        "acid-base",
+        "albumin",
+        "ionized calcium"
+      ],
+      "topicId": "basic-nutritional-requirements-select-minerals",
+      "topicName": "Basic Nutritional Requirements for Metabolism: Select Minerals"
+    },
+    {
+      "id": "bo31-003",
+      "stem": "A researcher studies a hormone that opposes parathyroid hormone by inhibiting osteoclast activity, promoting bone formation, and reducing renal calcium reabsorption. Which of the following cells is the source of this hormone?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Chief cells of the parathyroid gland"
+        },
+        {
+          "label": "B",
+          "text": "Parafollicular (C) cells of the thyroid gland"
+        },
+        {
+          "label": "C",
+          "text": "Zona glomerulosa cells of the adrenal cortex"
+        },
+        {
+          "label": "D",
+          "text": "Proximal tubule cells of the kidney"
+        },
+        {
+          "label": "E",
+          "text": "Osteoblasts of the bone matrix"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Calcitonin, from thyroid parafollicular cells, lowers serum calcium and opposes PTH.",
+        "whyCorrect": "Calcitonin is made by the parafollicular (C) cells of the thyroid gland. It inhibits osteoclastic bone resorption, favors bone formation, and inhibits renal reabsorption of calcium, thereby decreasing blood calcium levels in direct opposition to PTH.",
+        "whyWrongByChoice": {
+          "A": "Chief cells secrete parathyroid hormone, which raises calcium rather than lowering it.",
+          "C": "The zona glomerulosa produces aldosterone, not a calcium-lowering hormone.",
+          "D": "The proximal tubule reabsorbs solutes but is not the source of calcitonin.",
+          "E": "Osteoblasts build bone matrix but do not secrete calcitonin."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "calcium",
+        "calcitonin",
+        "thyroid",
+        "hormone"
+      ],
+      "topicId": "basic-nutritional-requirements-select-minerals",
+      "topicName": "Basic Nutritional Requirements for Metabolism: Select Minerals"
+    },
+    {
+      "id": "bo31-004",
+      "stem": "A patient with hypocalcemia has appropriately increased secretion of parathyroid hormone. In addition to stimulating osteoclastic bone resorption and renal calcium reabsorption, PTH raises serum calcium by promoting which of the following renal processes?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Activation of 1-alpha-hydroxylase to form calcitriol"
+        },
+        {
+          "label": "B",
+          "text": "Increased renal phosphate reabsorption"
+        },
+        {
+          "label": "C",
+          "text": "Conversion of angiotensinogen to angiotensin I"
+        },
+        {
+          "label": "D",
+          "text": "Secretion of erythropoietin from peritubular cells"
+        },
+        {
+          "label": "E",
+          "text": "Inhibition of 25-hydroxylase in the proximal tubule"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "PTH promotes renal 1-alpha-hydroxylase activity, generating active vitamin D (calcitriol).",
+        "whyCorrect": "PTH is released from the parathyroid glands in response to hypocalcemia and promotes 1-alpha-hydroxylase activity within the kidney. This converts vitamin D to its active form, calcitriol, which increases intestinal calcium absorption and helps restore serum calcium.",
+        "whyWrongByChoice": {
+          "B": "PTH promotes phosphate excretion (phosphaturia), not increased phosphate reabsorption.",
+          "C": "That conversion involves renin and ACE in the renin-angiotensin system, unrelated to PTH.",
+          "D": "Erythropoietin regulates red cell production and is not part of PTH-driven calcium handling.",
+          "E": "Hepatic 25-hydroxylase is not the PTH-regulated step; PTH acts on renal 1-alpha-hydroxylase."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "calcium",
+        "PTH",
+        "calcitriol",
+        "vitamin D"
+      ],
+      "topicId": "basic-nutritional-requirements-select-minerals",
+      "topicName": "Basic Nutritional Requirements for Metabolism: Select Minerals"
+    },
+    {
+      "id": "bo31-005",
+      "stem": "A 2-year-old boy has a several-week history of a red, scaly rash localized around the mouth, hands, feet, and perianal region, along with chronic diarrhea and patchy hair loss. His parents also note delayed healing of minor skin wounds. Deficiency of which of the following minerals best explains this triad?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Zinc"
+        },
+        {
+          "label": "B",
+          "text": "Copper"
+        },
+        {
+          "label": "C",
+          "text": "Calcium"
+        },
+        {
+          "label": "D",
+          "text": "Magnesium"
+        },
+        {
+          "label": "E",
+          "text": "Phosphorus"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The classic triad of dermatitis, diarrhea, and alopecia defines zinc deficiency (acrodermatitis enteropathica).",
+        "whyCorrect": "Zinc deficiency produces acrodermatitis enteropathica, whose classic triad is dermatitis (red rashes and lesions around the mouth, hands, feet, and perianal areas), diarrhea, and alopecia. Delayed wound healing, loss of taste, and immunosuppression are other features because zinc is a cofactor for more than 100 enzymes.",
+        "whyWrongByChoice": {
+          "B": "Copper deficiency causes anemia and neurologic changes, not this perioral dermatitis triad.",
+          "C": "Calcium deficiency presents with tetany, paresthesias, and osteoporosis, not this rash.",
+          "D": "Magnesium deficiency causes tetany, weakness, and arrhythmias rather than acrodermatitis.",
+          "E": "Phosphorus abnormalities affect bone and energy metabolism, not this dermatologic triad."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "zinc",
+        "acrodermatitis enteropathica",
+        "deficiency",
+        "trace mineral"
+      ],
+      "topicId": "basic-nutritional-requirements-select-minerals",
+      "topicName": "Basic Nutritional Requirements for Metabolism: Select Minerals"
+    },
+    {
+      "id": "bo31-006",
+      "stem": "A neonate develops a perioral and acral dermatitis, diarrhea, and hair loss shortly after being weaned from breast milk to formula. Genetic testing reveals a defect in the SLC39A4 gene. This gene encodes a transporter (ZIP4) whose dysfunction causes disease through which of the following mechanisms?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Impaired intestinal absorption of zinc"
+        },
+        {
+          "label": "B",
+          "text": "Failure to load copper onto ceruloplasmin"
+        },
+        {
+          "label": "C",
+          "text": "Defective renal reabsorption of magnesium"
+        },
+        {
+          "label": "D",
+          "text": "Loss of biliary copper excretion"
+        },
+        {
+          "label": "E",
+          "text": "Reduced intestinal calcium uptake"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "SLC39A4 encodes the ZIP4 zinc transporter; its loss impairs intestinal zinc absorption.",
+        "whyCorrect": "The genetic form of acrodermatitis enteropathica results from a disrupted SLC39A4 gene, which encodes the zinc transporter ZIP4. Loss of ZIP4 function impairs zinc absorption in the small intestine, producing the dermatitis-diarrhea-alopecia triad of zinc deficiency.",
+        "whyWrongByChoice": {
+          "B": "Failure to load copper onto ceruloplasmin describes ATP7B dysfunction in Wilson disease.",
+          "C": "Renal magnesium wasting is not caused by ZIP4; it relates to diuretics and alcohol.",
+          "D": "Loss of biliary copper excretion is the ATP7B defect of Wilson disease, not a zinc transporter.",
+          "E": "ZIP4 transports zinc, not calcium, so intestinal calcium uptake is unaffected."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "zinc",
+        "SLC39A4",
+        "ZIP4",
+        "genetics"
+      ],
+      "topicId": "basic-nutritional-requirements-select-minerals",
+      "topicName": "Basic Nutritional Requirements for Metabolism: Select Minerals"
+    },
+    {
+      "id": "bo31-007",
+      "stem": "A 4-month-old boy has failure to thrive, seizures, and hypotonia. On examination his hair is unusually brittle, sparse, and fragile. Serum studies show low copper and low ceruloplasmin, and urinary copper is also low. A defect in which of the following genes best explains this presentation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "ATP7A"
+        },
+        {
+          "label": "B",
+          "text": "ATP7B"
+        },
+        {
+          "label": "C",
+          "text": "SLC39A4"
+        },
+        {
+          "label": "D",
+          "text": "HFE"
+        },
+        {
+          "label": "E",
+          "text": "FBN1"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Menkes disease is caused by an ATP7A defect that traps copper in enterocytes, causing systemic copper deficiency.",
+        "whyCorrect": "Menkes disease results from dysfunction of the ATP7A gene, which prevents dietary copper from leaving intestinal enterocytes. The resulting severe copper deficiency lowers whole-body, serum, and urinary copper as well as ceruloplasmin, and impairs lysyl oxidase, giving brittle, kinky hair along with seizures, hypotonia, and failure to thrive.",
+        "whyWrongByChoice": {
+          "B": "ATP7B mutations cause Wilson disease, which produces copper overload rather than deficiency.",
+          "C": "SLC39A4 defects cause zinc deficiency (acrodermatitis enteropathica), not copper deficiency.",
+          "D": "HFE mutations cause hereditary hemochromatosis, an iron-overload disorder.",
+          "E": "FBN1 encodes fibrillin and is mutated in Marfan syndrome, unrelated to copper metabolism."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "copper",
+        "Menkes disease",
+        "ATP7A",
+        "deficiency"
+      ],
+      "topicId": "basic-nutritional-requirements-select-minerals",
+      "topicName": "Basic Nutritional Requirements for Metabolism: Select Minerals"
+    },
+    {
+      "id": "bo31-008",
+      "stem": "A child with a copper deficiency shows evidence of weakened connective tissue. A student notes that both vitamin C deficiency (scurvy) and copper deficiency impair collagen. Which of the following copper-dependent enzymes accounts for the copper-related defect in collagen strength?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Lysyl oxidase, which cross-links lysine residues in collagen"
+        },
+        {
+          "label": "B",
+          "text": "Prolyl hydroxylase, which hydroxylates proline residues"
+        },
+        {
+          "label": "C",
+          "text": "Lysyl hydroxylase, which hydroxylates lysine residues"
+        },
+        {
+          "label": "D",
+          "text": "Tyrosinase, which synthesizes melanin"
+        },
+        {
+          "label": "E",
+          "text": "Cytochrome c oxidase, which transfers electrons to oxygen"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Copper is the cofactor for lysyl oxidase, which cross-links collagen at a step distinct from vitamin C-dependent enzymes.",
+        "whyCorrect": "Copper is required by lysyl oxidase, which covalently cross-links lysine residues to strengthen collagen fibrils in a later step of collagen maturation. Because the vitamin C-dependent enzymes (prolyl and lysyl hydroxylase) act at an earlier step, copper-deficient children do not develop scurvy-like symptoms despite both processes affecting collagen.",
+        "whyWrongByChoice": {
+          "B": "Prolyl hydroxylase requires vitamin C, not copper, and its failure causes scurvy.",
+          "C": "Lysyl hydroxylase is also a vitamin C-dependent enzyme, not a copper-dependent one.",
+          "D": "Tyrosinase is copper-dependent but makes melanin, not collagen cross-links.",
+          "E": "Cytochrome c oxidase is copper-dependent but functions in the electron transport chain, not collagen synthesis."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "copper",
+        "lysyl oxidase",
+        "collagen",
+        "vitamin C"
+      ],
+      "topicId": "basic-nutritional-requirements-select-minerals",
+      "topicName": "Basic Nutritional Requirements for Metabolism: Select Minerals"
+    },
+    {
+      "id": "bo31-009",
+      "stem": "A 52-year-old woman who underwent gastric bypass surgery several years ago and takes high-dose zinc supplements presents with fatigue, a wide-based unsteady gait, and blurred vision. Complete blood count shows anemia. Deficiency of which of the following minerals best explains this combination of hematologic and neurologic findings?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Copper"
+        },
+        {
+          "label": "B",
+          "text": "Zinc"
+        },
+        {
+          "label": "C",
+          "text": "Magnesium"
+        },
+        {
+          "label": "D",
+          "text": "Calcium"
+        },
+        {
+          "label": "E",
+          "text": "Phosphorus"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Acquired copper deficiency, common after bariatric surgery and with excess zinc, causes anemia plus neurologic dysfunction.",
+        "whyCorrect": "Copper deficiency is more common after gastric bypass and is worsened by excess zinc, which diminishes dietary copper absorption. Because copper is required for maximal iron absorption, deficiency produces anemia; neurologic features include ataxia (gait disturbance), spasticity, and vision impairment.",
+        "whyWrongByChoice": {
+          "B": "This patient takes high-dose zinc, which causes copper deficiency rather than zinc deficiency.",
+          "C": "Magnesium deficiency causes tetany and arrhythmias, not this anemia-plus-myelopathy picture.",
+          "D": "Calcium deficiency causes tetany and osteoporosis, not anemia and gait ataxia.",
+          "E": "Phosphorus deficiency affects energy metabolism and bone, not this neuro-hematologic syndrome."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "copper",
+        "deficiency",
+        "zinc excess",
+        "bariatric surgery"
+      ],
+      "topicId": "basic-nutritional-requirements-select-minerals",
+      "topicName": "Basic Nutritional Requirements for Metabolism: Select Minerals"
+    },
+    {
+      "id": "bo31-010",
+      "stem": "A 45-year-old man with chronic alcohol use presents with muscle cramps, weakness, and a cardiac arrhythmia. He is found to be hypocalcemic, and his hypocalcemia does not correct with calcium administration alone. Which of the following mineral abnormalities is the most likely underlying cause?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hypomagnesemia impairing PTH secretion"
+        },
+        {
+          "label": "B",
+          "text": "Hyperphosphatemia from renal failure"
+        },
+        {
+          "label": "C",
+          "text": "Zinc deficiency impairing enzyme cofactors"
+        },
+        {
+          "label": "D",
+          "text": "Copper excess causing free-radical injury"
+        },
+        {
+          "label": "E",
+          "text": "Hypercalciuria from calcitonin excess"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Alcohol-related magnesium wasting impairs PTH secretion, causing refractory hypocalcemia.",
+        "whyCorrect": "Magnesium is commonly deficient in alcoholism because alcohol acts as a diuretic and promotes renal magnesium wasting. Because magnesium is required for secretion of PTH from the parathyroid gland, hypomagnesemia lowers available calcium and produces hypocalcemia that will not correct until magnesium is repleted. Tetany and arrhythmias are typical of hypomagnesemia.",
+        "whyWrongByChoice": {
+          "B": "Renal failure with hyperphosphatemia causes renal osteodystrophy, not this alcohol-related refractory hypocalcemia.",
+          "C": "Zinc deficiency causes dermatitis, diarrhea, and alopecia, not PTH-dependent hypocalcemia.",
+          "D": "Copper excess produces hepatic and neuropsychiatric disease (Wilson disease), not this picture.",
+          "E": "Calcitonin excess lowers calcium but does not explain the alcohol-associated, magnesium-driven mechanism here."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "magnesium",
+        "hypocalcemia",
+        "PTH",
+        "alcoholism"
+      ],
+      "topicId": "basic-nutritional-requirements-select-minerals",
+      "topicName": "Basic Nutritional Requirements for Metabolism: Select Minerals"
+    },
+    {
+      "id": "bo31-011",
+      "stem": "A patient with end-stage renal disease develops rising serum phosphate levels, bone pain, and secondary bone fractures (renal osteodystrophy). Which of the following properties of phosphate handling best explains why kidney failure leads to hyperphosphatemia?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Phosphate is removed from the body exclusively by the kidneys, with none lost through the GI tract"
+        },
+        {
+          "label": "B",
+          "text": "Phosphate is lost primarily through the gastrointestinal tract when the kidneys fail"
+        },
+        {
+          "label": "C",
+          "text": "Phosphate is stored almost entirely in the extracellular fluid rather than bone"
+        },
+        {
+          "label": "D",
+          "text": "Phosphate cannot be filtered by the glomerulus under any conditions"
+        },
+        {
+          "label": "E",
+          "text": "Phosphate is eliminated mainly through sweat and skin"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Phosphate is excreted exclusively by the kidneys, so renal failure causes hyperphosphatemia and renal osteodystrophy.",
+        "whyCorrect": "Removal of phosphate from the body occurs through the kidneys, and none is lost through the gastrointestinal tract. When the kidneys fail, phosphate cannot be excreted, so serum phosphate rises. This hyperphosphatemia contributes to secondary bone fractures and bone pain, known as renal osteodystrophy.",
+        "whyWrongByChoice": {
+          "B": "Phosphate is not lost through the GI tract; the kidney is the sole route of elimination.",
+          "C": "About 86% of phosphate is stored in bone, not the extracellular fluid.",
+          "D": "Phosphate is readily filtered by the glomerulus; the problem in renal failure is failed excretion.",
+          "E": "Sweat and skin are not the major routes of phosphate elimination."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "phosphorus",
+        "renal osteodystrophy",
+        "kidney failure",
+        "hyperphosphatemia"
+      ],
+      "topicId": "basic-nutritional-requirements-select-minerals",
+      "topicName": "Basic Nutritional Requirements for Metabolism: Select Minerals"
+    },
+    {
+      "id": "bo31-012",
+      "stem": "A clinician wants to assess the fraction of circulating calcium that is metabolically active and can be measured directly in the serum. Which of the following forms of calcium should be measured?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Ionized (free) calcium"
+        },
+        {
+          "label": "B",
+          "text": "Albumin-bound calcium"
+        },
+        {
+          "label": "C",
+          "text": "Phosphate-complexed calcium"
+        },
+        {
+          "label": "D",
+          "text": "Bicarbonate-complexed calcium"
+        },
+        {
+          "label": "E",
+          "text": "Calcium stored as hydroxyapatite in bone"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The ionized (free) fraction is the metabolically active calcium and can be measured directly.",
+        "whyCorrect": "Circulating calcium exists as protein-bound (about half, bound to albumin), ionized free cations (about half), and a small complexed fraction (5-7%). The ionized free calcium is the fraction most relevant for medicine because it is metabolically active, and it can be measured directly.",
+        "whyWrongByChoice": {
+          "B": "Albumin-bound calcium is not directly available for metabolic action or renal filtration.",
+          "C": "Phosphate-complexed calcium is a small, filterable fraction and not the active pool being assessed.",
+          "D": "Bicarbonate-complexed calcium is likewise a minor complexed fraction, not the active free calcium.",
+          "E": "Hydroxyapatite in bone is the storage pool (99% of body calcium), not circulating active calcium."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "calcium",
+        "ionized calcium",
+        "albumin",
+        "serum"
+      ],
+      "topicId": "basic-nutritional-requirements-select-minerals",
+      "topicName": "Basic Nutritional Requirements for Metabolism: Select Minerals"
+    }
+  ]
+}

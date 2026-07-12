@@ -1,0 +1,419 @@
+{
+  "categories": [
+    {
+      "id": "metabolism-bioenergetics",
+      "name": "Metabolism & Bioenergetics",
+      "topics": [
+        {
+          "id": "metabolic-overview-i-general-reactions",
+          "name": "Metabolic Overview I: General Reactions",
+          "sourceFile": "BOOM Brick 1",
+          "questionCount": 12
+        },
+        {
+          "id": "metabolic-overview-i-general-reactions-2-of-2",
+          "name": "Metabolic Overview I: General Reactions (2 of 2)",
+          "sourceFile": "BOOM Brick 2",
+          "questionCount": 12
+        },
+        {
+          "id": "metabolic-overview-ii-oxphos",
+          "name": "Metabolic Overview II: OXPHOS",
+          "sourceFile": "BOOM Brick 3",
+          "questionCount": 12
+        },
+        {
+          "id": "oxphos-uncouplers-and-inhibitors",
+          "name": "Metabolic Overview II: OXPHOS Uncouplers and Inhibitors",
+          "sourceFile": "BOOM Brick 4",
+          "questionCount": 12
+        },
+        {
+          "id": "metabolic-overview-iii-o2-delivery-1-of-2",
+          "name": "Metabolic Overview III: O2 Delivery (1 of 2)",
+          "sourceFile": "BOOM Brick 5",
+          "questionCount": 12
+        },
+        {
+          "id": "anemia-mcv-classification-b-vitamins",
+          "name": "BOOM: Metabolic Overview III - O2 Delivery (2 of 2): Anemia, MCV Classification, and the B Vitamins",
+          "sourceFile": "BOOM Brick 6",
+          "questionCount": 12
+        }
+      ]
+    },
+    {
+      "id": "molecular-biology-proteins",
+      "name": "Molecular Biology & Proteins",
+      "topics": [
+        {
+          "id": "nitrogenous-base-metabolism",
+          "name": "Nitrogenous Base Metabolism",
+          "sourceFile": "BOOM Brick 7",
+          "questionCount": 12
+        },
+        {
+          "id": "dna-damage-and-dna-repair-mechanism",
+          "name": "DNA Damage and DNA Repair Mechanism",
+          "sourceFile": "BOOM Brick 8",
+          "questionCount": 12
+        },
+        {
+          "id": "dna-structure",
+          "name": "DNA Structure",
+          "sourceFile": "BOOM Brick 9",
+          "questionCount": 12
+        },
+        {
+          "id": "dna-replication",
+          "name": "DNA Replication",
+          "sourceFile": "BOOM Brick 10",
+          "questionCount": 12
+        },
+        {
+          "id": "the-central-dogma-dna-to-rna-to-proteins",
+          "name": "The Central Dogma: DNA to RNA to Proteins",
+          "sourceFile": "BOOM Brick 11",
+          "questionCount": 12
+        },
+        {
+          "id": "dna-point-mutations",
+          "name": "DNA Point Mutations",
+          "sourceFile": "BOOM Brick 12",
+          "questionCount": 12
+        },
+        {
+          "id": "proteins-enzymatic-machines-protein-based-disorders-i",
+          "name": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I",
+          "sourceFile": "BOOM Brick 13",
+          "questionCount": 12
+        },
+        {
+          "id": "proteins-enzymatic-machines-protein-based-disorders-i-2",
+          "name": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I (2 of 2)",
+          "sourceFile": "BOOM Brick 14",
+          "questionCount": 12
+        },
+        {
+          "id": "proteins-enzymatic-machines-and-protein-based-disorders-ii",
+          "name": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II",
+          "sourceFile": "BOOM Brick 15",
+          "questionCount": 12
+        },
+        {
+          "id": "proteins-enzymatic-machines-protein-based-disorders-ii",
+          "name": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II",
+          "sourceFile": "BOOM Brick 16",
+          "questionCount": 12
+        },
+        {
+          "id": "biotechniques-protein-detection",
+          "name": "Biotechniques: Protein Detection",
+          "sourceFile": "BOOM Brick 17",
+          "questionCount": 12
+        }
+      ]
+    },
+    {
+      "id": "carb-lipid-metabolism",
+      "name": "Carbohydrate & Lipid Metabolism",
+      "topics": [
+        {
+          "id": "carbohydrates-and-carbohydrate-metabolism-overview-i",
+          "name": "Carbohydrates and Carbohydrate Metabolism Overview I",
+          "sourceFile": "BOOM Brick 18",
+          "questionCount": 12
+        },
+        {
+          "id": "glycogen-lactose-intolerance-galactosemia",
+          "name": "Carbohydrates and Carbohydrate Metabolism Overview I: Glycogen, Lactose Intolerance, and Galactosemia",
+          "sourceFile": "BOOM Brick 19",
+          "questionCount": 12
+        },
+        {
+          "id": "carbohydrate-metabolism-overview-ii",
+          "name": "Carbohydrates and Carbohydrate Metabolism Overview II",
+          "sourceFile": "BOOM Brick 20",
+          "questionCount": 12
+        },
+        {
+          "id": "carbohydrate-metabolism-fructose-polyol-disorders",
+          "name": "Carbohydrates and Carbohydrate Metabolism Overview II: Fructose, HFCS, the Polyol Pathway, and Fructose Disorders",
+          "sourceFile": "BOOM Brick 21",
+          "questionCount": 12
+        },
+        {
+          "id": "lipids-and-lipid-metabolism-introduction",
+          "name": "Lipids and Lipid Metabolism Introduction",
+          "sourceFile": "BOOM Brick 22",
+          "questionCount": 12
+        },
+        {
+          "id": "cholesterol-synthesis-and-ketone-bodies",
+          "name": "Lipids and Lipid Metabolism: Cholesterol Synthesis and Ketone Bodies",
+          "sourceFile": "BOOM Brick 23",
+          "questionCount": 12
+        },
+        {
+          "id": "boom-lipids-and-lipid-metabolism-introduction-3-of-3",
+          "name": "BOOM: Lipids and Lipid Metabolism Introduction (3 of 3)",
+          "sourceFile": "BOOM Brick 24",
+          "questionCount": 12
+        }
+      ]
+    },
+    {
+      "id": "cell-signaling-nutrition",
+      "name": "Cell Signaling & Nutrition",
+      "topics": [
+        {
+          "id": "overview-of-cell-signaling",
+          "name": "Overview of Cell Signaling",
+          "sourceFile": "BOOM Brick 25",
+          "questionCount": 12
+        },
+        {
+          "id": "overview-of-cell-signaling-2",
+          "name": "Overview of Cell Signaling (2 of 2)",
+          "sourceFile": "BOOM Brick 26",
+          "questionCount": 12
+        },
+        {
+          "id": "fed-and-fasting-metabolic-state",
+          "name": "Cell Signaling in Context: Fed and Fasting Metabolic State",
+          "sourceFile": "BOOM Brick 27",
+          "questionCount": 12
+        },
+        {
+          "id": "cell-signaling-fed-and-fasting-metabolic-state-2",
+          "name": "Cell Signaling in Context: Fed and Fasting Metabolic State (2 of 2)",
+          "sourceFile": "BOOM Brick 28",
+          "questionCount": 12
+        },
+        {
+          "id": "basic-nutritional-requirements-for-metabolism",
+          "name": "Basic Nutritional Requirements for Metabolism (1 of 3)",
+          "sourceFile": "BOOM Brick 29",
+          "questionCount": 12
+        },
+        {
+          "id": "fat-soluble-vitamins-a-d-e-k",
+          "name": "Fat-Soluble Vitamins (A, D, E, K)",
+          "sourceFile": "BOOM Brick 30",
+          "questionCount": 12
+        },
+        {
+          "id": "basic-nutritional-requirements-select-minerals",
+          "name": "Basic Nutritional Requirements for Metabolism: Select Minerals",
+          "sourceFile": "BOOM Brick 31",
+          "questionCount": 12
+        }
+      ]
+    },
+    {
+      "id": "amino-acid-metabolic-disorders",
+      "name": "Amino Acid Metabolism & Metabolic Disorders",
+      "topics": [
+        {
+          "id": "amino-acid-metabolism-i-nitrogen-balance-and-urea-cycle",
+          "name": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle",
+          "sourceFile": "BOOM Brick 32",
+          "questionCount": 12
+        },
+        {
+          "id": "nitrogen-balance-and-urea-cycle",
+          "name": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle",
+          "sourceFile": "BOOM Brick 33",
+          "questionCount": 12
+        },
+        {
+          "id": "inborn-errors-of-amino-acid-metabolism",
+          "name": "Inborn Errors of Amino Acid Metabolism",
+          "sourceFile": "BOOM Brick 34",
+          "questionCount": 12
+        },
+        {
+          "id": "porphyrins-and-iron-homeostasis",
+          "name": "Porphyrins and Iron Homeostasis (1 of 2)",
+          "sourceFile": "BOOM Brick 35",
+          "questionCount": 12
+        },
+        {
+          "id": "porphyrins-and-iron-homeostasis-2",
+          "name": "Porphyrins and Iron Homeostasis (2 of 2)",
+          "sourceFile": "BOOM Brick 36",
+          "questionCount": 12
+        },
+        {
+          "id": "inborn-errors-of-carbohydrate-metabolism",
+          "name": "Inborn Errors of Carbohydrate Metabolism",
+          "sourceFile": "BOOM Brick 37",
+          "questionCount": 12
+        },
+        {
+          "id": "dyslipidemias-lipid-storage-disorders-and-defects-in-lipid-metabolism",
+          "name": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism",
+          "sourceFile": "BOOM Brick 38",
+          "questionCount": 12
+        },
+        {
+          "id": "lysosomal-storage-and-peroxisomal-disorders",
+          "name": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism (2 of 2)",
+          "sourceFile": "BOOM Brick 39",
+          "questionCount": 12
+        }
+      ]
+    },
+    {
+      "id": "cytogenetics-chromosomal",
+      "name": "Cytogenetics & Chromosomal Disorders",
+      "topics": [
+        {
+          "id": "chromosomes",
+          "name": "Chromosomes",
+          "sourceFile": "BOOM Brick 40",
+          "questionCount": 12
+        },
+        {
+          "id": "variants-in-chromosome-number",
+          "name": "Numerical & Structural Chromosomal Alterations (1/3) - Variants in Chromosome Number",
+          "sourceFile": "BOOM Brick 41",
+          "questionCount": 12
+        },
+        {
+          "id": "sex-chromosome-aneuploidy",
+          "name": "Sex Chromosome Aneuploidy",
+          "sourceFile": "BOOM Brick 42",
+          "questionCount": 12
+        },
+        {
+          "id": "subchromosomal-deletion-syndromes",
+          "name": "Numerical and Structural Chromosomal Alterations (2/3) - Subchromosomal Deletion Syndromes",
+          "sourceFile": "BOOM Brick 43",
+          "questionCount": 12
+        },
+        {
+          "id": "mosaicism",
+          "name": "Mosaicism",
+          "sourceFile": "BOOM Brick 44",
+          "questionCount": 12
+        },
+        {
+          "id": "molecular-biology-techniques-cytogenetics",
+          "name": "Molecular Biology Techniques (1 of 3) - Cytogenetics",
+          "sourceFile": "BOOM Brick 45",
+          "questionCount": 12
+        }
+      ]
+    },
+    {
+      "id": "inheritance-genetic-disorders",
+      "name": "Inheritance & Genetic Disorders",
+      "topics": [
+        {
+          "id": "pedigrees-and-patterns-of-monogenic-inheritance",
+          "name": "Pedigrees and Patterns of Monogenic Inheritance",
+          "sourceFile": "BOOM Brick 46",
+          "questionCount": 12
+        },
+        {
+          "id": "genotype-phenotype-correlation",
+          "name": "Genotype-Phenotype Correlation",
+          "sourceFile": "BOOM Brick 47",
+          "questionCount": 12
+        },
+        {
+          "id": "molecular-biology-techniques-dna-analysis",
+          "name": "Molecular Biology Techniques (2 of 3): DNA Analysis",
+          "sourceFile": "BOOM Brick 48",
+          "questionCount": 12
+        },
+        {
+          "id": "repeat-expansion-disorders",
+          "name": "Repeat Expansion Disorders",
+          "sourceFile": "BOOM Brick 49",
+          "questionCount": 12
+        },
+        {
+          "id": "mitochondrial-diseases",
+          "name": "Mitochondrial Diseases",
+          "sourceFile": "BOOM Brick 50",
+          "questionCount": 12
+        },
+        {
+          "id": "genomic-imprinting-disorders",
+          "name": "Genomic Imprinting Disorders",
+          "sourceFile": "BOOM Brick 51",
+          "questionCount": 12
+        },
+        {
+          "id": "multifactorial-disorders",
+          "name": "Multifactorial Disorders",
+          "sourceFile": "BOOM Brick 52",
+          "questionCount": 12
+        },
+        {
+          "id": "population-genetics",
+          "name": "Population Genetics",
+          "sourceFile": "BOOM Brick 53",
+          "questionCount": 12
+        }
+      ]
+    },
+    {
+      "id": "genomic-techniques-clinical",
+      "name": "Genomic Techniques & Clinical Genomics",
+      "topics": [
+        {
+          "id": "molecular-biology-techniques-cytogenetics-b54",
+          "name": "Molecular Biology Techniques (1 of 3) - Cytogenetics",
+          "sourceFile": "BOOM Brick 54",
+          "questionCount": 12
+        },
+        {
+          "id": "molecular-biology-techniques-dna-analysis-b55",
+          "name": "Molecular Biology Techniques (2 of 3), DNA analysis",
+          "sourceFile": "BOOM Brick 55",
+          "questionCount": 12
+        },
+        {
+          "id": "molecular-biology-techniques-rna-analysis",
+          "name": "Molecular Biology Techniques (3 of 3), RNA analysis",
+          "sourceFile": "BOOM Brick 56",
+          "questionCount": 12
+        },
+        {
+          "id": "prenatal-genetic-testing-neonatal-screening",
+          "name": "Prenatal Genetic Testing & Neonatal Screening",
+          "sourceFile": "BOOM Brick 57",
+          "questionCount": 12
+        },
+        {
+          "id": "animal-models-in-novel-therapeutics",
+          "name": "From Bench to Bedside: The Role of Animal Models in Novel Therapeutics",
+          "sourceFile": "BOOM Brick 58",
+          "questionCount": 12
+        },
+        {
+          "id": "multifactorial-disorders-b59",
+          "name": "Multifactorial Disorders",
+          "sourceFile": "BOOM Brick 59",
+          "questionCount": 12
+        },
+        {
+          "id": "population-genetics-b60",
+          "name": "Population Genetics",
+          "sourceFile": "BOOM Brick 60",
+          "questionCount": 12
+        },
+        {
+          "id": "pharmacogenetics-an-introduction",
+          "name": "Pharmacogenetics: An Introduction",
+          "sourceFile": "BOOM Brick 61",
+          "questionCount": 12
+        }
+      ]
+    }
+  ],
+  "totalQuestions": 732
+}

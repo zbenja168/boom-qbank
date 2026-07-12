@@ -1,0 +1,3348 @@
+{
+  "categoryId": "metabolism-bioenergetics",
+  "categoryName": "Metabolism & Bioenergetics",
+  "questions": [
+    {
+      "id": "bo01-001",
+      "stem": "A biochemist describes a hepatic process in which individual amino acids are joined by peptide bonds at the ribosome to synthesize a new protein, a process that consumes a large fraction of the cell's ATP. This process is best classified as which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A catabolic, energy-releasing process"
+        },
+        {
+          "label": "B",
+          "text": "An anabolic, energy-consuming process"
+        },
+        {
+          "label": "C",
+          "text": "An oxidative process that generates ATP"
+        },
+        {
+          "label": "D",
+          "text": "A process that is neither anabolic nor catabolic"
+        },
+        {
+          "label": "E",
+          "text": "Glycogenolysis"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Building larger molecules from smaller ones while consuming energy is anabolism.",
+        "whyCorrect": "Anabolism is the building up of smaller molecules into larger ones in an energy-dependent process. Synthesis of a protein from amino acids at the ribosome by forming peptide bonds is anabolic and is a predominant source of ATP expenditure within a cell.",
+        "whyWrongByChoice": {
+          "A": "Catabolism breaks complex molecules down into smaller ones and releases energy; protein synthesis does the opposite.",
+          "C": "The process consumes ATP rather than generating it, and it is a reductive/anabolic build-up, not an ATP-yielding oxidation.",
+          "D": "Protein synthesis is a clear example of anabolism, so it can be classified.",
+          "E": "Glycogenolysis is the catabolic breakdown of glycogen to glucose and is unrelated to protein synthesis."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "catabolism",
+        "anabolism",
+        "protein synthesis"
+      ],
+      "topicId": "metabolic-overview-i-general-reactions",
+      "topicName": "Metabolic Overview I: General Reactions"
+    },
+    {
+      "id": "bo01-002",
+      "stem": "The amino acid tyrosine is synthesized from the amino acid phenylalanine. Considering only the perspective of phenylalanine, which is consumed in this reaction, the transformation is best described as which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Anabolic, because a new amino acid is formed"
+        },
+        {
+          "label": "B",
+          "text": "Catabolic, because phenylalanine is consumed"
+        },
+        {
+          "label": "C",
+          "text": "Neither anabolic nor catabolic, because amino acids cannot be interconverted"
+        },
+        {
+          "label": "D",
+          "text": "Energy-independent, because no ATP is involved"
+        },
+        {
+          "label": "E",
+          "text": "Catabolic, because ATP is always produced when an amino acid reacts"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The same reaction can be catabolic or anabolic depending on which molecule's perspective is taken.",
+        "whyCorrect": "From the perspective of phenylalanine, the reaction is catabolic because phenylalanine is consumed. From the perspective of tyrosine the same reaction is anabolic because tyrosine is produced, illustrating why perspective matters when classifying pathways.",
+        "whyWrongByChoice": {
+          "A": "Forming tyrosine is anabolic only from tyrosine's perspective; the question specifies phenylalanine's perspective, from which it is catabolic.",
+          "C": "Phenylalanine is in fact converted to tyrosine, so the transformation can be classified.",
+          "D": "Whether ATP is involved is not the basis for calling it catabolic; consumption of phenylalanine defines it as catabolic here.",
+          "E": "ATP is not always produced when an amino acid reacts, and that is not the reason this is catabolic from phenylalanine's viewpoint."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "catabolism",
+        "anabolism",
+        "perspective"
+      ],
+      "topicId": "metabolic-overview-i-general-reactions",
+      "topicName": "Metabolic Overview I: General Reactions"
+    },
+    {
+      "id": "bo01-003",
+      "stem": "Using the metabolic definitions of oxidation and reduction, which of the following molecular changes constitutes an oxidation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Gain of a bond to hydrogen"
+        },
+        {
+          "label": "B",
+          "text": "Loss of a bond to oxygen"
+        },
+        {
+          "label": "C",
+          "text": "Gain of a bond to oxygen"
+        },
+        {
+          "label": "D",
+          "text": "Loss of a bond to nitrogen"
+        },
+        {
+          "label": "E",
+          "text": "Loss of a bond to sulfur"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Oxidation is the gain of bonds to oxygen, nitrogen, or sulfur and/or the loss of bonds to hydrogen.",
+        "whyCorrect": "Gaining a bond to oxygen fits the definition of oxidation, which is the gain of bonds to oxygen, nitrogen, or sulfur and/or the loss of bonds to hydrogen.",
+        "whyWrongByChoice": {
+          "A": "Gaining a bond to hydrogen is a reduction, the opposite of oxidation.",
+          "B": "Losing a bond to oxygen is a reduction.",
+          "D": "Losing a bond to nitrogen is a reduction.",
+          "E": "Losing a bond to sulfur is a reduction."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "oxidation",
+        "reduction",
+        "definitions"
+      ],
+      "topicId": "metabolic-overview-i-general-reactions",
+      "topicName": "Metabolic Overview I: General Reactions"
+    },
+    {
+      "id": "bo01-004",
+      "stem": "Alcohol dehydrogenase oxidizes retinol (vitamin A) to retinaldehyde. Because oxidation and reduction reactions occur in concert, what happens to the NAD+ coenzyme during this reaction?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It is oxidized to NADH"
+        },
+        {
+          "label": "B",
+          "text": "It is reduced to NADH"
+        },
+        {
+          "label": "C",
+          "text": "It is phosphorylated to NADP+"
+        },
+        {
+          "label": "D",
+          "text": "It is unchanged because electrons pass directly to oxygen"
+        },
+        {
+          "label": "E",
+          "text": "It is reduced to FADH2"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "When a biomolecule is oxidized, its partner coenzyme is concomitantly reduced.",
+        "whyCorrect": "A reactant can only be oxidized if another is reduced. As vitamin A is oxidized to retinaldehyde, the NAD+ coenzyme is concomitantly reduced to NADH, acting as the electron shuttle.",
+        "whyWrongByChoice": {
+          "A": "NAD+ to NADH is a reduction; NADH is the reduced form of the coenzyme.",
+          "C": "Phosphorylation of NAD+ to NADP+ is not part of this oxidoreductase reaction.",
+          "D": "The electrons are captured by NAD+ to form NADH, not passed directly to oxygen in this step.",
+          "E": "FADH2 is the reduced form of FAD, a different coenzyme not used by alcohol dehydrogenase here."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "oxidation",
+        "reduction",
+        "NAD",
+        "vitamin A"
+      ],
+      "topicId": "metabolic-overview-i-general-reactions",
+      "topicName": "Metabolic Overview I: General Reactions"
+    },
+    {
+      "id": "bo01-005",
+      "stem": "Vitamin A (retinol) is a largely inert nutrient that is sequentially oxidized by alcohol dehydrogenase and then aldehyde dehydrogenase. The final product, retinoic acid, is most important for which of the following functions?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Vision"
+        },
+        {
+          "label": "B",
+          "text": "Embryonic development, tissue maintenance, and immunity"
+        },
+        {
+          "label": "C",
+          "text": "Serving as the terminal electron acceptor in the ETC"
+        },
+        {
+          "label": "D",
+          "text": "Anaerobic ATP production during glycolysis"
+        },
+        {
+          "label": "E",
+          "text": "Maintaining blood glucose during prolonged fasting"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Oxidative biotransformation converts inert retinol into bioactive derivatives with distinct roles.",
+        "whyCorrect": "Retinoic acid, the fully oxidized carboxylic acid product, is critical for embryonic development, tissue maintenance, and immunity.",
+        "whyWrongByChoice": {
+          "A": "Vision is the function of the intermediate retinaldehyde, not retinoic acid.",
+          "C": "Oxygen, not retinoic acid, is the terminal electron acceptor in the electron transport chain.",
+          "D": "Retinoic acid is a signaling derivative and is not involved in anaerobic ATP production.",
+          "E": "Blood glucose during fasting is maintained by glycogenolysis and gluconeogenesis, not retinoic acid."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "vitamin A",
+        "retinoic acid",
+        "oxidation"
+      ],
+      "topicId": "metabolic-overview-i-general-reactions",
+      "topicName": "Metabolic Overview I: General Reactions"
+    },
+    {
+      "id": "bo01-006",
+      "stem": "A physiologist studying mitochondrial ATP synthesis wants to explain the fundamental biological requirement for molecular oxygen. Which statement best accounts for this need?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Oxygen is a reagent in every metabolic reaction"
+        },
+        {
+          "label": "B",
+          "text": "Oxygen is one of the products of any combustion reaction"
+        },
+        {
+          "label": "C",
+          "text": "Oxygen is required for the reduction of all vitamin-derived coenzymes"
+        },
+        {
+          "label": "D",
+          "text": "Oxygen is reduced to water in the terminal step of the electron transport chain"
+        },
+        {
+          "label": "E",
+          "text": "Oxygen directly phosphorylates ADP to form ATP"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Oxygen is essential as the terminal electron acceptor of the ETC.",
+        "whyCorrect": "Oxygen is predominantly consumed in the electron transport chain, where it serves as the terminal electron acceptor and is reduced to water. Without oxygen, electrons cannot pass along the chain, the proton gradient collapses, and ETC-driven ATP production ceases.",
+        "whyWrongByChoice": {
+          "A": "Glycolysis and other pathways proceed anaerobically, so oxygen is not a reagent in every metabolic reaction.",
+          "B": "Oxygen is a reagent (substrate) of combustion, not a product; the products are water and carbon dioxide.",
+          "C": "Vitamin-derived cofactors such as NADH can be reduced without oxygen present.",
+          "E": "ATP synthase phosphorylates ADP using the proton gradient; oxygen does not directly phosphorylate ADP."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "oxygen",
+        "electron transport chain",
+        "ATP"
+      ],
+      "topicId": "metabolic-overview-i-general-reactions",
+      "topicName": "Metabolic Overview I: General Reactions"
+    },
+    {
+      "id": "bo01-007",
+      "stem": "Oxidative catabolism of a single 16-carbon fatty acid generates substantially more ATP than catabolism of a 6-carbon glucose molecule. Which principle best explains this difference?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Fatty acids can be catabolized anaerobically whereas glucose cannot"
+        },
+        {
+          "label": "B",
+          "text": "A larger, more oxidizable carbon substrate produces more reduced coenzymes to drive the ETC"
+        },
+        {
+          "label": "C",
+          "text": "Fatty acid catabolism does not require oxygen"
+        },
+        {
+          "label": "D",
+          "text": "Glucose catabolism yields no ATP"
+        },
+        {
+          "label": "E",
+          "text": "Fatty acids are catabolized without producing carbon dioxide"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The more a carbon substrate can be oxidized, the more reduced coenzymes and ATP it yields.",
+        "whyCorrect": "The more a carbon substrate can be oxidized, the more reduced coenzymes are produced to drive ATP synthesis through the ETC. A fatty acid containing 10-20 carbons can be oxidized far more than a six-carbon glucose molecule, so it yields more ATP.",
+        "whyWrongByChoice": {
+          "A": "It is glucose (via glycolysis) that can be catabolized anaerobically; fatty acid oxidation requires oxygen.",
+          "C": "Fatty acid oxidation is an aerobic mitochondrial process that requires oxygen for the ETC.",
+          "D": "Glucose catabolism does yield ATP; it simply yields less than a long fatty acid.",
+          "E": "Carbons of fatty acids are oxidized to carbon dioxide, the most oxidized form of carbon in the body."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "fatty acid",
+        "glucose",
+        "ATP yield",
+        "oxidation"
+      ],
+      "topicId": "metabolic-overview-i-general-reactions",
+      "topicName": "Metabolic Overview I: General Reactions"
+    },
+    {
+      "id": "bo01-008",
+      "stem": "Among the major biomolecules, which class is oxidatively catabolized but, unlike the others, does not yield ATP?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Carbohydrate"
+        },
+        {
+          "label": "B",
+          "text": "Lipid"
+        },
+        {
+          "label": "C",
+          "text": "Amino acid"
+        },
+        {
+          "label": "D",
+          "text": "Nucleotide"
+        },
+        {
+          "label": "E",
+          "text": "Glycogen"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Nucleotide catabolism is the exception that does not generate ATP.",
+        "whyCorrect": "While nucleotides are oxidatively catabolized, this process is not linked to ATP production. This is the stated exception to the rule that oxidative catabolism of carbon substrates yields ATP.",
+        "whyWrongByChoice": {
+          "A": "Carbohydrates such as glucose are oxidatively catabolized to produce ATP.",
+          "B": "Lipids are catabolized through fatty acid oxidation to produce large amounts of ATP.",
+          "C": "Amino acids have enzymatic pathways that feed catabolism and produce ATP.",
+          "E": "Glycogen is a stored carbohydrate that is broken to glucose and ultimately yields ATP."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "nucleotide",
+        "ATP",
+        "catabolism"
+      ],
+      "topicId": "metabolic-overview-i-general-reactions",
+      "topicName": "Metabolic Overview I: General Reactions"
+    },
+    {
+      "id": "bo01-009",
+      "stem": "A 34-year-old woman with iron-deficiency anemia and a low hematocrit reports fatigue and shortness of breath on exertion. Which mechanism best explains her symptoms?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Excess oxygen delivery driving overproduction of ATP"
+        },
+        {
+          "label": "B",
+          "text": "Reduced oxygen delivery limiting ATP production in tissues"
+        },
+        {
+          "label": "C",
+          "text": "Insulin deficiency preventing cellular glucose uptake"
+        },
+        {
+          "label": "D",
+          "text": "Glucagon excess forcing continuous gluconeogenesis"
+        },
+        {
+          "label": "E",
+          "text": "Accumulation of NADH from anaerobic glycolysis in all tissues"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Anemia limits oxygen delivery, which limits the product of the combustion-like reaction: ATP.",
+        "whyCorrect": "In anemia, decreased red blood cell mass diminishes oxygen delivery capacity. Because oxygen is a required substrate for maximal ATP production, tissue ATP falls, producing fatigue, exhaustion, and dyspnea on exertion.",
+        "whyWrongByChoice": {
+          "A": "Anemia decreases, not increases, oxygen delivery, so ATP production is reduced rather than overproduced.",
+          "C": "Her symptoms stem from impaired oxygen delivery, not from insulin deficiency or defective glucose uptake.",
+          "D": "Glucagon-driven gluconeogenesis is not the mechanism of anemia-related fatigue.",
+          "E": "Her limitation is oxygen substrate availability, not a generalized buildup of NADH from anaerobic glycolysis."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "anemia",
+        "oxygen delivery",
+        "ATP",
+        "clinical correlation"
+      ],
+      "topicId": "metabolic-overview-i-general-reactions",
+      "topicName": "Metabolic Overview I: General Reactions"
+    },
+    {
+      "id": "bo01-010",
+      "stem": "A 58-year-old man with poorly controlled diabetes has a chronic, non-healing foot ulcer, and his physician recommends hyperbaric oxygen therapy (HBOT). What is the primary rationale for this treatment?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "HBOT directly lowers blood glucose levels"
+        },
+        {
+          "label": "B",
+          "text": "HBOT delivers about 100% oxygen to raise tissue oxygen and restore ATP for the energetically expensive healing process"
+        },
+        {
+          "label": "C",
+          "text": "HBOT reduces the patient's insulin requirement"
+        },
+        {
+          "label": "D",
+          "text": "HBOT supplies a carbon substrate that is oxidized for ATP"
+        },
+        {
+          "label": "E",
+          "text": "HBOT eliminates the tissue's need for the electron transport chain"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "HBOT overcomes poor peripheral oxygen delivery to restore ATP needed for wound healing.",
+        "whyCorrect": "Hyperglycemia damages vessels through glycation and impairs perfusion, lowering peripheral oxygen delivery and hindering ATP production. Because wound healing is energetically expensive, HBOT provides an enriched environment of about 100% oxygen (versus about 21% in the atmosphere) to restore ATP production and promote wound closure.",
+        "whyWrongByChoice": {
+          "A": "HBOT supplies oxygen; it does not directly lower blood glucose.",
+          "C": "HBOT does not act on insulin requirements; it corrects an oxygen delivery deficit.",
+          "D": "Oxygen is the terminal electron acceptor, not a carbon substrate that is oxidized for ATP.",
+          "E": "HBOT supplies the ETC's oxygen substrate; it does not remove the need for the ETC."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "HBOT",
+        "wound healing",
+        "diabetes",
+        "oxygen"
+      ],
+      "topicId": "metabolic-overview-i-general-reactions",
+      "topicName": "Metabolic Overview I: General Reactions"
+    },
+    {
+      "id": "bo01-011",
+      "stem": "Approximately three hours after a carbohydrate-rich meal, a healthy adult is in the absorptive state. Which hormone predominates, and which pathway is favored to store the excess glucose?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Glucagon; glycogenolysis"
+        },
+        {
+          "label": "B",
+          "text": "Insulin; glycogenesis in the liver and skeletal muscle"
+        },
+        {
+          "label": "C",
+          "text": "Glucagon; gluconeogenesis"
+        },
+        {
+          "label": "D",
+          "text": "Insulin; lipolysis"
+        },
+        {
+          "label": "E",
+          "text": "Glucagon; fatty acid oxidation"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "In the fed state, insulin drives anabolic storage of glucose as glycogen.",
+        "whyCorrect": "In the fed (postprandial, absorptive) state, insulin is abundant and anabolic pathways such as glycogenesis in the liver and skeletal muscle predominate to store carbons for later fasting states.",
+        "whyWrongByChoice": {
+          "A": "Glucagon and glycogenolysis dominate the fasting state, not the fed state.",
+          "C": "Gluconeogenesis is a glucagon-driven catabolic response of prolonged fasting.",
+          "D": "Insulin does predominate, but it promotes storage (glycogenesis/lipogenesis), not lipolysis.",
+          "E": "Fatty acid oxidation and glucagon characterize fasting, not the fed absorptive state."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "fed state",
+        "insulin",
+        "glycogenesis"
+      ],
+      "topicId": "metabolic-overview-i-general-reactions",
+      "topicName": "Metabolic Overview I: General Reactions"
+    },
+    {
+      "id": "bo01-012",
+      "stem": "A 12-year-old girl presents with unexplained weight loss and is diagnosed with new-onset type 1 diabetes caused by insulin insufficiency. Compared with an unaffected child, which metabolic function is most diminished in this patient?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Glucagon promoting catabolic processes"
+        },
+        {
+          "label": "B",
+          "text": "Insulin promoting anabolic processes"
+        },
+        {
+          "label": "C",
+          "text": "Insulin promoting catabolic processes"
+        },
+        {
+          "label": "D",
+          "text": "Glucagon promoting anabolic processes"
+        },
+        {
+          "label": "E",
+          "text": "Oxygen delivery to peripheral tissues"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Insulin is an anabolic hormone, so its deficiency diminishes anabolic storage and causes weight loss.",
+        "whyCorrect": "Insulin is an anabolic hormone that promotes storage of glucose into glycogen and can stimulate lipogenesis. In insulin insufficiency, the loss of anabolic signaling accounts for the unexplained weight loss, so insulin-driven anabolic processes are diminished.",
+        "whyWrongByChoice": {
+          "A": "Diminished glucagon-driven catabolism would not cause weight loss; increased catabolism, not decreased, promotes weight loss.",
+          "C": "Insulin is anabolic, not catabolic, so it does not promote catabolic processes.",
+          "D": "Glucagon promotes catabolism, not anabolism, so this pairing is incorrect.",
+          "E": "Oxygen delivery is not the primary metabolic deficit in insulin insufficiency."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "insulin",
+        "type 1 diabetes",
+        "anabolism",
+        "clinical correlation"
+      ],
+      "topicId": "metabolic-overview-i-general-reactions",
+      "topicName": "Metabolic Overview I: General Reactions"
+    },
+    {
+      "id": "bo02-001",
+      "stem": "A researcher maintains a cultured cell line under strictly anaerobic conditions. Despite the complete absence of oxygen, the cells continue to generate ATP. Which of the following processes is most likely responsible for this ATP production?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Oxidative phosphorylation"
+        },
+        {
+          "label": "B",
+          "text": "Electron transport chain activity"
+        },
+        {
+          "label": "C",
+          "text": "ATP synthase driven by a proton gradient"
+        },
+        {
+          "label": "D",
+          "text": "Substrate level phosphorylation"
+        },
+        {
+          "label": "E",
+          "text": "Complex IV proton pumping"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Substrate level phosphorylation generates ATP without oxygen by directly transferring a phosphoryl group onto ADP.",
+        "whyCorrect": "Substrate level phosphorylation produces ATP by direct transfer of a phosphoryl group from a donor compound onto ADP, usually via a kinase, and does not require oxygen. It occurs in select steps of glycolysis in the cytoplasm and in one TCA step, allowing ATP generation even under anaerobic conditions.",
+        "whyWrongByChoice": {
+          "A": "Oxidative phosphorylation is completely reliant on the presence of oxygen and cannot function anaerobically.",
+          "B": "The electron transport chain requires oxygen as the terminal electron acceptor and halts without it.",
+          "C": "ATP synthase depends on the proton gradient established by the oxygen-dependent ETC.",
+          "E": "Complex IV activity is part of the ETC and requires oxygen to proceed."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "OXPHOS",
+        "substrate level phosphorylation",
+        "ATP generation"
+      ],
+      "topicId": "metabolic-overview-i-general-reactions-2-of-2",
+      "topicName": "Metabolic Overview I: General Reactions (2 of 2)"
+    },
+    {
+      "id": "bo02-002",
+      "stem": "A 55-year-old man in septic shock has markedly reduced tissue perfusion, and his serum lactate is elevated. His cells are relying on glycolysis for ATP because oxidative phosphorylation is impaired. Which of the following best explains why lactate is accumulating in this setting?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Pyruvate dehydrogenase is converting excess pyruvate to acetyl-CoA"
+        },
+        {
+          "label": "B",
+          "text": "Lactate dehydrogenase regenerates NAD+ so glycolysis can continue"
+        },
+        {
+          "label": "C",
+          "text": "The electron transport chain is reoxidizing NADH more efficiently"
+        },
+        {
+          "label": "D",
+          "text": "Hepatic gluconeogenesis is consuming the accumulated lactate"
+        },
+        {
+          "label": "E",
+          "text": "Glycolytic flux has decreased below baseline"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "When the ETC cannot reoxidize NADH, LDH converts pyruvate to lactate to regenerate NAD+ and sustain glycolysis.",
+        "whyCorrect": "With limited oxygen, ATP production from OXPHOS diminishes and NADH can no longer pass electrons to the ETC. Because glycolysis depends on NAD+, the cell must regenerate NAD+ from NADH apart from the ETC. Lactate dehydrogenase reduces pyruvate to lactate while oxidizing NADH to NAD+, allowing glycolytic substrate level phosphorylation to continue.",
+        "whyWrongByChoice": {
+          "A": "Under hypoxia pyruvate is diverted to lactate, not efficiently converted to acetyl-CoA for the TCA cycle.",
+          "C": "The oxygen-deprived ETC cannot reoxidize NADH, which is precisely why lactate forms.",
+          "D": "Impaired perfusion and a low NAD+/NADH state favor lactate production, not its consumption by gluconeogenesis.",
+          "E": "Glycolytic flux increases to compensate for absent OXPHOS; it does not fall."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "lactate",
+        "hypoxia",
+        "lactate dehydrogenase"
+      ],
+      "topicId": "metabolic-overview-i-general-reactions-2-of-2",
+      "topicName": "Metabolic Overview I: General Reactions (2 of 2)"
+    },
+    {
+      "id": "bo02-003",
+      "stem": "A physiology student is asked why mature red blood cells depend entirely on lactate production for their energy supply. Which of the following features of the mature erythrocyte best accounts for this dependence?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "They lack mitochondria and therefore rely on glycolysis for ATP"
+        },
+        {
+          "label": "B",
+          "text": "They contain abundant mitochondria optimized for OXPHOS"
+        },
+        {
+          "label": "C",
+          "text": "They preferentially use fatty acid beta-oxidation"
+        },
+        {
+          "label": "D",
+          "text": "They generate ATP through gluconeogenesis"
+        },
+        {
+          "label": "E",
+          "text": "They rely on the electron transport chain for most ATP"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Mature erythrocytes lack mitochondria, so their only route to ATP is glycolysis coupled to lactate production.",
+        "whyCorrect": "Mature red blood cells normally lack all membrane-bound organelles, including mitochondria. Without mitochondria, their sole option for energy is substrate level phosphorylation during glycolysis, and ATP production relies on lactate formation. These cells are correspondingly enriched with lactate dehydrogenase.",
+        "whyWrongByChoice": {
+          "B": "Mature erythrocytes lack mitochondria entirely, so they cannot perform OXPHOS.",
+          "C": "Beta-oxidation occurs in mitochondria, which mature red blood cells do not possess.",
+          "D": "Gluconeogenesis is an energy-consuming pathway and is not how erythrocytes generate ATP.",
+          "E": "The electron transport chain resides in mitochondria, which these cells lack."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "erythrocyte",
+        "glycolysis",
+        "lactate"
+      ],
+      "topicId": "metabolic-overview-i-general-reactions-2-of-2",
+      "topicName": "Metabolic Overview I: General Reactions (2 of 2)"
+    },
+    {
+      "id": "bo02-004",
+      "stem": "A 49-year-old man with a long history of heavy alcohol use is found confused and is admitted to the emergency department. Laboratory studies reveal a serum glucose of 50 mg/dL. Ethanol oxidation in his liver has raised the NADH:NAD+ ratio. An elevated ratio of which pathway substrate is most directly responsible for his hypoglycemia?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "NADPH:NADP"
+        },
+        {
+          "label": "B",
+          "text": "NADH:NAD+ inhibiting gluconeogenesis"
+        },
+        {
+          "label": "C",
+          "text": "Pyruvate:lactate"
+        },
+        {
+          "label": "D",
+          "text": "ADH:ALDH"
+        },
+        {
+          "label": "E",
+          "text": "Acetate:acetyl-CoA"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Ethanol oxidation via ADH and ALDH raises NADH, and the resulting low NAD+/NADH ratio inhibits gluconeogenesis, causing fasting hypoglycemia.",
+        "whyCorrect": "Oxidation of ethanol through ADH and ALDH produces an accumulation of NADH in the cytosol and mitochondria. This low NAD+/NADH ratio inhibits gluconeogenesis, so de novo glucose synthesis fails. In individuals who drink routinely and eat poorly, this produces fasting hypoglycemia.",
+        "whyWrongByChoice": {
+          "A": "Ethanol metabolism does not significantly alter the NADPH/NADP ratio; this coenzyme is not the driver of hypoglycemia here.",
+          "C": "Alcohol increases NADH and shifts equilibrium toward lactate, so the pyruvate:lactate ratio is low, not elevated.",
+          "D": "Although alcohol can induce oxidative enzymes, a change in this ratio does not explain the hypoglycemia.",
+          "E": "This ratio is not the mechanism linking ethanol metabolism to impaired glucose production."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "ethanol",
+        "gluconeogenesis",
+        "hypoglycemia",
+        "NADH"
+      ],
+      "topicId": "metabolic-overview-i-general-reactions-2-of-2",
+      "topicName": "Metabolic Overview I: General Reactions (2 of 2)"
+    },
+    {
+      "id": "bo02-005",
+      "stem": "A 40-year-old man presents with blurred vision progressing toward blindness, headache, and severe nausea after consuming improperly distilled homemade liquor. Laboratory studies show a high anion gap metabolic acidosis. Which metabolite is most directly responsible for his toxicity?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acetaldehyde"
+        },
+        {
+          "label": "B",
+          "text": "Formic acid"
+        },
+        {
+          "label": "C",
+          "text": "Oxalic acid"
+        },
+        {
+          "label": "D",
+          "text": "Acetate"
+        },
+        {
+          "label": "E",
+          "text": "Glycolaldehyde"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Methanol is converted by ADH to formaldehyde and by ALDH to formic acid, which inhibits the ETC at complex IV and damages the optic nerve.",
+        "whyCorrect": "Methanol is metabolized by ADH into formaldehyde and then by ALDH into formic acid. Formic acid blunts ATP formation in the mitochondria by inhibiting the electron transport chain at complex IV. Because the optic nerve and eye are high energy demand tissues, they are especially vulnerable, producing the characteristic visual disturbance and blindness.",
+        "whyWrongByChoice": {
+          "A": "Acetaldehyde is the toxic first metabolite of ethanol and accounts for hangover symptoms, not methanol-induced blindness.",
+          "C": "Oxalic acid is the toxic end product of ethylene glycol and causes renal failure, not visual loss.",
+          "D": "Acetate is the non-toxic final product of ethanol oxidation.",
+          "E": "Glycolaldehyde is an intermediate of ethylene glycol metabolism, not methanol."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "methanol",
+        "formic acid",
+        "anion gap",
+        "toxic alcohol"
+      ],
+      "topicId": "metabolic-overview-i-general-reactions-2-of-2",
+      "topicName": "Metabolic Overview I: General Reactions (2 of 2)"
+    },
+    {
+      "id": "bo02-006",
+      "stem": "A 32-year-old man is brought to the emergency department after intentionally ingesting antifreeze. He develops flank pain and acute renal failure, and urinalysis reveals numerous envelope-shaped crystals. Which metabolite of the ingested compound is most directly responsible for his renal injury?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Oxalic acid"
+        },
+        {
+          "label": "B",
+          "text": "Formic acid"
+        },
+        {
+          "label": "C",
+          "text": "Acetaldehyde"
+        },
+        {
+          "label": "D",
+          "text": "Formaldehyde"
+        },
+        {
+          "label": "E",
+          "text": "Acetate"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Ethylene glycol is oxidized to oxalic acid, which forms calcium oxalate crystals that precipitate in the proximal renal tubule and cause renal failure.",
+        "whyCorrect": "Ethylene glycol, the active chemical in antifreeze, is metabolized by ADH to glycolaldehyde and by ALDH to glyoxylic acid, which is converted to oxalic acid. Oxalic acid forms calcium oxalate crystals that precipitate in the proximal renal tubule, producing the hallmark folded-envelope shaped crystals and renal failure.",
+        "whyWrongByChoice": {
+          "B": "Formic acid is the toxic metabolite of methanol and causes blindness by inhibiting the ETC, not envelope-shaped renal crystals.",
+          "C": "Acetaldehyde is the intermediate of ethanol metabolism and is responsible for hangover symptoms.",
+          "D": "Formaldehyde is the intermediate metabolite of methanol, not ethylene glycol.",
+          "E": "Acetate is the harmless final product of ethanol oxidation."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "ethylene glycol",
+        "oxalic acid",
+        "calcium oxalate",
+        "renal failure"
+      ],
+      "topicId": "metabolic-overview-i-general-reactions-2-of-2",
+      "topicName": "Metabolic Overview I: General Reactions (2 of 2)"
+    },
+    {
+      "id": "bo02-007",
+      "stem": "A 3-year-old refugee child is brought to a clinic with abdominal distension, a palpable enlarged liver, and peripheral pitting edema. His caloric intake had been adequate but consisted almost entirely of protein-poor grain products. Which mechanism best explains the child's edema?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Decreased hepatic albumin production lowering plasma oncotic pressure"
+        },
+        {
+          "label": "B",
+          "text": "Excessive oxidative catabolism of muscle and subcutaneous fat"
+        },
+        {
+          "label": "C",
+          "text": "Increased plasma oncotic pressure drawing fluid into vessels"
+        },
+        {
+          "label": "D",
+          "text": "Elevated blood glucose causing osmotic fluid shifts"
+        },
+        {
+          "label": "E",
+          "text": "Deposition of calcium oxalate crystals in the renal tubules"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Kwashiorkor results from protein deficiency; decreased hepatic albumin lowers oncotic pressure, driving fluid from the intravascular into the extravascular space.",
+        "whyCorrect": "This child has kwashiorkor, a severe protein deficiency with adequate overall calories. Decreased protein intake decreases hepatic albumin production, which decreases oncotic pressure. The fall in oncotic pressure causes water to move from the intravascular into the extravascular space, producing edema, while decreased lipoprotein production causes the associated hepatomegaly.",
+        "whyWrongByChoice": {
+          "B": "Oxidative catabolism of muscle and fat characterizes marasmus, which presents with wasting rather than edema.",
+          "C": "Oncotic pressure is decreased, not increased; a rise would retain fluid in vessels and prevent edema.",
+          "D": "Kwashiorkor edema is driven by low albumin, not by hyperglycemia-related osmotic shifts.",
+          "E": "Calcium oxalate deposition is a feature of ethylene glycol poisoning, unrelated to protein malnutrition."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "kwashiorkor",
+        "albumin",
+        "oncotic pressure",
+        "malnutrition"
+      ],
+      "topicId": "metabolic-overview-i-general-reactions-2-of-2",
+      "topicName": "Metabolic Overview I: General Reactions (2 of 2)"
+    },
+    {
+      "id": "bo02-008",
+      "stem": "A 2-year-old child in a drought-stricken region has had almost no access to food of any kind for weeks. On examination he weighs far too little for his height, has broomstick extremities with loss of subcutaneous fat, and no edema. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Marasmus"
+        },
+        {
+          "label": "B",
+          "text": "Kwashiorkor"
+        },
+        {
+          "label": "C",
+          "text": "Marasmic kwashiorkor"
+        },
+        {
+          "label": "D",
+          "text": "Chronic malnutrition with stunting"
+        },
+        {
+          "label": "E",
+          "text": "Refeeding syndrome"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Marasmus is a generalized caloric deficiency producing wasting, broomstick extremities, and loss of subcutaneous fat without edema.",
+        "whyCorrect": "Marasmus is the most common form of acute malnutrition and reflects insufficient calories across all dietary components (fat, carbohydrate, and protein). Muscle and fat are oxidatively catabolized for energy, producing broomstick extremities and loss of subcutaneous fat so the child appears as only skin and bones. The absence of edema distinguishes it from kwashiorkor.",
+        "whyWrongByChoice": {
+          "B": "Kwashiorkor is a specific protein deficiency with adequate calories and is characterized by edema, which this child lacks.",
+          "C": "Marasmic kwashiorkor combines features of both states, including edema, and is the least common form.",
+          "D": "Chronic malnutrition presents with stunting and decreased head circumference rather than acute wasting from sudden food loss.",
+          "E": "Refeeding syndrome is a complication of reintroducing nutrients, not a presenting malnutrition state."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "marasmus",
+        "acute malnutrition",
+        "wasting"
+      ],
+      "topicId": "metabolic-overview-i-general-reactions-2-of-2",
+      "topicName": "Metabolic Overview I: General Reactions (2 of 2)"
+    },
+    {
+      "id": "bo02-009",
+      "stem": "A 45-year-old woman presents with an altered mental status and a suspected toxic ingestion. Her basic metabolic panel shows Na+ 140 mEq/L, K+ 4.2 mEq/L, Cl- 104 mEq/L, and HCO3- 8 mEq/L. Using the standard formula that excludes potassium, what is her calculated anion gap?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "8 mEq/L"
+        },
+        {
+          "label": "B",
+          "text": "12 mEq/L"
+        },
+        {
+          "label": "C",
+          "text": "20 mEq/L"
+        },
+        {
+          "label": "D",
+          "text": "28 mEq/L"
+        },
+        {
+          "label": "E",
+          "text": "32 mEq/L"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Anion gap equals Na+ minus (Cl- plus HCO3-); here 140 - (104 + 8) = 28 mEq/L, a high anion gap.",
+        "whyCorrect": "The anion gap is calculated as AG = Na+ - (Cl- + HCO3-). Substituting the values gives 140 - (104 + 8) = 28 mEq/L. Because normal ranges are roughly 8-16 mEq/L, this elevated value signifies a high anion gap metabolic acidosis consistent with toxic alcohol ingestion.",
+        "whyWrongByChoice": {
+          "A": "8 mEq/L would only result from subtracting incorrectly; it does not match the given values.",
+          "B": "12 mEq/L would fall within the normal range and does not reflect this patient's low bicarbonate.",
+          "C": "20 mEq/L is arithmetically incorrect for these values.",
+          "E": "32 mEq/L overestimates the gap; the correct subtraction yields 28."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "anion gap",
+        "metabolic acidosis",
+        "calculation"
+      ],
+      "topicId": "metabolic-overview-i-general-reactions-2-of-2",
+      "topicName": "Metabolic Overview I: General Reactions (2 of 2)"
+    },
+    {
+      "id": "bo02-010",
+      "stem": "A 6-month-old infant presents with hepatomegaly, a doll-like face, profound fasting hypoglycemia, and lactic acidosis. Studies confirm that glucose 6-phosphate produced from glycogenolysis cannot be converted to free glucose for release into the blood. Deficiency of which enzyme best explains these findings?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Glucose 6-phosphatase"
+        },
+        {
+          "label": "B",
+          "text": "Lactate dehydrogenase"
+        },
+        {
+          "label": "C",
+          "text": "Pyruvate dehydrogenase"
+        },
+        {
+          "label": "D",
+          "text": "Alcohol dehydrogenase"
+        },
+        {
+          "label": "E",
+          "text": "Aldehyde dehydrogenase"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Von Gierke's disease is a glucose 6-phosphatase deficiency causing fasting hypoglycemia and lactic acidosis from excess pyruvate.",
+        "whyCorrect": "Von Gierke's disease (Type I glycogen storage disease) is a deficiency of glucose 6-phosphatase in the liver. Glucose 6-phosphate from glycogenolysis cannot be transformed into free glucose for systemic release, causing fasting hypoglycemia. The buildup of glucose 6-phosphate yields excess pyruvate, which is shunted into lactate and produces lactic acidosis.",
+        "whyWrongByChoice": {
+          "B": "Lactate dehydrogenase deficiency would impair lactate formation, not cause its accumulation with hypoglycemia.",
+          "C": "Pyruvate dehydrogenase deficiency causes lactic acidosis but does not block conversion of glucose 6-phosphate to glucose.",
+          "D": "Alcohol dehydrogenase acts on ethanol and other alcohols, not on glucose metabolism.",
+          "E": "Aldehyde dehydrogenase oxidizes aldehydes in alcohol metabolism and is unrelated to glycogen storage."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "von Gierke disease",
+        "glucose 6-phosphatase",
+        "lactic acidosis",
+        "hypoglycemia"
+      ],
+      "topicId": "metabolic-overview-i-general-reactions-2-of-2",
+      "topicName": "Metabolic Overview I: General Reactions (2 of 2)"
+    },
+    {
+      "id": "bo02-011",
+      "stem": "A neonate presents with lethargy and a persistent lactic acidosis. Laboratory studies show elevated levels of both pyruvate and lactate. The defect prevents pyruvate, the final product of glycolysis, from entering the TCA cycle. Which of the following best explains this child's lactic acidosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Pyruvate cannot be converted to acetyl-CoA and is shunted to lactate"
+        },
+        {
+          "label": "B",
+          "text": "Glucose 6-phosphatase deficiency blocks glucose release from the liver"
+        },
+        {
+          "label": "C",
+          "text": "Absence of mitochondria forces reliance on glycolysis"
+        },
+        {
+          "label": "D",
+          "text": "Increased NADH from ethanol oxidation favors lactate"
+        },
+        {
+          "label": "E",
+          "text": "Formic acid inhibits the electron transport chain at complex IV"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Pyruvate dehydrogenase deficiency prevents conversion of pyruvate to acetyl-CoA, so accumulating pyruvate is driven into lactate.",
+        "whyCorrect": "Pyruvate dehydrogenase deficiency prevents the conversion of pyruvate, the final product of glycolysis, into acetyl-CoA, the first reactant of the TCA cycle. The lack of acetyl-CoA production causes an energy decrement, and because pyruvate accumulates through underutilization, equilibrium shifts to produce lactate, yielding lactic acidosis.",
+        "whyWrongByChoice": {
+          "B": "Glucose 6-phosphatase deficiency defines von Gierke's disease and acts upstream on glucose 6-phosphate, not on pyruvate entry into the TCA cycle.",
+          "C": "The vignette describes an enzyme block, not an absence of mitochondria; erythrocytes exemplify the latter.",
+          "D": "There is no ethanol exposure in a neonate; the lactic acidosis stems from a pyruvate metabolism defect.",
+          "E": "Formic acid inhibition of the ETC is a feature of methanol poisoning, not an enzyme deficiency."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "pyruvate dehydrogenase",
+        "lactic acidosis",
+        "acetyl-CoA"
+      ],
+      "topicId": "metabolic-overview-i-general-reactions-2-of-2",
+      "topicName": "Metabolic Overview I: General Reactions (2 of 2)"
+    },
+    {
+      "id": "bo02-012",
+      "stem": "A 50-year-old man with a long history of routine heavy alcohol consumption develops severe hepatotoxicity after taking a standard dose of acetaminophen. Induction of which enzyme by his chronic alcohol use best accounts for his increased susceptibility to acetaminophen poisoning?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Alcohol dehydrogenase"
+        },
+        {
+          "label": "B",
+          "text": "Catalase"
+        },
+        {
+          "label": "C",
+          "text": "Cytochrome P450 2E1 (CYP2E1)"
+        },
+        {
+          "label": "D",
+          "text": "Aldehyde dehydrogenase"
+        },
+        {
+          "label": "E",
+          "text": "Lactate dehydrogenase"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "CYP2E1 is enriched in hepatic microsomes and induced by routine excess alcohol, making it clinically relevant in acetaminophen poisoning.",
+        "whyCorrect": "The cytochrome P450 2E1 isoform (CYP2E1) is enriched in hepatic microsomes and is induced when alcohol consumption is excessive and routine. This alcohol-dependent induction becomes medically relevant in acetaminophen poisoning and select forms of porphyria, because increased CYP2E1 activity increases conversion of substrates into harmful metabolites.",
+        "whyWrongByChoice": {
+          "A": "Alcohol dehydrogenase is the major first-step enzyme of ethanol oxidation but is not the inducible microsomal enzyme tied to acetaminophen toxicity.",
+          "B": "Catalase resides in peroxisomes and metabolizes only a very small amount of alcohol.",
+          "D": "Aldehyde dehydrogenase catalyzes the final oxidative step and is not the enzyme induced to worsen acetaminophen toxicity.",
+          "E": "Lactate dehydrogenase interconverts pyruvate and lactate and has no role in acetaminophen metabolism."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "CYP2E1",
+        "alcohol",
+        "acetaminophen",
+        "enzyme induction"
+      ],
+      "topicId": "metabolic-overview-i-general-reactions-2-of-2",
+      "topicName": "Metabolic Overview I: General Reactions (2 of 2)"
+    },
+    {
+      "id": "bo03-001",
+      "stem": "A pharmaceutical company develops a novel type 2 diabetes drug that binds a gluconeogenic enzyme to suppress hepatic glucose production. For the drug to reach its target enzyme, in which cellular locale must the majority of gluconeogenesis be occurring?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cytosol"
+        },
+        {
+          "label": "B",
+          "text": "Mitochondrial intermembrane space"
+        },
+        {
+          "label": "C",
+          "text": "Mitochondrial matrix"
+        },
+        {
+          "label": "D",
+          "text": "Peroxisome"
+        },
+        {
+          "label": "E",
+          "text": "Nucleus"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Gluconeogenesis occurs predominantly in the cytosol of hepatocytes, so a drug targeting a gluconeogenic enzyme must be present there.",
+        "whyCorrect": "Although gluconeogenesis spans several compartments (pyruvate carboxylase in the mitochondria and glucose 6-phosphatase in the endoplasmic reticulum), the majority of its enzymatic steps are cytosolic. A drug that must bind a gluconeogenic enzyme to suppress hepatic glucose output must therefore be present in the cytosol where most of the pathway operates.",
+        "whyWrongByChoice": {
+          "B": "The intermembrane space is a proton reservoir for OXPHOS and does not house gluconeogenic enzymes.",
+          "C": "Only a single gluconeogenic step (pyruvate carboxylase) is in the matrix; the bulk of the pathway is cytosolic, so the matrix alone would not allow the drug to work.",
+          "D": "Peroxisomes participate in very-long-chain fatty acid catabolism, not gluconeogenesis.",
+          "E": "The nucleus houses DNA-related processes and is not a site of gluconeogenic carbon flux."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "compartmentalization",
+        "gluconeogenesis",
+        "liver metabolism"
+      ],
+      "topicId": "metabolic-overview-ii-oxphos",
+      "topicName": "Metabolic Overview II: OXPHOS"
+    },
+    {
+      "id": "bo03-002",
+      "stem": "In a cell, acetyl-CoA is oxidatively catabolized to carbon dioxide with the generation of reduced coenzymes (NADH, FADH2) that then feed the electron transport chain. Which pathway is being described?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Glycolysis"
+        },
+        {
+          "label": "B",
+          "text": "Gluconeogenesis"
+        },
+        {
+          "label": "C",
+          "text": "TCA cycle"
+        },
+        {
+          "label": "D",
+          "text": "Beta-oxidation"
+        },
+        {
+          "label": "E",
+          "text": "Pentose phosphate pathway"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The TCA cycle oxidizes acetyl-CoA to produce reduced coenzymes that fuel the ETC.",
+        "whyCorrect": "The TCA cycle, located in the mitochondrial matrix, oxidizes acetyl-CoA predominantly to produce reduced coenzymes (NADH and FADH2) plus some ATP, providing reduction potential to the ETC for ATP production.",
+        "whyWrongByChoice": {
+          "A": "Glycolysis oxidizes glucose to pyruvate and never uses acetyl-CoA as a substrate.",
+          "B": "Gluconeogenesis is a reductive, anabolic pathway that makes glucose and does not consume acetyl-CoA.",
+          "D": "Beta-oxidation produces acetyl-CoA from fatty acids rather than consuming it.",
+          "E": "The pentose phosphate pathway processes glycolytic intermediates to make NADPH and ribose 5-phosphate, not acetyl-CoA."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "TCA cycle",
+        "acetyl-CoA",
+        "reduced coenzymes"
+      ],
+      "topicId": "metabolic-overview-ii-oxphos",
+      "topicName": "Metabolic Overview II: OXPHOS"
+    },
+    {
+      "id": "bo03-003",
+      "stem": "A biochemistry student traces electrons donated by NADH as they travel through the electron transport chain to their terminal acceptor. Which sequence correctly represents this path?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Complex I -> coenzyme Q -> complex II -> cytochrome c -> complex III -> complex IV -> O2"
+        },
+        {
+          "label": "B",
+          "text": "Complex I -> coenzyme Q -> complex III -> cytochrome c -> complex IV -> O2"
+        },
+        {
+          "label": "C",
+          "text": "Complex II -> coenzyme Q -> complex III -> cytochrome c -> complex IV -> O2"
+        },
+        {
+          "label": "D",
+          "text": "Complex I -> cytochrome c -> complex III -> coenzyme Q -> complex IV -> O2"
+        },
+        {
+          "label": "E",
+          "text": "Complex I -> complex II -> complex III -> complex IV -> coenzyme Q -> O2"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "NADH-derived electrons enter at complex I, are shuttled by coenzyme Q to complex III, then by cytochrome c to complex IV, and finally to oxygen.",
+        "whyCorrect": "Because the electrons are donated by NADH, flow begins at complex I. From complex I, coenzyme Q shuttles the electrons to complex III, then cytochrome c carries them to complex IV, which passes them to O2 as the terminal acceptor.",
+        "whyWrongByChoice": {
+          "A": "NADH-derived electrons pass from complex I directly to complex III via coenzyme Q and do not route through complex II.",
+          "C": "Electrons from NADH enter at complex I; complex II is the entry point for FADH2, not NADH.",
+          "D": "The lipid-soluble shuttles are in the wrong order; coenzyme Q acts before complex III and cytochrome c after it.",
+          "E": "Oxygen is the terminal acceptor at complex IV, so coenzyme Q cannot come after complex IV, and NADH electrons bypass complex II."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "electron transport chain",
+        "NADH",
+        "coenzyme Q"
+      ],
+      "topicId": "metabolic-overview-ii-oxphos",
+      "topicName": "Metabolic Overview II: OXPHOS"
+    },
+    {
+      "id": "bo03-004",
+      "stem": "A researcher inserts pH-sensitive probes into the intermembrane space and the matrix of an actively respiring, healthy mitochondrion. How does the pH of the intermembrane space compare to that of the matrix, and why?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Higher, because of a lower concentration of protons"
+        },
+        {
+          "label": "B",
+          "text": "Higher, because of a higher concentration of protons"
+        },
+        {
+          "label": "C",
+          "text": "Lower, because of a lower concentration of protons"
+        },
+        {
+          "label": "D",
+          "text": "Lower, because of a higher concentration of protons"
+        },
+        {
+          "label": "E",
+          "text": "Identical, because protons freely equilibrate across the inner membrane"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The ETC pumps protons into the intermembrane space, raising proton concentration and lowering pH there relative to the matrix.",
+        "whyCorrect": "The ETC translocates protons from the matrix into the intermembrane space, enriching it with protons. Because pH equals -log[H+], a higher proton concentration means a lower pH, so the intermembrane space is more acidic than the matrix.",
+        "whyWrongByChoice": {
+          "A": "The intermembrane space has more protons, not fewer, and its pH is lower rather than higher.",
+          "B": "A higher proton concentration lowers pH; it cannot raise it.",
+          "C": "The proton concentration is higher, not lower, in the intermembrane space.",
+          "E": "Protons are charged and cannot freely cross the lipid inner membrane, which is exactly why the gradient can be maintained."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "proton gradient",
+        "intermembrane space",
+        "chemiosmosis"
+      ],
+      "topicId": "metabolic-overview-ii-oxphos",
+      "topicName": "Metabolic Overview II: OXPHOS"
+    },
+    {
+      "id": "bo03-005",
+      "stem": "Oxidative phosphorylation is described as the functional coupling of two distinct processes. Which pair of processes is coupled during OXPHOS?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Glycolysis and the TCA cycle"
+        },
+        {
+          "label": "B",
+          "text": "Beta-oxidation and glycolysis"
+        },
+        {
+          "label": "C",
+          "text": "Ketone body formation and beta-oxidation"
+        },
+        {
+          "label": "D",
+          "text": "The electron transport chain and ATP synthase"
+        },
+        {
+          "label": "E",
+          "text": "ATP synthase and lactate production"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "OXPHOS couples the ETC, which builds the proton gradient, to ATP synthase, which uses that gradient to make ATP.",
+        "whyCorrect": "The ETC establishes the proton gradient, and ATP synthase is fully dependent on the flow of protons through it to catalyze ATP production. This functional dependence makes the two processes coupled during OXPHOS.",
+        "whyWrongByChoice": {
+          "A": "Glycolysis can supply acetyl-CoA to the TCA cycle, but the two are not coupled in the OXPHOS sense.",
+          "B": "Beta-oxidation and glycolysis are independent pathways that oxidize different substrates in different locales.",
+          "C": "Heightened beta-oxidation can lead to ketone body formation, but these are linked, not coupled.",
+          "E": "Lactate production typically rises when ATP synthase is not functioning optimally; the two are not coupled."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "OXPHOS",
+        "ATP synthase",
+        "coupling"
+      ],
+      "topicId": "metabolic-overview-ii-oxphos",
+      "topicName": "Metabolic Overview II: OXPHOS"
+    },
+    {
+      "id": "bo03-006",
+      "stem": "A patient ingests a toxin that renders the inner mitochondrial membrane freely permeable to protons. Which set of consequences best describes the effect on oxidative phosphorylation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The proton gradient dissipates, ATP synthesis falls, and energy is released as heat"
+        },
+        {
+          "label": "B",
+          "text": "The proton gradient strengthens and ATP synthesis increases"
+        },
+        {
+          "label": "C",
+          "text": "The electron transport chain stops but ATP synthase continues to make ATP normally"
+        },
+        {
+          "label": "D",
+          "text": "Oxygen consumption ceases while ATP production is unaffected"
+        },
+        {
+          "label": "E",
+          "text": "Glycolysis in the cytosol is directly blocked"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Uncoupling lets protons bypass ATP synthase, collapsing the gradient so its energy is dissipated as heat instead of captured as ATP.",
+        "whyCorrect": "ATP synthase depends on protons flowing through it. If protons instead leak across the inner membrane by an alternate route, the ETC and ATP synthase are uncoupled: the gradient dissipates, ATP synthesis drops, and the energy that would have driven ATP production is released as heat.",
+        "whyWrongByChoice": {
+          "B": "Allowing protons to leak dissipates rather than strengthens the gradient, decreasing ATP synthesis.",
+          "C": "ATP synthase requires the proton gradient; if protons bypass it, it cannot continue making ATP normally.",
+          "D": "Uncoupling actually tends to accelerate electron flow and oxygen consumption while ATP output falls.",
+          "E": "Uncouplers act on the mitochondrial inner membrane and do not directly block cytosolic glycolysis."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "uncoupling",
+        "proton gradient",
+        "heat production"
+      ],
+      "topicId": "metabolic-overview-ii-oxphos",
+      "topicName": "Metabolic Overview II: OXPHOS"
+    },
+    {
+      "id": "bo03-007",
+      "stem": "A 6-month-old infant has hypotonia, seizures, and markedly elevated serum very-long-chain fatty acids, consistent with a peroxisomal disorder (Zellweger spectrum). The very-long-chain fatty acids accumulate because catabolism that normally occurs in which organelle is defective?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Peroxisome"
+        },
+        {
+          "label": "B",
+          "text": "Mitochondrial matrix"
+        },
+        {
+          "label": "C",
+          "text": "Lysosome"
+        },
+        {
+          "label": "D",
+          "text": "Cytosol"
+        },
+        {
+          "label": "E",
+          "text": "Endoplasmic reticulum"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Very-long-chain fatty acids are handled by peroxisomal beta-oxidation, so peroxisomal disorders cause them to accumulate.",
+        "whyCorrect": "While most beta-oxidation occurs in the mitochondrial matrix, very-long-chain fatty acids are catabolized in the peroxisome. Peroxisomal disorders such as Zellweger spectrum disorder impair this contribution to long-chain fatty acid catabolism, so these fatty acids accumulate.",
+        "whyWrongByChoice": {
+          "B": "The mitochondrial matrix handles standard-length fatty acids; very-long-chain species require the peroxisome.",
+          "C": "Lysosomal defects cause storage diseases from failed turnover of cellular constituents, not the very-long-chain fatty acid accumulation seen here.",
+          "D": "The cytosol hosts glycolysis and gluconeogenesis, not fatty acid beta-oxidation.",
+          "E": "The endoplasmic reticulum participates in steps such as glucose 6-phosphatase activity, not very-long-chain fatty acid catabolism."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "peroxisome",
+        "beta-oxidation",
+        "inborn errors of metabolism"
+      ],
+      "topicId": "metabolic-overview-ii-oxphos",
+      "topicName": "Metabolic Overview II: OXPHOS"
+    },
+    {
+      "id": "bo03-008",
+      "stem": "A cell rapidly synthesizing fatty acids and nucleic acids upregulates a cytosolic pathway to supply reducing equivalents and a five-carbon sugar. Which pathway is this, and what are its principal products?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Pentose phosphate pathway; NADPH and ribose 5-phosphate"
+        },
+        {
+          "label": "B",
+          "text": "Glycolysis; pyruvate and lactate"
+        },
+        {
+          "label": "C",
+          "text": "TCA cycle; NADH and FADH2"
+        },
+        {
+          "label": "D",
+          "text": "Gluconeogenesis; glucose"
+        },
+        {
+          "label": "E",
+          "text": "Beta-oxidation; acetyl-CoA and FADH2"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The pentose phosphate pathway is a cytosolic shunt of glycolysis that produces NADPH and ribose 5-phosphate.",
+        "whyCorrect": "The pentose phosphate pathway shunts glycolytic intermediates to generate NADPH (reducing equivalents for fatty acid synthesis and neutralizing oxidative species) and ribose 5-phosphate (the five-carbon sugar for RNA and DNA), matching the cell's needs.",
+        "whyWrongByChoice": {
+          "B": "Glycolysis yields pyruvate/lactate and does not supply NADPH or ribose 5-phosphate.",
+          "C": "The TCA cycle produces NADH and FADH2 in the matrix, not NADPH or ribose sugar, and is not cytosolic.",
+          "D": "Gluconeogenesis produces glucose, not the reducing equivalents and sugar the cell needs here.",
+          "E": "Beta-oxidation produces acetyl-CoA and reduced coenzymes from fatty acids, not NADPH or ribose 5-phosphate."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "pentose phosphate pathway",
+        "NADPH",
+        "ribose 5-phosphate"
+      ],
+      "topicId": "metabolic-overview-ii-oxphos",
+      "topicName": "Metabolic Overview II: OXPHOS"
+    },
+    {
+      "id": "bo03-009",
+      "stem": "During a prolonged fast, a patient's hepatocytes undergo heightened beta-oxidation of fatty acids and begin producing ketone bodies. In which specific cellular location does this ketone body synthesis occur?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Mitochondrial matrix of hepatocytes"
+        },
+        {
+          "label": "B",
+          "text": "Cytosol of hepatocytes"
+        },
+        {
+          "label": "C",
+          "text": "Peroxisome of hepatocytes"
+        },
+        {
+          "label": "D",
+          "text": "Endoplasmic reticulum of hepatocytes"
+        },
+        {
+          "label": "E",
+          "text": "Mitochondrial matrix of skeletal muscle"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Ketogenesis occurs in the mitochondrial matrix of hepatocytes during periods of heightened fatty acid beta-oxidation.",
+        "whyCorrect": "Ketone body formation predominantly occurs in the liver, and during times of heightened beta-oxidation of fatty acids, ketogenesis takes place within the mitochondrial matrix of hepatocytes.",
+        "whyWrongByChoice": {
+          "B": "The cytosol hosts glycolysis and much of gluconeogenesis, not ketogenesis.",
+          "C": "The peroxisome catabolizes very-long-chain fatty acids but is not the site of ketone body synthesis.",
+          "D": "The endoplasmic reticulum is not where ketone bodies are produced.",
+          "E": "Ketogenesis occurs predominantly in the liver; skeletal muscle uses ketone bodies rather than making them."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "ketogenesis",
+        "liver metabolism",
+        "mitochondrial matrix"
+      ],
+      "topicId": "metabolic-overview-ii-oxphos",
+      "topicName": "Metabolic Overview II: OXPHOS"
+    },
+    {
+      "id": "bo03-010",
+      "stem": "Under severe cellular stress, cytochrome c is released from the mitochondria into the cytosol, where it triggers a cascade that activates caspases. This event initiates which process?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Apoptosis (programmed cell death)"
+        },
+        {
+          "label": "B",
+          "text": "Gluconeogenesis"
+        },
+        {
+          "label": "C",
+          "text": "Increased ATP synthesis by ATP synthase"
+        },
+        {
+          "label": "D",
+          "text": "Anaerobic glycolysis"
+        },
+        {
+          "label": "E",
+          "text": "Ketone body formation"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Cytosolic cytochrome c activates caspases, initiating apoptosis.",
+        "whyCorrect": "The release of cytochrome c from the ETC into the cytosol initiates a series of reactions culminating in the activation of caspases, the enzymes critical for apoptotic induction, so this event triggers apoptosis, or programmed cell death.",
+        "whyWrongByChoice": {
+          "B": "Gluconeogenesis is glucose synthesis and is unrelated to cytochrome c release or caspase activation.",
+          "C": "Loss of cytochrome c from the ETC impairs electron transport and thus reduces, rather than increases, ATP synthesis.",
+          "D": "Anaerobic glycolysis is a cytosolic energy pathway and is not triggered by caspase activation.",
+          "E": "Ketone body formation results from heightened beta-oxidation, not from cytosolic cytochrome c."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "cytochrome c",
+        "apoptosis",
+        "caspases"
+      ],
+      "topicId": "metabolic-overview-ii-oxphos",
+      "topicName": "Metabolic Overview II: OXPHOS"
+    },
+    {
+      "id": "bo03-011",
+      "stem": "Electrons carried by FADH2 enter the electron transport chain at a different point than those carried by NADH. At which complex do FADH2-derived electrons enter the chain?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Complex I"
+        },
+        {
+          "label": "B",
+          "text": "Complex II"
+        },
+        {
+          "label": "C",
+          "text": "Complex III"
+        },
+        {
+          "label": "D",
+          "text": "Complex IV"
+        },
+        {
+          "label": "E",
+          "text": "ATP synthase (Complex V)"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "FADH2 donates its electrons to complex II, whereas NADH donates at complex I.",
+        "whyCorrect": "NADH-derived electrons enter the ETC at complex I, while FADH2 donates its electrons to complex II. From complex II the electrons are passed to coenzyme Q and onward through complex III, cytochrome c, and complex IV to oxygen.",
+        "whyWrongByChoice": {
+          "A": "Complex I is the entry point for electrons from NADH, not FADH2.",
+          "C": "Complex III receives electrons from coenzyme Q, downstream of the entry complexes, not directly from FADH2.",
+          "D": "Complex IV is the terminal complex that passes electrons to oxygen, not an entry point.",
+          "E": "ATP synthase does not participate directly in electron transfer and is not an electron entry point."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "electron transport chain",
+        "FADH2",
+        "complex II"
+      ],
+      "topicId": "metabolic-overview-ii-oxphos",
+      "topicName": "Metabolic Overview II: OXPHOS"
+    },
+    {
+      "id": "bo03-012",
+      "stem": "A mutation causes a hepatocyte's mitochondria to form with markedly fewer cristae than normal. Assuming other components are intact, which consequence is most likely, and why?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Reduced ATP production due to a lower inner-membrane surface-area-to-volume ratio"
+        },
+        {
+          "label": "B",
+          "text": "Increased ATP production due to a larger matrix volume"
+        },
+        {
+          "label": "C",
+          "text": "No change in ATP production because cristae do not affect OXPHOS"
+        },
+        {
+          "label": "D",
+          "text": "Loss of the TCA cycle because cristae contain its enzymes"
+        },
+        {
+          "label": "E",
+          "text": "A shift of glycolysis into the mitochondria to compensate"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Cristae expand inner-membrane surface area for OXPHOS machinery, so fewer cristae lower ATP output.",
+        "whyCorrect": "The OXPHOS machinery is expressed on the inner mitochondrial membrane, so ATP production is limited by the abundance of that membrane. Cristae maximize the surface-area-to-volume ratio, augmenting OXPHOS. With fewer cristae, there is less inner-membrane surface to house the ETC and ATP synthase, reducing ATP production.",
+        "whyWrongByChoice": {
+          "B": "A larger matrix volume without added inner membrane does not raise ATP output; the limiting factor is inner-membrane surface area.",
+          "C": "Cristae directly affect OXPHOS capacity by increasing inner-membrane surface area, so their loss does matter.",
+          "D": "TCA cycle enzymes reside in the matrix, not on the cristae, so the cycle is not lost.",
+          "E": "Glycolysis is cytosolic and does not relocate into the mitochondria to compensate for lost cristae."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "cristae",
+        "mitochondrial structure",
+        "ATP production"
+      ],
+      "topicId": "metabolic-overview-ii-oxphos",
+      "topicName": "Metabolic Overview II: OXPHOS"
+    },
+    {
+      "id": "bo04-001",
+      "stem": "A 26-year-old competitive mixed martial arts athlete is brought to the emergency department after collapsing during training. He had complained of fatigue, shortness of breath, and profuse sweating. He is hypertensive and hyperthermic (39.9 C / 103.9 F). Initial labs show no evidence of infection. His trainer reports the patient had been taking an unlabeled black-market substance to rapidly cut weight before a fight. Which of the following best explains the mechanism responsible for his hyperthermia?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Inhibition of cytochrome c oxidase at complex IV"
+        },
+        {
+          "label": "B",
+          "text": "Dissipation of the proton gradient apart from ATP synthase, releasing energy as heat"
+        },
+        {
+          "label": "C",
+          "text": "Blockade of proton flow through ATP synthase"
+        },
+        {
+          "label": "D",
+          "text": "Impaired binding of oxygen to hemoglobin"
+        },
+        {
+          "label": "E",
+          "text": "Inhibition of complex I preventing NADH oxidation"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Chemical uncouplers such as 2,4-dinitrophenol (DNP) provide an alternate route for protons to re-enter the matrix, so electron transport chain activity yields heat instead of ATP.",
+        "whyCorrect": "The presentation (black-market weight-loss agent, hyperthermia, diaphoresis, tachypnea) is classic for an unnatural uncoupler like DNP. Uncouplers let protons bypass ATP synthase, so the energy of the ETC combustion reaction is released as non-shivering thermogenesis rather than being captured as ATP. There is no safe dose and no antidote.",
+        "whyWrongByChoice": {
+          "A": "Complex IV inhibition (cyanide, CO) blocks electron flow and oxygen consumption; it is not the hallmark heat-producing lesion and would not fit an uncoupling weight-loss agent.",
+          "C": "Oligomycin blocks ATP synthase but does not create an alternate proton path, so it does not drive thermogenesis in this way.",
+          "D": "Impaired hemoglobin-oxygen binding describes carbon monoxide's primary concern, not an uncoupler.",
+          "E": "Complex I inhibition (rotenone) blocks electron flow and causes NADH accumulation rather than uncoupling-driven heat production."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "uncouplers",
+        "DNP",
+        "thermogenesis",
+        "OXPHOS"
+      ],
+      "topicId": "oxphos-uncouplers-and-inhibitors",
+      "topicName": "Metabolic Overview II: OXPHOS Uncouplers and Inhibitors"
+    },
+    {
+      "id": "bo04-002",
+      "stem": "A 34-year-old man and a 40-year-old woman are both found unresponsive in a garage where a gasoline generator had been running. Both have a headache, confusion, and a reddish skin discoloration. Laboratory studies show a high anion gap metabolic acidosis. Carbon monoxide, like cyanide, inhibits which of the following components of oxidative phosphorylation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Complex I"
+        },
+        {
+          "label": "B",
+          "text": "Coenzyme Q"
+        },
+        {
+          "label": "C",
+          "text": "Complex III"
+        },
+        {
+          "label": "D",
+          "text": "Complex IV"
+        },
+        {
+          "label": "E",
+          "text": "ATP synthase"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Both cyanide and carbon monoxide inhibit complex IV (cytochrome c oxidase) of the electron transport chain.",
+        "whyCorrect": "The brick lists both CN and CO as complex IV inhibitors. Blocking complex IV terminates electron transfer regardless of whether electrons entered via complex I or complex II, halting oxygen consumption and producing an anion gap metabolic acidosis with elevated lactate. For CO, the additional alteration of hemoglobin-oxygen binding is the primary clinical concern.",
+        "whyWrongByChoice": {
+          "A": "Complex I is the target of rotenone, not CN or CO.",
+          "B": "Coenzyme Q is a mobile carrier, not the target of these inhibitors.",
+          "C": "Complex III is inhibited by antimycin A, not by CN or CO.",
+          "E": "ATP synthase is inhibited by oligomycin, not by CN or CO."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "carbon monoxide",
+        "cyanide",
+        "complex IV",
+        "inhibitors"
+      ],
+      "topicId": "oxphos-uncouplers-and-inhibitors",
+      "topicName": "Metabolic Overview II: OXPHOS Uncouplers and Inhibitors"
+    },
+    {
+      "id": "bo04-003",
+      "stem": "A full-term newborn is placed under a radiant warmer shortly after delivery. Rather than shivering, the infant maintains core temperature through non-shivering thermogenesis using reserves of specialized tissue enriched with mitochondria located around the neck, shoulders, and kidneys. Which of the following proteins is most directly responsible for the heat production in this tissue?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "ATP synthase"
+        },
+        {
+          "label": "B",
+          "text": "Cytochrome c oxidase"
+        },
+        {
+          "label": "C",
+          "text": "Uncoupling protein-1 (UCP-1)"
+        },
+        {
+          "label": "D",
+          "text": "Myoglobin"
+        },
+        {
+          "label": "E",
+          "text": "Succinate dehydrogenase"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Brown adipose tissue generates heat through the natural uncoupler UCP-1, which transports protons across the inner mitochondrial membrane apart from ATP synthase.",
+        "whyCorrect": "Uncoupling proteins are proton transporters expressed in specialized tissues such as brown adipose tissue (BAT). BAT is most abundant in newborns and allows non-shivering thermogenesis after birth. Because protons return to the matrix through UCP-1 rather than ATP synthase, the energy is released as heat.",
+        "whyWrongByChoice": {
+          "A": "ATP synthase couples the proton gradient to ATP formation; its normal action does not produce the uncoupling-driven heat.",
+          "B": "Cytochrome c oxidase (complex IV) transfers electrons to oxygen but is not the proton leak channel responsible for thermogenesis.",
+          "D": "Myoglobin stores oxygen in muscle and has no role in mitochondrial uncoupling.",
+          "E": "Succinate dehydrogenase (complex II) feeds electrons into the chain and does not generate heat by uncoupling."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "UCP-1",
+        "brown adipose tissue",
+        "natural uncouplers",
+        "thermogenesis"
+      ],
+      "topicId": "oxphos-uncouplers-and-inhibitors",
+      "topicName": "Metabolic Overview II: OXPHOS Uncouplers and Inhibitors"
+    },
+    {
+      "id": "bo04-004",
+      "stem": "A 44-year-old woman is brought to the emergency department after ingesting a large quantity of aspirin. She is tachypneic, diaphoretic, and febrile without any source of infection. Which of the following mechanisms, shared with agents like 2,4-dinitrophenol, best accounts for the hyperthermia seen with high-dose salicylate exposure?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Inhibition of electron flow at complex III"
+        },
+        {
+          "label": "B",
+          "text": "Uncoupling of oxidative phosphorylation by shuttling protons across the mitochondrial membrane"
+        },
+        {
+          "label": "C",
+          "text": "Irreversible inhibition of complex IV"
+        },
+        {
+          "label": "D",
+          "text": "Enhanced coupling of the ETC to ATP synthase"
+        },
+        {
+          "label": "E",
+          "text": "Blockade of coenzyme Q diffusion"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "At high doses aspirin acts as an uncoupling agent, diffusing across the mitochondrial membrane to dissipate the proton gradient apart from ATP synthase.",
+        "whyCorrect": "The brick notes that aspirin at high doses functions much like DNP: it can diffuse across the mitochondrial membrane and act as a proton shuttle. Dissipating the gradient independently of ATP synthase releases energy as heat, explaining the hyperthermia and diaphoresis, and partly accounts for salicylate's adverse impact at high doses.",
+        "whyWrongByChoice": {
+          "A": "Complex III inhibition is the mechanism of antimycin A, not salicylate.",
+          "C": "Complex IV inhibition describes cyanide/CO and blocks oxygen consumption rather than uncoupling.",
+          "D": "Enhanced coupling would increase ATP yield and would not generate excess heat.",
+          "E": "Blocking coenzyme Q diffusion inhibits the ETC and produces ROS, not uncoupling-driven thermogenesis."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "aspirin",
+        "salicylate",
+        "uncouplers",
+        "clinical correlation"
+      ],
+      "topicId": "oxphos-uncouplers-and-inhibitors",
+      "topicName": "Metabolic Overview II: OXPHOS Uncouplers and Inhibitors"
+    },
+    {
+      "id": "bo04-005",
+      "stem": "A 38-year-old firefighter is pulled from a burning building filled with smoke from burning plastics. He is confused and hypotensive with a cherry-red skin discoloration. Arterial blood shows a high anion gap metabolic acidosis with a serum lactate of 11 mmol/L (reference 0.5-2.2). Which of the following best describes the underlying molecular mechanism of his poisoning?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Uncoupling of the proton gradient from ATP synthase"
+        },
+        {
+          "label": "B",
+          "text": "Inhibition of complex I preventing NADH oxidation"
+        },
+        {
+          "label": "C",
+          "text": "Reduced hemoglobin synthesis"
+        },
+        {
+          "label": "D",
+          "text": "Inhibition of complex IV preventing tissue oxygen consumption"
+        },
+        {
+          "label": "E",
+          "text": "Deficient oxygen delivery from a congenital heart defect"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Inhalation of HCN from a structural fire causes cyanide poisoning by inhibiting complex IV, so tissues cannot consume oxygen.",
+        "whyCorrect": "Cyanide inhibits complex IV (cytochrome c oxidase), preventing the terminal step of the ETC and blocking cellular oxygen consumption. Because oxygen is delivered but not extracted, hemoglobin remains oxygenated, giving cherry-red skin. Anaerobic metabolism drives the profoundly elevated lactate (>8) and anion gap acidosis used to make the clinical diagnosis.",
+        "whyWrongByChoice": {
+          "A": "Uncouplers cause hyperthermia and increased O2 consumption, not the blocked oxygen use seen here.",
+          "B": "Complex I inhibition (rotenone) is not the smoke-inhalation poison and would not classically give cherry-red skin.",
+          "C": "Reduced hemoglobin synthesis causes cyanosis, a distinct entity from cyanide poisoning.",
+          "E": "A congenital heart defect causes cyanosis from poor perfusion, not the ETC blockade described."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "cyanide",
+        "complex IV",
+        "lactate",
+        "smoke inhalation"
+      ],
+      "topicId": "oxphos-uncouplers-and-inhibitors",
+      "topicName": "Metabolic Overview II: OXPHOS Uncouplers and Inhibitors"
+    },
+    {
+      "id": "bo04-006",
+      "stem": "A patient with confirmed cyanide toxicity from a structural fire is being managed in the emergency department. Which of the following is the gold-standard treatment, acting by coordinating cyanide to cobalt so it can be excreted?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hydroxocobalamin"
+        },
+        {
+          "label": "B",
+          "text": "Activated charcoal alone"
+        },
+        {
+          "label": "C",
+          "text": "Methylene blue"
+        },
+        {
+          "label": "D",
+          "text": "N-acetylcysteine"
+        },
+        {
+          "label": "E",
+          "text": "Deferoxamine"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Hydroxocobalamin, a form of vitamin B12, is the preferred treatment for cyanide poisoning.",
+        "whyCorrect": "Hydroxocobalamin is rapidly converted to cyanocobalamin as cyanide coordinates to the cobalt within the vitamin B12 structure. Because vitamin B12 is water soluble, the innocuous cyanocobalamin is then excreted. It is preferred over the amyl nitrite/sodium nitrite/sodium thiosulfate combination, which has more adverse effects.",
+        "whyWrongByChoice": {
+          "B": "Activated charcoal is a supportive measure for some ingestions but is not the specific antidote for cyanide.",
+          "C": "Methylene blue treats methemoglobinemia, not cyanide toxicity.",
+          "D": "N-acetylcysteine is used for acetaminophen toxicity, not cyanide.",
+          "E": "Deferoxamine chelates iron and is used for iron overload/toxicity, not cyanide."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "cyanide",
+        "hydroxocobalamin",
+        "treatment",
+        "vitamin B12"
+      ],
+      "topicId": "oxphos-uncouplers-and-inhibitors",
+      "topicName": "Metabolic Overview II: OXPHOS Uncouplers and Inhibitors"
+    },
+    {
+      "id": "bo04-007",
+      "stem": "A patient with cyanide poisoning is noted to have a cherry-red skin discoloration rather than the blue-tinted skin expected with hypoxia. Which of the following best explains this finding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cyanide increases hemoglobin synthesis, raising oxygen-carrying capacity"
+        },
+        {
+          "label": "B",
+          "text": "Cyanide shifts hemoglobin to a low-affinity state, releasing oxygen to tissues"
+        },
+        {
+          "label": "C",
+          "text": "Tissues cannot consume oxygen, so hemoglobin remains oxygenated in the periphery"
+        },
+        {
+          "label": "D",
+          "text": "Cyanide directly binds hemoglobin and turns it red"
+        },
+        {
+          "label": "E",
+          "text": "Cyanide causes methemoglobinemia, producing a red pigment"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "By blocking complex IV, cyanide prevents tissues from consuming oxygen, so hemoglobin stays oxygenated and the skin appears cherry red.",
+        "whyCorrect": "Cyanide inhibits the electron transport chain at complex IV, so peripheral tissues cannot extract and consume oxygen. This interferes with the normal dissociation of oxygen from hemoglobin, leaving hemoglobin persistently oxygenated in the periphery, which produces the characteristic cherry-red discoloration (though not all cases show it).",
+        "whyWrongByChoice": {
+          "A": "Cyanide does not increase hemoglobin synthesis; the color reflects retained oxygenation, not more hemoglobin.",
+          "B": "Cyanide does not act on hemoglobin oxygen affinity; the defect is in tissue oxygen utilization.",
+          "D": "The red color is from oxygenated hemoglobin, not from cyanide binding hemoglobin directly.",
+          "E": "Methemoglobinemia causes a chocolate-brown, not cherry-red, appearance and is not the mechanism here."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cyanide",
+        "hemoglobin",
+        "cherry-red skin",
+        "complex IV"
+      ],
+      "topicId": "oxphos-uncouplers-and-inhibitors",
+      "topicName": "Metabolic Overview II: OXPHOS Uncouplers and Inhibitors"
+    },
+    {
+      "id": "bo04-008",
+      "stem": "A 2-month-old infant with a congenital heart defect has blue-tinted discoloration of the lips, fingers, and nailbeds. Which of the following best describes the mechanism underlying this cyanosis, distinguishing it from cyanide poisoning?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Complex IV inhibition preventing tissue oxygen consumption"
+        },
+        {
+          "label": "B",
+          "text": "Inadequate delivery of oxygenated hemoglobin to peripheral tissues"
+        },
+        {
+          "label": "C",
+          "text": "Uncoupling of oxidative phosphorylation generating heat"
+        },
+        {
+          "label": "D",
+          "text": "Accumulation of oxygenated hemoglobin in the periphery"
+        },
+        {
+          "label": "E",
+          "text": "Reactive oxygen species destroying peripheral capillaries"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Cyanosis results from too little oxygenated hemoglobin reaching the tissues, producing deoxygenated (blue) blood in the systemic circulation.",
+        "whyCorrect": "Cyanosis is blue-tinted skin caused by deoxygenated blood in the systemic circulation, with the common mechanism being a general lack of oxygenated hemoglobin supplied to tissue. Causes span congenital heart defects that impair perfusion, genetic defects that impair oxygen binding, and reduced hemoglobin synthesis. This differs fundamentally from cyanide poisoning, where oxygen is present but cannot be consumed.",
+        "whyWrongByChoice": {
+          "A": "Complex IV inhibition describes cyanide poisoning, in which hemoglobin stays oxygenated (cherry red), not blue.",
+          "C": "Uncoupling produces heat and does not explain blue skin discoloration.",
+          "D": "Accumulation of oxygenated hemoglobin would give a red appearance, the opposite of cyanosis.",
+          "E": "ROS-mediated capillary destruction is not the described mechanism of cyanosis."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "cyanosis",
+        "hemoglobin",
+        "congenital heart disease",
+        "differential"
+      ],
+      "topicId": "oxphos-uncouplers-and-inhibitors",
+      "topicName": "Metabolic Overview II: OXPHOS Uncouplers and Inhibitors"
+    },
+    {
+      "id": "bo04-009",
+      "stem": "A researcher exposes cultured cells to an agent that blocks the entry of electrons from NADH into the electron transport chain while leaving complex II intact. Which of the following agents would most greatly increase the intracellular NADH/NAD+ ratio?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "An unnatural uncoupler such as DNP"
+        },
+        {
+          "label": "B",
+          "text": "A complex I inhibitor such as rotenone"
+        },
+        {
+          "label": "C",
+          "text": "A natural uncoupler such as UCP-1"
+        },
+        {
+          "label": "D",
+          "text": "A complex II inhibitor"
+        },
+        {
+          "label": "E",
+          "text": "An ATP synthase inhibitor acting only on complex V"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Complex I oxidizes NADH; inhibiting it causes NADH to accumulate, raising the NADH/NAD+ ratio.",
+        "whyCorrect": "Complex I accepts electrons from NADH and shuttles them to coenzyme Q. Inhibiting complex I (e.g., rotenone) prevents NADH oxidation, so reduced NADH accumulates and the NADH/NAD+ ratio rises, promoting lactate formation.",
+        "whyWrongByChoice": {
+          "A": "Uncouplers augment the ETC and tend to increase oxidation of NADH to NAD+, lowering rather than raising the ratio.",
+          "C": "A natural uncoupler likewise speeds electron flow and NADH oxidation, so it would not raise the ratio the most.",
+          "D": "Complex II oxidizes FADH2, not NADH; inhibiting it would still allow NADH to be oxidized via complex I.",
+          "E": "ATP synthase inhibition slows the chain indirectly but does not selectively block NADH oxidation the way complex I inhibition does."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "complex I",
+        "rotenone",
+        "NADH",
+        "redox ratio"
+      ],
+      "topicId": "oxphos-uncouplers-and-inhibitors",
+      "topicName": "Metabolic Overview II: OXPHOS Uncouplers and Inhibitors"
+    },
+    {
+      "id": "bo04-010",
+      "stem": "An experimental therapeutic drug shows unexpected cellular toxicity because of an off-target effect: it binds and prevents the free diffusion of coenzyme Q within the mitochondrial inner membrane. Which of the following best accounts for the cellular injury caused by this drug?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Excess ATP production driving oxidative damage"
+        },
+        {
+          "label": "B",
+          "text": "Non-shivering thermogenesis overheating the cell"
+        },
+        {
+          "label": "C",
+          "text": "A primary lack of oxygen supply to the cell"
+        },
+        {
+          "label": "D",
+          "text": "ATP depletion together with reactive oxygen species from impeded electron flow"
+        },
+        {
+          "label": "E",
+          "text": "Increased proton pumping across the inner membrane"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Blocking coenzyme Q behaves like an ETC inhibitor: electrons from NADH and FADH2 cannot pass forward, halting proton pumping and ATP synthesis while generating damaging ROS.",
+        "whyCorrect": "Without the lipid-soluble carrier CoQ, electrons from complex I and complex II cannot move forward, so proton pumping and ATP synthesis fall. Impeded electron flow also generates ROS from inefficient electron transfer, and cells shift to lactate formation. The combination of ATP depletion and ROS accounts for the toxicity.",
+        "whyWrongByChoice": {
+          "A": "ATP is depleted, not overproduced, when the ETC is blocked.",
+          "B": "Thermogenesis is a hallmark of uncouplers; interfering with CoQ describes an inhibitor, not an uncoupler.",
+          "C": "Oxygen is still supplied; the problem is that it cannot be consumed, so this is a lack of oxygen consumption, not supply.",
+          "E": "Blocking electron flow reduces, rather than increases, proton pumping."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "coenzyme Q",
+        "ETC inhibition",
+        "ROS",
+        "ATP depletion"
+      ],
+      "topicId": "oxphos-uncouplers-and-inhibitors",
+      "topicName": "Metabolic Overview II: OXPHOS Uncouplers and Inhibitors"
+    },
+    {
+      "id": "bo04-011",
+      "stem": "A patient with severe electron transport chain inhibition develops a rapidly rising serum lactate and a high anion gap metabolic acidosis. Which of the following best explains why lactate accumulates in this setting?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The inhibited ETC directly converts pyruvate to lactate"
+        },
+        {
+          "label": "B",
+          "text": "Uncoupling proteins convert pyruvate to lactate to release heat"
+        },
+        {
+          "label": "C",
+          "text": "Lactate is produced by complex IV as a byproduct of oxygen reduction"
+        },
+        {
+          "label": "D",
+          "text": "Increased oxygen consumption oxidizes lactate more slowly"
+        },
+        {
+          "label": "E",
+          "text": "Pyruvate is reduced to lactate to regenerate NAD+ so glycolysis can continue"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "When the ETC is blocked, cells reduce pyruvate to lactate to regenerate NAD+, sustaining some ATP production from glycolysis.",
+        "whyCorrect": "ETC inhibition causes NADH to accumulate because it can no longer be oxidized. To keep glycolysis running and salvage some substrate-level ATP, pyruvate is reduced to lactate, regenerating NAD+ from NADH. This drives the rapid lactate rise and anion gap metabolic acidosis seen with OXPHOS inhibitors.",
+        "whyWrongByChoice": {
+          "A": "The ETC does not convert pyruvate to lactate; lactate dehydrogenase does so in the cytosol.",
+          "B": "Uncoupling proteins transport protons for thermogenesis and do not produce lactate from pyruvate.",
+          "C": "Complex IV reduces oxygen to water; it does not generate lactate.",
+          "D": "Oxygen consumption falls, not rises, with ETC inhibition, and this does not explain lactate generation."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "lactate",
+        "anion gap acidosis",
+        "NAD+ regeneration",
+        "glycolysis"
+      ],
+      "topicId": "oxphos-uncouplers-and-inhibitors",
+      "topicName": "Metabolic Overview II: OXPHOS Uncouplers and Inhibitors"
+    },
+    {
+      "id": "bo04-012",
+      "stem": "A pharmacology student compares two poisons: one that renders complex I completely inoperable and another that renders complex IV completely inoperable, assuming FADH2 substrates remain available. Which of the following best explains why complex IV inhibition halts electron transport more completely than complex I inhibition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Complex I is the only entry point for all electrons into the ETC"
+        },
+        {
+          "label": "B",
+          "text": "Complex IV inhibition also uncouples the proton gradient"
+        },
+        {
+          "label": "C",
+          "text": "Complex IV is a required step for electrons from both complex I and complex II, whereas complex II can still feed the chain when complex I is blocked"
+        },
+        {
+          "label": "D",
+          "text": "Complex I inhibition prevents complex II from receiving FADH2"
+        },
+        {
+          "label": "E",
+          "text": "Complex IV inhibition increases oxygen consumption to compensate"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Because electrons from complex I and complex II both converge and must pass through complex IV, blocking complex IV stops all electron flow, while blocking complex I still allows complex II to contribute.",
+        "whyCorrect": "Electrons from either complex I or complex II are shuttled by coenzyme Q into the shared downstream chain. If complex I is blocked but FADH2 substrates are present, complex II still feeds electrons in, preserving some diminished ATP production. Inhibiting complex IV blocks a step required by electrons from both complexes, effectively terminating electron transfer regardless of the reduced coenzyme considered.",
+        "whyWrongByChoice": {
+          "A": "Complex I is not the only entry point; complex II (succinate dehydrogenase) provides a separate entry via FADH2.",
+          "B": "Complex IV inhibition blocks electron flow; it does not act as an uncoupler of the proton gradient.",
+          "D": "Complex II receives electrons from FADH2 independently of complex I, so complex I inhibition does not cut off complex II.",
+          "E": "Complex IV inhibition decreases, rather than increases, oxygen consumption."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "complex IV",
+        "complex I",
+        "coenzyme Q",
+        "disparate inhibitors"
+      ],
+      "topicId": "oxphos-uncouplers-and-inhibitors",
+      "topicName": "Metabolic Overview II: OXPHOS Uncouplers and Inhibitors"
+    },
+    {
+      "id": "bo05-001",
+      "stem": "A 24-year-old woman is evaluated for fatigue. A complete blood count shows: RBC count 4.5 x10^6/uL (reference 3.8-5.0), hemoglobin 10.8 g/dL (reference 11.9-14.8), hematocrit 32% (reference 35-43), and mean corpuscular volume (MCV) 88 fL (reference 80-96). Which of the following is the most accurate interpretation of these results?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "No indication of anemia"
+        },
+        {
+          "label": "B",
+          "text": "Microcytic anemia"
+        },
+        {
+          "label": "C",
+          "text": "Normocytic anemia"
+        },
+        {
+          "label": "D",
+          "text": "Macrocytic anemia"
+        },
+        {
+          "label": "E",
+          "text": "Polycythemia (elevated RBC mass)"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Anemia is defined by a reduction in RBC count, hemoglobin, or hematocrit, and MCV then classifies it.",
+        "whyCorrect": "The hemoglobin (10.8) and hematocrit (32%) are both below their reference ranges, which establishes anemia. Because the MCV of 88 fL falls within the reference range, the anemia is classified as normocytic.",
+        "whyWrongByChoice": {
+          "A": "Both hemoglobin and hematocrit are below their reference ranges, so anemia is present.",
+          "B": "Microcytic anemia requires an MCV below the reference range, but this MCV of 88 fL is normal.",
+          "D": "Macrocytic anemia requires an MCV above the reference range, but this MCV of 88 fL is normal.",
+          "E": "Polycythemia is an increased RBC mass; here the hemoglobin and hematocrit are low, not high."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "CBC",
+        "anemia",
+        "MCV"
+      ],
+      "topicId": "metabolic-overview-iii-o2-delivery-1-of-2",
+      "topicName": "Metabolic Overview III: O2 Delivery (1 of 2)"
+    },
+    {
+      "id": "bo05-002",
+      "stem": "A physiology instructor explains that mature red blood cells maintain ATP for their function strictly through glycolysis and lactate production, even though they carry high concentrations of oxygen. Which feature of the mature red blood cell best accounts for this exclusive reliance on glycolysis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Absence of mitochondria"
+        },
+        {
+          "label": "B",
+          "text": "Insufficient oxygen bound to hemoglobin"
+        },
+        {
+          "label": "C",
+          "text": "A biconcave disc shape that limits diffusion"
+        },
+        {
+          "label": "D",
+          "text": "An unusually thick, rigid plasma membrane"
+        },
+        {
+          "label": "E",
+          "text": "Presence of a large nucleus consuming ATP"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "RBCs rely on glycolysis because they lack mitochondria, not because they lack oxygen.",
+        "whyCorrect": "Mature RBCs completely lack organelles, including mitochondria, so they cannot perform oxidative phosphorylation and must generate ATP by glycolysis with lactate production. This metabolic preference also spares the abundant oxygen they carry for delivery to the tissues.",
+        "whyWrongByChoice": {
+          "B": "RBCs actually carry high concentrations of oxygen bound to hemoglobin; oxygen supply is not the limiting factor.",
+          "C": "The biconcave shape enhances gas diffusion and flexibility; it is not the reason for glycolytic dependence.",
+          "D": "The RBC membrane is highly flexible, not thick and rigid, and membrane properties do not dictate the metabolic pathway.",
+          "E": "Mature RBCs lack a nucleus entirely, so a nucleus cannot be consuming ATP."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "RBC metabolism",
+        "glycolysis",
+        "mitochondria"
+      ],
+      "topicId": "metabolic-overview-iii-o2-delivery-1-of-2",
+      "topicName": "Metabolic Overview III: O2 Delivery (1 of 2)"
+    },
+    {
+      "id": "bo05-003",
+      "stem": "A first-year medical student examines a peripheral blood smear and notes that normal red blood cells display a pale region in their center under light microscopy. Which of the following best explains this central pallor?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Mitochondria localize to the middle of the cell"
+        },
+        {
+          "label": "B",
+          "text": "The cells are rigid spheres that lack organelles"
+        },
+        {
+          "label": "C",
+          "text": "The convex surface of the cell diffracts light"
+        },
+        {
+          "label": "D",
+          "text": "The cells are thinner in the middle and thicker at the edges"
+        },
+        {
+          "label": "E",
+          "text": "Hemoglobin is concentrated only at the cell periphery"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Central pallor reflects the biconcave disc shape, which is thinner in the center.",
+        "whyCorrect": "RBCs are biconcave discs whose thinner central region transmits more light during imaging, making it appear paler than the rest of the cell. Expansion or loss of this central pallor can be an important clinical observation in RBC disorders.",
+        "whyWrongByChoice": {
+          "A": "Mature RBCs lack mitochondria entirely, so they cannot localize to the center.",
+          "B": "Rigid spheres, as in hereditary spherocytosis, actually lack central pallor rather than displaying it.",
+          "C": "The RBC surface is concave, not convex, and pallor is due to light transmission through the thin center, not diffraction.",
+          "E": "Hemoglobin fills the cell; the pale center is due to reduced cell thickness there, not absence of hemoglobin."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "RBC morphology",
+        "biconcave disc",
+        "central pallor"
+      ],
+      "topicId": "metabolic-overview-iii-o2-delivery-1-of-2",
+      "topicName": "Metabolic Overview III: O2 Delivery (1 of 2)"
+    },
+    {
+      "id": "bo05-004",
+      "stem": "A 20-year-old man has intermittent jaundice and splenomegaly, and his red blood cells appear as rigid spheres lacking central pallor. When his red cells are placed in progressively hypotonic solutions, they lyse more readily than control cells. Mutation in which of the following best explains these findings?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cytoskeletal and membrane proteins of the RBC"
+        },
+        {
+          "label": "B",
+          "text": "The beta-globin chain of hemoglobin"
+        },
+        {
+          "label": "C",
+          "text": "Bisphosphoglycerate mutase in the Rapoport-Luebering shunt"
+        },
+        {
+          "label": "D",
+          "text": "The gamma-globin chain of hemoglobin"
+        },
+        {
+          "label": "E",
+          "text": "A mitochondrial electron transport chain complex"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Hereditary spherocytosis results from mutations in RBC cytoskeletal/membrane proteins.",
+        "whyCorrect": "In hereditary spherocytosis, mutations in cytoskeletal or membrane proteins produce rigid spheres that lack central pallor and are prone to lysis and splenic turnover. A positive osmotic fragility test, in which the patient's RBCs lyse more readily than controls in hypotonic solution, supports this diagnosis.",
+        "whyWrongByChoice": {
+          "B": "A beta-globin substitution causes sickle cell disease, producing crescent-shaped cells rather than rigid spheres with a positive osmotic fragility test.",
+          "C": "Bisphosphoglycerate mutase makes 2,3-BPG and modulates oxygen affinity; it does not cause spherical, fragile cells.",
+          "D": "The gamma chain is a component of fetal hemoglobin and is unrelated to membrane structure.",
+          "E": "Mature RBCs lack mitochondria, so an electron transport chain mutation cannot explain these findings."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "hereditary spherocytosis",
+        "osmotic fragility",
+        "RBC membrane"
+      ],
+      "topicId": "metabolic-overview-iii-o2-delivery-1-of-2",
+      "topicName": "Metabolic Overview III: O2 Delivery (1 of 2)"
+    },
+    {
+      "id": "bo05-005",
+      "stem": "A 6-year-old boy has episodes of severe extremity pain and fatigue. A blood smear shows crescent-shaped red blood cells. The underlying defect is a single amino acid substitution in hemoglobin. Which change best describes this substitution and its primary consequence?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A nonpolar residue replaced by a polar one, increasing hemoglobin solubility"
+        },
+        {
+          "label": "B",
+          "text": "A polar, negatively charged glutamate replaced by nonpolar valine, promoting hemoglobin polymerization"
+        },
+        {
+          "label": "C",
+          "text": "A histidine replaced by valine, abolishing the Bohr effect"
+        },
+        {
+          "label": "D",
+          "text": "A gamma chain replaced by a beta chain, lowering oxygen affinity"
+        },
+        {
+          "label": "E",
+          "text": "Loss of the heme porphyrin ring, preventing oxygen binding"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Sickle cell disease is caused by a glutamate-to-valine substitution that promotes Hb polymerization.",
+        "whyCorrect": "In sickle cell disease, a polar, negatively charged glutamate is replaced by a nonpolar valine within the hemoglobin tetramer. This decreases solubility and promotes polymerization of hemoglobin, distorting the cell into a crescent shape, which is the primary cause of the disease pathology.",
+        "whyWrongByChoice": {
+          "A": "The substitution goes the opposite direction (polar to nonpolar) and decreases, not increases, solubility.",
+          "C": "The substitution involves glutamate and valine, not histidine, and does not target the Bohr effect.",
+          "D": "Sickle cell disease involves an amino acid substitution within a chain, not replacement of an entire gamma chain by a beta chain.",
+          "E": "The heme porphyrin ring is intact; the defect lies in a globin amino acid substitution."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "sickle cell disease",
+        "hemoglobin",
+        "amino acid substitution"
+      ],
+      "topicId": "metabolic-overview-iii-o2-delivery-1-of-2",
+      "topicName": "Metabolic Overview III: O2 Delivery (1 of 2)"
+    },
+    {
+      "id": "bo05-006",
+      "stem": "A researcher compares the oxygen-binding curves of myoglobin and adult hemoglobin plotted together. In actively metabolizing peripheral muscle tissue, hemoglobin has released oxygen and is only about 50% saturated, while myoglobin saturation approaches 100% in the same environment. Which property of myoglobin best explains this pattern?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Myoglobin has a higher affinity for oxygen than hemoglobin"
+        },
+        {
+          "label": "B",
+          "text": "Myoglobin is a tetramer that shows binding cooperativity"
+        },
+        {
+          "label": "C",
+          "text": "Myoglobin has a higher P50 than hemoglobin"
+        },
+        {
+          "label": "D",
+          "text": "Myoglobin circulates within red blood cells"
+        },
+        {
+          "label": "E",
+          "text": "Myoglobin releases oxygen more readily than hemoglobin at low pO2"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Myoglobin has the highest oxygen affinity, allowing it to take up oxygen in tissue where Hb unloads it.",
+        "whyCorrect": "Myoglobin has the greatest oxygen affinity of the oxygen-carrying proteins (P50 about 2.8 versus 26 for hemoglobin), so it binds oxygen where hemoglobin in RBCs is releasing it. This lets myoglobin remain nearly fully saturated in tissue even as hemoglobin drops toward 50% saturation.",
+        "whyWrongByChoice": {
+          "B": "Myoglobin is a monomer and lacks cooperativity, giving it a hyperbolic rather than sigmoidal curve.",
+          "C": "A higher P50 indicates lower affinity; myoglobin has a lower P50 (higher affinity) than hemoglobin.",
+          "D": "Myoglobin is expressed in tissue such as muscle, whereas hemoglobin is the protein within circulating RBCs.",
+          "E": "Because of its high affinity, myoglobin holds onto oxygen tightly rather than releasing it readily at low pO2."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "myoglobin",
+        "oxygen affinity",
+        "dissociation curve"
+      ],
+      "topicId": "metabolic-overview-iii-o2-delivery-1-of-2",
+      "topicName": "Metabolic Overview III: O2 Delivery (1 of 2)"
+    },
+    {
+      "id": "bo05-007",
+      "stem": "A physiologist explains that during pregnancy, oxygen must be transferred from maternal blood to fetal blood across the placenta. Compared with adult hemoglobin (HbA), fetal hemoglobin (HbF) is best characterized by which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It is composed of two alpha and two beta chains"
+        },
+        {
+          "label": "B",
+          "text": "It has a lower oxygen affinity, with a curve shifted to the right of HbA"
+        },
+        {
+          "label": "C",
+          "text": "It is a monomer that lacks binding cooperativity"
+        },
+        {
+          "label": "D",
+          "text": "It has a higher oxygen affinity, with a curve shifted to the left of HbA"
+        },
+        {
+          "label": "E",
+          "text": "It has a higher oxygen affinity than myoglobin"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "HbF has a higher oxygen affinity than HbA, shifting its curve left to favor maternal-to-fetal transfer.",
+        "whyCorrect": "Fetal hemoglobin is tetrameric (two alpha and two gamma chains) and, like HbA, shows cooperativity, but its sigmoidal curve is shifted to the left of HbA, indicating higher oxygen affinity. This higher affinity allows oxygen exchange from the mother to the fetus.",
+        "whyWrongByChoice": {
+          "A": "HbF is composed of two alpha and two gamma chains; two alpha and two beta chains describe HbA.",
+          "B": "HbF has higher affinity than HbA, so its curve is shifted left, not right.",
+          "C": "HbF is tetrameric and does show cooperativity; myoglobin is the monomer that lacks cooperativity.",
+          "E": "HbF affinity is still lower than that of myoglobin, which has the highest affinity of the three."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "fetal hemoglobin",
+        "oxygen affinity",
+        "HbA vs HbF"
+      ],
+      "topicId": "metabolic-overview-iii-o2-delivery-1-of-2",
+      "topicName": "Metabolic Overview III: O2 Delivery (1 of 2)"
+    },
+    {
+      "id": "bo05-008",
+      "stem": "During intense exercise, a skeletal muscle produces lactate because oxygen availability is limited relative to demand, creating a localized area of low pH. According to the Bohr effect, how does this low pH alter hemoglobin, and what is the benefit?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It increases hemoglobin affinity for oxygen, shifting the curve left and retaining oxygen"
+        },
+        {
+          "label": "B",
+          "text": "It decreases hemoglobin affinity for oxygen, shifting the curve right and releasing more oxygen"
+        },
+        {
+          "label": "C",
+          "text": "It has no effect on hemoglobin affinity because pH acts only on myoglobin"
+        },
+        {
+          "label": "D",
+          "text": "It converts hemoglobin to carboxyhemoglobin, increasing oxygen delivery"
+        },
+        {
+          "label": "E",
+          "text": "It increases hemoglobin affinity for oxygen by deprotonating histidine residues"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Low pH (Bohr effect) decreases Hb oxygen affinity, right-shifting the curve to release more O2 to active tissue.",
+        "whyCorrect": "In the Bohr effect, elevated H+ protonates histidine residues (pKa about 6.5) in hemoglobin, stabilizing a lower-affinity form that favors oxygen dissociation. This right shift promotes increased oxygen release to an active muscle that needs it to recover its metabolic demand.",
+        "whyWrongByChoice": {
+          "A": "Low pH decreases affinity and shifts the curve right; it does not retain oxygen.",
+          "C": "Low pH acts on hemoglobin through the Bohr effect, altering its oxygen affinity.",
+          "D": "Carboxyhemoglobin is formed by carbon monoxide, not by low pH, and it impairs rather than increases delivery.",
+          "E": "Low pH protonates (not deprotonates) histidine residues, and the result is decreased affinity, not increased."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Bohr effect",
+        "pH",
+        "oxygen delivery"
+      ],
+      "topicId": "metabolic-overview-iii-o2-delivery-1-of-2",
+      "topicName": "Metabolic Overview III: O2 Delivery (1 of 2)"
+    },
+    {
+      "id": "bo05-009",
+      "stem": "At high altitude, tissue demand for oxygen rises and red blood cells increase production of a glucose-derived molecule that lowers hemoglobin affinity for oxygen. This molecule is generated from a glycolytic intermediate by an enzyme in the Rapoport-Luebering shunt. Which molecule and precursor are correctly described?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "2,3-BPG, formed from 1,3-bisphosphoglycerate by bisphosphoglycerate mutase"
+        },
+        {
+          "label": "B",
+          "text": "Lactate, formed from pyruvate by lactate dehydrogenase"
+        },
+        {
+          "label": "C",
+          "text": "Carbaminohemoglobin, formed from CO2 binding to globin chains"
+        },
+        {
+          "label": "D",
+          "text": "2,3-BPG, formed from glucose-6-phosphate by hexokinase"
+        },
+        {
+          "label": "E",
+          "text": "Carbonic acid, formed from CO2 and water by carbonic anhydrase"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "2,3-BPG is made from 1,3-BPG by bisphosphoglycerate mutase and lowers Hb oxygen affinity.",
+        "whyCorrect": "2,3-bisphosphoglycerate (2,3-BPG) is formed in RBCs from the glycolytic intermediate 1,3-bisphosphoglycerate by the enzyme bisphosphoglycerate mutase within the Rapoport-Luebering shunt. It lowers hemoglobin affinity for oxygen and can be produced rapidly in response to increased tissue demand or lower oxygen availability.",
+        "whyWrongByChoice": {
+          "B": "Lactate is made from pyruvate and lowers local pH, but it is not the 2,3-BPG molecule described here.",
+          "C": "Carbaminohemoglobin is formed by CO2 binding hemoglobin, not from a glycolytic intermediate by a mutase.",
+          "D": "2,3-BPG derives from 1,3-bisphosphoglycerate via bisphosphoglycerate mutase, not from glucose-6-phosphate via hexokinase.",
+          "E": "Carbonic acid forms from CO2 and water and drives the Bohr effect but is not the glucose-derived 2,3-BPG."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "2,3-BPG",
+        "Rapoport-Luebering shunt",
+        "oxygen affinity"
+      ],
+      "topicId": "metabolic-overview-iii-o2-delivery-1-of-2",
+      "topicName": "Metabolic Overview III: O2 Delivery (1 of 2)"
+    },
+    {
+      "id": "bo05-010",
+      "stem": "A 45-year-old man is brought to the emergency department after being found in a garage with a running car engine. He has headache, dizziness, and altered mental status. His standard pulse oximetry reads normal. Which of the following best explains his condition and its initial management?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Carbon monoxide forms carboxyhemoglobin; treat with high-flow 100% oxygen"
+        },
+        {
+          "label": "B",
+          "text": "Cyanide inhibits the electron transport chain; treat with intravenous glucose"
+        },
+        {
+          "label": "C",
+          "text": "Carbon monoxide lowers hemoglobin oxygen affinity; treat with a paper bag"
+        },
+        {
+          "label": "D",
+          "text": "Methemoglobin forms from oxidized iron; treat by lowering inspired oxygen"
+        },
+        {
+          "label": "E",
+          "text": "Respiratory alkalosis from hyperventilation; treat with rebreathing"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "CO poisoning forms carboxyhemoglobin and is treated with high-flow 100% oxygen to displace CO.",
+        "whyCorrect": "Carbon monoxide binds the same heme site as oxygen with over 200 times the affinity, forming carboxyhemoglobin, which reduces oxygen carrying and increases affinity for the little O2 still bound, causing tissue hypoxia. Standard pulse oximetry cannot distinguish CO-bound from O2-bound hemoglobin, so it reads normal; treatment is continuous high-flow 100% oxygen to competitively displace the bound CO.",
+        "whyWrongByChoice": {
+          "B": "This is carbon monoxide from car exhaust, not cyanide, and glucose is not the treatment; CO impairs delivery rather than blocking the electron transport chain like cyanide.",
+          "C": "CO increases hemoglobin oxygen affinity (a left shift), and a paper bag is used for hyperventilation, not CO poisoning.",
+          "D": "The scenario describes CO exposure, not methemoglobinemia, and lowering inspired oxygen would worsen hypoxia.",
+          "E": "Hyperventilation-induced respiratory alkalosis does not fit a garage exposure with normal pulse oximetry and altered mental status."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "carbon monoxide",
+        "carboxyhemoglobin",
+        "pulse oximetry"
+      ],
+      "topicId": "metabolic-overview-iii-o2-delivery-1-of-2",
+      "topicName": "Metabolic Overview III: O2 Delivery (1 of 2)"
+    },
+    {
+      "id": "bo05-011",
+      "stem": "A medical student develops tingling in the fingers, difficulty breathing, and dizziness while jogging under exam stress. A caregiver has her sit and breathe into a paper bag. Which of the following best explains the underlying disturbance and why the paper bag helps?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hyperventilation causes respiratory acidosis; the bag removes excess CO2"
+        },
+        {
+          "label": "B",
+          "text": "Hyperventilation lowers CO2 and H+, increasing hemoglobin oxygen affinity and reducing tissue delivery; rebreathing restores CO2"
+        },
+        {
+          "label": "C",
+          "text": "Hyperventilation raises CO2, decreasing hemoglobin oxygen affinity; the bag adds oxygen"
+        },
+        {
+          "label": "D",
+          "text": "Hyperventilation forms carboxyhemoglobin; the bag displaces carbon monoxide"
+        },
+        {
+          "label": "E",
+          "text": "Hyperventilation increases 2,3-BPG, shifting the curve right; the bag lowers 2,3-BPG"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Hyperventilation causes respiratory alkalosis, left-shifting the Hb curve; rebreathing restores CO2 and delivery.",
+        "whyCorrect": "Prolonged rapid expiration of CO2 during hyperventilation produces respiratory alkalosis and the loss of two allosteric regulators of Hb-O2 binding, CO2 and H+. Losing these regulators increases hemoglobin oxygen affinity (a left shift) and decreases delivery to peripheral tissues; breathing into a paper bag lets the patient re-inhale exhaled CO2, restoring CO2 levels and proper oxygen delivery.",
+        "whyWrongByChoice": {
+          "A": "Hyperventilation causes respiratory alkalosis, not acidosis, because CO2 is blown off rather than retained.",
+          "C": "Hyperventilation lowers, not raises, CO2, and the resulting change increases affinity rather than decreasing it.",
+          "D": "Carboxyhemoglobin forms from carbon monoxide exposure, which is not occurring in this exercise-and-anxiety scenario.",
+          "E": "Hyperventilation does not increase 2,3-BPG; the disturbance is loss of CO2 and H+ causing a left shift."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "respiratory alkalosis",
+        "hyperventilation",
+        "oxygen affinity"
+      ],
+      "topicId": "metabolic-overview-iii-o2-delivery-1-of-2",
+      "topicName": "Metabolic Overview III: O2 Delivery (1 of 2)"
+    },
+    {
+      "id": "bo05-012",
+      "stem": "A 70-year-old man with several days of vomiting and poor fluid intake has a hematocrit of 52% (reference 41-50), while his total red cell mass is estimated to be normal. Which of the following best explains the elevated hematocrit?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Dehydration reducing plasma volume"
+        },
+        {
+          "label": "B",
+          "text": "Anemia from chronic blood loss"
+        },
+        {
+          "label": "C",
+          "text": "Increased mean corpuscular volume"
+        },
+        {
+          "label": "D",
+          "text": "Reduced hemoglobin concentration"
+        },
+        {
+          "label": "E",
+          "text": "Loss of red cells to splenic turnover"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Hematocrit is the RBC fraction of blood volume, so losing plasma water artificially raises it.",
+        "whyCorrect": "Hematocrit measures the percentage of whole blood volume occupied by RBCs. Decreasing the overall volume by reducing the solvent (water), as in dehydration from vomiting, artificially inflates the hematocrit even when the actual red cell mass is normal.",
+        "whyWrongByChoice": {
+          "B": "Anemia is defined by a decrease in hematocrit (among other values), so it cannot explain a high hematocrit.",
+          "C": "An increased MCV indicates larger cells (macrocytic anemia) but does not increase the fraction of blood volume occupied by RBCs.",
+          "D": "A reduced hemoglobin concentration accompanies anemia and low hematocrit, the opposite of the finding here.",
+          "E": "Loss of red cells to splenic turnover would lower the red cell mass and hematocrit, not raise it."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "hematocrit",
+        "dehydration",
+        "CBC"
+      ],
+      "topicId": "metabolic-overview-iii-o2-delivery-1-of-2",
+      "topicName": "Metabolic Overview III: O2 Delivery (1 of 2)"
+    },
+    {
+      "id": "bo06-001",
+      "stem": "A 61-year-old man is evaluated for fatigue. Complete blood count shows anemia with a mean corpuscular volume (MCV) above the reference range, and the peripheral smear shows abnormally large red blood cells. Which of the following best explains the increased cell size?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Increased red cell turnover with otherwise normal morphology"
+        },
+        {
+          "label": "B",
+          "text": "Insufficient globin chain production"
+        },
+        {
+          "label": "C",
+          "text": "Deficient porphyrin synthesis"
+        },
+        {
+          "label": "D",
+          "text": "Inhibited or ineffective DNA synthesis with continued cytoplasmic growth"
+        },
+        {
+          "label": "E",
+          "text": "Excess membrane lipid deposition in the red cell"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Macrocytic anemia arises when DNA synthesis is impaired but cytoplasmic growth continues, producing abnormally large red cells.",
+        "whyCorrect": "In macrocytic anemia, cell division slows because of insufficient DNA synthesis while cytoplasmic development proceeds at a normal rate. The mismatch between growth and division yields abnormally large RBCs, and this defect also affects other rapidly dividing cells.",
+        "whyWrongByChoice": {
+          "A": "Heightened red cell loss with normal morphology describes normocytic anemia, which has a normal MCV.",
+          "B": "Insufficient globin drives microcytic anemia, producing small cells with a low MCV.",
+          "C": "Deficient porphyrin (heme) synthesis also causes microcytic, not macrocytic, anemia.",
+          "E": "Membrane lipid deposition is not the mechanism of macrocytosis described in nutritional anemias."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "MCV classification",
+        "macrocytic anemia",
+        "DNA synthesis"
+      ],
+      "topicId": "anemia-mcv-classification-b-vitamins",
+      "topicName": "BOOM: Metabolic Overview III - O2 Delivery (2 of 2): Anemia, MCV Classification, and the B Vitamins"
+    },
+    {
+      "id": "bo06-002",
+      "stem": "A patient from a severely impoverished region presents with cheilosis, glossitis, and a mild anemia with a normal MCV. An enzymatic assay of erythrocyte glutathione reductase activity, measured before and after adding the relevant cofactor, yields an activity ratio of 1.4. Which of the following deficiencies is most consistent with these findings?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Riboflavin (B2)"
+        },
+        {
+          "label": "B",
+          "text": "Pyridoxine (B6)"
+        },
+        {
+          "label": "C",
+          "text": "Folate (B9)"
+        },
+        {
+          "label": "D",
+          "text": "Cobalamin (B12)"
+        },
+        {
+          "label": "E",
+          "text": "Thiamine (B1)"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "An erythrocyte glutathione reductase activity ratio above 1.2 indicates ariboflavinosis (vitamin B2 deficiency), the classically tested cause of normocytic nutritional anemia.",
+        "whyCorrect": "Riboflavin is carried in flavoproteins as FMN/FAD, so a functional assay of erythrocyte glutathione reductase (a flavoprotein) reflects riboflavin status better than urine levels. A ratio above 1.2 signals deficiency. Because B2 is needed for maximal iron absorption and mild iron deficiency is normocytic, ariboflavinosis presents as normocytic anemia unless extremely severe.",
+        "whyWrongByChoice": {
+          "B": "Pyridoxine deficiency causes microcytic anemia and is not assessed by the glutathione reductase activity ratio.",
+          "C": "Folate deficiency causes macrocytic anemia, not a normal-MCV anemia.",
+          "D": "Cobalamin deficiency causes macrocytic anemia and would not be detected by this riboflavin-specific assay.",
+          "E": "Thiamine deficiency is excluded from the anemia differential and does not cause the described picture."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "riboflavin",
+        "normocytic anemia",
+        "glutathione reductase"
+      ],
+      "topicId": "anemia-mcv-classification-b-vitamins",
+      "topicName": "BOOM: Metabolic Overview III - O2 Delivery (2 of 2): Anemia, MCV Classification, and the B Vitamins"
+    },
+    {
+      "id": "bo06-003",
+      "stem": "A 34-year-old man being treated for tuberculosis with a regimen that includes isoniazid develops a microcytic anemia along with a sensory neuropathy. Deficiency of a coenzyme for which of the following reactions best explains his anemia?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Reduction of folate to tetrahydrofolate"
+        },
+        {
+          "label": "B",
+          "text": "The first (committed) step of porphyrin (heme) synthesis"
+        },
+        {
+          "label": "C",
+          "text": "Transfer of one-carbon units for thymidine synthesis"
+        },
+        {
+          "label": "D",
+          "text": "Conversion of methylmalonyl-CoA to succinyl-CoA"
+        },
+        {
+          "label": "E",
+          "text": "Conversion of homocysteine to methionine"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Isoniazid causes vitamin B6 (pyridoxine) deficiency; pyridoxal 5'-phosphate is the coenzyme for the initial step of porphyrin synthesis, so deficiency yields microcytic anemia.",
+        "whyCorrect": "Pyridoxal 5'-phosphate (PLP), the active B6 derivative, is required for the first step of porphyrin synthesis. Without adequate porphyrin, hemoglobin production falls and microcytic anemia results. Isoniazid is well known to impair B6, and the associated neuropathy fits the presentation.",
+        "whyWrongByChoice": {
+          "A": "Reduction of folate to FH4 is performed by DHFR and is a folate/macrocytic pathway, not the B6 microcytic mechanism.",
+          "C": "One-carbon transfer for thymidine is a folate function tied to macrocytic anemia.",
+          "D": "Methylmalonyl-CoA to succinyl-CoA is a B12-dependent reaction, unrelated to microcytosis.",
+          "E": "Homocysteine to methionine is a B12/folate reaction associated with macrocytic anemia."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "pyridoxine",
+        "microcytic anemia",
+        "isoniazid",
+        "heme synthesis"
+      ],
+      "topicId": "anemia-mcv-classification-b-vitamins",
+      "topicName": "BOOM: Metabolic Overview III - O2 Delivery (2 of 2): Anemia, MCV Classification, and the B Vitamins"
+    },
+    {
+      "id": "bo06-004",
+      "stem": "A 6-year-old child with acute leukemia is treated with methotrexate, a structural analogue of folate. This antifolate impairs DNA synthesis in rapidly dividing cells by directly inhibiting which of the following enzymes?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Dihydrofolate reductase (DHFR)"
+        },
+        {
+          "label": "B",
+          "text": "Methionine synthase"
+        },
+        {
+          "label": "C",
+          "text": "Methylmalonyl-CoA mutase"
+        },
+        {
+          "label": "D",
+          "text": "Glutathione reductase"
+        },
+        {
+          "label": "E",
+          "text": "Thymidylate synthase"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Methotrexate is an antifolate that inhibits dihydrofolate reductase (DHFR), blocking formation of the active one-carbon carrier tetrahydrofolate.",
+        "whyCorrect": "Folate must undergo reductions catalyzed by DHFR to form tetrahydrofolate (FH4), the form used in one-carbon transfers. Methotrexate mimics folate and inhibits DHFR, restricting substrates needed for DNA synthesis. This is the milestone antifolate mechanism attributed to Sidney Farber's leukemia work.",
+        "whyWrongByChoice": {
+          "B": "Methionine synthase uses methyl-B12 to convert homocysteine to methionine; it is not methotrexate's target.",
+          "C": "Methylmalonyl-CoA mutase is a B12-dependent enzyme unrelated to antifolate action.",
+          "D": "Glutathione reductase is a riboflavin-linked flavoprotein, not the methotrexate target.",
+          "E": "Thymidylate synthase is downstream and is not the enzyme methotrexate directly inhibits."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "folate",
+        "methotrexate",
+        "DHFR",
+        "antifolate"
+      ],
+      "topicId": "anemia-mcv-classification-b-vitamins",
+      "topicName": "BOOM: Metabolic Overview III - O2 Delivery (2 of 2): Anemia, MCV Classification, and the B Vitamins"
+    },
+    {
+      "id": "bo06-005",
+      "stem": "A 63-year-old woman has macrocytic anemia, and laboratory testing is positive for anti-intrinsic factor antibodies. Impaired absorption of which vitamin, at which anatomical site, best accounts for her anemia?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Folate, absorbed in the duodenum and jejunum"
+        },
+        {
+          "label": "B",
+          "text": "Cobalamin, absorbed in the terminal ileum"
+        },
+        {
+          "label": "C",
+          "text": "Cobalamin, absorbed in the duodenum"
+        },
+        {
+          "label": "D",
+          "text": "Iron, absorbed in the terminal ileum"
+        },
+        {
+          "label": "E",
+          "text": "Folate, absorbed in the terminal ileum"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Intrinsic factor escorts cobalamin to the terminal ileum for absorption; antibodies against IF cause pernicious anemia and B12 malabsorption.",
+        "whyCorrect": "Parietal cells secrete intrinsic factor, which facilitates cobalamin transit through the small intestine so it can be absorbed in the terminal ileum. Autoantibodies against IF (pernicious anemia) block this, producing macrocytic anemia. Presence of anti-IF antibodies is usually sufficient for the diagnosis.",
+        "whyWrongByChoice": {
+          "A": "Folate is absorbed in the duodenum and jejunum, but its uptake does not depend on intrinsic factor.",
+          "C": "Cobalamin is absorbed in the terminal ileum, not the duodenum.",
+          "D": "Iron absorption does not depend on intrinsic factor and does not cause macrocytic anemia.",
+          "E": "Folate is not absorbed in the terminal ileum and is IF-independent."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "cobalamin",
+        "intrinsic factor",
+        "pernicious anemia",
+        "terminal ileum"
+      ],
+      "topicId": "anemia-mcv-classification-b-vitamins",
+      "topicName": "BOOM: Metabolic Overview III - O2 Delivery (2 of 2): Anemia, MCV Classification, and the B Vitamins"
+    },
+    {
+      "id": "bo06-006",
+      "stem": "A 58-year-old man with an undiagnosed vitamin B12 deficiency is treated with folate supplementation alone. His anemia partially improves, but over the following weeks his gait disturbance and paresthesias worsen. Which of the following best explains the danger of this approach?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Folate corrects the anemia but does not prevent the irreparable nerve damage of ongoing B12 deficiency"
+        },
+        {
+          "label": "B",
+          "text": "Folate supplementation causes secondary iron overload"
+        },
+        {
+          "label": "C",
+          "text": "Folate directly binds and inactivates cobalamin"
+        },
+        {
+          "label": "D",
+          "text": "Folate worsens the anemia by trapping additional homocysteine"
+        },
+        {
+          "label": "E",
+          "text": "Folate inhibits DHFR and blocks its own activation"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Folate therapy can mask an underlying B12 deficiency: the anemia improves while progressive, irreversible neurologic damage continues.",
+        "whyCorrect": "Exogenous folate bypasses the methyl trap and restores FH4 intermediates for nucleic acid synthesis, so anemia symptoms improve temporarily. However, unlike folate deficiency, untreated B12 deficiency produces irreparable nerve damage. Thus folate can mask B12 deficiency while neurologic decline continues.",
+        "whyWrongByChoice": {
+          "B": "Folate does not cause iron overload.",
+          "C": "Folate does not physically bind or inactivate cobalamin.",
+          "D": "Folate actually relieves the anemia transiently; it does not worsen it by trapping homocysteine.",
+          "E": "Folate does not inhibit DHFR; that is the action of the antifolate methotrexate."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "methyl trap",
+        "folate masking",
+        "B12 neuropathy"
+      ],
+      "topicId": "anemia-mcv-classification-b-vitamins",
+      "topicName": "BOOM: Metabolic Overview III - O2 Delivery (2 of 2): Anemia, MCV Classification, and the B Vitamins"
+    },
+    {
+      "id": "bo06-007",
+      "stem": "Two patients each present with macrocytic anemia, hypersegmented neutrophils, and elevated serum homocysteine. Only one of them also has an elevated methylmalonic acid (MMA) level. The elevated MMA most specifically indicates a deficiency of which vitamin?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Folate (B9)"
+        },
+        {
+          "label": "B",
+          "text": "Cobalamin (B12)"
+        },
+        {
+          "label": "C",
+          "text": "Pyridoxine (B6)"
+        },
+        {
+          "label": "D",
+          "text": "Riboflavin (B2)"
+        },
+        {
+          "label": "E",
+          "text": "Thiamine (B1)"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Elevated MMA is unique to cobalamin (B12) deficiency and distinguishes it from folate deficiency, which shares elevated homocysteine.",
+        "whyCorrect": "Both folate and B12 deficiency elevate homocysteine and produce macrocytic anemia with hypersegmented neutrophils. However, MMA accumulates only when the B12-dependent conversion of methylmalonyl-CoA to succinyl-CoA fails, so elevated MMA is specific for B12 deficiency.",
+        "whyWrongByChoice": {
+          "A": "Folate deficiency elevates homocysteine but leaves MMA normal.",
+          "C": "Pyridoxine deficiency causes microcytic anemia and does not elevate MMA.",
+          "D": "Riboflavin deficiency causes normocytic anemia and does not elevate MMA.",
+          "E": "Thiamine deficiency is not a cause of these hematologic or biochemical findings."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "MMA",
+        "cobalamin",
+        "folate",
+        "biomarkers"
+      ],
+      "topicId": "anemia-mcv-classification-b-vitamins",
+      "topicName": "BOOM: Metabolic Overview III - O2 Delivery (2 of 2): Anemia, MCV Classification, and the B Vitamins"
+    },
+    {
+      "id": "bo06-008",
+      "stem": "A patient with suspected nutritional anemia has an elevated urinary formiminoglutamate (FIGLU), a product of histidine catabolism. This older but still board-relevant biomarker most classically indicates a deficiency of which vitamin?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Folate (B9)"
+        },
+        {
+          "label": "B",
+          "text": "Cobalamin (B12)"
+        },
+        {
+          "label": "C",
+          "text": "Pyridoxine (B6)"
+        },
+        {
+          "label": "D",
+          "text": "Riboflavin (B2)"
+        },
+        {
+          "label": "E",
+          "text": "Niacin (B3)"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Elevated urinary FIGLU is a classic marker of folate deficiency.",
+        "whyCorrect": "FIGLU is an intermediate of histidine catabolism whose further metabolism requires tetrahydrofolate. When folate is deficient, FIGLU accumulates and spills into the urine, making it a traditional (still board-tested) marker of folate deficiency.",
+        "whyWrongByChoice": {
+          "B": "B12 deficiency is more specifically indicated by elevated MMA, not by FIGLU.",
+          "C": "Pyridoxine deficiency is not marked by FIGLU.",
+          "D": "Riboflavin status is assessed by the glutathione reductase activity ratio, not FIGLU.",
+          "E": "Niacin deficiency is excluded from the anemia differential and is not marked by FIGLU."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "FIGLU",
+        "folate",
+        "biomarkers"
+      ],
+      "topicId": "anemia-mcv-classification-b-vitamins",
+      "topicName": "BOOM: Metabolic Overview III - O2 Delivery (2 of 2): Anemia, MCV Classification, and the B Vitamins"
+    },
+    {
+      "id": "bo06-009",
+      "stem": "A 22-year-old presents with new paresthesias and a macrocytic anemia. On questioning, the patient admits to recurrent recreational inhalation of nitrous oxide ('laughing gas'). Which of the following best explains the vitamin abnormality?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Nitrous oxide binds the cobalt ion, rendering cobalamin inert"
+        },
+        {
+          "label": "B",
+          "text": "Nitrous oxide inhibits dihydrofolate reductase"
+        },
+        {
+          "label": "C",
+          "text": "Nitrous oxide destroys gastric parietal cells"
+        },
+        {
+          "label": "D",
+          "text": "Nitrous oxide accelerates renal excretion of folate"
+        },
+        {
+          "label": "E",
+          "text": "Nitrous oxide blocks iron absorption in the duodenum"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Nitrous oxide inactivates cobalamin by binding its cobalt ion, depleting functional B12 from both diet and stores.",
+        "whyCorrect": "Vitamin B12's structure contains a defining cobalt ion. N2O binds this cobalt, rendering the vitamin inert, and this rapidly inactivates all cobalamin whether obtained from diet or released from hepatic stores. This trend is increasingly seen in clinics and produces B12-deficiency findings.",
+        "whyWrongByChoice": {
+          "B": "N2O does not inhibit DHFR; that describes the antifolate methotrexate.",
+          "C": "N2O does not destroy parietal cells; that mechanism describes pernicious anemia.",
+          "D": "N2O does not act by increasing renal folate loss.",
+          "E": "N2O does not impair duodenal iron absorption."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "nitrous oxide",
+        "cobalamin",
+        "cobalt",
+        "predisposing factors"
+      ],
+      "topicId": "anemia-mcv-classification-b-vitamins",
+      "topicName": "BOOM: Metabolic Overview III - O2 Delivery (2 of 2): Anemia, MCV Classification, and the B Vitamins"
+    },
+    {
+      "id": "bo06-010",
+      "stem": "While constructing a differential for a nutritional (B-vitamin) anemia, a student lists several B vitamins. A deficiency of which of the following would NOT be expected to cause anemia and should therefore be excluded from the differential?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Riboflavin (B2)"
+        },
+        {
+          "label": "B",
+          "text": "Pyridoxine (B6)"
+        },
+        {
+          "label": "C",
+          "text": "Folate (B9)"
+        },
+        {
+          "label": "D",
+          "text": "Cobalamin (B12)"
+        },
+        {
+          "label": "E",
+          "text": "Thiamine (B1)"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Thiamine (B1) is among the B vitamins excluded from the anemia differential; B2, B6, B9, and B12 all cause nutritional anemias.",
+        "whyCorrect": "The brick lists vitamins B1 (thiamine), B3 (niacin), B5 (pantothenate), and B7 (biotin) as vitamins that should be excluded when considering anemia. In contrast, riboflavin, pyridoxine, folate, and cobalamin each produce a nutritional anemia.",
+        "whyWrongByChoice": {
+          "A": "Riboflavin deficiency causes normocytic anemia and belongs in the differential.",
+          "B": "Pyridoxine deficiency causes microcytic anemia and belongs in the differential.",
+          "C": "Folate deficiency causes macrocytic anemia and belongs in the differential.",
+          "D": "Cobalamin deficiency causes macrocytic anemia and belongs in the differential."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "B vitamins",
+        "anemia differential",
+        "thiamine"
+      ],
+      "topicId": "anemia-mcv-classification-b-vitamins",
+      "topicName": "BOOM: Metabolic Overview III - O2 Delivery (2 of 2): Anemia, MCV Classification, and the B Vitamins"
+    },
+    {
+      "id": "bo06-011",
+      "stem": "A 44-year-old man with a 4-year history of heavy alcohol use presents with fatigue, distended tender abdomen, and elevated liver enzymes. Laboratory studies show a macrocytic anemia. Given chronic alcohol use, which vitamin deficiency typically develops earliest and is the most likely initial contributor?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Folate (B9)"
+        },
+        {
+          "label": "B",
+          "text": "Cobalamin (B12)"
+        },
+        {
+          "label": "C",
+          "text": "Pyridoxine (B6)"
+        },
+        {
+          "label": "D",
+          "text": "Riboflavin (B2)"
+        },
+        {
+          "label": "E",
+          "text": "Thiamine (B1)"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "In chronic alcohol use, folate deficiency usually develops earlier than B12 deficiency because of folate's small body stores and direct alcohol-mediated malabsorption.",
+        "whyCorrect": "Alcohol denatures GI proteins and damages the gut lining, and it directly impairs folate absorption and storage. Because folate stores are small (weeks to months), folate deficiency appears earlier, whereas B12 deficiency generally appears later after prolonged gastric or hepatic dysfunction. Accompanying malnutrition compounds the problem.",
+        "whyWrongByChoice": {
+          "B": "Cobalamin deficiency generally appears later, since hepatic B12 stores last years.",
+          "C": "Pyridoxine deficiency causes microcytic anemia, not the earliest macrocytic change here.",
+          "D": "Riboflavin deficiency causes normocytic anemia and is not the classic earliest alcohol-related deficiency.",
+          "E": "Although thiamine is depleted in alcoholism, it is excluded from the anemia differential and does not explain the macrocytic anemia."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "alcohol",
+        "folate",
+        "macrocytic anemia",
+        "case connection"
+      ],
+      "topicId": "anemia-mcv-classification-b-vitamins",
+      "topicName": "BOOM: Metabolic Overview III - O2 Delivery (2 of 2): Anemia, MCV Classification, and the B Vitamins"
+    },
+    {
+      "id": "bo06-012",
+      "stem": "A 63-year-old woman with pernicious anemia due to intrinsic factor antibodies undergoes laboratory evaluation. Compared with reference ranges, which of the following values is most likely to be elevated (above normal) in this patient?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hematocrit (HCT)"
+        },
+        {
+          "label": "B",
+          "text": "Mean corpuscular volume (MCV)"
+        },
+        {
+          "label": "C",
+          "text": "Hemoglobin concentration"
+        },
+        {
+          "label": "D",
+          "text": "Red blood cell count"
+        },
+        {
+          "label": "E",
+          "text": "Serum iron"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Pernicious anemia is a macrocytic anemia, so MCV is elevated while the measures of red cell mass are low.",
+        "whyCorrect": "Cobalamin deficiency impairs DNA synthesis, producing abnormally large red cells and raising the MCV above normal. Because the patient is anemic, the hematocrit, hemoglobin, and red cell count are normal or, more likely, decreased rather than elevated.",
+        "whyWrongByChoice": {
+          "A": "Hematocrit is reduced in anemia, not elevated.",
+          "C": "Hemoglobin concentration is low in an anemic patient.",
+          "D": "The red blood cell count is decreased in this anemia.",
+          "E": "Serum iron is not characteristically elevated by B12 deficiency and is unrelated to the macrocytosis."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "pernicious anemia",
+        "MCV",
+        "laboratory values",
+        "macrocytic anemia"
+      ],
+      "topicId": "anemia-mcv-classification-b-vitamins",
+      "topicName": "BOOM: Metabolic Overview III - O2 Delivery (2 of 2): Anemia, MCV Classification, and the B Vitamins"
+    }
+  ]
+}
