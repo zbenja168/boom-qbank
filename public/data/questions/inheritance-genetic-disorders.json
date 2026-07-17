@@ -1211,7 +1211,7 @@
         },
         {
           "label": "D",
-          "text": "They can only detect variants for which probes are present on the array, missing rare or novel variants"
+          "text": "They can only detect variants for which probes are present on the array"
         },
         {
           "label": "E",
@@ -1245,7 +1245,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "The thermophilic bacterium Thermus aquaticus"
+          "text": "Thermus aquaticus"
         },
         {
           "label": "B",
@@ -1441,7 +1441,7 @@
         },
         {
           "label": "D",
-          "text": "They lack a 3-prime hydroxyl group, preventing formation of the next phosphodiester bond"
+          "text": "They lack a 3-prime hydroxyl group"
         },
         {
           "label": "E",
@@ -1617,7 +1617,7 @@
         },
         {
           "label": "B",
-          "text": "A heterozygous point variant, with two different bases at that position"
+          "text": "A heterozygous point variant"
         },
         {
           "label": "C",
@@ -1803,7 +1803,7 @@
         },
         {
           "label": "B",
-          "text": "Toxic expanded RNA forms nuclear foci that sequester RNA-binding proteins and disrupt splicing"
+          "text": "Toxic expanded RNA forms nuclear foci that sequester RNA-binding proteins"
         },
         {
           "label": "C",
@@ -2084,7 +2084,7 @@
         },
         {
           "label": "B",
-          "text": "DNA polymerase slippage, in which the enzyme detaches and reattaches incorrectly on the repetitive template"
+          "text": "DNA polymerase slippage"
         },
         {
           "label": "C",
@@ -2131,7 +2131,7 @@
         },
         {
           "label": "B",
-          "text": "A non-staining gap (fragile site) at the terminal end of the long arm of the X chromosome"
+          "text": "A non-staining gap at the terminal end of the long arm of the X chromosome"
         },
         {
           "label": "C",
@@ -2363,7 +2363,7 @@
         },
         {
           "label": "B",
-          "text": "Myoclonic epilepsy with ragged red fibers (MERRF)"
+          "text": "Myoclonic epilepsy with ragged red fibers"
         },
         {
           "label": "C",
@@ -2739,7 +2739,7 @@
         },
         {
           "label": "D",
-          "text": "Oxidative phosphorylation (OXPHOS) complexes"
+          "text": "Oxidative phosphorylation complexes"
         },
         {
           "label": "E",
@@ -3050,7 +3050,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Methylation-sensitive multiplex ligation-dependent probe amplification (MS-MLPA)"
+          "text": "Methylation-sensitive multiplex ligation-dependent probe amplification"
         },
         {
           "label": "B",
@@ -3432,7 +3432,7 @@
         },
         {
           "label": "D",
-          "text": "A high liability threshold produces low population prevalence but higher recurrence risk within affected families"
+          "text": "A high liability threshold produces low prevalence but higher recurrence risk"
         },
         {
           "label": "E",
@@ -3474,7 +3474,7 @@
         },
         {
           "label": "C",
-          "text": "Females have a higher threshold, so an affected girl must carry a greater genetic load that her relatives are more likely to share"
+          "text": "Females have a higher threshold, so an affected girl must carry a greater genetic load"
         },
         {
           "label": "D",
@@ -3575,7 +3575,7 @@
         },
         {
           "label": "E",
-          "text": "Non-genetic (environmental or epigenetic) factors contribute to the disease"
+          "text": "Non-genetic factors contribute to the disease"
         }
       ],
       "correctAnswer": "E",
@@ -3709,7 +3709,7 @@
         },
         {
           "label": "D",
-          "text": "Slower drug breakdown raises blood warfarin levels, so a lower dose is needed to avoid bleeding"
+          "text": "Slower drug breakdown raises blood warfarin levels, so a lower dose is needed"
         },
         {
           "label": "E",
@@ -3751,7 +3751,7 @@
         },
         {
           "label": "C",
-          "text": "Altering expression of vitamin K epoxide reductase, the drug's target enzyme, changing sensitivity to warfarin"
+          "text": "Altering expression of vitamin K epoxide reductase"
         },
         {
           "label": "D",

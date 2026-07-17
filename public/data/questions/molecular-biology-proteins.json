@@ -192,7 +192,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Covalently inhibits xanthine oxidase to reduce uric acid production"
+          "text": "Covalently inhibits xanthine oxidase"
         },
         {
           "label": "B",
@@ -330,7 +330,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Deamination of AMP to inosine monophosphate during purine degradation"
+          "text": "Deamination of AMP to inosine monophosphate"
         },
         {
           "label": "B",
@@ -744,7 +744,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "The enzyme MGMT removes the anomalous methyl group without breaking the phosphodiester backbone"
+          "text": "The enzyme MGMT removes the anomalous methyl group"
         },
         {
           "label": "B",
@@ -882,7 +882,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "It forms covalent adducts at the N7 position of guanine that evolve into intrastrand and interstrand crosslinks"
+          "text": "It forms covalent adducts at the N7 position of guanine"
         },
         {
           "label": "B",
@@ -1300,7 +1300,7 @@
         },
         {
           "label": "B",
-          "text": "They provide surfaces where proteins bind to carry out processes such as transcription and replication"
+          "text": "They provide surfaces where proteins bind"
         },
         {
           "label": "C",
@@ -1342,7 +1342,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Histones are rich in positively charged amino acids such as lysine and arginine that attract the negatively charged phosphate backbone"
+          "text": "Histones are rich in positively charged amino acids that attract the negatively charged phosphate backbone"
         },
         {
           "label": "B",
@@ -2174,7 +2174,7 @@
         },
         {
           "label": "C",
-          "text": "3' to 5' exonuclease proofreading activity"
+          "text": "3' to 5' exonuclease activity"
         },
         {
           "label": "D",
@@ -2216,7 +2216,7 @@
         },
         {
           "label": "B",
-          "text": "Bacterial ribosomes (30S and 50S subunits forming a 70S ribosome) differ from human ribosomes (40S and 60S forming an 80S ribosome), and the drug binds only the bacterial subunits"
+          "text": "Bacterial ribosomes differ from human ribosomes, and the drug binds only the bacterial subunits"
         },
         {
           "label": "C",
@@ -2494,7 +2494,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "The intron is retained because the spliceosome cannot recognize the 5' donor site"
+          "text": "The intron is retained"
         },
         {
           "label": "B",
@@ -2967,7 +2967,7 @@
         },
         {
           "label": "B",
-          "text": "The deletion involved a multiple of three nucleotides, keeping the reading frame intact"
+          "text": "The deletion involved a multiple of three nucleotides"
         },
         {
           "label": "C",
@@ -3056,7 +3056,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "An entire exon is removed from the final mRNA (exon skipping)"
+          "text": "An entire exon is removed from the final mRNA"
         },
         {
           "label": "B",
@@ -4183,7 +4183,7 @@
         },
         {
           "label": "E",
-          "text": "Addition of the mannose-6-phosphate tag that targets enzymes to the lysosome"
+          "text": "Addition of the mannose-6-phosphate tag"
         }
       ],
       "correctAnswer": "E",
@@ -4268,7 +4268,7 @@
         },
         {
           "label": "C",
-          "text": "Increased transforming growth factor beta (TGF-beta) activity"
+          "text": "Increased transforming growth factor beta activity"
         },
         {
           "label": "D",
@@ -4410,7 +4410,7 @@
         },
         {
           "label": "D",
-          "text": "Misfolded AAT accumulates in the hepatocyte endoplasmic reticulum, causing cell stress and death"
+          "text": "Misfolded AAT accumulates in the hepatocyte endoplasmic reticulum"
         },
         {
           "label": "E",
@@ -4453,7 +4453,7 @@
         },
         {
           "label": "C",
-          "text": "The overall equilibrium (thermodynamic spontaneity) of the reaction"
+          "text": "The overall equilibrium of the reaction"
         },
         {
           "label": "D",
@@ -5194,7 +5194,7 @@
         },
         {
           "label": "C",
-          "text": "Both bind at the active site and tend to resemble the substrate"
+          "text": "Both bind at the active site"
         },
         {
           "label": "D",
@@ -5232,7 +5232,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Vmax is lowered while the affinity (Km) of the remaining enzyme for substrate is unchanged"
+          "text": "Vmax is lowered while the affinity (Km) is unchanged"
         },
         {
           "label": "B",
@@ -5283,7 +5283,7 @@
         },
         {
           "label": "B",
-          "text": "Phase I reactions (largely CYP450-catalyzed) oxidize/hydrolyze substrates, while phase II reactions covalently add polar groups such as glucuronate, sulfate, or glutathione"
+          "text": "Phase I reactions (largely CYP450-catalyzed) oxidize/hydrolyze substrates, while phase II reactions covalently add polar groups"
         },
         {
           "label": "C",
@@ -5330,7 +5330,7 @@
         },
         {
           "label": "B",
-          "text": "They generate a free-radical/reactive oxygen intermediate that can be cytotoxic upon accumulation"
+          "text": "They generate a free-radical/reactive oxygen intermediate"
         },
         {
           "label": "C",
@@ -5377,7 +5377,7 @@
         },
         {
           "label": "B",
-          "text": "CYP2E1 has a higher Km for ethanol (~10 mM vs ~1 mM for ADH) and is induced by ethanol, so heavy drinking increases toxic by-product formation"
+          "text": "CYP2E1 has a higher Km for ethanol and is induced by ethanol, so heavy drinking increases toxic by-product formation"
         },
         {
           "label": "C",
@@ -5472,7 +5472,7 @@
         },
         {
           "label": "B",
-          "text": "His defective phase II conjugation cannot keep pace, so acetaminophen is shunted through CYP2E1 to NAPQI and bilirubin conjugation is impaired, causing hepatotoxicity and jaundice"
+          "text": "His defective phase II conjugation cannot keep pace, so acetaminophen is shunted through CYP2E1 to NAPQI and bilirubin conjugation is impaired"
         },
         {
           "label": "C",
@@ -5977,7 +5977,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Applying a labeled anti-human antibody that produces a color change with substrate"
+          "text": "Applying a labeled anti-human antibody"
         },
         {
           "label": "B",

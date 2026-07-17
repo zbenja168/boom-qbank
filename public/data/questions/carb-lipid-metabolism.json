@@ -425,7 +425,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "It pulls the cyclic/open-chain equilibrium toward the open-chain aldehyde form that is oxidized"
+          "text": "It pulls the cyclic/open-chain equilibrium toward the open-chain aldehyde form"
         },
         {
           "label": "B",
@@ -668,7 +668,7 @@
         },
         {
           "label": "D",
-          "text": "Conversion of excess galactose to galactitol by aldose reductase, causing osmotic and oxidative stress"
+          "text": "Conversion of excess galactose to galactitol by aldose reductase"
         },
         {
           "label": "E",
@@ -1580,7 +1580,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Pyruvate dehydrogenase requires thiamin, so glucose cannot be properly metabolized without it, worsening lactic acidosis and neurologic dysfunction"
+          "text": "Pyruvate dehydrogenase requires thiamin, so glucose cannot be properly metabolized without it"
         },
         {
           "label": "B",
@@ -1822,7 +1822,7 @@
         },
         {
           "label": "C",
-          "text": "Fructose enters glycolysis below the PFK-1 step, escaping feedback inhibition by ATP and citrate and feeding lipogenesis"
+          "text": "Fructose enters glycolysis below the PFK-1 step, escaping feedback inhibition and feeding lipogenesis"
         },
         {
           "label": "D",
@@ -2101,7 +2101,7 @@
         },
         {
           "label": "B",
-          "text": "Glucose binds hemoglobin non-enzymatically in a purely equilibrium-driven manner that rises with circulating glucose"
+          "text": "Glucose binds hemoglobin non-enzymatically in a purely equilibrium-driven manner"
         },
         {
           "label": "C",
@@ -3542,7 +3542,7 @@
         },
         {
           "label": "B",
-          "text": "Irreversible inhibition of platelet COX-1, blocking thromboxane A2 for the platelet's lifespan"
+          "text": "Irreversible inhibition of platelet COX-1, blocking thromboxane A2"
         },
         {
           "label": "C",

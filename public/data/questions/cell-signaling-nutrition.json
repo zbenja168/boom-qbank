@@ -747,7 +747,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Inhibition of the Axin/APC/GSK-3-beta destruction complex, stabilizing beta-catenin"
+          "text": "Inhibition of the Axin/APC/GSK-3-beta destruction complex"
         },
         {
           "label": "B",
@@ -793,7 +793,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Constitutive G-alpha-s activation causing excessive adenylate cyclase and cAMP"
+          "text": "Constitutive G-alpha-s activation"
         },
         {
           "label": "B",
@@ -1069,7 +1069,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Beta-catenin is released and translocates to the nucleus to alter gene expression"
+          "text": "Beta-catenin is released and translocates to the nucleus"
         },
         {
           "label": "B",
@@ -1897,7 +1897,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "The monomer is the most active form, so preventing hexamers speeds availability"
+          "text": "The monomer is the most active form"
         },
         {
           "label": "B",
@@ -1943,7 +1943,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Activates AMPK, which promotes GLUT4 translocation to the cell surface"
+          "text": "Activates AMPK, which promotes GLUT4 translocation"
         },
         {
           "label": "B",
@@ -2733,7 +2733,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Prostaglandin release causing cutaneous vasodilation and increased blood flow"
+          "text": "Prostaglandin release causing cutaneous vasodilation"
         },
         {
           "label": "B",
@@ -2780,7 +2780,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Thick mucus blocks pancreatic ducts, reducing lipase delivery and impairing incorporation of the vitamin into chylomicrons"
+          "text": "Thick mucus blocks pancreatic ducts, reducing lipase delivery"
         },
         {
           "label": "B",
@@ -3105,7 +3105,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Granuloma macrophages express 1-alpha-hydroxylase, causing extrarenal activation of vitamin D and increased intestinal calcium absorption"
+          "text": "Granuloma macrophages express 1-alpha-hydroxylase, causing extrarenal activation of vitamin D"
         },
         {
           "label": "B",
@@ -3245,7 +3245,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "It inhibits epoxide reductase, preventing regeneration of reduced vitamin K needed for clotting factor carboxylation"
+          "text": "It inhibits epoxide reductase, preventing regeneration of reduced vitamin K"
         },
         {
           "label": "B",
@@ -3809,7 +3809,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Phosphate is removed from the body exclusively by the kidneys, with none lost through the GI tract"
+          "text": "Phosphate is removed from the body exclusively by the kidneys"
         },
         {
           "label": "B",

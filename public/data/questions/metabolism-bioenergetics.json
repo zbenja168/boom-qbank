@@ -289,7 +289,7 @@
         },
         {
           "label": "B",
-          "text": "A larger, more oxidizable carbon substrate produces more reduced coenzymes to drive the ETC"
+          "text": "A larger, more oxidizable carbon substrate produces more reduced coenzymes"
         },
         {
           "label": "C",
@@ -429,7 +429,7 @@
         },
         {
           "label": "B",
-          "text": "HBOT delivers about 100% oxygen to raise tissue oxygen and restore ATP for the energetically expensive healing process"
+          "text": "HBOT delivers about 100% oxygen to raise tissue oxygen and restore ATP"
         },
         {
           "label": "C",
@@ -476,7 +476,7 @@
         },
         {
           "label": "B",
-          "text": "Insulin; glycogenesis in the liver and skeletal muscle"
+          "text": "Insulin; glycogenesis"
         },
         {
           "label": "C",
@@ -707,7 +707,7 @@
         },
         {
           "label": "B",
-          "text": "NADH:NAD+ inhibiting gluconeogenesis"
+          "text": "NADH:NAD+"
         },
         {
           "label": "C",
@@ -1084,7 +1084,7 @@
         },
         {
           "label": "C",
-          "text": "Cytochrome P450 2E1 (CYP2E1)"
+          "text": "Cytochrome P450 2E1"
         },
         {
           "label": "D",
@@ -1679,7 +1679,7 @@
         },
         {
           "label": "B",
-          "text": "Dissipation of the proton gradient apart from ATP synthase, releasing energy as heat"
+          "text": "Dissipation of the proton gradient apart from ATP synthase"
         },
         {
           "label": "C",
@@ -1820,7 +1820,7 @@
         },
         {
           "label": "B",
-          "text": "Uncoupling of oxidative phosphorylation by shuttling protons across the mitochondrial membrane"
+          "text": "Uncoupling of oxidative phosphorylation"
         },
         {
           "label": "C",
@@ -2110,7 +2110,7 @@
         },
         {
           "label": "D",
-          "text": "ATP depletion together with reactive oxygen species from impeded electron flow"
+          "text": "ATP depletion together with reactive oxygen species"
         },
         {
           "label": "E",
@@ -2703,7 +2703,7 @@
         },
         {
           "label": "B",
-          "text": "Hyperventilation lowers CO2 and H+, increasing hemoglobin oxygen affinity and reducing tissue delivery; rebreathing restores CO2"
+          "text": "Hyperventilation lowers CO2 and H+, increasing hemoglobin oxygen affinity; rebreathing restores CO2"
         },
         {
           "label": "C",
@@ -3024,7 +3024,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Folate corrects the anemia but does not prevent the irreparable nerve damage of ongoing B12 deficiency"
+          "text": "Folate corrects the anemia but does not prevent the irreparable nerve damage"
         },
         {
           "label": "B",

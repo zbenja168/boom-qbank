@@ -928,7 +928,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "It binds glutamine, the predominant nitrogen transporter, for urinary excretion"
+          "text": "It binds glutamine for urinary excretion"
         },
         {
           "label": "B",
@@ -1484,7 +1484,7 @@
         },
         {
           "label": "B",
-          "text": "BH4 cannot be recycled, impairing tyrosine and tryptophan hydroxylases as well"
+          "text": "BH4 cannot be recycled, impairing tyrosine and tryptophan hydroxylases"
         },
         {
           "label": "C",
@@ -1990,7 +1990,7 @@
         },
         {
           "label": "B",
-          "text": "It photo-isomerizes unconjugated bilirubin into a water-soluble form excreted in bile and urine"
+          "text": "It photo-isomerizes unconjugated bilirubin into a water-soluble form"
         },
         {
           "label": "C",
@@ -2447,7 +2447,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Iron is trapped in endosomal vesicles and cannot be released to bind transferrin"
+          "text": "Iron is trapped in endosomal vesicles and cannot be released"
         },
         {
           "label": "B",
@@ -2539,7 +2539,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Increased ferroportin activity due to reduced hepcidin function"
+          "text": "Increased ferroportin activity"
         },
         {
           "label": "B",
@@ -2683,7 +2683,7 @@
         },
         {
           "label": "B",
-          "text": "IL-6-driven inflammation raises hepcidin, reducing iron absorption and release from stores"
+          "text": "IL-6-driven inflammation raises hepcidin, reducing iron absorption"
         },
         {
           "label": "C",
@@ -3651,7 +3651,7 @@
         },
         {
           "label": "B",
-          "text": "Preventing degradation of LDL receptors so they recycle to the cell surface"
+          "text": "Preventing degradation of LDL receptors"
         },
         {
           "label": "C",
@@ -4291,7 +4291,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "A defective ATP-dependent ABC transporter for very-long-chain fatty acids"
+          "text": "A defective ABC transporter for very-long-chain fatty acids"
         },
         {
           "label": "B",
@@ -4383,7 +4383,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Very-long-chain fatty acids greater than 22 carbons, which are shortened to medium-chain fatty acids"
+          "text": "Very-long-chain fatty acids greater than 22 carbons"
         },
         {
           "label": "B",

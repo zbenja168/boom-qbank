@@ -12,7 +12,7 @@
         },
         {
           "label": "B",
-          "text": "Fluorescence in situ hybridization (FISH)"
+          "text": "Fluorescence in situ hybridization"
         },
         {
           "label": "C",
@@ -62,7 +62,7 @@
         },
         {
           "label": "C",
-          "text": "Array comparative genomic hybridization (array CGH)"
+          "text": "Array comparative genomic hybridization"
         },
         {
           "label": "D",
@@ -610,7 +610,7 @@
         },
         {
           "label": "B",
-          "text": "A point mutation abolished the DdeI recognition site so the enzyme cannot cut"
+          "text": "A point mutation abolished the DdeI recognition site"
         },
         {
           "label": "C",
@@ -1250,7 +1250,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "A high initial target concentration and high gene expression"
+          "text": "A high initial target concentration"
         },
         {
           "label": "B",
@@ -1388,7 +1388,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Ct values on the y-axis against the log10 of the known concentrations on the x-axis, fit with a linear regression line"
+          "text": "Ct values on the y-axis against the log10 of the known concentrations on the x-axis"
         },
         {
           "label": "B",
@@ -1572,7 +1572,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Fluorescence is measured at every cycle, allowing DNA to be quantified in real time"
+          "text": "Fluorescence is measured at every cycle"
         },
         {
           "label": "B",
@@ -1898,7 +1898,7 @@
         },
         {
           "label": "B",
-          "text": "Pregnancy-associated plasma protein A (PAPP-A) and free beta-hCG"
+          "text": "Pregnancy-associated plasma protein A and free beta-hCG"
         },
         {
           "label": "C",
@@ -2036,7 +2036,7 @@
         },
         {
           "label": "B",
-          "text": "Trophoblast cells of the chorionic villi, from the extraembryonic part of the embryo"
+          "text": "Trophoblast cells of the chorionic villi"
         },
         {
           "label": "C",
@@ -2128,7 +2128,7 @@
         },
         {
           "label": "B",
-          "text": "Perform a diagnostic test such as amniocentesis or CVS with karyotype"
+          "text": "Perform a diagnostic test such as amniocentesis or CVS"
         },
         {
           "label": "C",
@@ -2354,7 +2354,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Delivering the siRNA across the blood-brain barrier to the central nervous system"
+          "text": "Delivering the siRNA across the blood-brain barrier"
         },
         {
           "label": "B",
@@ -2446,7 +2446,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Animal models have limitations, and results may not translate directly to humans"
+          "text": "Animal models have limitations"
         },
         {
           "label": "B",
@@ -2630,7 +2630,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "To allow selection of the cells that took up and integrated the cassette"
+          "text": "To allow selection of the cells that integrated the cassette"
         },
         {
           "label": "B",
@@ -2864,7 +2864,7 @@
         },
         {
           "label": "B",
-          "text": "It has a low prevalence in the general population, and affected families carry a higher recurrence risk"
+          "text": "It has a low prevalence in the general population"
         },
         {
           "label": "C",
@@ -2910,7 +2910,7 @@
         },
         {
           "label": "B",
-          "text": "Because an affected female must exceed a higher threshold, she likely carries a greater genetic load, so her relatives have a higher recurrence risk"
+          "text": "Because an affected female must exceed a higher threshold, she likely carries a greater genetic load"
         },
         {
           "label": "C",
@@ -2956,7 +2956,7 @@
         },
         {
           "label": "B",
-          "text": "Non-genetic factors, such as environment or epigenetics, contribute to the disease"
+          "text": "Non-genetic factors contribute to the disease"
         },
         {
           "label": "C",
@@ -3140,7 +3140,7 @@
         },
         {
           "label": "B",
-          "text": "The patient will accumulate higher warfarin levels and require a lower dose to reduce bleeding risk"
+          "text": "The patient will accumulate higher warfarin levels and require a lower dose"
         },
         {
           "label": "C",
@@ -3279,7 +3279,7 @@
         },
         {
           "label": "B",
-          "text": "It contributes to normal traits such as height and eye color as well as to disease susceptibility"
+          "text": "It contributes to normal traits as well as to disease susceptibility"
         },
         {
           "label": "C",
@@ -3643,7 +3643,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "The panel detects a smaller proportion of the disease-causing CFTR mutations present in people of Asian ancestry, so a negative result misses more carriers"
+          "text": "The panel detects a smaller proportion of the disease-causing CFTR mutations present in people of Asian ancestry"
         },
         {
           "label": "B",
@@ -3974,7 +3974,7 @@
         },
         {
           "label": "C",
-          "text": "Single-nucleotide polymorphisms (SNPs)"
+          "text": "Single-nucleotide polymorphisms"
         },
         {
           "label": "D",
@@ -4066,7 +4066,7 @@
         },
         {
           "label": "C",
-          "text": "Increased enzyme activity clears the drug before it can act, lowering effectiveness"
+          "text": "Increased enzyme activity clears the drug before it can act"
         },
         {
           "label": "D",
@@ -4108,7 +4108,7 @@
         },
         {
           "label": "B",
-          "text": "Intermediate metabolizer with reduced drug clearance and increased adverse effects"
+          "text": "Intermediate metabolizer with reduced drug clearance"
         },
         {
           "label": "C",
