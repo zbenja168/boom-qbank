@@ -1846,7 +1846,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Accumulation of misfolded huntingtin protein with an expanded polyglutamine tract"
+          "text": "Accumulation of misfolded huntingtin protein"
         },
         {
           "label": "B",
@@ -2037,7 +2037,7 @@
         },
         {
           "label": "B",
-          "text": "She is a premutation carrier whose allele may expand to a full mutation in her children"
+          "text": "She is a premutation carrier whose allele may expand to a full mutation"
         },
         {
           "label": "C",
@@ -2131,7 +2131,7 @@
         },
         {
           "label": "B",
-          "text": "A non-staining gap at the terminal end of the long arm of the X chromosome"
+          "text": "A non-staining gap at the long arm of the X chromosome"
         },
         {
           "label": "C",
@@ -3096,7 +3096,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Methylation of cytosine residues within the imprinting control region"
+          "text": "Methylation of cytosine residues"
         },
         {
           "label": "B",
@@ -3234,7 +3234,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Microsatellite or SNP analysis of the child and parents"
+          "text": "Microsatellite or SNP analysis"
         },
         {
           "label": "B",
@@ -3789,7 +3789,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "CALCA/CALCB, encoding calcitonin gene-related peptide (CGRP)"
+          "text": "CALCA/CALCB, encoding calcitonin gene-related peptide"
         },
         {
           "label": "B",

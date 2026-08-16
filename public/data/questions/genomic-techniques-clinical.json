@@ -564,7 +564,7 @@
         },
         {
           "label": "B",
-          "text": "Thermus aquaticus, a thermophilic bacterium from hot springs"
+          "text": "Thermus aquaticus, a thermophilic bacterium"
         },
         {
           "label": "C",
@@ -794,7 +794,7 @@
         },
         {
           "label": "B",
-          "text": "They lack a 3-prime hydroxyl group, preventing phosphodiester bond formation"
+          "text": "They lack a 3-prime hydroxyl group"
         },
         {
           "label": "C",
@@ -1526,7 +1526,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Identifying a specific germline point mutation as the primary diagnostic test"
+          "text": "Identifying a specific germline point mutation"
         },
         {
           "label": "B",
@@ -4016,7 +4016,7 @@
         },
         {
           "label": "B",
-          "text": "Decreased inactivation of 6-mercaptopurine allows cytotoxic metabolites to accumulate"
+          "text": "Decreased inactivation of 6-mercaptopurine"
         },
         {
           "label": "C",
@@ -4288,7 +4288,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "It studies how variations in a single gene affect an individual's response to a specific drug"
+          "text": "It studies how variations in a single gene affect response to a specific drug"
         },
         {
           "label": "B",

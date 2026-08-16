@@ -518,7 +518,7 @@
         },
         {
           "label": "B",
-          "text": "An octamer of two copies each of H2A, H2B, H3, and H4"
+          "text": "An octamer of H2A, H2B, H3, and H4"
         },
         {
           "label": "C",
@@ -1388,7 +1388,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "The Y chromosome; it encodes the testis-determining transcription factor"
+          "text": "The Y chromosome; it encodes the testis-determining factor"
         },
         {
           "label": "B",
@@ -1618,7 +1618,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Ovarian dysgenesis with premature ovarian failure and low estrogen"
+          "text": "Ovarian dysgenesis with premature ovarian failure"
         },
         {
           "label": "B",
@@ -2625,7 +2625,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Selection against genetically unbalanced cells favors survival of those inactivating the abnormal X"
+          "text": "Selection against genetically unbalanced cells"
         },
         {
           "label": "B",
@@ -2679,7 +2679,7 @@
         },
         {
           "label": "C",
-          "text": "The child is at increased risk of having fully affected offspring because germline involvement cannot be excluded"
+          "text": "The child is at increased risk of having fully affected offspring"
         },
         {
           "label": "D",
@@ -3283,7 +3283,7 @@
         },
         {
           "label": "B",
-          "text": "FISH is a targeted method that only reveals suspected abnormalities"
+          "text": "FISH is a targeted method"
         },
         {
           "label": "C",

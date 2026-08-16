@@ -981,7 +981,7 @@
         },
         {
           "label": "B",
-          "text": "It acts as a soluble decoy that binds TNF-alpha but cannot transduce a signal"
+          "text": "It acts as a soluble decoy that binds TNF-alpha"
         },
         {
           "label": "C",
@@ -2081,7 +2081,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Exercise-driven AMPK activation adds insulin-independent glucose uptake on top of sulfonylurea-stimulated insulin secretion"
+          "text": "Exercise-driven AMPK activation"
         },
         {
           "label": "B",
@@ -2127,7 +2127,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Insulin-stimulated glycolysis drives phosphate from serum into cells"
+          "text": "Insulin-stimulated glycolysis drives phosphate into cells"
         },
         {
           "label": "B",
@@ -2409,7 +2409,7 @@
         },
         {
           "label": "B",
-          "text": "Mature cross-linked collagen"
+          "text": "Cross-linked collagen"
         },
         {
           "label": "C",
@@ -2919,7 +2919,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "It drives differentiation of the leukemic cells into mature, nondividing granulocytes"
+          "text": "It drives differentiation of the leukemic cells into mature granulocytes"
         },
         {
           "label": "B",
@@ -3105,7 +3105,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Granuloma macrophages express 1-alpha-hydroxylase, causing extrarenal activation of vitamin D"
+          "text": "Granuloma macrophages express 1-alpha-hydroxylase"
         },
         {
           "label": "B",
@@ -3152,7 +3152,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Elevated blood calcium causing precipitation of calcium oxalate and vascular calcium phosphate deposition"
+          "text": "Elevated blood calcium"
         },
         {
           "label": "B",
@@ -3292,7 +3292,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Vitamin K crosses the placenta poorly, breast milk is low in vitamin K, and the newborn gut lacks the bacteria that synthesize it"
+          "text": "Vitamin K crosses the placenta poorly, and the newborn gut lacks the bacteria that synthesize it"
         },
         {
           "label": "B",

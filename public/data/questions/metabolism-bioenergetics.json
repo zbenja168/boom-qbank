@@ -657,7 +657,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "They lack mitochondria and therefore rely on glycolysis for ATP"
+          "text": "They lack mitochondria"
         },
         {
           "label": "B",
@@ -1629,7 +1629,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Reduced ATP production due to a lower inner-membrane surface-area-to-volume ratio"
+          "text": "Reduced ATP production due to a lower surface-area-to-volume ratio"
         },
         {
           "label": "B",
@@ -1679,7 +1679,7 @@
         },
         {
           "label": "B",
-          "text": "Dissipation of the proton gradient apart from ATP synthase"
+          "text": "Dissipation of the proton gradient"
         },
         {
           "label": "C",
@@ -1777,7 +1777,7 @@
         },
         {
           "label": "C",
-          "text": "Uncoupling protein-1 (UCP-1)"
+          "text": "Uncoupling protein-1"
         },
         {
           "label": "D",
@@ -2200,7 +2200,7 @@
         },
         {
           "label": "C",
-          "text": "Complex IV is a required step for electrons from both complex I and complex II, whereas complex II can still feed the chain when complex I is blocked"
+          "text": "Complex IV is a required step for electrons from both complex I and complex II"
         },
         {
           "label": "D",
@@ -2427,7 +2427,7 @@
         },
         {
           "label": "B",
-          "text": "A polar, negatively charged glutamate replaced by nonpolar valine, promoting hemoglobin polymerization"
+          "text": "A polar glutamate replaced by nonpolar valine, promoting hemoglobin polymerization"
         },
         {
           "label": "C",
@@ -2607,7 +2607,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "2,3-BPG, formed from 1,3-bisphosphoglycerate by bisphosphoglycerate mutase"
+          "text": "2,3-BPG, formed from 1,3-bisphosphoglycerate"
         },
         {
           "label": "B",
@@ -2803,7 +2803,7 @@
         },
         {
           "label": "D",
-          "text": "Inhibited or ineffective DNA synthesis with continued cytoplasmic growth"
+          "text": "Ineffective DNA synthesis with continued cytoplasmic growth"
         },
         {
           "label": "E",
@@ -2930,7 +2930,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Dihydrofolate reductase (DHFR)"
+          "text": "Dihydrofolate reductase"
         },
         {
           "label": "B",
@@ -3024,7 +3024,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Folate corrects the anemia but does not prevent the irreparable nerve damage"
+          "text": "Folate corrects the anemia but does not prevent nerve damage"
         },
         {
           "label": "B",
@@ -3163,7 +3163,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Nitrous oxide binds the cobalt ion, rendering cobalamin inert"
+          "text": "Nitrous oxide binds the cobalt ion"
         },
         {
           "label": "B",
@@ -3307,7 +3307,7 @@
         },
         {
           "label": "B",
-          "text": "Mean corpuscular volume (MCV)"
+          "text": "Mean corpuscular volume"
         },
         {
           "label": "C",

@@ -514,7 +514,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Respiratory alkalosis from ammonia effects on brainstem respiratory centers"
+          "text": "Respiratory alkalosis from ammonia effects"
         },
         {
           "label": "B",
@@ -794,7 +794,7 @@
         },
         {
           "label": "B",
-          "text": "It is a synthetic N-acetylglutamate analog that directly activates CPS-I"
+          "text": "It is a synthetic N-acetylglutamate analog"
         },
         {
           "label": "C",
@@ -1066,7 +1066,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Negative nitrogen balance because protein catabolism causes nitrogen loss to exceed intake"
+          "text": "Negative nitrogen balance because protein catabolism causes nitrogen loss"
         },
         {
           "label": "B",
@@ -1300,7 +1300,7 @@
         },
         {
           "label": "B",
-          "text": "Deficient tyrosine available for melanin synthesis"
+          "text": "Deficient tyrosine for melanin synthesis"
         },
         {
           "label": "C",
@@ -1484,7 +1484,7 @@
         },
         {
           "label": "B",
-          "text": "BH4 cannot be recycled, impairing tyrosine and tryptophan hydroxylases"
+          "text": "BH4 cannot be recycled"
         },
         {
           "label": "C",
@@ -1618,7 +1618,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Microcephaly and congenital heart defects"
+          "text": "Microcephaly"
         },
         {
           "label": "B",
@@ -1668,7 +1668,7 @@
         },
         {
           "label": "B",
-          "text": "Transiently low hepatic UDP-glucuronosyltransferase activity"
+          "text": "Low hepatic UDP-glucuronosyltransferase activity"
         },
         {
           "label": "C",
@@ -1802,7 +1802,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Vitamin B6 (pyridoxal phosphate)"
+          "text": "Vitamin B6"
         },
         {
           "label": "B",
@@ -1898,7 +1898,7 @@
         },
         {
           "label": "B",
-          "text": "Carbon monoxide and ferrous iron (Fe2+)"
+          "text": "Carbon monoxide and ferrous iron"
         },
         {
           "label": "C",
@@ -1990,7 +1990,7 @@
         },
         {
           "label": "B",
-          "text": "It photo-isomerizes unconjugated bilirubin into a water-soluble form"
+          "text": "It photo-isomerizes bilirubin into a water-soluble form"
         },
         {
           "label": "C",
@@ -2417,7 +2417,7 @@
         },
         {
           "label": "E",
-          "text": "Fe3+ is reduced to Fe2+ by duodenal cytochrome B, then Fe2+ enters the enterocyte via DMT-1"
+          "text": "Fe3+ is reduced to Fe2+ by duodenal cytochrome B, then enters via DMT-1"
         }
       ],
       "correctAnswer": "E",
@@ -2594,7 +2594,7 @@
         },
         {
           "label": "C",
-          "text": "Iron overload causing hyperpigmentation, insulin resistance, and suppressed insulin release"
+          "text": "Iron overload causing hyperpigmentation and suppressed insulin release"
         },
         {
           "label": "D",
@@ -3095,7 +3095,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Ketone-derived acetyl-CoA bypasses the deficient pyruvate dehydrogenase step"
+          "text": "Ketone-derived acetyl-CoA bypasses pyruvate dehydrogenase"
         },
         {
           "label": "B",
@@ -3187,7 +3187,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Excess glucose-6-phosphate is shunted into the pentose phosphate pathway to overproduce purines, while lactate competes with urate for renal excretion"
+          "text": "Excess glucose-6-phosphate is shunted into the pentose phosphate pathway to overproduce purines"
         },
         {
           "label": "B",
@@ -4061,7 +4061,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Enzyme replacement therapy can allow him to live a relatively long, normal life"
+          "text": "Enzyme replacement therapy can allow him to live a long, normal life"
         },
         {
           "label": "B",
@@ -4291,7 +4291,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "A defective ABC transporter for very-long-chain fatty acids"
+          "text": "A defective ABC transporter"
         },
         {
           "label": "B",

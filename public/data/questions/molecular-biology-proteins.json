@@ -242,7 +242,7 @@
         },
         {
           "label": "B",
-          "text": "It inhibits microtubule polymerization, preventing phagocytosis of urate crystals"
+          "text": "It inhibits microtubule polymerization"
         },
         {
           "label": "C",
@@ -1116,7 +1116,7 @@
         },
         {
           "label": "B",
-          "text": "A single hydrogen on the 2' carbon instead of a hydroxyl group"
+          "text": "A single hydrogen on the 2' carbon"
         },
         {
           "label": "C",
@@ -1342,7 +1342,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Histones are rich in positively charged amino acids that attract the negatively charged phosphate backbone"
+          "text": "Histones are rich in positively charged amino acids"
         },
         {
           "label": "B",
@@ -1484,7 +1484,7 @@
         },
         {
           "label": "B",
-          "text": "Decreased gene expression by promoting condensation into heterochromatin"
+          "text": "Decreased gene expression by promoting condensation"
         },
         {
           "label": "C",
@@ -2400,7 +2400,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Increased degradation by cytoplasmic 5' exonucleases"
+          "text": "Increased degradation by 5' exonucleases"
         },
         {
           "label": "B",
@@ -2777,7 +2777,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "The mutated codon still specifies the same amino acid because the genetic code is redundant"
+          "text": "The mutated codon still specifies the same amino acid"
         },
         {
           "label": "B",
@@ -2827,7 +2827,7 @@
         },
         {
           "label": "B",
-          "text": "Premature termination of translation yielding a truncated, non-functional protein"
+          "text": "Premature termination yielding a truncated, non-functional protein"
         },
         {
           "label": "C",
@@ -3106,7 +3106,7 @@
         },
         {
           "label": "B",
-          "text": "A somatic mutation limited to a subset of tissues and not inherited"
+          "text": "A somatic mutation limited to a subset of tissues"
         },
         {
           "label": "C",
@@ -3611,7 +3611,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "It blocks degradation of pro-apoptotic proteins, allowing them to accumulate and trigger apoptosis"
+          "text": "It blocks degradation of pro-apoptotic proteins"
         },
         {
           "label": "B",
@@ -4087,7 +4087,7 @@
         },
         {
           "label": "D",
-          "text": "Tetrahydrobiopterin (BH4)"
+          "text": "Tetrahydrobiopterin"
         },
         {
           "label": "E",
@@ -4352,7 +4352,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Intellectual disability with a high risk of thrombosis"
+          "text": "Intellectual disability"
         },
         {
           "label": "B",
@@ -4584,7 +4584,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Muscle cannot liberate glucose substrates from glycogen for ATP production during exertion"
+          "text": "Muscle cannot liberate glucose substrates from glycogen"
         },
         {
           "label": "B",
@@ -5051,7 +5051,7 @@
         },
         {
           "label": "B",
-          "text": "It permits rapid, high-volume conversion of glucose to glucose 6-phosphate for storage pathways only when glucose is plentiful"
+          "text": "It permits rapid, high-volume conversion of glucose to glucose 6-phosphate only when glucose is plentiful"
         },
         {
           "label": "C",
@@ -5283,7 +5283,7 @@
         },
         {
           "label": "B",
-          "text": "Phase I reactions (largely CYP450-catalyzed) oxidize/hydrolyze substrates, while phase II reactions covalently add polar groups"
+          "text": "Phase I reactions oxidize/hydrolyze substrates, while phase II reactions covalently add polar groups"
         },
         {
           "label": "C",
@@ -5377,7 +5377,7 @@
         },
         {
           "label": "B",
-          "text": "CYP2E1 has a higher Km for ethanol and is induced by ethanol, so heavy drinking increases toxic by-product formation"
+          "text": "CYP2E1 has a higher Km and is induced by ethanol, so heavy drinking increases toxic by-product formation"
         },
         {
           "label": "C",
@@ -5472,7 +5472,7 @@
         },
         {
           "label": "B",
-          "text": "His defective phase II conjugation cannot keep pace, so acetaminophen is shunted through CYP2E1 to NAPQI and bilirubin conjugation is impaired"
+          "text": "His defective phase II conjugation cannot keep pace, so acetaminophen is shunted to NAPQI"
         },
         {
           "label": "C",
@@ -5516,7 +5516,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "N-acetylcysteine, because it rapidly replenishes glutathione (GSH) stores to neutralize NAPQI"
+          "text": "N-acetylcysteine, because it rapidly replenishes glutathione stores"
         },
         {
           "label": "B",
@@ -5659,7 +5659,7 @@
         },
         {
           "label": "B",
-          "text": "A protective concentration of anti-hepatitis B antibodies is present, indicating immunity"
+          "text": "A protective concentration of anti-hepatitis B antibodies is present"
         },
         {
           "label": "C",
@@ -5889,7 +5889,7 @@
         },
         {
           "label": "B",
-          "text": "Deoxygenated HbS exposes valine and polymerizes; treatment aims to raise oxygen saturation"
+          "text": "Deoxygenated HbS exposes valine; treatment aims to raise oxygen saturation"
         },
         {
           "label": "C",

@@ -425,7 +425,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "It pulls the cyclic/open-chain equilibrium toward the open-chain aldehyde form"
+          "text": "It pulls the equilibrium toward the open-chain aldehyde form"
         },
         {
           "label": "B",
@@ -610,7 +610,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Galactose-1-phosphate uridyl transferase (GALT)"
+          "text": "Galactose-1-phosphate uridyl transferase"
         },
         {
           "label": "B",
@@ -668,7 +668,7 @@
         },
         {
           "label": "D",
-          "text": "Conversion of excess galactose to galactitol by aldose reductase"
+          "text": "Conversion of excess galactose to galactitol"
         },
         {
           "label": "E",
@@ -802,7 +802,7 @@
         },
         {
           "label": "C",
-          "text": "It creates many non-reducing ends where degradative enzymes act simultaneously"
+          "text": "It creates many non-reducing ends where degradative enzymes act"
         },
         {
           "label": "D",
@@ -948,7 +948,7 @@
         },
         {
           "label": "E",
-          "text": "Osmotically active lactic acid from bacterial fermentation drawing water into the lumen"
+          "text": "Osmotically active lactic acid from bacterial fermentation"
         }
       ],
       "correctAnswer": "E",
@@ -1032,7 +1032,7 @@
         },
         {
           "label": "C",
-          "text": "Hydrogen, methane, and hydrogen sulfide"
+          "text": "Hydrogen"
         },
         {
           "label": "D",
@@ -1082,7 +1082,7 @@
         },
         {
           "label": "D",
-          "text": "Depleting ATP through phosphate trapping and inhibiting glycogen phosphorylase"
+          "text": "Depleting ATP and inhibiting glycogen phosphorylase"
         },
         {
           "label": "E",
@@ -1580,7 +1580,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Pyruvate dehydrogenase requires thiamin, so glucose cannot be properly metabolized without it"
+          "text": "Pyruvate dehydrogenase requires thiamin"
         },
         {
           "label": "B",
@@ -1728,7 +1728,7 @@
         },
         {
           "label": "C",
-          "text": "Dihydroxyacetone phosphate (DHAP) and glyceraldehyde 3-phosphate"
+          "text": "Dihydroxyacetone phosphate and glyceraldehyde 3-phosphate"
         },
         {
           "label": "D",
@@ -1771,7 +1771,7 @@
         },
         {
           "label": "B",
-          "text": "Phosphofructokinase-1 (PFK-1)"
+          "text": "Phosphofructokinase-1"
         },
         {
           "label": "C",
@@ -1822,7 +1822,7 @@
         },
         {
           "label": "C",
-          "text": "Fructose enters glycolysis below the PFK-1 step, escaping feedback inhibition and feeding lipogenesis"
+          "text": "Fructose enters glycolysis below the PFK-1 step, feeding lipogenesis"
         },
         {
           "label": "D",
@@ -1908,7 +1908,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Fructose does not acutely stimulate insulin secretion, but it still bypasses PFK-1 regulation and feeds lipogenesis"
+          "text": "Fructose does not acutely stimulate insulin secretion, but bypasses PFK-1 regulation"
         },
         {
           "label": "B",
@@ -2755,7 +2755,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Fat-soluble vitamins A, D, E, and K"
+          "text": "Fat-soluble vitamins"
         },
         {
           "label": "B",
