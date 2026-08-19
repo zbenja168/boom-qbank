@@ -9,10 +9,15 @@ import { ReviewPage, type ReviewMode } from './pages/ReviewPage';
 import { BrandBadge } from './components/Brand';
 import { track } from './utils/track';
 import { Tier } from './utils/questionLoader';
+import { restoreSkin } from './utils/skin';
 
 type Page = 'home' | 'quiz' | 'dashboard' | 'review';
 
 function AppShell() {
+  // Re-apply a saved exam skin on load, and drop it if the account that
+  // unlocked it is no longer signed in.
+  useEffect(() => { restoreSkin(); }, []);
+
   const [page, setPage] = useState<Page>('home');
   const [tier, setTierState] = useState<Tier>(
     () => (localStorage.getItem('boom_qbank_tier') === 'advanced' ? 'advanced' : 'standard'),
