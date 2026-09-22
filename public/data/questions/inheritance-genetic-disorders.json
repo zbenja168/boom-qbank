@@ -1397,7 +1397,7 @@
         },
         {
           "label": "D",
-          "text": "Progressive worsening of the mutation across generations"
+          "text": "Progressive increase in mutant load across successive generations"
         },
         {
           "label": "E",
@@ -4190,7 +4190,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "A second primer flanking the opposite end of the target is missing"
+          "text": "A second primer flanking the opposite end of the amplified region is missing"
         },
         {
           "label": "B",
@@ -4559,34 +4559,34 @@
       "choices": [
         {
           "label": "A",
-          "text": "The DdeI recognition site is intact in both alleles"
+          "text": "Amplification produced a single product of the predicted size"
         },
         {
           "label": "B",
-          "text": "The exact nucleotide sequence of the product is known"
+          "text": "The DdeI recognition site is intact in both alleles"
         },
         {
           "label": "C",
-          "text": "The patient is heterozygous for a point mutation"
+          "text": "The exact nucleotide sequence of the product is known"
         },
         {
           "label": "D",
-          "text": "The product contains a repeat expansion"
+          "text": "The patient is heterozygous for a point mutation"
         },
         {
           "label": "E",
-          "text": "The target region was amplified at the expected size"
+          "text": "The product contains a repeat expansion"
         }
       ],
-      "correctAnswer": "E",
+      "correctAnswer": "A",
       "explanation": {
         "summary": "A single band at the expected size confirms successful amplification but reveals nothing about the DNA sequence.",
         "whyCorrect": "The DNA ladder provides known fragment sizes for comparison, and a single band at about 450 bp indicates successful amplification of the target region. Electrophoresis is a fast, inexpensive preliminary check used before sequencing the PCR product; it confirms whether PCR amplified the target but does not reveal the exact DNA sequence.",
         "whyWrongByChoice": {
-          "A": "No restriction digestion was performed, so nothing can be concluded about the DdeI site.",
-          "B": "Electrophoresis does not reveal the exact DNA sequence; that requires sequencing.",
-          "C": "A single-base heterozygous change does not alter fragment size and cannot be seen on an agarose gel of undigested product.",
-          "D": "A band at the expected size argues against, not for, a size-altering repeat expansion."
+          "B": "No restriction digestion was performed, so nothing can be concluded about the DdeI site.",
+          "C": "Electrophoresis does not reveal the exact DNA sequence; that requires sequencing.",
+          "D": "A single-base heterozygous change does not alter fragment size and cannot be seen on an agarose gel of undigested product.",
+          "E": "A band at the expected size argues against, not for, a size-altering repeat expansion."
         }
       },
       "difficulty": "easy",
@@ -4836,7 +4836,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "A heterozygous insertion or deletion beginning at base 121"
+          "text": "A heterozygous insertion or deletion starting at base 121"
         },
         {
           "label": "B",
@@ -4925,7 +4925,7 @@
     },
     {
       "id": "bo48-036",
-      "stem": "A 42-year-old man has a progressive neurologic disorder that his neurologist suspects is caused by an expansion of a nucleotide repeat within a known gene. Whole-exome sequencing by NGS is reported as negative. Which of the following best explains the negative result?",
+      "stem": "A 42-year-old man has a progressive neurologic disorder that has appeared at an earlier age in each successive generation of his family. Whole-exome sequencing by NGS is reported as negative. Which of the following best explains the negative result?",
       "choices": [
         {
           "label": "A",
@@ -5580,7 +5580,7 @@
     },
     {
       "id": "bo49-014",
-      "stem": "A 52-year-old man undergoes resection of a colorectal adenocarcinoma. Molecular analysis of tumor DNA shows that many microsatellite loci have lengths that differ from those in his matched normal colonic tissue. Which of the following terms best describes this finding?",
+      "stem": "A 52-year-old man undergoes resection of a colorectal adenocarcinoma. Molecular analysis of tumor DNA shows that many short tandem repeat loci have lengths that differ from those in his matched normal colonic tissue. Which of the following terms best describes this finding?",
       "choices": [
         {
           "label": "A",
@@ -5912,33 +5912,33 @@
       "choices": [
         {
           "label": "A",
-          "text": "Genetic anticipation"
+          "text": "Contraction of the expanded allele during transmission"
         },
         {
           "label": "B",
-          "text": "Germline expansion during maternal transmission"
+          "text": "Genetic anticipation"
         },
         {
           "label": "C",
-          "text": "Incomplete penetrance of the maternal allele"
+          "text": "Germline expansion during maternal transmission"
         },
         {
           "label": "D",
-          "text": "Repeat contraction during transmission"
+          "text": "Incomplete penetrance of the maternal allele"
         },
         {
           "label": "E",
           "text": "Somatic mosaicism confined to leukocytes"
         }
       ],
-      "correctAnswer": "D",
+      "correctAnswer": "A",
       "explanation": {
         "summary": "Repeat contractions, though less common than expansions, can modify symptom severity and delay onset.",
         "whyCorrect": "The younger son inherited fewer repeats (41) than his mother carried (45), a repeat contraction during transmission. While repeat expansions are more commonly associated with disease, contractions also have significant clinical implications: they can modify the severity of symptoms or delay the onset, matching his later, milder course.",
         "whyWrongByChoice": {
-          "A": "Anticipation would predict earlier and more severe disease than in the mother, which fits the older son, not the younger.",
-          "B": "Germline expansion would produce a larger repeat than the mother's, as occurred in the older son (48), not a smaller one.",
-          "C": "He is affected, so penetrance is not the issue; his milder phenotype tracks with a shorter repeat.",
+          "B": "Anticipation would predict earlier and more severe disease than in the mother, which fits the older son, not the younger.",
+          "C": "Germline expansion would produce a larger repeat than the mother's, as occurred in the older son (48), not a smaller one.",
+          "D": "He is affected, so penetrance is not the issue; his milder phenotype tracks with a shorter repeat.",
           "E": "Leukocyte-restricted mosaicism is not described; his blood count of 41 reflects the inherited allele."
         }
       },
@@ -6286,7 +6286,7 @@
         },
         {
           "label": "B",
-          "text": "Progressive weakness of the respiratory muscles"
+          "text": "Progressive weakness of the diaphragm and chest wall muscles"
         },
         {
           "label": "C",
@@ -6652,7 +6652,7 @@
     },
     {
       "id": "bo50-001",
-      "stem": "A 22-year-old man presents to the emergency department for sudden, nontraumatic, painless bilateral loss of vision. He reports some initial blurring that progressed rapidly to loss of sight over a day, without pain or other symptoms. An ophthalmology consult confirms bilateral optic nerve involvement. Which of the following is the most likely diagnosis?",
+      "stem": "A 22-year-old man presents to the emergency department for sudden, nontraumatic, painless bilateral loss of vision. He reports some initial blurring that progressed rapidly to loss of sight over a day, without pain or other symptoms. An ophthalmology consult confirms bilateral central scotomas with a normal-appearing retina. Which of the following is the most likely diagnosis?",
       "choices": [
         {
           "label": "A",
@@ -6802,7 +6802,7 @@
         },
         {
           "label": "C",
-          "text": "MELAS (lactic acidosis with strokes)"
+          "text": "MELAS (ragged-red fibers, lactic acidosis, strokes)"
         },
         {
           "label": "D",
@@ -8585,7 +8585,7 @@
     },
     {
       "id": "bo51-007",
-      "stem": "A geneticist wants a single first-line test that can simultaneously detect abnormal DNA methylation, copy number variations, and uniparental disomy within known imprinted regions, and can indicate which parental allele is affected. Which of the following techniques is most appropriate?",
+      "stem": "A geneticist wants a single first-line test that can simultaneously detect an abnormal epigenetic mark, copy number variations, and uniparental disomy within known imprinted regions, and can indicate which parental allele is affected. Which of the following techniques is most appropriate?",
       "choices": [
         {
           "label": "A",
@@ -9001,7 +9001,7 @@
     },
     {
       "id": "bo51-016",
-      "stem": "A research team reports the first generation of fertile mice through uniparental reproduction in mammals, using genetic material from two sperm cells. Which of the following interventions allowed the embryos to bypass the imprinting barrier?",
+      "stem": "A research team reports the first generation of fertile mice through uniparental reproduction in mammals, using genetic material from two sperm cells. Which of the following interventions allowed the embryos to overcome this barrier?",
       "choices": [
         {
           "label": "A",
@@ -9201,7 +9201,7 @@
         },
         {
           "label": "D",
-          "text": "An epimutation that gave both alleles a maternal methylation pattern"
+          "text": "An epimutation that made both alleles carry the maternal imprint"
         },
         {
           "label": "E",
@@ -9922,7 +9922,7 @@
     },
     {
       "id": "bo51-036",
-      "stem": "In a normal cell, the maternal IGF2 allele at 11p15 is silent even though the gene itself is intact and enhancers are present nearby. Which of the following mechanisms best explains this silencing?",
+      "stem": "In a normal cell, the maternal IGF2 allele at 11p15 is silent even though the gene itself is structurally intact. Which of the following mechanisms best explains this silencing?",
       "choices": [
         {
           "label": "A",
@@ -10246,7 +10246,7 @@
     },
     {
       "id": "bo52-007",
-      "stem": "A research team wants to identify common genetic variants that occur more frequently in patients with type 2 diabetes than in unaffected controls, scanning the genomes of tens of thousands of individuals. Which study design is being described?",
+      "stem": "A research team wants to identify common genetic variants that occur more frequently in patients with type 2 diabetes than in unaffected controls, testing millions of variants across tens of thousands of individuals. Which study design is being described?",
       "choices": [
         {
           "label": "A",
@@ -10292,7 +10292,7 @@
     },
     {
       "id": "bo52-008",
-      "stem": "A geneticist explains that a typical human genome carries roughly 5 to 10 million single-nucleotide polymorphisms (SNPs), most of which are benign and present in more than 1% of the population. Which term best describes this class of common, benign sequence variants?",
+      "stem": "A geneticist explains that a typical human genome carries roughly 5 to 10 million single-nucleotide variants, most of which are benign and present in more than 1% of the population. Which term best describes this class of common, benign sequence variants?",
       "choices": [
         {
           "label": "A",
@@ -10569,7 +10569,7 @@
     },
     {
       "id": "bo52-014",
-      "stem": "Investigators examined DNA methylation in the peripheral blood of teenage grandchildren whose grandmothers had smoked during pregnancy. Which of the following best describes the pattern of methylation associations that was reported?",
+      "stem": "Investigators examined DNA methylation in the peripheral blood of teenage grandchildren whose grandmothers had smoked during pregnancy. Which of the following best describes the pattern of methylation that was reported?",
       "choices": [
         {
           "label": "A",
@@ -11540,7 +11540,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Empirical data on observed recurrence in affected families"
+          "text": "Empirical data observed in families with an affected child"
         },
         {
           "label": "B",
@@ -12083,7 +12083,7 @@
     },
     {
       "id": "bo53-011",
-      "stem": "A student lists conditions under which a population would remain in Hardy-Weinberg equilibrium. Which of the following, if present in a population, would violate a Hardy-Weinberg assumption and shift allele frequencies over generations?",
+      "stem": "A student lists conditions under which a population would remain in Hardy-Weinberg equilibrium. Which of the following, if present in a population, would violate a Hardy-Weinberg assumption and shift gene frequencies over generations?",
       "choices": [
         {
           "label": "A",
@@ -12128,7 +12128,7 @@
     },
     {
       "id": "bo53-012",
-      "stem": "A population geneticist explains that a certain deleterious recessive allele persists in a population at a stable low frequency because the rate at which it is newly created by mutation is balanced by the rate at which it is removed by selection. This steady state is best described as which of the following?",
+      "stem": "A population geneticist explains that a certain deleterious recessive allele persists in a population at a stable low frequency because new copies arise from errors in DNA replication at the same rate that affected homozygotes are removed from the breeding population. This steady state is best described as which of the following?",
       "choices": [
         {
           "label": "A",
@@ -12722,7 +12722,7 @@
     },
     {
       "id": "bo53-025",
-      "stem": "A physician in a region with little to no malaria notes that sickle cell disease is essentially absent from the local, historically isolated population. Which of the following best explains why this population selected against the HbS allele?",
+      "stem": "A physician in a region with little to no malaria notes that sickle cell disease is essentially absent from the local, geographically isolated population. Which of the following best explains why this population selected against the HbS allele?",
       "choices": [
         {
           "label": "A",

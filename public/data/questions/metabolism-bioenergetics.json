@@ -50,7 +50,7 @@
     },
     {
       "id": "bo01-002",
-      "stem": "The amino acid tyrosine is synthesized from the amino acid phenylalanine. Considering only the perspective of phenylalanine, which is consumed in this reaction, the transformation is best described as which of the following?",
+      "stem": "The amino acid tyrosine is synthesized from the amino acid phenylalanine. Considering only the perspective of phenylalanine, the transformation is best described as which of the following?",
       "choices": [
         {
           "label": "A",
@@ -58,7 +58,7 @@
         },
         {
           "label": "B",
-          "text": "Catabolic, because ATP is always produced when an amino acid reacts"
+          "text": "Catabolic, because ATP is always produced when phenylalanine reacts"
         },
         {
           "label": "C",
@@ -79,7 +79,7 @@
         "whyCorrect": "From the perspective of phenylalanine, the reaction is catabolic because phenylalanine is consumed. From the perspective of tyrosine the same reaction is anabolic because tyrosine is produced, illustrating why perspective matters when classifying pathways.",
         "whyWrongByChoice": {
           "A": "Forming tyrosine is anabolic only from tyrosine's perspective; the question specifies phenylalanine's perspective, from which it is catabolic.",
-          "B": "ATP is not always produced when an amino acid reacts, and that is not the reason this is catabolic from phenylalanine's viewpoint.",
+          "B": "ATP is not always produced when phenylalanine reacts, and that is not the reason this is catabolic from phenylalanine's viewpoint.",
           "D": "Whether ATP is involved is not the basis for calling it catabolic; consumption of phenylalanine defines it as catabolic here.",
           "E": "Phenylalanine is in fact converted to tyrosine, so the transformation can be classified."
         }
@@ -433,7 +433,7 @@
         },
         {
           "label": "C",
-          "text": "HBOT eliminates the healing tissue's need for the electron transport chain"
+          "text": "HBOT supplies enough oxygen to eliminate the healing tissue's need for the electron transport chain"
         },
         {
           "label": "D",
@@ -1325,7 +1325,7 @@
         },
         {
           "label": "E",
-          "text": "Substrate abundance determines the extent of product formation"
+          "text": "Substrate availability determines the extent of product formation"
         }
       ],
       "correctAnswer": "E",
@@ -2157,7 +2157,7 @@
         },
         {
           "label": "D",
-          "text": "Increased NADH from ethanol oxidation favors lactate"
+          "text": "Increased NADH from ethanol oxidation drives pyruvate to lactate"
         },
         {
           "label": "E",
@@ -2904,7 +2904,7 @@
         },
         {
           "label": "D",
-          "text": "Elevated NAD+ accelerates oxidation of fatty acids"
+          "text": "Elevated NAD+ accelerates hepatic lipid oxidation"
         },
         {
           "label": "E",
@@ -4228,7 +4228,7 @@
     },
     {
       "id": "bo03-020",
-      "stem": "In a hepatocyte, the TCA cycle slows and acetyl-CoA accumulates in the mitochondrial matrix. Which of the following ratio changes would be expected to inhibit beta-oxidation in this cell?",
+      "stem": "In a hepatocyte, the TCA cycle slows and the two-carbon unit that feeds it accumulates in the mitochondrial matrix. Which of the following ratio changes would be expected to inhibit beta-oxidation in this cell?",
       "choices": [
         {
           "label": "A",
@@ -4784,7 +4784,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Defective biogenesis or loss of a selective degradative enzyme"
+          "text": "Defective biogenesis or loss of a selective catabolic enzyme"
         },
         {
           "label": "B",
@@ -4796,7 +4796,7 @@
         },
         {
           "label": "D",
-          "text": "Lysosomal acid hydrolase deficiency or cytosolic waste accrual"
+          "text": "Lysosomal enzyme deficiency or cytosolic waste accrual"
         },
         {
           "label": "E",
@@ -6471,33 +6471,33 @@
       "choices": [
         {
           "label": "A",
-          "text": "Cyanide-induced release of excitatory neurotransmitters in addition to complex IV binding"
-        },
-        {
-          "label": "B",
           "text": "Depletion of ATP in cardiac and neural tissue from blocked oxidative phosphorylation"
         },
         {
-          "label": "C",
+          "label": "B",
           "text": "Reactive oxygen species damaging the sinoatrial node and cortical neurons within minutes"
         },
         {
-          "label": "D",
+          "label": "C",
           "text": "Reflex sympathetic response to persistent oxygenation of hemoglobin in the peripheral venous blood"
+        },
+        {
+          "label": "D",
+          "text": "Release of excitatory neurotransmitters in addition to complex IV binding"
         },
         {
           "label": "E",
           "text": "Thermogenesis from uncoupled OXPHOS in the brain and skeletal muscle raising core temperature"
         }
       ],
-      "correctAnswer": "A",
+      "correctAnswer": "D",
       "explanation": {
         "summary": "In addition to complex IV inhibition, cyanide causes release of excitatory neurotransmitters, producing early hypertension, tachycardia, anxiety, seizures, and pupillary dilation before later depression.",
         "whyCorrect": "CN toxicity most commonly occurs through exposure to burning nitrogen compounds in fires. In addition to the effects of complex IV binding, CN also causes the release of excitatory neurotransmitters, so patients may present with hypertension, tachycardia, anxiety, seizures, and pupillary dilation. As symptoms advance, the profound inability to utilize oxygen results in depressed mental status, hypotension, and bradycardia.",
         "whyWrongByChoice": {
-          "B": "ATP depletion accounts for the later phase of depressed mental status, hypotension, and bradycardia.",
-          "C": "ROS contribute to cellular injury but are not the described cause of the early excitatory phase.",
-          "D": "Persistent hemoglobin oxygenation explains cherry-red skin, not the excitatory neurologic findings.",
+          "A": "ATP depletion accounts for the later phase of depressed mental status, hypotension, and bradycardia.",
+          "B": "ROS contribute to cellular injury but are not the described cause of the early excitatory phase.",
+          "C": "Persistent hemoglobin oxygenation explains cherry-red skin, not the excitatory neurologic findings.",
           "E": "Cyanide is an ETC inhibitor, not an uncoupler, and does not produce thermogenesis."
         }
       },
@@ -7680,7 +7680,7 @@
         },
         {
           "label": "C",
-          "text": "HbF is a monomer that lacks binding cooperativity"
+          "text": "HbF is a monomer that lacks oxygen-binding cooperativity"
         },
         {
           "label": "D",
@@ -8925,7 +8925,7 @@
         },
         {
           "label": "B",
-          "text": "Cytoplasmic growth continues while nuclear division stalls"
+          "text": "Cytoplasmic volume continues to grow while nuclear division stalls"
         },
         {
           "label": "C",
@@ -9200,7 +9200,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Complex II of the electron transport chain, which contains FAD"
+          "text": "Complex II of the electron transport chain, which uses FAD"
         },
         {
           "label": "B",
@@ -9255,7 +9255,7 @@
         },
         {
           "label": "C",
-          "text": "Iron deficiency has progressed from mild to severe because riboflavin is needed for maximal iron absorption"
+          "text": "Iron deficiency has progressed from mild to profound because riboflavin is needed for maximal iron absorption"
         },
         {
           "label": "D",
@@ -9481,7 +9481,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Cobalamin, absorbed in the terminal ileum"
+          "text": "Cobalamin, absorbed in the terminal ileum rather than the jejunum"
         },
         {
           "label": "B",

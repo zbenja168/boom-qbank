@@ -1200,7 +1200,7 @@
     },
     {
       "id": "bo07-027",
-      "stem": "Because de novo pyrimidine synthesis requires a significant ATP investment, cells recycle free uracil back into UMP. Which of the following enzymes catalyzes this salvage reaction?",
+      "stem": "Because de novo synthesis of uracil nucleotides requires a significant ATP investment, cells recycle free uracil back into UMP. Which of the following enzymes catalyzes this salvage reaction?",
       "choices": [
         {
           "label": "A",
@@ -1434,7 +1434,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Daytime weight bearing damages the cartilage of the joint"
+          "text": "Daytime weight bearing damages the cartilage of distal joints"
         },
         {
           "label": "B",
@@ -2584,7 +2584,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Complete response identical to the initial course"
+          "text": "Complete response to the platinum-containing drug, identical to the initial course"
         },
         {
           "label": "B",
@@ -2998,7 +2998,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Any phase, because the pathway does not require a template"
+          "text": "Any phase, because the pathway does not require a homologous template"
         },
         {
           "label": "B",
@@ -3474,7 +3474,7 @@
         },
         {
           "label": "E",
-          "text": "Proper hydrogen bonding between complementary bases"
+          "text": "Proper hydrogen bonding between paired bases"
         }
       ],
       "correctAnswer": "E",
@@ -4164,7 +4164,7 @@
         },
         {
           "label": "E",
-          "text": "Many weak hydrogen bonds acting together create tight adhesion"
+          "text": "Many weak hydrogen bonds acting together create a firm adhesion"
         }
       ],
       "correctAnswer": "E",
@@ -5079,7 +5079,7 @@
         },
         {
           "label": "D",
-          "text": "Primase, which produces a short RNA primer"
+          "text": "Primase, which produces an RNA primer"
         },
         {
           "label": "E",
@@ -5667,7 +5667,7 @@
         },
         {
           "label": "B",
-          "text": "Hydrogen bonding between the incoming base and the template base"
+          "text": "Hydrogen bonding between the incoming nucleotide and the template base"
         },
         {
           "label": "C",
@@ -5751,7 +5751,7 @@
     },
     {
       "id": "bo10-018",
-      "stem": "At a replication fork, the bases of one parent template strand are being continuously exposed in the 3' to 5' direction as helicase advances. Which of the following correctly describes synthesis of the daughter strand on this template?",
+      "stem": "At a replication fork, the bases of one parent template strand are exposed in the 3' to 5' direction as helicase advances. Which of the following correctly describes synthesis of the daughter strand on this template?",
       "choices": [
         {
           "label": "A",
@@ -5901,7 +5901,7 @@
         },
         {
           "label": "C",
-          "text": "The opposite direction from the helicase, in short segments"
+          "text": "The opposite direction from the helicase, in short fragments"
         },
         {
           "label": "D",
@@ -6403,7 +6403,7 @@
         },
         {
           "label": "B",
-          "text": "When approximately 20 nucleotides have been added"
+          "text": "When approximately 20 nucleotides have been added after the primer"
         },
         {
           "label": "C",
@@ -6630,33 +6630,33 @@
       "choices": [
         {
           "label": "A",
-          "text": "Bacterial ribosomes differ from human ribosomes, and the drug binds only the bacterial subunits"
-        },
-        {
-          "label": "B",
           "text": "Human cells lack ribosomes entirely and instead translate their mRNA using the spliceosome"
         },
         {
-          "label": "C",
+          "label": "B",
           "text": "Human cells synthesize all of their proteins inside the nucleus, where the antibiotic cannot penetrate"
         },
         {
-          "label": "D",
+          "label": "C",
           "text": "Human mRNA is rapidly degraded by the antibiotic before it can ever be translated"
+        },
+        {
+          "label": "D",
+          "text": "Prokaryotic ribosomes differ from human ribosomes, and the drug binds only the prokaryotic subunits"
         },
         {
           "label": "E",
           "text": "The 5' cap on human mRNA prevents any antibiotic from binding to the transcript or ribosome"
         }
       ],
-      "correctAnswer": "A",
+      "correctAnswer": "D",
       "explanation": {
         "summary": "Prokaryotic and eukaryotic ribosomes are built from different subunits, so ribosome-targeting antibiotics are selective for bacteria.",
         "whyCorrect": "Prokaryotic ribosomes are made of 30S and 50S subunits that combine into a 70S ribosome, whereas human ribosomes use 40S and 60S subunits that combine into an 80S ribosome. Because the antibiotic binds only the subunits found in bacteria, it cannot affect human ribosomes or human protein synthesis.",
         "whyWrongByChoice": {
-          "B": "All human cells contain ribosomes; the spliceosome removes introns from pre-mRNA and does not translate mRNA.",
-          "C": "Eukaryotic translation occurs in the cytoplasm on free or RER-bound ribosomes, not in the nucleus.",
-          "D": "The antibiotic targets bacterial ribosomes and does not degrade human mRNA.",
+          "A": "All human cells contain ribosomes; the spliceosome removes introns from pre-mRNA and does not translate mRNA.",
+          "B": "Eukaryotic translation occurs in the cytoplasm on free or RER-bound ribosomes, not in the nucleus.",
+          "C": "The antibiotic targets bacterial ribosomes and does not degrade human mRNA.",
           "E": "The 5' cap aids export, protects against exonucleases, and initiates translation, but it does not block antibiotics; selectivity comes from ribosome differences."
         }
       },
@@ -6928,7 +6928,7 @@
         },
         {
           "label": "E",
-          "text": "Transcription terminates prematurely at the mutation"
+          "text": "Transcription terminates prematurely within the intron"
         }
       ],
       "correctAnswer": "B",
@@ -7156,11 +7156,11 @@
         },
         {
           "label": "C",
-          "text": "Retroviral reverse transcriptase"
+          "text": "Host nuclear RNA polymerase II"
         },
         {
           "label": "D",
-          "text": "Host nuclear RNA polymerase II"
+          "text": "Retroviral reverse transcriptase"
         },
         {
           "label": "E",
@@ -7174,8 +7174,8 @@
         "whyWrongByChoice": {
           "A": "Aminoacyl-tRNA synthetase charges tRNAs during translation and does not replicate viral genomes.",
           "B": "DNA polymerase synthesizes DNA and is used in DNA replication, not RNA-to-RNA copying.",
-          "C": "Reverse transcriptase makes DNA from an RNA template and is used by retroviruses like HIV, not by SARS-CoV-2 for genome replication.",
-          "D": "RNA polymerase II transcribes DNA into pre-mRNA and does not copy RNA into RNA."
+          "C": "RNA polymerase II transcribes DNA into pre-mRNA and does not copy RNA into RNA.",
+          "D": "Reverse transcriptase makes DNA from an RNA template and is used by retroviruses like HIV, not by SARS-CoV-2 for genome replication."
         }
       },
       "difficulty": "medium",
@@ -7242,11 +7242,11 @@
       "choices": [
         {
           "label": "A",
-          "text": "Enhancers located thousands of base pairs away bind RNA polymerase directly"
+          "text": "Enhancers located thousands of base pairs away bind RNA polymerase directly without transcription factors"
         },
         {
           "label": "B",
-          "text": "Exons are chemically distinct from introns and are recognized directly by RNA polymerase"
+          "text": "Exon sequences are chemically distinct from intron sequences and are recognized directly by RNA polymerase"
         },
         {
           "label": "C",
@@ -7812,7 +7812,7 @@
         },
         {
           "label": "C",
-          "text": "Ribosomal RNAs assembled with proteins into 40S and 60S subunits"
+          "text": "Ribosomal RNAs assembled with proteins into small 40S and large 60S subunits"
         },
         {
           "label": "D",
@@ -7820,7 +7820,7 @@
         },
         {
           "label": "E",
-          "text": "Transfer RNAs charged with amino acids"
+          "text": "Small transfer RNAs charged with amino acids"
         }
       ],
       "correctAnswer": "D",
@@ -7894,7 +7894,7 @@
     },
     {
       "id": "bo11-028",
-      "stem": "A 30-year-old woman with an autoimmune disease is found to carry a variant in the CTLA4 gene. Sequencing shows that the variant lies outside the coding exons, within a transcription factor binding site in the promoter, and that CTLA4 mRNA levels in her lymphocytes are altered. Which of the following best describes the mechanism by which this variant contributes to disease?",
+      "stem": "A 30-year-old woman with an autoimmune disease is found to carry a variant in the CTLA4 gene. Sequencing shows that the variant lies outside the coding exons, within a transcription factor binding site in the promoter, and that CTLA4 mRNA levels in her lymphocytes are reduced. Which of the following best describes the mechanism by which this variant contributes to disease?",
       "choices": [
         {
           "label": "A",
@@ -8270,7 +8270,7 @@
     },
     {
       "id": "bo11-036",
-      "stem": "A fibroblast line produces a lysosomal digestive enzyme with a normal signal sequence, yet the enzyme accumulates in the cytoplasm rather than reaching the lysosome. Translation of the enzyme is never paused, and the ribosomes synthesizing it are not found bound to the rough endoplasmic reticulum. Which of the following is most likely defective in these cells?",
+      "stem": "A fibroblast line produces a lysosomal digestive enzyme with a normal N-terminal targeting sequence, yet the enzyme accumulates in the cytoplasm rather than reaching the lysosome. Translation of the enzyme is never paused, and the ribosomes synthesizing it are not found bound to the rough endoplasmic reticulum. Which of the following is most likely defective in these cells?",
       "choices": [
         {
           "label": "A",
@@ -8375,26 +8375,26 @@
         },
         {
           "label": "C",
-          "text": "Premature termination yielding a truncated, non-functional protein"
-        },
-        {
-          "label": "D",
           "text": "Production of a full-length protein with a single altered amino acid"
         },
         {
-          "label": "E",
+          "label": "D",
           "text": "Retention of an intron in the mature mRNA"
+        },
+        {
+          "label": "E",
+          "text": "Synthesis of a truncated, non-functional protein"
         }
       ],
-      "correctAnswer": "C",
+      "correctAnswer": "E",
       "explanation": {
         "summary": "A nonsense mutation creates a premature stop codon that terminates translation early, producing a truncated protein.",
         "whyCorrect": "A premature termination codon (UAA, UGA, or UAG) causes the ribosome to stop translation before the full protein is made. Most truncated proteins lack the active portion and are non-functional; in cystic fibrosis this yields a dysfunctional CFTR protein and thick, sticky mucus.",
         "whyWrongByChoice": {
           "A": "Inserting an amino acid without a frameshift describes an in-frame insertion, not a premature stop codon.",
           "B": "Overexpression of a normal product describes a gain-of-function mutation, the opposite of premature termination.",
-          "D": "A single altered amino acid in a full-length protein describes a missense mutation, not a nonsense mutation.",
-          "E": "Intron retention results from a splice donor site mutation, not from a nonsense point mutation."
+          "C": "A single altered amino acid in a full-length protein describes a missense mutation, not a nonsense mutation.",
+          "D": "Intron retention results from a splice donor site mutation, not from a nonsense point mutation."
         }
       },
       "difficulty": "medium",
@@ -8503,7 +8503,7 @@
     },
     {
       "id": "bo12-005",
-      "stem": "A gene is found to have a deletion of exactly three consecutive nucleotides within its coding region. Compared with the normal protein, the encoded protein is missing one amino acid but the rest of its downstream sequence is unchanged. Which of the following best explains why a frameshift did not occur?",
+      "stem": "A gene is found to have a small deletion within its coding region. Compared with the normal protein, the encoded protein is missing one amino acid but the rest of its downstream sequence is unchanged. Which of the following best explains why a frameshift did not occur?",
       "choices": [
         {
           "label": "A",
@@ -8558,7 +8558,7 @@
         },
         {
           "label": "B",
-          "text": "Splice acceptor site; a cryptic exon is inserted"
+          "text": "Splice acceptor site; a cryptic exon is created within the intron"
         },
         {
           "label": "C",
@@ -8662,7 +8662,7 @@
         },
         {
           "label": "E",
-          "text": "A splice site mutation affecting all cells equally"
+          "text": "A splice site mutation affecting all tissues equally"
         }
       ],
       "correctAnswer": "D",
@@ -8673,7 +8673,7 @@
           "A": "The family history is negative and the mutation is not in germ cells, so it was not inherited from a parent.",
           "B": "A germline mutation would be present in every cell, including blood and germ cells, which contradicts the testing results.",
           "C": "A silent mutation has no clinical consequence, but this patient has a defined disease phenotype.",
-          "E": "The mutation is described as present in only a subset of tissues, not affecting all cells equally."
+          "E": "The mutation is described as present in only a subset of tissues, not affecting all tissues equally."
         }
       },
       "difficulty": "medium",
@@ -9198,7 +9198,7 @@
     },
     {
       "id": "bo12-020",
-      "stem": "An mRNA with the sequence 5'-CUCAGCGUUACCAU-3' is normally translated as Leu-Ser-Val-Thr. In a mutant cell, the ribosome begins reading this same unchanged sequence one nucleotide downstream of the normal starting point. Which of the following best describes the resulting product?",
+      "stem": "An mRNA with the sequence 5'-CUCAGCGUUACCAU-3' is normally translated as Leu-Ser-Val-Thr. In a mutant cell, the ribosome begins translating this same unchanged sequence one nucleotide downstream of the normal starting point. Which of the following best describes the resulting product?",
       "choices": [
         {
           "label": "A",
@@ -9758,11 +9758,11 @@
       "choices": [
         {
           "label": "A",
-          "text": "A somatic mutation arising very early in development"
+          "text": "A change in a single nucleotide"
         },
         {
           "label": "B",
-          "text": "An alteration of a single nucleotide"
+          "text": "A somatic mutation arising very early in development"
         },
         {
           "label": "C",
@@ -9777,12 +9777,12 @@
           "text": "Haploinsufficiency of a cluster of genes at 7q11.23"
         }
       ],
-      "correctAnswer": "B",
+      "correctAnswer": "A",
       "explanation": {
         "summary": "Cystic fibrosis, sickle-cell anemia, and Tay-Sachs are common diseases caused by point mutations, which alter a single nucleotide.",
         "whyCorrect": "A point mutation is an alteration in a single nucleotide. Although point mutations involve only one nucleotide, they can significantly affect phenotype and lead to disease; the brick lists cystic fibrosis, sickle-cell anemia, and Tay-Sachs as common diseases caused by a point mutation.",
         "whyWrongByChoice": {
-          "A": "An early somatic mutation is the mechanism of McCune-Albright syndrome, which is not inherited.",
+          "B": "An early somatic mutation is the mechanism of McCune-Albright syndrome, which is not inherited.",
           "C": "Creation of a novel exon is a splice site mutation outcome, not the category the brick cites for these diseases.",
           "D": "Deletion of an entire gene is one cause of a null mutation, not the point mutation category shared by these three diseases.",
           "E": "Haploinsufficiency of genes at 7q11.23 causes Williams syndrome, a neurodevelopmental disorder."
@@ -9901,7 +9901,7 @@
         },
         {
           "label": "B",
-          "text": "One normal allele supplies enough functional product for a normal phenotype"
+          "text": "One normal allele supplies enough functional product to prevent disease"
         },
         {
           "label": "C",
@@ -10263,7 +10263,7 @@
     },
     {
       "id": "bo13-007",
-      "stem": "A patient with multiple myeloma, a cancer of antibody-producing B cells, is treated with bortezomib, a proteasome inhibitor. These malignant cells rapidly ubiquitinate and degrade pro-apoptotic proteins to escape programmed cell death. Which of the following best explains how proteasome inhibition helps kill these cancer cells?",
+      "stem": "A patient with multiple myeloma, a cancer of antibody-producing B cells, is treated with bortezomib, a proteasome inhibitor. These malignant cells rapidly ubiquitinate and degrade the mediators of programmed cell death. Which of the following best explains how proteasome inhibition helps kill these cancer cells?",
       "choices": [
         {
           "label": "A",
@@ -10604,11 +10604,11 @@
         },
         {
           "label": "D",
-          "text": "A proteogenic amino acid targeted for phosphorylation by protein kinases"
+          "text": "A proteogenic alpha-amino acid targeted for phosphorylation by protein kinases"
         },
         {
           "label": "E",
-          "text": "A proteogenic amino acid carrying a positively charged basic side chain"
+          "text": "A proteogenic alpha-amino acid carrying a positively charged basic side chain"
         }
       ],
       "correctAnswer": "B",
@@ -12268,7 +12268,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Additional oxidative stress from the liver disease is outpacing the reduction of glutathione"
+          "text": "Additional oxidative stress from his hepatic disease is outpacing the reduction of glutathione"
         },
         {
           "label": "B",
@@ -12322,25 +12322,25 @@
         },
         {
           "label": "C",
-          "text": "They express a specific G6PD isoform and, lacking mitochondria, depend entirely on PPP-derived NADPH"
+          "text": "They lack glutathione altogether and therefore rely solely on NADPH to neutralize oxidizing agents"
         },
         {
           "label": "D",
-          "text": "They lack glutathione altogether and therefore rely solely on NADPH to neutralize oxidizing agents"
+          "text": "They rely on a red cell-specific G6PD isoform and, lacking mitochondria, depend entirely on PPP-derived NADPH"
         },
         {
           "label": "E",
           "text": "They survive longer than other cells, allowing oxidative damage to accumulate before repair occurs"
         }
       ],
-      "correctAnswer": "C",
+      "correctAnswer": "D",
       "explanation": {
         "summary": "G6PD deficiency affects red blood cells because they express a specific G6PD isoform and, lacking mitochondria, depend entirely on pentose-phosphate-pathway NADPH.",
         "whyCorrect": "Although G6PD is expressed widely, the disease is caused by a lack of a specific isoform of G6PD expressed in RBCs. In addition, RBCs are uniquely affected because they lack mitochondria and depend entirely on PPP-derived NADPH to regenerate reduced glutathione and neutralize oxidizing agents.",
         "whyWrongByChoice": {
           "A": "The vulnerability lies in the red cell's inability to regenerate NADPH, not in a greater exposure to oxidants.",
           "B": "The pentose phosphate pathway obtains its substrates from glycolysis in red cells; that supply is not the defect.",
-          "D": "Red blood cells contain glutathione; the problem is generating the reduced form, not a lack of the tripeptide.",
+          "C": "Red blood cells contain glutathione; the problem is generating the reduced form, not a lack of the tripeptide.",
           "E": "Red cell longevity is not the explanation given; the lack of mitochondria and isoform-specific deficiency are."
         }
       },
@@ -13357,7 +13357,7 @@
         },
         {
           "label": "E",
-          "text": "The time required for product to accumulate"
+          "text": "The time required to reach equilibrium"
         }
       ],
       "correctAnswer": "B",
@@ -13368,7 +13368,7 @@
           "A": "Lowering the activation energy is the defining action of an enzyme, so this is changed.",
           "C": "Enzymes favor formation of the transition state, accelerating its appearance.",
           "D": "By lowering activation energy the enzyme increases the forward rate, so this is changed.",
-          "E": "Because the rate is increased, product accumulates in less time."
+          "E": "Because the enzyme increases the rate, equilibrium is reached in less time."
         }
       },
       "difficulty": "medium",
@@ -13707,7 +13707,7 @@
     },
     {
       "id": "bo15-009",
-      "stem": "An investigator plots reaction velocity against substrate concentration for a multi-subunit enzyme and obtains a sigmoidal (S-shaped) curve rather than a hyperbolic one. Which property best explains why this enzyme does not obey Michaelis-Menten kinetics?",
+      "stem": "An investigator plots reaction velocity against substrate concentration for an enzyme with quaternary structure and obtains a sigmoidal (S-shaped) curve rather than a hyperbolic one. Which property best explains why this enzyme does not obey Michaelis-Menten kinetics?",
       "choices": [
         {
           "label": "A",
@@ -13984,7 +13984,7 @@
     },
     {
       "id": "bo15-015",
-      "stem": "An investigator determines the maximum number of substrate molecules that a single molecule of a purified enzyme can convert to product per second. Which of the following terms describes this value?",
+      "stem": "An investigator determines how many substrate molecules a single molecule of a purified enzyme can convert to product each second when it is fully saturated with substrate. Which of the following terms describes this value?",
       "choices": [
         {
           "label": "A",
@@ -14634,11 +14634,11 @@
       "choices": [
         {
           "label": "A",
-          "text": "Adding a transition state analogue"
+          "text": "Adding a transition state analogue to the reaction"
         },
         {
           "label": "B",
-          "text": "Adding an allosteric inhibitor"
+          "text": "Adding an allosteric inhibitor of the enzyme"
         },
         {
           "label": "C",
@@ -15398,7 +15398,7 @@
         },
         {
           "label": "E",
-          "text": "CYP2E1 is inhibited by ethanol, decreasing its activity as alcohol intake rises"
+          "text": "CYP2E1 is inhibited by ethanol, so heavy drinking decreases its activity"
         }
       ],
       "correctAnswer": "B",
@@ -15584,14 +15584,14 @@
         },
         {
           "label": "D",
-          "text": "Its hydrophobic character prevents it from crossing the membrane"
+          "text": "Its negatively charged phosphate prevents transport out of the cell"
         },
         {
           "label": "E",
-          "text": "Its negatively charged phosphate prevents transport out of the cell"
+          "text": "The hydrophobic character of its phosphate group prevents it from crossing the membrane"
         }
       ],
-      "correctAnswer": "E",
+      "correctAnswer": "D",
       "explanation": {
         "summary": "Phosphorylation of glucose adds a negative charge that traps glucose 6-phosphate inside the cell for intracellular metabolism.",
         "whyCorrect": "Hexokinase and glucokinase transfer a phosphate from ATP onto glucose in the first step of glycolysis. Addition of a negatively charged phosphate to glucose prevents its transport out of the cell, effectively trapping it for intracellular metabolism.",
@@ -15599,7 +15599,7 @@
           "A": "Glucose 6-phosphate does not bind the transporter irreversibly; it simply cannot be transported because of its charge.",
           "B": "Red blood cells are incapable of storing glucose as glycogen; retention is due to the charge of the phosphate, not polymerization.",
           "C": "Red blood cells cannot convert glucose into lipids; retention occurs immediately upon phosphorylation.",
-          "D": "The phosphate makes the molecule more charged and polar, not hydrophobic."
+          "E": "The phosphate makes the molecule more charged and polar, not hydrophobic."
         }
       },
       "difficulty": "easy",

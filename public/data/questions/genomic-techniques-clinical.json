@@ -1803,7 +1803,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "To confirm that the target region was successfully amplified"
+          "text": "To confirm that the target region was amplified at its expected size"
         },
         {
           "label": "B",
@@ -2041,7 +2041,7 @@
         },
         {
           "label": "C",
-          "text": "DNA fragmentation, adapter ligation to create a library, PCR amplification, base-by-base reading on the platform"
+          "text": "DNA fragmentation, adapter ligation to create a library, PCR amplification, base-by-base reading of the library fragments"
         },
         {
           "label": "D",
@@ -2765,7 +2765,7 @@
     },
     {
       "id": "bo56-013",
-      "stem": "A 34-year-old woman presents with fever and cough during a respiratory virus outbreak. A nasal swab is sent for real-time PCR testing for SARS-CoV-2. The laboratory protocol for this virus includes an initial reverse-transcription step that is absent from its protocol for a DNA-genome pathogen. Which feature of the pathogen best explains the need for this additional step?",
+      "stem": "A 34-year-old woman presents with fever and cough during a respiratory virus outbreak. A nasal swab is sent for real-time PCR testing for SARS-CoV-2. The laboratory protocol for this virus includes an initial reverse-transcription step that is absent from its protocol for a pathogen whose genetic material is DNA. Which feature of the pathogen best explains the need for this additional step?",
       "choices": [
         {
           "label": "A",
@@ -3179,7 +3179,7 @@
     },
     {
       "id": "bo56-022",
-      "stem": "A carcinoma cell line is exposed to increasing concentrations of a compound for 72 hours, and mRNA expression of a target gene is then measured by qPCR. The results are graphed with the untreated (0 µM) sample set to 1.0 and the highest dose reaching about 2.0. Which of the following best describes the value of 2.0?",
+      "stem": "A carcinoma cell line is exposed to increasing concentrations of a compound for 72 hours, and mRNA expression of a target gene is then measured by qPCR. The results are graphed with the 0 µM sample set to 1.0 and the highest dose reaching about 2.0. Which of the following best describes the value of 2.0?",
       "choices": [
         {
           "label": "A",
@@ -3333,7 +3333,7 @@
         },
         {
           "label": "D",
-          "text": "RNA-seq precision depends on sequencing depth and alignment accuracy"
+          "text": "RNA-seq quantification depends on sequencing depth and alignment accuracy"
         },
         {
           "label": "E",
@@ -3475,7 +3475,7 @@
         },
         {
           "label": "E",
-          "text": "Reverse transcription of the extracted RNA into cDNA"
+          "text": "Reverse transcription of the RNA into cDNA"
         }
       ],
       "correctAnswer": "E",
@@ -3705,7 +3705,7 @@
         },
         {
           "label": "E",
-          "text": "Single-cell RNA sequencing across developmental stages"
+          "text": "Single-cell RNA sequencing across successive embryonic stages"
         }
       ],
       "correctAnswer": "E",
@@ -4257,7 +4257,7 @@
         },
         {
           "label": "E",
-          "text": "Trophoblast cells of the chorionic villi"
+          "text": "Trophoblast cells of the placental villi"
         }
       ],
       "correctAnswer": "E",
@@ -5019,7 +5019,7 @@
     },
     {
       "id": "bo57-026",
-      "stem": "Parents who recently moved to a new state notice that their second baby's newborn screening panel lists different metabolic conditions than the panel their first baby received. Which of the following best explains this difference?",
+      "stem": "Parents who recently moved to a new state notice that their second baby's newborn screening panel lists different conditions than the panel their first baby received. Which of the following best explains this difference?",
       "choices": [
         {
           "label": "A",
@@ -5943,7 +5943,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "To allow selection of the cells that integrated the cassette"
+          "text": "To allow selection of the cells in which the construct was inserted"
         },
         {
           "label": "B",
@@ -6503,7 +6503,7 @@
         },
         {
           "label": "C",
-          "text": "Increase the concentration of the original siRNA stepwise"
+          "text": "Increase the concentration of the original siRNA sequence stepwise"
         },
         {
           "label": "D",
@@ -6679,7 +6679,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Ectopic expression of a reporter protein"
+          "text": "Ectopic expression of a reporter gene"
         },
         {
           "label": "B",
@@ -6771,7 +6771,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "It finds new uses for existing compounds, bypassing early development"
+          "text": "It finds new uses for existing drugs, bypassing early development"
         },
         {
           "label": "B",
@@ -6817,7 +6817,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Because heterozygotes arise only when the germ cells carry the mutation"
+          "text": "Because heterozygotes arise only when the germ cells contain the knock-out allele"
         },
         {
           "label": "B",
@@ -8241,7 +8241,7 @@
     },
     {
       "id": "bo60-012",
-      "stem": "A harmful recessive allele that causes disease only in homozygotes persists in a large population at a low, stable frequency across many generations. Selection removes affected homozygotes each generation, yet the allele does not disappear because new copies keep arising. Which population-genetics concept best describes this stable balance?",
+      "stem": "A harmful recessive allele that causes disease only in homozygotes persists in a large population at a low, stable frequency across many generations. Affected homozygotes are removed from the breeding population each generation, yet the allele does not disappear because new copies keep arising. Which population-genetics concept best describes this stable balance?",
       "choices": [
         {
           "label": "A",
@@ -8387,11 +8387,11 @@
         },
         {
           "label": "B",
-          "text": "Multiple-nucleotide addition (insertion)"
+          "text": "Multiple-nucleotide insertion polymorphism"
         },
         {
           "label": "C",
-          "text": "Multiple-nucleotide deletion of a coding segment"
+          "text": "Multiple-nucleotide deletion polymorphism in a coding segment"
         },
         {
           "label": "D",
@@ -8885,7 +8885,7 @@
     },
     {
       "id": "bo61-014",
-      "stem": "A health system is launching a precision medicine initiative and must decide what information to gather on each enrolled patient. Which of the following best describes the data that define the precision medicine approach?",
+      "stem": "A health system is launching a precision medicine initiative and must decide which data to gather on each enrolled patient. Which of the following best describes the data that define the precision medicine approach?",
       "choices": [
         {
           "label": "A",
@@ -8977,7 +8977,7 @@
     },
     {
       "id": "bo61-016",
-      "stem": "A 22-year-old woman with persistent asthma is being considered for a long-acting beta-agonist (LABA) as add-on therapy. Genotyping shows she carries the ADRB2 variant rs1042713 (R16G). Which of the following outcomes is she at increased risk for on this therapy?",
+      "stem": "A 22-year-old woman with persistent wheezing and reversible airflow obstruction on spirometry is being considered for a long-acting beta-agonist (LABA) as add-on therapy. Genotyping shows she carries the ADRB2 variant rs1042713 (R16G). Which of the following outcomes is she at increased risk for on this therapy?",
       "choices": [
         {
           "label": "A",

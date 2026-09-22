@@ -1292,7 +1292,7 @@
     },
     {
       "id": "bo40-029",
-      "stem": "During meiosis I, chromosomes break so that recombination can occur, and the breaks are normally repaired. A child is later found to carry a structural chromosomal rearrangement that neither parent has. Which of the following best explains how such rearrangements typically arise?",
+      "stem": "During meiosis I, homologous chromosomes exchange segments by recombination, an exchange that is normally resolved precisely. A child is later found to carry a structural chromosomal rearrangement that neither parent has. Which of the following best explains how such rearrangements typically arise?",
       "choices": [
         {
           "label": "A",
@@ -1890,7 +1890,7 @@
     },
     {
       "id": "bo41-006",
-      "stem": "A healthy 34-year-old woman has had four miscarriages, and two of her fetuses had translocation trisomy 14. Her karyotype is 45,XX,rob(13;14). Which of the following best explains why she is a healthy carrier yet has difficulty carrying a pregnancy?",
+      "stem": "A healthy 34-year-old woman has had four miscarriages, and two of her fetuses had translocation trisomy 14. Her karyotype is 45,XX,rob(13;14). Which of the following best explains why she is healthy yet has recurrent pregnancy loss?",
       "choices": [
         {
           "label": "A",
@@ -2074,7 +2074,7 @@
     },
     {
       "id": "bo41-010",
-      "stem": "A 4-year-old boy with Down syndrome develops fatigue, easy bruising, and pancytopenia, and a marrow examination confirms an acute leukemia. Which type of leukemia is most characteristically associated with his chromosomal disorder?",
+      "stem": "A 4-year-old boy with Down syndrome develops fatigue, easy bruising, and pancytopenia, and a marrow examination shows sheets of blasts confirming leukemia. Which type of leukemia is most characteristically associated with his chromosomal disorder?",
       "choices": [
         {
           "label": "A",
@@ -3591,7 +3591,7 @@
     },
     {
       "id": "bo42-007",
-      "stem": "During early embryonic development, a transcription factor encoded by a single gene commits the bipotential gonad toward testis formation; embryos lacking this gene tend to develop female sexual organs. On which chromosome is this gene normally located, and what is its product?",
+      "stem": "During early embryonic development, a single gene encodes a DNA-binding protein that commits the bipotential gonad toward male gonadal development; embryos lacking this gene tend to develop female sexual organs. On which chromosome is this gene normally located, and what is its product?",
       "choices": [
         {
           "label": "A",
@@ -3929,7 +3929,7 @@
         },
         {
           "label": "D",
-          "text": "They pair with each other and behave as a homologous pair"
+          "text": "They pair with each other and segregate to opposite poles"
         },
         {
           "label": "E",
@@ -4791,11 +4791,11 @@
       "choices": [
         {
           "label": "A",
-          "text": "Facial features are variable, and some affected girls have no dysmorphic features"
+          "text": "Hypertelorism is present in every affected girl and is required for diagnosis"
         },
         {
           "label": "B",
-          "text": "Hypertelorism is present in every affected girl and is required for diagnosis"
+          "text": "These features are variable, and some affected girls have no dysmorphic features"
         },
         {
           "label": "C",
@@ -4810,12 +4810,12 @@
           "text": "These features predict infertility and abnormal genital development"
         }
       ],
-      "correctAnswer": "A",
+      "correctAnswer": "B",
       "explanation": {
         "summary": "Facial features in trisomy X are variable; some girls have epicanthal folds and hypertelorism while others lack dysmorphic features entirely.",
         "whyCorrect": "Triple X syndrome may cause no noticeable effects or only minimal ones. Facial features are variable: epicanthal folds and hypertelorism can be seen in some young girls, while other affected individuals, such as a 19-year-old shown for comparison, have no dysmorphic features at all.",
         "whyWrongByChoice": {
-          "B": "Hypertelorism is not universal and is not a diagnostic requirement; the karyotype defines the diagnosis.",
+          "A": "Hypertelorism is not universal and is not a diagnostic requirement; the karyotype defines the diagnosis.",
           "C": "Cardiac malformations are the hallmark of Turner syndrome, not triple X, and these facial features do not indicate one.",
           "D": "Epicanthal folds and hypertelorism are described in girls with trisomy X; they do not point toward monosomy X.",
           "E": "Most females with triple X have normal external genitalia, normal sexual development, and can have children."
@@ -6313,7 +6313,7 @@
         },
         {
           "label": "B",
-          "text": "Chromosomal translocation"
+          "text": "Reciprocal translocation"
         },
         {
           "label": "C",
@@ -6359,7 +6359,7 @@
         },
         {
           "label": "B",
-          "text": "A numerical alteration (trisomy)"
+          "text": "A numerical abnormality (trisomy)"
         },
         {
           "label": "C",
@@ -6501,7 +6501,7 @@
         },
         {
           "label": "C",
-          "text": "Misaligned chromatids that carry highly similar nonallelic sequences"
+          "text": "Misaligned chromatids that carry highly similar repeat sequences at different positions"
         },
         {
           "label": "D",
@@ -6539,7 +6539,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Congenital heart defects"
+          "text": "Congenital cardiac malformations"
         },
         {
           "label": "B",
@@ -6718,7 +6718,7 @@
     },
     {
       "id": "bo44-003",
-      "stem": "An 18-year-old woman reports muscle fatigue and weakness climbing stairs, with elevated serum creatine kinase. Neither parent nor her siblings are affected, but genetic testing shows she and her mother are both carriers of a pathogenic variant in the DMD gene (X-linked recessive Duchenne muscular dystrophy). Which of the following most likely explains the appearance of symptoms in this patient?",
+      "stem": "An 18-year-old woman reports fatigue and weakness climbing stairs, with elevated serum creatine kinase. Neither parent nor her siblings are affected, but genetic testing shows she and her mother are both carriers of a pathogenic variant in the DMD gene (X-linked recessive Duchenne muscular dystrophy). Which of the following most likely explains the appearance of symptoms in this patient?",
       "choices": [
         {
           "label": "A",
@@ -7540,7 +7540,7 @@
     },
     {
       "id": "bo44-021",
-      "stem": "A 40-year-old man with no clinical features of an autosomal dominant disorder has fathered two children with the same pathogenic variant; the variant is not detectable in his blood, skin, or buccal cells. Pure germline (gonadal) mosaicism is diagnosed. Which of the following statements about the timing of the mutational event in this man is most accurate?",
+      "stem": "A 40-year-old man with no clinical features of an autosomal dominant disorder has fathered two children with the same pathogenic variant; the variant is not detectable in his blood, skin, or buccal cells. Pure gonadal mosaicism is diagnosed. Which of the following statements about the timing of the mutational event in this man is most accurate?",
       "choices": [
         {
           "label": "A",
@@ -7586,7 +7586,7 @@
     },
     {
       "id": "bo44-022",
-      "stem": "A 26-year-old man has a patch of cafe-au-lait macules and neurofibromas limited to his left shoulder. Genetic testing detects an NF1 mutation at low levels in skin from the affected area and also in his blood. He later fathers a daughter who has generalized (nonsegmental) NF1 with the same mutation. Which of the following best explains why both his somatic tissues and his germline carry the mutation?",
+      "stem": "A 26-year-old man has a patch of cafe-au-lait macules and neurofibromas limited to his left shoulder. Genetic testing detects an NF1 mutation at low levels in skin from the affected area and also in his blood. He later fathers a daughter who has generalized (nonsegmental) NF1 with the same mutation. Which of the following best explains why the mutation is present in his skin and blood as well as in his gametes?",
       "choices": [
         {
           "label": "A",
@@ -8184,7 +8184,7 @@
     },
     {
       "id": "bo44-035",
-      "stem": "Unaffected parents have two children with Marfan syndrome who share the same FBN1 mutation, and germline mosaicism in one parent is suspected. The parents ask whether a test can determine their exact risk of having a third affected child. Which of the following is the most appropriate response?",
+      "stem": "Unaffected parents have two children with Marfan syndrome who share the same FBN1 mutation, and gonadal mosaicism in one parent is suspected. The parents ask whether a test can determine their exact risk of having a third affected child. Which of the following is the most appropriate response?",
       "choices": [
         {
           "label": "A",
@@ -8840,7 +8840,7 @@
     },
     {
       "id": "bo45-013",
-      "stem": "A newborn boy has a flattened facial profile, a small nose with a flat bridge, a short neck, and a tongue that tends to protrude. Karyotype shows 47,XY,+21. Congenital heart defects occur in roughly 30-40% of patients with this condition. Which heart defect is the most common in these patients?",
+      "stem": "A newborn boy has a flattened facial profile, a small nose with a flat bridge, a short neck, and a tongue that tends to protrude. Karyotype shows 47,XY,+21. Congenital heart disease occurs in roughly 30-40% of patients with this condition. Which cardiac lesion is the most common in these patients?",
       "choices": [
         {
           "label": "A",
@@ -8938,11 +8938,11 @@
       "choices": [
         {
           "label": "A",
-          "text": "Cell-free DNA in maternal plasma"
+          "text": "Amniocytes obtained by amniocentesis"
         },
         {
           "label": "B",
-          "text": "Fetal cells from amniotic fluid"
+          "text": "Cell-free DNA in maternal plasma"
         },
         {
           "label": "C",
@@ -8957,12 +8957,12 @@
           "text": "Maternal skin fibroblasts"
         }
       ],
-      "correctAnswer": "B",
+      "correctAnswer": "A",
       "explanation": {
         "summary": "Prenatal karyotyping cultures fetal cells obtained from amniotic fluid by amniocentesis.",
         "whyCorrect": "Karyotyping begins with cultured cells, which are often obtained from blood or amniotic fluid. For prenatal diagnosis of Down syndrome, amniocentesis provides fetal cells from the amniotic fluid that are cultured, arrested at metaphase with colchicine, and stained with Giemsa to visualize the chromosomes.",
         "whyWrongByChoice": {
-          "A": "Cell-free DNA is used for a blood-based screening test; it is not cultured cells and cannot be karyotyped.",
+          "B": "Cell-free DNA is used for a blood-based screening test; it is not cultured cells and cannot be karyotyped.",
           "C": "Maternal buccal cells carry the maternal genome, not the fetal chromosomes being assessed.",
           "D": "Maternal lymphocytes would give the mother's karyotype, not the fetus's.",
           "E": "Maternal fibroblasts would not reveal the fetal chromosome complement."
@@ -9474,7 +9474,7 @@
         },
         {
           "label": "E",
-          "text": "The tumor's primary origin and genetic risk factors guiding therapy"
+          "text": "The tumor's tissue of origin and genetic risk factors guiding therapy"
         }
       ],
       "correctAnswer": "E",
@@ -9553,11 +9553,11 @@
       "choices": [
         {
           "label": "A",
-          "text": "Hybridization failed and the run must be repeated"
+          "text": "Both samples bound equally; no copy number variation"
         },
         {
           "label": "B",
-          "text": "Test and reference DNA bound equally; no copy number variation"
+          "text": "Hybridization failed and the run must be repeated"
         },
         {
           "label": "C",
@@ -9572,12 +9572,12 @@
           "text": "The patient has a heterozygous deletion at those loci"
         }
       ],
-      "correctAnswer": "B",
+      "correctAnswer": "A",
       "explanation": {
         "summary": "A yellow signal means red and green signals are equal, indicating no CNV, which is what most wells show.",
         "whyCorrect": "The scanner calculates the red-to-green fluorescence ratio in each well. A yellow signal, where red and green are equal, indicates no copy number variation at that locus. This is what is observed in most wells because most of the genome has normal dosage.",
         "whyWrongByChoice": {
-          "A": "Yellow wells reflect successful, balanced hybridization of both samples, not a failed run.",
+          "B": "Yellow wells reflect successful, balanced hybridization of both samples, not a failed run.",
           "C": "Balanced translocations do not alter copy number and are not detected by array CGH at all.",
           "D": "A three-copy duplication would appear as a red-dominant well (dosage +1), not yellow.",
           "E": "A heterozygous deletion would appear as a green-dominant well (dosage -1), not yellow."

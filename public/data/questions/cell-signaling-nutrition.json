@@ -96,7 +96,7 @@
     },
     {
       "id": "bo25-003",
-      "stem": "A researcher exposes a person to the nerve agent sarin. Sarin inhibits acetylcholinesterase in the synaptic cleft, preventing hydrolysis of the neurotransmitter and leading to convulsions, paralysis, and cardiac arrest. The normal signaling process disrupted by sarin is an example of which type of cell communication?",
+      "stem": "A researcher exposes a person to the nerve agent sarin. Sarin inhibits acetylcholinesterase in the cleft between a nerve terminal and its target cell, preventing hydrolysis of the neurotransmitter and leading to convulsions, paralysis, and cardiac arrest. The normal signaling process disrupted by sarin is an example of which type of cell communication?",
       "choices": [
         {
           "label": "A",
@@ -3499,7 +3499,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Skeletal muscle cannot generate cAMP by any mechanism"
+          "text": "Skeletal muscle cannot generate cAMP in response to glucagon or any other hormone"
         },
         {
           "label": "B",
@@ -8385,7 +8385,7 @@
         },
         {
           "label": "E",
-          "text": "Thick mucus blocks pancreatic ducts, reducing lipase delivery"
+          "text": "Thick mucus blocks the exocrine ducts, reducing lipase delivery"
         }
       ],
       "correctAnswer": "E",
@@ -10395,7 +10395,7 @@
         },
         {
           "label": "B",
-          "text": "Lysyl hydroxylase, which hydroxylates lysine residues"
+          "text": "Lysyl hydroxylase, which hydroxylates lysine residues in collagen"
         },
         {
           "label": "C",
@@ -10403,7 +10403,7 @@
         },
         {
           "label": "D",
-          "text": "Prolyl hydroxylase, which hydroxylates proline residues"
+          "text": "Prolyl hydroxylase, which hydroxylates proline residues in collagen"
         },
         {
           "label": "E",

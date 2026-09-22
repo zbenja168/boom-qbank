@@ -5430,7 +5430,7 @@
     },
     {
       "id": "bo21-010",
-      "stem": "A 62-year-old woman with type 2 diabetes has her hemoglobin A1c measured to assess long-term glycemic control. Her physician explains that A1c reflects average blood glucose over roughly the preceding few months and forms by a non-enzymatic process. Which statement best describes how HbA1c is generated?",
+      "stem": "A 62-year-old woman with type 2 diabetes has her hemoglobin A1c measured to assess long-term glycemic control. Her physician explains that A1c reflects average blood glucose over roughly the preceding few months. Which statement best describes how HbA1c is generated?",
       "choices": [
         {
           "label": "A",
@@ -7177,7 +7177,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "A ketogenic (high-fat) diet"
+          "text": "A ketogenic (high-fat) diet to bypass the carnitine defect"
         },
         {
           "label": "B",

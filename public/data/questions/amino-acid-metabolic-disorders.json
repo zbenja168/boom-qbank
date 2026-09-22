@@ -418,7 +418,7 @@
     },
     {
       "id": "bo32-010",
-      "stem": "In peripheral tissues, free ammonia is captured by adding it to a TCA cycle intermediate to form glutamate, and the same enzyme reverses the reaction in the liver to liberate ammonia for urea synthesis. Which enzyme catalyzes this reversible reaction?",
+      "stem": "In peripheral tissues, free ammonia is captured by adding it to the TCA cycle intermediate alpha-ketoglutarate, and the same enzyme reverses the reaction in the liver to liberate ammonia for urea synthesis. Which enzyme catalyzes this reversible reaction?",
       "choices": [
         {
           "label": "A",
@@ -1706,7 +1706,7 @@
     },
     {
       "id": "bo33-002",
-      "stem": "A 3-day-old infant with lethargy and vomiting is found to have marked hyperammonemia and orotic aciduria. Genetic and metabolic workup is pending. Which additional finding would best distinguish ornithine transcarbamylase deficiency from hereditary orotic aciduria (UMP synthase deficiency)?",
+      "stem": "A 3-day-old infant with lethargy and vomiting is found to have orotic aciduria. Genetic and metabolic workup is pending. Which additional finding would best distinguish ornithine transcarbamylase deficiency from hereditary orotic aciduria (UMP synthase deficiency)?",
       "choices": [
         {
           "label": "A",
@@ -3316,7 +3316,7 @@
     },
     {
       "id": "bo34-001",
-      "stem": "A 2-day-old term female is feeding well but her urine has a distinct sweet, burnt-sugar odor noted by nursing staff. The newborn screen shows markedly elevated leucine, isoleucine, and valine. The parents are given a specialized formula lacking branched-chain amino acids. A deficiency in which of the following enzymes is the most likely cause of this presentation?",
+      "stem": "A 2-day-old term female is feeding well but her urine has a distinct sweet, burnt-sugar odor noted by nursing staff. The newborn screen shows markedly elevated leucine, isoleucine, and valine. The parents are given a specialized formula restricted in these three amino acids. A deficiency in which of the following enzymes is the most likely cause of this presentation?",
       "choices": [
         {
           "label": "A",
@@ -6825,7 +6825,7 @@
         },
         {
           "label": "C",
-          "text": "Fe3+ is oxidized to Fe2+ by hephaestin, then enters via ferroportin-1"
+          "text": "Fe3+ is oxidized to Fe2+ by duodenal hephaestin, then enters via ferroportin-1"
         },
         {
           "label": "D",
@@ -8540,7 +8540,7 @@
     },
     {
       "id": "bo37-006",
-      "stem": "A newborn is found to have chronic hemolytic anemia present since birth with no identifiable oxidative trigger. The peripheral smear shows spiculated (echinocyte) red cells, and 2,3-BPG is elevated. Which of the following best characterizes this disorder compared with G6PD deficiency?",
+      "stem": "A newborn is found to have hemolytic anemia present since birth with no identifiable oxidative trigger. The peripheral smear shows spiculated (echinocyte) red cells, and the oxygen-hemoglobin dissociation curve is right-shifted. Which of the following best characterizes this disorder compared with G6PD deficiency?",
       "choices": [
         {
           "label": "A",
@@ -9104,7 +9104,7 @@
         },
         {
           "label": "C",
-          "text": "Hepatic adenomas with increased risk of liver cancer"
+          "text": "Hepatic adenomas with increased risk of hepatocellular carcinoma"
         },
         {
           "label": "D",
@@ -9276,7 +9276,7 @@
     },
     {
       "id": "bo37-022",
-      "stem": "A 4-month-old girl is diagnosed with classic infantile Pompe disease after enzyme assay confirms deficient acid alpha-glucosidase. Her parents are told that without treatment most affected infants die around 1 year of age from heart failure. Which of the following is the most appropriate disease-specific therapy?",
+      "stem": "A 4-month-old girl is diagnosed with classic infantile Pompe disease after testing confirms the expected lysosomal deficiency. Her parents are told that without treatment most affected infants die around 1 year of age from heart failure. Which of the following is the most appropriate disease-specific therapy?",
       "choices": [
         {
           "label": "A",
@@ -9782,7 +9782,7 @@
     },
     {
       "id": "bo37-033",
-      "stem": "A 6-year-old is finally diagnosed with PEPCK deficiency after years of evaluation for recurrent fasting hypoglycemia and hepatomegaly. Which of the following is the most appropriate management?",
+      "stem": "A 6-year-old is finally diagnosed with PEPCK deficiency after years of evaluation for recurrent hypoglycemia when meals are delayed and for hepatomegaly. Which of the following is the most appropriate management?",
       "choices": [
         {
           "label": "A",
@@ -10016,7 +10016,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "ABC1 transporter in peripheral tissue"
+          "text": "ABC1 transporter in macrophages"
         },
         {
           "label": "B",
@@ -11162,7 +11162,7 @@
     },
     {
       "id": "bo38-027",
-      "stem": "In an early atherosclerotic lesion, foam cells accumulate within the intima and release growth factors and cytokines. Which of the following is the most direct consequence of this release?",
+      "stem": "In an early atherosclerotic lesion, foam cells accumulate within the arterial wall and release growth factors and cytokines. Which of the following is the most direct consequence of this release?",
       "choices": [
         {
           "label": "A",
@@ -11814,11 +11814,11 @@
         },
         {
           "label": "B",
-          "text": "Enzyme replacement therapy can allow him to live a long, normal life"
+          "text": "He will inevitably develop severe central nervous system degeneration"
         },
         {
           "label": "C",
-          "text": "He will inevitably develop severe central nervous system degeneration"
+          "text": "Therapy can allow him to live a long, normal life"
         },
         {
           "label": "D",
@@ -11829,13 +11829,13 @@
           "text": "Therapy will reverse an existing cherry-red macular spot"
         }
       ],
-      "correctAnswer": "B",
+      "correctAnswer": "C",
       "explanation": {
         "summary": "Type 1 Gaucher disease is treatable, and enzyme replacement therapy supports a relatively normal lifespan.",
         "whyCorrect": "The brick emphasizes that Gaucher disease is treatable: with glucocerebrosidase enzyme replacement therapy, patients can live relatively long, normal lives. This is a notable contrast to most other lysosomal storage diseases, which are fatal at a young age.",
         "whyWrongByChoice": {
           "A": "Death within 2 to 3 years describes untreated Tay-Sachs disease, not treated Gaucher disease.",
-          "C": "Type 1 (non-neuronopathic) Gaucher disease accounts for 99% of cases and does not involve the central nervous system.",
+          "B": "Type 1 (non-neuronopathic) Gaucher disease accounts for 99% of cases and does not involve the central nervous system.",
           "D": "Very-long-chain fatty acid accumulation is a feature of peroxisomal disorders, not Gaucher disease, and is unrelated to glucocerebrosidase therapy.",
           "E": "A cherry-red spot is a feature of Tay-Sachs and Niemann-Pick disease, not Gaucher disease."
         }
@@ -12236,7 +12236,7 @@
         },
         {
           "label": "D",
-          "text": "Monocytes and macrophages that clear cellular debris contain many lysosomes and fill with substrate"
+          "text": "Monocytes and macrophages that clear cellular debris contain many lysosomes and become engorged with undigested material"
         },
         {
           "label": "E",
@@ -12504,7 +12504,7 @@
         },
         {
           "label": "B",
-          "text": "Lipid accumulation makes the surrounding retina opaque, leaving the central red dot visible"
+          "text": "Lipid accumulation makes the adjacent retina opaque, leaving the central red dot visible"
         },
         {
           "label": "C",
@@ -12604,7 +12604,7 @@
         },
         {
           "label": "D",
-          "text": "Pulmonary disease and cirrhosis as the liver fills with foam cells"
+          "text": "Pulmonary infiltration and cirrhosis as foam cells fill the hepatic parenchyma"
         },
         {
           "label": "E",
