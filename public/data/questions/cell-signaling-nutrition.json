@@ -46,7 +46,8 @@
         "glucagon"
       ],
       "topicId": "overview-of-cell-signaling",
-      "topicName": "Overview of Cell Signaling"
+      "topicName": "Overview of Cell Signaling",
+      "tier": "core"
     },
     {
       "id": "bo25-002",
@@ -92,7 +93,8 @@
         "histamine"
       ],
       "topicId": "overview-of-cell-signaling",
-      "topicName": "Overview of Cell Signaling"
+      "topicName": "Overview of Cell Signaling",
+      "tier": "core"
     },
     {
       "id": "bo25-003",
@@ -138,7 +140,8 @@
         "acetylcholinesterase"
       ],
       "topicId": "overview-of-cell-signaling",
-      "topicName": "Overview of Cell Signaling"
+      "topicName": "Overview of Cell Signaling",
+      "tier": "core"
     },
     {
       "id": "bo25-004",
@@ -184,7 +187,8 @@
         "steroid"
       ],
       "topicId": "overview-of-cell-signaling",
-      "topicName": "Overview of Cell Signaling"
+      "topicName": "Overview of Cell Signaling",
+      "tier": "core"
     },
     {
       "id": "bo25-005",
@@ -230,7 +234,8 @@
         "receptor reception"
       ],
       "topicId": "overview-of-cell-signaling",
-      "topicName": "Overview of Cell Signaling"
+      "topicName": "Overview of Cell Signaling",
+      "tier": "core"
     },
     {
       "id": "bo25-006",
@@ -276,7 +281,8 @@
         "GTP"
       ],
       "topicId": "overview-of-cell-signaling",
-      "topicName": "Overview of Cell Signaling"
+      "topicName": "Overview of Cell Signaling",
+      "tier": "core"
     },
     {
       "id": "bo25-007",
@@ -322,7 +328,8 @@
         "phosphodiesterase"
       ],
       "topicId": "overview-of-cell-signaling",
-      "topicName": "Overview of Cell Signaling"
+      "topicName": "Overview of Cell Signaling",
+      "tier": "core"
     },
     {
       "id": "bo25-008",
@@ -368,7 +375,8 @@
         "Galpha-s"
       ],
       "topicId": "overview-of-cell-signaling",
-      "topicName": "Overview of Cell Signaling"
+      "topicName": "Overview of Cell Signaling",
+      "tier": "core"
     },
     {
       "id": "bo25-009",
@@ -414,7 +422,8 @@
         "Galpha-i"
       ],
       "topicId": "overview-of-cell-signaling",
-      "topicName": "Overview of Cell Signaling"
+      "topicName": "Overview of Cell Signaling",
+      "tier": "core"
     },
     {
       "id": "bo25-010",
@@ -460,7 +469,8 @@
         "PKB/Akt"
       ],
       "topicId": "overview-of-cell-signaling",
-      "topicName": "Overview of Cell Signaling"
+      "topicName": "Overview of Cell Signaling",
+      "tier": "core"
     },
     {
       "id": "bo25-011",
@@ -507,7 +517,8 @@
         "PKC"
       ],
       "topicId": "overview-of-cell-signaling",
-      "topicName": "Overview of Cell Signaling"
+      "topicName": "Overview of Cell Signaling",
+      "tier": "core"
     },
     {
       "id": "bo25-012",
@@ -554,7 +565,8 @@
         "vasodilation"
       ],
       "topicId": "overview-of-cell-signaling",
-      "topicName": "Overview of Cell Signaling"
+      "topicName": "Overview of Cell Signaling",
+      "tier": "core"
     },
     {
       "id": "bo25-013",
@@ -600,7 +612,8 @@
         "gap junctions"
       ],
       "topicId": "overview-of-cell-signaling",
-      "topicName": "Overview of Cell Signaling"
+      "topicName": "Overview of Cell Signaling",
+      "tier": "extra"
     },
     {
       "id": "bo25-014",
@@ -646,7 +659,8 @@
         "IL-6"
       ],
       "topicId": "overview-of-cell-signaling",
-      "topicName": "Overview of Cell Signaling"
+      "topicName": "Overview of Cell Signaling",
+      "tier": "extra"
     },
     {
       "id": "bo25-015",
@@ -693,7 +707,8 @@
         "signal termination"
       ],
       "topicId": "overview-of-cell-signaling",
-      "topicName": "Overview of Cell Signaling"
+      "topicName": "Overview of Cell Signaling",
+      "tier": "extra"
     },
     {
       "id": "bo25-016",
@@ -741,7 +756,8 @@
         "solubility"
       ],
       "topicId": "overview-of-cell-signaling",
-      "topicName": "Overview of Cell Signaling"
+      "topicName": "Overview of Cell Signaling",
+      "tier": "extra"
     },
     {
       "id": "bo25-017",
@@ -788,7 +804,8 @@
         "Table 1"
       ],
       "topicId": "overview-of-cell-signaling",
-      "topicName": "Overview of Cell Signaling"
+      "topicName": "Overview of Cell Signaling",
+      "tier": "extra"
     },
     {
       "id": "bo25-018",
@@ -836,7 +853,8 @@
         "heart rate"
       ],
       "topicId": "overview-of-cell-signaling",
-      "topicName": "Overview of Cell Signaling"
+      "topicName": "Overview of Cell Signaling",
+      "tier": "extra"
     },
     {
       "id": "bo25-019",
@@ -883,7 +901,8 @@
         "clinical correlation"
       ],
       "topicId": "overview-of-cell-signaling",
-      "topicName": "Overview of Cell Signaling"
+      "topicName": "Overview of Cell Signaling",
+      "tier": "extra"
     },
     {
       "id": "bo25-020",
@@ -930,7 +949,8 @@
         "heterotrimeric G proteins"
       ],
       "topicId": "overview-of-cell-signaling",
-      "topicName": "Overview of Cell Signaling"
+      "topicName": "Overview of Cell Signaling",
+      "tier": "extra"
     },
     {
       "id": "bo25-021",
@@ -978,7 +998,8 @@
         "Erk"
       ],
       "topicId": "overview-of-cell-signaling",
-      "topicName": "Overview of Cell Signaling"
+      "topicName": "Overview of Cell Signaling",
+      "tier": "extra"
     },
     {
       "id": "bo25-022",
@@ -1025,7 +1046,8 @@
         "clinical correlation"
       ],
       "topicId": "overview-of-cell-signaling",
-      "topicName": "Overview of Cell Signaling"
+      "topicName": "Overview of Cell Signaling",
+      "tier": "extra"
     },
     {
       "id": "bo25-023",
@@ -1072,7 +1094,8 @@
         "hyperpolarization"
       ],
       "topicId": "overview-of-cell-signaling",
-      "topicName": "Overview of Cell Signaling"
+      "topicName": "Overview of Cell Signaling",
+      "tier": "extra"
     },
     {
       "id": "bo25-024",
@@ -1119,7 +1142,8 @@
         "enzyme-linked receptors"
       ],
       "topicId": "overview-of-cell-signaling",
-      "topicName": "Overview of Cell Signaling"
+      "topicName": "Overview of Cell Signaling",
+      "tier": "extra"
     },
     {
       "id": "bo25-025",
@@ -1165,7 +1189,8 @@
         "enzyme-linked receptors"
       ],
       "topicId": "overview-of-cell-signaling",
-      "topicName": "Overview of Cell Signaling"
+      "topicName": "Overview of Cell Signaling",
+      "tier": "extra"
     },
     {
       "id": "bo25-026",
@@ -1212,7 +1237,8 @@
         "mitogenic vs metabolic"
       ],
       "topicId": "overview-of-cell-signaling",
-      "topicName": "Overview of Cell Signaling"
+      "topicName": "Overview of Cell Signaling",
+      "tier": "extra"
     },
     {
       "id": "bo25-027",
@@ -1260,7 +1286,8 @@
         "PKB/Akt"
       ],
       "topicId": "overview-of-cell-signaling",
-      "topicName": "Overview of Cell Signaling"
+      "topicName": "Overview of Cell Signaling",
+      "tier": "extra"
     },
     {
       "id": "bo25-028",
@@ -1307,7 +1334,8 @@
         "cortisol"
       ],
       "topicId": "overview-of-cell-signaling",
-      "topicName": "Overview of Cell Signaling"
+      "topicName": "Overview of Cell Signaling",
+      "tier": "extra"
     },
     {
       "id": "bo25-029",
@@ -1354,7 +1382,8 @@
         "fatty acids"
       ],
       "topicId": "overview-of-cell-signaling",
-      "topicName": "Overview of Cell Signaling"
+      "topicName": "Overview of Cell Signaling",
+      "tier": "extra"
     },
     {
       "id": "bo25-030",
@@ -1402,7 +1431,8 @@
         "clinical reasoning"
       ],
       "topicId": "overview-of-cell-signaling",
-      "topicName": "Overview of Cell Signaling"
+      "topicName": "Overview of Cell Signaling",
+      "tier": "extra"
     },
     {
       "id": "bo25-031",
@@ -1450,7 +1480,8 @@
         "insulin"
       ],
       "topicId": "overview-of-cell-signaling",
-      "topicName": "Overview of Cell Signaling"
+      "topicName": "Overview of Cell Signaling",
+      "tier": "extra"
     },
     {
       "id": "bo25-032",
@@ -1497,7 +1528,8 @@
         "solubility"
       ],
       "topicId": "overview-of-cell-signaling",
-      "topicName": "Overview of Cell Signaling"
+      "topicName": "Overview of Cell Signaling",
+      "tier": "extra"
     },
     {
       "id": "bo25-033",
@@ -1545,7 +1577,8 @@
         "skeletal muscle"
       ],
       "topicId": "overview-of-cell-signaling",
-      "topicName": "Overview of Cell Signaling"
+      "topicName": "Overview of Cell Signaling",
+      "tier": "extra"
     },
     {
       "id": "bo25-034",
@@ -1593,7 +1626,8 @@
         "cell migration"
       ],
       "topicId": "overview-of-cell-signaling",
-      "topicName": "Overview of Cell Signaling"
+      "topicName": "Overview of Cell Signaling",
+      "tier": "extra"
     },
     {
       "id": "bo25-035",
@@ -1640,7 +1674,8 @@
         "platelets"
       ],
       "topicId": "overview-of-cell-signaling",
-      "topicName": "Overview of Cell Signaling"
+      "topicName": "Overview of Cell Signaling",
+      "tier": "extra"
     },
     {
       "id": "bo25-036",
@@ -1688,7 +1723,8 @@
         "second messengers"
       ],
       "topicId": "overview-of-cell-signaling",
-      "topicName": "Overview of Cell Signaling"
+      "topicName": "Overview of Cell Signaling",
+      "tier": "extra"
     },
     {
       "id": "bo26-001",
@@ -1734,7 +1770,8 @@
         "cytokine receptors"
       ],
       "topicId": "overview-of-cell-signaling-2",
-      "topicName": "Overview of Cell Signaling (2 of 2)"
+      "topicName": "Overview of Cell Signaling (2 of 2)",
+      "tier": "core"
     },
     {
       "id": "bo26-002",
@@ -1781,7 +1818,8 @@
         "erythropoietin"
       ],
       "topicId": "overview-of-cell-signaling-2",
-      "topicName": "Overview of Cell Signaling (2 of 2)"
+      "topicName": "Overview of Cell Signaling (2 of 2)",
+      "tier": "core"
     },
     {
       "id": "bo26-003",
@@ -1827,7 +1865,8 @@
         "erythropoietin"
       ],
       "topicId": "overview-of-cell-signaling-2",
-      "topicName": "Overview of Cell Signaling (2 of 2)"
+      "topicName": "Overview of Cell Signaling (2 of 2)",
+      "tier": "core"
     },
     {
       "id": "bo26-004",
@@ -1873,7 +1912,8 @@
         "CML"
       ],
       "topicId": "overview-of-cell-signaling-2",
-      "topicName": "Overview of Cell Signaling (2 of 2)"
+      "topicName": "Overview of Cell Signaling (2 of 2)",
+      "tier": "core"
     },
     {
       "id": "bo26-005",
@@ -1919,7 +1959,8 @@
         "Frizzled"
       ],
       "topicId": "overview-of-cell-signaling-2",
-      "topicName": "Overview of Cell Signaling (2 of 2)"
+      "topicName": "Overview of Cell Signaling (2 of 2)",
+      "tier": "core"
     },
     {
       "id": "bo26-006",
@@ -1965,7 +2006,8 @@
         "cAMP"
       ],
       "topicId": "overview-of-cell-signaling-2",
-      "topicName": "Overview of Cell Signaling (2 of 2)"
+      "topicName": "Overview of Cell Signaling (2 of 2)",
+      "tier": "core"
     },
     {
       "id": "bo26-007",
@@ -2011,7 +2053,8 @@
         "endochondral ossification"
       ],
       "topicId": "overview-of-cell-signaling-2",
-      "topicName": "Overview of Cell Signaling (2 of 2)"
+      "topicName": "Overview of Cell Signaling (2 of 2)",
+      "tier": "core"
     },
     {
       "id": "bo26-008",
@@ -2057,7 +2100,8 @@
         "overexpression"
       ],
       "topicId": "overview-of-cell-signaling-2",
-      "topicName": "Overview of Cell Signaling (2 of 2)"
+      "topicName": "Overview of Cell Signaling (2 of 2)",
+      "tier": "core"
     },
     {
       "id": "bo26-009",
@@ -2103,7 +2147,8 @@
         "TNF-alpha"
       ],
       "topicId": "overview-of-cell-signaling-2",
-      "topicName": "Overview of Cell Signaling (2 of 2)"
+      "topicName": "Overview of Cell Signaling (2 of 2)",
+      "tier": "core"
     },
     {
       "id": "bo26-010",
@@ -2149,7 +2194,8 @@
         "rheumatoid arthritis"
       ],
       "topicId": "overview-of-cell-signaling-2",
-      "topicName": "Overview of Cell Signaling (2 of 2)"
+      "topicName": "Overview of Cell Signaling (2 of 2)",
+      "tier": "core"
     },
     {
       "id": "bo26-011",
@@ -2195,7 +2241,8 @@
         "CD18"
       ],
       "topicId": "overview-of-cell-signaling-2",
-      "topicName": "Overview of Cell Signaling (2 of 2)"
+      "topicName": "Overview of Cell Signaling (2 of 2)",
+      "tier": "core"
     },
     {
       "id": "bo26-012",
@@ -2241,7 +2288,8 @@
         "EMT"
       ],
       "topicId": "overview-of-cell-signaling-2",
-      "topicName": "Overview of Cell Signaling (2 of 2)"
+      "topicName": "Overview of Cell Signaling (2 of 2)",
+      "tier": "core"
     },
     {
       "id": "bo26-013",
@@ -2287,7 +2335,8 @@
         "scaffolding sites"
       ],
       "topicId": "overview-of-cell-signaling-2",
-      "topicName": "Overview of Cell Signaling (2 of 2)"
+      "topicName": "Overview of Cell Signaling (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo26-014",
@@ -2333,7 +2382,8 @@
         "serine/threonine receptor kinase"
       ],
       "topicId": "overview-of-cell-signaling-2",
-      "topicName": "Overview of Cell Signaling (2 of 2)"
+      "topicName": "Overview of Cell Signaling (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo26-015",
@@ -2380,7 +2430,8 @@
         "EGF receptor"
       ],
       "topicId": "overview-of-cell-signaling-2",
-      "topicName": "Overview of Cell Signaling (2 of 2)"
+      "topicName": "Overview of Cell Signaling (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo26-016",
@@ -2426,7 +2477,8 @@
         "JAK-independent"
       ],
       "topicId": "overview-of-cell-signaling-2",
-      "topicName": "Overview of Cell Signaling (2 of 2)"
+      "topicName": "Overview of Cell Signaling (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo26-017",
@@ -2473,7 +2525,8 @@
         "high altitude"
       ],
       "topicId": "overview-of-cell-signaling-2",
-      "topicName": "Overview of Cell Signaling (2 of 2)"
+      "topicName": "Overview of Cell Signaling (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo26-018",
@@ -2520,7 +2573,8 @@
         "angiogenesis"
       ],
       "topicId": "overview-of-cell-signaling-2",
-      "topicName": "Overview of Cell Signaling (2 of 2)"
+      "topicName": "Overview of Cell Signaling (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo26-019",
@@ -2567,7 +2621,8 @@
         "histamine"
       ],
       "topicId": "overview-of-cell-signaling-2",
-      "topicName": "Overview of Cell Signaling (2 of 2)"
+      "topicName": "Overview of Cell Signaling (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo26-020",
@@ -2614,7 +2669,8 @@
         "DNA-binding domain"
       ],
       "topicId": "overview-of-cell-signaling-2",
-      "topicName": "Overview of Cell Signaling (2 of 2)"
+      "topicName": "Overview of Cell Signaling (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo26-021",
@@ -2661,7 +2717,8 @@
         "keratinocyte"
       ],
       "topicId": "overview-of-cell-signaling-2",
-      "topicName": "Overview of Cell Signaling (2 of 2)"
+      "topicName": "Overview of Cell Signaling (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo26-022",
@@ -2707,7 +2764,8 @@
         "signal termination"
       ],
       "topicId": "overview-of-cell-signaling-2",
-      "topicName": "Overview of Cell Signaling (2 of 2)"
+      "topicName": "Overview of Cell Signaling (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo26-023",
@@ -2753,7 +2811,8 @@
         "TNF-alpha"
       ],
       "topicId": "overview-of-cell-signaling-2",
-      "topicName": "Overview of Cell Signaling (2 of 2)"
+      "topicName": "Overview of Cell Signaling (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo26-024",
@@ -2799,7 +2858,8 @@
         "adhesion receptors"
       ],
       "topicId": "overview-of-cell-signaling-2",
-      "topicName": "Overview of Cell Signaling (2 of 2)"
+      "topicName": "Overview of Cell Signaling (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo26-025",
@@ -2845,7 +2905,8 @@
         "leukocyte extravasation"
       ],
       "topicId": "overview-of-cell-signaling-2",
-      "topicName": "Overview of Cell Signaling (2 of 2)"
+      "topicName": "Overview of Cell Signaling (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo26-026",
@@ -2891,7 +2952,8 @@
         "RTK"
       ],
       "topicId": "overview-of-cell-signaling-2",
-      "topicName": "Overview of Cell Signaling (2 of 2)"
+      "topicName": "Overview of Cell Signaling (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo26-027",
@@ -2937,7 +2999,8 @@
         "constitutive activation"
       ],
       "topicId": "overview-of-cell-signaling-2",
-      "topicName": "Overview of Cell Signaling (2 of 2)"
+      "topicName": "Overview of Cell Signaling (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo26-028",
@@ -2983,7 +3046,8 @@
         "pro-growth receptor"
       ],
       "topicId": "overview-of-cell-signaling-2",
-      "topicName": "Overview of Cell Signaling (2 of 2)"
+      "topicName": "Overview of Cell Signaling (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo26-029",
@@ -3029,7 +3093,8 @@
         "BCR-ABL"
       ],
       "topicId": "overview-of-cell-signaling-2",
-      "topicName": "Overview of Cell Signaling (2 of 2)"
+      "topicName": "Overview of Cell Signaling (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo26-030",
@@ -3076,7 +3141,8 @@
         "CML"
       ],
       "topicId": "overview-of-cell-signaling-2",
-      "topicName": "Overview of Cell Signaling (2 of 2)"
+      "topicName": "Overview of Cell Signaling (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo26-031",
@@ -3122,7 +3188,8 @@
         "small molecule inhibitor"
       ],
       "topicId": "overview-of-cell-signaling-2",
-      "topicName": "Overview of Cell Signaling (2 of 2)"
+      "topicName": "Overview of Cell Signaling (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo26-032",
@@ -3168,7 +3235,8 @@
         "estrogen"
       ],
       "topicId": "overview-of-cell-signaling-2",
-      "topicName": "Overview of Cell Signaling (2 of 2)"
+      "topicName": "Overview of Cell Signaling (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo26-033",
@@ -3214,7 +3282,8 @@
         "GNAS"
       ],
       "topicId": "overview-of-cell-signaling-2",
-      "topicName": "Overview of Cell Signaling (2 of 2)"
+      "topicName": "Overview of Cell Signaling (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo26-034",
@@ -3260,7 +3329,8 @@
         "adult height"
       ],
       "topicId": "overview-of-cell-signaling-2",
-      "topicName": "Overview of Cell Signaling (2 of 2)"
+      "topicName": "Overview of Cell Signaling (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo26-035",
@@ -3307,7 +3377,8 @@
         "MITF"
       ],
       "topicId": "overview-of-cell-signaling-2",
-      "topicName": "Overview of Cell Signaling (2 of 2)"
+      "topicName": "Overview of Cell Signaling (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo26-036",
@@ -3353,7 +3424,8 @@
         "oxygen delivery"
       ],
       "topicId": "overview-of-cell-signaling-2",
-      "topicName": "Overview of Cell Signaling (2 of 2)"
+      "topicName": "Overview of Cell Signaling (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo27-001",
@@ -3399,7 +3471,8 @@
         "fasting state"
       ],
       "topicId": "fed-and-fasting-metabolic-state",
-      "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State"
+      "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State",
+      "tier": "core"
     },
     {
       "id": "bo27-002",
@@ -3445,7 +3518,8 @@
         "liver vs muscle"
       ],
       "topicId": "fed-and-fasting-metabolic-state",
-      "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State"
+      "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State",
+      "tier": "core"
     },
     {
       "id": "bo27-003",
@@ -3491,7 +3565,8 @@
         "glucose 6-phosphatase"
       ],
       "topicId": "fed-and-fasting-metabolic-state",
-      "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State"
+      "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State",
+      "tier": "core"
     },
     {
       "id": "bo27-004",
@@ -3537,7 +3612,8 @@
         "glycogenolysis"
       ],
       "topicId": "fed-and-fasting-metabolic-state",
-      "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State"
+      "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State",
+      "tier": "core"
     },
     {
       "id": "bo27-005",
@@ -3583,7 +3659,8 @@
         "lipolysis"
       ],
       "topicId": "fed-and-fasting-metabolic-state",
-      "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State"
+      "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State",
+      "tier": "core"
     },
     {
       "id": "bo27-006",
@@ -3629,7 +3706,8 @@
         "fed state"
       ],
       "topicId": "fed-and-fasting-metabolic-state",
-      "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State"
+      "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State",
+      "tier": "core"
     },
     {
       "id": "bo27-007",
@@ -3675,7 +3753,8 @@
         "hormone-sensitive lipase"
       ],
       "topicId": "fed-and-fasting-metabolic-state",
-      "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State"
+      "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State",
+      "tier": "core"
     },
     {
       "id": "bo27-008",
@@ -3721,7 +3800,8 @@
         "fuel mobilization"
       ],
       "topicId": "fed-and-fasting-metabolic-state",
-      "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State"
+      "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State",
+      "tier": "core"
     },
     {
       "id": "bo27-009",
@@ -3767,7 +3847,8 @@
         "phosphorylase kinase"
       ],
       "topicId": "fed-and-fasting-metabolic-state",
-      "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State"
+      "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State",
+      "tier": "core"
     },
     {
       "id": "bo27-010",
@@ -3813,7 +3894,8 @@
         "brain metabolism"
       ],
       "topicId": "fed-and-fasting-metabolic-state",
-      "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State"
+      "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State",
+      "tier": "core"
     },
     {
       "id": "bo27-011",
@@ -3859,7 +3941,8 @@
         "PKA signaling"
       ],
       "topicId": "fed-and-fasting-metabolic-state",
-      "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State"
+      "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State",
+      "tier": "core"
     },
     {
       "id": "bo27-012",
@@ -3905,7 +3988,8 @@
         "metabolic states"
       ],
       "topicId": "fed-and-fasting-metabolic-state",
-      "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State"
+      "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State",
+      "tier": "core"
     },
     {
       "id": "bo27-013",
@@ -3951,7 +4035,8 @@
         "metabolic timeline"
       ],
       "topicId": "fed-and-fasting-metabolic-state",
-      "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State"
+      "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State",
+      "tier": "extra"
     },
     {
       "id": "bo27-014",
@@ -3997,7 +4082,8 @@
         "fasting glucose"
       ],
       "topicId": "fed-and-fasting-metabolic-state",
-      "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State"
+      "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State",
+      "tier": "extra"
     },
     {
       "id": "bo27-015",
@@ -4043,7 +4129,8 @@
         "fasting"
       ],
       "topicId": "fed-and-fasting-metabolic-state",
-      "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State"
+      "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State",
+      "tier": "extra"
     },
     {
       "id": "bo27-016",
@@ -4089,7 +4176,8 @@
         "CNS symptoms"
       ],
       "topicId": "fed-and-fasting-metabolic-state",
-      "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State"
+      "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State",
+      "tier": "extra"
     },
     {
       "id": "bo27-017",
@@ -4135,7 +4223,8 @@
         "adrenaline"
       ],
       "topicId": "fed-and-fasting-metabolic-state",
-      "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State"
+      "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State",
+      "tier": "extra"
     },
     {
       "id": "bo27-018",
@@ -4181,7 +4270,8 @@
         "clinical reasoning"
       ],
       "topicId": "fed-and-fasting-metabolic-state",
-      "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State"
+      "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State",
+      "tier": "extra"
     },
     {
       "id": "bo27-019",
@@ -4227,7 +4317,8 @@
         "storage depots"
       ],
       "topicId": "fed-and-fasting-metabolic-state",
-      "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State"
+      "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State",
+      "tier": "extra"
     },
     {
       "id": "bo27-020",
@@ -4273,7 +4364,8 @@
         "muscle glycogenolysis"
       ],
       "topicId": "fed-and-fasting-metabolic-state",
-      "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State"
+      "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State",
+      "tier": "extra"
     },
     {
       "id": "bo27-021",
@@ -4319,7 +4411,8 @@
         "glucagon and insulin secretion"
       ],
       "topicId": "fed-and-fasting-metabolic-state",
-      "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State"
+      "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State",
+      "tier": "extra"
     },
     {
       "id": "bo27-022",
@@ -4365,7 +4458,8 @@
         "muscle-liver fuel exchange"
       ],
       "topicId": "fed-and-fasting-metabolic-state",
-      "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State"
+      "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State",
+      "tier": "extra"
     },
     {
       "id": "bo27-023",
@@ -4411,7 +4505,8 @@
         "lipogenesis"
       ],
       "topicId": "fed-and-fasting-metabolic-state",
-      "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State"
+      "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State",
+      "tier": "extra"
     },
     {
       "id": "bo27-024",
@@ -4457,7 +4552,8 @@
         "storage capacity"
       ],
       "topicId": "fed-and-fasting-metabolic-state",
-      "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State"
+      "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State",
+      "tier": "extra"
     },
     {
       "id": "bo27-025",
@@ -4503,7 +4599,8 @@
         "beta-oxidation"
       ],
       "topicId": "fed-and-fasting-metabolic-state",
-      "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State"
+      "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State",
+      "tier": "extra"
     },
     {
       "id": "bo27-026",
@@ -4549,7 +4646,8 @@
         "gluconeogenesis"
       ],
       "topicId": "fed-and-fasting-metabolic-state",
-      "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State"
+      "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State",
+      "tier": "extra"
     },
     {
       "id": "bo27-027",
@@ -4595,7 +4693,8 @@
         "triglyceride synthesis"
       ],
       "topicId": "fed-and-fasting-metabolic-state",
-      "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State"
+      "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State",
+      "tier": "extra"
     },
     {
       "id": "bo27-028",
@@ -4641,7 +4740,8 @@
         "storage depots"
       ],
       "topicId": "fed-and-fasting-metabolic-state",
-      "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State"
+      "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State",
+      "tier": "extra"
     },
     {
       "id": "bo27-029",
@@ -4687,7 +4787,8 @@
         "PKB/Akt"
       ],
       "topicId": "fed-and-fasting-metabolic-state",
-      "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State"
+      "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State",
+      "tier": "extra"
     },
     {
       "id": "bo27-030",
@@ -4733,7 +4834,8 @@
         "sustained insulin signaling"
       ],
       "topicId": "fed-and-fasting-metabolic-state",
-      "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State"
+      "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State",
+      "tier": "extra"
     },
     {
       "id": "bo27-031",
@@ -4779,7 +4881,8 @@
         "enzyme regulation"
       ],
       "topicId": "fed-and-fasting-metabolic-state",
-      "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State"
+      "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State",
+      "tier": "extra"
     },
     {
       "id": "bo27-032",
@@ -4825,7 +4928,8 @@
         "adipocyte"
       ],
       "topicId": "fed-and-fasting-metabolic-state",
-      "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State"
+      "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State",
+      "tier": "extra"
     },
     {
       "id": "bo27-033",
@@ -4871,7 +4975,8 @@
         "gene expression"
       ],
       "topicId": "fed-and-fasting-metabolic-state",
-      "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State"
+      "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State",
+      "tier": "extra"
     },
     {
       "id": "bo27-034",
@@ -4917,7 +5022,8 @@
         "stress metabolism"
       ],
       "topicId": "fed-and-fasting-metabolic-state",
-      "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State"
+      "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State",
+      "tier": "extra"
     },
     {
       "id": "bo27-035",
@@ -4963,7 +5069,8 @@
         "well-fed state"
       ],
       "topicId": "fed-and-fasting-metabolic-state",
-      "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State"
+      "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State",
+      "tier": "extra"
     },
     {
       "id": "bo27-036",
@@ -5009,7 +5116,8 @@
         "ketone bodies"
       ],
       "topicId": "fed-and-fasting-metabolic-state",
-      "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State"
+      "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State",
+      "tier": "extra"
     },
     {
       "id": "bo28-001",
@@ -5055,7 +5163,8 @@
         "K_ATP channel"
       ],
       "topicId": "cell-signaling-fed-and-fasting-metabolic-state-2",
-      "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State (2 of 2)"
+      "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State (2 of 2)",
+      "tier": "core"
     },
     {
       "id": "bo28-002",
@@ -5101,7 +5210,8 @@
         "pharmacology"
       ],
       "topicId": "cell-signaling-fed-and-fasting-metabolic-state-2",
-      "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State (2 of 2)"
+      "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State (2 of 2)",
+      "tier": "core"
     },
     {
       "id": "bo28-003",
@@ -5147,7 +5257,8 @@
         "glucose sensing"
       ],
       "topicId": "cell-signaling-fed-and-fasting-metabolic-state-2",
-      "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State (2 of 2)"
+      "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State (2 of 2)",
+      "tier": "core"
     },
     {
       "id": "bo28-004",
@@ -5193,7 +5304,8 @@
         "insulin shock"
       ],
       "topicId": "cell-signaling-fed-and-fasting-metabolic-state-2",
-      "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State (2 of 2)"
+      "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State (2 of 2)",
+      "tier": "core"
     },
     {
       "id": "bo28-005",
@@ -5239,7 +5351,8 @@
         "post-translational modification"
       ],
       "topicId": "cell-signaling-fed-and-fasting-metabolic-state-2",
-      "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State (2 of 2)"
+      "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State (2 of 2)",
+      "tier": "core"
     },
     {
       "id": "bo28-006",
@@ -5285,7 +5398,8 @@
         "pharmacology"
       ],
       "topicId": "cell-signaling-fed-and-fasting-metabolic-state-2",
-      "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State (2 of 2)"
+      "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State (2 of 2)",
+      "tier": "core"
     },
     {
       "id": "bo28-007",
@@ -5331,7 +5445,8 @@
         "GLUT4"
       ],
       "topicId": "cell-signaling-fed-and-fasting-metabolic-state-2",
-      "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State (2 of 2)"
+      "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State (2 of 2)",
+      "tier": "core"
     },
     {
       "id": "bo28-008",
@@ -5377,7 +5492,8 @@
         "energy metabolism"
       ],
       "topicId": "cell-signaling-fed-and-fasting-metabolic-state-2",
-      "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State (2 of 2)"
+      "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State (2 of 2)",
+      "tier": "core"
     },
     {
       "id": "bo28-009",
@@ -5423,7 +5539,8 @@
         "energy sensing"
       ],
       "topicId": "cell-signaling-fed-and-fasting-metabolic-state-2",
-      "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State (2 of 2)"
+      "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State (2 of 2)",
+      "tier": "core"
     },
     {
       "id": "bo28-010",
@@ -5469,7 +5586,8 @@
         "sulfonylureas"
       ],
       "topicId": "cell-signaling-fed-and-fasting-metabolic-state-2",
-      "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State (2 of 2)"
+      "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State (2 of 2)",
+      "tier": "core"
     },
     {
       "id": "bo28-011",
@@ -5515,7 +5633,8 @@
         "insulin"
       ],
       "topicId": "cell-signaling-fed-and-fasting-metabolic-state-2",
-      "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State (2 of 2)"
+      "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State (2 of 2)",
+      "tier": "core"
     },
     {
       "id": "bo28-012",
@@ -5561,7 +5680,8 @@
         "Wernicke-Korsakoff"
       ],
       "topicId": "cell-signaling-fed-and-fasting-metabolic-state-2",
-      "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State (2 of 2)"
+      "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State (2 of 2)",
+      "tier": "core"
     },
     {
       "id": "bo28-013",
@@ -5607,7 +5727,8 @@
         "exocytosis"
       ],
       "topicId": "cell-signaling-fed-and-fasting-metabolic-state-2",
-      "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State (2 of 2)"
+      "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo28-014",
@@ -5653,7 +5774,8 @@
         "C-peptide"
       ],
       "topicId": "cell-signaling-fed-and-fasting-metabolic-state-2",
-      "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State (2 of 2)"
+      "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo28-015",
@@ -5699,7 +5821,8 @@
         "type 2 diabetes"
       ],
       "topicId": "cell-signaling-fed-and-fasting-metabolic-state-2",
-      "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State (2 of 2)"
+      "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo28-016",
@@ -5745,7 +5868,8 @@
         "diabetes pharmacology"
       ],
       "topicId": "cell-signaling-fed-and-fasting-metabolic-state-2",
-      "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State (2 of 2)"
+      "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo28-017",
@@ -5791,7 +5915,8 @@
         "insulin processing"
       ],
       "topicId": "cell-signaling-fed-and-fasting-metabolic-state-2",
-      "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State (2 of 2)"
+      "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo28-018",
@@ -5837,7 +5962,8 @@
         "hexamer"
       ],
       "topicId": "cell-signaling-fed-and-fasting-metabolic-state-2",
-      "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State (2 of 2)"
+      "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo28-019",
@@ -5883,7 +6009,8 @@
         "insulin analogs"
       ],
       "topicId": "cell-signaling-fed-and-fasting-metabolic-state-2",
-      "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State (2 of 2)"
+      "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo28-020",
@@ -5929,7 +6056,8 @@
         "immune rejection"
       ],
       "topicId": "cell-signaling-fed-and-fasting-metabolic-state-2",
-      "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State (2 of 2)"
+      "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo28-021",
@@ -5975,7 +6103,8 @@
         "Akt/PKB"
       ],
       "topicId": "cell-signaling-fed-and-fasting-metabolic-state-2",
-      "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State (2 of 2)"
+      "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo28-022",
@@ -6021,7 +6150,8 @@
         "SNARE"
       ],
       "topicId": "cell-signaling-fed-and-fasting-metabolic-state-2",
-      "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State (2 of 2)"
+      "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo28-023",
@@ -6067,7 +6197,8 @@
         "glucose uptake kinetics"
       ],
       "topicId": "cell-signaling-fed-and-fasting-metabolic-state-2",
-      "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State (2 of 2)"
+      "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo28-024",
@@ -6113,7 +6244,8 @@
         "insulin secretion"
       ],
       "topicId": "cell-signaling-fed-and-fasting-metabolic-state-2",
-      "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State (2 of 2)"
+      "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo28-025",
@@ -6159,7 +6291,8 @@
         "anaerobic glycolysis"
       ],
       "topicId": "cell-signaling-fed-and-fasting-metabolic-state-2",
-      "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State (2 of 2)"
+      "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo28-026",
@@ -6205,7 +6338,8 @@
         "muscle mass"
       ],
       "topicId": "cell-signaling-fed-and-fasting-metabolic-state-2",
-      "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State (2 of 2)"
+      "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo28-027",
@@ -6251,7 +6385,8 @@
         "energy sensing"
       ],
       "topicId": "cell-signaling-fed-and-fasting-metabolic-state-2",
-      "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State (2 of 2)"
+      "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo28-028",
@@ -6297,7 +6432,8 @@
         "CNS"
       ],
       "topicId": "cell-signaling-fed-and-fasting-metabolic-state-2",
-      "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State (2 of 2)"
+      "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo28-029",
@@ -6343,7 +6479,8 @@
         "management"
       ],
       "topicId": "cell-signaling-fed-and-fasting-metabolic-state-2",
-      "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State (2 of 2)"
+      "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo28-030",
@@ -6389,7 +6526,8 @@
         "hepatic glycogen"
       ],
       "topicId": "cell-signaling-fed-and-fasting-metabolic-state-2",
-      "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State (2 of 2)"
+      "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo28-031",
@@ -6435,7 +6573,8 @@
         "hypoglycemia"
       ],
       "topicId": "cell-signaling-fed-and-fasting-metabolic-state-2",
-      "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State (2 of 2)"
+      "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo28-032",
@@ -6481,7 +6620,8 @@
         "insulin"
       ],
       "topicId": "cell-signaling-fed-and-fasting-metabolic-state-2",
-      "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State (2 of 2)"
+      "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo28-033",
@@ -6527,7 +6667,8 @@
         "laboratory interpretation"
       ],
       "topicId": "cell-signaling-fed-and-fasting-metabolic-state-2",
-      "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State (2 of 2)"
+      "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo28-034",
@@ -6573,7 +6714,8 @@
         "malnutrition"
       ],
       "topicId": "cell-signaling-fed-and-fasting-metabolic-state-2",
-      "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State (2 of 2)"
+      "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo28-035",
@@ -6619,7 +6761,8 @@
         "Kwashiorkor"
       ],
       "topicId": "cell-signaling-fed-and-fasting-metabolic-state-2",
-      "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State (2 of 2)"
+      "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo28-036",
@@ -6665,7 +6808,8 @@
         "immune function"
       ],
       "topicId": "cell-signaling-fed-and-fasting-metabolic-state-2",
-      "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State (2 of 2)"
+      "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo29-001",
@@ -6711,7 +6855,8 @@
         "LO1"
       ],
       "topicId": "basic-nutritional-requirements-for-metabolism",
-      "topicName": "Basic Nutritional Requirements for Metabolism (1 of 3)"
+      "topicName": "Basic Nutritional Requirements for Metabolism (1 of 3)",
+      "tier": "core"
     },
     {
       "id": "bo29-002",
@@ -6757,7 +6902,8 @@
         "LO2"
       ],
       "topicId": "basic-nutritional-requirements-for-metabolism",
-      "topicName": "Basic Nutritional Requirements for Metabolism (1 of 3)"
+      "topicName": "Basic Nutritional Requirements for Metabolism (1 of 3)",
+      "tier": "core"
     },
     {
       "id": "bo29-003",
@@ -6804,7 +6950,8 @@
         "LO2"
       ],
       "topicId": "basic-nutritional-requirements-for-metabolism",
-      "topicName": "Basic Nutritional Requirements for Metabolism (1 of 3)"
+      "topicName": "Basic Nutritional Requirements for Metabolism (1 of 3)",
+      "tier": "core"
     },
     {
       "id": "bo29-004",
@@ -6851,7 +6998,8 @@
         "LO2"
       ],
       "topicId": "basic-nutritional-requirements-for-metabolism",
-      "topicName": "Basic Nutritional Requirements for Metabolism (1 of 3)"
+      "topicName": "Basic Nutritional Requirements for Metabolism (1 of 3)",
+      "tier": "core"
     },
     {
       "id": "bo29-005",
@@ -6898,7 +7046,8 @@
         "LO2"
       ],
       "topicId": "basic-nutritional-requirements-for-metabolism",
-      "topicName": "Basic Nutritional Requirements for Metabolism (1 of 3)"
+      "topicName": "Basic Nutritional Requirements for Metabolism (1 of 3)",
+      "tier": "core"
     },
     {
       "id": "bo29-006",
@@ -6945,7 +7094,8 @@
         "LO2"
       ],
       "topicId": "basic-nutritional-requirements-for-metabolism",
-      "topicName": "Basic Nutritional Requirements for Metabolism (1 of 3)"
+      "topicName": "Basic Nutritional Requirements for Metabolism (1 of 3)",
+      "tier": "core"
     },
     {
       "id": "bo29-007",
@@ -6992,7 +7142,8 @@
         "LO2"
       ],
       "topicId": "basic-nutritional-requirements-for-metabolism",
-      "topicName": "Basic Nutritional Requirements for Metabolism (1 of 3)"
+      "topicName": "Basic Nutritional Requirements for Metabolism (1 of 3)",
+      "tier": "core"
     },
     {
       "id": "bo29-008",
@@ -7038,7 +7189,8 @@
         "LO4"
       ],
       "topicId": "basic-nutritional-requirements-for-metabolism",
-      "topicName": "Basic Nutritional Requirements for Metabolism (1 of 3)"
+      "topicName": "Basic Nutritional Requirements for Metabolism (1 of 3)",
+      "tier": "core"
     },
     {
       "id": "bo29-009",
@@ -7085,7 +7237,8 @@
         "LO2"
       ],
       "topicId": "basic-nutritional-requirements-for-metabolism",
-      "topicName": "Basic Nutritional Requirements for Metabolism (1 of 3)"
+      "topicName": "Basic Nutritional Requirements for Metabolism (1 of 3)",
+      "tier": "core"
     },
     {
       "id": "bo29-010",
@@ -7132,7 +7285,8 @@
         "LO3"
       ],
       "topicId": "basic-nutritional-requirements-for-metabolism",
-      "topicName": "Basic Nutritional Requirements for Metabolism (1 of 3)"
+      "topicName": "Basic Nutritional Requirements for Metabolism (1 of 3)",
+      "tier": "core"
     },
     {
       "id": "bo29-011",
@@ -7179,7 +7333,8 @@
         "LO4"
       ],
       "topicId": "basic-nutritional-requirements-for-metabolism",
-      "topicName": "Basic Nutritional Requirements for Metabolism (1 of 3)"
+      "topicName": "Basic Nutritional Requirements for Metabolism (1 of 3)",
+      "tier": "core"
     },
     {
       "id": "bo29-012",
@@ -7226,7 +7381,8 @@
         "LO2"
       ],
       "topicId": "basic-nutritional-requirements-for-metabolism",
-      "topicName": "Basic Nutritional Requirements for Metabolism (1 of 3)"
+      "topicName": "Basic Nutritional Requirements for Metabolism (1 of 3)",
+      "tier": "core"
     },
     {
       "id": "bo29-013",
@@ -7273,7 +7429,8 @@
         "LO1"
       ],
       "topicId": "basic-nutritional-requirements-for-metabolism",
-      "topicName": "Basic Nutritional Requirements for Metabolism (1 of 3)"
+      "topicName": "Basic Nutritional Requirements for Metabolism (1 of 3)",
+      "tier": "extra"
     },
     {
       "id": "bo29-014",
@@ -7319,7 +7476,8 @@
         "LO2"
       ],
       "topicId": "basic-nutritional-requirements-for-metabolism",
-      "topicName": "Basic Nutritional Requirements for Metabolism (1 of 3)"
+      "topicName": "Basic Nutritional Requirements for Metabolism (1 of 3)",
+      "tier": "extra"
     },
     {
       "id": "bo29-015",
@@ -7365,7 +7523,8 @@
         "LO2"
       ],
       "topicId": "basic-nutritional-requirements-for-metabolism",
-      "topicName": "Basic Nutritional Requirements for Metabolism (1 of 3)"
+      "topicName": "Basic Nutritional Requirements for Metabolism (1 of 3)",
+      "tier": "extra"
     },
     {
       "id": "bo29-016",
@@ -7413,7 +7572,8 @@
         "LO4"
       ],
       "topicId": "basic-nutritional-requirements-for-metabolism",
-      "topicName": "Basic Nutritional Requirements for Metabolism (1 of 3)"
+      "topicName": "Basic Nutritional Requirements for Metabolism (1 of 3)",
+      "tier": "extra"
     },
     {
       "id": "bo29-017",
@@ -7461,7 +7621,8 @@
         "LO4"
       ],
       "topicId": "basic-nutritional-requirements-for-metabolism",
-      "topicName": "Basic Nutritional Requirements for Metabolism (1 of 3)"
+      "topicName": "Basic Nutritional Requirements for Metabolism (1 of 3)",
+      "tier": "extra"
     },
     {
       "id": "bo29-018",
@@ -7508,7 +7669,8 @@
         "LO2"
       ],
       "topicId": "basic-nutritional-requirements-for-metabolism",
-      "topicName": "Basic Nutritional Requirements for Metabolism (1 of 3)"
+      "topicName": "Basic Nutritional Requirements for Metabolism (1 of 3)",
+      "tier": "extra"
     },
     {
       "id": "bo29-019",
@@ -7554,7 +7716,8 @@
         "LO1"
       ],
       "topicId": "basic-nutritional-requirements-for-metabolism",
-      "topicName": "Basic Nutritional Requirements for Metabolism (1 of 3)"
+      "topicName": "Basic Nutritional Requirements for Metabolism (1 of 3)",
+      "tier": "extra"
     },
     {
       "id": "bo29-020",
@@ -7602,7 +7765,8 @@
         "LO1"
       ],
       "topicId": "basic-nutritional-requirements-for-metabolism",
-      "topicName": "Basic Nutritional Requirements for Metabolism (1 of 3)"
+      "topicName": "Basic Nutritional Requirements for Metabolism (1 of 3)",
+      "tier": "extra"
     },
     {
       "id": "bo29-021",
@@ -7649,7 +7813,8 @@
         "LO2"
       ],
       "topicId": "basic-nutritional-requirements-for-metabolism",
-      "topicName": "Basic Nutritional Requirements for Metabolism (1 of 3)"
+      "topicName": "Basic Nutritional Requirements for Metabolism (1 of 3)",
+      "tier": "extra"
     },
     {
       "id": "bo29-022",
@@ -7696,7 +7861,8 @@
         "LO2"
       ],
       "topicId": "basic-nutritional-requirements-for-metabolism",
-      "topicName": "Basic Nutritional Requirements for Metabolism (1 of 3)"
+      "topicName": "Basic Nutritional Requirements for Metabolism (1 of 3)",
+      "tier": "extra"
     },
     {
       "id": "bo29-023",
@@ -7744,7 +7910,8 @@
         "LO4"
       ],
       "topicId": "basic-nutritional-requirements-for-metabolism",
-      "topicName": "Basic Nutritional Requirements for Metabolism (1 of 3)"
+      "topicName": "Basic Nutritional Requirements for Metabolism (1 of 3)",
+      "tier": "extra"
     },
     {
       "id": "bo29-024",
@@ -7792,7 +7959,8 @@
         "LO2"
       ],
       "topicId": "basic-nutritional-requirements-for-metabolism",
-      "topicName": "Basic Nutritional Requirements for Metabolism (1 of 3)"
+      "topicName": "Basic Nutritional Requirements for Metabolism (1 of 3)",
+      "tier": "extra"
     },
     {
       "id": "bo29-025",
@@ -7840,7 +8008,8 @@
         "LO2"
       ],
       "topicId": "basic-nutritional-requirements-for-metabolism",
-      "topicName": "Basic Nutritional Requirements for Metabolism (1 of 3)"
+      "topicName": "Basic Nutritional Requirements for Metabolism (1 of 3)",
+      "tier": "extra"
     },
     {
       "id": "bo29-026",
@@ -7887,7 +8056,8 @@
         "LO2"
       ],
       "topicId": "basic-nutritional-requirements-for-metabolism",
-      "topicName": "Basic Nutritional Requirements for Metabolism (1 of 3)"
+      "topicName": "Basic Nutritional Requirements for Metabolism (1 of 3)",
+      "tier": "extra"
     },
     {
       "id": "bo29-027",
@@ -7934,7 +8104,8 @@
         "LO2"
       ],
       "topicId": "basic-nutritional-requirements-for-metabolism",
-      "topicName": "Basic Nutritional Requirements for Metabolism (1 of 3)"
+      "topicName": "Basic Nutritional Requirements for Metabolism (1 of 3)",
+      "tier": "extra"
     },
     {
       "id": "bo29-028",
@@ -7982,7 +8153,8 @@
         "LO3"
       ],
       "topicId": "basic-nutritional-requirements-for-metabolism",
-      "topicName": "Basic Nutritional Requirements for Metabolism (1 of 3)"
+      "topicName": "Basic Nutritional Requirements for Metabolism (1 of 3)",
+      "tier": "extra"
     },
     {
       "id": "bo29-029",
@@ -8029,7 +8201,8 @@
         "LO3"
       ],
       "topicId": "basic-nutritional-requirements-for-metabolism",
-      "topicName": "Basic Nutritional Requirements for Metabolism (1 of 3)"
+      "topicName": "Basic Nutritional Requirements for Metabolism (1 of 3)",
+      "tier": "extra"
     },
     {
       "id": "bo29-030",
@@ -8076,7 +8249,8 @@
         "LO4"
       ],
       "topicId": "basic-nutritional-requirements-for-metabolism",
-      "topicName": "Basic Nutritional Requirements for Metabolism (1 of 3)"
+      "topicName": "Basic Nutritional Requirements for Metabolism (1 of 3)",
+      "tier": "extra"
     },
     {
       "id": "bo29-031",
@@ -8124,7 +8298,8 @@
         "LO4"
       ],
       "topicId": "basic-nutritional-requirements-for-metabolism",
-      "topicName": "Basic Nutritional Requirements for Metabolism (1 of 3)"
+      "topicName": "Basic Nutritional Requirements for Metabolism (1 of 3)",
+      "tier": "extra"
     },
     {
       "id": "bo29-032",
@@ -8171,7 +8346,8 @@
         "LO2"
       ],
       "topicId": "basic-nutritional-requirements-for-metabolism",
-      "topicName": "Basic Nutritional Requirements for Metabolism (1 of 3)"
+      "topicName": "Basic Nutritional Requirements for Metabolism (1 of 3)",
+      "tier": "extra"
     },
     {
       "id": "bo29-033",
@@ -8218,7 +8394,8 @@
         "LO2"
       ],
       "topicId": "basic-nutritional-requirements-for-metabolism",
-      "topicName": "Basic Nutritional Requirements for Metabolism (1 of 3)"
+      "topicName": "Basic Nutritional Requirements for Metabolism (1 of 3)",
+      "tier": "extra"
     },
     {
       "id": "bo29-034",
@@ -8265,7 +8442,8 @@
         "LO2"
       ],
       "topicId": "basic-nutritional-requirements-for-metabolism",
-      "topicName": "Basic Nutritional Requirements for Metabolism (1 of 3)"
+      "topicName": "Basic Nutritional Requirements for Metabolism (1 of 3)",
+      "tier": "extra"
     },
     {
       "id": "bo29-035",
@@ -8313,7 +8491,8 @@
         "LO4"
       ],
       "topicId": "basic-nutritional-requirements-for-metabolism",
-      "topicName": "Basic Nutritional Requirements for Metabolism (1 of 3)"
+      "topicName": "Basic Nutritional Requirements for Metabolism (1 of 3)",
+      "tier": "extra"
     },
     {
       "id": "bo29-036",
@@ -8361,7 +8540,8 @@
         "LO4"
       ],
       "topicId": "basic-nutritional-requirements-for-metabolism",
-      "topicName": "Basic Nutritional Requirements for Metabolism (1 of 3)"
+      "topicName": "Basic Nutritional Requirements for Metabolism (1 of 3)",
+      "tier": "extra"
     },
     {
       "id": "bo30-001",
@@ -8407,7 +8587,8 @@
         "cystic fibrosis"
       ],
       "topicId": "fat-soluble-vitamins-a-d-e-k",
-      "topicName": "Fat-Soluble Vitamins (A, D, E, K)"
+      "topicName": "Fat-Soluble Vitamins (A, D, E, K)",
+      "tier": "core"
     },
     {
       "id": "bo30-002",
@@ -8453,7 +8634,8 @@
         "night blindness"
       ],
       "topicId": "fat-soluble-vitamins-a-d-e-k",
-      "topicName": "Fat-Soluble Vitamins (A, D, E, K)"
+      "topicName": "Fat-Soluble Vitamins (A, D, E, K)",
+      "tier": "core"
     },
     {
       "id": "bo30-003",
@@ -8500,7 +8682,8 @@
         "isotretinoin"
       ],
       "topicId": "fat-soluble-vitamins-a-d-e-k",
-      "topicName": "Fat-Soluble Vitamins (A, D, E, K)"
+      "topicName": "Fat-Soluble Vitamins (A, D, E, K)",
+      "tier": "core"
     },
     {
       "id": "bo30-004",
@@ -8547,7 +8730,8 @@
         "differentiation"
       ],
       "topicId": "fat-soluble-vitamins-a-d-e-k",
-      "topicName": "Fat-Soluble Vitamins (A, D, E, K)"
+      "topicName": "Fat-Soluble Vitamins (A, D, E, K)",
+      "tier": "core"
     },
     {
       "id": "bo30-005",
@@ -8593,7 +8777,8 @@
         "deficiency"
       ],
       "topicId": "fat-soluble-vitamins-a-d-e-k",
-      "topicName": "Fat-Soluble Vitamins (A, D, E, K)"
+      "topicName": "Fat-Soluble Vitamins (A, D, E, K)",
+      "tier": "core"
     },
     {
       "id": "bo30-006",
@@ -8639,7 +8824,8 @@
         "laboratory"
       ],
       "topicId": "fat-soluble-vitamins-a-d-e-k",
-      "topicName": "Fat-Soluble Vitamins (A, D, E, K)"
+      "topicName": "Fat-Soluble Vitamins (A, D, E, K)",
+      "tier": "core"
     },
     {
       "id": "bo30-007",
@@ -8686,7 +8872,8 @@
         "activation"
       ],
       "topicId": "fat-soluble-vitamins-a-d-e-k",
-      "topicName": "Fat-Soluble Vitamins (A, D, E, K)"
+      "topicName": "Fat-Soluble Vitamins (A, D, E, K)",
+      "tier": "core"
     },
     {
       "id": "bo30-008",
@@ -8733,7 +8920,8 @@
         "1-alpha-hydroxylase"
       ],
       "topicId": "fat-soluble-vitamins-a-d-e-k",
-      "topicName": "Fat-Soluble Vitamins (A, D, E, K)"
+      "topicName": "Fat-Soluble Vitamins (A, D, E, K)",
+      "tier": "core"
     },
     {
       "id": "bo30-009",
@@ -8780,7 +8968,8 @@
         "kidney stones"
       ],
       "topicId": "fat-soluble-vitamins-a-d-e-k",
-      "topicName": "Fat-Soluble Vitamins (A, D, E, K)"
+      "topicName": "Fat-Soluble Vitamins (A, D, E, K)",
+      "tier": "core"
     },
     {
       "id": "bo30-010",
@@ -8826,7 +9015,8 @@
         "antioxidant"
       ],
       "topicId": "fat-soluble-vitamins-a-d-e-k",
-      "topicName": "Fat-Soluble Vitamins (A, D, E, K)"
+      "topicName": "Fat-Soluble Vitamins (A, D, E, K)",
+      "tier": "core"
     },
     {
       "id": "bo30-011",
@@ -8873,7 +9063,8 @@
         "coagulation"
       ],
       "topicId": "fat-soluble-vitamins-a-d-e-k",
-      "topicName": "Fat-Soluble Vitamins (A, D, E, K)"
+      "topicName": "Fat-Soluble Vitamins (A, D, E, K)",
+      "tier": "core"
     },
     {
       "id": "bo30-012",
@@ -8920,7 +9111,8 @@
         "hemostasis"
       ],
       "topicId": "fat-soluble-vitamins-a-d-e-k",
-      "topicName": "Fat-Soluble Vitamins (A, D, E, K)"
+      "topicName": "Fat-Soluble Vitamins (A, D, E, K)",
+      "tier": "core"
     },
     {
       "id": "bo30-013",
@@ -8967,7 +9159,8 @@
         "chylomicrons"
       ],
       "topicId": "fat-soluble-vitamins-a-d-e-k",
-      "topicName": "Fat-Soluble Vitamins (A, D, E, K)"
+      "topicName": "Fat-Soluble Vitamins (A, D, E, K)",
+      "tier": "extra"
     },
     {
       "id": "bo30-014",
@@ -9014,7 +9207,8 @@
         "malabsorption"
       ],
       "topicId": "fat-soluble-vitamins-a-d-e-k",
-      "topicName": "Fat-Soluble Vitamins (A, D, E, K)"
+      "topicName": "Fat-Soluble Vitamins (A, D, E, K)",
+      "tier": "extra"
     },
     {
       "id": "bo30-015",
@@ -9060,7 +9254,8 @@
         "carotenoid"
       ],
       "topicId": "fat-soluble-vitamins-a-d-e-k",
-      "topicName": "Fat-Soluble Vitamins (A, D, E, K)"
+      "topicName": "Fat-Soluble Vitamins (A, D, E, K)",
+      "tier": "extra"
     },
     {
       "id": "bo30-016",
@@ -9107,7 +9302,8 @@
         "psoriasis"
       ],
       "topicId": "fat-soluble-vitamins-a-d-e-k",
-      "topicName": "Fat-Soluble Vitamins (A, D, E, K)"
+      "topicName": "Fat-Soluble Vitamins (A, D, E, K)",
+      "tier": "extra"
     },
     {
       "id": "bo30-017",
@@ -9154,7 +9350,8 @@
         "retinoic acid"
       ],
       "topicId": "fat-soluble-vitamins-a-d-e-k",
-      "topicName": "Fat-Soluble Vitamins (A, D, E, K)"
+      "topicName": "Fat-Soluble Vitamins (A, D, E, K)",
+      "tier": "extra"
     },
     {
       "id": "bo30-018",
@@ -9201,7 +9398,8 @@
         "retinoids"
       ],
       "topicId": "fat-soluble-vitamins-a-d-e-k",
-      "topicName": "Fat-Soluble Vitamins (A, D, E, K)"
+      "topicName": "Fat-Soluble Vitamins (A, D, E, K)",
+      "tier": "extra"
     },
     {
       "id": "bo30-019",
@@ -9249,7 +9447,8 @@
         "infection"
       ],
       "topicId": "fat-soluble-vitamins-a-d-e-k",
-      "topicName": "Fat-Soluble Vitamins (A, D, E, K)"
+      "topicName": "Fat-Soluble Vitamins (A, D, E, K)",
+      "tier": "extra"
     },
     {
       "id": "bo30-020",
@@ -9296,7 +9495,8 @@
         "skin"
       ],
       "topicId": "fat-soluble-vitamins-a-d-e-k",
-      "topicName": "Fat-Soluble Vitamins (A, D, E, K)"
+      "topicName": "Fat-Soluble Vitamins (A, D, E, K)",
+      "tier": "extra"
     },
     {
       "id": "bo30-021",
@@ -9343,7 +9543,8 @@
         "plant sources"
       ],
       "topicId": "fat-soluble-vitamins-a-d-e-k",
-      "topicName": "Fat-Soluble Vitamins (A, D, E, K)"
+      "topicName": "Fat-Soluble Vitamins (A, D, E, K)",
+      "tier": "extra"
     },
     {
       "id": "bo30-022",
@@ -9390,7 +9591,8 @@
         "skin"
       ],
       "topicId": "fat-soluble-vitamins-a-d-e-k",
-      "topicName": "Fat-Soluble Vitamins (A, D, E, K)"
+      "topicName": "Fat-Soluble Vitamins (A, D, E, K)",
+      "tier": "extra"
     },
     {
       "id": "bo30-023",
@@ -9437,7 +9639,8 @@
         "supplementation"
       ],
       "topicId": "fat-soluble-vitamins-a-d-e-k",
-      "topicName": "Fat-Soluble Vitamins (A, D, E, K)"
+      "topicName": "Fat-Soluble Vitamins (A, D, E, K)",
+      "tier": "extra"
     },
     {
       "id": "bo30-024",
@@ -9484,7 +9687,8 @@
         "skin synthesis"
       ],
       "topicId": "fat-soluble-vitamins-a-d-e-k",
-      "topicName": "Fat-Soluble Vitamins (A, D, E, K)"
+      "topicName": "Fat-Soluble Vitamins (A, D, E, K)",
+      "tier": "extra"
     },
     {
       "id": "bo30-025",
@@ -9532,7 +9736,8 @@
         "regulation"
       ],
       "topicId": "fat-soluble-vitamins-a-d-e-k",
-      "topicName": "Fat-Soluble Vitamins (A, D, E, K)"
+      "topicName": "Fat-Soluble Vitamins (A, D, E, K)",
+      "tier": "extra"
     },
     {
       "id": "bo30-026",
@@ -9580,7 +9785,8 @@
         "calcium binding protein"
       ],
       "topicId": "fat-soluble-vitamins-a-d-e-k",
-      "topicName": "Fat-Soluble Vitamins (A, D, E, K)"
+      "topicName": "Fat-Soluble Vitamins (A, D, E, K)",
+      "tier": "extra"
     },
     {
       "id": "bo30-027",
@@ -9627,7 +9833,8 @@
         "deficiency"
       ],
       "topicId": "fat-soluble-vitamins-a-d-e-k",
-      "topicName": "Fat-Soluble Vitamins (A, D, E, K)"
+      "topicName": "Fat-Soluble Vitamins (A, D, E, K)",
+      "tier": "extra"
     },
     {
       "id": "bo30-028",
@@ -9675,7 +9882,8 @@
         "X-linked dominant"
       ],
       "topicId": "fat-soluble-vitamins-a-d-e-k",
-      "topicName": "Fat-Soluble Vitamins (A, D, E, K)"
+      "topicName": "Fat-Soluble Vitamins (A, D, E, K)",
+      "tier": "extra"
     },
     {
       "id": "bo30-029",
@@ -9722,7 +9930,8 @@
         "supplementation"
       ],
       "topicId": "fat-soluble-vitamins-a-d-e-k",
-      "topicName": "Fat-Soluble Vitamins (A, D, E, K)"
+      "topicName": "Fat-Soluble Vitamins (A, D, E, K)",
+      "tier": "extra"
     },
     {
       "id": "bo30-030",
@@ -9769,7 +9978,8 @@
         "atherosclerosis"
       ],
       "topicId": "fat-soluble-vitamins-a-d-e-k",
-      "topicName": "Fat-Soluble Vitamins (A, D, E, K)"
+      "topicName": "Fat-Soluble Vitamins (A, D, E, K)",
+      "tier": "extra"
     },
     {
       "id": "bo30-031",
@@ -9816,7 +10026,8 @@
         "oxidative stress"
       ],
       "topicId": "fat-soluble-vitamins-a-d-e-k",
-      "topicName": "Fat-Soluble Vitamins (A, D, E, K)"
+      "topicName": "Fat-Soluble Vitamins (A, D, E, K)",
+      "tier": "extra"
     },
     {
       "id": "bo30-032",
@@ -9864,7 +10075,8 @@
         "INR"
       ],
       "topicId": "fat-soluble-vitamins-a-d-e-k",
-      "topicName": "Fat-Soluble Vitamins (A, D, E, K)"
+      "topicName": "Fat-Soluble Vitamins (A, D, E, K)",
+      "tier": "extra"
     },
     {
       "id": "bo30-033",
@@ -9912,7 +10124,8 @@
         "dietary sources"
       ],
       "topicId": "fat-soluble-vitamins-a-d-e-k",
-      "topicName": "Fat-Soluble Vitamins (A, D, E, K)"
+      "topicName": "Fat-Soluble Vitamins (A, D, E, K)",
+      "tier": "extra"
     },
     {
       "id": "bo30-034",
@@ -9960,7 +10173,8 @@
         "coagulation"
       ],
       "topicId": "fat-soluble-vitamins-a-d-e-k",
-      "topicName": "Fat-Soluble Vitamins (A, D, E, K)"
+      "topicName": "Fat-Soluble Vitamins (A, D, E, K)",
+      "tier": "extra"
     },
     {
       "id": "bo30-035",
@@ -10008,7 +10222,8 @@
         "INR"
       ],
       "topicId": "fat-soluble-vitamins-a-d-e-k",
-      "topicName": "Fat-Soluble Vitamins (A, D, E, K)"
+      "topicName": "Fat-Soluble Vitamins (A, D, E, K)",
+      "tier": "extra"
     },
     {
       "id": "bo30-036",
@@ -10054,7 +10269,8 @@
         "tolerable upper intake level"
       ],
       "topicId": "fat-soluble-vitamins-a-d-e-k",
-      "topicName": "Fat-Soluble Vitamins (A, D, E, K)"
+      "topicName": "Fat-Soluble Vitamins (A, D, E, K)",
+      "tier": "extra"
     },
     {
       "id": "bo31-001",
@@ -10101,7 +10317,8 @@
         "ceruloplasmin"
       ],
       "topicId": "basic-nutritional-requirements-select-minerals",
-      "topicName": "Basic Nutritional Requirements for Metabolism: Select Minerals"
+      "topicName": "Basic Nutritional Requirements for Metabolism: Select Minerals",
+      "tier": "core"
     },
     {
       "id": "bo31-002",
@@ -10148,7 +10365,8 @@
         "ionized calcium"
       ],
       "topicId": "basic-nutritional-requirements-select-minerals",
-      "topicName": "Basic Nutritional Requirements for Metabolism: Select Minerals"
+      "topicName": "Basic Nutritional Requirements for Metabolism: Select Minerals",
+      "tier": "core"
     },
     {
       "id": "bo31-003",
@@ -10195,7 +10413,8 @@
         "hormone"
       ],
       "topicId": "basic-nutritional-requirements-select-minerals",
-      "topicName": "Basic Nutritional Requirements for Metabolism: Select Minerals"
+      "topicName": "Basic Nutritional Requirements for Metabolism: Select Minerals",
+      "tier": "core"
     },
     {
       "id": "bo31-004",
@@ -10242,7 +10461,8 @@
         "vitamin D"
       ],
       "topicId": "basic-nutritional-requirements-select-minerals",
-      "topicName": "Basic Nutritional Requirements for Metabolism: Select Minerals"
+      "topicName": "Basic Nutritional Requirements for Metabolism: Select Minerals",
+      "tier": "core"
     },
     {
       "id": "bo31-005",
@@ -10289,7 +10509,8 @@
         "trace mineral"
       ],
       "topicId": "basic-nutritional-requirements-select-minerals",
-      "topicName": "Basic Nutritional Requirements for Metabolism: Select Minerals"
+      "topicName": "Basic Nutritional Requirements for Metabolism: Select Minerals",
+      "tier": "core"
     },
     {
       "id": "bo31-006",
@@ -10336,7 +10557,8 @@
         "genetics"
       ],
       "topicId": "basic-nutritional-requirements-select-minerals",
-      "topicName": "Basic Nutritional Requirements for Metabolism: Select Minerals"
+      "topicName": "Basic Nutritional Requirements for Metabolism: Select Minerals",
+      "tier": "core"
     },
     {
       "id": "bo31-007",
@@ -10383,7 +10605,8 @@
         "deficiency"
       ],
       "topicId": "basic-nutritional-requirements-select-minerals",
-      "topicName": "Basic Nutritional Requirements for Metabolism: Select Minerals"
+      "topicName": "Basic Nutritional Requirements for Metabolism: Select Minerals",
+      "tier": "core"
     },
     {
       "id": "bo31-008",
@@ -10430,7 +10653,8 @@
         "vitamin C"
       ],
       "topicId": "basic-nutritional-requirements-select-minerals",
-      "topicName": "Basic Nutritional Requirements for Metabolism: Select Minerals"
+      "topicName": "Basic Nutritional Requirements for Metabolism: Select Minerals",
+      "tier": "core"
     },
     {
       "id": "bo31-009",
@@ -10477,7 +10701,8 @@
         "bariatric surgery"
       ],
       "topicId": "basic-nutritional-requirements-select-minerals",
-      "topicName": "Basic Nutritional Requirements for Metabolism: Select Minerals"
+      "topicName": "Basic Nutritional Requirements for Metabolism: Select Minerals",
+      "tier": "core"
     },
     {
       "id": "bo31-010",
@@ -10524,7 +10749,8 @@
         "alcoholism"
       ],
       "topicId": "basic-nutritional-requirements-select-minerals",
-      "topicName": "Basic Nutritional Requirements for Metabolism: Select Minerals"
+      "topicName": "Basic Nutritional Requirements for Metabolism: Select Minerals",
+      "tier": "core"
     },
     {
       "id": "bo31-011",
@@ -10571,7 +10797,8 @@
         "hyperphosphatemia"
       ],
       "topicId": "basic-nutritional-requirements-select-minerals",
-      "topicName": "Basic Nutritional Requirements for Metabolism: Select Minerals"
+      "topicName": "Basic Nutritional Requirements for Metabolism: Select Minerals",
+      "tier": "core"
     },
     {
       "id": "bo31-012",
@@ -10618,7 +10845,8 @@
         "serum"
       ],
       "topicId": "basic-nutritional-requirements-select-minerals",
-      "topicName": "Basic Nutritional Requirements for Metabolism: Select Minerals"
+      "topicName": "Basic Nutritional Requirements for Metabolism: Select Minerals",
+      "tier": "core"
     },
     {
       "id": "bo31-013",
@@ -10665,7 +10893,8 @@
         "definitions"
       ],
       "topicId": "basic-nutritional-requirements-select-minerals",
-      "topicName": "Basic Nutritional Requirements for Metabolism: Select Minerals"
+      "topicName": "Basic Nutritional Requirements for Metabolism: Select Minerals",
+      "tier": "extra"
     },
     {
       "id": "bo31-014",
@@ -10712,7 +10941,8 @@
         "calcium"
       ],
       "topicId": "basic-nutritional-requirements-select-minerals",
-      "topicName": "Basic Nutritional Requirements for Metabolism: Select Minerals"
+      "topicName": "Basic Nutritional Requirements for Metabolism: Select Minerals",
+      "tier": "extra"
     },
     {
       "id": "bo31-015",
@@ -10759,7 +10989,8 @@
         "ionized calcium"
       ],
       "topicId": "basic-nutritional-requirements-select-minerals",
-      "topicName": "Basic Nutritional Requirements for Metabolism: Select Minerals"
+      "topicName": "Basic Nutritional Requirements for Metabolism: Select Minerals",
+      "tier": "extra"
     },
     {
       "id": "bo31-016",
@@ -10806,7 +11037,8 @@
         "albumin"
       ],
       "topicId": "basic-nutritional-requirements-select-minerals",
-      "topicName": "Basic Nutritional Requirements for Metabolism: Select Minerals"
+      "topicName": "Basic Nutritional Requirements for Metabolism: Select Minerals",
+      "tier": "extra"
     },
     {
       "id": "bo31-017",
@@ -10853,7 +11085,8 @@
         "bicarbonate"
       ],
       "topicId": "basic-nutritional-requirements-select-minerals",
-      "topicName": "Basic Nutritional Requirements for Metabolism: Select Minerals"
+      "topicName": "Basic Nutritional Requirements for Metabolism: Select Minerals",
+      "tier": "extra"
     },
     {
       "id": "bo31-018",
@@ -10900,7 +11133,8 @@
         "red blood cells"
       ],
       "topicId": "basic-nutritional-requirements-select-minerals",
-      "topicName": "Basic Nutritional Requirements for Metabolism: Select Minerals"
+      "topicName": "Basic Nutritional Requirements for Metabolism: Select Minerals",
+      "tier": "extra"
     },
     {
       "id": "bo31-019",
@@ -10947,7 +11181,8 @@
         "signaling"
       ],
       "topicId": "basic-nutritional-requirements-select-minerals",
-      "topicName": "Basic Nutritional Requirements for Metabolism: Select Minerals"
+      "topicName": "Basic Nutritional Requirements for Metabolism: Select Minerals",
+      "tier": "extra"
     },
     {
       "id": "bo31-020",
@@ -10994,7 +11229,8 @@
         "hypocalcemia"
       ],
       "topicId": "basic-nutritional-requirements-select-minerals",
-      "topicName": "Basic Nutritional Requirements for Metabolism: Select Minerals"
+      "topicName": "Basic Nutritional Requirements for Metabolism: Select Minerals",
+      "tier": "extra"
     },
     {
       "id": "bo31-021",
@@ -11041,7 +11277,8 @@
         "phosphate"
       ],
       "topicId": "basic-nutritional-requirements-select-minerals",
-      "topicName": "Basic Nutritional Requirements for Metabolism: Select Minerals"
+      "topicName": "Basic Nutritional Requirements for Metabolism: Select Minerals",
+      "tier": "extra"
     },
     {
       "id": "bo31-022",
@@ -11088,7 +11325,8 @@
         "cofactor"
       ],
       "topicId": "basic-nutritional-requirements-select-minerals",
-      "topicName": "Basic Nutritional Requirements for Metabolism: Select Minerals"
+      "topicName": "Basic Nutritional Requirements for Metabolism: Select Minerals",
+      "tier": "extra"
     },
     {
       "id": "bo31-023",
@@ -11135,7 +11373,8 @@
         "arrhythmia"
       ],
       "topicId": "basic-nutritional-requirements-select-minerals",
-      "topicName": "Basic Nutritional Requirements for Metabolism: Select Minerals"
+      "topicName": "Basic Nutritional Requirements for Metabolism: Select Minerals",
+      "tier": "extra"
     },
     {
       "id": "bo31-024",
@@ -11182,7 +11421,8 @@
         "cofactor"
       ],
       "topicId": "basic-nutritional-requirements-select-minerals",
-      "topicName": "Basic Nutritional Requirements for Metabolism: Select Minerals"
+      "topicName": "Basic Nutritional Requirements for Metabolism: Select Minerals",
+      "tier": "extra"
     },
     {
       "id": "bo31-025",
@@ -11229,7 +11469,8 @@
         "immunosuppression"
       ],
       "topicId": "basic-nutritional-requirements-select-minerals",
-      "topicName": "Basic Nutritional Requirements for Metabolism: Select Minerals"
+      "topicName": "Basic Nutritional Requirements for Metabolism: Select Minerals",
+      "tier": "extra"
     },
     {
       "id": "bo31-026",
@@ -11276,7 +11517,8 @@
         "Crohn's disease"
       ],
       "topicId": "basic-nutritional-requirements-select-minerals",
-      "topicName": "Basic Nutritional Requirements for Metabolism: Select Minerals"
+      "topicName": "Basic Nutritional Requirements for Metabolism: Select Minerals",
+      "tier": "extra"
     },
     {
       "id": "bo31-027",
@@ -11323,7 +11565,8 @@
         "bariatric surgery"
       ],
       "topicId": "basic-nutritional-requirements-select-minerals",
-      "topicName": "Basic Nutritional Requirements for Metabolism: Select Minerals"
+      "topicName": "Basic Nutritional Requirements for Metabolism: Select Minerals",
+      "tier": "extra"
     },
     {
       "id": "bo31-028",
@@ -11370,7 +11613,8 @@
         "liver"
       ],
       "topicId": "basic-nutritional-requirements-select-minerals",
-      "topicName": "Basic Nutritional Requirements for Metabolism: Select Minerals"
+      "topicName": "Basic Nutritional Requirements for Metabolism: Select Minerals",
+      "tier": "extra"
     },
     {
       "id": "bo31-029",
@@ -11417,7 +11661,8 @@
         "cofactor"
       ],
       "topicId": "basic-nutritional-requirements-select-minerals",
-      "topicName": "Basic Nutritional Requirements for Metabolism: Select Minerals"
+      "topicName": "Basic Nutritional Requirements for Metabolism: Select Minerals",
+      "tier": "extra"
     },
     {
       "id": "bo31-030",
@@ -11464,7 +11709,8 @@
         "mitochondria"
       ],
       "topicId": "basic-nutritional-requirements-select-minerals",
-      "topicName": "Basic Nutritional Requirements for Metabolism: Select Minerals"
+      "topicName": "Basic Nutritional Requirements for Metabolism: Select Minerals",
+      "tier": "extra"
     },
     {
       "id": "bo31-031",
@@ -11511,7 +11757,8 @@
         "cirrhosis"
       ],
       "topicId": "basic-nutritional-requirements-select-minerals",
-      "topicName": "Basic Nutritional Requirements for Metabolism: Select Minerals"
+      "topicName": "Basic Nutritional Requirements for Metabolism: Select Minerals",
+      "tier": "extra"
     },
     {
       "id": "bo31-032",
@@ -11558,7 +11805,8 @@
         "neuropsychiatric"
       ],
       "topicId": "basic-nutritional-requirements-select-minerals",
-      "topicName": "Basic Nutritional Requirements for Metabolism: Select Minerals"
+      "topicName": "Basic Nutritional Requirements for Metabolism: Select Minerals",
+      "tier": "extra"
     },
     {
       "id": "bo31-033",
@@ -11605,7 +11853,8 @@
         "treatment"
       ],
       "topicId": "basic-nutritional-requirements-select-minerals",
-      "topicName": "Basic Nutritional Requirements for Metabolism: Select Minerals"
+      "topicName": "Basic Nutritional Requirements for Metabolism: Select Minerals",
+      "tier": "extra"
     },
     {
       "id": "bo31-034",
@@ -11652,7 +11901,8 @@
         "diagnosis"
       ],
       "topicId": "basic-nutritional-requirements-select-minerals",
-      "topicName": "Basic Nutritional Requirements for Metabolism: Select Minerals"
+      "topicName": "Basic Nutritional Requirements for Metabolism: Select Minerals",
+      "tier": "extra"
     },
     {
       "id": "bo31-035",
@@ -11699,7 +11949,8 @@
         "ceruloplasmin"
       ],
       "topicId": "basic-nutritional-requirements-select-minerals",
-      "topicName": "Basic Nutritional Requirements for Metabolism: Select Minerals"
+      "topicName": "Basic Nutritional Requirements for Metabolism: Select Minerals",
+      "tier": "extra"
     },
     {
       "id": "bo31-036",
@@ -11746,7 +11997,8 @@
         "copper toxicity"
       ],
       "topicId": "basic-nutritional-requirements-select-minerals",
-      "topicName": "Basic Nutritional Requirements for Metabolism: Select Minerals"
+      "topicName": "Basic Nutritional Requirements for Metabolism: Select Minerals",
+      "tier": "extra"
     }
   ]
 }

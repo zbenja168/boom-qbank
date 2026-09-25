@@ -46,7 +46,8 @@
         "clinical"
       ],
       "topicId": "carbohydrates-and-carbohydrate-metabolism-overview-i",
-      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I"
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I",
+      "tier": "core"
     },
     {
       "id": "bo18-002",
@@ -92,7 +93,8 @@
         "membrane transport"
       ],
       "topicId": "carbohydrates-and-carbohydrate-metabolism-overview-i",
-      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I"
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I",
+      "tier": "core"
     },
     {
       "id": "bo18-003",
@@ -138,7 +140,8 @@
         "insulin"
       ],
       "topicId": "carbohydrates-and-carbohydrate-metabolism-overview-i",
-      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I"
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I",
+      "tier": "core"
     },
     {
       "id": "bo18-004",
@@ -185,7 +188,8 @@
         "diabetes"
       ],
       "topicId": "carbohydrates-and-carbohydrate-metabolism-overview-i",
-      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I"
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I",
+      "tier": "core"
     },
     {
       "id": "bo18-005",
@@ -232,7 +236,8 @@
         "fasting"
       ],
       "topicId": "carbohydrates-and-carbohydrate-metabolism-overview-i",
-      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I"
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I",
+      "tier": "core"
     },
     {
       "id": "bo18-006",
@@ -278,7 +283,8 @@
         "neurons"
       ],
       "topicId": "carbohydrates-and-carbohydrate-metabolism-overview-i",
-      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I"
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I",
+      "tier": "core"
     },
     {
       "id": "bo18-007",
@@ -324,7 +330,8 @@
         "lactase"
       ],
       "topicId": "carbohydrates-and-carbohydrate-metabolism-overview-i",
-      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I"
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I",
+      "tier": "core"
     },
     {
       "id": "bo18-008",
@@ -370,7 +377,8 @@
         "sucrose"
       ],
       "topicId": "carbohydrates-and-carbohydrate-metabolism-overview-i",
-      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I"
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I",
+      "tier": "core"
     },
     {
       "id": "bo18-009",
@@ -417,7 +425,8 @@
         "digestion"
       ],
       "topicId": "carbohydrates-and-carbohydrate-metabolism-overview-i",
-      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I"
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I",
+      "tier": "core"
     },
     {
       "id": "bo18-010",
@@ -464,7 +473,8 @@
         "reducing sugar"
       ],
       "topicId": "carbohydrates-and-carbohydrate-metabolism-overview-i",
-      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I"
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I",
+      "tier": "core"
     },
     {
       "id": "bo18-011",
@@ -510,7 +520,8 @@
         "absorption"
       ],
       "topicId": "carbohydrates-and-carbohydrate-metabolism-overview-i",
-      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I"
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I",
+      "tier": "core"
     },
     {
       "id": "bo18-012",
@@ -556,7 +567,8 @@
         "lipogenesis"
       ],
       "topicId": "carbohydrates-and-carbohydrate-metabolism-overview-i",
-      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I"
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I",
+      "tier": "core"
     },
     {
       "id": "bo18-013",
@@ -602,7 +614,8 @@
         "ketose"
       ],
       "topicId": "carbohydrates-and-carbohydrate-metabolism-overview-i",
-      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I"
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I",
+      "tier": "extra"
     },
     {
       "id": "bo18-014",
@@ -648,7 +661,8 @@
         "ketose"
       ],
       "topicId": "carbohydrates-and-carbohydrate-metabolism-overview-i",
-      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I"
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I",
+      "tier": "extra"
     },
     {
       "id": "bo18-015",
@@ -695,7 +709,8 @@
         "pyranose"
       ],
       "topicId": "carbohydrates-and-carbohydrate-metabolism-overview-i",
-      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I"
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I",
+      "tier": "extra"
     },
     {
       "id": "bo18-016",
@@ -741,7 +756,8 @@
         "pyranose"
       ],
       "topicId": "carbohydrates-and-carbohydrate-metabolism-overview-i",
-      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I"
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I",
+      "tier": "extra"
     },
     {
       "id": "bo18-017",
@@ -786,7 +802,8 @@
         "oligosaccharide"
       ],
       "topicId": "carbohydrates-and-carbohydrate-metabolism-overview-i",
-      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I"
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I",
+      "tier": "extra"
     },
     {
       "id": "bo18-018",
@@ -832,7 +849,8 @@
         "clinical"
       ],
       "topicId": "carbohydrates-and-carbohydrate-metabolism-overview-i",
-      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I"
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I",
+      "tier": "extra"
     },
     {
       "id": "bo18-019",
@@ -878,7 +896,8 @@
         "nomenclature"
       ],
       "topicId": "carbohydrates-and-carbohydrate-metabolism-overview-i",
-      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I"
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I",
+      "tier": "extra"
     },
     {
       "id": "bo18-020",
@@ -924,7 +943,8 @@
         "sucrose"
       ],
       "topicId": "carbohydrates-and-carbohydrate-metabolism-overview-i",
-      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I"
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I",
+      "tier": "extra"
     },
     {
       "id": "bo18-021",
@@ -970,7 +990,8 @@
         "nucleotides"
       ],
       "topicId": "carbohydrates-and-carbohydrate-metabolism-overview-i",
-      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I"
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I",
+      "tier": "extra"
     },
     {
       "id": "bo18-022",
@@ -1016,7 +1037,8 @@
         "clinical"
       ],
       "topicId": "carbohydrates-and-carbohydrate-metabolism-overview-i",
-      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I"
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I",
+      "tier": "extra"
     },
     {
       "id": "bo18-023",
@@ -1063,7 +1085,8 @@
         "kinetics"
       ],
       "topicId": "carbohydrates-and-carbohydrate-metabolism-overview-i",
-      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I"
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I",
+      "tier": "extra"
     },
     {
       "id": "bo18-024",
@@ -1110,7 +1133,8 @@
         "digestion"
       ],
       "topicId": "carbohydrates-and-carbohydrate-metabolism-overview-i",
-      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I"
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I",
+      "tier": "extra"
     },
     {
       "id": "bo18-025",
@@ -1156,7 +1180,8 @@
         "alpha-1,4"
       ],
       "topicId": "carbohydrates-and-carbohydrate-metabolism-overview-i",
-      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I"
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I",
+      "tier": "extra"
     },
     {
       "id": "bo18-026",
@@ -1202,7 +1227,8 @@
         "pectin"
       ],
       "topicId": "carbohydrates-and-carbohydrate-metabolism-overview-i",
-      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I"
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I",
+      "tier": "extra"
     },
     {
       "id": "bo18-027",
@@ -1248,7 +1274,8 @@
         "beta-1,3"
       ],
       "topicId": "carbohydrates-and-carbohydrate-metabolism-overview-i",
-      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I"
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I",
+      "tier": "extra"
     },
     {
       "id": "bo18-028",
@@ -1294,7 +1321,8 @@
         "numbers"
       ],
       "topicId": "carbohydrates-and-carbohydrate-metabolism-overview-i",
-      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I"
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I",
+      "tier": "extra"
     },
     {
       "id": "bo18-029",
@@ -1341,7 +1369,8 @@
         "brush border"
       ],
       "topicId": "carbohydrates-and-carbohydrate-metabolism-overview-i",
-      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I"
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I",
+      "tier": "extra"
     },
     {
       "id": "bo18-030",
@@ -1388,7 +1417,8 @@
         "lipogenesis"
       ],
       "topicId": "carbohydrates-and-carbohydrate-metabolism-overview-i",
-      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I"
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I",
+      "tier": "extra"
     },
     {
       "id": "bo18-031",
@@ -1435,7 +1465,8 @@
         "case"
       ],
       "topicId": "carbohydrates-and-carbohydrate-metabolism-overview-i",
-      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I"
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I",
+      "tier": "extra"
     },
     {
       "id": "bo18-032",
@@ -1482,7 +1513,8 @@
         "basolateral"
       ],
       "topicId": "carbohydrates-and-carbohydrate-metabolism-overview-i",
-      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I"
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I",
+      "tier": "extra"
     },
     {
       "id": "bo18-033",
@@ -1529,7 +1561,8 @@
         "secondary active transport"
       ],
       "topicId": "carbohydrates-and-carbohydrate-metabolism-overview-i",
-      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I"
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I",
+      "tier": "extra"
     },
     {
       "id": "bo18-034",
@@ -1575,7 +1608,8 @@
         "tissue expression"
       ],
       "topicId": "carbohydrates-and-carbohydrate-metabolism-overview-i",
-      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I"
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I",
+      "tier": "extra"
     },
     {
       "id": "bo18-035",
@@ -1622,7 +1656,8 @@
         "bidirectional"
       ],
       "topicId": "carbohydrates-and-carbohydrate-metabolism-overview-i",
-      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I"
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I",
+      "tier": "extra"
     },
     {
       "id": "bo18-036",
@@ -1668,7 +1703,8 @@
         "Km"
       ],
       "topicId": "carbohydrates-and-carbohydrate-metabolism-overview-i",
-      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I"
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I",
+      "tier": "extra"
     },
     {
       "id": "bo19-001",
@@ -1714,7 +1750,8 @@
         "cataracts"
       ],
       "topicId": "glycogen-lactose-intolerance-galactosemia",
-      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I: Glycogen, Lactose Intolerance, and Galactosemia"
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I: Glycogen, Lactose Intolerance, and Galactosemia",
+      "tier": "core"
     },
     {
       "id": "bo19-002",
@@ -1760,7 +1797,8 @@
         "neonatal sepsis"
       ],
       "topicId": "glycogen-lactose-intolerance-galactosemia",
-      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I: Glycogen, Lactose Intolerance, and Galactosemia"
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I: Glycogen, Lactose Intolerance, and Galactosemia",
+      "tier": "core"
     },
     {
       "id": "bo19-003",
@@ -1806,7 +1844,8 @@
         "cataracts"
       ],
       "topicId": "glycogen-lactose-intolerance-galactosemia",
-      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I: Glycogen, Lactose Intolerance, and Galactosemia"
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I: Glycogen, Lactose Intolerance, and Galactosemia",
+      "tier": "core"
     },
     {
       "id": "bo19-004",
@@ -1852,7 +1891,8 @@
         "Km"
       ],
       "topicId": "glycogen-lactose-intolerance-galactosemia",
-      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I: Glycogen, Lactose Intolerance, and Galactosemia"
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I: Glycogen, Lactose Intolerance, and Galactosemia",
+      "tier": "core"
     },
     {
       "id": "bo19-005",
@@ -1898,7 +1938,8 @@
         "structure"
       ],
       "topicId": "glycogen-lactose-intolerance-galactosemia",
-      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I: Glycogen, Lactose Intolerance, and Galactosemia"
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I: Glycogen, Lactose Intolerance, and Galactosemia",
+      "tier": "core"
     },
     {
       "id": "bo19-006",
@@ -1944,7 +1985,8 @@
         "glucose mobilization"
       ],
       "topicId": "glycogen-lactose-intolerance-galactosemia",
-      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I: Glycogen, Lactose Intolerance, and Galactosemia"
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I: Glycogen, Lactose Intolerance, and Galactosemia",
+      "tier": "core"
     },
     {
       "id": "bo19-007",
@@ -1990,7 +2032,8 @@
         "storage"
       ],
       "topicId": "glycogen-lactose-intolerance-galactosemia",
-      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I: Glycogen, Lactose Intolerance, and Galactosemia"
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I: Glycogen, Lactose Intolerance, and Galactosemia",
+      "tier": "core"
     },
     {
       "id": "bo19-008",
@@ -2036,7 +2079,8 @@
         "branching enzyme"
       ],
       "topicId": "glycogen-lactose-intolerance-galactosemia",
-      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I: Glycogen, Lactose Intolerance, and Galactosemia"
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I: Glycogen, Lactose Intolerance, and Galactosemia",
+      "tier": "core"
     },
     {
       "id": "bo19-009",
@@ -2082,7 +2126,8 @@
         "bacterial fermentation"
       ],
       "topicId": "glycogen-lactose-intolerance-galactosemia",
-      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I: Glycogen, Lactose Intolerance, and Galactosemia"
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I: Glycogen, Lactose Intolerance, and Galactosemia",
+      "tier": "core"
     },
     {
       "id": "bo19-010",
@@ -2128,7 +2173,8 @@
         "autosomal recessive"
       ],
       "topicId": "glycogen-lactose-intolerance-galactosemia",
-      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I: Glycogen, Lactose Intolerance, and Galactosemia"
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I: Glycogen, Lactose Intolerance, and Galactosemia",
+      "tier": "core"
     },
     {
       "id": "bo19-011",
@@ -2174,7 +2220,8 @@
         "diagnosis"
       ],
       "topicId": "glycogen-lactose-intolerance-galactosemia",
-      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I: Glycogen, Lactose Intolerance, and Galactosemia"
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I: Glycogen, Lactose Intolerance, and Galactosemia",
+      "tier": "core"
     },
     {
       "id": "bo19-012",
@@ -2220,7 +2267,8 @@
         "hypoglycemia"
       ],
       "topicId": "glycogen-lactose-intolerance-galactosemia",
-      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I: Glycogen, Lactose Intolerance, and Galactosemia"
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I: Glycogen, Lactose Intolerance, and Galactosemia",
+      "tier": "core"
     },
     {
       "id": "bo19-013",
@@ -2266,7 +2314,8 @@
         "skeletal muscle"
       ],
       "topicId": "glycogen-lactose-intolerance-galactosemia",
-      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I: Glycogen, Lactose Intolerance, and Galactosemia"
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I: Glycogen, Lactose Intolerance, and Galactosemia",
+      "tier": "extra"
     },
     {
       "id": "bo19-014",
@@ -2312,7 +2361,8 @@
         "structure"
       ],
       "topicId": "glycogen-lactose-intolerance-galactosemia",
-      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I: Glycogen, Lactose Intolerance, and Galactosemia"
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I: Glycogen, Lactose Intolerance, and Galactosemia",
+      "tier": "extra"
     },
     {
       "id": "bo19-015",
@@ -2358,7 +2408,8 @@
         "branch"
       ],
       "topicId": "glycogen-lactose-intolerance-galactosemia",
-      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I: Glycogen, Lactose Intolerance, and Galactosemia"
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I: Glycogen, Lactose Intolerance, and Galactosemia",
+      "tier": "extra"
     },
     {
       "id": "bo19-016",
@@ -2404,7 +2455,8 @@
         "reducing end"
       ],
       "topicId": "glycogen-lactose-intolerance-galactosemia",
-      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I: Glycogen, Lactose Intolerance, and Galactosemia"
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I: Glycogen, Lactose Intolerance, and Galactosemia",
+      "tier": "extra"
     },
     {
       "id": "bo19-017",
@@ -2450,7 +2502,8 @@
         "hepatic inflammation"
       ],
       "topicId": "glycogen-lactose-intolerance-galactosemia",
-      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I: Glycogen, Lactose Intolerance, and Galactosemia"
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I: Glycogen, Lactose Intolerance, and Galactosemia",
+      "tier": "extra"
     },
     {
       "id": "bo19-018",
@@ -2496,7 +2549,8 @@
         "classification"
       ],
       "topicId": "glycogen-lactose-intolerance-galactosemia",
-      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I: Glycogen, Lactose Intolerance, and Galactosemia"
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I: Glycogen, Lactose Intolerance, and Galactosemia",
+      "tier": "extra"
     },
     {
       "id": "bo19-019",
@@ -2542,7 +2596,8 @@
         "bloating"
       ],
       "topicId": "glycogen-lactose-intolerance-galactosemia",
-      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I: Glycogen, Lactose Intolerance, and Galactosemia"
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I: Glycogen, Lactose Intolerance, and Galactosemia",
+      "tier": "extra"
     },
     {
       "id": "bo19-020",
@@ -2588,7 +2643,8 @@
         "absorption"
       ],
       "topicId": "glycogen-lactose-intolerance-galactosemia",
-      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I: Glycogen, Lactose Intolerance, and Galactosemia"
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I: Glycogen, Lactose Intolerance, and Galactosemia",
+      "tier": "extra"
     },
     {
       "id": "bo19-021",
@@ -2634,7 +2690,8 @@
         "adult hypolactasia"
       ],
       "topicId": "glycogen-lactose-intolerance-galactosemia",
-      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I: Glycogen, Lactose Intolerance, and Galactosemia"
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I: Glycogen, Lactose Intolerance, and Galactosemia",
+      "tier": "extra"
     },
     {
       "id": "bo19-022",
@@ -2680,7 +2737,8 @@
         "genetic ancestry"
       ],
       "topicId": "glycogen-lactose-intolerance-galactosemia",
-      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I: Glycogen, Lactose Intolerance, and Galactosemia"
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I: Glycogen, Lactose Intolerance, and Galactosemia",
+      "tier": "extra"
     },
     {
       "id": "bo19-023",
@@ -2726,7 +2784,8 @@
         "malabsorption"
       ],
       "topicId": "glycogen-lactose-intolerance-galactosemia",
-      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I: Glycogen, Lactose Intolerance, and Galactosemia"
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I: Glycogen, Lactose Intolerance, and Galactosemia",
+      "tier": "extra"
     },
     {
       "id": "bo19-024",
@@ -2772,7 +2831,8 @@
         "galactose sources"
       ],
       "topicId": "glycogen-lactose-intolerance-galactosemia",
-      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I: Glycogen, Lactose Intolerance, and Galactosemia"
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I: Glycogen, Lactose Intolerance, and Galactosemia",
+      "tier": "extra"
     },
     {
       "id": "bo19-025",
@@ -2817,7 +2877,8 @@
         "liver"
       ],
       "topicId": "glycogen-lactose-intolerance-galactosemia",
-      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I: Glycogen, Lactose Intolerance, and Galactosemia"
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I: Glycogen, Lactose Intolerance, and Galactosemia",
+      "tier": "extra"
     },
     {
       "id": "bo19-026",
@@ -2863,7 +2924,8 @@
         "ATP"
       ],
       "topicId": "glycogen-lactose-intolerance-galactosemia",
-      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I: Glycogen, Lactose Intolerance, and Galactosemia"
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I: Glycogen, Lactose Intolerance, and Galactosemia",
+      "tier": "extra"
     },
     {
       "id": "bo19-027",
@@ -2909,7 +2971,8 @@
         "galactose metabolism"
       ],
       "topicId": "glycogen-lactose-intolerance-galactosemia",
-      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I: Glycogen, Lactose Intolerance, and Galactosemia"
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I: Glycogen, Lactose Intolerance, and Galactosemia",
+      "tier": "extra"
     },
     {
       "id": "bo19-028",
@@ -2955,7 +3018,8 @@
         "galactose 1-phosphate"
       ],
       "topicId": "glycogen-lactose-intolerance-galactosemia",
-      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I: Glycogen, Lactose Intolerance, and Galactosemia"
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I: Glycogen, Lactose Intolerance, and Galactosemia",
+      "tier": "extra"
     },
     {
       "id": "bo19-029",
@@ -3001,7 +3065,8 @@
         "glycolysis"
       ],
       "topicId": "glycogen-lactose-intolerance-galactosemia",
-      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I: Glycogen, Lactose Intolerance, and Galactosemia"
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I: Glycogen, Lactose Intolerance, and Galactosemia",
+      "tier": "extra"
     },
     {
       "id": "bo19-030",
@@ -3047,7 +3112,8 @@
         "diabetes"
       ],
       "topicId": "glycogen-lactose-intolerance-galactosemia",
-      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I: Glycogen, Lactose Intolerance, and Galactosemia"
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I: Glycogen, Lactose Intolerance, and Galactosemia",
+      "tier": "extra"
     },
     {
       "id": "bo19-031",
@@ -3093,7 +3159,8 @@
         "E. coli sepsis"
       ],
       "topicId": "glycogen-lactose-intolerance-galactosemia",
-      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I: Glycogen, Lactose Intolerance, and Galactosemia"
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I: Glycogen, Lactose Intolerance, and Galactosemia",
+      "tier": "extra"
     },
     {
       "id": "bo19-032",
@@ -3139,7 +3206,8 @@
         "breast milk"
       ],
       "topicId": "glycogen-lactose-intolerance-galactosemia",
-      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I: Glycogen, Lactose Intolerance, and Galactosemia"
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I: Glycogen, Lactose Intolerance, and Galactosemia",
+      "tier": "extra"
     },
     {
       "id": "bo19-033",
@@ -3185,7 +3253,8 @@
         "UDP-galactose"
       ],
       "topicId": "glycogen-lactose-intolerance-galactosemia",
-      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I: Glycogen, Lactose Intolerance, and Galactosemia"
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I: Glycogen, Lactose Intolerance, and Galactosemia",
+      "tier": "extra"
     },
     {
       "id": "bo19-034",
@@ -3231,7 +3300,8 @@
         "phosphate trapping"
       ],
       "topicId": "glycogen-lactose-intolerance-galactosemia",
-      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I: Glycogen, Lactose Intolerance, and Galactosemia"
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I: Glycogen, Lactose Intolerance, and Galactosemia",
+      "tier": "extra"
     },
     {
       "id": "bo19-035",
@@ -3277,7 +3347,8 @@
         "soy formula"
       ],
       "topicId": "glycogen-lactose-intolerance-galactosemia",
-      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I: Glycogen, Lactose Intolerance, and Galactosemia"
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I: Glycogen, Lactose Intolerance, and Galactosemia",
+      "tier": "extra"
     },
     {
       "id": "bo19-036",
@@ -3323,7 +3394,8 @@
         "cataracts"
       ],
       "topicId": "glycogen-lactose-intolerance-galactosemia",
-      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I: Glycogen, Lactose Intolerance, and Galactosemia"
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I: Glycogen, Lactose Intolerance, and Galactosemia",
+      "tier": "extra"
     },
     {
       "id": "bo20-001",
@@ -3369,7 +3441,8 @@
         "control points"
       ],
       "topicId": "carbohydrate-metabolism-overview-ii",
-      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II"
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II",
+      "tier": "core"
     },
     {
       "id": "bo20-002",
@@ -3416,7 +3489,8 @@
         "glycolysis"
       ],
       "topicId": "carbohydrate-metabolism-overview-ii",
-      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II"
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II",
+      "tier": "core"
     },
     {
       "id": "bo20-003",
@@ -3463,7 +3537,8 @@
         "hepatic glycolysis"
       ],
       "topicId": "carbohydrate-metabolism-overview-ii",
-      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II"
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II",
+      "tier": "core"
     },
     {
       "id": "bo20-004",
@@ -3509,7 +3584,8 @@
         "biotin"
       ],
       "topicId": "carbohydrate-metabolism-overview-ii",
-      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II"
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II",
+      "tier": "core"
     },
     {
       "id": "bo20-005",
@@ -3555,7 +3631,8 @@
         "GLUT2"
       ],
       "topicId": "carbohydrate-metabolism-overview-ii",
-      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II"
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II",
+      "tier": "core"
     },
     {
       "id": "bo20-006",
@@ -3601,7 +3678,8 @@
         "lactate"
       ],
       "topicId": "carbohydrate-metabolism-overview-ii",
-      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II"
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II",
+      "tier": "core"
     },
     {
       "id": "bo20-007",
@@ -3647,7 +3725,8 @@
         "lactate dehydrogenase"
       ],
       "topicId": "carbohydrate-metabolism-overview-ii",
-      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II"
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II",
+      "tier": "core"
     },
     {
       "id": "bo20-008",
@@ -3694,7 +3773,8 @@
         "NAD+"
       ],
       "topicId": "carbohydrate-metabolism-overview-ii",
-      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II"
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II",
+      "tier": "core"
     },
     {
       "id": "bo20-009",
@@ -3741,7 +3821,8 @@
         "vignette"
       ],
       "topicId": "carbohydrate-metabolism-overview-ii",
-      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II"
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II",
+      "tier": "core"
     },
     {
       "id": "bo20-010",
@@ -3787,7 +3868,8 @@
         "cardiomyopathy"
       ],
       "topicId": "carbohydrate-metabolism-overview-ii",
-      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II"
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II",
+      "tier": "core"
     },
     {
       "id": "bo20-011",
@@ -3834,7 +3916,8 @@
         "clinical reasoning"
       ],
       "topicId": "carbohydrate-metabolism-overview-ii",
-      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II"
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II",
+      "tier": "core"
     },
     {
       "id": "bo20-012",
@@ -3881,7 +3964,8 @@
         "RBC"
       ],
       "topicId": "carbohydrate-metabolism-overview-ii",
-      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II"
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II",
+      "tier": "core"
     },
     {
       "id": "bo20-013",
@@ -3928,7 +4012,8 @@
         "production phase"
       ],
       "topicId": "carbohydrate-metabolism-overview-ii",
-      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II"
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II",
+      "tier": "extra"
     },
     {
       "id": "bo20-014",
@@ -3974,7 +4059,8 @@
         "glycolysis entry"
       ],
       "topicId": "carbohydrate-metabolism-overview-ii",
-      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II"
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II",
+      "tier": "extra"
     },
     {
       "id": "bo20-015",
@@ -4021,7 +4107,8 @@
         "liver"
       ],
       "topicId": "carbohydrate-metabolism-overview-ii",
-      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II"
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II",
+      "tier": "extra"
     },
     {
       "id": "bo20-016",
@@ -4067,7 +4154,8 @@
         "bypass enzymes"
       ],
       "topicId": "carbohydrate-metabolism-overview-ii",
-      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II"
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II",
+      "tier": "extra"
     },
     {
       "id": "bo20-017",
@@ -4113,7 +4201,8 @@
         "pentose phosphate pathway"
       ],
       "topicId": "carbohydrate-metabolism-overview-ii",
-      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II"
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II",
+      "tier": "extra"
     },
     {
       "id": "bo20-018",
@@ -4160,7 +4249,8 @@
         "skeletal muscle"
       ],
       "topicId": "carbohydrate-metabolism-overview-ii",
-      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II"
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II",
+      "tier": "extra"
     },
     {
       "id": "bo20-019",
@@ -4207,7 +4297,8 @@
         "phosphorylation rules"
       ],
       "topicId": "carbohydrate-metabolism-overview-ii",
-      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II"
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II",
+      "tier": "extra"
     },
     {
       "id": "bo20-020",
@@ -4254,7 +4345,8 @@
         "fasting liver"
       ],
       "topicId": "carbohydrate-metabolism-overview-ii",
-      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II"
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II",
+      "tier": "extra"
     },
     {
       "id": "bo20-021",
@@ -4301,7 +4393,8 @@
         "gluconeogenesis"
       ],
       "topicId": "carbohydrate-metabolism-overview-ii",
-      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II"
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II",
+      "tier": "extra"
     },
     {
       "id": "bo20-022",
@@ -4347,7 +4440,8 @@
         "feed-forward"
       ],
       "topicId": "carbohydrate-metabolism-overview-ii",
-      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II"
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II",
+      "tier": "extra"
     },
     {
       "id": "bo20-023",
@@ -4394,7 +4488,8 @@
         "starvation"
       ],
       "topicId": "carbohydrate-metabolism-overview-ii",
-      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II"
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II",
+      "tier": "extra"
     },
     {
       "id": "bo20-024",
@@ -4440,7 +4535,8 @@
         "substrates"
       ],
       "topicId": "carbohydrate-metabolism-overview-ii",
-      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II"
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II",
+      "tier": "extra"
     },
     {
       "id": "bo20-025",
@@ -4487,7 +4583,8 @@
         "gluconeogenesis"
       ],
       "topicId": "carbohydrate-metabolism-overview-ii",
-      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II"
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II",
+      "tier": "extra"
     },
     {
       "id": "bo20-026",
@@ -4533,7 +4630,8 @@
         "reducing equivalents"
       ],
       "topicId": "carbohydrate-metabolism-overview-ii",
-      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II"
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II",
+      "tier": "extra"
     },
     {
       "id": "bo20-027",
@@ -4580,7 +4678,8 @@
         "DHAP"
       ],
       "topicId": "carbohydrate-metabolism-overview-ii",
-      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II"
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II",
+      "tier": "extra"
     },
     {
       "id": "bo20-028",
@@ -4627,7 +4726,8 @@
         "TCA"
       ],
       "topicId": "carbohydrate-metabolism-overview-ii",
-      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II"
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II",
+      "tier": "extra"
     },
     {
       "id": "bo20-029",
@@ -4674,7 +4774,8 @@
         "octanoic acid"
       ],
       "topicId": "carbohydrate-metabolism-overview-ii",
-      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II"
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II",
+      "tier": "extra"
     },
     {
       "id": "bo20-030",
@@ -4721,7 +4822,8 @@
         "acetyl-CoA"
       ],
       "topicId": "carbohydrate-metabolism-overview-ii",
-      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II"
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II",
+      "tier": "extra"
     },
     {
       "id": "bo20-031",
@@ -4767,7 +4869,8 @@
         "muscle contraction"
       ],
       "topicId": "carbohydrate-metabolism-overview-ii",
-      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II"
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II",
+      "tier": "extra"
     },
     {
       "id": "bo20-032",
@@ -4814,7 +4917,8 @@
         "metabolic acidosis"
       ],
       "topicId": "carbohydrate-metabolism-overview-ii",
-      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II"
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II",
+      "tier": "extra"
     },
     {
       "id": "bo20-033",
@@ -4861,7 +4965,8 @@
         "muscle"
       ],
       "topicId": "carbohydrate-metabolism-overview-ii",
-      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II"
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II",
+      "tier": "extra"
     },
     {
       "id": "bo20-034",
@@ -4908,7 +5013,8 @@
         "diagnosis"
       ],
       "topicId": "carbohydrate-metabolism-overview-ii",
-      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II"
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II",
+      "tier": "extra"
     },
     {
       "id": "bo20-035",
@@ -4955,7 +5061,8 @@
         "thiamin"
       ],
       "topicId": "carbohydrate-metabolism-overview-ii",
-      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II"
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II",
+      "tier": "extra"
     },
     {
       "id": "bo20-036",
@@ -5003,7 +5110,8 @@
         "gluconeogenesis"
       ],
       "topicId": "carbohydrate-metabolism-overview-ii",
-      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II"
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II",
+      "tier": "extra"
     },
     {
       "id": "bo21-001",
@@ -5049,7 +5157,8 @@
         "LO1"
       ],
       "topicId": "carbohydrate-metabolism-fructose-polyol-disorders",
-      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II: Fructose, HFCS, the Polyol Pathway, and Fructose Disorders"
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II: Fructose, HFCS, the Polyol Pathway, and Fructose Disorders",
+      "tier": "core"
     },
     {
       "id": "bo21-002",
@@ -5096,7 +5205,8 @@
         "LO1"
       ],
       "topicId": "carbohydrate-metabolism-fructose-polyol-disorders",
-      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II: Fructose, HFCS, the Polyol Pathway, and Fructose Disorders"
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II: Fructose, HFCS, the Polyol Pathway, and Fructose Disorders",
+      "tier": "core"
     },
     {
       "id": "bo21-003",
@@ -5143,7 +5253,8 @@
         "LO2"
       ],
       "topicId": "carbohydrate-metabolism-fructose-polyol-disorders",
-      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II: Fructose, HFCS, the Polyol Pathway, and Fructose Disorders"
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II: Fructose, HFCS, the Polyol Pathway, and Fructose Disorders",
+      "tier": "core"
     },
     {
       "id": "bo21-004",
@@ -5190,7 +5301,8 @@
         "LO2"
       ],
       "topicId": "carbohydrate-metabolism-fructose-polyol-disorders",
-      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II: Fructose, HFCS, the Polyol Pathway, and Fructose Disorders"
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II: Fructose, HFCS, the Polyol Pathway, and Fructose Disorders",
+      "tier": "core"
     },
     {
       "id": "bo21-005",
@@ -5237,7 +5349,8 @@
         "LO2"
       ],
       "topicId": "carbohydrate-metabolism-fructose-polyol-disorders",
-      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II: Fructose, HFCS, the Polyol Pathway, and Fructose Disorders"
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II: Fructose, HFCS, the Polyol Pathway, and Fructose Disorders",
+      "tier": "core"
     },
     {
       "id": "bo21-006",
@@ -5284,7 +5397,8 @@
         "LO2"
       ],
       "topicId": "carbohydrate-metabolism-fructose-polyol-disorders",
-      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II: Fructose, HFCS, the Polyol Pathway, and Fructose Disorders"
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II: Fructose, HFCS, the Polyol Pathway, and Fructose Disorders",
+      "tier": "core"
     },
     {
       "id": "bo21-007",
@@ -5331,7 +5445,8 @@
         "LO3"
       ],
       "topicId": "carbohydrate-metabolism-fructose-polyol-disorders",
-      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II: Fructose, HFCS, the Polyol Pathway, and Fructose Disorders"
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II: Fructose, HFCS, the Polyol Pathway, and Fructose Disorders",
+      "tier": "core"
     },
     {
       "id": "bo21-008",
@@ -5378,7 +5493,8 @@
         "LO3"
       ],
       "topicId": "carbohydrate-metabolism-fructose-polyol-disorders",
-      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II: Fructose, HFCS, the Polyol Pathway, and Fructose Disorders"
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II: Fructose, HFCS, the Polyol Pathway, and Fructose Disorders",
+      "tier": "core"
     },
     {
       "id": "bo21-009",
@@ -5426,7 +5542,8 @@
         "LO3"
       ],
       "topicId": "carbohydrate-metabolism-fructose-polyol-disorders",
-      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II: Fructose, HFCS, the Polyol Pathway, and Fructose Disorders"
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II: Fructose, HFCS, the Polyol Pathway, and Fructose Disorders",
+      "tier": "core"
     },
     {
       "id": "bo21-010",
@@ -5473,7 +5590,8 @@
         "LO3"
       ],
       "topicId": "carbohydrate-metabolism-fructose-polyol-disorders",
-      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II: Fructose, HFCS, the Polyol Pathway, and Fructose Disorders"
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II: Fructose, HFCS, the Polyol Pathway, and Fructose Disorders",
+      "tier": "core"
     },
     {
       "id": "bo21-011",
@@ -5520,7 +5638,8 @@
         "LO4"
       ],
       "topicId": "carbohydrate-metabolism-fructose-polyol-disorders",
-      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II: Fructose, HFCS, the Polyol Pathway, and Fructose Disorders"
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II: Fructose, HFCS, the Polyol Pathway, and Fructose Disorders",
+      "tier": "core"
     },
     {
       "id": "bo21-012",
@@ -5567,7 +5686,8 @@
         "LO4"
       ],
       "topicId": "carbohydrate-metabolism-fructose-polyol-disorders",
-      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II: Fructose, HFCS, the Polyol Pathway, and Fructose Disorders"
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II: Fructose, HFCS, the Polyol Pathway, and Fructose Disorders",
+      "tier": "core"
     },
     {
       "id": "bo21-013",
@@ -5614,7 +5734,8 @@
         "LO1"
       ],
       "topicId": "carbohydrate-metabolism-fructose-polyol-disorders",
-      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II: Fructose, HFCS, the Polyol Pathway, and Fructose Disorders"
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II: Fructose, HFCS, the Polyol Pathway, and Fructose Disorders",
+      "tier": "extra"
     },
     {
       "id": "bo21-014",
@@ -5661,7 +5782,8 @@
         "LO1"
       ],
       "topicId": "carbohydrate-metabolism-fructose-polyol-disorders",
-      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II: Fructose, HFCS, the Polyol Pathway, and Fructose Disorders"
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II: Fructose, HFCS, the Polyol Pathway, and Fructose Disorders",
+      "tier": "extra"
     },
     {
       "id": "bo21-015",
@@ -5708,7 +5830,8 @@
         "LO1"
       ],
       "topicId": "carbohydrate-metabolism-fructose-polyol-disorders",
-      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II: Fructose, HFCS, the Polyol Pathway, and Fructose Disorders"
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II: Fructose, HFCS, the Polyol Pathway, and Fructose Disorders",
+      "tier": "extra"
     },
     {
       "id": "bo21-016",
@@ -5755,7 +5878,8 @@
         "LO4"
       ],
       "topicId": "carbohydrate-metabolism-fructose-polyol-disorders",
-      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II: Fructose, HFCS, the Polyol Pathway, and Fructose Disorders"
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II: Fructose, HFCS, the Polyol Pathway, and Fructose Disorders",
+      "tier": "extra"
     },
     {
       "id": "bo21-017",
@@ -5802,7 +5926,8 @@
         "LO2"
       ],
       "topicId": "carbohydrate-metabolism-fructose-polyol-disorders",
-      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II: Fructose, HFCS, the Polyol Pathway, and Fructose Disorders"
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II: Fructose, HFCS, the Polyol Pathway, and Fructose Disorders",
+      "tier": "extra"
     },
     {
       "id": "bo21-018",
@@ -5849,7 +5974,8 @@
         "LO2"
       ],
       "topicId": "carbohydrate-metabolism-fructose-polyol-disorders",
-      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II: Fructose, HFCS, the Polyol Pathway, and Fructose Disorders"
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II: Fructose, HFCS, the Polyol Pathway, and Fructose Disorders",
+      "tier": "extra"
     },
     {
       "id": "bo21-019",
@@ -5895,7 +6021,8 @@
         "LO2"
       ],
       "topicId": "carbohydrate-metabolism-fructose-polyol-disorders",
-      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II: Fructose, HFCS, the Polyol Pathway, and Fructose Disorders"
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II: Fructose, HFCS, the Polyol Pathway, and Fructose Disorders",
+      "tier": "extra"
     },
     {
       "id": "bo21-020",
@@ -5942,7 +6069,8 @@
         "LO2"
       ],
       "topicId": "carbohydrate-metabolism-fructose-polyol-disorders",
-      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II: Fructose, HFCS, the Polyol Pathway, and Fructose Disorders"
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II: Fructose, HFCS, the Polyol Pathway, and Fructose Disorders",
+      "tier": "extra"
     },
     {
       "id": "bo21-021",
@@ -5989,7 +6117,8 @@
         "LO3"
       ],
       "topicId": "carbohydrate-metabolism-fructose-polyol-disorders",
-      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II: Fructose, HFCS, the Polyol Pathway, and Fructose Disorders"
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II: Fructose, HFCS, the Polyol Pathway, and Fructose Disorders",
+      "tier": "extra"
     },
     {
       "id": "bo21-022",
@@ -6037,7 +6166,8 @@
         "LO3"
       ],
       "topicId": "carbohydrate-metabolism-fructose-polyol-disorders",
-      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II: Fructose, HFCS, the Polyol Pathway, and Fructose Disorders"
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II: Fructose, HFCS, the Polyol Pathway, and Fructose Disorders",
+      "tier": "extra"
     },
     {
       "id": "bo21-023",
@@ -6084,7 +6214,8 @@
         "LO3"
       ],
       "topicId": "carbohydrate-metabolism-fructose-polyol-disorders",
-      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II: Fructose, HFCS, the Polyol Pathway, and Fructose Disorders"
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II: Fructose, HFCS, the Polyol Pathway, and Fructose Disorders",
+      "tier": "extra"
     },
     {
       "id": "bo21-024",
@@ -6131,7 +6262,8 @@
         "LO3"
       ],
       "topicId": "carbohydrate-metabolism-fructose-polyol-disorders",
-      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II: Fructose, HFCS, the Polyol Pathway, and Fructose Disorders"
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II: Fructose, HFCS, the Polyol Pathway, and Fructose Disorders",
+      "tier": "extra"
     },
     {
       "id": "bo21-025",
@@ -6178,7 +6310,8 @@
         "LO3"
       ],
       "topicId": "carbohydrate-metabolism-fructose-polyol-disorders",
-      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II: Fructose, HFCS, the Polyol Pathway, and Fructose Disorders"
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II: Fructose, HFCS, the Polyol Pathway, and Fructose Disorders",
+      "tier": "extra"
     },
     {
       "id": "bo21-026",
@@ -6226,7 +6359,8 @@
         "LO4"
       ],
       "topicId": "carbohydrate-metabolism-fructose-polyol-disorders",
-      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II: Fructose, HFCS, the Polyol Pathway, and Fructose Disorders"
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II: Fructose, HFCS, the Polyol Pathway, and Fructose Disorders",
+      "tier": "extra"
     },
     {
       "id": "bo21-027",
@@ -6273,7 +6407,8 @@
         "LO4"
       ],
       "topicId": "carbohydrate-metabolism-fructose-polyol-disorders",
-      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II: Fructose, HFCS, the Polyol Pathway, and Fructose Disorders"
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II: Fructose, HFCS, the Polyol Pathway, and Fructose Disorders",
+      "tier": "extra"
     },
     {
       "id": "bo21-028",
@@ -6321,7 +6456,8 @@
         "LO4"
       ],
       "topicId": "carbohydrate-metabolism-fructose-polyol-disorders",
-      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II: Fructose, HFCS, the Polyol Pathway, and Fructose Disorders"
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II: Fructose, HFCS, the Polyol Pathway, and Fructose Disorders",
+      "tier": "extra"
     },
     {
       "id": "bo21-029",
@@ -6368,7 +6504,8 @@
         "LO4"
       ],
       "topicId": "carbohydrate-metabolism-fructose-polyol-disorders",
-      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II: Fructose, HFCS, the Polyol Pathway, and Fructose Disorders"
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II: Fructose, HFCS, the Polyol Pathway, and Fructose Disorders",
+      "tier": "extra"
     },
     {
       "id": "bo21-030",
@@ -6415,7 +6552,8 @@
         "LO4"
       ],
       "topicId": "carbohydrate-metabolism-fructose-polyol-disorders",
-      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II: Fructose, HFCS, the Polyol Pathway, and Fructose Disorders"
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II: Fructose, HFCS, the Polyol Pathway, and Fructose Disorders",
+      "tier": "extra"
     },
     {
       "id": "bo21-031",
@@ -6462,7 +6600,8 @@
         "LO4"
       ],
       "topicId": "carbohydrate-metabolism-fructose-polyol-disorders",
-      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II: Fructose, HFCS, the Polyol Pathway, and Fructose Disorders"
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II: Fructose, HFCS, the Polyol Pathway, and Fructose Disorders",
+      "tier": "extra"
     },
     {
       "id": "bo21-032",
@@ -6509,7 +6648,8 @@
         "LO4"
       ],
       "topicId": "carbohydrate-metabolism-fructose-polyol-disorders",
-      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II: Fructose, HFCS, the Polyol Pathway, and Fructose Disorders"
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II: Fructose, HFCS, the Polyol Pathway, and Fructose Disorders",
+      "tier": "extra"
     },
     {
       "id": "bo21-033",
@@ -6556,7 +6696,8 @@
         "LO4"
       ],
       "topicId": "carbohydrate-metabolism-fructose-polyol-disorders",
-      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II: Fructose, HFCS, the Polyol Pathway, and Fructose Disorders"
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II: Fructose, HFCS, the Polyol Pathway, and Fructose Disorders",
+      "tier": "extra"
     },
     {
       "id": "bo21-034",
@@ -6604,7 +6745,8 @@
         "LO4"
       ],
       "topicId": "carbohydrate-metabolism-fructose-polyol-disorders",
-      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II: Fructose, HFCS, the Polyol Pathway, and Fructose Disorders"
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II: Fructose, HFCS, the Polyol Pathway, and Fructose Disorders",
+      "tier": "extra"
     },
     {
       "id": "bo21-035",
@@ -6652,7 +6794,8 @@
         "LO2"
       ],
       "topicId": "carbohydrate-metabolism-fructose-polyol-disorders",
-      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II: Fructose, HFCS, the Polyol Pathway, and Fructose Disorders"
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II: Fructose, HFCS, the Polyol Pathway, and Fructose Disorders",
+      "tier": "extra"
     },
     {
       "id": "bo21-036",
@@ -6699,7 +6842,8 @@
         "LO4"
       ],
       "topicId": "carbohydrate-metabolism-fructose-polyol-disorders",
-      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II: Fructose, HFCS, the Polyol Pathway, and Fructose Disorders"
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II: Fructose, HFCS, the Polyol Pathway, and Fructose Disorders",
+      "tier": "extra"
     },
     {
       "id": "bo22-001",
@@ -6746,7 +6890,8 @@
         "fat malabsorption"
       ],
       "topicId": "lipids-and-lipid-metabolism-introduction",
-      "topicName": "Lipids and Lipid Metabolism Introduction"
+      "topicName": "Lipids and Lipid Metabolism Introduction",
+      "tier": "core"
     },
     {
       "id": "bo22-002",
@@ -6793,7 +6938,8 @@
         "pancreatitis"
       ],
       "topicId": "lipids-and-lipid-metabolism-introduction",
-      "topicName": "Lipids and Lipid Metabolism Introduction"
+      "topicName": "Lipids and Lipid Metabolism Introduction",
+      "tier": "core"
     },
     {
       "id": "bo22-003",
@@ -6840,7 +6986,8 @@
         "xanthoma"
       ],
       "topicId": "lipids-and-lipid-metabolism-introduction",
-      "topicName": "Lipids and Lipid Metabolism Introduction"
+      "topicName": "Lipids and Lipid Metabolism Introduction",
+      "tier": "core"
     },
     {
       "id": "bo22-004",
@@ -6887,7 +7034,8 @@
         "management"
       ],
       "topicId": "lipids-and-lipid-metabolism-introduction",
-      "topicName": "Lipids and Lipid Metabolism Introduction"
+      "topicName": "Lipids and Lipid Metabolism Introduction",
+      "tier": "core"
     },
     {
       "id": "bo22-005",
@@ -6934,7 +7082,8 @@
         "reverse cholesterol transport"
       ],
       "topicId": "lipids-and-lipid-metabolism-introduction",
-      "topicName": "Lipids and Lipid Metabolism Introduction"
+      "topicName": "Lipids and Lipid Metabolism Introduction",
+      "tier": "core"
     },
     {
       "id": "bo22-006",
@@ -6981,7 +7130,8 @@
         "triglyceride clearance"
       ],
       "topicId": "lipids-and-lipid-metabolism-introduction",
-      "topicName": "Lipids and Lipid Metabolism Introduction"
+      "topicName": "Lipids and Lipid Metabolism Introduction",
+      "tier": "core"
     },
     {
       "id": "bo22-007",
@@ -7028,7 +7178,8 @@
         "beta-oxidation regulation"
       ],
       "topicId": "lipids-and-lipid-metabolism-introduction",
-      "topicName": "Lipids and Lipid Metabolism Introduction"
+      "topicName": "Lipids and Lipid Metabolism Introduction",
+      "tier": "core"
     },
     {
       "id": "bo22-008",
@@ -7075,7 +7226,8 @@
         "fatty acid synthesis"
       ],
       "topicId": "lipids-and-lipid-metabolism-introduction",
-      "topicName": "Lipids and Lipid Metabolism Introduction"
+      "topicName": "Lipids and Lipid Metabolism Introduction",
+      "tier": "core"
     },
     {
       "id": "bo22-009",
@@ -7122,7 +7274,8 @@
         "fatty acid synthesis"
       ],
       "topicId": "lipids-and-lipid-metabolism-introduction",
-      "topicName": "Lipids and Lipid Metabolism Introduction"
+      "topicName": "Lipids and Lipid Metabolism Introduction",
+      "tier": "core"
     },
     {
       "id": "bo22-010",
@@ -7169,7 +7322,8 @@
         "cobalamin"
       ],
       "topicId": "lipids-and-lipid-metabolism-introduction",
-      "topicName": "Lipids and Lipid Metabolism Introduction"
+      "topicName": "Lipids and Lipid Metabolism Introduction",
+      "tier": "core"
     },
     {
       "id": "bo22-011",
@@ -7216,7 +7370,8 @@
         "L-carnitine"
       ],
       "topicId": "lipids-and-lipid-metabolism-introduction",
-      "topicName": "Lipids and Lipid Metabolism Introduction"
+      "topicName": "Lipids and Lipid Metabolism Introduction",
+      "tier": "core"
     },
     {
       "id": "bo22-012",
@@ -7263,7 +7418,8 @@
         "lipoproteins"
       ],
       "topicId": "lipids-and-lipid-metabolism-introduction",
-      "topicName": "Lipids and Lipid Metabolism Introduction"
+      "topicName": "Lipids and Lipid Metabolism Introduction",
+      "tier": "core"
     },
     {
       "id": "bo22-013",
@@ -7310,7 +7466,8 @@
         "LCFA"
       ],
       "topicId": "lipids-and-lipid-metabolism-introduction",
-      "topicName": "Lipids and Lipid Metabolism Introduction"
+      "topicName": "Lipids and Lipid Metabolism Introduction",
+      "tier": "extra"
     },
     {
       "id": "bo22-014",
@@ -7356,7 +7513,8 @@
         "hydrophobic core"
       ],
       "topicId": "lipids-and-lipid-metabolism-introduction",
-      "topicName": "Lipids and Lipid Metabolism Introduction"
+      "topicName": "Lipids and Lipid Metabolism Introduction",
+      "tier": "extra"
     },
     {
       "id": "bo22-015",
@@ -7403,7 +7561,8 @@
         "pancreatitis biomarker"
       ],
       "topicId": "lipids-and-lipid-metabolism-introduction",
-      "topicName": "Lipids and Lipid Metabolism Introduction"
+      "topicName": "Lipids and Lipid Metabolism Introduction",
+      "tier": "extra"
     },
     {
       "id": "bo22-016",
@@ -7451,7 +7610,8 @@
         "milk fat"
       ],
       "topicId": "lipids-and-lipid-metabolism-introduction",
-      "topicName": "Lipids and Lipid Metabolism Introduction"
+      "topicName": "Lipids and Lipid Metabolism Introduction",
+      "tier": "extra"
     },
     {
       "id": "bo22-017",
@@ -7498,7 +7658,8 @@
         "fatty acid oxidation"
       ],
       "topicId": "lipids-and-lipid-metabolism-introduction",
-      "topicName": "Lipids and Lipid Metabolism Introduction"
+      "topicName": "Lipids and Lipid Metabolism Introduction",
+      "tier": "extra"
     },
     {
       "id": "bo22-018",
@@ -7545,7 +7706,8 @@
         "cholesterol absorption"
       ],
       "topicId": "lipids-and-lipid-metabolism-introduction",
-      "topicName": "Lipids and Lipid Metabolism Introduction"
+      "topicName": "Lipids and Lipid Metabolism Introduction",
+      "tier": "extra"
     },
     {
       "id": "bo22-019",
@@ -7592,7 +7754,8 @@
         "LDL"
       ],
       "topicId": "lipids-and-lipid-metabolism-introduction",
-      "topicName": "Lipids and Lipid Metabolism Introduction"
+      "topicName": "Lipids and Lipid Metabolism Introduction",
+      "tier": "extra"
     },
     {
       "id": "bo22-020",
@@ -7639,7 +7802,8 @@
         "chylomicron metabolism"
       ],
       "topicId": "lipids-and-lipid-metabolism-introduction",
-      "topicName": "Lipids and Lipid Metabolism Introduction"
+      "topicName": "Lipids and Lipid Metabolism Introduction",
+      "tier": "extra"
     },
     {
       "id": "bo22-021",
@@ -7686,7 +7850,8 @@
         "HDL metabolism"
       ],
       "topicId": "lipids-and-lipid-metabolism-introduction",
-      "topicName": "Lipids and Lipid Metabolism Introduction"
+      "topicName": "Lipids and Lipid Metabolism Introduction",
+      "tier": "extra"
     },
     {
       "id": "bo22-022",
@@ -7733,7 +7898,8 @@
         "IDL"
       ],
       "topicId": "lipids-and-lipid-metabolism-introduction",
-      "topicName": "Lipids and Lipid Metabolism Introduction"
+      "topicName": "Lipids and Lipid Metabolism Introduction",
+      "tier": "extra"
     },
     {
       "id": "bo22-023",
@@ -7779,7 +7945,8 @@
         "lipoprotein composition"
       ],
       "topicId": "lipids-and-lipid-metabolism-introduction",
-      "topicName": "Lipids and Lipid Metabolism Introduction"
+      "topicName": "Lipids and Lipid Metabolism Introduction",
+      "tier": "extra"
     },
     {
       "id": "bo22-024",
@@ -7826,7 +7993,8 @@
         "triglyceride content"
       ],
       "topicId": "lipids-and-lipid-metabolism-introduction",
-      "topicName": "Lipids and Lipid Metabolism Introduction"
+      "topicName": "Lipids and Lipid Metabolism Introduction",
+      "tier": "extra"
     },
     {
       "id": "bo22-025",
@@ -7873,7 +8041,8 @@
         "VLDL contrast"
       ],
       "topicId": "lipids-and-lipid-metabolism-introduction",
-      "topicName": "Lipids and Lipid Metabolism Introduction"
+      "topicName": "Lipids and Lipid Metabolism Introduction",
+      "tier": "extra"
     },
     {
       "id": "bo22-026",
@@ -7920,7 +8089,8 @@
         "receptor-mediated endocytosis"
       ],
       "topicId": "lipids-and-lipid-metabolism-introduction",
-      "topicName": "Lipids and Lipid Metabolism Introduction"
+      "topicName": "Lipids and Lipid Metabolism Introduction",
+      "tier": "extra"
     },
     {
       "id": "bo22-027",
@@ -7967,7 +8137,8 @@
         "atherosclerosis"
       ],
       "topicId": "lipids-and-lipid-metabolism-introduction",
-      "topicName": "Lipids and Lipid Metabolism Introduction"
+      "topicName": "Lipids and Lipid Metabolism Introduction",
+      "tier": "extra"
     },
     {
       "id": "bo22-028",
@@ -8013,7 +8184,8 @@
         "cardiovascular risk marker"
       ],
       "topicId": "lipids-and-lipid-metabolism-introduction",
-      "topicName": "Lipids and Lipid Metabolism Introduction"
+      "topicName": "Lipids and Lipid Metabolism Introduction",
+      "tier": "extra"
     },
     {
       "id": "bo22-029",
@@ -8060,7 +8232,8 @@
         "cytoplasm"
       ],
       "topicId": "lipids-and-lipid-metabolism-introduction",
-      "topicName": "Lipids and Lipid Metabolism Introduction"
+      "topicName": "Lipids and Lipid Metabolism Introduction",
+      "tier": "extra"
     },
     {
       "id": "bo22-030",
@@ -8107,7 +8280,8 @@
         "regulation"
       ],
       "topicId": "lipids-and-lipid-metabolism-introduction",
-      "topicName": "Lipids and Lipid Metabolism Introduction"
+      "topicName": "Lipids and Lipid Metabolism Introduction",
+      "tier": "extra"
     },
     {
       "id": "bo22-031",
@@ -8155,7 +8329,8 @@
         "fasting"
       ],
       "topicId": "lipids-and-lipid-metabolism-introduction",
-      "topicName": "Lipids and Lipid Metabolism Introduction"
+      "topicName": "Lipids and Lipid Metabolism Introduction",
+      "tier": "extra"
     },
     {
       "id": "bo22-032",
@@ -8201,7 +8376,8 @@
         "acetyl-CoA carboxylase"
       ],
       "topicId": "lipids-and-lipid-metabolism-introduction",
-      "topicName": "Lipids and Lipid Metabolism Introduction"
+      "topicName": "Lipids and Lipid Metabolism Introduction",
+      "tier": "extra"
     },
     {
       "id": "bo22-033",
@@ -8248,7 +8424,8 @@
         "malic enzyme"
       ],
       "topicId": "lipids-and-lipid-metabolism-introduction",
-      "topicName": "Lipids and Lipid Metabolism Introduction"
+      "topicName": "Lipids and Lipid Metabolism Introduction",
+      "tier": "extra"
     },
     {
       "id": "bo22-034",
@@ -8294,7 +8471,8 @@
         "16-carbon"
       ],
       "topicId": "lipids-and-lipid-metabolism-introduction",
-      "topicName": "Lipids and Lipid Metabolism Introduction"
+      "topicName": "Lipids and Lipid Metabolism Introduction",
+      "tier": "extra"
     },
     {
       "id": "bo22-035",
@@ -8341,7 +8519,8 @@
         "CPT"
       ],
       "topicId": "lipids-and-lipid-metabolism-introduction",
-      "topicName": "Lipids and Lipid Metabolism Introduction"
+      "topicName": "Lipids and Lipid Metabolism Introduction",
+      "tier": "extra"
     },
     {
       "id": "bo22-036",
@@ -8388,7 +8567,8 @@
         "acyl-CoA dehydrogenase"
       ],
       "topicId": "lipids-and-lipid-metabolism-introduction",
-      "topicName": "Lipids and Lipid Metabolism Introduction"
+      "topicName": "Lipids and Lipid Metabolism Introduction",
+      "tier": "extra"
     },
     {
       "id": "bo23-001",
@@ -8434,7 +8614,8 @@
         "statins"
       ],
       "topicId": "cholesterol-synthesis-and-ketone-bodies",
-      "topicName": "Lipids and Lipid Metabolism: Cholesterol Synthesis and Ketone Bodies"
+      "topicName": "Lipids and Lipid Metabolism: Cholesterol Synthesis and Ketone Bodies",
+      "tier": "core"
     },
     {
       "id": "bo23-002",
@@ -8480,7 +8661,8 @@
         "cholesterol"
       ],
       "topicId": "cholesterol-synthesis-and-ketone-bodies",
-      "topicName": "Lipids and Lipid Metabolism: Cholesterol Synthesis and Ketone Bodies"
+      "topicName": "Lipids and Lipid Metabolism: Cholesterol Synthesis and Ketone Bodies",
+      "tier": "core"
     },
     {
       "id": "bo23-003",
@@ -8526,7 +8708,8 @@
         "side effects"
       ],
       "topicId": "cholesterol-synthesis-and-ketone-bodies",
-      "topicName": "Lipids and Lipid Metabolism: Cholesterol Synthesis and Ketone Bodies"
+      "topicName": "Lipids and Lipid Metabolism: Cholesterol Synthesis and Ketone Bodies",
+      "tier": "core"
     },
     {
       "id": "bo23-004",
@@ -8572,7 +8755,8 @@
         "testosterone"
       ],
       "topicId": "cholesterol-synthesis-and-ketone-bodies",
-      "topicName": "Lipids and Lipid Metabolism: Cholesterol Synthesis and Ketone Bodies"
+      "topicName": "Lipids and Lipid Metabolism: Cholesterol Synthesis and Ketone Bodies",
+      "tier": "core"
     },
     {
       "id": "bo23-005",
@@ -8618,7 +8802,8 @@
         "hypercholesterolemia"
       ],
       "topicId": "cholesterol-synthesis-and-ketone-bodies",
-      "topicName": "Lipids and Lipid Metabolism: Cholesterol Synthesis and Ketone Bodies"
+      "topicName": "Lipids and Lipid Metabolism: Cholesterol Synthesis and Ketone Bodies",
+      "tier": "core"
     },
     {
       "id": "bo23-006",
@@ -8664,7 +8849,8 @@
         "compartmentalization"
       ],
       "topicId": "cholesterol-synthesis-and-ketone-bodies",
-      "topicName": "Lipids and Lipid Metabolism: Cholesterol Synthesis and Ketone Bodies"
+      "topicName": "Lipids and Lipid Metabolism: Cholesterol Synthesis and Ketone Bodies",
+      "tier": "core"
     },
     {
       "id": "bo23-007",
@@ -8710,7 +8896,8 @@
         "TCA cycle"
       ],
       "topicId": "cholesterol-synthesis-and-ketone-bodies",
-      "topicName": "Lipids and Lipid Metabolism: Cholesterol Synthesis and Ketone Bodies"
+      "topicName": "Lipids and Lipid Metabolism: Cholesterol Synthesis and Ketone Bodies",
+      "tier": "core"
     },
     {
       "id": "bo23-008",
@@ -8756,7 +8943,8 @@
         "futile cycle"
       ],
       "topicId": "cholesterol-synthesis-and-ketone-bodies",
-      "topicName": "Lipids and Lipid Metabolism: Cholesterol Synthesis and Ketone Bodies"
+      "topicName": "Lipids and Lipid Metabolism: Cholesterol Synthesis and Ketone Bodies",
+      "tier": "core"
     },
     {
       "id": "bo23-009",
@@ -8802,7 +8990,8 @@
         "diet"
       ],
       "topicId": "cholesterol-synthesis-and-ketone-bodies",
-      "topicName": "Lipids and Lipid Metabolism: Cholesterol Synthesis and Ketone Bodies"
+      "topicName": "Lipids and Lipid Metabolism: Cholesterol Synthesis and Ketone Bodies",
+      "tier": "core"
     },
     {
       "id": "bo23-010",
@@ -8848,7 +9037,8 @@
         "lactic acidosis"
       ],
       "topicId": "cholesterol-synthesis-and-ketone-bodies",
-      "topicName": "Lipids and Lipid Metabolism: Cholesterol Synthesis and Ketone Bodies"
+      "topicName": "Lipids and Lipid Metabolism: Cholesterol Synthesis and Ketone Bodies",
+      "tier": "core"
     },
     {
       "id": "bo23-011",
@@ -8894,7 +9084,8 @@
         "GLUT4"
       ],
       "topicId": "cholesterol-synthesis-and-ketone-bodies",
-      "topicName": "Lipids and Lipid Metabolism: Cholesterol Synthesis and Ketone Bodies"
+      "topicName": "Lipids and Lipid Metabolism: Cholesterol Synthesis and Ketone Bodies",
+      "tier": "core"
     },
     {
       "id": "bo23-012",
@@ -8940,7 +9131,8 @@
         "DKA"
       ],
       "topicId": "cholesterol-synthesis-and-ketone-bodies",
-      "topicName": "Lipids and Lipid Metabolism: Cholesterol Synthesis and Ketone Bodies"
+      "topicName": "Lipids and Lipid Metabolism: Cholesterol Synthesis and Ketone Bodies",
+      "tier": "core"
     },
     {
       "id": "bo23-013",
@@ -8986,7 +9178,8 @@
         "intestine"
       ],
       "topicId": "cholesterol-synthesis-and-ketone-bodies",
-      "topicName": "Lipids and Lipid Metabolism: Cholesterol Synthesis and Ketone Bodies"
+      "topicName": "Lipids and Lipid Metabolism: Cholesterol Synthesis and Ketone Bodies",
+      "tier": "extra"
     },
     {
       "id": "bo23-014",
@@ -9032,7 +9225,8 @@
         "mevalonate"
       ],
       "topicId": "cholesterol-synthesis-and-ketone-bodies",
-      "topicName": "Lipids and Lipid Metabolism: Cholesterol Synthesis and Ketone Bodies"
+      "topicName": "Lipids and Lipid Metabolism: Cholesterol Synthesis and Ketone Bodies",
+      "tier": "extra"
     },
     {
       "id": "bo23-015",
@@ -9078,7 +9272,8 @@
         "regulation"
       ],
       "topicId": "cholesterol-synthesis-and-ketone-bodies",
-      "topicName": "Lipids and Lipid Metabolism: Cholesterol Synthesis and Ketone Bodies"
+      "topicName": "Lipids and Lipid Metabolism: Cholesterol Synthesis and Ketone Bodies",
+      "tier": "extra"
     },
     {
       "id": "bo23-016",
@@ -9124,7 +9319,8 @@
         "regulation"
       ],
       "topicId": "cholesterol-synthesis-and-ketone-bodies",
-      "topicName": "Lipids and Lipid Metabolism: Cholesterol Synthesis and Ketone Bodies"
+      "topicName": "Lipids and Lipid Metabolism: Cholesterol Synthesis and Ketone Bodies",
+      "tier": "extra"
     },
     {
       "id": "bo23-017",
@@ -9170,7 +9366,8 @@
         "thyroid hormone"
       ],
       "topicId": "cholesterol-synthesis-and-ketone-bodies",
-      "topicName": "Lipids and Lipid Metabolism: Cholesterol Synthesis and Ketone Bodies"
+      "topicName": "Lipids and Lipid Metabolism: Cholesterol Synthesis and Ketone Bodies",
+      "tier": "extra"
     },
     {
       "id": "bo23-018",
@@ -9217,7 +9414,8 @@
         "adverse effects"
       ],
       "topicId": "cholesterol-synthesis-and-ketone-bodies",
-      "topicName": "Lipids and Lipid Metabolism: Cholesterol Synthesis and Ketone Bodies"
+      "topicName": "Lipids and Lipid Metabolism: Cholesterol Synthesis and Ketone Bodies",
+      "tier": "extra"
     },
     {
       "id": "bo23-019",
@@ -9263,7 +9461,8 @@
         "hyperlipidemia"
       ],
       "topicId": "cholesterol-synthesis-and-ketone-bodies",
-      "topicName": "Lipids and Lipid Metabolism: Cholesterol Synthesis and Ketone Bodies"
+      "topicName": "Lipids and Lipid Metabolism: Cholesterol Synthesis and Ketone Bodies",
+      "tier": "extra"
     },
     {
       "id": "bo23-020",
@@ -9309,7 +9508,8 @@
         "fruity breath"
       ],
       "topicId": "cholesterol-synthesis-and-ketone-bodies",
-      "topicName": "Lipids and Lipid Metabolism: Cholesterol Synthesis and Ketone Bodies"
+      "topicName": "Lipids and Lipid Metabolism: Cholesterol Synthesis and Ketone Bodies",
+      "tier": "extra"
     },
     {
       "id": "bo23-021",
@@ -9355,7 +9555,8 @@
         "3-hydroxybutyrate dehydrogenase"
       ],
       "topicId": "cholesterol-synthesis-and-ketone-bodies",
-      "topicName": "Lipids and Lipid Metabolism: Cholesterol Synthesis and Ketone Bodies"
+      "topicName": "Lipids and Lipid Metabolism: Cholesterol Synthesis and Ketone Bodies",
+      "tier": "extra"
     },
     {
       "id": "bo23-022",
@@ -9401,7 +9602,8 @@
         "ketone bodies"
       ],
       "topicId": "cholesterol-synthesis-and-ketone-bodies",
-      "topicName": "Lipids and Lipid Metabolism: Cholesterol Synthesis and Ketone Bodies"
+      "topicName": "Lipids and Lipid Metabolism: Cholesterol Synthesis and Ketone Bodies",
+      "tier": "extra"
     },
     {
       "id": "bo23-023",
@@ -9448,7 +9650,8 @@
         "glucose sparing"
       ],
       "topicId": "cholesterol-synthesis-and-ketone-bodies",
-      "topicName": "Lipids and Lipid Metabolism: Cholesterol Synthesis and Ketone Bodies"
+      "topicName": "Lipids and Lipid Metabolism: Cholesterol Synthesis and Ketone Bodies",
+      "tier": "extra"
     },
     {
       "id": "bo23-024",
@@ -9494,7 +9697,8 @@
         "brain ketone utilization"
       ],
       "topicId": "cholesterol-synthesis-and-ketone-bodies",
-      "topicName": "Lipids and Lipid Metabolism: Cholesterol Synthesis and Ketone Bodies"
+      "topicName": "Lipids and Lipid Metabolism: Cholesterol Synthesis and Ketone Bodies",
+      "tier": "extra"
     },
     {
       "id": "bo23-025",
@@ -9540,7 +9744,8 @@
         "mitochondria"
       ],
       "topicId": "cholesterol-synthesis-and-ketone-bodies",
-      "topicName": "Lipids and Lipid Metabolism: Cholesterol Synthesis and Ketone Bodies"
+      "topicName": "Lipids and Lipid Metabolism: Cholesterol Synthesis and Ketone Bodies",
+      "tier": "extra"
     },
     {
       "id": "bo23-026",
@@ -9586,7 +9791,8 @@
         "free fatty acids"
       ],
       "topicId": "cholesterol-synthesis-and-ketone-bodies",
-      "topicName": "Lipids and Lipid Metabolism: Cholesterol Synthesis and Ketone Bodies"
+      "topicName": "Lipids and Lipid Metabolism: Cholesterol Synthesis and Ketone Bodies",
+      "tier": "extra"
     },
     {
       "id": "bo23-027",
@@ -9632,7 +9838,8 @@
         "ketogenesis"
       ],
       "topicId": "cholesterol-synthesis-and-ketone-bodies",
-      "topicName": "Lipids and Lipid Metabolism: Cholesterol Synthesis and Ketone Bodies"
+      "topicName": "Lipids and Lipid Metabolism: Cholesterol Synthesis and Ketone Bodies",
+      "tier": "extra"
     },
     {
       "id": "bo23-028",
@@ -9679,7 +9886,8 @@
         "hypoglycemia"
       ],
       "topicId": "cholesterol-synthesis-and-ketone-bodies",
-      "topicName": "Lipids and Lipid Metabolism: Cholesterol Synthesis and Ketone Bodies"
+      "topicName": "Lipids and Lipid Metabolism: Cholesterol Synthesis and Ketone Bodies",
+      "tier": "extra"
     },
     {
       "id": "bo23-029",
@@ -9726,7 +9934,8 @@
         "gluconeogenesis"
       ],
       "topicId": "cholesterol-synthesis-and-ketone-bodies",
-      "topicName": "Lipids and Lipid Metabolism: Cholesterol Synthesis and Ketone Bodies"
+      "topicName": "Lipids and Lipid Metabolism: Cholesterol Synthesis and Ketone Bodies",
+      "tier": "extra"
     },
     {
       "id": "bo23-030",
@@ -9772,7 +9981,8 @@
         "liver"
       ],
       "topicId": "cholesterol-synthesis-and-ketone-bodies",
-      "topicName": "Lipids and Lipid Metabolism: Cholesterol Synthesis and Ketone Bodies"
+      "topicName": "Lipids and Lipid Metabolism: Cholesterol Synthesis and Ketone Bodies",
+      "tier": "extra"
     },
     {
       "id": "bo23-031",
@@ -9818,7 +10028,8 @@
         "ketogenesis"
       ],
       "topicId": "cholesterol-synthesis-and-ketone-bodies",
-      "topicName": "Lipids and Lipid Metabolism: Cholesterol Synthesis and Ketone Bodies"
+      "topicName": "Lipids and Lipid Metabolism: Cholesterol Synthesis and Ketone Bodies",
+      "tier": "extra"
     },
     {
       "id": "bo23-032",
@@ -9864,7 +10075,8 @@
         "beta-ketoacyl-CoA transferase"
       ],
       "topicId": "cholesterol-synthesis-and-ketone-bodies",
-      "topicName": "Lipids and Lipid Metabolism: Cholesterol Synthesis and Ketone Bodies"
+      "topicName": "Lipids and Lipid Metabolism: Cholesterol Synthesis and Ketone Bodies",
+      "tier": "extra"
     },
     {
       "id": "bo23-033",
@@ -9911,7 +10123,8 @@
         "precipitants"
       ],
       "topicId": "cholesterol-synthesis-and-ketone-bodies",
-      "topicName": "Lipids and Lipid Metabolism: Cholesterol Synthesis and Ketone Bodies"
+      "topicName": "Lipids and Lipid Metabolism: Cholesterol Synthesis and Ketone Bodies",
+      "tier": "extra"
     },
     {
       "id": "bo23-034",
@@ -9957,7 +10170,8 @@
         "prostaglandins"
       ],
       "topicId": "cholesterol-synthesis-and-ketone-bodies",
-      "topicName": "Lipids and Lipid Metabolism: Cholesterol Synthesis and Ketone Bodies"
+      "topicName": "Lipids and Lipid Metabolism: Cholesterol Synthesis and Ketone Bodies",
+      "tier": "extra"
     },
     {
       "id": "bo23-035",
@@ -10004,7 +10218,8 @@
         "differential"
       ],
       "topicId": "cholesterol-synthesis-and-ketone-bodies",
-      "topicName": "Lipids and Lipid Metabolism: Cholesterol Synthesis and Ketone Bodies"
+      "topicName": "Lipids and Lipid Metabolism: Cholesterol Synthesis and Ketone Bodies",
+      "tier": "extra"
     },
     {
       "id": "bo23-036",
@@ -10051,7 +10266,8 @@
         "case connection"
       ],
       "topicId": "cholesterol-synthesis-and-ketone-bodies",
-      "topicName": "Lipids and Lipid Metabolism: Cholesterol Synthesis and Ketone Bodies"
+      "topicName": "Lipids and Lipid Metabolism: Cholesterol Synthesis and Ketone Bodies",
+      "tier": "extra"
     },
     {
       "id": "bo24-001",
@@ -10097,7 +10313,8 @@
         "eicosanoids"
       ],
       "topicId": "boom-lipids-and-lipid-metabolism-introduction-3-of-3",
-      "topicName": "BOOM: Lipids and Lipid Metabolism Introduction (3 of 3)"
+      "topicName": "BOOM: Lipids and Lipid Metabolism Introduction (3 of 3)",
+      "tier": "core"
     },
     {
       "id": "bo24-002",
@@ -10143,7 +10360,8 @@
         "fatty acid structure"
       ],
       "topicId": "boom-lipids-and-lipid-metabolism-introduction-3-of-3",
-      "topicName": "BOOM: Lipids and Lipid Metabolism Introduction (3 of 3)"
+      "topicName": "BOOM: Lipids and Lipid Metabolism Introduction (3 of 3)",
+      "tier": "core"
     },
     {
       "id": "bo24-003",
@@ -10189,7 +10407,8 @@
         "half-life"
       ],
       "topicId": "boom-lipids-and-lipid-metabolism-introduction-3-of-3",
-      "topicName": "BOOM: Lipids and Lipid Metabolism Introduction (3 of 3)"
+      "topicName": "BOOM: Lipids and Lipid Metabolism Introduction (3 of 3)",
+      "tier": "core"
     },
     {
       "id": "bo24-004",
@@ -10235,7 +10454,8 @@
         "inflammation"
       ],
       "topicId": "boom-lipids-and-lipid-metabolism-introduction-3-of-3",
-      "topicName": "BOOM: Lipids and Lipid Metabolism Introduction (3 of 3)"
+      "topicName": "BOOM: Lipids and Lipid Metabolism Introduction (3 of 3)",
+      "tier": "core"
     },
     {
       "id": "bo24-005",
@@ -10282,7 +10502,8 @@
         "antithrombotic"
       ],
       "topicId": "boom-lipids-and-lipid-metabolism-introduction-3-of-3",
-      "topicName": "BOOM: Lipids and Lipid Metabolism Introduction (3 of 3)"
+      "topicName": "BOOM: Lipids and Lipid Metabolism Introduction (3 of 3)",
+      "tier": "core"
     },
     {
       "id": "bo24-006",
@@ -10329,7 +10550,8 @@
         "COX"
       ],
       "topicId": "boom-lipids-and-lipid-metabolism-introduction-3-of-3",
-      "topicName": "BOOM: Lipids and Lipid Metabolism Introduction (3 of 3)"
+      "topicName": "BOOM: Lipids and Lipid Metabolism Introduction (3 of 3)",
+      "tier": "core"
     },
     {
       "id": "bo24-007",
@@ -10376,7 +10598,8 @@
         "PGE2"
       ],
       "topicId": "boom-lipids-and-lipid-metabolism-introduction-3-of-3",
-      "topicName": "BOOM: Lipids and Lipid Metabolism Introduction (3 of 3)"
+      "topicName": "BOOM: Lipids and Lipid Metabolism Introduction (3 of 3)",
+      "tier": "core"
     },
     {
       "id": "bo24-008",
@@ -10423,7 +10646,8 @@
         "COX and LOX"
       ],
       "topicId": "boom-lipids-and-lipid-metabolism-introduction-3-of-3",
-      "topicName": "BOOM: Lipids and Lipid Metabolism Introduction (3 of 3)"
+      "topicName": "BOOM: Lipids and Lipid Metabolism Introduction (3 of 3)",
+      "tier": "core"
     },
     {
       "id": "bo24-009",
@@ -10470,7 +10694,8 @@
         "asthma"
       ],
       "topicId": "boom-lipids-and-lipid-metabolism-introduction-3-of-3",
-      "topicName": "BOOM: Lipids and Lipid Metabolism Introduction (3 of 3)"
+      "topicName": "BOOM: Lipids and Lipid Metabolism Introduction (3 of 3)",
+      "tier": "core"
     },
     {
       "id": "bo24-010",
@@ -10517,7 +10742,8 @@
         "uterine contraction"
       ],
       "topicId": "boom-lipids-and-lipid-metabolism-introduction-3-of-3",
-      "topicName": "BOOM: Lipids and Lipid Metabolism Introduction (3 of 3)"
+      "topicName": "BOOM: Lipids and Lipid Metabolism Introduction (3 of 3)",
+      "tier": "core"
     },
     {
       "id": "bo24-011",
@@ -10564,7 +10790,8 @@
         "aspirin"
       ],
       "topicId": "boom-lipids-and-lipid-metabolism-introduction-3-of-3",
-      "topicName": "BOOM: Lipids and Lipid Metabolism Introduction (3 of 3)"
+      "topicName": "BOOM: Lipids and Lipid Metabolism Introduction (3 of 3)",
+      "tier": "core"
     },
     {
       "id": "bo24-012",
@@ -10611,7 +10838,8 @@
         "COX-1"
       ],
       "topicId": "boom-lipids-and-lipid-metabolism-introduction-3-of-3",
-      "topicName": "BOOM: Lipids and Lipid Metabolism Introduction (3 of 3)"
+      "topicName": "BOOM: Lipids and Lipid Metabolism Introduction (3 of 3)",
+      "tier": "core"
     },
     {
       "id": "bo24-013",
@@ -10657,7 +10885,8 @@
         "membrane lipids"
       ],
       "topicId": "boom-lipids-and-lipid-metabolism-introduction-3-of-3",
-      "topicName": "BOOM: Lipids and Lipid Metabolism Introduction (3 of 3)"
+      "topicName": "BOOM: Lipids and Lipid Metabolism Introduction (3 of 3)",
+      "tier": "extra"
     },
     {
       "id": "bo24-014",
@@ -10703,7 +10932,8 @@
         "second messengers"
       ],
       "topicId": "boom-lipids-and-lipid-metabolism-introduction-3-of-3",
-      "topicName": "BOOM: Lipids and Lipid Metabolism Introduction (3 of 3)"
+      "topicName": "BOOM: Lipids and Lipid Metabolism Introduction (3 of 3)",
+      "tier": "extra"
     },
     {
       "id": "bo24-015",
@@ -10749,7 +10979,8 @@
         "arachidonic acid sources"
       ],
       "topicId": "boom-lipids-and-lipid-metabolism-introduction-3-of-3",
-      "topicName": "BOOM: Lipids and Lipid Metabolism Introduction (3 of 3)"
+      "topicName": "BOOM: Lipids and Lipid Metabolism Introduction (3 of 3)",
+      "tier": "extra"
     },
     {
       "id": "bo24-016",
@@ -10796,7 +11027,8 @@
         "inflammation"
       ],
       "topicId": "boom-lipids-and-lipid-metabolism-introduction-3-of-3",
-      "topicName": "BOOM: Lipids and Lipid Metabolism Introduction (3 of 3)"
+      "topicName": "BOOM: Lipids and Lipid Metabolism Introduction (3 of 3)",
+      "tier": "extra"
     },
     {
       "id": "bo24-017",
@@ -10843,7 +11075,8 @@
         "omega-6"
       ],
       "topicId": "boom-lipids-and-lipid-metabolism-introduction-3-of-3",
-      "topicName": "BOOM: Lipids and Lipid Metabolism Introduction (3 of 3)"
+      "topicName": "BOOM: Lipids and Lipid Metabolism Introduction (3 of 3)",
+      "tier": "extra"
     },
     {
       "id": "bo24-018",
@@ -10890,7 +11123,8 @@
         "fish"
       ],
       "topicId": "boom-lipids-and-lipid-metabolism-introduction-3-of-3",
-      "topicName": "BOOM: Lipids and Lipid Metabolism Introduction (3 of 3)"
+      "topicName": "BOOM: Lipids and Lipid Metabolism Introduction (3 of 3)",
+      "tier": "extra"
     },
     {
       "id": "bo24-019",
@@ -10936,7 +11170,8 @@
         "pro-inflammatory"
       ],
       "topicId": "boom-lipids-and-lipid-metabolism-introduction-3-of-3",
-      "topicName": "BOOM: Lipids and Lipid Metabolism Introduction (3 of 3)"
+      "topicName": "BOOM: Lipids and Lipid Metabolism Introduction (3 of 3)",
+      "tier": "extra"
     },
     {
       "id": "bo24-020",
@@ -10982,7 +11217,8 @@
         "eicosanoid synthesis"
       ],
       "topicId": "boom-lipids-and-lipid-metabolism-introduction-3-of-3",
-      "topicName": "BOOM: Lipids and Lipid Metabolism Introduction (3 of 3)"
+      "topicName": "BOOM: Lipids and Lipid Metabolism Introduction (3 of 3)",
+      "tier": "extra"
     },
     {
       "id": "bo24-021",
@@ -11029,7 +11265,8 @@
         "prostaglandin table"
       ],
       "topicId": "boom-lipids-and-lipid-metabolism-introduction-3-of-3",
-      "topicName": "BOOM: Lipids and Lipid Metabolism Introduction (3 of 3)"
+      "topicName": "BOOM: Lipids and Lipid Metabolism Introduction (3 of 3)",
+      "tier": "extra"
     },
     {
       "id": "bo24-022",
@@ -11076,7 +11313,8 @@
         "vasodilation"
       ],
       "topicId": "boom-lipids-and-lipid-metabolism-introduction-3-of-3",
-      "topicName": "BOOM: Lipids and Lipid Metabolism Introduction (3 of 3)"
+      "topicName": "BOOM: Lipids and Lipid Metabolism Introduction (3 of 3)",
+      "tier": "extra"
     },
     {
       "id": "bo24-023",
@@ -11123,7 +11361,8 @@
         "osteoclasts"
       ],
       "topicId": "boom-lipids-and-lipid-metabolism-introduction-3-of-3",
-      "topicName": "BOOM: Lipids and Lipid Metabolism Introduction (3 of 3)"
+      "topicName": "BOOM: Lipids and Lipid Metabolism Introduction (3 of 3)",
+      "tier": "extra"
     },
     {
       "id": "bo24-024",
@@ -11169,7 +11408,8 @@
         "drug design"
       ],
       "topicId": "boom-lipids-and-lipid-metabolism-introduction-3-of-3",
-      "topicName": "BOOM: Lipids and Lipid Metabolism Introduction (3 of 3)"
+      "topicName": "BOOM: Lipids and Lipid Metabolism Introduction (3 of 3)",
+      "tier": "extra"
     },
     {
       "id": "bo24-025",
@@ -11216,7 +11456,8 @@
         "cardiovascular events"
       ],
       "topicId": "boom-lipids-and-lipid-metabolism-introduction-3-of-3",
-      "topicName": "BOOM: Lipids and Lipid Metabolism Introduction (3 of 3)"
+      "topicName": "BOOM: Lipids and Lipid Metabolism Introduction (3 of 3)",
+      "tier": "extra"
     },
     {
       "id": "bo24-026",
@@ -11263,7 +11504,8 @@
         "LOX"
       ],
       "topicId": "boom-lipids-and-lipid-metabolism-introduction-3-of-3",
-      "topicName": "BOOM: Lipids and Lipid Metabolism Introduction (3 of 3)"
+      "topicName": "BOOM: Lipids and Lipid Metabolism Introduction (3 of 3)",
+      "tier": "extra"
     },
     {
       "id": "bo24-027",
@@ -11310,7 +11552,8 @@
         "arachidonic acid shunting"
       ],
       "topicId": "boom-lipids-and-lipid-metabolism-introduction-3-of-3",
-      "topicName": "BOOM: Lipids and Lipid Metabolism Introduction (3 of 3)"
+      "topicName": "BOOM: Lipids and Lipid Metabolism Introduction (3 of 3)",
+      "tier": "extra"
     },
     {
       "id": "bo24-028",
@@ -11356,7 +11599,8 @@
         "LOX inhibitors"
       ],
       "topicId": "boom-lipids-and-lipid-metabolism-introduction-3-of-3",
-      "topicName": "BOOM: Lipids and Lipid Metabolism Introduction (3 of 3)"
+      "topicName": "BOOM: Lipids and Lipid Metabolism Introduction (3 of 3)",
+      "tier": "extra"
     },
     {
       "id": "bo24-029",
@@ -11402,7 +11646,8 @@
         "adrenal cortex"
       ],
       "topicId": "boom-lipids-and-lipid-metabolism-introduction-3-of-3",
-      "topicName": "BOOM: Lipids and Lipid Metabolism Introduction (3 of 3)"
+      "topicName": "BOOM: Lipids and Lipid Metabolism Introduction (3 of 3)",
+      "tier": "extra"
     },
     {
       "id": "bo24-030",
@@ -11449,7 +11694,8 @@
         "prednisone"
       ],
       "topicId": "boom-lipids-and-lipid-metabolism-introduction-3-of-3",
-      "topicName": "BOOM: Lipids and Lipid Metabolism Introduction (3 of 3)"
+      "topicName": "BOOM: Lipids and Lipid Metabolism Introduction (3 of 3)",
+      "tier": "extra"
     },
     {
       "id": "bo24-031",
@@ -11496,7 +11742,8 @@
         "Figure 3"
       ],
       "topicId": "boom-lipids-and-lipid-metabolism-introduction-3-of-3",
-      "topicName": "BOOM: Lipids and Lipid Metabolism Introduction (3 of 3)"
+      "topicName": "BOOM: Lipids and Lipid Metabolism Introduction (3 of 3)",
+      "tier": "extra"
     },
     {
       "id": "bo24-032",
@@ -11542,7 +11789,8 @@
         "salicylic acid"
       ],
       "topicId": "boom-lipids-and-lipid-metabolism-introduction-3-of-3",
-      "topicName": "BOOM: Lipids and Lipid Metabolism Introduction (3 of 3)"
+      "topicName": "BOOM: Lipids and Lipid Metabolism Introduction (3 of 3)",
+      "tier": "extra"
     },
     {
       "id": "bo24-033",
@@ -11589,7 +11837,8 @@
         "vasodilation"
       ],
       "topicId": "boom-lipids-and-lipid-metabolism-introduction-3-of-3",
-      "topicName": "BOOM: Lipids and Lipid Metabolism Introduction (3 of 3)"
+      "topicName": "BOOM: Lipids and Lipid Metabolism Introduction (3 of 3)",
+      "tier": "extra"
     },
     {
       "id": "bo24-034",
@@ -11636,7 +11885,8 @@
         "aspirin uniqueness"
       ],
       "topicId": "boom-lipids-and-lipid-metabolism-introduction-3-of-3",
-      "topicName": "BOOM: Lipids and Lipid Metabolism Introduction (3 of 3)"
+      "topicName": "BOOM: Lipids and Lipid Metabolism Introduction (3 of 3)",
+      "tier": "extra"
     },
     {
       "id": "bo24-035",
@@ -11682,7 +11932,8 @@
         "homeostasis"
       ],
       "topicId": "boom-lipids-and-lipid-metabolism-introduction-3-of-3",
-      "topicName": "BOOM: Lipids and Lipid Metabolism Introduction (3 of 3)"
+      "topicName": "BOOM: Lipids and Lipid Metabolism Introduction (3 of 3)",
+      "tier": "extra"
     },
     {
       "id": "bo24-036",
@@ -11728,7 +11979,8 @@
         "cortisol"
       ],
       "topicId": "boom-lipids-and-lipid-metabolism-introduction-3-of-3",
-      "topicName": "BOOM: Lipids and Lipid Metabolism Introduction (3 of 3)"
+      "topicName": "BOOM: Lipids and Lipid Metabolism Introduction (3 of 3)",
+      "tier": "extra"
     }
   ]
 }

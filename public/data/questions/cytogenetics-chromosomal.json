@@ -46,7 +46,8 @@
         "cell cycle"
       ],
       "topicId": "chromosomes",
-      "topicName": "Chromosomes"
+      "topicName": "Chromosomes",
+      "tier": "core"
     },
     {
       "id": "bo40-002",
@@ -92,7 +93,8 @@
         "ploidy"
       ],
       "topicId": "chromosomes",
-      "topicName": "Chromosomes"
+      "topicName": "Chromosomes",
+      "tier": "core"
     },
     {
       "id": "bo40-003",
@@ -138,7 +140,8 @@
         "balanced"
       ],
       "topicId": "chromosomes",
-      "topicName": "Chromosomes"
+      "topicName": "Chromosomes",
+      "tier": "core"
     },
     {
       "id": "bo40-004",
@@ -184,7 +187,8 @@
         "BCR-ABL"
       ],
       "topicId": "chromosomes",
-      "topicName": "Chromosomes"
+      "topicName": "Chromosomes",
+      "tier": "core"
     },
     {
       "id": "bo40-005",
@@ -230,7 +234,8 @@
         "structural variant"
       ],
       "topicId": "chromosomes",
-      "topicName": "Chromosomes"
+      "topicName": "Chromosomes",
+      "tier": "core"
     },
     {
       "id": "bo40-006",
@@ -276,7 +281,8 @@
         "recurrent pregnancy loss"
       ],
       "topicId": "chromosomes",
-      "topicName": "Chromosomes"
+      "topicName": "Chromosomes",
+      "tier": "core"
     },
     {
       "id": "bo40-007",
@@ -322,7 +328,8 @@
         "Robertsonian translocation"
       ],
       "topicId": "chromosomes",
-      "topicName": "Chromosomes"
+      "topicName": "Chromosomes",
+      "tier": "core"
     },
     {
       "id": "bo40-008",
@@ -368,7 +375,8 @@
         "prenatal diagnosis"
       ],
       "topicId": "chromosomes",
-      "topicName": "Chromosomes"
+      "topicName": "Chromosomes",
+      "tier": "core"
     },
     {
       "id": "bo40-009",
@@ -414,7 +422,8 @@
         "recurrence risk"
       ],
       "topicId": "chromosomes",
-      "topicName": "Chromosomes"
+      "topicName": "Chromosomes",
+      "tier": "core"
     },
     {
       "id": "bo40-010",
@@ -460,7 +469,8 @@
         "cytogenetic nomenclature"
       ],
       "topicId": "chromosomes",
-      "topicName": "Chromosomes"
+      "topicName": "Chromosomes",
+      "tier": "core"
     },
     {
       "id": "bo40-011",
@@ -506,7 +516,8 @@
         "cytogenetic nomenclature"
       ],
       "topicId": "chromosomes",
-      "topicName": "Chromosomes"
+      "topicName": "Chromosomes",
+      "tier": "core"
     },
     {
       "id": "bo40-012",
@@ -552,7 +563,8 @@
         "chromatin"
       ],
       "topicId": "chromosomes",
-      "topicName": "Chromosomes"
+      "topicName": "Chromosomes",
+      "tier": "core"
     },
     {
       "id": "bo40-013",
@@ -598,7 +610,8 @@
         "diploid"
       ],
       "topicId": "chromosomes",
-      "topicName": "Chromosomes"
+      "topicName": "Chromosomes",
+      "tier": "extra"
     },
     {
       "id": "bo40-014",
@@ -644,7 +657,8 @@
         "chromosome structure"
       ],
       "topicId": "chromosomes",
-      "topicName": "Chromosomes"
+      "topicName": "Chromosomes",
+      "tier": "extra"
     },
     {
       "id": "bo40-015",
@@ -690,7 +704,8 @@
         "cell cycle"
       ],
       "topicId": "chromosomes",
-      "topicName": "Chromosomes"
+      "topicName": "Chromosomes",
+      "tier": "extra"
     },
     {
       "id": "bo40-016",
@@ -736,7 +751,8 @@
         "metaphase chromosome"
       ],
       "topicId": "chromosomes",
-      "topicName": "Chromosomes"
+      "topicName": "Chromosomes",
+      "tier": "extra"
     },
     {
       "id": "bo40-017",
@@ -782,7 +798,8 @@
         "cell division"
       ],
       "topicId": "chromosomes",
-      "topicName": "Chromosomes"
+      "topicName": "Chromosomes",
+      "tier": "extra"
     },
     {
       "id": "bo40-018",
@@ -828,7 +845,8 @@
         "chromosome nomenclature"
       ],
       "topicId": "chromosomes",
-      "topicName": "Chromosomes"
+      "topicName": "Chromosomes",
+      "tier": "extra"
     },
     {
       "id": "bo40-019",
@@ -874,7 +892,8 @@
         "centromere position"
       ],
       "topicId": "chromosomes",
-      "topicName": "Chromosomes"
+      "topicName": "Chromosomes",
+      "tier": "extra"
     },
     {
       "id": "bo40-020",
@@ -920,7 +939,8 @@
         "submetacentric"
       ],
       "topicId": "chromosomes",
-      "topicName": "Chromosomes"
+      "topicName": "Chromosomes",
+      "tier": "extra"
     },
     {
       "id": "bo40-021",
@@ -966,7 +986,8 @@
         "recombination"
       ],
       "topicId": "chromosomes",
-      "topicName": "Chromosomes"
+      "topicName": "Chromosomes",
+      "tier": "extra"
     },
     {
       "id": "bo40-022",
@@ -1012,7 +1033,8 @@
         "sister chromatids"
       ],
       "topicId": "chromosomes",
-      "topicName": "Chromosomes"
+      "topicName": "Chromosomes",
+      "tier": "extra"
     },
     {
       "id": "bo40-023",
@@ -1058,7 +1080,8 @@
         "ploidy"
       ],
       "topicId": "chromosomes",
-      "topicName": "Chromosomes"
+      "topicName": "Chromosomes",
+      "tier": "extra"
     },
     {
       "id": "bo40-024",
@@ -1104,7 +1127,8 @@
         "sister chromatids"
       ],
       "topicId": "chromosomes",
-      "topicName": "Chromosomes"
+      "topicName": "Chromosomes",
+      "tier": "extra"
     },
     {
       "id": "bo40-025",
@@ -1150,7 +1174,8 @@
         "cytogenetic nomenclature"
       ],
       "topicId": "chromosomes",
-      "topicName": "Chromosomes"
+      "topicName": "Chromosomes",
+      "tier": "extra"
     },
     {
       "id": "bo40-026",
@@ -1196,7 +1221,8 @@
         "sex chromosomes"
       ],
       "topicId": "chromosomes",
-      "topicName": "Chromosomes"
+      "topicName": "Chromosomes",
+      "tier": "extra"
     },
     {
       "id": "bo40-027",
@@ -1242,7 +1268,8 @@
         "epidemiology"
       ],
       "topicId": "chromosomes",
-      "topicName": "Chromosomes"
+      "topicName": "Chromosomes",
+      "tier": "extra"
     },
     {
       "id": "bo40-028",
@@ -1288,7 +1315,8 @@
         "epidemiology"
       ],
       "topicId": "chromosomes",
-      "topicName": "Chromosomes"
+      "topicName": "Chromosomes",
+      "tier": "extra"
     },
     {
       "id": "bo40-029",
@@ -1334,7 +1362,8 @@
         "recombination"
       ],
       "topicId": "chromosomes",
-      "topicName": "Chromosomes"
+      "topicName": "Chromosomes",
+      "tier": "extra"
     },
     {
       "id": "bo40-030",
@@ -1380,7 +1409,8 @@
         "structural variants"
       ],
       "topicId": "chromosomes",
-      "topicName": "Chromosomes"
+      "topicName": "Chromosomes",
+      "tier": "extra"
     },
     {
       "id": "bo40-031",
@@ -1426,7 +1456,8 @@
         "structural variants"
       ],
       "topicId": "chromosomes",
-      "topicName": "Chromosomes"
+      "topicName": "Chromosomes",
+      "tier": "extra"
     },
     {
       "id": "bo40-032",
@@ -1472,7 +1503,8 @@
         "epigenetics"
       ],
       "topicId": "chromosomes",
-      "topicName": "Chromosomes"
+      "topicName": "Chromosomes",
+      "tier": "extra"
     },
     {
       "id": "bo40-033",
@@ -1518,7 +1550,8 @@
         "cytogenetic nomenclature"
       ],
       "topicId": "chromosomes",
-      "topicName": "Chromosomes"
+      "topicName": "Chromosomes",
+      "tier": "extra"
     },
     {
       "id": "bo40-034",
@@ -1564,7 +1597,8 @@
         "ribosomal RNA genes"
       ],
       "topicId": "chromosomes",
-      "topicName": "Chromosomes"
+      "topicName": "Chromosomes",
+      "tier": "extra"
     },
     {
       "id": "bo40-035",
@@ -1610,7 +1644,8 @@
         "deletion"
       ],
       "topicId": "chromosomes",
-      "topicName": "Chromosomes"
+      "topicName": "Chromosomes",
+      "tier": "extra"
     },
     {
       "id": "bo40-036",
@@ -1656,7 +1691,8 @@
         "genetic counseling"
       ],
       "topicId": "chromosomes",
-      "topicName": "Chromosomes"
+      "topicName": "Chromosomes",
+      "tier": "extra"
     },
     {
       "id": "bo41-001",
@@ -1702,7 +1738,8 @@
         "trisomy 21"
       ],
       "topicId": "variants-in-chromosome-number",
-      "topicName": "Numerical & Structural Chromosomal Alterations (1/3) - Variants in Chromosome Number"
+      "topicName": "Numerical & Structural Chromosomal Alterations (1/3) - Variants in Chromosome Number",
+      "tier": "core"
     },
     {
       "id": "bo41-002",
@@ -1748,7 +1785,8 @@
         "clinical features"
       ],
       "topicId": "variants-in-chromosome-number",
-      "topicName": "Numerical & Structural Chromosomal Alterations (1/3) - Variants in Chromosome Number"
+      "topicName": "Numerical & Structural Chromosomal Alterations (1/3) - Variants in Chromosome Number",
+      "tier": "core"
     },
     {
       "id": "bo41-003",
@@ -1794,7 +1832,8 @@
         "clinical features"
       ],
       "topicId": "variants-in-chromosome-number",
-      "topicName": "Numerical & Structural Chromosomal Alterations (1/3) - Variants in Chromosome Number"
+      "topicName": "Numerical & Structural Chromosomal Alterations (1/3) - Variants in Chromosome Number",
+      "tier": "core"
     },
     {
       "id": "bo41-004",
@@ -1840,7 +1879,8 @@
         "associations"
       ],
       "topicId": "variants-in-chromosome-number",
-      "topicName": "Numerical & Structural Chromosomal Alterations (1/3) - Variants in Chromosome Number"
+      "topicName": "Numerical & Structural Chromosomal Alterations (1/3) - Variants in Chromosome Number",
+      "tier": "core"
     },
     {
       "id": "bo41-005",
@@ -1886,7 +1926,8 @@
         "genetic counseling"
       ],
       "topicId": "variants-in-chromosome-number",
-      "topicName": "Numerical & Structural Chromosomal Alterations (1/3) - Variants in Chromosome Number"
+      "topicName": "Numerical & Structural Chromosomal Alterations (1/3) - Variants in Chromosome Number",
+      "tier": "core"
     },
     {
       "id": "bo41-006",
@@ -1932,7 +1973,8 @@
         "recurrent pregnancy loss"
       ],
       "topicId": "variants-in-chromosome-number",
-      "topicName": "Numerical & Structural Chromosomal Alterations (1/3) - Variants in Chromosome Number"
+      "topicName": "Numerical & Structural Chromosomal Alterations (1/3) - Variants in Chromosome Number",
+      "tier": "core"
     },
     {
       "id": "bo41-007",
@@ -1978,7 +2020,8 @@
         "Down syndrome"
       ],
       "topicId": "variants-in-chromosome-number",
-      "topicName": "Numerical & Structural Chromosomal Alterations (1/3) - Variants in Chromosome Number"
+      "topicName": "Numerical & Structural Chromosomal Alterations (1/3) - Variants in Chromosome Number",
+      "tier": "core"
     },
     {
       "id": "bo41-008",
@@ -2024,7 +2067,8 @@
         "APP"
       ],
       "topicId": "variants-in-chromosome-number",
-      "topicName": "Numerical & Structural Chromosomal Alterations (1/3) - Variants in Chromosome Number"
+      "topicName": "Numerical & Structural Chromosomal Alterations (1/3) - Variants in Chromosome Number",
+      "tier": "core"
     },
     {
       "id": "bo41-009",
@@ -2070,7 +2114,8 @@
         "nondisjunction"
       ],
       "topicId": "variants-in-chromosome-number",
-      "topicName": "Numerical & Structural Chromosomal Alterations (1/3) - Variants in Chromosome Number"
+      "topicName": "Numerical & Structural Chromosomal Alterations (1/3) - Variants in Chromosome Number",
+      "tier": "core"
     },
     {
       "id": "bo41-010",
@@ -2116,7 +2161,8 @@
         "AML"
       ],
       "topicId": "variants-in-chromosome-number",
-      "topicName": "Numerical & Structural Chromosomal Alterations (1/3) - Variants in Chromosome Number"
+      "topicName": "Numerical & Structural Chromosomal Alterations (1/3) - Variants in Chromosome Number",
+      "tier": "core"
     },
     {
       "id": "bo41-011",
@@ -2162,7 +2208,8 @@
         "terminology"
       ],
       "topicId": "variants-in-chromosome-number",
-      "topicName": "Numerical & Structural Chromosomal Alterations (1/3) - Variants in Chromosome Number"
+      "topicName": "Numerical & Structural Chromosomal Alterations (1/3) - Variants in Chromosome Number",
+      "tier": "core"
     },
     {
       "id": "bo41-012",
@@ -2208,7 +2255,8 @@
         "aneuploidy"
       ],
       "topicId": "variants-in-chromosome-number",
-      "topicName": "Numerical & Structural Chromosomal Alterations (1/3) - Variants in Chromosome Number"
+      "topicName": "Numerical & Structural Chromosomal Alterations (1/3) - Variants in Chromosome Number",
+      "tier": "core"
     },
     {
       "id": "bo41-013",
@@ -2254,7 +2302,8 @@
         "concept"
       ],
       "topicId": "variants-in-chromosome-number",
-      "topicName": "Numerical & Structural Chromosomal Alterations (1/3) - Variants in Chromosome Number"
+      "topicName": "Numerical & Structural Chromosomal Alterations (1/3) - Variants in Chromosome Number",
+      "tier": "extra"
     },
     {
       "id": "bo41-014",
@@ -2300,7 +2349,8 @@
         "gametogenesis"
       ],
       "topicId": "variants-in-chromosome-number",
-      "topicName": "Numerical & Structural Chromosomal Alterations (1/3) - Variants in Chromosome Number"
+      "topicName": "Numerical & Structural Chromosomal Alterations (1/3) - Variants in Chromosome Number",
+      "tier": "extra"
     },
     {
       "id": "bo41-015",
@@ -2346,7 +2396,8 @@
         "monosomy"
       ],
       "topicId": "variants-in-chromosome-number",
-      "topicName": "Numerical & Structural Chromosomal Alterations (1/3) - Variants in Chromosome Number"
+      "topicName": "Numerical & Structural Chromosomal Alterations (1/3) - Variants in Chromosome Number",
+      "tier": "extra"
     },
     {
       "id": "bo41-016",
@@ -2392,7 +2443,8 @@
         "sister chromatids"
       ],
       "topicId": "variants-in-chromosome-number",
-      "topicName": "Numerical & Structural Chromosomal Alterations (1/3) - Variants in Chromosome Number"
+      "topicName": "Numerical & Structural Chromosomal Alterations (1/3) - Variants in Chromosome Number",
+      "tier": "extra"
     },
     {
       "id": "bo41-017",
@@ -2438,7 +2490,8 @@
         "gamete outcomes"
       ],
       "topicId": "variants-in-chromosome-number",
-      "topicName": "Numerical & Structural Chromosomal Alterations (1/3) - Variants in Chromosome Number"
+      "topicName": "Numerical & Structural Chromosomal Alterations (1/3) - Variants in Chromosome Number",
+      "tier": "extra"
     },
     {
       "id": "bo41-018",
@@ -2484,7 +2537,8 @@
         "cell lineage"
       ],
       "topicId": "variants-in-chromosome-number",
-      "topicName": "Numerical & Structural Chromosomal Alterations (1/3) - Variants in Chromosome Number"
+      "topicName": "Numerical & Structural Chromosomal Alterations (1/3) - Variants in Chromosome Number",
+      "tier": "extra"
     },
     {
       "id": "bo41-019",
@@ -2530,7 +2584,8 @@
         "Edwards syndrome"
       ],
       "topicId": "variants-in-chromosome-number",
-      "topicName": "Numerical & Structural Chromosomal Alterations (1/3) - Variants in Chromosome Number"
+      "topicName": "Numerical & Structural Chromosomal Alterations (1/3) - Variants in Chromosome Number",
+      "tier": "extra"
     },
     {
       "id": "bo41-020",
@@ -2576,7 +2631,8 @@
         "unbalanced gametes"
       ],
       "topicId": "variants-in-chromosome-number",
-      "topicName": "Numerical & Structural Chromosomal Alterations (1/3) - Variants in Chromosome Number"
+      "topicName": "Numerical & Structural Chromosomal Alterations (1/3) - Variants in Chromosome Number",
+      "tier": "extra"
     },
     {
       "id": "bo41-021",
@@ -2622,7 +2678,8 @@
         "chromosome structure"
       ],
       "topicId": "variants-in-chromosome-number",
-      "topicName": "Numerical & Structural Chromosomal Alterations (1/3) - Variants in Chromosome Number"
+      "topicName": "Numerical & Structural Chromosomal Alterations (1/3) - Variants in Chromosome Number",
+      "tier": "extra"
     },
     {
       "id": "bo41-022",
@@ -2667,7 +2724,8 @@
         "Robertsonian translocation"
       ],
       "topicId": "variants-in-chromosome-number",
-      "topicName": "Numerical & Structural Chromosomal Alterations (1/3) - Variants in Chromosome Number"
+      "topicName": "Numerical & Structural Chromosomal Alterations (1/3) - Variants in Chromosome Number",
+      "tier": "extra"
     },
     {
       "id": "bo41-023",
@@ -2713,7 +2771,8 @@
         "chromosome count"
       ],
       "topicId": "variants-in-chromosome-number",
-      "topicName": "Numerical & Structural Chromosomal Alterations (1/3) - Variants in Chromosome Number"
+      "topicName": "Numerical & Structural Chromosomal Alterations (1/3) - Variants in Chromosome Number",
+      "tier": "extra"
     },
     {
       "id": "bo41-024",
@@ -2759,7 +2818,8 @@
         "etiology percentages"
       ],
       "topicId": "variants-in-chromosome-number",
-      "topicName": "Numerical & Structural Chromosomal Alterations (1/3) - Variants in Chromosome Number"
+      "topicName": "Numerical & Structural Chromosomal Alterations (1/3) - Variants in Chromosome Number",
+      "tier": "extra"
     },
     {
       "id": "bo41-025",
@@ -2805,7 +2865,8 @@
         "rob(13;14)"
       ],
       "topicId": "variants-in-chromosome-number",
-      "topicName": "Numerical & Structural Chromosomal Alterations (1/3) - Variants in Chromosome Number"
+      "topicName": "Numerical & Structural Chromosomal Alterations (1/3) - Variants in Chromosome Number",
+      "tier": "extra"
     },
     {
       "id": "bo41-026",
@@ -2851,7 +2912,8 @@
         "karyotype"
       ],
       "topicId": "variants-in-chromosome-number",
-      "topicName": "Numerical & Structural Chromosomal Alterations (1/3) - Variants in Chromosome Number"
+      "topicName": "Numerical & Structural Chromosomal Alterations (1/3) - Variants in Chromosome Number",
+      "tier": "extra"
     },
     {
       "id": "bo41-027",
@@ -2897,7 +2959,8 @@
         "duplication"
       ],
       "topicId": "variants-in-chromosome-number",
-      "topicName": "Numerical & Structural Chromosomal Alterations (1/3) - Variants in Chromosome Number"
+      "topicName": "Numerical & Structural Chromosomal Alterations (1/3) - Variants in Chromosome Number",
+      "tier": "extra"
     },
     {
       "id": "bo41-028",
@@ -2943,7 +3006,8 @@
         "lethal trisomies"
       ],
       "topicId": "variants-in-chromosome-number",
-      "topicName": "Numerical & Structural Chromosomal Alterations (1/3) - Variants in Chromosome Number"
+      "topicName": "Numerical & Structural Chromosomal Alterations (1/3) - Variants in Chromosome Number",
+      "tier": "extra"
     },
     {
       "id": "bo41-029",
@@ -2989,7 +3053,8 @@
         "epidemiology"
       ],
       "topicId": "variants-in-chromosome-number",
-      "topicName": "Numerical & Structural Chromosomal Alterations (1/3) - Variants in Chromosome Number"
+      "topicName": "Numerical & Structural Chromosomal Alterations (1/3) - Variants in Chromosome Number",
+      "tier": "extra"
     },
     {
       "id": "bo41-030",
@@ -3035,7 +3100,8 @@
         "survival"
       ],
       "topicId": "variants-in-chromosome-number",
-      "topicName": "Numerical & Structural Chromosomal Alterations (1/3) - Variants in Chromosome Number"
+      "topicName": "Numerical & Structural Chromosomal Alterations (1/3) - Variants in Chromosome Number",
+      "tier": "extra"
     },
     {
       "id": "bo41-031",
@@ -3081,7 +3147,8 @@
         "congenital heart disease"
       ],
       "topicId": "variants-in-chromosome-number",
-      "topicName": "Numerical & Structural Chromosomal Alterations (1/3) - Variants in Chromosome Number"
+      "topicName": "Numerical & Structural Chromosomal Alterations (1/3) - Variants in Chromosome Number",
+      "tier": "extra"
     },
     {
       "id": "bo41-032",
@@ -3127,7 +3194,8 @@
         "clinical features"
       ],
       "topicId": "variants-in-chromosome-number",
-      "topicName": "Numerical & Structural Chromosomal Alterations (1/3) - Variants in Chromosome Number"
+      "topicName": "Numerical & Structural Chromosomal Alterations (1/3) - Variants in Chromosome Number",
+      "tier": "extra"
     },
     {
       "id": "bo41-033",
@@ -3173,7 +3241,8 @@
         "associations"
       ],
       "topicId": "variants-in-chromosome-number",
-      "topicName": "Numerical & Structural Chromosomal Alterations (1/3) - Variants in Chromosome Number"
+      "topicName": "Numerical & Structural Chromosomal Alterations (1/3) - Variants in Chromosome Number",
+      "tier": "extra"
     },
     {
       "id": "bo41-034",
@@ -3219,7 +3288,8 @@
         "differential features"
       ],
       "topicId": "variants-in-chromosome-number",
-      "topicName": "Numerical & Structural Chromosomal Alterations (1/3) - Variants in Chromosome Number"
+      "topicName": "Numerical & Structural Chromosomal Alterations (1/3) - Variants in Chromosome Number",
+      "tier": "extra"
     },
     {
       "id": "bo41-035",
@@ -3265,7 +3335,8 @@
         "PRC2"
       ],
       "topicId": "variants-in-chromosome-number",
-      "topicName": "Numerical & Structural Chromosomal Alterations (1/3) - Variants in Chromosome Number"
+      "topicName": "Numerical & Structural Chromosomal Alterations (1/3) - Variants in Chromosome Number",
+      "tier": "extra"
     },
     {
       "id": "bo41-036",
@@ -3311,7 +3382,8 @@
         "associations"
       ],
       "topicId": "variants-in-chromosome-number",
-      "topicName": "Numerical & Structural Chromosomal Alterations (1/3) - Variants in Chromosome Number"
+      "topicName": "Numerical & Structural Chromosomal Alterations (1/3) - Variants in Chromosome Number",
+      "tier": "extra"
     },
     {
       "id": "bo42-001",
@@ -3357,7 +3429,8 @@
         "primary amenorrhea"
       ],
       "topicId": "sex-chromosome-aneuploidy",
-      "topicName": "Sex Chromosome Aneuploidy"
+      "topicName": "Sex Chromosome Aneuploidy",
+      "tier": "core"
     },
     {
       "id": "bo42-002",
@@ -3403,7 +3476,8 @@
         "cardiac"
       ],
       "topicId": "sex-chromosome-aneuploidy",
-      "topicName": "Sex Chromosome Aneuploidy"
+      "topicName": "Sex Chromosome Aneuploidy",
+      "tier": "core"
     },
     {
       "id": "bo42-003",
@@ -3449,7 +3523,8 @@
         "infertility"
       ],
       "topicId": "sex-chromosome-aneuploidy",
-      "topicName": "Sex Chromosome Aneuploidy"
+      "topicName": "Sex Chromosome Aneuploidy",
+      "tier": "core"
     },
     {
       "id": "bo42-004",
@@ -3495,7 +3570,8 @@
         "hypogonadism"
       ],
       "topicId": "sex-chromosome-aneuploidy",
-      "topicName": "Sex Chromosome Aneuploidy"
+      "topicName": "Sex Chromosome Aneuploidy",
+      "tier": "core"
     },
     {
       "id": "bo42-005",
@@ -3541,7 +3617,8 @@
         "47,XYY"
       ],
       "topicId": "sex-chromosome-aneuploidy",
-      "topicName": "Sex Chromosome Aneuploidy"
+      "topicName": "Sex Chromosome Aneuploidy",
+      "tier": "core"
     },
     {
       "id": "bo42-006",
@@ -3587,7 +3664,8 @@
         "fertility"
       ],
       "topicId": "sex-chromosome-aneuploidy",
-      "topicName": "Sex Chromosome Aneuploidy"
+      "topicName": "Sex Chromosome Aneuploidy",
+      "tier": "core"
     },
     {
       "id": "bo42-007",
@@ -3633,7 +3711,8 @@
         "sex determination"
       ],
       "topicId": "sex-chromosome-aneuploidy",
-      "topicName": "Sex Chromosome Aneuploidy"
+      "topicName": "Sex Chromosome Aneuploidy",
+      "tier": "core"
     },
     {
       "id": "bo42-008",
@@ -3679,7 +3758,8 @@
         "47,XYY"
       ],
       "topicId": "sex-chromosome-aneuploidy",
-      "topicName": "Sex Chromosome Aneuploidy"
+      "topicName": "Sex Chromosome Aneuploidy",
+      "tier": "core"
     },
     {
       "id": "bo42-009",
@@ -3725,7 +3805,8 @@
         "karyotype outcomes"
       ],
       "topicId": "sex-chromosome-aneuploidy",
-      "topicName": "Sex Chromosome Aneuploidy"
+      "topicName": "Sex Chromosome Aneuploidy",
+      "tier": "core"
     },
     {
       "id": "bo42-010",
@@ -3771,7 +3852,8 @@
         "recombination"
       ],
       "topicId": "sex-chromosome-aneuploidy",
-      "topicName": "Sex Chromosome Aneuploidy"
+      "topicName": "Sex Chromosome Aneuploidy",
+      "tier": "core"
     },
     {
       "id": "bo42-011",
@@ -3817,7 +3899,8 @@
         "sex chromosomes"
       ],
       "topicId": "sex-chromosome-aneuploidy",
-      "topicName": "Sex Chromosome Aneuploidy"
+      "topicName": "Sex Chromosome Aneuploidy",
+      "tier": "core"
     },
     {
       "id": "bo42-012",
@@ -3863,7 +3946,8 @@
         "ovarian failure"
       ],
       "topicId": "sex-chromosome-aneuploidy",
-      "topicName": "Sex Chromosome Aneuploidy"
+      "topicName": "Sex Chromosome Aneuploidy",
+      "tier": "core"
     },
     {
       "id": "bo42-013",
@@ -3909,7 +3993,8 @@
         "gene content"
       ],
       "topicId": "sex-chromosome-aneuploidy",
-      "topicName": "Sex Chromosome Aneuploidy"
+      "topicName": "Sex Chromosome Aneuploidy",
+      "tier": "extra"
     },
     {
       "id": "bo42-014",
@@ -3955,7 +4040,8 @@
         "homologs"
       ],
       "topicId": "sex-chromosome-aneuploidy",
-      "topicName": "Sex Chromosome Aneuploidy"
+      "topicName": "Sex Chromosome Aneuploidy",
+      "tier": "extra"
     },
     {
       "id": "bo42-015",
@@ -4001,7 +4087,8 @@
         "spermatogenesis"
       ],
       "topicId": "sex-chromosome-aneuploidy",
-      "topicName": "Sex Chromosome Aneuploidy"
+      "topicName": "Sex Chromosome Aneuploidy",
+      "tier": "extra"
     },
     {
       "id": "bo42-016",
@@ -4047,7 +4134,8 @@
         "gametes"
       ],
       "topicId": "sex-chromosome-aneuploidy",
-      "topicName": "Sex Chromosome Aneuploidy"
+      "topicName": "Sex Chromosome Aneuploidy",
+      "tier": "extra"
     },
     {
       "id": "bo42-017",
@@ -4093,7 +4181,8 @@
         "fertilization outcomes"
       ],
       "topicId": "sex-chromosome-aneuploidy",
-      "topicName": "Sex Chromosome Aneuploidy"
+      "topicName": "Sex Chromosome Aneuploidy",
+      "tier": "extra"
     },
     {
       "id": "bo42-018",
@@ -4139,7 +4228,8 @@
         "45,XO"
       ],
       "topicId": "sex-chromosome-aneuploidy",
-      "topicName": "Sex Chromosome Aneuploidy"
+      "topicName": "Sex Chromosome Aneuploidy",
+      "tier": "extra"
     },
     {
       "id": "bo42-019",
@@ -4185,7 +4275,8 @@
         "physical findings"
       ],
       "topicId": "sex-chromosome-aneuploidy",
-      "topicName": "Sex Chromosome Aneuploidy"
+      "topicName": "Sex Chromosome Aneuploidy",
+      "tier": "extra"
     },
     {
       "id": "bo42-020",
@@ -4231,7 +4322,8 @@
         "neonate"
       ],
       "topicId": "sex-chromosome-aneuploidy",
-      "topicName": "Sex Chromosome Aneuploidy"
+      "topicName": "Sex Chromosome Aneuploidy",
+      "tier": "extra"
     },
     {
       "id": "bo42-021",
@@ -4277,7 +4369,8 @@
         "testis-determining factor"
       ],
       "topicId": "sex-chromosome-aneuploidy",
-      "topicName": "Sex Chromosome Aneuploidy"
+      "topicName": "Sex Chromosome Aneuploidy",
+      "tier": "extra"
     },
     {
       "id": "bo42-022",
@@ -4323,7 +4416,8 @@
         "cardiac"
       ],
       "topicId": "sex-chromosome-aneuploidy",
-      "topicName": "Sex Chromosome Aneuploidy"
+      "topicName": "Sex Chromosome Aneuploidy",
+      "tier": "extra"
     },
     {
       "id": "bo42-023",
@@ -4369,7 +4463,8 @@
         "aortic dissection"
       ],
       "topicId": "sex-chromosome-aneuploidy",
-      "topicName": "Sex Chromosome Aneuploidy"
+      "topicName": "Sex Chromosome Aneuploidy",
+      "tier": "extra"
     },
     {
       "id": "bo42-024",
@@ -4415,7 +4510,8 @@
         "fertility"
       ],
       "topicId": "sex-chromosome-aneuploidy",
-      "topicName": "Sex Chromosome Aneuploidy"
+      "topicName": "Sex Chromosome Aneuploidy",
+      "tier": "extra"
     },
     {
       "id": "bo42-025",
@@ -4461,7 +4557,8 @@
         "endocrinology"
       ],
       "topicId": "sex-chromosome-aneuploidy",
-      "topicName": "Sex Chromosome Aneuploidy"
+      "topicName": "Sex Chromosome Aneuploidy",
+      "tier": "extra"
     },
     {
       "id": "bo42-026",
@@ -4507,7 +4604,8 @@
         "nondisjunction"
       ],
       "topicId": "sex-chromosome-aneuploidy",
-      "topicName": "Sex Chromosome Aneuploidy"
+      "topicName": "Sex Chromosome Aneuploidy",
+      "tier": "extra"
     },
     {
       "id": "bo42-027",
@@ -4553,7 +4651,8 @@
         "cryptorchidism"
       ],
       "topicId": "sex-chromosome-aneuploidy",
-      "topicName": "Sex Chromosome Aneuploidy"
+      "topicName": "Sex Chromosome Aneuploidy",
+      "tier": "extra"
     },
     {
       "id": "bo42-028",
@@ -4599,7 +4698,8 @@
         "anxiety"
       ],
       "topicId": "sex-chromosome-aneuploidy",
-      "topicName": "Sex Chromosome Aneuploidy"
+      "topicName": "Sex Chromosome Aneuploidy",
+      "tier": "extra"
     },
     {
       "id": "bo42-029",
@@ -4645,7 +4745,8 @@
         "female hair distribution"
       ],
       "topicId": "sex-chromosome-aneuploidy",
-      "topicName": "Sex Chromosome Aneuploidy"
+      "topicName": "Sex Chromosome Aneuploidy",
+      "tier": "extra"
     },
     {
       "id": "bo42-030",
@@ -4691,7 +4792,8 @@
         "premature ovarian failure"
       ],
       "topicId": "sex-chromosome-aneuploidy",
-      "topicName": "Sex Chromosome Aneuploidy"
+      "topicName": "Sex Chromosome Aneuploidy",
+      "tier": "extra"
     },
     {
       "id": "bo42-031",
@@ -4737,7 +4839,8 @@
         "body habitus"
       ],
       "topicId": "sex-chromosome-aneuploidy",
-      "topicName": "Sex Chromosome Aneuploidy"
+      "topicName": "Sex Chromosome Aneuploidy",
+      "tier": "extra"
     },
     {
       "id": "bo42-032",
@@ -4783,7 +4886,8 @@
         "sex chromosome aneuploidy"
       ],
       "topicId": "sex-chromosome-aneuploidy",
-      "topicName": "Sex Chromosome Aneuploidy"
+      "topicName": "Sex Chromosome Aneuploidy",
+      "tier": "extra"
     },
     {
       "id": "bo42-033",
@@ -4829,7 +4933,8 @@
         "variable phenotype"
       ],
       "topicId": "sex-chromosome-aneuploidy",
-      "topicName": "Sex Chromosome Aneuploidy"
+      "topicName": "Sex Chromosome Aneuploidy",
+      "tier": "extra"
     },
     {
       "id": "bo42-034",
@@ -4875,7 +4980,8 @@
         "physical features"
       ],
       "topicId": "sex-chromosome-aneuploidy",
-      "topicName": "Sex Chromosome Aneuploidy"
+      "topicName": "Sex Chromosome Aneuploidy",
+      "tier": "extra"
     },
     {
       "id": "bo42-035",
@@ -4921,7 +5027,8 @@
         "Klinefelter syndrome"
       ],
       "topicId": "sex-chromosome-aneuploidy",
-      "topicName": "Sex Chromosome Aneuploidy"
+      "topicName": "Sex Chromosome Aneuploidy",
+      "tier": "extra"
     },
     {
       "id": "bo42-036",
@@ -4967,7 +5074,8 @@
         "aneuploidy"
       ],
       "topicId": "sex-chromosome-aneuploidy",
-      "topicName": "Sex Chromosome Aneuploidy"
+      "topicName": "Sex Chromosome Aneuploidy",
+      "tier": "extra"
     },
     {
       "id": "bo43-001",
@@ -5013,7 +5121,8 @@
         "clinical features"
       ],
       "topicId": "subchromosomal-deletion-syndromes",
-      "topicName": "Numerical and Structural Chromosomal Alterations (2/3) - Subchromosomal Deletion Syndromes"
+      "topicName": "Numerical and Structural Chromosomal Alterations (2/3) - Subchromosomal Deletion Syndromes",
+      "tier": "core"
     },
     {
       "id": "bo43-002",
@@ -5059,7 +5168,8 @@
         "5p deletion"
       ],
       "topicId": "subchromosomal-deletion-syndromes",
-      "topicName": "Numerical and Structural Chromosomal Alterations (2/3) - Subchromosomal Deletion Syndromes"
+      "topicName": "Numerical and Structural Chromosomal Alterations (2/3) - Subchromosomal Deletion Syndromes",
+      "tier": "core"
     },
     {
       "id": "bo43-003",
@@ -5105,7 +5215,8 @@
         "hypocalcemia"
       ],
       "topicId": "subchromosomal-deletion-syndromes",
-      "topicName": "Numerical and Structural Chromosomal Alterations (2/3) - Subchromosomal Deletion Syndromes"
+      "topicName": "Numerical and Structural Chromosomal Alterations (2/3) - Subchromosomal Deletion Syndromes",
+      "tier": "core"
     },
     {
       "id": "bo43-004",
@@ -5151,7 +5262,8 @@
         "supravalvular aortic stenosis"
       ],
       "topicId": "subchromosomal-deletion-syndromes",
-      "topicName": "Numerical and Structural Chromosomal Alterations (2/3) - Subchromosomal Deletion Syndromes"
+      "topicName": "Numerical and Structural Chromosomal Alterations (2/3) - Subchromosomal Deletion Syndromes",
+      "tier": "core"
     },
     {
       "id": "bo43-005",
@@ -5197,7 +5309,8 @@
         "mechanism"
       ],
       "topicId": "subchromosomal-deletion-syndromes",
-      "topicName": "Numerical and Structural Chromosomal Alterations (2/3) - Subchromosomal Deletion Syndromes"
+      "topicName": "Numerical and Structural Chromosomal Alterations (2/3) - Subchromosomal Deletion Syndromes",
+      "tier": "core"
     },
     {
       "id": "bo43-006",
@@ -5243,7 +5356,8 @@
         "mechanism"
       ],
       "topicId": "subchromosomal-deletion-syndromes",
-      "topicName": "Numerical and Structural Chromosomal Alterations (2/3) - Subchromosomal Deletion Syndromes"
+      "topicName": "Numerical and Structural Chromosomal Alterations (2/3) - Subchromosomal Deletion Syndromes",
+      "tier": "core"
     },
     {
       "id": "bo43-007",
@@ -5289,7 +5403,8 @@
         "clinical features"
       ],
       "topicId": "subchromosomal-deletion-syndromes",
-      "topicName": "Numerical and Structural Chromosomal Alterations (2/3) - Subchromosomal Deletion Syndromes"
+      "topicName": "Numerical and Structural Chromosomal Alterations (2/3) - Subchromosomal Deletion Syndromes",
+      "tier": "core"
     },
     {
       "id": "bo43-008",
@@ -5335,7 +5450,8 @@
         "immunodeficiency"
       ],
       "topicId": "subchromosomal-deletion-syndromes",
-      "topicName": "Numerical and Structural Chromosomal Alterations (2/3) - Subchromosomal Deletion Syndromes"
+      "topicName": "Numerical and Structural Chromosomal Alterations (2/3) - Subchromosomal Deletion Syndromes",
+      "tier": "core"
     },
     {
       "id": "bo43-009",
@@ -5381,7 +5497,8 @@
         "differential diagnosis"
       ],
       "topicId": "subchromosomal-deletion-syndromes",
-      "topicName": "Numerical and Structural Chromosomal Alterations (2/3) - Subchromosomal Deletion Syndromes"
+      "topicName": "Numerical and Structural Chromosomal Alterations (2/3) - Subchromosomal Deletion Syndromes",
+      "tier": "core"
     },
     {
       "id": "bo43-010",
@@ -5427,7 +5544,8 @@
         "concept"
       ],
       "topicId": "subchromosomal-deletion-syndromes",
-      "topicName": "Numerical and Structural Chromosomal Alterations (2/3) - Subchromosomal Deletion Syndromes"
+      "topicName": "Numerical and Structural Chromosomal Alterations (2/3) - Subchromosomal Deletion Syndromes",
+      "tier": "core"
     },
     {
       "id": "bo43-011",
@@ -5473,7 +5591,8 @@
         "5p deletion"
       ],
       "topicId": "subchromosomal-deletion-syndromes",
-      "topicName": "Numerical and Structural Chromosomal Alterations (2/3) - Subchromosomal Deletion Syndromes"
+      "topicName": "Numerical and Structural Chromosomal Alterations (2/3) - Subchromosomal Deletion Syndromes",
+      "tier": "core"
     },
     {
       "id": "bo43-012",
@@ -5519,7 +5638,8 @@
         "differential diagnosis"
       ],
       "topicId": "subchromosomal-deletion-syndromes",
-      "topicName": "Numerical and Structural Chromosomal Alterations (2/3) - Subchromosomal Deletion Syndromes"
+      "topicName": "Numerical and Structural Chromosomal Alterations (2/3) - Subchromosomal Deletion Syndromes",
+      "tier": "core"
     },
     {
       "id": "bo43-013",
@@ -5565,7 +5685,8 @@
         "definitions"
       ],
       "topicId": "subchromosomal-deletion-syndromes",
-      "topicName": "Numerical and Structural Chromosomal Alterations (2/3) - Subchromosomal Deletion Syndromes"
+      "topicName": "Numerical and Structural Chromosomal Alterations (2/3) - Subchromosomal Deletion Syndromes",
+      "tier": "extra"
     },
     {
       "id": "bo43-014",
@@ -5611,7 +5732,8 @@
         "mechanism"
       ],
       "topicId": "subchromosomal-deletion-syndromes",
-      "topicName": "Numerical and Structural Chromosomal Alterations (2/3) - Subchromosomal Deletion Syndromes"
+      "topicName": "Numerical and Structural Chromosomal Alterations (2/3) - Subchromosomal Deletion Syndromes",
+      "tier": "extra"
     },
     {
       "id": "bo43-015",
@@ -5657,7 +5779,8 @@
         "nonrecurrent variant"
       ],
       "topicId": "subchromosomal-deletion-syndromes",
-      "topicName": "Numerical and Structural Chromosomal Alterations (2/3) - Subchromosomal Deletion Syndromes"
+      "topicName": "Numerical and Structural Chromosomal Alterations (2/3) - Subchromosomal Deletion Syndromes",
+      "tier": "extra"
     },
     {
       "id": "bo43-016",
@@ -5703,7 +5826,8 @@
         "crossing over"
       ],
       "topicId": "subchromosomal-deletion-syndromes",
-      "topicName": "Numerical and Structural Chromosomal Alterations (2/3) - Subchromosomal Deletion Syndromes"
+      "topicName": "Numerical and Structural Chromosomal Alterations (2/3) - Subchromosomal Deletion Syndromes",
+      "tier": "extra"
     },
     {
       "id": "bo43-017",
@@ -5749,7 +5873,8 @@
         "epidemiology"
       ],
       "topicId": "subchromosomal-deletion-syndromes",
-      "topicName": "Numerical and Structural Chromosomal Alterations (2/3) - Subchromosomal Deletion Syndromes"
+      "topicName": "Numerical and Structural Chromosomal Alterations (2/3) - Subchromosomal Deletion Syndromes",
+      "tier": "extra"
     },
     {
       "id": "bo43-018",
@@ -5795,7 +5920,8 @@
         "genomics"
       ],
       "topicId": "subchromosomal-deletion-syndromes",
-      "topicName": "Numerical and Structural Chromosomal Alterations (2/3) - Subchromosomal Deletion Syndromes"
+      "topicName": "Numerical and Structural Chromosomal Alterations (2/3) - Subchromosomal Deletion Syndromes",
+      "tier": "extra"
     },
     {
       "id": "bo43-019",
@@ -5841,7 +5967,8 @@
         "nomenclature"
       ],
       "topicId": "subchromosomal-deletion-syndromes",
-      "topicName": "Numerical and Structural Chromosomal Alterations (2/3) - Subchromosomal Deletion Syndromes"
+      "topicName": "Numerical and Structural Chromosomal Alterations (2/3) - Subchromosomal Deletion Syndromes",
+      "tier": "extra"
     },
     {
       "id": "bo43-020",
@@ -5887,7 +6014,8 @@
         "CATCH-22"
       ],
       "topicId": "subchromosomal-deletion-syndromes",
-      "topicName": "Numerical and Structural Chromosomal Alterations (2/3) - Subchromosomal Deletion Syndromes"
+      "topicName": "Numerical and Structural Chromosomal Alterations (2/3) - Subchromosomal Deletion Syndromes",
+      "tier": "extra"
     },
     {
       "id": "bo43-021",
@@ -5933,7 +6061,8 @@
         "gene count"
       ],
       "topicId": "subchromosomal-deletion-syndromes",
-      "topicName": "Numerical and Structural Chromosomal Alterations (2/3) - Subchromosomal Deletion Syndromes"
+      "topicName": "Numerical and Structural Chromosomal Alterations (2/3) - Subchromosomal Deletion Syndromes",
+      "tier": "extra"
     },
     {
       "id": "bo43-022",
@@ -5979,7 +6108,8 @@
         "phenotype"
       ],
       "topicId": "subchromosomal-deletion-syndromes",
-      "topicName": "Numerical and Structural Chromosomal Alterations (2/3) - Subchromosomal Deletion Syndromes"
+      "topicName": "Numerical and Structural Chromosomal Alterations (2/3) - Subchromosomal Deletion Syndromes",
+      "tier": "extra"
     },
     {
       "id": "bo43-023",
@@ -6025,7 +6155,8 @@
         "7q11.23"
       ],
       "topicId": "subchromosomal-deletion-syndromes",
-      "topicName": "Numerical and Structural Chromosomal Alterations (2/3) - Subchromosomal Deletion Syndromes"
+      "topicName": "Numerical and Structural Chromosomal Alterations (2/3) - Subchromosomal Deletion Syndromes",
+      "tier": "extra"
     },
     {
       "id": "bo43-024",
@@ -6071,7 +6202,8 @@
         "cardiac"
       ],
       "topicId": "subchromosomal-deletion-syndromes",
-      "topicName": "Numerical and Structural Chromosomal Alterations (2/3) - Subchromosomal Deletion Syndromes"
+      "topicName": "Numerical and Structural Chromosomal Alterations (2/3) - Subchromosomal Deletion Syndromes",
+      "tier": "extra"
     },
     {
       "id": "bo43-025",
@@ -6117,7 +6249,8 @@
         "nonrecurrent variant"
       ],
       "topicId": "subchromosomal-deletion-syndromes",
-      "topicName": "Numerical and Structural Chromosomal Alterations (2/3) - Subchromosomal Deletion Syndromes"
+      "topicName": "Numerical and Structural Chromosomal Alterations (2/3) - Subchromosomal Deletion Syndromes",
+      "tier": "extra"
     },
     {
       "id": "bo43-026",
@@ -6163,7 +6296,8 @@
         "chromosome arm"
       ],
       "topicId": "subchromosomal-deletion-syndromes",
-      "topicName": "Numerical and Structural Chromosomal Alterations (2/3) - Subchromosomal Deletion Syndromes"
+      "topicName": "Numerical and Structural Chromosomal Alterations (2/3) - Subchromosomal Deletion Syndromes",
+      "tier": "extra"
     },
     {
       "id": "bo43-027",
@@ -6209,7 +6343,8 @@
         "genetic counseling"
       ],
       "topicId": "subchromosomal-deletion-syndromes",
-      "topicName": "Numerical and Structural Chromosomal Alterations (2/3) - Subchromosomal Deletion Syndromes"
+      "topicName": "Numerical and Structural Chromosomal Alterations (2/3) - Subchromosomal Deletion Syndromes",
+      "tier": "extra"
     },
     {
       "id": "bo43-028",
@@ -6255,7 +6390,8 @@
         "prognosis"
       ],
       "topicId": "subchromosomal-deletion-syndromes",
-      "topicName": "Numerical and Structural Chromosomal Alterations (2/3) - Subchromosomal Deletion Syndromes"
+      "topicName": "Numerical and Structural Chromosomal Alterations (2/3) - Subchromosomal Deletion Syndromes",
+      "tier": "extra"
     },
     {
       "id": "bo43-029",
@@ -6301,7 +6437,8 @@
         "DNA repair"
       ],
       "topicId": "subchromosomal-deletion-syndromes",
-      "topicName": "Numerical and Structural Chromosomal Alterations (2/3) - Subchromosomal Deletion Syndromes"
+      "topicName": "Numerical and Structural Chromosomal Alterations (2/3) - Subchromosomal Deletion Syndromes",
+      "tier": "extra"
     },
     {
       "id": "bo43-030",
@@ -6347,7 +6484,8 @@
         "clinical correlation"
       ],
       "topicId": "subchromosomal-deletion-syndromes",
-      "topicName": "Numerical and Structural Chromosomal Alterations (2/3) - Subchromosomal Deletion Syndromes"
+      "topicName": "Numerical and Structural Chromosomal Alterations (2/3) - Subchromosomal Deletion Syndromes",
+      "tier": "extra"
     },
     {
       "id": "bo43-031",
@@ -6393,7 +6531,8 @@
         "classification"
       ],
       "topicId": "subchromosomal-deletion-syndromes",
-      "topicName": "Numerical and Structural Chromosomal Alterations (2/3) - Subchromosomal Deletion Syndromes"
+      "topicName": "Numerical and Structural Chromosomal Alterations (2/3) - Subchromosomal Deletion Syndromes",
+      "tier": "extra"
     },
     {
       "id": "bo43-032",
@@ -6439,7 +6578,8 @@
         "structural variants"
       ],
       "topicId": "subchromosomal-deletion-syndromes",
-      "topicName": "Numerical and Structural Chromosomal Alterations (2/3) - Subchromosomal Deletion Syndromes"
+      "topicName": "Numerical and Structural Chromosomal Alterations (2/3) - Subchromosomal Deletion Syndromes",
+      "tier": "extra"
     },
     {
       "id": "bo43-033",
@@ -6485,7 +6625,8 @@
         "genetic diversity"
       ],
       "topicId": "subchromosomal-deletion-syndromes",
-      "topicName": "Numerical and Structural Chromosomal Alterations (2/3) - Subchromosomal Deletion Syndromes"
+      "topicName": "Numerical and Structural Chromosomal Alterations (2/3) - Subchromosomal Deletion Syndromes",
+      "tier": "extra"
     },
     {
       "id": "bo43-034",
@@ -6531,7 +6672,8 @@
         "mechanism"
       ],
       "topicId": "subchromosomal-deletion-syndromes",
-      "topicName": "Numerical and Structural Chromosomal Alterations (2/3) - Subchromosomal Deletion Syndromes"
+      "topicName": "Numerical and Structural Chromosomal Alterations (2/3) - Subchromosomal Deletion Syndromes",
+      "tier": "extra"
     },
     {
       "id": "bo43-035",
@@ -6577,7 +6719,8 @@
         "differential diagnosis"
       ],
       "topicId": "subchromosomal-deletion-syndromes",
-      "topicName": "Numerical and Structural Chromosomal Alterations (2/3) - Subchromosomal Deletion Syndromes"
+      "topicName": "Numerical and Structural Chromosomal Alterations (2/3) - Subchromosomal Deletion Syndromes",
+      "tier": "extra"
     },
     {
       "id": "bo43-036",
@@ -6623,7 +6766,8 @@
         "mechanism"
       ],
       "topicId": "subchromosomal-deletion-syndromes",
-      "topicName": "Numerical and Structural Chromosomal Alterations (2/3) - Subchromosomal Deletion Syndromes"
+      "topicName": "Numerical and Structural Chromosomal Alterations (2/3) - Subchromosomal Deletion Syndromes",
+      "tier": "extra"
     },
     {
       "id": "bo44-001",
@@ -6668,7 +6812,8 @@
         "definitions"
       ],
       "topicId": "mosaicism",
-      "topicName": "Mosaicism"
+      "topicName": "Mosaicism",
+      "tier": "core"
     },
     {
       "id": "bo44-002",
@@ -6714,7 +6859,8 @@
         "nondisjunction"
       ],
       "topicId": "mosaicism",
-      "topicName": "Mosaicism"
+      "topicName": "Mosaicism",
+      "tier": "core"
     },
     {
       "id": "bo44-003",
@@ -6760,7 +6906,8 @@
         "DMD"
       ],
       "topicId": "mosaicism",
-      "topicName": "Mosaicism"
+      "topicName": "Mosaicism",
+      "tier": "core"
     },
     {
       "id": "bo44-004",
@@ -6806,7 +6953,8 @@
         "Marfan"
       ],
       "topicId": "mosaicism",
-      "topicName": "Mosaicism"
+      "topicName": "Mosaicism",
+      "tier": "core"
     },
     {
       "id": "bo44-005",
@@ -6851,7 +6999,8 @@
         "germline"
       ],
       "topicId": "mosaicism",
-      "topicName": "Mosaicism"
+      "topicName": "Mosaicism",
+      "tier": "core"
     },
     {
       "id": "bo44-006",
@@ -6897,7 +7046,8 @@
         "recurrence risk"
       ],
       "topicId": "mosaicism",
-      "topicName": "Mosaicism"
+      "topicName": "Mosaicism",
+      "tier": "core"
     },
     {
       "id": "bo44-007",
@@ -6942,7 +7092,8 @@
         "prenatal"
       ],
       "topicId": "mosaicism",
-      "topicName": "Mosaicism"
+      "topicName": "Mosaicism",
+      "tier": "core"
     },
     {
       "id": "bo44-008",
@@ -6987,7 +7138,8 @@
         "XIST"
       ],
       "topicId": "mosaicism",
-      "topicName": "Mosaicism"
+      "topicName": "Mosaicism",
+      "tier": "core"
     },
     {
       "id": "bo44-009",
@@ -7032,7 +7184,8 @@
         "Barr body"
       ],
       "topicId": "mosaicism",
-      "topicName": "Mosaicism"
+      "topicName": "Mosaicism",
+      "tier": "core"
     },
     {
       "id": "bo44-010",
@@ -7078,7 +7231,8 @@
         "structural abnormality"
       ],
       "topicId": "mosaicism",
-      "topicName": "Mosaicism"
+      "topicName": "Mosaicism",
+      "tier": "core"
     },
     {
       "id": "bo44-011",
@@ -7124,7 +7278,8 @@
         "recurrence risk"
       ],
       "topicId": "mosaicism",
-      "topicName": "Mosaicism"
+      "topicName": "Mosaicism",
+      "tier": "core"
     },
     {
       "id": "bo44-012",
@@ -7169,7 +7324,8 @@
         "trisomy 21"
       ],
       "topicId": "mosaicism",
-      "topicName": "Mosaicism"
+      "topicName": "Mosaicism",
+      "tier": "core"
     },
     {
       "id": "bo44-013",
@@ -7215,7 +7371,8 @@
         "nondisjunction"
       ],
       "topicId": "mosaicism",
-      "topicName": "Mosaicism"
+      "topicName": "Mosaicism",
+      "tier": "extra"
     },
     {
       "id": "bo44-014",
@@ -7261,7 +7418,8 @@
         "postnatal"
       ],
       "topicId": "mosaicism",
-      "topicName": "Mosaicism"
+      "topicName": "Mosaicism",
+      "tier": "extra"
     },
     {
       "id": "bo44-015",
@@ -7307,7 +7465,8 @@
         "epidemiology"
       ],
       "topicId": "mosaicism",
-      "topicName": "Mosaicism"
+      "topicName": "Mosaicism",
+      "tier": "extra"
     },
     {
       "id": "bo44-016",
@@ -7352,7 +7511,8 @@
         "mitotic nondisjunction"
       ],
       "topicId": "mosaicism",
-      "topicName": "Mosaicism"
+      "topicName": "Mosaicism",
+      "tier": "extra"
     },
     {
       "id": "bo44-017",
@@ -7398,7 +7558,8 @@
         "types"
       ],
       "topicId": "mosaicism",
-      "topicName": "Mosaicism"
+      "topicName": "Mosaicism",
+      "tier": "extra"
     },
     {
       "id": "bo44-018",
@@ -7444,7 +7605,8 @@
         "inner cell mass"
       ],
       "topicId": "mosaicism",
-      "topicName": "Mosaicism"
+      "topicName": "Mosaicism",
+      "tier": "extra"
     },
     {
       "id": "bo44-019",
@@ -7490,7 +7652,8 @@
         "trisomy"
       ],
       "topicId": "mosaicism",
-      "topicName": "Mosaicism"
+      "topicName": "Mosaicism",
+      "tier": "extra"
     },
     {
       "id": "bo44-020",
@@ -7536,7 +7699,8 @@
         "gametogenesis"
       ],
       "topicId": "mosaicism",
-      "topicName": "Mosaicism"
+      "topicName": "Mosaicism",
+      "tier": "extra"
     },
     {
       "id": "bo44-021",
@@ -7582,7 +7746,8 @@
         "timing"
       ],
       "topicId": "mosaicism",
-      "topicName": "Mosaicism"
+      "topicName": "Mosaicism",
+      "tier": "extra"
     },
     {
       "id": "bo44-022",
@@ -7628,7 +7793,8 @@
         "NF1"
       ],
       "topicId": "mosaicism",
-      "topicName": "Mosaicism"
+      "topicName": "Mosaicism",
+      "tier": "extra"
     },
     {
       "id": "bo44-023",
@@ -7674,7 +7840,8 @@
         "multiple tissues"
       ],
       "topicId": "mosaicism",
-      "topicName": "Mosaicism"
+      "topicName": "Mosaicism",
+      "tier": "extra"
     },
     {
       "id": "bo44-024",
@@ -7721,7 +7888,8 @@
         "counseling"
       ],
       "topicId": "mosaicism",
-      "topicName": "Mosaicism"
+      "topicName": "Mosaicism",
+      "tier": "extra"
     },
     {
       "id": "bo44-025",
@@ -7767,7 +7935,8 @@
         "counseling"
       ],
       "topicId": "mosaicism",
-      "topicName": "Mosaicism"
+      "topicName": "Mosaicism",
+      "tier": "extra"
     },
     {
       "id": "bo44-026",
@@ -7813,7 +7982,8 @@
         "gametes"
       ],
       "topicId": "mosaicism",
-      "topicName": "Mosaicism"
+      "topicName": "Mosaicism",
+      "tier": "extra"
     },
     {
       "id": "bo44-027",
@@ -7859,7 +8029,8 @@
         "NF1"
       ],
       "topicId": "mosaicism",
-      "topicName": "Mosaicism"
+      "topicName": "Mosaicism",
+      "tier": "extra"
     },
     {
       "id": "bo44-028",
@@ -7904,7 +8075,8 @@
         "dosage compensation"
       ],
       "topicId": "mosaicism",
-      "topicName": "Mosaicism"
+      "topicName": "Mosaicism",
+      "tier": "extra"
     },
     {
       "id": "bo44-029",
@@ -7950,7 +8122,8 @@
         "Barr body"
       ],
       "topicId": "mosaicism",
-      "topicName": "Mosaicism"
+      "topicName": "Mosaicism",
+      "tier": "extra"
     },
     {
       "id": "bo44-030",
@@ -7996,7 +8169,8 @@
         "biallelic expression"
       ],
       "topicId": "mosaicism",
-      "topicName": "Mosaicism"
+      "topicName": "Mosaicism",
+      "tier": "extra"
     },
     {
       "id": "bo44-031",
@@ -8042,7 +8216,8 @@
         "Barr body"
       ],
       "topicId": "mosaicism",
-      "topicName": "Mosaicism"
+      "topicName": "Mosaicism",
+      "tier": "extra"
     },
     {
       "id": "bo44-032",
@@ -8088,7 +8263,8 @@
         "distal Xp"
       ],
       "topicId": "mosaicism",
-      "topicName": "Mosaicism"
+      "topicName": "Mosaicism",
+      "tier": "extra"
     },
     {
       "id": "bo44-033",
@@ -8134,7 +8310,8 @@
         "random"
       ],
       "topicId": "mosaicism",
-      "topicName": "Mosaicism"
+      "topicName": "Mosaicism",
+      "tier": "extra"
     },
     {
       "id": "bo44-034",
@@ -8180,7 +8357,8 @@
         "X inactivation"
       ],
       "topicId": "mosaicism",
-      "topicName": "Mosaicism"
+      "topicName": "Mosaicism",
+      "tier": "extra"
     },
     {
       "id": "bo44-035",
@@ -8226,7 +8404,8 @@
         "counseling"
       ],
       "topicId": "mosaicism",
-      "topicName": "Mosaicism"
+      "topicName": "Mosaicism",
+      "tier": "extra"
     },
     {
       "id": "bo44-036",
@@ -8272,7 +8451,8 @@
         "monoallelic expression"
       ],
       "topicId": "mosaicism",
-      "topicName": "Mosaicism"
+      "topicName": "Mosaicism",
+      "tier": "extra"
     },
     {
       "id": "bo45-001",
@@ -8319,7 +8499,8 @@
         "microdeletion"
       ],
       "topicId": "molecular-biology-techniques-cytogenetics",
-      "topicName": "Molecular Biology Techniques (1 of 3) - Cytogenetics"
+      "topicName": "Molecular Biology Techniques (1 of 3) - Cytogenetics",
+      "tier": "core"
     },
     {
       "id": "bo45-002",
@@ -8366,7 +8547,8 @@
         "aneuploidy"
       ],
       "topicId": "molecular-biology-techniques-cytogenetics",
-      "topicName": "Molecular Biology Techniques (1 of 3) - Cytogenetics"
+      "topicName": "Molecular Biology Techniques (1 of 3) - Cytogenetics",
+      "tier": "core"
     },
     {
       "id": "bo45-003",
@@ -8413,7 +8595,8 @@
         "technique steps"
       ],
       "topicId": "molecular-biology-techniques-cytogenetics",
-      "topicName": "Molecular Biology Techniques (1 of 3) - Cytogenetics"
+      "topicName": "Molecular Biology Techniques (1 of 3) - Cytogenetics",
+      "tier": "core"
     },
     {
       "id": "bo45-004",
@@ -8460,7 +8643,8 @@
         "euchromatin"
       ],
       "topicId": "molecular-biology-techniques-cytogenetics",
-      "topicName": "Molecular Biology Techniques (1 of 3) - Cytogenetics"
+      "topicName": "Molecular Biology Techniques (1 of 3) - Cytogenetics",
+      "tier": "core"
     },
     {
       "id": "bo45-005",
@@ -8507,7 +8691,8 @@
         "structural abnormality"
       ],
       "topicId": "molecular-biology-techniques-cytogenetics",
-      "topicName": "Molecular Biology Techniques (1 of 3) - Cytogenetics"
+      "topicName": "Molecular Biology Techniques (1 of 3) - Cytogenetics",
+      "tier": "core"
     },
     {
       "id": "bo45-006",
@@ -8554,7 +8739,8 @@
         "fluorescence ratio"
       ],
       "topicId": "molecular-biology-techniques-cytogenetics",
-      "topicName": "Molecular Biology Techniques (1 of 3) - Cytogenetics"
+      "topicName": "Molecular Biology Techniques (1 of 3) - Cytogenetics",
+      "tier": "core"
     },
     {
       "id": "bo45-007",
@@ -8601,7 +8787,8 @@
         "interpretation"
       ],
       "topicId": "molecular-biology-techniques-cytogenetics",
-      "topicName": "Molecular Biology Techniques (1 of 3) - Cytogenetics"
+      "topicName": "Molecular Biology Techniques (1 of 3) - Cytogenetics",
+      "tier": "core"
     },
     {
       "id": "bo45-008",
@@ -8648,7 +8835,8 @@
         "microdeletion"
       ],
       "topicId": "molecular-biology-techniques-cytogenetics",
-      "topicName": "Molecular Biology Techniques (1 of 3) - Cytogenetics"
+      "topicName": "Molecular Biology Techniques (1 of 3) - Cytogenetics",
+      "tier": "core"
     },
     {
       "id": "bo45-009",
@@ -8695,7 +8883,8 @@
         "FXN"
       ],
       "topicId": "molecular-biology-techniques-cytogenetics",
-      "topicName": "Molecular Biology Techniques (1 of 3) - Cytogenetics"
+      "topicName": "Molecular Biology Techniques (1 of 3) - Cytogenetics",
+      "tier": "core"
     },
     {
       "id": "bo45-010",
@@ -8742,7 +8931,8 @@
         "blotting"
       ],
       "topicId": "molecular-biology-techniques-cytogenetics",
-      "topicName": "Molecular Biology Techniques (1 of 3) - Cytogenetics"
+      "topicName": "Molecular Biology Techniques (1 of 3) - Cytogenetics",
+      "tier": "core"
     },
     {
       "id": "bo45-011",
@@ -8789,7 +8979,8 @@
         "Robertsonian"
       ],
       "topicId": "molecular-biology-techniques-cytogenetics",
-      "topicName": "Molecular Biology Techniques (1 of 3) - Cytogenetics"
+      "topicName": "Molecular Biology Techniques (1 of 3) - Cytogenetics",
+      "tier": "core"
     },
     {
       "id": "bo45-012",
@@ -8836,7 +9027,8 @@
         "limitations"
       ],
       "topicId": "molecular-biology-techniques-cytogenetics",
-      "topicName": "Molecular Biology Techniques (1 of 3) - Cytogenetics"
+      "topicName": "Molecular Biology Techniques (1 of 3) - Cytogenetics",
+      "tier": "core"
     },
     {
       "id": "bo45-013",
@@ -8883,7 +9075,8 @@
         "clinical correlation"
       ],
       "topicId": "molecular-biology-techniques-cytogenetics",
-      "topicName": "Molecular Biology Techniques (1 of 3) - Cytogenetics"
+      "topicName": "Molecular Biology Techniques (1 of 3) - Cytogenetics",
+      "tier": "extra"
     },
     {
       "id": "bo45-014",
@@ -8930,7 +9123,8 @@
         "trisomy 21"
       ],
       "topicId": "molecular-biology-techniques-cytogenetics",
-      "topicName": "Molecular Biology Techniques (1 of 3) - Cytogenetics"
+      "topicName": "Molecular Biology Techniques (1 of 3) - Cytogenetics",
+      "tier": "extra"
     },
     {
       "id": "bo45-015",
@@ -8977,7 +9171,8 @@
         "Down syndrome"
       ],
       "topicId": "molecular-biology-techniques-cytogenetics",
-      "topicName": "Molecular Biology Techniques (1 of 3) - Cytogenetics"
+      "topicName": "Molecular Biology Techniques (1 of 3) - Cytogenetics",
+      "tier": "extra"
     },
     {
       "id": "bo45-016",
@@ -9024,7 +9219,8 @@
         "technique steps"
       ],
       "topicId": "molecular-biology-techniques-cytogenetics",
-      "topicName": "Molecular Biology Techniques (1 of 3) - Cytogenetics"
+      "topicName": "Molecular Biology Techniques (1 of 3) - Cytogenetics",
+      "tier": "extra"
     },
     {
       "id": "bo45-017",
@@ -9071,7 +9267,8 @@
         "history"
       ],
       "topicId": "molecular-biology-techniques-cytogenetics",
-      "topicName": "Molecular Biology Techniques (1 of 3) - Cytogenetics"
+      "topicName": "Molecular Biology Techniques (1 of 3) - Cytogenetics",
+      "tier": "extra"
     },
     {
       "id": "bo45-018",
@@ -9118,7 +9315,8 @@
         "CNV"
       ],
       "topicId": "molecular-biology-techniques-cytogenetics",
-      "topicName": "Molecular Biology Techniques (1 of 3) - Cytogenetics"
+      "topicName": "Molecular Biology Techniques (1 of 3) - Cytogenetics",
+      "tier": "extra"
     },
     {
       "id": "bo45-019",
@@ -9165,7 +9363,8 @@
         "terminology"
       ],
       "topicId": "molecular-biology-techniques-cytogenetics",
-      "topicName": "Molecular Biology Techniques (1 of 3) - Cytogenetics"
+      "topicName": "Molecular Biology Techniques (1 of 3) - Cytogenetics",
+      "tier": "extra"
     },
     {
       "id": "bo45-020",
@@ -9212,7 +9411,8 @@
         "sample preparation"
       ],
       "topicId": "molecular-biology-techniques-cytogenetics",
-      "topicName": "Molecular Biology Techniques (1 of 3) - Cytogenetics"
+      "topicName": "Molecular Biology Techniques (1 of 3) - Cytogenetics",
+      "tier": "extra"
     },
     {
       "id": "bo45-021",
@@ -9259,7 +9459,8 @@
         "location"
       ],
       "topicId": "molecular-biology-techniques-cytogenetics",
-      "topicName": "Molecular Biology Techniques (1 of 3) - Cytogenetics"
+      "topicName": "Molecular Biology Techniques (1 of 3) - Cytogenetics",
+      "tier": "extra"
     },
     {
       "id": "bo45-022",
@@ -9307,7 +9508,8 @@
         "control probe"
       ],
       "topicId": "molecular-biology-techniques-cytogenetics",
-      "topicName": "Molecular Biology Techniques (1 of 3) - Cytogenetics"
+      "topicName": "Molecular Biology Techniques (1 of 3) - Cytogenetics",
+      "tier": "extra"
     },
     {
       "id": "bo45-023",
@@ -9354,7 +9556,8 @@
         "fluorescence"
       ],
       "topicId": "molecular-biology-techniques-cytogenetics",
-      "topicName": "Molecular Biology Techniques (1 of 3) - Cytogenetics"
+      "topicName": "Molecular Biology Techniques (1 of 3) - Cytogenetics",
+      "tier": "extra"
     },
     {
       "id": "bo45-024",
@@ -9402,7 +9605,8 @@
         "technique comparison"
       ],
       "topicId": "molecular-biology-techniques-cytogenetics",
-      "topicName": "Molecular Biology Techniques (1 of 3) - Cytogenetics"
+      "topicName": "Molecular Biology Techniques (1 of 3) - Cytogenetics",
+      "tier": "extra"
     },
     {
       "id": "bo45-025",
@@ -9450,7 +9654,8 @@
         "clinical correlation"
       ],
       "topicId": "molecular-biology-techniques-cytogenetics",
-      "topicName": "Molecular Biology Techniques (1 of 3) - Cytogenetics"
+      "topicName": "Molecular Biology Techniques (1 of 3) - Cytogenetics",
+      "tier": "extra"
     },
     {
       "id": "bo45-026",
@@ -9497,7 +9702,8 @@
         "cancer"
       ],
       "topicId": "molecular-biology-techniques-cytogenetics",
-      "topicName": "Molecular Biology Techniques (1 of 3) - Cytogenetics"
+      "topicName": "Molecular Biology Techniques (1 of 3) - Cytogenetics",
+      "tier": "extra"
     },
     {
       "id": "bo45-027",
@@ -9545,7 +9751,8 @@
         "test selection"
       ],
       "topicId": "molecular-biology-techniques-cytogenetics",
-      "topicName": "Molecular Biology Techniques (1 of 3) - Cytogenetics"
+      "topicName": "Molecular Biology Techniques (1 of 3) - Cytogenetics",
+      "tier": "extra"
     },
     {
       "id": "bo45-028",
@@ -9592,7 +9799,8 @@
         "interpretation"
       ],
       "topicId": "molecular-biology-techniques-cytogenetics",
-      "topicName": "Molecular Biology Techniques (1 of 3) - Cytogenetics"
+      "topicName": "Molecular Biology Techniques (1 of 3) - Cytogenetics",
+      "tier": "extra"
     },
     {
       "id": "bo45-029",
@@ -9639,7 +9847,8 @@
         "sensitivity"
       ],
       "topicId": "molecular-biology-techniques-cytogenetics",
-      "topicName": "Molecular Biology Techniques (1 of 3) - Cytogenetics"
+      "topicName": "Molecular Biology Techniques (1 of 3) - Cytogenetics",
+      "tier": "extra"
     },
     {
       "id": "bo45-030",
@@ -9686,7 +9895,8 @@
         "microdeletion"
       ],
       "topicId": "molecular-biology-techniques-cytogenetics",
-      "topicName": "Molecular Biology Techniques (1 of 3) - Cytogenetics"
+      "topicName": "Molecular Biology Techniques (1 of 3) - Cytogenetics",
+      "tier": "extra"
     },
     {
       "id": "bo45-031",
@@ -9733,7 +9943,8 @@
         "recurrent pregnancy loss"
       ],
       "topicId": "molecular-biology-techniques-cytogenetics",
-      "topicName": "Molecular Biology Techniques (1 of 3) - Cytogenetics"
+      "topicName": "Molecular Biology Techniques (1 of 3) - Cytogenetics",
+      "tier": "extra"
     },
     {
       "id": "bo45-032",
@@ -9780,7 +9991,8 @@
         "electrophoresis"
       ],
       "topicId": "molecular-biology-techniques-cytogenetics",
-      "topicName": "Molecular Biology Techniques (1 of 3) - Cytogenetics"
+      "topicName": "Molecular Biology Techniques (1 of 3) - Cytogenetics",
+      "tier": "extra"
     },
     {
       "id": "bo45-033",
@@ -9827,7 +10039,8 @@
         "technique comparison"
       ],
       "topicId": "molecular-biology-techniques-cytogenetics",
-      "topicName": "Molecular Biology Techniques (1 of 3) - Cytogenetics"
+      "topicName": "Molecular Biology Techniques (1 of 3) - Cytogenetics",
+      "tier": "extra"
     },
     {
       "id": "bo45-034",
@@ -9875,7 +10088,8 @@
         "GAA repeat"
       ],
       "topicId": "molecular-biology-techniques-cytogenetics",
-      "topicName": "Molecular Biology Techniques (1 of 3) - Cytogenetics"
+      "topicName": "Molecular Biology Techniques (1 of 3) - Cytogenetics",
+      "tier": "extra"
     },
     {
       "id": "bo45-035",
@@ -9922,7 +10136,8 @@
         "age of onset"
       ],
       "topicId": "molecular-biology-techniques-cytogenetics",
-      "topicName": "Molecular Biology Techniques (1 of 3) - Cytogenetics"
+      "topicName": "Molecular Biology Techniques (1 of 3) - Cytogenetics",
+      "tier": "extra"
     },
     {
       "id": "bo45-036",
@@ -9970,7 +10185,8 @@
         "GAA repeat"
       ],
       "topicId": "molecular-biology-techniques-cytogenetics",
-      "topicName": "Molecular Biology Techniques (1 of 3) - Cytogenetics"
+      "topicName": "Molecular Biology Techniques (1 of 3) - Cytogenetics",
+      "tier": "extra"
     }
   ]
 }

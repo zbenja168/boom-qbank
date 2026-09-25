@@ -46,7 +46,8 @@
         "UMPS"
       ],
       "topicId": "nitrogenous-base-metabolism",
-      "topicName": "Nitrogenous Base Metabolism"
+      "topicName": "Nitrogenous Base Metabolism",
+      "tier": "core"
     },
     {
       "id": "bo07-002",
@@ -92,7 +93,8 @@
         "uridine"
       ],
       "topicId": "nitrogenous-base-metabolism",
-      "topicName": "Nitrogenous Base Metabolism"
+      "topicName": "Nitrogenous Base Metabolism",
+      "tier": "core"
     },
     {
       "id": "bo07-003",
@@ -138,7 +140,8 @@
         "orotic aciduria"
       ],
       "topicId": "nitrogenous-base-metabolism",
-      "topicName": "Nitrogenous Base Metabolism"
+      "topicName": "Nitrogenous Base Metabolism",
+      "tier": "core"
     },
     {
       "id": "bo07-004",
@@ -184,7 +187,8 @@
         "uric acid"
       ],
       "topicId": "nitrogenous-base-metabolism",
-      "topicName": "Nitrogenous Base Metabolism"
+      "topicName": "Nitrogenous Base Metabolism",
+      "tier": "core"
     },
     {
       "id": "bo07-005",
@@ -230,7 +234,8 @@
         "xanthine oxidase"
       ],
       "topicId": "nitrogenous-base-metabolism",
-      "topicName": "Nitrogenous Base Metabolism"
+      "topicName": "Nitrogenous Base Metabolism",
+      "tier": "core"
     },
     {
       "id": "bo07-006",
@@ -276,7 +281,8 @@
         "inflammation"
       ],
       "topicId": "nitrogenous-base-metabolism",
-      "topicName": "Nitrogenous Base Metabolism"
+      "topicName": "Nitrogenous Base Metabolism",
+      "tier": "core"
     },
     {
       "id": "bo07-007",
@@ -322,7 +328,8 @@
         "purine salvage"
       ],
       "topicId": "nitrogenous-base-metabolism",
-      "topicName": "Nitrogenous Base Metabolism"
+      "topicName": "Nitrogenous Base Metabolism",
+      "tier": "core"
     },
     {
       "id": "bo07-008",
@@ -368,7 +375,8 @@
         "purine degradation"
       ],
       "topicId": "nitrogenous-base-metabolism",
-      "topicName": "Nitrogenous Base Metabolism"
+      "topicName": "Nitrogenous Base Metabolism",
+      "tier": "core"
     },
     {
       "id": "bo07-009",
@@ -414,7 +422,8 @@
         "glutamine PRPP amidotransferase"
       ],
       "topicId": "nitrogenous-base-metabolism",
-      "topicName": "Nitrogenous Base Metabolism"
+      "topicName": "Nitrogenous Base Metabolism",
+      "tier": "core"
     },
     {
       "id": "bo07-010",
@@ -460,7 +469,8 @@
         "thioredoxin"
       ],
       "topicId": "nitrogenous-base-metabolism",
-      "topicName": "Nitrogenous Base Metabolism"
+      "topicName": "Nitrogenous Base Metabolism",
+      "tier": "core"
     },
     {
       "id": "bo07-011",
@@ -506,7 +516,8 @@
         "UMP"
       ],
       "topicId": "nitrogenous-base-metabolism",
-      "topicName": "Nitrogenous Base Metabolism"
+      "topicName": "Nitrogenous Base Metabolism",
+      "tier": "core"
     },
     {
       "id": "bo07-012",
@@ -552,7 +563,8 @@
         "purine synthesis"
       ],
       "topicId": "nitrogenous-base-metabolism",
-      "topicName": "Nitrogenous Base Metabolism"
+      "topicName": "Nitrogenous Base Metabolism",
+      "tier": "core"
     },
     {
       "id": "bo07-013",
@@ -598,7 +610,8 @@
         "nomenclature"
       ],
       "topicId": "nitrogenous-base-metabolism",
-      "topicName": "Nitrogenous Base Metabolism"
+      "topicName": "Nitrogenous Base Metabolism",
+      "tier": "extra"
     },
     {
       "id": "bo07-014",
@@ -644,7 +657,8 @@
         "nucleotide structure"
       ],
       "topicId": "nitrogenous-base-metabolism",
-      "topicName": "Nitrogenous Base Metabolism"
+      "topicName": "Nitrogenous Base Metabolism",
+      "tier": "extra"
     },
     {
       "id": "bo07-015",
@@ -690,7 +704,8 @@
         "SCID"
       ],
       "topicId": "nitrogenous-base-metabolism",
-      "topicName": "Nitrogenous Base Metabolism"
+      "topicName": "Nitrogenous Base Metabolism",
+      "tier": "extra"
     },
     {
       "id": "bo07-016",
@@ -736,7 +751,8 @@
         "nucleotide functions"
       ],
       "topicId": "nitrogenous-base-metabolism",
-      "topicName": "Nitrogenous Base Metabolism"
+      "topicName": "Nitrogenous Base Metabolism",
+      "tier": "extra"
     },
     {
       "id": "bo07-017",
@@ -782,7 +798,8 @@
         "committed step"
       ],
       "topicId": "nitrogenous-base-metabolism",
-      "topicName": "Nitrogenous Base Metabolism"
+      "topicName": "Nitrogenous Base Metabolism",
+      "tier": "extra"
     },
     {
       "id": "bo07-018",
@@ -828,7 +845,8 @@
         "initial therapy"
       ],
       "topicId": "nitrogenous-base-metabolism",
-      "topicName": "Nitrogenous Base Metabolism"
+      "topicName": "Nitrogenous Base Metabolism",
+      "tier": "extra"
     },
     {
       "id": "bo07-019",
@@ -874,7 +892,8 @@
         "GMP"
       ],
       "topicId": "nitrogenous-base-metabolism",
-      "topicName": "Nitrogenous Base Metabolism"
+      "topicName": "Nitrogenous Base Metabolism",
+      "tier": "extra"
     },
     {
       "id": "bo07-020",
@@ -920,7 +939,8 @@
         "purine salvage"
       ],
       "topicId": "nitrogenous-base-metabolism",
-      "topicName": "Nitrogenous Base Metabolism"
+      "topicName": "Nitrogenous Base Metabolism",
+      "tier": "extra"
     },
     {
       "id": "bo07-021",
@@ -966,7 +986,8 @@
         "6-thiouric acid"
       ],
       "topicId": "nitrogenous-base-metabolism",
-      "topicName": "Nitrogenous Base Metabolism"
+      "topicName": "Nitrogenous Base Metabolism",
+      "tier": "extra"
     },
     {
       "id": "bo07-022",
@@ -1012,7 +1033,8 @@
         "regulation"
       ],
       "topicId": "nitrogenous-base-metabolism",
-      "topicName": "Nitrogenous Base Metabolism"
+      "topicName": "Nitrogenous Base Metabolism",
+      "tier": "extra"
     },
     {
       "id": "bo07-023",
@@ -1058,7 +1080,8 @@
         "carbamoyl phosphate"
       ],
       "topicId": "nitrogenous-base-metabolism",
-      "topicName": "Nitrogenous Base Metabolism"
+      "topicName": "Nitrogenous Base Metabolism",
+      "tier": "extra"
     },
     {
       "id": "bo07-024",
@@ -1104,7 +1127,8 @@
         "folate"
       ],
       "topicId": "nitrogenous-base-metabolism",
-      "topicName": "Nitrogenous Base Metabolism"
+      "topicName": "Nitrogenous Base Metabolism",
+      "tier": "extra"
     },
     {
       "id": "bo07-025",
@@ -1150,7 +1174,8 @@
         "folate"
       ],
       "topicId": "nitrogenous-base-metabolism",
-      "topicName": "Nitrogenous Base Metabolism"
+      "topicName": "Nitrogenous Base Metabolism",
+      "tier": "extra"
     },
     {
       "id": "bo07-026",
@@ -1196,7 +1221,8 @@
         "dTMP"
       ],
       "topicId": "nitrogenous-base-metabolism",
-      "topicName": "Nitrogenous Base Metabolism"
+      "topicName": "Nitrogenous Base Metabolism",
+      "tier": "extra"
     },
     {
       "id": "bo07-027",
@@ -1242,7 +1268,8 @@
         "UMP"
       ],
       "topicId": "nitrogenous-base-metabolism",
-      "topicName": "Nitrogenous Base Metabolism"
+      "topicName": "Nitrogenous Base Metabolism",
+      "tier": "extra"
     },
     {
       "id": "bo07-028",
@@ -1288,7 +1315,8 @@
         "prodrug"
       ],
       "topicId": "nitrogenous-base-metabolism",
-      "topicName": "Nitrogenous Base Metabolism"
+      "topicName": "Nitrogenous Base Metabolism",
+      "tier": "extra"
     },
     {
       "id": "bo07-029",
@@ -1334,7 +1362,8 @@
         "prodrug"
       ],
       "topicId": "nitrogenous-base-metabolism",
-      "topicName": "Nitrogenous Base Metabolism"
+      "topicName": "Nitrogenous Base Metabolism",
+      "tier": "extra"
     },
     {
       "id": "bo07-030",
@@ -1380,7 +1409,8 @@
         "uric acid"
       ],
       "topicId": "nitrogenous-base-metabolism",
-      "topicName": "Nitrogenous Base Metabolism"
+      "topicName": "Nitrogenous Base Metabolism",
+      "tier": "extra"
     },
     {
       "id": "bo07-031",
@@ -1426,7 +1456,8 @@
         "overproduction"
       ],
       "topicId": "nitrogenous-base-metabolism",
-      "topicName": "Nitrogenous Base Metabolism"
+      "topicName": "Nitrogenous Base Metabolism",
+      "tier": "extra"
     },
     {
       "id": "bo07-032",
@@ -1472,7 +1503,8 @@
         "temperature"
       ],
       "topicId": "nitrogenous-base-metabolism",
-      "topicName": "Nitrogenous Base Metabolism"
+      "topicName": "Nitrogenous Base Metabolism",
+      "tier": "extra"
     },
     {
       "id": "bo07-033",
@@ -1518,7 +1550,8 @@
         "gout"
       ],
       "topicId": "nitrogenous-base-metabolism",
-      "topicName": "Nitrogenous Base Metabolism"
+      "topicName": "Nitrogenous Base Metabolism",
+      "tier": "extra"
     },
     {
       "id": "bo07-034",
@@ -1564,7 +1597,8 @@
         "AMP"
       ],
       "topicId": "nitrogenous-base-metabolism",
-      "topicName": "Nitrogenous Base Metabolism"
+      "topicName": "Nitrogenous Base Metabolism",
+      "tier": "extra"
     },
     {
       "id": "bo07-035",
@@ -1610,7 +1644,8 @@
         "antidiuretic hormone"
       ],
       "topicId": "nitrogenous-base-metabolism",
-      "topicName": "Nitrogenous Base Metabolism"
+      "topicName": "Nitrogenous Base Metabolism",
+      "tier": "extra"
     },
     {
       "id": "bo07-036",
@@ -1656,7 +1691,8 @@
         "uric acid kidney stones"
       ],
       "topicId": "nitrogenous-base-metabolism",
-      "topicName": "Nitrogenous Base Metabolism"
+      "topicName": "Nitrogenous Base Metabolism",
+      "tier": "extra"
     },
     {
       "id": "bo08-001",
@@ -1702,7 +1738,8 @@
         "xeroderma pigmentosum"
       ],
       "topicId": "dna-damage-and-dna-repair-mechanism",
-      "topicName": "DNA Damage and DNA Repair Mechanism"
+      "topicName": "DNA Damage and DNA Repair Mechanism",
+      "tier": "core"
     },
     {
       "id": "bo08-002",
@@ -1748,7 +1785,8 @@
         "DNA damage"
       ],
       "topicId": "dna-damage-and-dna-repair-mechanism",
-      "topicName": "DNA Damage and DNA Repair Mechanism"
+      "topicName": "DNA Damage and DNA Repair Mechanism",
+      "tier": "core"
     },
     {
       "id": "bo08-003",
@@ -1794,7 +1832,8 @@
         "MSH2"
       ],
       "topicId": "dna-damage-and-dna-repair-mechanism",
-      "topicName": "DNA Damage and DNA Repair Mechanism"
+      "topicName": "DNA Damage and DNA Repair Mechanism",
+      "tier": "core"
     },
     {
       "id": "bo08-004",
@@ -1840,7 +1879,8 @@
         "AP site"
       ],
       "topicId": "dna-damage-and-dna-repair-mechanism",
-      "topicName": "DNA Damage and DNA Repair Mechanism"
+      "topicName": "DNA Damage and DNA Repair Mechanism",
+      "tier": "core"
     },
     {
       "id": "bo08-005",
@@ -1886,7 +1926,8 @@
         "methylation"
       ],
       "topicId": "dna-damage-and-dna-repair-mechanism",
-      "topicName": "DNA Damage and DNA Repair Mechanism"
+      "topicName": "DNA Damage and DNA Repair Mechanism",
+      "tier": "core"
     },
     {
       "id": "bo08-006",
@@ -1932,7 +1973,8 @@
         "double-strand break"
       ],
       "topicId": "dna-damage-and-dna-repair-mechanism",
-      "topicName": "DNA Damage and DNA Repair Mechanism"
+      "topicName": "DNA Damage and DNA Repair Mechanism",
+      "tier": "core"
     },
     {
       "id": "bo08-007",
@@ -1978,7 +2020,8 @@
         "double-strand break repair"
       ],
       "topicId": "dna-damage-and-dna-repair-mechanism",
-      "topicName": "DNA Damage and DNA Repair Mechanism"
+      "topicName": "DNA Damage and DNA Repair Mechanism",
+      "tier": "core"
     },
     {
       "id": "bo08-008",
@@ -2024,7 +2067,8 @@
         "interstrand crosslink"
       ],
       "topicId": "dna-damage-and-dna-repair-mechanism",
-      "topicName": "DNA Damage and DNA Repair Mechanism"
+      "topicName": "DNA Damage and DNA Repair Mechanism",
+      "tier": "core"
     },
     {
       "id": "bo08-009",
@@ -2070,7 +2114,8 @@
         "oxidative damage"
       ],
       "topicId": "dna-damage-and-dna-repair-mechanism",
-      "topicName": "DNA Damage and DNA Repair Mechanism"
+      "topicName": "DNA Damage and DNA Repair Mechanism",
+      "tier": "core"
     },
     {
       "id": "bo08-010",
@@ -2116,7 +2161,8 @@
         "ataxia-telangiectasia"
       ],
       "topicId": "dna-damage-and-dna-repair-mechanism",
-      "topicName": "DNA Damage and DNA Repair Mechanism"
+      "topicName": "DNA Damage and DNA Repair Mechanism",
+      "tier": "core"
     },
     {
       "id": "bo08-011",
@@ -2162,7 +2208,8 @@
         "pyrimidine dimer"
       ],
       "topicId": "dna-damage-and-dna-repair-mechanism",
-      "topicName": "DNA Damage and DNA Repair Mechanism"
+      "topicName": "DNA Damage and DNA Repair Mechanism",
+      "tier": "core"
     },
     {
       "id": "bo08-012",
@@ -2208,7 +2255,8 @@
         "carcinogens"
       ],
       "topicId": "dna-damage-and-dna-repair-mechanism",
-      "topicName": "DNA Damage and DNA Repair Mechanism"
+      "topicName": "DNA Damage and DNA Repair Mechanism",
+      "tier": "core"
     },
     {
       "id": "bo08-013",
@@ -2254,7 +2302,8 @@
         "DNA damage response"
       ],
       "topicId": "dna-damage-and-dna-repair-mechanism",
-      "topicName": "DNA Damage and DNA Repair Mechanism"
+      "topicName": "DNA Damage and DNA Repair Mechanism",
+      "tier": "extra"
     },
     {
       "id": "bo08-014",
@@ -2300,7 +2349,8 @@
         "DNA lesion"
       ],
       "topicId": "dna-damage-and-dna-repair-mechanism",
-      "topicName": "DNA Damage and DNA Repair Mechanism"
+      "topicName": "DNA Damage and DNA Repair Mechanism",
+      "tier": "extra"
     },
     {
       "id": "bo08-015",
@@ -2346,7 +2396,8 @@
         "Nijmegen Breakage Syndrome"
       ],
       "topicId": "dna-damage-and-dna-repair-mechanism",
-      "topicName": "DNA Damage and DNA Repair Mechanism"
+      "topicName": "DNA Damage and DNA Repair Mechanism",
+      "tier": "extra"
     },
     {
       "id": "bo08-016",
@@ -2392,7 +2443,8 @@
         "genomic instability"
       ],
       "topicId": "dna-damage-and-dna-repair-mechanism",
-      "topicName": "DNA Damage and DNA Repair Mechanism"
+      "topicName": "DNA Damage and DNA Repair Mechanism",
+      "tier": "extra"
     },
     {
       "id": "bo08-017",
@@ -2438,7 +2490,8 @@
         "melanoma"
       ],
       "topicId": "dna-damage-and-dna-repair-mechanism",
-      "topicName": "DNA Damage and DNA Repair Mechanism"
+      "topicName": "DNA Damage and DNA Repair Mechanism",
+      "tier": "extra"
     },
     {
       "id": "bo08-018",
@@ -2484,7 +2537,8 @@
         "substitution mutation"
       ],
       "topicId": "dna-damage-and-dna-repair-mechanism",
-      "topicName": "DNA Damage and DNA Repair Mechanism"
+      "topicName": "DNA Damage and DNA Repair Mechanism",
+      "tier": "extra"
     },
     {
       "id": "bo08-019",
@@ -2530,7 +2584,8 @@
         "interstrand crosslink"
       ],
       "topicId": "dna-damage-and-dna-repair-mechanism",
-      "topicName": "DNA Damage and DNA Repair Mechanism"
+      "topicName": "DNA Damage and DNA Repair Mechanism",
+      "tier": "extra"
     },
     {
       "id": "bo08-020",
@@ -2576,7 +2631,8 @@
         "carboplatin"
       ],
       "topicId": "dna-damage-and-dna-repair-mechanism",
-      "topicName": "DNA Damage and DNA Repair Mechanism"
+      "topicName": "DNA Damage and DNA Repair Mechanism",
+      "tier": "extra"
     },
     {
       "id": "bo08-021",
@@ -2622,7 +2678,8 @@
         "cisplatin"
       ],
       "topicId": "dna-damage-and-dna-repair-mechanism",
-      "topicName": "DNA Damage and DNA Repair Mechanism"
+      "topicName": "DNA Damage and DNA Repair Mechanism",
+      "tier": "extra"
     },
     {
       "id": "bo08-022",
@@ -2668,7 +2725,8 @@
         "metabolic activation"
       ],
       "topicId": "dna-damage-and-dna-repair-mechanism",
-      "topicName": "DNA Damage and DNA Repair Mechanism"
+      "topicName": "DNA Damage and DNA Repair Mechanism",
+      "tier": "extra"
     },
     {
       "id": "bo08-023",
@@ -2714,7 +2772,8 @@
         "methyl-dG"
       ],
       "topicId": "dna-damage-and-dna-repair-mechanism",
-      "topicName": "DNA Damage and DNA Repair Mechanism"
+      "topicName": "DNA Damage and DNA Repair Mechanism",
+      "tier": "extra"
     },
     {
       "id": "bo08-024",
@@ -2760,7 +2819,8 @@
         "oxidation"
       ],
       "topicId": "dna-damage-and-dna-repair-mechanism",
-      "topicName": "DNA Damage and DNA Repair Mechanism"
+      "topicName": "DNA Damage and DNA Repair Mechanism",
+      "tier": "extra"
     },
     {
       "id": "bo08-025",
@@ -2806,7 +2866,8 @@
         "cisplatin"
       ],
       "topicId": "dna-damage-and-dna-repair-mechanism",
-      "topicName": "DNA Damage and DNA Repair Mechanism"
+      "topicName": "DNA Damage and DNA Repair Mechanism",
+      "tier": "extra"
     },
     {
       "id": "bo08-026",
@@ -2852,7 +2913,8 @@
         "radiation shielding"
       ],
       "topicId": "dna-damage-and-dna-repair-mechanism",
-      "topicName": "DNA Damage and DNA Repair Mechanism"
+      "topicName": "DNA Damage and DNA Repair Mechanism",
+      "tier": "extra"
     },
     {
       "id": "bo08-027",
@@ -2898,7 +2960,8 @@
         "abasic site"
       ],
       "topicId": "dna-damage-and-dna-repair-mechanism",
-      "topicName": "DNA Damage and DNA Repair Mechanism"
+      "topicName": "DNA Damage and DNA Repair Mechanism",
+      "tier": "extra"
     },
     {
       "id": "bo08-028",
@@ -2944,7 +3007,8 @@
         "lyase"
       ],
       "topicId": "dna-damage-and-dna-repair-mechanism",
-      "topicName": "DNA Damage and DNA Repair Mechanism"
+      "topicName": "DNA Damage and DNA Repair Mechanism",
+      "tier": "extra"
     },
     {
       "id": "bo08-029",
@@ -2990,7 +3054,8 @@
         "uvr genes"
       ],
       "topicId": "dna-damage-and-dna-repair-mechanism",
-      "topicName": "DNA Damage and DNA Repair Mechanism"
+      "topicName": "DNA Damage and DNA Repair Mechanism",
+      "tier": "extra"
     },
     {
       "id": "bo08-030",
@@ -3036,7 +3101,8 @@
         "S and G2 phases"
       ],
       "topicId": "dna-damage-and-dna-repair-mechanism",
-      "topicName": "DNA Damage and DNA Repair Mechanism"
+      "topicName": "DNA Damage and DNA Repair Mechanism",
+      "tier": "extra"
     },
     {
       "id": "bo08-031",
@@ -3082,7 +3148,8 @@
         "S phase"
       ],
       "topicId": "dna-damage-and-dna-repair-mechanism",
-      "topicName": "DNA Damage and DNA Repair Mechanism"
+      "topicName": "DNA Damage and DNA Repair Mechanism",
+      "tier": "extra"
     },
     {
       "id": "bo08-032",
@@ -3128,7 +3195,8 @@
         "pyrimidine dimer"
       ],
       "topicId": "dna-damage-and-dna-repair-mechanism",
-      "topicName": "DNA Damage and DNA Repair Mechanism"
+      "topicName": "DNA Damage and DNA Repair Mechanism",
+      "tier": "extra"
     },
     {
       "id": "bo08-033",
@@ -3174,7 +3242,8 @@
         "mismatch repair"
       ],
       "topicId": "dna-damage-and-dna-repair-mechanism",
-      "topicName": "DNA Damage and DNA Repair Mechanism"
+      "topicName": "DNA Damage and DNA Repair Mechanism",
+      "tier": "extra"
     },
     {
       "id": "bo08-034",
@@ -3220,7 +3289,8 @@
         "homologous recombination"
       ],
       "topicId": "dna-damage-and-dna-repair-mechanism",
-      "topicName": "DNA Damage and DNA Repair Mechanism"
+      "topicName": "DNA Damage and DNA Repair Mechanism",
+      "tier": "extra"
     },
     {
       "id": "bo08-035",
@@ -3266,7 +3336,8 @@
         "SCID"
       ],
       "topicId": "dna-damage-and-dna-repair-mechanism",
-      "topicName": "DNA Damage and DNA Repair Mechanism"
+      "topicName": "DNA Damage and DNA Repair Mechanism",
+      "tier": "extra"
     },
     {
       "id": "bo08-036",
@@ -3312,7 +3383,8 @@
         "double-strand break repair"
       ],
       "topicId": "dna-damage-and-dna-repair-mechanism",
-      "topicName": "DNA Damage and DNA Repair Mechanism"
+      "topicName": "DNA Damage and DNA Repair Mechanism",
+      "tier": "extra"
     },
     {
       "id": "bo09-001",
@@ -3358,7 +3430,8 @@
         "sugar"
       ],
       "topicId": "dna-structure",
-      "topicName": "DNA Structure"
+      "topicName": "DNA Structure",
+      "tier": "core"
     },
     {
       "id": "bo09-002",
@@ -3404,7 +3477,8 @@
         "melting temperature"
       ],
       "topicId": "dna-structure",
-      "topicName": "DNA Structure"
+      "topicName": "DNA Structure",
+      "tier": "core"
     },
     {
       "id": "bo09-003",
@@ -3450,7 +3524,8 @@
         "polarity"
       ],
       "topicId": "dna-structure",
-      "topicName": "DNA Structure"
+      "topicName": "DNA Structure",
+      "tier": "core"
     },
     {
       "id": "bo09-004",
@@ -3496,7 +3571,8 @@
         "helix"
       ],
       "topicId": "dna-structure",
-      "topicName": "DNA Structure"
+      "topicName": "DNA Structure",
+      "tier": "core"
     },
     {
       "id": "bo09-005",
@@ -3542,7 +3618,8 @@
         "helix"
       ],
       "topicId": "dna-structure",
-      "topicName": "DNA Structure"
+      "topicName": "DNA Structure",
+      "tier": "core"
     },
     {
       "id": "bo09-006",
@@ -3588,7 +3665,8 @@
         "charge"
       ],
       "topicId": "dna-structure",
-      "topicName": "DNA Structure"
+      "topicName": "DNA Structure",
+      "tier": "core"
     },
     {
       "id": "bo09-007",
@@ -3634,7 +3712,8 @@
         "nucleosome"
       ],
       "topicId": "dna-structure",
-      "topicName": "DNA Structure"
+      "topicName": "DNA Structure",
+      "tier": "core"
     },
     {
       "id": "bo09-008",
@@ -3680,7 +3759,8 @@
         "chromatin"
       ],
       "topicId": "dna-structure",
-      "topicName": "DNA Structure"
+      "topicName": "DNA Structure",
+      "tier": "core"
     },
     {
       "id": "bo09-009",
@@ -3726,7 +3806,8 @@
         "gene expression"
       ],
       "topicId": "dna-structure",
-      "topicName": "DNA Structure"
+      "topicName": "DNA Structure",
+      "tier": "core"
     },
     {
       "id": "bo09-010",
@@ -3772,7 +3853,8 @@
         "epigenetics"
       ],
       "topicId": "dna-structure",
-      "topicName": "DNA Structure"
+      "topicName": "DNA Structure",
+      "tier": "core"
     },
     {
       "id": "bo09-011",
@@ -3818,7 +3900,8 @@
         "diploid"
       ],
       "topicId": "dna-structure",
-      "topicName": "DNA Structure"
+      "topicName": "DNA Structure",
+      "tier": "core"
     },
     {
       "id": "bo09-012",
@@ -3864,7 +3947,8 @@
         "cell cycle"
       ],
       "topicId": "dna-structure",
-      "topicName": "DNA Structure"
+      "topicName": "DNA Structure",
+      "tier": "core"
     },
     {
       "id": "bo09-013",
@@ -3910,7 +3994,8 @@
         "nitrogenous base"
       ],
       "topicId": "dna-structure",
-      "topicName": "DNA Structure"
+      "topicName": "DNA Structure",
+      "tier": "extra"
     },
     {
       "id": "bo09-014",
@@ -3956,7 +4041,8 @@
         "phosphate"
       ],
       "topicId": "dna-structure",
-      "topicName": "DNA Structure"
+      "topicName": "DNA Structure",
+      "tier": "extra"
     },
     {
       "id": "bo09-015",
@@ -4002,7 +4088,8 @@
         "pyrimidine"
       ],
       "topicId": "dna-structure",
-      "topicName": "DNA Structure"
+      "topicName": "DNA Structure",
+      "tier": "extra"
     },
     {
       "id": "bo09-016",
@@ -4048,7 +4135,8 @@
         "3' carbon"
       ],
       "topicId": "dna-structure",
-      "topicName": "DNA Structure"
+      "topicName": "DNA Structure",
+      "tier": "extra"
     },
     {
       "id": "bo09-017",
@@ -4094,7 +4182,8 @@
         "0.34 nm"
       ],
       "topicId": "dna-structure",
-      "topicName": "DNA Structure"
+      "topicName": "DNA Structure",
+      "tier": "extra"
     },
     {
       "id": "bo09-018",
@@ -4140,7 +4229,8 @@
         "helix"
       ],
       "topicId": "dna-structure",
-      "topicName": "DNA Structure"
+      "topicName": "DNA Structure",
+      "tier": "extra"
     },
     {
       "id": "bo09-019",
@@ -4186,7 +4276,8 @@
         "complementary strands"
       ],
       "topicId": "dna-structure",
-      "topicName": "DNA Structure"
+      "topicName": "DNA Structure",
+      "tier": "extra"
     },
     {
       "id": "bo09-020",
@@ -4233,7 +4324,8 @@
         "transcription rate"
       ],
       "topicId": "dna-structure",
-      "topicName": "DNA Structure"
+      "topicName": "DNA Structure",
+      "tier": "extra"
     },
     {
       "id": "bo09-021",
@@ -4279,7 +4371,8 @@
         "Watson and Crick"
       ],
       "topicId": "dna-structure",
-      "topicName": "DNA Structure"
+      "topicName": "DNA Structure",
+      "tier": "extra"
     },
     {
       "id": "bo09-022",
@@ -4325,7 +4418,8 @@
         "H2A H2B H3 H4"
       ],
       "topicId": "dna-structure",
-      "topicName": "DNA Structure"
+      "topicName": "DNA Structure",
+      "tier": "extra"
     },
     {
       "id": "bo09-023",
@@ -4371,7 +4465,8 @@
         "histone tail"
       ],
       "topicId": "dna-structure",
-      "topicName": "DNA Structure"
+      "topicName": "DNA Structure",
+      "tier": "extra"
     },
     {
       "id": "bo09-024",
@@ -4417,7 +4512,8 @@
         "30 nm"
       ],
       "topicId": "dna-structure",
-      "topicName": "DNA Structure"
+      "topicName": "DNA Structure",
+      "tier": "extra"
     },
     {
       "id": "bo09-025",
@@ -4463,7 +4559,8 @@
         "metaphase chromosome"
       ],
       "topicId": "dna-structure",
-      "topicName": "DNA Structure"
+      "topicName": "DNA Structure",
+      "tier": "extra"
     },
     {
       "id": "bo09-026",
@@ -4509,7 +4606,8 @@
         "transcription"
       ],
       "topicId": "dna-structure",
-      "topicName": "DNA Structure"
+      "topicName": "DNA Structure",
+      "tier": "extra"
     },
     {
       "id": "bo09-027",
@@ -4555,7 +4653,8 @@
         "gene expression"
       ],
       "topicId": "dna-structure",
-      "topicName": "DNA Structure"
+      "topicName": "DNA Structure",
+      "tier": "extra"
     },
     {
       "id": "bo09-028",
@@ -4601,7 +4700,8 @@
         "H3 H4 H1"
       ],
       "topicId": "dna-structure",
-      "topicName": "DNA Structure"
+      "topicName": "DNA Structure",
+      "tier": "extra"
     },
     {
       "id": "bo09-029",
@@ -4647,7 +4747,8 @@
         "cell cycle"
       ],
       "topicId": "dna-structure",
-      "topicName": "DNA Structure"
+      "topicName": "DNA Structure",
+      "tier": "extra"
     },
     {
       "id": "bo09-030",
@@ -4693,7 +4794,8 @@
         "phenotype"
       ],
       "topicId": "dna-structure",
-      "topicName": "DNA Structure"
+      "topicName": "DNA Structure",
+      "tier": "extra"
     },
     {
       "id": "bo09-031",
@@ -4739,7 +4841,8 @@
         "embryonic development"
       ],
       "topicId": "dna-structure",
-      "topicName": "DNA Structure"
+      "topicName": "DNA Structure",
+      "tier": "extra"
     },
     {
       "id": "bo09-032",
@@ -4785,7 +4888,8 @@
         "nuclear envelope"
       ],
       "topicId": "dna-structure",
-      "topicName": "DNA Structure"
+      "topicName": "DNA Structure",
+      "tier": "extra"
     },
     {
       "id": "bo09-033",
@@ -4831,7 +4935,8 @@
         "diagnosis"
       ],
       "topicId": "dna-structure",
-      "topicName": "DNA Structure"
+      "topicName": "DNA Structure",
+      "tier": "extra"
     },
     {
       "id": "bo09-034",
@@ -4877,7 +4982,8 @@
         "diploid"
       ],
       "topicId": "dna-structure",
-      "topicName": "DNA Structure"
+      "topicName": "DNA Structure",
+      "tier": "extra"
     },
     {
       "id": "bo09-035",
@@ -4923,7 +5029,8 @@
         "S phase"
       ],
       "topicId": "dna-structure",
-      "topicName": "DNA Structure"
+      "topicName": "DNA Structure",
+      "tier": "extra"
     },
     {
       "id": "bo09-036",
@@ -4969,7 +5076,8 @@
         "assortment"
       ],
       "topicId": "dna-structure",
-      "topicName": "DNA Structure"
+      "topicName": "DNA Structure",
+      "tier": "extra"
     },
     {
       "id": "bo10-001",
@@ -5014,7 +5122,8 @@
         "overview"
       ],
       "topicId": "dna-replication",
-      "topicName": "DNA Replication"
+      "topicName": "DNA Replication",
+      "tier": "core"
     },
     {
       "id": "bo10-002",
@@ -5059,7 +5168,8 @@
         "base-pairing"
       ],
       "topicId": "dna-replication",
-      "topicName": "DNA Replication"
+      "topicName": "DNA Replication",
+      "tier": "core"
     },
     {
       "id": "bo10-003",
@@ -5105,7 +5215,8 @@
         "DNA-polymerase"
       ],
       "topicId": "dna-replication",
-      "topicName": "DNA Replication"
+      "topicName": "DNA Replication",
+      "tier": "core"
     },
     {
       "id": "bo10-004",
@@ -5150,7 +5261,8 @@
         "replication-fork"
       ],
       "topicId": "dna-replication",
-      "topicName": "DNA Replication"
+      "topicName": "DNA Replication",
+      "tier": "core"
     },
     {
       "id": "bo10-005",
@@ -5195,7 +5307,8 @@
         "supercoiling"
       ],
       "topicId": "dna-replication",
-      "topicName": "DNA Replication"
+      "topicName": "DNA Replication",
+      "tier": "core"
     },
     {
       "id": "bo10-006",
@@ -5241,7 +5354,8 @@
         "DNA-polymerase"
       ],
       "topicId": "dna-replication",
-      "topicName": "DNA Replication"
+      "topicName": "DNA Replication",
+      "tier": "core"
     },
     {
       "id": "bo10-007",
@@ -5287,7 +5401,8 @@
         "antiparallel"
       ],
       "topicId": "dna-replication",
-      "topicName": "DNA Replication"
+      "topicName": "DNA Replication",
+      "tier": "core"
     },
     {
       "id": "bo10-008",
@@ -5333,7 +5448,8 @@
         "DNA-polymerase"
       ],
       "topicId": "dna-replication",
-      "topicName": "DNA Replication"
+      "topicName": "DNA Replication",
+      "tier": "core"
     },
     {
       "id": "bo10-009",
@@ -5379,7 +5495,8 @@
         "processivity"
       ],
       "topicId": "dna-replication",
-      "topicName": "DNA Replication"
+      "topicName": "DNA Replication",
+      "tier": "core"
     },
     {
       "id": "bo10-010",
@@ -5425,7 +5542,8 @@
         "lagging-strand"
       ],
       "topicId": "dna-replication",
-      "topicName": "DNA Replication"
+      "topicName": "DNA Replication",
+      "tier": "core"
     },
     {
       "id": "bo10-011",
@@ -5471,7 +5589,8 @@
         "Okazaki-fragments"
       ],
       "topicId": "dna-replication",
-      "topicName": "DNA Replication"
+      "topicName": "DNA Replication",
+      "tier": "core"
     },
     {
       "id": "bo10-012",
@@ -5517,7 +5636,8 @@
         "fidelity"
       ],
       "topicId": "dna-replication",
-      "topicName": "DNA Replication"
+      "topicName": "DNA Replication",
+      "tier": "core"
     },
     {
       "id": "bo10-013",
@@ -5563,7 +5683,8 @@
         "initiation"
       ],
       "topicId": "dna-replication",
-      "topicName": "DNA Replication"
+      "topicName": "DNA Replication",
+      "tier": "extra"
     },
     {
       "id": "bo10-014",
@@ -5609,7 +5730,8 @@
         "ori-site"
       ],
       "topicId": "dna-replication",
-      "topicName": "DNA Replication"
+      "topicName": "DNA Replication",
+      "tier": "extra"
     },
     {
       "id": "bo10-015",
@@ -5655,7 +5777,8 @@
         "supercoiling"
       ],
       "topicId": "dna-replication",
-      "topicName": "DNA Replication"
+      "topicName": "DNA Replication",
+      "tier": "extra"
     },
     {
       "id": "bo10-016",
@@ -5701,7 +5824,8 @@
         "pyrophosphate"
       ],
       "topicId": "dna-replication",
-      "topicName": "DNA Replication"
+      "topicName": "DNA Replication",
+      "tier": "extra"
     },
     {
       "id": "bo10-017",
@@ -5747,7 +5871,8 @@
         "replication-fork"
       ],
       "topicId": "dna-replication",
-      "topicName": "DNA Replication"
+      "topicName": "DNA Replication",
+      "tier": "extra"
     },
     {
       "id": "bo10-018",
@@ -5793,7 +5918,8 @@
         "RNA-primer"
       ],
       "topicId": "dna-replication",
-      "topicName": "DNA Replication"
+      "topicName": "DNA Replication",
+      "tier": "extra"
     },
     {
       "id": "bo10-019",
@@ -5839,7 +5965,8 @@
         "DNA-polymerase"
       ],
       "topicId": "dna-replication",
-      "topicName": "DNA Replication"
+      "topicName": "DNA Replication",
+      "tier": "extra"
     },
     {
       "id": "bo10-020",
@@ -5885,7 +6012,8 @@
         "bidirectional"
       ],
       "topicId": "dna-replication",
-      "topicName": "DNA Replication"
+      "topicName": "DNA Replication",
+      "tier": "extra"
     },
     {
       "id": "bo10-021",
@@ -5931,7 +6059,8 @@
         "semi-discontinuous"
       ],
       "topicId": "dna-replication",
-      "topicName": "DNA Replication"
+      "topicName": "DNA Replication",
+      "tier": "extra"
     },
     {
       "id": "bo10-022",
@@ -5977,7 +6106,8 @@
         "numbers"
       ],
       "topicId": "dna-replication",
-      "topicName": "DNA Replication"
+      "topicName": "DNA Replication",
+      "tier": "extra"
     },
     {
       "id": "bo10-023",
@@ -6023,7 +6153,8 @@
         "Pol-alpha-delta-epsilon"
       ],
       "topicId": "dna-replication",
-      "topicName": "DNA Replication"
+      "topicName": "DNA Replication",
+      "tier": "extra"
     },
     {
       "id": "bo10-024",
@@ -6069,7 +6200,8 @@
         "proofreading"
       ],
       "topicId": "dna-replication",
-      "topicName": "DNA Replication"
+      "topicName": "DNA Replication",
+      "tier": "extra"
     },
     {
       "id": "bo10-025",
@@ -6115,7 +6247,8 @@
         "cystic-fibrosis"
       ],
       "topicId": "dna-replication",
-      "topicName": "DNA Replication"
+      "topicName": "DNA Replication",
+      "tier": "extra"
     },
     {
       "id": "bo10-026",
@@ -6161,7 +6294,8 @@
         "proofreading"
       ],
       "topicId": "dna-replication",
-      "topicName": "DNA Replication"
+      "topicName": "DNA Replication",
+      "tier": "extra"
     },
     {
       "id": "bo10-027",
@@ -6207,7 +6341,8 @@
         "definitions"
       ],
       "topicId": "dna-replication",
-      "topicName": "DNA Replication"
+      "topicName": "DNA Replication",
+      "tier": "extra"
     },
     {
       "id": "bo10-028",
@@ -6253,7 +6388,8 @@
         "complementarity"
       ],
       "topicId": "dna-replication",
-      "topicName": "DNA Replication"
+      "topicName": "DNA Replication",
+      "tier": "extra"
     },
     {
       "id": "bo10-029",
@@ -6299,7 +6435,8 @@
         "terminology"
       ],
       "topicId": "dna-replication",
-      "topicName": "DNA Replication"
+      "topicName": "DNA Replication",
+      "tier": "extra"
     },
     {
       "id": "bo10-030",
@@ -6345,7 +6482,8 @@
         "lagging-strand"
       ],
       "topicId": "dna-replication",
-      "topicName": "DNA Replication"
+      "topicName": "DNA Replication",
+      "tier": "extra"
     },
     {
       "id": "bo10-031",
@@ -6391,7 +6529,8 @@
         "Okazaki-fragments"
       ],
       "topicId": "dna-replication",
-      "topicName": "DNA Replication"
+      "topicName": "DNA Replication",
+      "tier": "extra"
     },
     {
       "id": "bo10-032",
@@ -6437,7 +6576,8 @@
         "lagging-strand"
       ],
       "topicId": "dna-replication",
-      "topicName": "DNA Replication"
+      "topicName": "DNA Replication",
+      "tier": "extra"
     },
     {
       "id": "bo10-033",
@@ -6484,7 +6624,8 @@
         "primer-removal"
       ],
       "topicId": "dna-replication",
-      "topicName": "DNA Replication"
+      "topicName": "DNA Replication",
+      "tier": "extra"
     },
     {
       "id": "bo10-034",
@@ -6530,7 +6671,8 @@
         "hydrogen-bonds"
       ],
       "topicId": "dna-replication",
-      "topicName": "DNA Replication"
+      "topicName": "DNA Replication",
+      "tier": "extra"
     },
     {
       "id": "bo10-035",
@@ -6576,7 +6718,8 @@
         "fork-progression"
       ],
       "topicId": "dna-replication",
-      "topicName": "DNA Replication"
+      "topicName": "DNA Replication",
+      "tier": "extra"
     },
     {
       "id": "bo10-036",
@@ -6622,7 +6765,8 @@
         "clinical-correlation"
       ],
       "topicId": "dna-replication",
-      "topicName": "DNA Replication"
+      "topicName": "DNA Replication",
+      "tier": "extra"
     },
     {
       "id": "bo11-001",
@@ -6669,7 +6813,8 @@
         "pharmacology"
       ],
       "topicId": "the-central-dogma-dna-to-rna-to-proteins",
-      "topicName": "The Central Dogma: DNA to RNA to Proteins"
+      "topicName": "The Central Dogma: DNA to RNA to Proteins",
+      "tier": "core"
     },
     {
       "id": "bo11-002",
@@ -6716,7 +6861,8 @@
         "gene regulation"
       ],
       "topicId": "the-central-dogma-dna-to-rna-to-proteins",
-      "topicName": "The Central Dogma: DNA to RNA to Proteins"
+      "topicName": "The Central Dogma: DNA to RNA to Proteins",
+      "tier": "core"
     },
     {
       "id": "bo11-003",
@@ -6763,7 +6909,8 @@
         "gene expression"
       ],
       "topicId": "the-central-dogma-dna-to-rna-to-proteins",
-      "topicName": "The Central Dogma: DNA to RNA to Proteins"
+      "topicName": "The Central Dogma: DNA to RNA to Proteins",
+      "tier": "core"
     },
     {
       "id": "bo11-004",
@@ -6810,7 +6957,8 @@
         "directionality"
       ],
       "topicId": "the-central-dogma-dna-to-rna-to-proteins",
-      "topicName": "The Central Dogma: DNA to RNA to Proteins"
+      "topicName": "The Central Dogma: DNA to RNA to Proteins",
+      "tier": "core"
     },
     {
       "id": "bo11-005",
@@ -6857,7 +7005,8 @@
         "exonuclease"
       ],
       "topicId": "the-central-dogma-dna-to-rna-to-proteins",
-      "topicName": "The Central Dogma: DNA to RNA to Proteins"
+      "topicName": "The Central Dogma: DNA to RNA to Proteins",
+      "tier": "core"
     },
     {
       "id": "bo11-006",
@@ -6904,7 +7053,8 @@
         "mRNA stability"
       ],
       "topicId": "the-central-dogma-dna-to-rna-to-proteins",
-      "topicName": "The Central Dogma: DNA to RNA to Proteins"
+      "topicName": "The Central Dogma: DNA to RNA to Proteins",
+      "tier": "core"
     },
     {
       "id": "bo11-007",
@@ -6951,7 +7101,8 @@
         "spliceosome"
       ],
       "topicId": "the-central-dogma-dna-to-rna-to-proteins",
-      "topicName": "The Central Dogma: DNA to RNA to Proteins"
+      "topicName": "The Central Dogma: DNA to RNA to Proteins",
+      "tier": "core"
     },
     {
       "id": "bo11-008",
@@ -6998,7 +7149,8 @@
         "immunoglobulin"
       ],
       "topicId": "the-central-dogma-dna-to-rna-to-proteins",
-      "topicName": "The Central Dogma: DNA to RNA to Proteins"
+      "topicName": "The Central Dogma: DNA to RNA to Proteins",
+      "tier": "core"
     },
     {
       "id": "bo11-009",
@@ -7045,7 +7197,8 @@
         "fidelity"
       ],
       "topicId": "the-central-dogma-dna-to-rna-to-proteins",
-      "topicName": "The Central Dogma: DNA to RNA to Proteins"
+      "topicName": "The Central Dogma: DNA to RNA to Proteins",
+      "tier": "core"
     },
     {
       "id": "bo11-010",
@@ -7093,7 +7246,8 @@
         "P site"
       ],
       "topicId": "the-central-dogma-dna-to-rna-to-proteins",
-      "topicName": "The Central Dogma: DNA to RNA to Proteins"
+      "topicName": "The Central Dogma: DNA to RNA to Proteins",
+      "tier": "core"
     },
     {
       "id": "bo11-011",
@@ -7140,7 +7294,8 @@
         "tRNA"
       ],
       "topicId": "the-central-dogma-dna-to-rna-to-proteins",
-      "topicName": "The Central Dogma: DNA to RNA to Proteins"
+      "topicName": "The Central Dogma: DNA to RNA to Proteins",
+      "tier": "core"
     },
     {
       "id": "bo11-012",
@@ -7187,7 +7342,8 @@
         "SARS-CoV-2"
       ],
       "topicId": "the-central-dogma-dna-to-rna-to-proteins",
-      "topicName": "The Central Dogma: DNA to RNA to Proteins"
+      "topicName": "The Central Dogma: DNA to RNA to Proteins",
+      "tier": "core"
     },
     {
       "id": "bo11-013",
@@ -7234,7 +7390,8 @@
         "termination"
       ],
       "topicId": "the-central-dogma-dna-to-rna-to-proteins",
-      "topicName": "The Central Dogma: DNA to RNA to Proteins"
+      "topicName": "The Central Dogma: DNA to RNA to Proteins",
+      "tier": "extra"
     },
     {
       "id": "bo11-014",
@@ -7281,7 +7438,8 @@
         "genome"
       ],
       "topicId": "the-central-dogma-dna-to-rna-to-proteins",
-      "topicName": "The Central Dogma: DNA to RNA to Proteins"
+      "topicName": "The Central Dogma: DNA to RNA to Proteins",
+      "tier": "extra"
     },
     {
       "id": "bo11-015",
@@ -7327,7 +7485,8 @@
         "pre-mRNA"
       ],
       "topicId": "the-central-dogma-dna-to-rna-to-proteins",
-      "topicName": "The Central Dogma: DNA to RNA to Proteins"
+      "topicName": "The Central Dogma: DNA to RNA to Proteins",
+      "tier": "extra"
     },
     {
       "id": "bo11-016",
@@ -7374,7 +7533,8 @@
         "promoter numbering"
       ],
       "topicId": "the-central-dogma-dna-to-rna-to-proteins",
-      "topicName": "The Central Dogma: DNA to RNA to Proteins"
+      "topicName": "The Central Dogma: DNA to RNA to Proteins",
+      "tier": "extra"
     },
     {
       "id": "bo11-017",
@@ -7421,7 +7581,8 @@
         "gene regulation"
       ],
       "topicId": "the-central-dogma-dna-to-rna-to-proteins",
-      "topicName": "The Central Dogma: DNA to RNA to Proteins"
+      "topicName": "The Central Dogma: DNA to RNA to Proteins",
+      "tier": "extra"
     },
     {
       "id": "bo11-018",
@@ -7468,7 +7629,8 @@
         "distal regulation"
       ],
       "topicId": "the-central-dogma-dna-to-rna-to-proteins",
-      "topicName": "The Central Dogma: DNA to RNA to Proteins"
+      "topicName": "The Central Dogma: DNA to RNA to Proteins",
+      "tier": "extra"
     },
     {
       "id": "bo11-019",
@@ -7515,7 +7677,8 @@
         "RNA processing"
       ],
       "topicId": "the-central-dogma-dna-to-rna-to-proteins",
-      "topicName": "The Central Dogma: DNA to RNA to Proteins"
+      "topicName": "The Central Dogma: DNA to RNA to Proteins",
+      "tier": "extra"
     },
     {
       "id": "bo11-020",
@@ -7561,7 +7724,8 @@
         "5' cap"
       ],
       "topicId": "the-central-dogma-dna-to-rna-to-proteins",
-      "topicName": "The Central Dogma: DNA to RNA to Proteins"
+      "topicName": "The Central Dogma: DNA to RNA to Proteins",
+      "tier": "extra"
     },
     {
       "id": "bo11-021",
@@ -7608,7 +7772,8 @@
         "triphosphate bridge"
       ],
       "topicId": "the-central-dogma-dna-to-rna-to-proteins",
-      "topicName": "The Central Dogma: DNA to RNA to Proteins"
+      "topicName": "The Central Dogma: DNA to RNA to Proteins",
+      "tier": "extra"
     },
     {
       "id": "bo11-022",
@@ -7655,7 +7820,8 @@
         "protein targeting"
       ],
       "topicId": "the-central-dogma-dna-to-rna-to-proteins",
-      "topicName": "The Central Dogma: DNA to RNA to Proteins"
+      "topicName": "The Central Dogma: DNA to RNA to Proteins",
+      "tier": "extra"
     },
     {
       "id": "bo11-023",
@@ -7702,7 +7868,8 @@
         "mRNA stability"
       ],
       "topicId": "the-central-dogma-dna-to-rna-to-proteins",
-      "topicName": "The Central Dogma: DNA to RNA to Proteins"
+      "topicName": "The Central Dogma: DNA to RNA to Proteins",
+      "tier": "extra"
     },
     {
       "id": "bo11-024",
@@ -7749,7 +7916,8 @@
         "poly(A) polymerase"
       ],
       "topicId": "the-central-dogma-dna-to-rna-to-proteins",
-      "topicName": "The Central Dogma: DNA to RNA to Proteins"
+      "topicName": "The Central Dogma: DNA to RNA to Proteins",
+      "tier": "extra"
     },
     {
       "id": "bo11-025",
@@ -7796,7 +7964,8 @@
         "branch point"
       ],
       "topicId": "the-central-dogma-dna-to-rna-to-proteins",
-      "topicName": "The Central Dogma: DNA to RNA to Proteins"
+      "topicName": "The Central Dogma: DNA to RNA to Proteins",
+      "tier": "extra"
     },
     {
       "id": "bo11-026",
@@ -7843,7 +8012,8 @@
         "splicing"
       ],
       "topicId": "the-central-dogma-dna-to-rna-to-proteins",
-      "topicName": "The Central Dogma: DNA to RNA to Proteins"
+      "topicName": "The Central Dogma: DNA to RNA to Proteins",
+      "tier": "extra"
     },
     {
       "id": "bo11-027",
@@ -7890,7 +8060,8 @@
         "exon joining"
       ],
       "topicId": "the-central-dogma-dna-to-rna-to-proteins",
-      "topicName": "The Central Dogma: DNA to RNA to Proteins"
+      "topicName": "The Central Dogma: DNA to RNA to Proteins",
+      "tier": "extra"
     },
     {
       "id": "bo11-028",
@@ -7937,7 +8108,8 @@
         "gene expression"
       ],
       "topicId": "the-central-dogma-dna-to-rna-to-proteins",
-      "topicName": "The Central Dogma: DNA to RNA to Proteins"
+      "topicName": "The Central Dogma: DNA to RNA to Proteins",
+      "tier": "extra"
     },
     {
       "id": "bo11-029",
@@ -7984,7 +8156,8 @@
         "tryptophan"
       ],
       "topicId": "the-central-dogma-dna-to-rna-to-proteins",
-      "topicName": "The Central Dogma: DNA to RNA to Proteins"
+      "topicName": "The Central Dogma: DNA to RNA to Proteins",
+      "tier": "extra"
     },
     {
       "id": "bo11-030",
@@ -8031,7 +8204,8 @@
         "HIV"
       ],
       "topicId": "the-central-dogma-dna-to-rna-to-proteins",
-      "topicName": "The Central Dogma: DNA to RNA to Proteins"
+      "topicName": "The Central Dogma: DNA to RNA to Proteins",
+      "tier": "extra"
     },
     {
       "id": "bo11-031",
@@ -8078,7 +8252,8 @@
         "aminoacyl-tRNA synthetase"
       ],
       "topicId": "the-central-dogma-dna-to-rna-to-proteins",
-      "topicName": "The Central Dogma: DNA to RNA to Proteins"
+      "topicName": "The Central Dogma: DNA to RNA to Proteins",
+      "tier": "extra"
     },
     {
       "id": "bo11-032",
@@ -8125,7 +8300,8 @@
         "ATP"
       ],
       "topicId": "the-central-dogma-dna-to-rna-to-proteins",
-      "topicName": "The Central Dogma: DNA to RNA to Proteins"
+      "topicName": "The Central Dogma: DNA to RNA to Proteins",
+      "tier": "extra"
     },
     {
       "id": "bo11-033",
@@ -8172,7 +8348,8 @@
         "40S subunit"
       ],
       "topicId": "the-central-dogma-dna-to-rna-to-proteins",
-      "topicName": "The Central Dogma: DNA to RNA to Proteins"
+      "topicName": "The Central Dogma: DNA to RNA to Proteins",
+      "tier": "extra"
     },
     {
       "id": "bo11-034",
@@ -8219,7 +8396,8 @@
         "elongation factor"
       ],
       "topicId": "the-central-dogma-dna-to-rna-to-proteins",
-      "topicName": "The Central Dogma: DNA to RNA to Proteins"
+      "topicName": "The Central Dogma: DNA to RNA to Proteins",
+      "tier": "extra"
     },
     {
       "id": "bo11-035",
@@ -8266,7 +8444,8 @@
         "stop codon"
       ],
       "topicId": "the-central-dogma-dna-to-rna-to-proteins",
-      "topicName": "The Central Dogma: DNA to RNA to Proteins"
+      "topicName": "The Central Dogma: DNA to RNA to Proteins",
+      "tier": "extra"
     },
     {
       "id": "bo11-036",
@@ -8313,7 +8492,8 @@
         "protein targeting"
       ],
       "topicId": "the-central-dogma-dna-to-rna-to-proteins",
-      "topicName": "The Central Dogma: DNA to RNA to Proteins"
+      "topicName": "The Central Dogma: DNA to RNA to Proteins",
+      "tier": "extra"
     },
     {
       "id": "bo12-001",
@@ -8359,7 +8539,8 @@
         "genetic code redundancy"
       ],
       "topicId": "dna-point-mutations",
-      "topicName": "DNA Point Mutations"
+      "topicName": "DNA Point Mutations",
+      "tier": "core"
     },
     {
       "id": "bo12-002",
@@ -8406,7 +8587,8 @@
         "CFTR"
       ],
       "topicId": "dna-point-mutations",
-      "topicName": "DNA Point Mutations"
+      "topicName": "DNA Point Mutations",
+      "tier": "core"
     },
     {
       "id": "bo12-003",
@@ -8453,7 +8635,8 @@
         "amino acid properties"
       ],
       "topicId": "dna-point-mutations",
-      "topicName": "DNA Point Mutations"
+      "topicName": "DNA Point Mutations",
+      "tier": "core"
     },
     {
       "id": "bo12-004",
@@ -8499,7 +8682,8 @@
         "reading frame"
       ],
       "topicId": "dna-point-mutations",
-      "topicName": "DNA Point Mutations"
+      "topicName": "DNA Point Mutations",
+      "tier": "core"
     },
     {
       "id": "bo12-005",
@@ -8546,7 +8730,8 @@
         "CFTR"
       ],
       "topicId": "dna-point-mutations",
-      "topicName": "DNA Point Mutations"
+      "topicName": "DNA Point Mutations",
+      "tier": "core"
     },
     {
       "id": "bo12-006",
@@ -8592,7 +8777,8 @@
         "intron retention"
       ],
       "topicId": "dna-point-mutations",
-      "topicName": "DNA Point Mutations"
+      "topicName": "DNA Point Mutations",
+      "tier": "core"
     },
     {
       "id": "bo12-007",
@@ -8638,7 +8824,8 @@
         "exon skipping"
       ],
       "topicId": "dna-point-mutations",
-      "topicName": "DNA Point Mutations"
+      "topicName": "DNA Point Mutations",
+      "tier": "core"
     },
     {
       "id": "bo12-008",
@@ -8684,7 +8871,8 @@
         "mosaicism"
       ],
       "topicId": "dna-point-mutations",
-      "topicName": "DNA Point Mutations"
+      "topicName": "DNA Point Mutations",
+      "tier": "core"
     },
     {
       "id": "bo12-009",
@@ -8731,7 +8919,8 @@
         "inheritance"
       ],
       "topicId": "dna-point-mutations",
-      "topicName": "DNA Point Mutations"
+      "topicName": "DNA Point Mutations",
+      "tier": "core"
     },
     {
       "id": "bo12-010",
@@ -8778,7 +8967,8 @@
         "gene dosage"
       ],
       "topicId": "dna-point-mutations",
-      "topicName": "DNA Point Mutations"
+      "topicName": "DNA Point Mutations",
+      "tier": "core"
     },
     {
       "id": "bo12-011",
@@ -8824,7 +9014,8 @@
         "protein interference"
       ],
       "topicId": "dna-point-mutations",
-      "topicName": "DNA Point Mutations"
+      "topicName": "DNA Point Mutations",
+      "tier": "core"
     },
     {
       "id": "bo12-012",
@@ -8870,7 +9061,8 @@
         "regulation"
       ],
       "topicId": "dna-point-mutations",
-      "topicName": "DNA Point Mutations"
+      "topicName": "DNA Point Mutations",
+      "tier": "core"
     },
     {
       "id": "bo12-013",
@@ -8916,7 +9108,8 @@
         "mutation origin"
       ],
       "topicId": "dna-point-mutations",
-      "topicName": "DNA Point Mutations"
+      "topicName": "DNA Point Mutations",
+      "tier": "extra"
     },
     {
       "id": "bo12-014",
@@ -8962,7 +9155,8 @@
         "mosaic phenotype"
       ],
       "topicId": "dna-point-mutations",
-      "topicName": "DNA Point Mutations"
+      "topicName": "DNA Point Mutations",
+      "tier": "extra"
     },
     {
       "id": "bo12-015",
@@ -9008,7 +9202,8 @@
         "developmental timing"
       ],
       "topicId": "dna-point-mutations",
-      "topicName": "DNA Point Mutations"
+      "topicName": "DNA Point Mutations",
+      "tier": "extra"
     },
     {
       "id": "bo12-016",
@@ -9054,7 +9249,8 @@
         "sex cells"
       ],
       "topicId": "dna-point-mutations",
-      "topicName": "DNA Point Mutations"
+      "topicName": "DNA Point Mutations",
+      "tier": "extra"
     },
     {
       "id": "bo12-017",
@@ -9101,7 +9297,8 @@
         "Table 1"
       ],
       "topicId": "dna-point-mutations",
-      "topicName": "DNA Point Mutations"
+      "topicName": "DNA Point Mutations",
+      "tier": "extra"
     },
     {
       "id": "bo12-018",
@@ -9148,7 +9345,8 @@
         "experimental evidence"
       ],
       "topicId": "dna-point-mutations",
-      "topicName": "DNA Point Mutations"
+      "topicName": "DNA Point Mutations",
+      "tier": "extra"
     },
     {
       "id": "bo12-019",
@@ -9194,7 +9392,8 @@
         "six frames"
       ],
       "topicId": "dna-point-mutations",
-      "topicName": "DNA Point Mutations"
+      "topicName": "DNA Point Mutations",
+      "tier": "extra"
     },
     {
       "id": "bo12-020",
@@ -9241,7 +9440,8 @@
         "translation"
       ],
       "topicId": "dna-point-mutations",
-      "topicName": "DNA Point Mutations"
+      "topicName": "DNA Point Mutations",
+      "tier": "extra"
     },
     {
       "id": "bo12-021",
@@ -9287,7 +9487,8 @@
         "consequences of mutations"
       ],
       "topicId": "dna-point-mutations",
-      "topicName": "DNA Point Mutations"
+      "topicName": "DNA Point Mutations",
+      "tier": "extra"
     },
     {
       "id": "bo12-022",
@@ -9333,7 +9534,8 @@
         "lysine to arginine"
       ],
       "topicId": "dna-point-mutations",
-      "topicName": "DNA Point Mutations"
+      "topicName": "DNA Point Mutations",
+      "tier": "extra"
     },
     {
       "id": "bo12-023",
@@ -9379,7 +9581,8 @@
         "protein shape equals function"
       ],
       "topicId": "dna-point-mutations",
-      "topicName": "DNA Point Mutations"
+      "topicName": "DNA Point Mutations",
+      "tier": "extra"
     },
     {
       "id": "bo12-024",
@@ -9425,7 +9628,8 @@
         "point mutation severity"
       ],
       "topicId": "dna-point-mutations",
-      "topicName": "DNA Point Mutations"
+      "topicName": "DNA Point Mutations",
+      "tier": "extra"
     },
     {
       "id": "bo12-025",
@@ -9472,7 +9676,8 @@
         "missense"
       ],
       "topicId": "dna-point-mutations",
-      "topicName": "DNA Point Mutations"
+      "topicName": "DNA Point Mutations",
+      "tier": "extra"
     },
     {
       "id": "bo12-026",
@@ -9518,7 +9723,8 @@
         "adaptation"
       ],
       "topicId": "dna-point-mutations",
-      "topicName": "DNA Point Mutations"
+      "topicName": "DNA Point Mutations",
+      "tier": "extra"
     },
     {
       "id": "bo12-027",
@@ -9564,7 +9770,8 @@
         "Figure 4"
       ],
       "topicId": "dna-point-mutations",
-      "topicName": "DNA Point Mutations"
+      "topicName": "DNA Point Mutations",
+      "tier": "extra"
     },
     {
       "id": "bo12-028",
@@ -9610,7 +9817,8 @@
         "Figure 4"
       ],
       "topicId": "dna-point-mutations",
-      "topicName": "DNA Point Mutations"
+      "topicName": "DNA Point Mutations",
+      "tier": "extra"
     },
     {
       "id": "bo12-029",
@@ -9657,7 +9865,8 @@
         "intron boundaries"
       ],
       "topicId": "dna-point-mutations",
-      "topicName": "DNA Point Mutations"
+      "topicName": "DNA Point Mutations",
+      "tier": "extra"
     },
     {
       "id": "bo12-030",
@@ -9704,7 +9913,8 @@
         "reading frame"
       ],
       "topicId": "dna-point-mutations",
-      "topicName": "DNA Point Mutations"
+      "topicName": "DNA Point Mutations",
+      "tier": "extra"
     },
     {
       "id": "bo12-031",
@@ -9750,7 +9960,8 @@
         "variable severity"
       ],
       "topicId": "dna-point-mutations",
-      "topicName": "DNA Point Mutations"
+      "topicName": "DNA Point Mutations",
+      "tier": "extra"
     },
     {
       "id": "bo12-032",
@@ -9797,7 +10008,8 @@
         "sickle-cell anemia"
       ],
       "topicId": "dna-point-mutations",
-      "topicName": "DNA Point Mutations"
+      "topicName": "DNA Point Mutations",
+      "tier": "extra"
     },
     {
       "id": "bo12-033",
@@ -9843,7 +10055,8 @@
         "protein half-life"
       ],
       "topicId": "dna-point-mutations",
-      "topicName": "DNA Point Mutations"
+      "topicName": "DNA Point Mutations",
+      "tier": "extra"
     },
     {
       "id": "bo12-034",
@@ -9889,7 +10102,8 @@
         "premature stop near start codon"
       ],
       "topicId": "dna-point-mutations",
-      "topicName": "DNA Point Mutations"
+      "topicName": "DNA Point Mutations",
+      "tier": "extra"
     },
     {
       "id": "bo12-035",
@@ -9936,7 +10150,8 @@
         "50% sufficient"
       ],
       "topicId": "dna-point-mutations",
-      "topicName": "DNA Point Mutations"
+      "topicName": "DNA Point Mutations",
+      "tier": "extra"
     },
     {
       "id": "bo12-036",
@@ -9982,7 +10197,8 @@
         "UAA UGA UAG"
       ],
       "topicId": "dna-point-mutations",
-      "topicName": "DNA Point Mutations"
+      "topicName": "DNA Point Mutations",
+      "tier": "extra"
     },
     {
       "id": "bo13-001",
@@ -10028,7 +10244,8 @@
         "pellagra"
       ],
       "topicId": "proteins-enzymatic-machines-protein-based-disorders-i",
-      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I"
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I",
+      "tier": "core"
     },
     {
       "id": "bo13-002",
@@ -10074,7 +10291,8 @@
         "salt bridge"
       ],
       "topicId": "proteins-enzymatic-machines-protein-based-disorders-i",
-      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I"
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I",
+      "tier": "core"
     },
     {
       "id": "bo13-003",
@@ -10120,7 +10338,8 @@
         "oncogenesis"
       ],
       "topicId": "proteins-enzymatic-machines-protein-based-disorders-i",
-      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I"
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I",
+      "tier": "core"
     },
     {
       "id": "bo13-004",
@@ -10167,7 +10386,8 @@
         "vitamin C"
       ],
       "topicId": "proteins-enzymatic-machines-protein-based-disorders-i",
-      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I"
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I",
+      "tier": "core"
     },
     {
       "id": "bo13-005",
@@ -10213,7 +10433,8 @@
         "asparagine"
       ],
       "topicId": "proteins-enzymatic-machines-protein-based-disorders-i",
-      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I"
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I",
+      "tier": "core"
     },
     {
       "id": "bo13-006",
@@ -10259,7 +10480,8 @@
         "lysine"
       ],
       "topicId": "proteins-enzymatic-machines-protein-based-disorders-i",
-      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I"
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I",
+      "tier": "core"
     },
     {
       "id": "bo13-007",
@@ -10306,7 +10528,8 @@
         "apoptosis"
       ],
       "topicId": "proteins-enzymatic-machines-protein-based-disorders-i",
-      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I"
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I",
+      "tier": "core"
     },
     {
       "id": "bo13-008",
@@ -10352,7 +10575,8 @@
         "peptide bond"
       ],
       "topicId": "proteins-enzymatic-machines-protein-based-disorders-i",
-      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I"
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I",
+      "tier": "core"
     },
     {
       "id": "bo13-009",
@@ -10398,7 +10622,8 @@
         "hydrogen bonds"
       ],
       "topicId": "proteins-enzymatic-machines-protein-based-disorders-i",
-      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I"
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I",
+      "tier": "core"
     },
     {
       "id": "bo13-010",
@@ -10445,7 +10670,8 @@
         "coagulation"
       ],
       "topicId": "proteins-enzymatic-machines-protein-based-disorders-i",
-      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I"
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I",
+      "tier": "core"
     },
     {
       "id": "bo13-011",
@@ -10491,7 +10717,8 @@
         "heme"
       ],
       "topicId": "proteins-enzymatic-machines-protein-based-disorders-i",
-      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I"
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I",
+      "tier": "core"
     },
     {
       "id": "bo13-012",
@@ -10538,7 +10765,8 @@
         "influenza"
       ],
       "topicId": "proteins-enzymatic-machines-protein-based-disorders-i",
-      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I"
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I",
+      "tier": "core"
     },
     {
       "id": "bo13-013",
@@ -10584,7 +10812,8 @@
         "R-side chain"
       ],
       "topicId": "proteins-enzymatic-machines-protein-based-disorders-i",
-      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I"
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I",
+      "tier": "extra"
     },
     {
       "id": "bo13-014",
@@ -10630,7 +10859,8 @@
         "amino acids"
       ],
       "topicId": "proteins-enzymatic-machines-protein-based-disorders-i",
-      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I"
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I",
+      "tier": "extra"
     },
     {
       "id": "bo13-015",
@@ -10676,7 +10906,8 @@
         "protein synthesis"
       ],
       "topicId": "proteins-enzymatic-machines-protein-based-disorders-i",
-      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I"
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I",
+      "tier": "extra"
     },
     {
       "id": "bo13-016",
@@ -10722,7 +10953,8 @@
         "magnesium"
       ],
       "topicId": "proteins-enzymatic-machines-protein-based-disorders-i",
-      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I"
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I",
+      "tier": "extra"
     },
     {
       "id": "bo13-017",
@@ -10769,7 +11001,8 @@
         "side chain charge"
       ],
       "topicId": "proteins-enzymatic-machines-protein-based-disorders-i",
-      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I"
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I",
+      "tier": "extra"
     },
     {
       "id": "bo13-018",
@@ -10816,7 +11049,8 @@
         "physiological pH"
       ],
       "topicId": "proteins-enzymatic-machines-protein-based-disorders-i",
-      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I"
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I",
+      "tier": "extra"
     },
     {
       "id": "bo13-019",
@@ -10862,7 +11096,8 @@
         "R-group"
       ],
       "topicId": "proteins-enzymatic-machines-protein-based-disorders-i",
-      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I"
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I",
+      "tier": "extra"
     },
     {
       "id": "bo13-020",
@@ -10909,7 +11144,8 @@
         "FADH2"
       ],
       "topicId": "proteins-enzymatic-machines-protein-based-disorders-i",
-      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I"
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I",
+      "tier": "extra"
     },
     {
       "id": "bo13-021",
@@ -10956,7 +11192,8 @@
         "4 D's"
       ],
       "topicId": "proteins-enzymatic-machines-protein-based-disorders-i",
-      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I"
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I",
+      "tier": "extra"
     },
     {
       "id": "bo13-022",
@@ -11003,7 +11240,8 @@
         "quaternary structure"
       ],
       "topicId": "proteins-enzymatic-machines-protein-based-disorders-i",
-      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I"
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I",
+      "tier": "extra"
     },
     {
       "id": "bo13-023",
@@ -11049,7 +11287,8 @@
         "tertiary structure"
       ],
       "topicId": "proteins-enzymatic-machines-protein-based-disorders-i",
-      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I"
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I",
+      "tier": "extra"
     },
     {
       "id": "bo13-024",
@@ -11095,7 +11334,8 @@
         "misfolding"
       ],
       "topicId": "proteins-enzymatic-machines-protein-based-disorders-i",
-      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I"
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I",
+      "tier": "extra"
     },
     {
       "id": "bo13-025",
@@ -11142,7 +11382,8 @@
         "hyperthermia"
       ],
       "topicId": "proteins-enzymatic-machines-protein-based-disorders-i",
-      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I"
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I",
+      "tier": "extra"
     },
     {
       "id": "bo13-026",
@@ -11190,7 +11431,8 @@
         "arginine"
       ],
       "topicId": "proteins-enzymatic-machines-protein-based-disorders-i",
-      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I"
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I",
+      "tier": "extra"
     },
     {
       "id": "bo13-027",
@@ -11237,7 +11479,8 @@
         "protein digestion"
       ],
       "topicId": "proteins-enzymatic-machines-protein-based-disorders-i",
-      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I"
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I",
+      "tier": "extra"
     },
     {
       "id": "bo13-028",
@@ -11284,7 +11527,8 @@
         "vitamin absorption"
       ],
       "topicId": "proteins-enzymatic-machines-protein-based-disorders-i",
-      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I"
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I",
+      "tier": "extra"
     },
     {
       "id": "bo13-029",
@@ -11331,7 +11575,8 @@
         "handwashing"
       ],
       "topicId": "proteins-enzymatic-machines-protein-based-disorders-i",
-      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I"
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I",
+      "tier": "extra"
     },
     {
       "id": "bo13-030",
@@ -11378,7 +11623,8 @@
         "denaturation"
       ],
       "topicId": "proteins-enzymatic-machines-protein-based-disorders-i",
-      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I"
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I",
+      "tier": "extra"
     },
     {
       "id": "bo13-031",
@@ -11424,7 +11670,8 @@
         "post-translational modification"
       ],
       "topicId": "proteins-enzymatic-machines-protein-based-disorders-i",
-      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I"
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I",
+      "tier": "extra"
     },
     {
       "id": "bo13-032",
@@ -11470,7 +11717,8 @@
         "protein turnover"
       ],
       "topicId": "proteins-enzymatic-machines-protein-based-disorders-i",
-      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I"
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I",
+      "tier": "extra"
     },
     {
       "id": "bo13-033",
@@ -11517,7 +11765,8 @@
         "protein turnover"
       ],
       "topicId": "proteins-enzymatic-machines-protein-based-disorders-i",
-      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I"
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I",
+      "tier": "extra"
     },
     {
       "id": "bo13-034",
@@ -11564,7 +11813,8 @@
         "prolyl hydroxylase"
       ],
       "topicId": "proteins-enzymatic-machines-protein-based-disorders-i",
-      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I"
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I",
+      "tier": "extra"
     },
     {
       "id": "bo13-035",
@@ -11611,7 +11861,8 @@
         "diabetes"
       ],
       "topicId": "proteins-enzymatic-machines-protein-based-disorders-i",
-      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I"
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I",
+      "tier": "extra"
     },
     {
       "id": "bo13-036",
@@ -11659,7 +11910,8 @@
         "chelation"
       ],
       "topicId": "proteins-enzymatic-machines-protein-based-disorders-i",
-      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I"
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I",
+      "tier": "extra"
     },
     {
       "id": "bo14-001",
@@ -11705,7 +11957,8 @@
         "hemolytic anemia"
       ],
       "topicId": "proteins-enzymatic-machines-protein-based-disorders-i-2",
-      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I (2 of 2)"
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I (2 of 2)",
+      "tier": "core"
     },
     {
       "id": "bo14-002",
@@ -11751,7 +12004,8 @@
         "oxidative stress"
       ],
       "topicId": "proteins-enzymatic-machines-protein-based-disorders-i-2",
-      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I (2 of 2)"
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I (2 of 2)",
+      "tier": "core"
     },
     {
       "id": "bo14-003",
@@ -11798,7 +12052,8 @@
         "favism"
       ],
       "topicId": "proteins-enzymatic-machines-protein-based-disorders-i-2",
-      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I (2 of 2)"
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I (2 of 2)",
+      "tier": "core"
     },
     {
       "id": "bo14-004",
@@ -11844,7 +12099,8 @@
         "tyrosine"
       ],
       "topicId": "proteins-enzymatic-machines-protein-based-disorders-i-2",
-      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I (2 of 2)"
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I (2 of 2)",
+      "tier": "core"
     },
     {
       "id": "bo14-005",
@@ -11890,7 +12146,8 @@
         "cofactor supplementation"
       ],
       "topicId": "proteins-enzymatic-machines-protein-based-disorders-i-2",
-      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I (2 of 2)"
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I (2 of 2)",
+      "tier": "core"
     },
     {
       "id": "bo14-006",
@@ -11936,7 +12193,8 @@
         "corneal clouding"
       ],
       "topicId": "proteins-enzymatic-machines-protein-based-disorders-i-2",
-      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I (2 of 2)"
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I (2 of 2)",
+      "tier": "core"
     },
     {
       "id": "bo14-007",
@@ -11982,7 +12240,8 @@
         "lysosomal trafficking"
       ],
       "topicId": "proteins-enzymatic-machines-protein-based-disorders-i-2",
-      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I (2 of 2)"
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I (2 of 2)",
+      "tier": "core"
     },
     {
       "id": "bo14-008",
@@ -12029,7 +12288,8 @@
         "lens dislocation"
       ],
       "topicId": "proteins-enzymatic-machines-protein-based-disorders-i-2",
-      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I (2 of 2)"
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I (2 of 2)",
+      "tier": "core"
     },
     {
       "id": "bo14-009",
@@ -12075,7 +12335,8 @@
         "aortic dissection"
       ],
       "topicId": "proteins-enzymatic-machines-protein-based-disorders-i-2",
-      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I (2 of 2)"
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I (2 of 2)",
+      "tier": "core"
     },
     {
       "id": "bo14-010",
@@ -12121,7 +12382,8 @@
         "lens dislocation"
       ],
       "topicId": "proteins-enzymatic-machines-protein-based-disorders-i-2",
-      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I (2 of 2)"
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I (2 of 2)",
+      "tier": "core"
     },
     {
       "id": "bo14-011",
@@ -12167,7 +12429,8 @@
         "shared features"
       ],
       "topicId": "proteins-enzymatic-machines-protein-based-disorders-i-2",
-      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I (2 of 2)"
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I (2 of 2)",
+      "tier": "core"
     },
     {
       "id": "bo14-012",
@@ -12214,7 +12477,8 @@
         "cirrhosis"
       ],
       "topicId": "proteins-enzymatic-machines-protein-based-disorders-i-2",
-      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I (2 of 2)"
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I (2 of 2)",
+      "tier": "core"
     },
     {
       "id": "bo14-013",
@@ -12260,7 +12524,8 @@
         "GSH/GSSG"
       ],
       "topicId": "proteins-enzymatic-machines-protein-based-disorders-i-2",
-      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I (2 of 2)"
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo14-014",
@@ -12306,7 +12571,8 @@
         "liver disease"
       ],
       "topicId": "proteins-enzymatic-machines-protein-based-disorders-i-2",
-      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I (2 of 2)"
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo14-015",
@@ -12353,7 +12619,8 @@
         "NADPH"
       ],
       "topicId": "proteins-enzymatic-machines-protein-based-disorders-i-2",
-      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I (2 of 2)"
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo14-016",
@@ -12400,7 +12667,8 @@
         "normocytic anemia"
       ],
       "topicId": "proteins-enzymatic-machines-protein-based-disorders-i-2",
-      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I (2 of 2)"
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo14-017",
@@ -12447,7 +12715,8 @@
         "macrophage"
       ],
       "topicId": "proteins-enzymatic-machines-protein-based-disorders-i-2",
-      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I (2 of 2)"
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo14-018",
@@ -12493,7 +12762,8 @@
         "scleral icterus"
       ],
       "topicId": "proteins-enzymatic-machines-protein-based-disorders-i-2",
-      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I (2 of 2)"
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo14-019",
@@ -12539,7 +12809,8 @@
         "hemolysis"
       ],
       "topicId": "proteins-enzymatic-machines-protein-based-disorders-i-2",
-      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I (2 of 2)"
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo14-020",
@@ -12586,7 +12857,8 @@
         "G6PD Mediterranean"
       ],
       "topicId": "proteins-enzymatic-machines-protein-based-disorders-i-2",
-      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I (2 of 2)"
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo14-021",
@@ -12633,7 +12905,8 @@
         "enzyme rescue"
       ],
       "topicId": "proteins-enzymatic-machines-protein-based-disorders-i-2",
-      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I (2 of 2)"
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo14-022",
@@ -12680,7 +12953,8 @@
         "remethylation"
       ],
       "topicId": "proteins-enzymatic-machines-protein-based-disorders-i-2",
-      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I (2 of 2)"
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo14-023",
@@ -12726,7 +13000,8 @@
         "mucopolysaccharides"
       ],
       "topicId": "proteins-enzymatic-machines-protein-based-disorders-i-2",
-      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I (2 of 2)"
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo14-024",
@@ -12773,7 +13048,8 @@
         "dermatan sulfate"
       ],
       "topicId": "proteins-enzymatic-machines-protein-based-disorders-i-2",
-      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I (2 of 2)"
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo14-025",
@@ -12820,7 +13096,8 @@
         "aggressive behavior"
       ],
       "topicId": "proteins-enzymatic-machines-protein-based-disorders-i-2",
-      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I (2 of 2)"
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo14-026",
@@ -12867,7 +13144,8 @@
         "all lysosomal enzymes"
       ],
       "topicId": "proteins-enzymatic-machines-protein-based-disorders-i-2",
-      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I (2 of 2)"
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo14-027",
@@ -12913,7 +13191,8 @@
         "protein trafficking"
       ],
       "topicId": "proteins-enzymatic-machines-protein-based-disorders-i-2",
-      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I (2 of 2)"
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo14-028",
@@ -12959,7 +13238,8 @@
         "autosomal dominant"
       ],
       "topicId": "proteins-enzymatic-machines-protein-based-disorders-i-2",
-      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I (2 of 2)"
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo14-029",
@@ -13006,7 +13286,8 @@
         "elastin"
       ],
       "topicId": "proteins-enzymatic-machines-protein-based-disorders-i-2",
-      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I (2 of 2)"
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo14-030",
@@ -13053,7 +13334,8 @@
         "arachnodactyly"
       ],
       "topicId": "proteins-enzymatic-machines-protein-based-disorders-i-2",
-      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I (2 of 2)"
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo14-031",
@@ -13100,7 +13382,8 @@
         "lens dislocation"
       ],
       "topicId": "proteins-enzymatic-machines-protein-based-disorders-i-2",
-      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I (2 of 2)"
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo14-032",
@@ -13146,7 +13429,8 @@
         "neutrophil elastase"
       ],
       "topicId": "proteins-enzymatic-machines-protein-based-disorders-i-2",
-      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I (2 of 2)"
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo14-033",
@@ -13192,7 +13476,8 @@
         "lung-only disease"
       ],
       "topicId": "proteins-enzymatic-machines-protein-based-disorders-i-2",
-      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I (2 of 2)"
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo14-034",
@@ -13239,7 +13524,8 @@
         "oxidative damage"
       ],
       "topicId": "proteins-enzymatic-machines-protein-based-disorders-i-2",
-      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I (2 of 2)"
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo14-035",
@@ -13286,7 +13572,8 @@
         "coagulation proteins"
       ],
       "topicId": "proteins-enzymatic-machines-protein-based-disorders-i-2",
-      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I (2 of 2)"
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo14-036",
@@ -13333,7 +13620,8 @@
         "lysosome"
       ],
       "topicId": "proteins-enzymatic-machines-protein-based-disorders-i-2",
-      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I (2 of 2)"
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo15-001",
@@ -13379,7 +13667,8 @@
         "kinetics vs thermodynamics"
       ],
       "topicId": "proteins-enzymatic-machines-and-protein-based-disorders-ii",
-      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II"
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II",
+      "tier": "core"
     },
     {
       "id": "bo15-002",
@@ -13426,7 +13715,8 @@
         "biotin"
       ],
       "topicId": "proteins-enzymatic-machines-and-protein-based-disorders-ii",
-      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II"
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II",
+      "tier": "core"
     },
     {
       "id": "bo15-003",
@@ -13472,7 +13762,8 @@
         "phosphate-handling enzymes"
       ],
       "topicId": "proteins-enzymatic-machines-and-protein-based-disorders-ii",
-      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II"
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II",
+      "tier": "core"
     },
     {
       "id": "bo15-004",
@@ -13518,7 +13809,8 @@
         "glycogen storage disease"
       ],
       "topicId": "proteins-enzymatic-machines-and-protein-based-disorders-ii",
-      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II"
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II",
+      "tier": "core"
     },
     {
       "id": "bo15-005",
@@ -13564,7 +13856,8 @@
         "hemolysis"
       ],
       "topicId": "proteins-enzymatic-machines-and-protein-based-disorders-ii",
-      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II"
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II",
+      "tier": "core"
     },
     {
       "id": "bo15-006",
@@ -13610,7 +13903,8 @@
         "myocardial infarction"
       ],
       "topicId": "proteins-enzymatic-machines-and-protein-based-disorders-ii",
-      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II"
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II",
+      "tier": "core"
     },
     {
       "id": "bo15-007",
@@ -13657,7 +13951,8 @@
         "isozymes"
       ],
       "topicId": "proteins-enzymatic-machines-and-protein-based-disorders-ii",
-      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II"
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II",
+      "tier": "core"
     },
     {
       "id": "bo15-008",
@@ -13703,7 +13998,8 @@
         "kinetics calculation"
       ],
       "topicId": "proteins-enzymatic-machines-and-protein-based-disorders-ii",
-      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II"
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II",
+      "tier": "core"
     },
     {
       "id": "bo15-009",
@@ -13749,7 +14045,8 @@
         "allostery"
       ],
       "topicId": "proteins-enzymatic-machines-and-protein-based-disorders-ii",
-      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II"
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II",
+      "tier": "core"
     },
     {
       "id": "bo15-010",
@@ -13795,7 +14092,8 @@
         "Km"
       ],
       "topicId": "proteins-enzymatic-machines-and-protein-based-disorders-ii",
-      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II"
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II",
+      "tier": "core"
     },
     {
       "id": "bo15-011",
@@ -13841,7 +14139,8 @@
         "charge complementarity"
       ],
       "topicId": "proteins-enzymatic-machines-and-protein-based-disorders-ii",
-      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II"
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II",
+      "tier": "core"
     },
     {
       "id": "bo15-012",
@@ -13888,7 +14187,8 @@
         "Km"
       ],
       "topicId": "proteins-enzymatic-machines-and-protein-based-disorders-ii",
-      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II"
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II",
+      "tier": "core"
     },
     {
       "id": "bo15-013",
@@ -13934,7 +14234,8 @@
         "rate enhancement"
       ],
       "topicId": "proteins-enzymatic-machines-and-protein-based-disorders-ii",
-      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II"
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II",
+      "tier": "extra"
     },
     {
       "id": "bo15-014",
@@ -13980,7 +14281,8 @@
         "trypsin"
       ],
       "topicId": "proteins-enzymatic-machines-and-protein-based-disorders-ii",
-      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II"
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II",
+      "tier": "extra"
     },
     {
       "id": "bo15-015",
@@ -14025,7 +14327,8 @@
         "enzyme terminology"
       ],
       "topicId": "proteins-enzymatic-machines-and-protein-based-disorders-ii",
-      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II"
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II",
+      "tier": "extra"
     },
     {
       "id": "bo15-016",
@@ -14071,7 +14374,8 @@
         "nuclease"
       ],
       "topicId": "proteins-enzymatic-machines-and-protein-based-disorders-ii",
-      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II"
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II",
+      "tier": "extra"
     },
     {
       "id": "bo15-017",
@@ -14118,7 +14422,8 @@
         "liver"
       ],
       "topicId": "proteins-enzymatic-machines-and-protein-based-disorders-ii",
-      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II"
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II",
+      "tier": "extra"
     },
     {
       "id": "bo15-018",
@@ -14164,7 +14469,8 @@
         "lactose intolerance"
       ],
       "topicId": "proteins-enzymatic-machines-and-protein-based-disorders-ii",
-      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II"
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II",
+      "tier": "extra"
     },
     {
       "id": "bo15-019",
@@ -14210,7 +14516,8 @@
         "drug design"
       ],
       "topicId": "proteins-enzymatic-machines-and-protein-based-disorders-ii",
-      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II"
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II",
+      "tier": "extra"
     },
     {
       "id": "bo15-020",
@@ -14256,7 +14563,8 @@
         "hemolytic anemia"
       ],
       "topicId": "proteins-enzymatic-machines-and-protein-based-disorders-ii",
-      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II"
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II",
+      "tier": "extra"
     },
     {
       "id": "bo15-021",
@@ -14301,7 +14609,8 @@
         "enzyme regulation"
       ],
       "topicId": "proteins-enzymatic-machines-and-protein-based-disorders-ii",
-      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II"
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II",
+      "tier": "extra"
     },
     {
       "id": "bo15-022",
@@ -14347,7 +14656,8 @@
         "enzyme mechanism"
       ],
       "topicId": "proteins-enzymatic-machines-and-protein-based-disorders-ii",
-      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II"
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II",
+      "tier": "extra"
     },
     {
       "id": "bo15-023",
@@ -14394,7 +14704,8 @@
         "vitamin B1"
       ],
       "topicId": "proteins-enzymatic-machines-and-protein-based-disorders-ii",
-      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II"
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II",
+      "tier": "extra"
     },
     {
       "id": "bo15-024",
@@ -14441,7 +14752,8 @@
         "vitamin B6"
       ],
       "topicId": "proteins-enzymatic-machines-and-protein-based-disorders-ii",
-      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II"
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II",
+      "tier": "extra"
     },
     {
       "id": "bo15-025",
@@ -14487,7 +14799,8 @@
         "decarboxylase"
       ],
       "topicId": "proteins-enzymatic-machines-and-protein-based-disorders-ii",
-      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II"
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II",
+      "tier": "extra"
     },
     {
       "id": "bo15-026",
@@ -14534,7 +14847,8 @@
         "hydrolase"
       ],
       "topicId": "proteins-enzymatic-machines-and-protein-based-disorders-ii",
-      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II"
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II",
+      "tier": "extra"
     },
     {
       "id": "bo15-027",
@@ -14580,7 +14894,8 @@
         "post-translational modification"
       ],
       "topicId": "proteins-enzymatic-machines-and-protein-based-disorders-ii",
-      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II"
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II",
+      "tier": "extra"
     },
     {
       "id": "bo15-028",
@@ -14626,7 +14941,8 @@
         "proteasome"
       ],
       "topicId": "proteins-enzymatic-machines-and-protein-based-disorders-ii",
-      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II"
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II",
+      "tier": "extra"
     },
     {
       "id": "bo15-029",
@@ -14672,7 +14988,8 @@
         "enzyme amount"
       ],
       "topicId": "proteins-enzymatic-machines-and-protein-based-disorders-ii",
-      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II"
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II",
+      "tier": "extra"
     },
     {
       "id": "bo15-030",
@@ -14718,7 +15035,8 @@
         "Vmax"
       ],
       "topicId": "proteins-enzymatic-machines-and-protein-based-disorders-ii",
-      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II"
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II",
+      "tier": "extra"
     },
     {
       "id": "bo15-031",
@@ -14765,7 +15083,8 @@
         "clotting factors"
       ],
       "topicId": "proteins-enzymatic-machines-and-protein-based-disorders-ii",
-      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II"
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II",
+      "tier": "extra"
     },
     {
       "id": "bo15-032",
@@ -14812,7 +15131,8 @@
         "alpha-keto acids"
       ],
       "topicId": "proteins-enzymatic-machines-and-protein-based-disorders-ii",
-      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II"
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II",
+      "tier": "extra"
     },
     {
       "id": "bo15-033",
@@ -14859,7 +15179,8 @@
         "pancreas"
       ],
       "topicId": "proteins-enzymatic-machines-and-protein-based-disorders-ii",
-      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II"
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II",
+      "tier": "extra"
     },
     {
       "id": "bo15-034",
@@ -14906,7 +15227,8 @@
         "reference range"
       ],
       "topicId": "proteins-enzymatic-machines-and-protein-based-disorders-ii",
-      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II"
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II",
+      "tier": "extra"
     },
     {
       "id": "bo15-035",
@@ -14953,7 +15275,8 @@
         "kidney"
       ],
       "topicId": "proteins-enzymatic-machines-and-protein-based-disorders-ii",
-      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II"
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II",
+      "tier": "extra"
     },
     {
       "id": "bo15-036",
@@ -15001,7 +15324,8 @@
         "one substrate two enzymes"
       ],
       "topicId": "proteins-enzymatic-machines-and-protein-based-disorders-ii",
-      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II"
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II",
+      "tier": "extra"
     },
     {
       "id": "bo16-001",
@@ -15048,7 +15372,8 @@
         "glycolysis"
       ],
       "topicId": "proteins-enzymatic-machines-protein-based-disorders-ii",
-      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II"
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II",
+      "tier": "core"
     },
     {
       "id": "bo16-002",
@@ -15095,7 +15420,8 @@
         "fasting"
       ],
       "topicId": "proteins-enzymatic-machines-protein-based-disorders-ii",
-      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II"
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II",
+      "tier": "core"
     },
     {
       "id": "bo16-003",
@@ -15141,7 +15467,8 @@
         "Km"
       ],
       "topicId": "proteins-enzymatic-machines-protein-based-disorders-ii",
-      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II"
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II",
+      "tier": "core"
     },
     {
       "id": "bo16-004",
@@ -15187,7 +15514,8 @@
         "allosteric"
       ],
       "topicId": "proteins-enzymatic-machines-protein-based-disorders-ii",
-      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II"
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II",
+      "tier": "core"
     },
     {
       "id": "bo16-005",
@@ -15233,7 +15561,8 @@
         "irreversible inhibition"
       ],
       "topicId": "proteins-enzymatic-machines-protein-based-disorders-ii",
-      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II"
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II",
+      "tier": "core"
     },
     {
       "id": "bo16-006",
@@ -15280,7 +15609,8 @@
         "irreversible inhibition"
       ],
       "topicId": "proteins-enzymatic-machines-protein-based-disorders-ii",
-      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II"
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II",
+      "tier": "core"
     },
     {
       "id": "bo16-007",
@@ -15327,7 +15657,8 @@
         "CYP450"
       ],
       "topicId": "proteins-enzymatic-machines-protein-based-disorders-ii",
-      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II"
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II",
+      "tier": "core"
     },
     {
       "id": "bo16-008",
@@ -15374,7 +15705,8 @@
         "NADPH"
       ],
       "topicId": "proteins-enzymatic-machines-protein-based-disorders-ii",
-      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II"
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II",
+      "tier": "core"
     },
     {
       "id": "bo16-009",
@@ -15422,7 +15754,8 @@
         "cirrhosis"
       ],
       "topicId": "proteins-enzymatic-machines-protein-based-disorders-ii",
-      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II"
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II",
+      "tier": "core"
     },
     {
       "id": "bo16-010",
@@ -15469,7 +15802,8 @@
         "enzyme inhibition"
       ],
       "topicId": "proteins-enzymatic-machines-protein-based-disorders-ii",
-      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II"
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II",
+      "tier": "core"
     },
     {
       "id": "bo16-011",
@@ -15517,7 +15851,8 @@
         "NAPQI"
       ],
       "topicId": "proteins-enzymatic-machines-protein-based-disorders-ii",
-      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II"
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II",
+      "tier": "core"
     },
     {
       "id": "bo16-012",
@@ -15564,7 +15899,8 @@
         "acetaminophen toxicity"
       ],
       "topicId": "proteins-enzymatic-machines-protein-based-disorders-ii",
-      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II"
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II",
+      "tier": "core"
     },
     {
       "id": "bo16-013",
@@ -15611,7 +15947,8 @@
         "glycolysis"
       ],
       "topicId": "proteins-enzymatic-machines-protein-based-disorders-ii",
-      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II"
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II",
+      "tier": "extra"
     },
     {
       "id": "bo16-014",
@@ -15658,7 +15995,8 @@
         "glycogen"
       ],
       "topicId": "proteins-enzymatic-machines-protein-based-disorders-ii",
-      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II"
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II",
+      "tier": "extra"
     },
     {
       "id": "bo16-015",
@@ -15705,7 +16043,8 @@
         "hexokinase"
       ],
       "topicId": "proteins-enzymatic-machines-protein-based-disorders-ii",
-      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II"
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II",
+      "tier": "extra"
     },
     {
       "id": "bo16-016",
@@ -15752,7 +16091,8 @@
         "liver"
       ],
       "topicId": "proteins-enzymatic-machines-protein-based-disorders-ii",
-      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II"
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II",
+      "tier": "extra"
     },
     {
       "id": "bo16-017",
@@ -15799,7 +16139,8 @@
         "glucose uptake"
       ],
       "topicId": "proteins-enzymatic-machines-protein-based-disorders-ii",
-      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II"
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II",
+      "tier": "extra"
     },
     {
       "id": "bo16-018",
@@ -15845,7 +16186,8 @@
         "dilution"
       ],
       "topicId": "proteins-enzymatic-machines-protein-based-disorders-ii",
-      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II"
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II",
+      "tier": "extra"
     },
     {
       "id": "bo16-019",
@@ -15891,7 +16233,8 @@
         "intrinsic Km"
       ],
       "topicId": "proteins-enzymatic-machines-protein-based-disorders-ii",
-      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II"
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II",
+      "tier": "extra"
     },
     {
       "id": "bo16-020",
@@ -15938,7 +16281,8 @@
         "noncompetitive inhibition"
       ],
       "topicId": "proteins-enzymatic-machines-protein-based-disorders-ii",
-      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II"
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II",
+      "tier": "extra"
     },
     {
       "id": "bo16-021",
@@ -15985,7 +16329,8 @@
         "Vmax"
       ],
       "topicId": "proteins-enzymatic-machines-protein-based-disorders-ii",
-      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II"
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II",
+      "tier": "extra"
     },
     {
       "id": "bo16-022",
@@ -16031,7 +16376,8 @@
         "homocysteine"
       ],
       "topicId": "proteins-enzymatic-machines-protein-based-disorders-ii",
-      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II"
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II",
+      "tier": "extra"
     },
     {
       "id": "bo16-023",
@@ -16077,7 +16423,8 @@
         "purine synthesis"
       ],
       "topicId": "proteins-enzymatic-machines-protein-based-disorders-ii",
-      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II"
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II",
+      "tier": "extra"
     },
     {
       "id": "bo16-024",
@@ -16124,7 +16471,8 @@
         "enzyme synthesis"
       ],
       "topicId": "proteins-enzymatic-machines-protein-based-disorders-ii",
-      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II"
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II",
+      "tier": "extra"
     },
     {
       "id": "bo16-025",
@@ -16170,7 +16518,8 @@
         "definition"
       ],
       "topicId": "proteins-enzymatic-machines-protein-based-disorders-ii",
-      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II"
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II",
+      "tier": "extra"
     },
     {
       "id": "bo16-026",
@@ -16218,7 +16567,8 @@
         "phase II"
       ],
       "topicId": "proteins-enzymatic-machines-protein-based-disorders-ii",
-      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II"
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II",
+      "tier": "extra"
     },
     {
       "id": "bo16-027",
@@ -16264,7 +16614,8 @@
         "CYP450"
       ],
       "topicId": "proteins-enzymatic-machines-protein-based-disorders-ii",
-      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II"
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II",
+      "tier": "extra"
     },
     {
       "id": "bo16-028",
@@ -16312,7 +16663,8 @@
         "vitamin D"
       ],
       "topicId": "proteins-enzymatic-machines-protein-based-disorders-ii",
-      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II"
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II",
+      "tier": "extra"
     },
     {
       "id": "bo16-029",
@@ -16359,7 +16711,8 @@
         "UDP-glucuronosyltransferase"
       ],
       "topicId": "proteins-enzymatic-machines-protein-based-disorders-ii",
-      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II"
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II",
+      "tier": "extra"
     },
     {
       "id": "bo16-030",
@@ -16406,7 +16759,8 @@
         "drug interaction"
       ],
       "topicId": "proteins-enzymatic-machines-protein-based-disorders-ii",
-      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II"
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II",
+      "tier": "extra"
     },
     {
       "id": "bo16-031",
@@ -16453,7 +16807,8 @@
         "dosing"
       ],
       "topicId": "proteins-enzymatic-machines-protein-based-disorders-ii",
-      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II"
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II",
+      "tier": "extra"
     },
     {
       "id": "bo16-032",
@@ -16499,7 +16854,8 @@
         "conjugation"
       ],
       "topicId": "proteins-enzymatic-machines-protein-based-disorders-ii",
-      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II"
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II",
+      "tier": "extra"
     },
     {
       "id": "bo16-033",
@@ -16546,7 +16902,8 @@
         "glutathione S-transferase"
       ],
       "topicId": "proteins-enzymatic-machines-protein-based-disorders-ii",
-      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II"
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II",
+      "tier": "extra"
     },
     {
       "id": "bo16-034",
@@ -16593,7 +16950,8 @@
         "pentose phosphate pathway"
       ],
       "topicId": "proteins-enzymatic-machines-protein-based-disorders-ii",
-      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II"
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II",
+      "tier": "extra"
     },
     {
       "id": "bo16-035",
@@ -16640,7 +16998,8 @@
         "phase II"
       ],
       "topicId": "proteins-enzymatic-machines-protein-based-disorders-ii",
-      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II"
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II",
+      "tier": "extra"
     },
     {
       "id": "bo16-036",
@@ -16687,7 +17046,8 @@
         "kidney excretion"
       ],
       "topicId": "proteins-enzymatic-machines-protein-based-disorders-ii",
-      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II"
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II",
+      "tier": "extra"
     },
     {
       "id": "bo17-001",
@@ -16733,7 +17093,8 @@
         "HIV"
       ],
       "topicId": "biotechniques-protein-detection",
-      "topicName": "Biotechniques: Protein Detection"
+      "topicName": "Biotechniques: Protein Detection",
+      "tier": "core"
     },
     {
       "id": "bo17-002",
@@ -16779,7 +17140,8 @@
         "protein detection"
       ],
       "topicId": "biotechniques-protein-detection",
-      "topicName": "Biotechniques: Protein Detection"
+      "topicName": "Biotechniques: Protein Detection",
+      "tier": "core"
     },
     {
       "id": "bo17-003",
@@ -16825,7 +17187,8 @@
         "immunity"
       ],
       "topicId": "biotechniques-protein-detection",
-      "topicName": "Biotechniques: Protein Detection"
+      "topicName": "Biotechniques: Protein Detection",
+      "tier": "core"
     },
     {
       "id": "bo17-004",
@@ -16871,7 +17234,8 @@
         "mutation"
       ],
       "topicId": "biotechniques-protein-detection",
-      "topicName": "Biotechniques: Protein Detection"
+      "topicName": "Biotechniques: Protein Detection",
+      "tier": "core"
     },
     {
       "id": "bo17-005",
@@ -16917,7 +17281,8 @@
         "charge"
       ],
       "topicId": "biotechniques-protein-detection",
-      "topicName": "Biotechniques: Protein Detection"
+      "topicName": "Biotechniques: Protein Detection",
+      "tier": "core"
     },
     {
       "id": "bo17-006",
@@ -16963,7 +17328,8 @@
         "genotype"
       ],
       "topicId": "biotechniques-protein-detection",
-      "topicName": "Biotechniques: Protein Detection"
+      "topicName": "Biotechniques: Protein Detection",
+      "tier": "core"
     },
     {
       "id": "bo17-007",
@@ -17009,7 +17375,8 @@
         "sickle cell"
       ],
       "topicId": "biotechniques-protein-detection",
-      "topicName": "Biotechniques: Protein Detection"
+      "topicName": "Biotechniques: Protein Detection",
+      "tier": "core"
     },
     {
       "id": "bo17-008",
@@ -17055,7 +17422,8 @@
         "vaso-occlusion"
       ],
       "topicId": "biotechniques-protein-detection",
-      "topicName": "Biotechniques: Protein Detection"
+      "topicName": "Biotechniques: Protein Detection",
+      "tier": "core"
     },
     {
       "id": "bo17-009",
@@ -17101,7 +17469,8 @@
         "cancer staging"
       ],
       "topicId": "biotechniques-protein-detection",
-      "topicName": "Biotechniques: Protein Detection"
+      "topicName": "Biotechniques: Protein Detection",
+      "tier": "core"
     },
     {
       "id": "bo17-010",
@@ -17147,7 +17516,8 @@
         "detection"
       ],
       "topicId": "biotechniques-protein-detection",
-      "topicName": "Biotechniques: Protein Detection"
+      "topicName": "Biotechniques: Protein Detection",
+      "tier": "core"
     },
     {
       "id": "bo17-011",
@@ -17193,7 +17563,8 @@
         "protein detection"
       ],
       "topicId": "biotechniques-protein-detection",
-      "topicName": "Biotechniques: Protein Detection"
+      "topicName": "Biotechniques: Protein Detection",
+      "tier": "core"
     },
     {
       "id": "bo17-012",
@@ -17239,7 +17610,8 @@
         "protein detection"
       ],
       "topicId": "biotechniques-protein-detection",
-      "topicName": "Biotechniques: Protein Detection"
+      "topicName": "Biotechniques: Protein Detection",
+      "tier": "core"
     },
     {
       "id": "bo17-013",
@@ -17285,7 +17657,8 @@
         "labeling"
       ],
       "topicId": "biotechniques-protein-detection",
-      "topicName": "Biotechniques: Protein Detection"
+      "topicName": "Biotechniques: Protein Detection",
+      "tier": "extra"
     },
     {
       "id": "bo17-014",
@@ -17331,7 +17704,8 @@
         "migration"
       ],
       "topicId": "biotechniques-protein-detection",
-      "topicName": "Biotechniques: Protein Detection"
+      "topicName": "Biotechniques: Protein Detection",
+      "tier": "extra"
     },
     {
       "id": "bo17-015",
@@ -17377,7 +17751,8 @@
         "charge"
       ],
       "topicId": "biotechniques-protein-detection",
-      "topicName": "Biotechniques: Protein Detection"
+      "topicName": "Biotechniques: Protein Detection",
+      "tier": "extra"
     },
     {
       "id": "bo17-016",
@@ -17423,7 +17798,8 @@
         "anode"
       ],
       "topicId": "biotechniques-protein-detection",
-      "topicName": "Biotechniques: Protein Detection"
+      "topicName": "Biotechniques: Protein Detection",
+      "tier": "extra"
     },
     {
       "id": "bo17-017",
@@ -17469,7 +17845,8 @@
         "fluorophore"
       ],
       "topicId": "biotechniques-protein-detection",
-      "topicName": "Biotechniques: Protein Detection"
+      "topicName": "Biotechniques: Protein Detection",
+      "tier": "extra"
     },
     {
       "id": "bo17-018",
@@ -17515,7 +17892,8 @@
         "sensitivity"
       ],
       "topicId": "biotechniques-protein-detection",
-      "topicName": "Biotechniques: Protein Detection"
+      "topicName": "Biotechniques: Protein Detection",
+      "tier": "extra"
     },
     {
       "id": "bo17-019",
@@ -17561,7 +17939,8 @@
         "serial dilution"
       ],
       "topicId": "biotechniques-protein-detection",
-      "topicName": "Biotechniques: Protein Detection"
+      "topicName": "Biotechniques: Protein Detection",
+      "tier": "extra"
     },
     {
       "id": "bo17-020",
@@ -17607,7 +17986,8 @@
         "anti-human antibody"
       ],
       "topicId": "biotechniques-protein-detection",
-      "topicName": "Biotechniques: Protein Detection"
+      "topicName": "Biotechniques: Protein Detection",
+      "tier": "extra"
     },
     {
       "id": "bo17-021",
@@ -17653,7 +18033,8 @@
         "ELISA"
       ],
       "topicId": "biotechniques-protein-detection",
-      "topicName": "Biotechniques: Protein Detection"
+      "topicName": "Biotechniques: Protein Detection",
+      "tier": "extra"
     },
     {
       "id": "bo17-022",
@@ -17699,7 +18080,8 @@
         "hCG"
       ],
       "topicId": "biotechniques-protein-detection",
-      "topicName": "Biotechniques: Protein Detection"
+      "topicName": "Biotechniques: Protein Detection",
+      "tier": "extra"
     },
     {
       "id": "bo17-023",
@@ -17745,7 +18127,8 @@
         "granulocytes"
       ],
       "topicId": "biotechniques-protein-detection",
-      "topicName": "Biotechniques: Protein Detection"
+      "topicName": "Biotechniques: Protein Detection",
+      "tier": "extra"
     },
     {
       "id": "bo17-024",
@@ -17791,7 +18174,8 @@
         "CD4 CD8"
       ],
       "topicId": "biotechniques-protein-detection",
-      "topicName": "Biotechniques: Protein Detection"
+      "topicName": "Biotechniques: Protein Detection",
+      "tier": "extra"
     },
     {
       "id": "bo17-025",
@@ -17837,7 +18221,8 @@
         "plot interpretation"
       ],
       "topicId": "biotechniques-protein-detection",
-      "topicName": "Biotechniques: Protein Detection"
+      "topicName": "Biotechniques: Protein Detection",
+      "tier": "extra"
     },
     {
       "id": "bo17-026",
@@ -17883,7 +18268,8 @@
         "CBC"
       ],
       "topicId": "biotechniques-protein-detection",
-      "topicName": "Biotechniques: Protein Detection"
+      "topicName": "Biotechniques: Protein Detection",
+      "tier": "extra"
     },
     {
       "id": "bo17-027",
@@ -17929,7 +18315,8 @@
         "DAB"
       ],
       "topicId": "biotechniques-protein-detection",
-      "topicName": "Biotechniques: Protein Detection"
+      "topicName": "Biotechniques: Protein Detection",
+      "tier": "extra"
     },
     {
       "id": "bo17-028",
@@ -17975,7 +18362,8 @@
         "landmarks"
       ],
       "topicId": "biotechniques-protein-detection",
-      "topicName": "Biotechniques: Protein Detection"
+      "topicName": "Biotechniques: Protein Detection",
+      "tier": "extra"
     },
     {
       "id": "bo17-029",
@@ -18021,7 +18409,8 @@
         "sickle cell"
       ],
       "topicId": "biotechniques-protein-detection",
-      "topicName": "Biotechniques: Protein Detection"
+      "topicName": "Biotechniques: Protein Detection",
+      "tier": "extra"
     },
     {
       "id": "bo17-030",
@@ -18067,7 +18456,8 @@
         "beta-globin"
       ],
       "topicId": "biotechniques-protein-detection",
-      "topicName": "Biotechniques: Protein Detection"
+      "topicName": "Biotechniques: Protein Detection",
+      "tier": "extra"
     },
     {
       "id": "bo17-031",
@@ -18113,7 +18503,8 @@
         "glutamate"
       ],
       "topicId": "biotechniques-protein-detection",
-      "topicName": "Biotechniques: Protein Detection"
+      "topicName": "Biotechniques: Protein Detection",
+      "tier": "extra"
     },
     {
       "id": "bo17-032",
@@ -18159,7 +18550,8 @@
         "RBC morphology"
       ],
       "topicId": "biotechniques-protein-detection",
-      "topicName": "Biotechniques: Protein Detection"
+      "topicName": "Biotechniques: Protein Detection",
+      "tier": "extra"
     },
     {
       "id": "bo17-033",
@@ -18205,7 +18597,8 @@
         "spleen"
       ],
       "topicId": "biotechniques-protein-detection",
-      "topicName": "Biotechniques: Protein Detection"
+      "topicName": "Biotechniques: Protein Detection",
+      "tier": "extra"
     },
     {
       "id": "bo17-034",
@@ -18251,7 +18644,8 @@
         "hemolysis"
       ],
       "topicId": "biotechniques-protein-detection",
-      "topicName": "Biotechniques: Protein Detection"
+      "topicName": "Biotechniques: Protein Detection",
+      "tier": "extra"
     },
     {
       "id": "bo17-035",
@@ -18297,7 +18691,8 @@
         "genotype"
       ],
       "topicId": "biotechniques-protein-detection",
-      "topicName": "Biotechniques: Protein Detection"
+      "topicName": "Biotechniques: Protein Detection",
+      "tier": "extra"
     },
     {
       "id": "bo17-036",
@@ -18343,7 +18738,8 @@
         "test selection"
       ],
       "topicId": "biotechniques-protein-detection",
-      "topicName": "Biotechniques: Protein Detection"
+      "topicName": "Biotechniques: Protein Detection",
+      "tier": "extra"
     }
   ]
 }

@@ -46,7 +46,8 @@
         "gastric enzymes"
       ],
       "topicId": "amino-acid-metabolism-i-nitrogen-balance-and-urea-cycle",
-      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle"
+      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle",
+      "tier": "core"
     },
     {
       "id": "bo32-002",
@@ -92,7 +93,8 @@
         "nitrogenous bases"
       ],
       "topicId": "amino-acid-metabolism-i-nitrogen-balance-and-urea-cycle",
-      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle"
+      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle",
+      "tier": "core"
     },
     {
       "id": "bo32-003",
@@ -138,7 +140,8 @@
         "urea cycle disorder"
       ],
       "topicId": "amino-acid-metabolism-i-nitrogen-balance-and-urea-cycle",
-      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle"
+      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle",
+      "tier": "core"
     },
     {
       "id": "bo32-004",
@@ -184,7 +187,8 @@
         "vitamin B6"
       ],
       "topicId": "amino-acid-metabolism-i-nitrogen-balance-and-urea-cycle",
-      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle"
+      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle",
+      "tier": "core"
     },
     {
       "id": "bo32-005",
@@ -230,7 +234,8 @@
         "ATP"
       ],
       "topicId": "amino-acid-metabolism-i-nitrogen-balance-and-urea-cycle",
-      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle"
+      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle",
+      "tier": "core"
     },
     {
       "id": "bo32-006",
@@ -276,7 +281,8 @@
         "acid-base balance"
       ],
       "topicId": "amino-acid-metabolism-i-nitrogen-balance-and-urea-cycle",
-      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle"
+      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle",
+      "tier": "core"
     },
     {
       "id": "bo32-007",
@@ -322,7 +328,8 @@
         "blood"
       ],
       "topicId": "amino-acid-metabolism-i-nitrogen-balance-and-urea-cycle",
-      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle"
+      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle",
+      "tier": "core"
     },
     {
       "id": "bo32-008",
@@ -368,7 +375,8 @@
         "serum ammonia"
       ],
       "topicId": "amino-acid-metabolism-i-nitrogen-balance-and-urea-cycle",
-      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle"
+      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle",
+      "tier": "core"
     },
     {
       "id": "bo32-009",
@@ -414,7 +422,8 @@
         "glutamine osmolyte"
       ],
       "topicId": "amino-acid-metabolism-i-nitrogen-balance-and-urea-cycle",
-      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle"
+      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle",
+      "tier": "core"
     },
     {
       "id": "bo32-010",
@@ -460,7 +469,8 @@
         "ammonia"
       ],
       "topicId": "amino-acid-metabolism-i-nitrogen-balance-and-urea-cycle",
-      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle"
+      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle",
+      "tier": "core"
     },
     {
       "id": "bo32-011",
@@ -506,7 +516,8 @@
         "bicarbonate"
       ],
       "topicId": "amino-acid-metabolism-i-nitrogen-balance-and-urea-cycle",
-      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle"
+      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle",
+      "tier": "core"
     },
     {
       "id": "bo32-012",
@@ -552,7 +563,8 @@
         "acid-base"
       ],
       "topicId": "amino-acid-metabolism-i-nitrogen-balance-and-urea-cycle",
-      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle"
+      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle",
+      "tier": "core"
     },
     {
       "id": "bo32-013",
@@ -598,7 +610,8 @@
         "stomach"
       ],
       "topicId": "amino-acid-metabolism-i-nitrogen-balance-and-urea-cycle",
-      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle"
+      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle",
+      "tier": "extra"
     },
     {
       "id": "bo32-014",
@@ -644,7 +657,8 @@
         "protein digestion"
       ],
       "topicId": "amino-acid-metabolism-i-nitrogen-balance-and-urea-cycle",
-      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle"
+      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle",
+      "tier": "extra"
     },
     {
       "id": "bo32-015",
@@ -690,7 +704,8 @@
         "liver"
       ],
       "topicId": "amino-acid-metabolism-i-nitrogen-balance-and-urea-cycle",
-      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle"
+      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle",
+      "tier": "extra"
     },
     {
       "id": "bo32-016",
@@ -736,7 +751,8 @@
         "reabsorption"
       ],
       "topicId": "amino-acid-metabolism-i-nitrogen-balance-and-urea-cycle",
-      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle"
+      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle",
+      "tier": "extra"
     },
     {
       "id": "bo32-017",
@@ -782,7 +798,8 @@
         "nitrogen balance"
       ],
       "topicId": "amino-acid-metabolism-i-nitrogen-balance-and-urea-cycle",
-      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle"
+      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle",
+      "tier": "extra"
     },
     {
       "id": "bo32-018",
@@ -828,7 +845,8 @@
         "carbon backbone"
       ],
       "topicId": "amino-acid-metabolism-i-nitrogen-balance-and-urea-cycle",
-      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle"
+      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle",
+      "tier": "extra"
     },
     {
       "id": "bo32-019",
@@ -874,7 +892,8 @@
         "nitrogen disposal"
       ],
       "topicId": "amino-acid-metabolism-i-nitrogen-balance-and-urea-cycle",
-      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle"
+      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle",
+      "tier": "extra"
     },
     {
       "id": "bo32-020",
@@ -920,7 +939,8 @@
         "pyruvate"
       ],
       "topicId": "amino-acid-metabolism-i-nitrogen-balance-and-urea-cycle",
-      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle"
+      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle",
+      "tier": "extra"
     },
     {
       "id": "bo32-021",
@@ -966,7 +986,8 @@
         "TCA cycle"
       ],
       "topicId": "amino-acid-metabolism-i-nitrogen-balance-and-urea-cycle",
-      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle"
+      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle",
+      "tier": "extra"
     },
     {
       "id": "bo32-022",
@@ -1012,7 +1033,8 @@
         "succinyl-CoA"
       ],
       "topicId": "amino-acid-metabolism-i-nitrogen-balance-and-urea-cycle",
-      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle"
+      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle",
+      "tier": "extra"
     },
     {
       "id": "bo32-023",
@@ -1058,7 +1080,8 @@
         "cofactor"
       ],
       "topicId": "amino-acid-metabolism-i-nitrogen-balance-and-urea-cycle",
-      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle"
+      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle",
+      "tier": "extra"
     },
     {
       "id": "bo32-024",
@@ -1104,7 +1127,8 @@
         "gut ammonia"
       ],
       "topicId": "amino-acid-metabolism-i-nitrogen-balance-and-urea-cycle",
-      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle"
+      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle",
+      "tier": "extra"
     },
     {
       "id": "bo32-025",
@@ -1150,7 +1174,8 @@
         "subcellular localization"
       ],
       "topicId": "amino-acid-metabolism-i-nitrogen-balance-and-urea-cycle",
-      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle"
+      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle",
+      "tier": "extra"
     },
     {
       "id": "bo32-026",
@@ -1196,7 +1221,8 @@
         "fuel"
       ],
       "topicId": "amino-acid-metabolism-i-nitrogen-balance-and-urea-cycle",
-      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle"
+      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle",
+      "tier": "extra"
     },
     {
       "id": "bo32-027",
@@ -1242,7 +1268,8 @@
         "glutamate dehydrogenase"
       ],
       "topicId": "amino-acid-metabolism-i-nitrogen-balance-and-urea-cycle",
-      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle"
+      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle",
+      "tier": "extra"
     },
     {
       "id": "bo32-028",
@@ -1288,7 +1315,8 @@
         "glutamine"
       ],
       "topicId": "amino-acid-metabolism-i-nitrogen-balance-and-urea-cycle",
-      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle"
+      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle",
+      "tier": "extra"
     },
     {
       "id": "bo32-029",
@@ -1334,7 +1362,8 @@
         "sources of ammonia"
       ],
       "topicId": "amino-acid-metabolism-i-nitrogen-balance-and-urea-cycle",
-      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle"
+      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle",
+      "tier": "extra"
     },
     {
       "id": "bo32-030",
@@ -1380,7 +1409,8 @@
         "sources of ammonia"
       ],
       "topicId": "amino-acid-metabolism-i-nitrogen-balance-and-urea-cycle",
-      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle"
+      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle",
+      "tier": "extra"
     },
     {
       "id": "bo32-031",
@@ -1426,7 +1456,8 @@
         "sources of ammonia"
       ],
       "topicId": "amino-acid-metabolism-i-nitrogen-balance-and-urea-cycle",
-      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle"
+      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle",
+      "tier": "extra"
     },
     {
       "id": "bo32-032",
@@ -1472,7 +1503,8 @@
         "urea cycle"
       ],
       "topicId": "amino-acid-metabolism-i-nitrogen-balance-and-urea-cycle",
-      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle"
+      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle",
+      "tier": "extra"
     },
     {
       "id": "bo32-033",
@@ -1518,7 +1550,8 @@
         "seizure"
       ],
       "topicId": "amino-acid-metabolism-i-nitrogen-balance-and-urea-cycle",
-      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle"
+      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle",
+      "tier": "extra"
     },
     {
       "id": "bo32-034",
@@ -1564,7 +1597,8 @@
         "ATP depletion"
       ],
       "topicId": "amino-acid-metabolism-i-nitrogen-balance-and-urea-cycle",
-      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle"
+      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle",
+      "tier": "extra"
     },
     {
       "id": "bo32-035",
@@ -1610,7 +1644,8 @@
         "diet"
       ],
       "topicId": "amino-acid-metabolism-i-nitrogen-balance-and-urea-cycle",
-      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle"
+      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle",
+      "tier": "extra"
     },
     {
       "id": "bo32-036",
@@ -1656,7 +1691,8 @@
         "hyperammonemia"
       ],
       "topicId": "amino-acid-metabolism-i-nitrogen-balance-and-urea-cycle",
-      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle"
+      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle",
+      "tier": "extra"
     },
     {
       "id": "bo33-001",
@@ -1702,7 +1738,8 @@
         "hyperammonemia"
       ],
       "topicId": "nitrogen-balance-and-urea-cycle",
-      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle"
+      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle",
+      "tier": "core"
     },
     {
       "id": "bo33-002",
@@ -1748,7 +1785,8 @@
         "differential diagnosis"
       ],
       "topicId": "nitrogen-balance-and-urea-cycle",
-      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle"
+      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle",
+      "tier": "core"
     },
     {
       "id": "bo33-003",
@@ -1794,7 +1832,8 @@
         "biomarkers"
       ],
       "topicId": "nitrogen-balance-and-urea-cycle",
-      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle"
+      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle",
+      "tier": "core"
     },
     {
       "id": "bo33-004",
@@ -1840,7 +1879,8 @@
         "biomarkers"
       ],
       "topicId": "nitrogen-balance-and-urea-cycle",
-      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle"
+      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle",
+      "tier": "core"
     },
     {
       "id": "bo33-005",
@@ -1886,7 +1926,8 @@
         "neurology"
       ],
       "topicId": "nitrogen-balance-and-urea-cycle",
-      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle"
+      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle",
+      "tier": "core"
     },
     {
       "id": "bo33-006",
@@ -1932,7 +1973,8 @@
         "carbamylglutamate"
       ],
       "topicId": "nitrogen-balance-and-urea-cycle",
-      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle"
+      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle",
+      "tier": "core"
     },
     {
       "id": "bo33-007",
@@ -1978,7 +2020,8 @@
         "regulation"
       ],
       "topicId": "nitrogen-balance-and-urea-cycle",
-      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle"
+      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle",
+      "tier": "core"
     },
     {
       "id": "bo33-008",
@@ -2024,7 +2067,8 @@
         "fumarate"
       ],
       "topicId": "nitrogen-balance-and-urea-cycle",
-      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle"
+      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle",
+      "tier": "core"
     },
     {
       "id": "bo33-009",
@@ -2070,7 +2114,8 @@
         "glutamine"
       ],
       "topicId": "nitrogen-balance-and-urea-cycle",
-      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle"
+      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle",
+      "tier": "core"
     },
     {
       "id": "bo33-010",
@@ -2116,7 +2161,8 @@
         "nitrogen transport"
       ],
       "topicId": "nitrogen-balance-and-urea-cycle",
-      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle"
+      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle",
+      "tier": "core"
     },
     {
       "id": "bo33-011",
@@ -2162,7 +2208,8 @@
         "interorgan metabolism"
       ],
       "topicId": "nitrogen-balance-and-urea-cycle",
-      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle"
+      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle",
+      "tier": "core"
     },
     {
       "id": "bo33-012",
@@ -2208,7 +2255,8 @@
         "glucagon"
       ],
       "topicId": "nitrogen-balance-and-urea-cycle",
-      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle"
+      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle",
+      "tier": "core"
     },
     {
       "id": "bo33-013",
@@ -2254,7 +2302,8 @@
         "pregnancy"
       ],
       "topicId": "nitrogen-balance-and-urea-cycle",
-      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle"
+      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle",
+      "tier": "extra"
     },
     {
       "id": "bo33-014",
@@ -2300,7 +2349,8 @@
         "heme"
       ],
       "topicId": "nitrogen-balance-and-urea-cycle",
-      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle"
+      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle",
+      "tier": "extra"
     },
     {
       "id": "bo33-015",
@@ -2346,7 +2396,8 @@
         "citrulline"
       ],
       "topicId": "nitrogen-balance-and-urea-cycle",
-      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle"
+      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle",
+      "tier": "extra"
     },
     {
       "id": "bo33-016",
@@ -2392,7 +2443,8 @@
         "ATP"
       ],
       "topicId": "nitrogen-balance-and-urea-cycle",
-      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle"
+      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle",
+      "tier": "extra"
     },
     {
       "id": "bo33-017",
@@ -2438,7 +2490,8 @@
         "gluconeogenesis"
       ],
       "topicId": "nitrogen-balance-and-urea-cycle",
-      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle"
+      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle",
+      "tier": "extra"
     },
     {
       "id": "bo33-018",
@@ -2484,7 +2537,8 @@
         "arginine"
       ],
       "topicId": "nitrogen-balance-and-urea-cycle",
-      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle"
+      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle",
+      "tier": "extra"
     },
     {
       "id": "bo33-019",
@@ -2530,7 +2584,8 @@
         "leukemia"
       ],
       "topicId": "nitrogen-balance-and-urea-cycle",
-      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle"
+      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle",
+      "tier": "extra"
     },
     {
       "id": "bo33-020",
@@ -2576,7 +2631,8 @@
         "enzyme induction"
       ],
       "topicId": "nitrogen-balance-and-urea-cycle",
-      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle"
+      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle",
+      "tier": "extra"
     },
     {
       "id": "bo33-021",
@@ -2622,7 +2678,8 @@
         "fasting"
       ],
       "topicId": "nitrogen-balance-and-urea-cycle",
-      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle"
+      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle",
+      "tier": "extra"
     },
     {
       "id": "bo33-022",
@@ -2668,7 +2725,8 @@
         "glucose-alanine cycle"
       ],
       "topicId": "nitrogen-balance-and-urea-cycle",
-      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle"
+      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle",
+      "tier": "extra"
     },
     {
       "id": "bo33-023",
@@ -2714,7 +2772,8 @@
         "fed state"
       ],
       "topicId": "nitrogen-balance-and-urea-cycle",
-      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle"
+      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle",
+      "tier": "extra"
     },
     {
       "id": "bo33-024",
@@ -2760,7 +2819,8 @@
         "serum ammonia"
       ],
       "topicId": "nitrogen-balance-and-urea-cycle",
-      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle"
+      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle",
+      "tier": "extra"
     },
     {
       "id": "bo33-025",
@@ -2806,7 +2866,8 @@
         "hyperammonemia"
       ],
       "topicId": "nitrogen-balance-and-urea-cycle",
-      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle"
+      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle",
+      "tier": "extra"
     },
     {
       "id": "bo33-026",
@@ -2852,7 +2913,8 @@
         "glutamine"
       ],
       "topicId": "nitrogen-balance-and-urea-cycle",
-      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle"
+      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle",
+      "tier": "extra"
     },
     {
       "id": "bo33-027",
@@ -2898,7 +2960,8 @@
         "CPS-I vs OTC"
       ],
       "topicId": "nitrogen-balance-and-urea-cycle",
-      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle"
+      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle",
+      "tier": "extra"
     },
     {
       "id": "bo33-028",
@@ -2944,7 +3007,8 @@
         "X-linked recessive"
       ],
       "topicId": "nitrogen-balance-and-urea-cycle",
-      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle"
+      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle",
+      "tier": "extra"
     },
     {
       "id": "bo33-029",
@@ -2990,7 +3054,8 @@
         "NAGS deficiency"
       ],
       "topicId": "nitrogen-balance-and-urea-cycle",
-      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle"
+      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle",
+      "tier": "extra"
     },
     {
       "id": "bo33-030",
@@ -3036,7 +3101,8 @@
         "feedback inhibition"
       ],
       "topicId": "nitrogen-balance-and-urea-cycle",
-      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle"
+      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle",
+      "tier": "extra"
     },
     {
       "id": "bo33-031",
@@ -3082,7 +3148,8 @@
         "acute management"
       ],
       "topicId": "nitrogen-balance-and-urea-cycle",
-      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle"
+      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle",
+      "tier": "extra"
     },
     {
       "id": "bo33-032",
@@ -3128,7 +3195,8 @@
         "transamination"
       ],
       "topicId": "nitrogen-balance-and-urea-cycle",
-      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle"
+      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle",
+      "tier": "extra"
     },
     {
       "id": "bo33-033",
@@ -3174,7 +3242,8 @@
         "nitrogen scavengers"
       ],
       "topicId": "nitrogen-balance-and-urea-cycle",
-      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle"
+      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle",
+      "tier": "extra"
     },
     {
       "id": "bo33-034",
@@ -3220,7 +3289,8 @@
         "ammonium trapping"
       ],
       "topicId": "nitrogen-balance-and-urea-cycle",
-      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle"
+      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle",
+      "tier": "extra"
     },
     {
       "id": "bo33-035",
@@ -3266,7 +3336,8 @@
         "heme synthesis"
       ],
       "topicId": "nitrogen-balance-and-urea-cycle",
-      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle"
+      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle",
+      "tier": "extra"
     },
     {
       "id": "bo33-036",
@@ -3312,7 +3383,8 @@
         "nitrogen scavengers"
       ],
       "topicId": "nitrogen-balance-and-urea-cycle",
-      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle"
+      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle",
+      "tier": "extra"
     },
     {
       "id": "bo34-001",
@@ -3358,7 +3430,8 @@
         "newborn screening"
       ],
       "topicId": "inborn-errors-of-amino-acid-metabolism",
-      "topicName": "Inborn Errors of Amino Acid Metabolism"
+      "topicName": "Inborn Errors of Amino Acid Metabolism",
+      "tier": "core"
     },
     {
       "id": "bo34-002",
@@ -3404,7 +3477,8 @@
         "organic acidemia"
       ],
       "topicId": "inborn-errors-of-amino-acid-metabolism",
-      "topicName": "Inborn Errors of Amino Acid Metabolism"
+      "topicName": "Inborn Errors of Amino Acid Metabolism",
+      "tier": "core"
     },
     {
       "id": "bo34-003",
@@ -3450,7 +3524,8 @@
         "vitamin B6"
       ],
       "topicId": "inborn-errors-of-amino-acid-metabolism",
-      "topicName": "Inborn Errors of Amino Acid Metabolism"
+      "topicName": "Inborn Errors of Amino Acid Metabolism",
+      "tier": "core"
     },
     {
       "id": "bo34-004",
@@ -3496,7 +3571,8 @@
         "tyrosine catabolism"
       ],
       "topicId": "inborn-errors-of-amino-acid-metabolism",
-      "topicName": "Inborn Errors of Amino Acid Metabolism"
+      "topicName": "Inborn Errors of Amino Acid Metabolism",
+      "tier": "core"
     },
     {
       "id": "bo34-005",
@@ -3542,7 +3618,8 @@
         "melanin"
       ],
       "topicId": "inborn-errors-of-amino-acid-metabolism",
-      "topicName": "Inborn Errors of Amino Acid Metabolism"
+      "topicName": "Inborn Errors of Amino Acid Metabolism",
+      "tier": "core"
     },
     {
       "id": "bo34-006",
@@ -3588,7 +3665,8 @@
         "organic acidemia"
       ],
       "topicId": "inborn-errors-of-amino-acid-metabolism",
-      "topicName": "Inborn Errors of Amino Acid Metabolism"
+      "topicName": "Inborn Errors of Amino Acid Metabolism",
+      "tier": "core"
     },
     {
       "id": "bo34-007",
@@ -3634,7 +3712,8 @@
         "kidney stones"
       ],
       "topicId": "inborn-errors-of-amino-acid-metabolism",
-      "topicName": "Inborn Errors of Amino Acid Metabolism"
+      "topicName": "Inborn Errors of Amino Acid Metabolism",
+      "tier": "core"
     },
     {
       "id": "bo34-008",
@@ -3680,7 +3759,8 @@
         "pellagra"
       ],
       "topicId": "inborn-errors-of-amino-acid-metabolism",
-      "topicName": "Inborn Errors of Amino Acid Metabolism"
+      "topicName": "Inborn Errors of Amino Acid Metabolism",
+      "tier": "core"
     },
     {
       "id": "bo34-009",
@@ -3726,7 +3806,8 @@
         "BH4"
       ],
       "topicId": "inborn-errors-of-amino-acid-metabolism",
-      "topicName": "Inborn Errors of Amino Acid Metabolism"
+      "topicName": "Inborn Errors of Amino Acid Metabolism",
+      "tier": "core"
     },
     {
       "id": "bo34-010",
@@ -3772,7 +3853,8 @@
         "organic acidemia"
       ],
       "topicId": "inborn-errors-of-amino-acid-metabolism",
-      "topicName": "Inborn Errors of Amino Acid Metabolism"
+      "topicName": "Inborn Errors of Amino Acid Metabolism",
+      "tier": "core"
     },
     {
       "id": "bo34-011",
@@ -3818,7 +3900,8 @@
         "hyperammonemia"
       ],
       "topicId": "inborn-errors-of-amino-acid-metabolism",
-      "topicName": "Inborn Errors of Amino Acid Metabolism"
+      "topicName": "Inborn Errors of Amino Acid Metabolism",
+      "tier": "core"
     },
     {
       "id": "bo34-012",
@@ -3864,7 +3947,8 @@
         "clinical correlation"
       ],
       "topicId": "inborn-errors-of-amino-acid-metabolism",
-      "topicName": "Inborn Errors of Amino Acid Metabolism"
+      "topicName": "Inborn Errors of Amino Acid Metabolism",
+      "tier": "core"
     },
     {
       "id": "bo34-013",
@@ -3910,7 +3994,8 @@
         "sapropterin"
       ],
       "topicId": "inborn-errors-of-amino-acid-metabolism",
-      "topicName": "Inborn Errors of Amino Acid Metabolism"
+      "topicName": "Inborn Errors of Amino Acid Metabolism",
+      "tier": "extra"
     },
     {
       "id": "bo34-014",
@@ -3956,7 +4041,8 @@
         "dietary management"
       ],
       "topicId": "inborn-errors-of-amino-acid-metabolism",
-      "topicName": "Inborn Errors of Amino Acid Metabolism"
+      "topicName": "Inborn Errors of Amino Acid Metabolism",
+      "tier": "extra"
     },
     {
       "id": "bo34-015",
@@ -4002,7 +4088,8 @@
         "malignant PKU"
       ],
       "topicId": "inborn-errors-of-amino-acid-metabolism",
-      "topicName": "Inborn Errors of Amino Acid Metabolism"
+      "topicName": "Inborn Errors of Amino Acid Metabolism",
+      "tier": "extra"
     },
     {
       "id": "bo34-016",
@@ -4048,7 +4135,8 @@
         "malignant PKU"
       ],
       "topicId": "inborn-errors-of-amino-acid-metabolism",
-      "topicName": "Inborn Errors of Amino Acid Metabolism"
+      "topicName": "Inborn Errors of Amino Acid Metabolism",
+      "tier": "extra"
     },
     {
       "id": "bo34-017",
@@ -4094,7 +4182,8 @@
         "serotonin"
       ],
       "topicId": "inborn-errors-of-amino-acid-metabolism",
-      "topicName": "Inborn Errors of Amino Acid Metabolism"
+      "topicName": "Inborn Errors of Amino Acid Metabolism",
+      "tier": "extra"
     },
     {
       "id": "bo34-018",
@@ -4140,7 +4229,8 @@
         "tryptophan"
       ],
       "topicId": "inborn-errors-of-amino-acid-metabolism",
-      "topicName": "Inborn Errors of Amino Acid Metabolism"
+      "topicName": "Inborn Errors of Amino Acid Metabolism",
+      "tier": "extra"
     },
     {
       "id": "bo34-019",
@@ -4186,7 +4276,8 @@
         "melanocytes"
       ],
       "topicId": "inborn-errors-of-amino-acid-metabolism",
-      "topicName": "Inborn Errors of Amino Acid Metabolism"
+      "topicName": "Inborn Errors of Amino Acid Metabolism",
+      "tier": "extra"
     },
     {
       "id": "bo34-020",
@@ -4232,7 +4323,8 @@
         "inheritance"
       ],
       "topicId": "inborn-errors-of-amino-acid-metabolism",
-      "topicName": "Inborn Errors of Amino Acid Metabolism"
+      "topicName": "Inborn Errors of Amino Acid Metabolism",
+      "tier": "extra"
     },
     {
       "id": "bo34-021",
@@ -4278,7 +4370,8 @@
         "OCA1"
       ],
       "topicId": "inborn-errors-of-amino-acid-metabolism",
-      "topicName": "Inborn Errors of Amino Acid Metabolism"
+      "topicName": "Inborn Errors of Amino Acid Metabolism",
+      "tier": "extra"
     },
     {
       "id": "bo34-022",
@@ -4324,7 +4417,8 @@
         "arthritis"
       ],
       "topicId": "inborn-errors-of-amino-acid-metabolism",
-      "topicName": "Inborn Errors of Amino Acid Metabolism"
+      "topicName": "Inborn Errors of Amino Acid Metabolism",
+      "tier": "extra"
     },
     {
       "id": "bo34-023",
@@ -4370,7 +4464,8 @@
         "essential amino acids"
       ],
       "topicId": "inborn-errors-of-amino-acid-metabolism",
-      "topicName": "Inborn Errors of Amino Acid Metabolism"
+      "topicName": "Inborn Errors of Amino Acid Metabolism",
+      "tier": "extra"
     },
     {
       "id": "bo34-024",
@@ -4416,7 +4511,8 @@
         "acquired vs genetic"
       ],
       "topicId": "inborn-errors-of-amino-acid-metabolism",
-      "topicName": "Inborn Errors of Amino Acid Metabolism"
+      "topicName": "Inborn Errors of Amino Acid Metabolism",
+      "tier": "extra"
     },
     {
       "id": "bo34-025",
@@ -4462,7 +4558,8 @@
         "oxidative decarboxylation"
       ],
       "topicId": "inborn-errors-of-amino-acid-metabolism",
-      "topicName": "Inborn Errors of Amino Acid Metabolism"
+      "topicName": "Inborn Errors of Amino Acid Metabolism",
+      "tier": "extra"
     },
     {
       "id": "bo34-026",
@@ -4508,7 +4605,8 @@
         "vitamin therapy"
       ],
       "topicId": "inborn-errors-of-amino-acid-metabolism",
-      "topicName": "Inborn Errors of Amino Acid Metabolism"
+      "topicName": "Inborn Errors of Amino Acid Metabolism",
+      "tier": "extra"
     },
     {
       "id": "bo34-027",
@@ -4554,7 +4652,8 @@
         "MSUD"
       ],
       "topicId": "inborn-errors-of-amino-acid-metabolism",
-      "topicName": "Inborn Errors of Amino Acid Metabolism"
+      "topicName": "Inborn Errors of Amino Acid Metabolism",
+      "tier": "extra"
     },
     {
       "id": "bo34-028",
@@ -4600,7 +4699,8 @@
         "triggers"
       ],
       "topicId": "inborn-errors-of-amino-acid-metabolism",
-      "topicName": "Inborn Errors of Amino Acid Metabolism"
+      "topicName": "Inborn Errors of Amino Acid Metabolism",
+      "tier": "extra"
     },
     {
       "id": "bo34-029",
@@ -4646,7 +4746,8 @@
         "leucine"
       ],
       "topicId": "inborn-errors-of-amino-acid-metabolism",
-      "topicName": "Inborn Errors of Amino Acid Metabolism"
+      "topicName": "Inborn Errors of Amino Acid Metabolism",
+      "tier": "extra"
     },
     {
       "id": "bo34-030",
@@ -4692,7 +4793,8 @@
         "biotin"
       ],
       "topicId": "inborn-errors-of-amino-acid-metabolism",
-      "topicName": "Inborn Errors of Amino Acid Metabolism"
+      "topicName": "Inborn Errors of Amino Acid Metabolism",
+      "tier": "extra"
     },
     {
       "id": "bo34-031",
@@ -4738,7 +4840,8 @@
         "propionyl-CoA"
       ],
       "topicId": "inborn-errors-of-amino-acid-metabolism",
-      "topicName": "Inborn Errors of Amino Acid Metabolism"
+      "topicName": "Inborn Errors of Amino Acid Metabolism",
+      "tier": "extra"
     },
     {
       "id": "bo34-032",
@@ -4784,7 +4887,8 @@
         "odor"
       ],
       "topicId": "inborn-errors-of-amino-acid-metabolism",
-      "topicName": "Inborn Errors of Amino Acid Metabolism"
+      "topicName": "Inborn Errors of Amino Acid Metabolism",
+      "tier": "extra"
     },
     {
       "id": "bo34-033",
@@ -4830,7 +4934,8 @@
         "kidney stones"
       ],
       "topicId": "inborn-errors-of-amino-acid-metabolism",
-      "topicName": "Inborn Errors of Amino Acid Metabolism"
+      "topicName": "Inborn Errors of Amino Acid Metabolism",
+      "tier": "extra"
     },
     {
       "id": "bo34-034",
@@ -4876,7 +4981,8 @@
         "neutral amino acids"
       ],
       "topicId": "inborn-errors-of-amino-acid-metabolism",
-      "topicName": "Inborn Errors of Amino Acid Metabolism"
+      "topicName": "Inborn Errors of Amino Acid Metabolism",
+      "tier": "extra"
     },
     {
       "id": "bo34-035",
@@ -4922,7 +5028,8 @@
         "sulfur"
       ],
       "topicId": "inborn-errors-of-amino-acid-metabolism",
-      "topicName": "Inborn Errors of Amino Acid Metabolism"
+      "topicName": "Inborn Errors of Amino Acid Metabolism",
+      "tier": "extra"
     },
     {
       "id": "bo34-036",
@@ -4968,7 +5075,8 @@
         "hemodialysis"
       ],
       "topicId": "inborn-errors-of-amino-acid-metabolism",
-      "topicName": "Inborn Errors of Amino Acid Metabolism"
+      "topicName": "Inborn Errors of Amino Acid Metabolism",
+      "tier": "extra"
     },
     {
       "id": "bo35-001",
@@ -5014,7 +5122,8 @@
         "UDPGT"
       ],
       "topicId": "porphyrins-and-iron-homeostasis",
-      "topicName": "Porphyrins and Iron Homeostasis (1 of 2)"
+      "topicName": "Porphyrins and Iron Homeostasis (1 of 2)",
+      "tier": "core"
     },
     {
       "id": "bo35-002",
@@ -5060,7 +5169,8 @@
         "microcytic anemia"
       ],
       "topicId": "porphyrins-and-iron-homeostasis",
-      "topicName": "Porphyrins and Iron Homeostasis (1 of 2)"
+      "topicName": "Porphyrins and Iron Homeostasis (1 of 2)",
+      "tier": "core"
     },
     {
       "id": "bo35-003",
@@ -5106,7 +5216,8 @@
         "heme synthesis"
       ],
       "topicId": "porphyrins-and-iron-homeostasis",
-      "topicName": "Porphyrins and Iron Homeostasis (1 of 2)"
+      "topicName": "Porphyrins and Iron Homeostasis (1 of 2)",
+      "tier": "core"
     },
     {
       "id": "bo35-004",
@@ -5152,7 +5263,8 @@
         "rate-limiting step"
       ],
       "topicId": "porphyrins-and-iron-homeostasis",
-      "topicName": "Porphyrins and Iron Homeostasis (1 of 2)"
+      "topicName": "Porphyrins and Iron Homeostasis (1 of 2)",
+      "tier": "core"
     },
     {
       "id": "bo35-005",
@@ -5198,7 +5310,8 @@
         "UDPGT"
       ],
       "topicId": "porphyrins-and-iron-homeostasis",
-      "topicName": "Porphyrins and Iron Homeostasis (1 of 2)"
+      "topicName": "Porphyrins and Iron Homeostasis (1 of 2)",
+      "tier": "core"
     },
     {
       "id": "bo35-006",
@@ -5244,7 +5357,8 @@
         "carbon monoxide"
       ],
       "topicId": "porphyrins-and-iron-homeostasis",
-      "topicName": "Porphyrins and Iron Homeostasis (1 of 2)"
+      "topicName": "Porphyrins and Iron Homeostasis (1 of 2)",
+      "tier": "core"
     },
     {
       "id": "bo35-007",
@@ -5290,7 +5404,8 @@
         "blood-brain barrier"
       ],
       "topicId": "porphyrins-and-iron-homeostasis",
-      "topicName": "Porphyrins and Iron Homeostasis (1 of 2)"
+      "topicName": "Porphyrins and Iron Homeostasis (1 of 2)",
+      "tier": "core"
     },
     {
       "id": "bo35-008",
@@ -5336,7 +5451,8 @@
         "bilirubin isomerization"
       ],
       "topicId": "porphyrins-and-iron-homeostasis",
-      "topicName": "Porphyrins and Iron Homeostasis (1 of 2)"
+      "topicName": "Porphyrins and Iron Homeostasis (1 of 2)",
+      "tier": "core"
     },
     {
       "id": "bo35-009",
@@ -5382,7 +5498,8 @@
         "ABCC2"
       ],
       "topicId": "porphyrins-and-iron-homeostasis",
-      "topicName": "Porphyrins and Iron Homeostasis (1 of 2)"
+      "topicName": "Porphyrins and Iron Homeostasis (1 of 2)",
+      "tier": "core"
     },
     {
       "id": "bo35-010",
@@ -5428,7 +5545,8 @@
         "UDPGT"
       ],
       "topicId": "porphyrins-and-iron-homeostasis",
-      "topicName": "Porphyrins and Iron Homeostasis (1 of 2)"
+      "topicName": "Porphyrins and Iron Homeostasis (1 of 2)",
+      "tier": "core"
     },
     {
       "id": "bo35-011",
@@ -5474,7 +5592,8 @@
         "post-hepatic jaundice"
       ],
       "topicId": "porphyrins-and-iron-homeostasis",
-      "topicName": "Porphyrins and Iron Homeostasis (1 of 2)"
+      "topicName": "Porphyrins and Iron Homeostasis (1 of 2)",
+      "tier": "core"
     },
     {
       "id": "bo35-012",
@@ -5520,7 +5639,8 @@
         "glucose"
       ],
       "topicId": "porphyrins-and-iron-homeostasis",
-      "topicName": "Porphyrins and Iron Homeostasis (1 of 2)"
+      "topicName": "Porphyrins and Iron Homeostasis (1 of 2)",
+      "tier": "core"
     },
     {
       "id": "bo35-013",
@@ -5566,7 +5686,8 @@
         "tissue distribution"
       ],
       "topicId": "porphyrins-and-iron-homeostasis",
-      "topicName": "Porphyrins and Iron Homeostasis (1 of 2)"
+      "topicName": "Porphyrins and Iron Homeostasis (1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo35-014",
@@ -5612,7 +5733,8 @@
         "succinyl-CoA"
       ],
       "topicId": "porphyrins-and-iron-homeostasis",
-      "topicName": "Porphyrins and Iron Homeostasis (1 of 2)"
+      "topicName": "Porphyrins and Iron Homeostasis (1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo35-015",
@@ -5658,7 +5780,8 @@
         "heme synthesis"
       ],
       "topicId": "porphyrins-and-iron-homeostasis",
-      "topicName": "Porphyrins and Iron Homeostasis (1 of 2)"
+      "topicName": "Porphyrins and Iron Homeostasis (1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo35-016",
@@ -5704,7 +5827,8 @@
         "uroporphyrinogen decarboxylase"
       ],
       "topicId": "porphyrins-and-iron-homeostasis",
-      "topicName": "Porphyrins and Iron Homeostasis (1 of 2)"
+      "topicName": "Porphyrins and Iron Homeostasis (1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo35-017",
@@ -5750,7 +5874,8 @@
         "pathway intermediates"
       ],
       "topicId": "porphyrins-and-iron-homeostasis",
-      "topicName": "Porphyrins and Iron Homeostasis (1 of 2)"
+      "topicName": "Porphyrins and Iron Homeostasis (1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo35-018",
@@ -5796,7 +5921,8 @@
         "anemia"
       ],
       "topicId": "porphyrins-and-iron-homeostasis",
-      "topicName": "Porphyrins and Iron Homeostasis (1 of 2)"
+      "topicName": "Porphyrins and Iron Homeostasis (1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo35-019",
@@ -5842,7 +5968,8 @@
         "mitochondrial import"
       ],
       "topicId": "porphyrins-and-iron-homeostasis",
-      "topicName": "Porphyrins and Iron Homeostasis (1 of 2)"
+      "topicName": "Porphyrins and Iron Homeostasis (1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo35-020",
@@ -5888,7 +6015,8 @@
         "heme regulation"
       ],
       "topicId": "porphyrins-and-iron-homeostasis",
-      "topicName": "Porphyrins and Iron Homeostasis (1 of 2)"
+      "topicName": "Porphyrins and Iron Homeostasis (1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo35-021",
@@ -5934,7 +6062,8 @@
         "erythropoiesis"
       ],
       "topicId": "porphyrins-and-iron-homeostasis",
-      "topicName": "Porphyrins and Iron Homeostasis (1 of 2)"
+      "topicName": "Porphyrins and Iron Homeostasis (1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo35-022",
@@ -5980,7 +6109,8 @@
         "phase I detoxification"
       ],
       "topicId": "porphyrins-and-iron-homeostasis",
-      "topicName": "Porphyrins and Iron Homeostasis (1 of 2)"
+      "topicName": "Porphyrins and Iron Homeostasis (1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo35-023",
@@ -6026,7 +6156,8 @@
         "feedback inhibition"
       ],
       "topicId": "porphyrins-and-iron-homeostasis",
-      "topicName": "Porphyrins and Iron Homeostasis (1 of 2)"
+      "topicName": "Porphyrins and Iron Homeostasis (1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo35-024",
@@ -6072,7 +6203,8 @@
         "peripheral neuropathy"
       ],
       "topicId": "porphyrins-and-iron-homeostasis",
-      "topicName": "Porphyrins and Iron Homeostasis (1 of 2)"
+      "topicName": "Porphyrins and Iron Homeostasis (1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo35-025",
@@ -6118,7 +6250,8 @@
         "ALAS2"
       ],
       "topicId": "porphyrins-and-iron-homeostasis",
-      "topicName": "Porphyrins and Iron Homeostasis (1 of 2)"
+      "topicName": "Porphyrins and Iron Homeostasis (1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo35-026",
@@ -6164,7 +6297,8 @@
         "light absorption"
       ],
       "topicId": "porphyrins-and-iron-homeostasis",
-      "topicName": "Porphyrins and Iron Homeostasis (1 of 2)"
+      "topicName": "Porphyrins and Iron Homeostasis (1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo35-027",
@@ -6210,7 +6344,8 @@
         "UDPGT absence"
       ],
       "topicId": "porphyrins-and-iron-homeostasis",
-      "topicName": "Porphyrins and Iron Homeostasis (1 of 2)"
+      "topicName": "Porphyrins and Iron Homeostasis (1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo35-028",
@@ -6256,7 +6391,8 @@
         "transport"
       ],
       "topicId": "porphyrins-and-iron-homeostasis",
-      "topicName": "Porphyrins and Iron Homeostasis (1 of 2)"
+      "topicName": "Porphyrins and Iron Homeostasis (1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo35-029",
@@ -6302,7 +6438,8 @@
         "conjugation"
       ],
       "topicId": "porphyrins-and-iron-homeostasis",
-      "topicName": "Porphyrins and Iron Homeostasis (1 of 2)"
+      "topicName": "Porphyrins and Iron Homeostasis (1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo35-030",
@@ -6348,7 +6485,8 @@
         "stercobilin"
       ],
       "topicId": "porphyrins-and-iron-homeostasis",
-      "topicName": "Porphyrins and Iron Homeostasis (1 of 2)"
+      "topicName": "Porphyrins and Iron Homeostasis (1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo35-031",
@@ -6394,7 +6532,8 @@
         "albumin"
       ],
       "topicId": "porphyrins-and-iron-homeostasis",
-      "topicName": "Porphyrins and Iron Homeostasis (1 of 2)"
+      "topicName": "Porphyrins and Iron Homeostasis (1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo35-032",
@@ -6440,7 +6579,8 @@
         "calculation"
       ],
       "topicId": "porphyrins-and-iron-homeostasis",
-      "topicName": "Porphyrins and Iron Homeostasis (1 of 2)"
+      "topicName": "Porphyrins and Iron Homeostasis (1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo35-033",
@@ -6486,7 +6626,8 @@
         "lab pattern"
       ],
       "topicId": "porphyrins-and-iron-homeostasis",
-      "topicName": "Porphyrins and Iron Homeostasis (1 of 2)"
+      "topicName": "Porphyrins and Iron Homeostasis (1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo35-034",
@@ -6532,7 +6673,8 @@
         "inheritance"
       ],
       "topicId": "porphyrins-and-iron-homeostasis",
-      "topicName": "Porphyrins and Iron Homeostasis (1 of 2)"
+      "topicName": "Porphyrins and Iron Homeostasis (1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo35-035",
@@ -6578,7 +6720,8 @@
         "UDPGT induction"
       ],
       "topicId": "porphyrins-and-iron-homeostasis",
-      "topicName": "Porphyrins and Iron Homeostasis (1 of 2)"
+      "topicName": "Porphyrins and Iron Homeostasis (1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo35-036",
@@ -6624,7 +6767,8 @@
         "conjugated hyperbilirubinemia"
       ],
       "topicId": "porphyrins-and-iron-homeostasis",
-      "topicName": "Porphyrins and Iron Homeostasis (1 of 2)"
+      "topicName": "Porphyrins and Iron Homeostasis (1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo36-001",
@@ -6670,7 +6814,8 @@
         "heme synthesis"
       ],
       "topicId": "porphyrins-and-iron-homeostasis-2",
-      "topicName": "Porphyrins and Iron Homeostasis (2 of 2)"
+      "topicName": "Porphyrins and Iron Homeostasis (2 of 2)",
+      "tier": "core"
     },
     {
       "id": "bo36-002",
@@ -6717,7 +6862,8 @@
         "ALA synthase"
       ],
       "topicId": "porphyrins-and-iron-homeostasis-2",
-      "topicName": "Porphyrins and Iron Homeostasis (2 of 2)"
+      "topicName": "Porphyrins and Iron Homeostasis (2 of 2)",
+      "tier": "core"
     },
     {
       "id": "bo36-003",
@@ -6763,7 +6909,8 @@
         "photosensitivity"
       ],
       "topicId": "porphyrins-and-iron-homeostasis-2",
-      "topicName": "Porphyrins and Iron Homeostasis (2 of 2)"
+      "topicName": "Porphyrins and Iron Homeostasis (2 of 2)",
+      "tier": "core"
     },
     {
       "id": "bo36-004",
@@ -6809,7 +6956,8 @@
         "ferrochelatase"
       ],
       "topicId": "porphyrins-and-iron-homeostasis-2",
-      "topicName": "Porphyrins and Iron Homeostasis (2 of 2)"
+      "topicName": "Porphyrins and Iron Homeostasis (2 of 2)",
+      "tier": "core"
     },
     {
       "id": "bo36-005",
@@ -6855,7 +7003,8 @@
         "duodenal cytochrome B"
       ],
       "topicId": "porphyrins-and-iron-homeostasis-2",
-      "topicName": "Porphyrins and Iron Homeostasis (2 of 2)"
+      "topicName": "Porphyrins and Iron Homeostasis (2 of 2)",
+      "tier": "core"
     },
     {
       "id": "bo36-006",
@@ -6901,7 +7050,8 @@
         "microcytic anemia"
       ],
       "topicId": "porphyrins-and-iron-homeostasis-2",
-      "topicName": "Porphyrins and Iron Homeostasis (2 of 2)"
+      "topicName": "Porphyrins and Iron Homeostasis (2 of 2)",
+      "tier": "core"
     },
     {
       "id": "bo36-007",
@@ -6947,7 +7097,8 @@
         "transferrin"
       ],
       "topicId": "porphyrins-and-iron-homeostasis-2",
-      "topicName": "Porphyrins and Iron Homeostasis (2 of 2)"
+      "topicName": "Porphyrins and Iron Homeostasis (2 of 2)",
+      "tier": "core"
     },
     {
       "id": "bo36-008",
@@ -6994,7 +7145,8 @@
         "ferroportin"
       ],
       "topicId": "porphyrins-and-iron-homeostasis-2",
-      "topicName": "Porphyrins and Iron Homeostasis (2 of 2)"
+      "topicName": "Porphyrins and Iron Homeostasis (2 of 2)",
+      "tier": "core"
     },
     {
       "id": "bo36-009",
@@ -7040,7 +7192,8 @@
         "iron overload"
       ],
       "topicId": "porphyrins-and-iron-homeostasis-2",
-      "topicName": "Porphyrins and Iron Homeostasis (2 of 2)"
+      "topicName": "Porphyrins and Iron Homeostasis (2 of 2)",
+      "tier": "core"
     },
     {
       "id": "bo36-010",
@@ -7087,7 +7240,8 @@
         "transferrin saturation"
       ],
       "topicId": "porphyrins-and-iron-homeostasis-2",
-      "topicName": "Porphyrins and Iron Homeostasis (2 of 2)"
+      "topicName": "Porphyrins and Iron Homeostasis (2 of 2)",
+      "tier": "core"
     },
     {
       "id": "bo36-011",
@@ -7134,7 +7288,8 @@
         "iron studies"
       ],
       "topicId": "porphyrins-and-iron-homeostasis-2",
-      "topicName": "Porphyrins and Iron Homeostasis (2 of 2)"
+      "topicName": "Porphyrins and Iron Homeostasis (2 of 2)",
+      "tier": "core"
     },
     {
       "id": "bo36-012",
@@ -7181,7 +7336,8 @@
         "ferritin"
       ],
       "topicId": "porphyrins-and-iron-homeostasis-2",
-      "topicName": "Porphyrins and Iron Homeostasis (2 of 2)"
+      "topicName": "Porphyrins and Iron Homeostasis (2 of 2)",
+      "tier": "core"
     },
     {
       "id": "bo36-013",
@@ -7228,7 +7384,8 @@
         "porphobilinogen"
       ],
       "topicId": "porphyrins-and-iron-homeostasis-2",
-      "topicName": "Porphyrins and Iron Homeostasis (2 of 2)"
+      "topicName": "Porphyrins and Iron Homeostasis (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo36-014",
@@ -7275,7 +7432,8 @@
         "liver transplant"
       ],
       "topicId": "porphyrins-and-iron-homeostasis-2",
-      "topicName": "Porphyrins and Iron Homeostasis (2 of 2)"
+      "topicName": "Porphyrins and Iron Homeostasis (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo36-015",
@@ -7322,7 +7480,8 @@
         "CYP2E1"
       ],
       "topicId": "porphyrins-and-iron-homeostasis-2",
-      "topicName": "Porphyrins and Iron Homeostasis (2 of 2)"
+      "topicName": "Porphyrins and Iron Homeostasis (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo36-016",
@@ -7369,7 +7528,8 @@
         "ALAS1"
       ],
       "topicId": "porphyrins-and-iron-homeostasis-2",
-      "topicName": "Porphyrins and Iron Homeostasis (2 of 2)"
+      "topicName": "Porphyrins and Iron Homeostasis (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo36-017",
@@ -7416,7 +7576,8 @@
         "uroporphomethene"
       ],
       "topicId": "porphyrins-and-iron-homeostasis-2",
-      "topicName": "Porphyrins and Iron Homeostasis (2 of 2)"
+      "topicName": "Porphyrins and Iron Homeostasis (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo36-018",
@@ -7463,7 +7624,8 @@
         "P450 inducers"
       ],
       "topicId": "porphyrins-and-iron-homeostasis-2",
-      "topicName": "Porphyrins and Iron Homeostasis (2 of 2)"
+      "topicName": "Porphyrins and Iron Homeostasis (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo36-019",
@@ -7510,7 +7672,8 @@
         "hydroxychloroquine"
       ],
       "topicId": "porphyrins-and-iron-homeostasis-2",
-      "topicName": "Porphyrins and Iron Homeostasis (2 of 2)"
+      "topicName": "Porphyrins and Iron Homeostasis (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo36-020",
@@ -7557,7 +7720,8 @@
         "hepatitis C"
       ],
       "topicId": "porphyrins-and-iron-homeostasis-2",
-      "topicName": "Porphyrins and Iron Homeostasis (2 of 2)"
+      "topicName": "Porphyrins and Iron Homeostasis (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo36-021",
@@ -7603,7 +7767,8 @@
         "onycholysis"
       ],
       "topicId": "porphyrins-and-iron-homeostasis-2",
-      "topicName": "Porphyrins and Iron Homeostasis (2 of 2)"
+      "topicName": "Porphyrins and Iron Homeostasis (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo36-022",
@@ -7650,7 +7815,8 @@
         "protoporphyrin"
       ],
       "topicId": "porphyrins-and-iron-homeostasis-2",
-      "topicName": "Porphyrins and Iron Homeostasis (2 of 2)"
+      "topicName": "Porphyrins and Iron Homeostasis (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo36-023",
@@ -7697,7 +7863,8 @@
         "stool"
       ],
       "topicId": "porphyrins-and-iron-homeostasis-2",
-      "topicName": "Porphyrins and Iron Homeostasis (2 of 2)"
+      "topicName": "Porphyrins and Iron Homeostasis (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo36-024",
@@ -7744,7 +7911,8 @@
         "iron loss"
       ],
       "topicId": "porphyrins-and-iron-homeostasis-2",
-      "topicName": "Porphyrins and Iron Homeostasis (2 of 2)"
+      "topicName": "Porphyrins and Iron Homeostasis (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo36-025",
@@ -7790,7 +7958,8 @@
         "iron stores"
       ],
       "topicId": "porphyrins-and-iron-homeostasis-2",
-      "topicName": "Porphyrins and Iron Homeostasis (2 of 2)"
+      "topicName": "Porphyrins and Iron Homeostasis (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo36-026",
@@ -7837,7 +8006,8 @@
         "iron requirement"
       ],
       "topicId": "porphyrins-and-iron-homeostasis-2",
-      "topicName": "Porphyrins and Iron Homeostasis (2 of 2)"
+      "topicName": "Porphyrins and Iron Homeostasis (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo36-027",
@@ -7884,7 +8054,8 @@
         "men"
       ],
       "topicId": "porphyrins-and-iron-homeostasis-2",
-      "topicName": "Porphyrins and Iron Homeostasis (2 of 2)"
+      "topicName": "Porphyrins and Iron Homeostasis (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo36-028",
@@ -7930,7 +8101,8 @@
         "reactive oxygen species"
       ],
       "topicId": "porphyrins-and-iron-homeostasis-2",
-      "topicName": "Porphyrins and Iron Homeostasis (2 of 2)"
+      "topicName": "Porphyrins and Iron Homeostasis (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo36-029",
@@ -7977,7 +8149,8 @@
         "macrophage"
       ],
       "topicId": "porphyrins-and-iron-homeostasis-2",
-      "topicName": "Porphyrins and Iron Homeostasis (2 of 2)"
+      "topicName": "Porphyrins and Iron Homeostasis (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo36-030",
@@ -8024,7 +8197,8 @@
         "management"
       ],
       "topicId": "porphyrins-and-iron-homeostasis-2",
-      "topicName": "Porphyrins and Iron Homeostasis (2 of 2)"
+      "topicName": "Porphyrins and Iron Homeostasis (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo36-031",
@@ -8071,7 +8245,8 @@
         "transferrin receptor"
       ],
       "topicId": "porphyrins-and-iron-homeostasis-2",
-      "topicName": "Porphyrins and Iron Homeostasis (2 of 2)"
+      "topicName": "Porphyrins and Iron Homeostasis (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo36-032",
@@ -8118,7 +8293,8 @@
         "IL-6"
       ],
       "topicId": "porphyrins-and-iron-homeostasis-2",
-      "topicName": "Porphyrins and Iron Homeostasis (2 of 2)"
+      "topicName": "Porphyrins and Iron Homeostasis (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo36-033",
@@ -8165,7 +8341,8 @@
         "ineffective erythropoiesis"
       ],
       "topicId": "porphyrins-and-iron-homeostasis-2",
-      "topicName": "Porphyrins and Iron Homeostasis (2 of 2)"
+      "topicName": "Porphyrins and Iron Homeostasis (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo36-034",
@@ -8212,7 +8389,8 @@
         "anemia"
       ],
       "topicId": "porphyrins-and-iron-homeostasis-2",
-      "topicName": "Porphyrins and Iron Homeostasis (2 of 2)"
+      "topicName": "Porphyrins and Iron Homeostasis (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo36-035",
@@ -8259,7 +8437,8 @@
         "iron studies"
       ],
       "topicId": "porphyrins-and-iron-homeostasis-2",
-      "topicName": "Porphyrins and Iron Homeostasis (2 of 2)"
+      "topicName": "Porphyrins and Iron Homeostasis (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo36-036",
@@ -8306,7 +8485,8 @@
         "iron deposition"
       ],
       "topicId": "porphyrins-and-iron-homeostasis-2",
-      "topicName": "Porphyrins and Iron Homeostasis (2 of 2)"
+      "topicName": "Porphyrins and Iron Homeostasis (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo37-001",
@@ -8352,7 +8532,8 @@
         "hypoglycemia"
       ],
       "topicId": "inborn-errors-of-carbohydrate-metabolism",
-      "topicName": "Inborn Errors of Carbohydrate Metabolism"
+      "topicName": "Inborn Errors of Carbohydrate Metabolism",
+      "tier": "core"
     },
     {
       "id": "bo37-002",
@@ -8398,7 +8579,8 @@
         "cardiomyopathy"
       ],
       "topicId": "inborn-errors-of-carbohydrate-metabolism",
-      "topicName": "Inborn Errors of Carbohydrate Metabolism"
+      "topicName": "Inborn Errors of Carbohydrate Metabolism",
+      "tier": "core"
     },
     {
       "id": "bo37-003",
@@ -8444,7 +8626,8 @@
         "myoglobinuria"
       ],
       "topicId": "inborn-errors-of-carbohydrate-metabolism",
-      "topicName": "Inborn Errors of Carbohydrate Metabolism"
+      "topicName": "Inborn Errors of Carbohydrate Metabolism",
+      "tier": "core"
     },
     {
       "id": "bo37-004",
@@ -8490,7 +8673,8 @@
         "lactic acidosis"
       ],
       "topicId": "inborn-errors-of-carbohydrate-metabolism",
-      "topicName": "Inborn Errors of Carbohydrate Metabolism"
+      "topicName": "Inborn Errors of Carbohydrate Metabolism",
+      "tier": "core"
     },
     {
       "id": "bo37-005",
@@ -8536,7 +8720,8 @@
         "Heinz bodies"
       ],
       "topicId": "inborn-errors-of-carbohydrate-metabolism",
-      "topicName": "Inborn Errors of Carbohydrate Metabolism"
+      "topicName": "Inborn Errors of Carbohydrate Metabolism",
+      "tier": "core"
     },
     {
       "id": "bo37-006",
@@ -8582,7 +8767,8 @@
         "2,3-BPG"
       ],
       "topicId": "inborn-errors-of-carbohydrate-metabolism",
-      "topicName": "Inborn Errors of Carbohydrate Metabolism"
+      "topicName": "Inborn Errors of Carbohydrate Metabolism",
+      "tier": "core"
     },
     {
       "id": "bo37-007",
@@ -8628,7 +8814,8 @@
         "methylene blue"
       ],
       "topicId": "inborn-errors-of-carbohydrate-metabolism",
-      "topicName": "Inborn Errors of Carbohydrate Metabolism"
+      "topicName": "Inborn Errors of Carbohydrate Metabolism",
+      "tier": "core"
     },
     {
       "id": "bo37-008",
@@ -8674,7 +8861,8 @@
         "lactic acidosis"
       ],
       "topicId": "inborn-errors-of-carbohydrate-metabolism",
-      "topicName": "Inborn Errors of Carbohydrate Metabolism"
+      "topicName": "Inborn Errors of Carbohydrate Metabolism",
+      "tier": "core"
     },
     {
       "id": "bo37-009",
@@ -8720,7 +8908,8 @@
         "gluconeogenesis"
       ],
       "topicId": "inborn-errors-of-carbohydrate-metabolism",
-      "topicName": "Inborn Errors of Carbohydrate Metabolism"
+      "topicName": "Inborn Errors of Carbohydrate Metabolism",
+      "tier": "core"
     },
     {
       "id": "bo37-010",
@@ -8766,7 +8955,8 @@
         "pentose phosphate pathway"
       ],
       "topicId": "inborn-errors-of-carbohydrate-metabolism",
-      "topicName": "Inborn Errors of Carbohydrate Metabolism"
+      "topicName": "Inborn Errors of Carbohydrate Metabolism",
+      "tier": "core"
     },
     {
       "id": "bo37-011",
@@ -8812,7 +9002,8 @@
         "cirrhosis"
       ],
       "topicId": "inborn-errors-of-carbohydrate-metabolism",
-      "topicName": "Inborn Errors of Carbohydrate Metabolism"
+      "topicName": "Inborn Errors of Carbohydrate Metabolism",
+      "tier": "core"
     },
     {
       "id": "bo37-012",
@@ -8858,7 +9049,8 @@
         "laboratory findings"
       ],
       "topicId": "inborn-errors-of-carbohydrate-metabolism",
-      "topicName": "Inborn Errors of Carbohydrate Metabolism"
+      "topicName": "Inborn Errors of Carbohydrate Metabolism",
+      "tier": "core"
     },
     {
       "id": "bo37-013",
@@ -8904,7 +9096,8 @@
         "ketotic hypoglycemia"
       ],
       "topicId": "inborn-errors-of-carbohydrate-metabolism",
-      "topicName": "Inborn Errors of Carbohydrate Metabolism"
+      "topicName": "Inborn Errors of Carbohydrate Metabolism",
+      "tier": "extra"
     },
     {
       "id": "bo37-014",
@@ -8950,7 +9143,8 @@
         "GSD type 6"
       ],
       "topicId": "inborn-errors-of-carbohydrate-metabolism",
-      "topicName": "Inborn Errors of Carbohydrate Metabolism"
+      "topicName": "Inborn Errors of Carbohydrate Metabolism",
+      "tier": "extra"
     },
     {
       "id": "bo37-015",
@@ -8996,7 +9190,8 @@
         "GSD type 7"
       ],
       "topicId": "inborn-errors-of-carbohydrate-metabolism",
-      "topicName": "Inborn Errors of Carbohydrate Metabolism"
+      "topicName": "Inborn Errors of Carbohydrate Metabolism",
+      "tier": "extra"
     },
     {
       "id": "bo37-016",
@@ -9042,7 +9237,8 @@
         "dietary therapy"
       ],
       "topicId": "inborn-errors-of-carbohydrate-metabolism",
-      "topicName": "Inborn Errors of Carbohydrate Metabolism"
+      "topicName": "Inborn Errors of Carbohydrate Metabolism",
+      "tier": "extra"
     },
     {
       "id": "bo37-017",
@@ -9088,7 +9284,8 @@
         "von Gierke contrast"
       ],
       "topicId": "inborn-errors-of-carbohydrate-metabolism",
-      "topicName": "Inborn Errors of Carbohydrate Metabolism"
+      "topicName": "Inborn Errors of Carbohydrate Metabolism",
+      "tier": "extra"
     },
     {
       "id": "bo37-018",
@@ -9134,7 +9331,8 @@
         "liver cancer"
       ],
       "topicId": "inborn-errors-of-carbohydrate-metabolism",
-      "topicName": "Inborn Errors of Carbohydrate Metabolism"
+      "topicName": "Inborn Errors of Carbohydrate Metabolism",
+      "tier": "extra"
     },
     {
       "id": "bo37-019",
@@ -9180,7 +9378,8 @@
         "renal gluconeogenesis"
       ],
       "topicId": "inborn-errors-of-carbohydrate-metabolism",
-      "topicName": "Inborn Errors of Carbohydrate Metabolism"
+      "topicName": "Inborn Errors of Carbohydrate Metabolism",
+      "tier": "extra"
     },
     {
       "id": "bo37-020",
@@ -9226,7 +9425,8 @@
         "lysosomal glycogen"
       ],
       "topicId": "inborn-errors-of-carbohydrate-metabolism",
-      "topicName": "Inborn Errors of Carbohydrate Metabolism"
+      "topicName": "Inborn Errors of Carbohydrate Metabolism",
+      "tier": "extra"
     },
     {
       "id": "bo37-021",
@@ -9272,7 +9472,8 @@
         "heart failure"
       ],
       "topicId": "inborn-errors-of-carbohydrate-metabolism",
-      "topicName": "Inborn Errors of Carbohydrate Metabolism"
+      "topicName": "Inborn Errors of Carbohydrate Metabolism",
+      "tier": "extra"
     },
     {
       "id": "bo37-022",
@@ -9318,7 +9519,8 @@
         "treatment"
       ],
       "topicId": "inborn-errors-of-carbohydrate-metabolism",
-      "topicName": "Inborn Errors of Carbohydrate Metabolism"
+      "topicName": "Inborn Errors of Carbohydrate Metabolism",
+      "tier": "extra"
     },
     {
       "id": "bo37-023",
@@ -9364,7 +9566,8 @@
         "glycogenolysis mechanism"
       ],
       "topicId": "inborn-errors-of-carbohydrate-metabolism",
-      "topicName": "Inborn Errors of Carbohydrate Metabolism"
+      "topicName": "Inborn Errors of Carbohydrate Metabolism",
+      "tier": "extra"
     },
     {
       "id": "bo37-024",
@@ -9410,7 +9613,8 @@
         "muscle involvement"
       ],
       "topicId": "inborn-errors-of-carbohydrate-metabolism",
-      "topicName": "Inborn Errors of Carbohydrate Metabolism"
+      "topicName": "Inborn Errors of Carbohydrate Metabolism",
+      "tier": "extra"
     },
     {
       "id": "bo37-025",
@@ -9456,7 +9660,8 @@
         "lactate"
       ],
       "topicId": "inborn-errors-of-carbohydrate-metabolism",
-      "topicName": "Inborn Errors of Carbohydrate Metabolism"
+      "topicName": "Inborn Errors of Carbohydrate Metabolism",
+      "tier": "extra"
     },
     {
       "id": "bo37-026",
@@ -9502,7 +9707,8 @@
         "exercise counseling"
       ],
       "topicId": "inborn-errors-of-carbohydrate-metabolism",
-      "topicName": "Inborn Errors of Carbohydrate Metabolism"
+      "topicName": "Inborn Errors of Carbohydrate Metabolism",
+      "tier": "extra"
     },
     {
       "id": "bo37-027",
@@ -9548,7 +9754,8 @@
         "oxidative stress"
       ],
       "topicId": "inborn-errors-of-carbohydrate-metabolism",
-      "topicName": "Inborn Errors of Carbohydrate Metabolism"
+      "topicName": "Inborn Errors of Carbohydrate Metabolism",
+      "tier": "extra"
     },
     {
       "id": "bo37-028",
@@ -9594,7 +9801,8 @@
         "hemolytic anemia"
       ],
       "topicId": "inborn-errors-of-carbohydrate-metabolism",
-      "topicName": "Inborn Errors of Carbohydrate Metabolism"
+      "topicName": "Inborn Errors of Carbohydrate Metabolism",
+      "tier": "extra"
     },
     {
       "id": "bo37-029",
@@ -9640,7 +9848,8 @@
         "oxygen dissociation curve"
       ],
       "topicId": "inborn-errors-of-carbohydrate-metabolism",
-      "topicName": "Inborn Errors of Carbohydrate Metabolism"
+      "topicName": "Inborn Errors of Carbohydrate Metabolism",
+      "tier": "extra"
     },
     {
       "id": "bo37-030",
@@ -9686,7 +9895,8 @@
         "spiculated red cells"
       ],
       "topicId": "inborn-errors-of-carbohydrate-metabolism",
-      "topicName": "Inborn Errors of Carbohydrate Metabolism"
+      "topicName": "Inborn Errors of Carbohydrate Metabolism",
+      "tier": "extra"
     },
     {
       "id": "bo37-031",
@@ -9732,7 +9942,8 @@
         "hemolysis contrast"
       ],
       "topicId": "inborn-errors-of-carbohydrate-metabolism",
-      "topicName": "Inborn Errors of Carbohydrate Metabolism"
+      "topicName": "Inborn Errors of Carbohydrate Metabolism",
+      "tier": "extra"
     },
     {
       "id": "bo37-032",
@@ -9778,7 +9989,8 @@
         "oxaloacetate"
       ],
       "topicId": "inborn-errors-of-carbohydrate-metabolism",
-      "topicName": "Inborn Errors of Carbohydrate Metabolism"
+      "topicName": "Inborn Errors of Carbohydrate Metabolism",
+      "tier": "extra"
     },
     {
       "id": "bo37-033",
@@ -9824,7 +10036,8 @@
         "fasting avoidance"
       ],
       "topicId": "inborn-errors-of-carbohydrate-metabolism",
-      "topicName": "Inborn Errors of Carbohydrate Metabolism"
+      "topicName": "Inborn Errors of Carbohydrate Metabolism",
+      "tier": "extra"
     },
     {
       "id": "bo37-034",
@@ -9870,7 +10083,8 @@
         "lipoic acid"
       ],
       "topicId": "inborn-errors-of-carbohydrate-metabolism",
-      "topicName": "Inborn Errors of Carbohydrate Metabolism"
+      "topicName": "Inborn Errors of Carbohydrate Metabolism",
+      "tier": "extra"
     },
     {
       "id": "bo37-035",
@@ -9916,7 +10130,8 @@
         "TCA cycle"
       ],
       "topicId": "inborn-errors-of-carbohydrate-metabolism",
-      "topicName": "Inborn Errors of Carbohydrate Metabolism"
+      "topicName": "Inborn Errors of Carbohydrate Metabolism",
+      "tier": "extra"
     },
     {
       "id": "bo37-036",
@@ -9962,7 +10177,8 @@
         "fructose and galactose metabolism"
       ],
       "topicId": "inborn-errors-of-carbohydrate-metabolism",
-      "topicName": "Inborn Errors of Carbohydrate Metabolism"
+      "topicName": "Inborn Errors of Carbohydrate Metabolism",
+      "tier": "extra"
     },
     {
       "id": "bo38-001",
@@ -10008,7 +10224,8 @@
         "lipid storage"
       ],
       "topicId": "dyslipidemias-lipid-storage-disorders-and-defects-in-lipid-metabolism",
-      "topicName": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism"
+      "topicName": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism",
+      "tier": "core"
     },
     {
       "id": "bo38-002",
@@ -10054,7 +10271,8 @@
         "cholesterol efflux"
       ],
       "topicId": "dyslipidemias-lipid-storage-disorders-and-defects-in-lipid-metabolism",
-      "topicName": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism"
+      "topicName": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism",
+      "tier": "core"
     },
     {
       "id": "bo38-003",
@@ -10100,7 +10318,8 @@
         "xanthoma"
       ],
       "topicId": "dyslipidemias-lipid-storage-disorders-and-defects-in-lipid-metabolism",
-      "topicName": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism"
+      "topicName": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism",
+      "tier": "core"
     },
     {
       "id": "bo38-004",
@@ -10146,7 +10365,8 @@
         "autosomal dominant"
       ],
       "topicId": "dyslipidemias-lipid-storage-disorders-and-defects-in-lipid-metabolism",
-      "topicName": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism"
+      "topicName": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism",
+      "tier": "core"
     },
     {
       "id": "bo38-005",
@@ -10192,7 +10412,8 @@
         "pancreatitis"
       ],
       "topicId": "dyslipidemias-lipid-storage-disorders-and-defects-in-lipid-metabolism",
-      "topicName": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism"
+      "topicName": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism",
+      "tier": "core"
     },
     {
       "id": "bo38-006",
@@ -10238,7 +10459,8 @@
         "Fredrickson type IV"
       ],
       "topicId": "dyslipidemias-lipid-storage-disorders-and-defects-in-lipid-metabolism",
-      "topicName": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism"
+      "topicName": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism",
+      "tier": "core"
     },
     {
       "id": "bo38-007",
@@ -10284,7 +10506,8 @@
         "Fredrickson type IIb"
       ],
       "topicId": "dyslipidemias-lipid-storage-disorders-and-defects-in-lipid-metabolism",
-      "topicName": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism"
+      "topicName": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism",
+      "tier": "core"
     },
     {
       "id": "bo38-008",
@@ -10330,7 +10553,8 @@
         "therapeutics"
       ],
       "topicId": "dyslipidemias-lipid-storage-disorders-and-defects-in-lipid-metabolism",
-      "topicName": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism"
+      "topicName": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism",
+      "tier": "core"
     },
     {
       "id": "bo38-009",
@@ -10376,7 +10600,8 @@
         "atherosclerosis"
       ],
       "topicId": "dyslipidemias-lipid-storage-disorders-and-defects-in-lipid-metabolism",
-      "topicName": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism"
+      "topicName": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism",
+      "tier": "core"
     },
     {
       "id": "bo38-010",
@@ -10422,7 +10647,8 @@
         "lipoproteins"
       ],
       "topicId": "dyslipidemias-lipid-storage-disorders-and-defects-in-lipid-metabolism",
-      "topicName": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism"
+      "topicName": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism",
+      "tier": "core"
     },
     {
       "id": "bo38-011",
@@ -10468,7 +10694,8 @@
         "beta-oxidation"
       ],
       "topicId": "dyslipidemias-lipid-storage-disorders-and-defects-in-lipid-metabolism",
-      "topicName": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism"
+      "topicName": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism",
+      "tier": "core"
     },
     {
       "id": "bo38-012",
@@ -10514,7 +10741,8 @@
         "dietary management"
       ],
       "topicId": "dyslipidemias-lipid-storage-disorders-and-defects-in-lipid-metabolism",
-      "topicName": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism"
+      "topicName": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism",
+      "tier": "core"
     },
     {
       "id": "bo38-013",
@@ -10560,7 +10788,8 @@
         "classification"
       ],
       "topicId": "dyslipidemias-lipid-storage-disorders-and-defects-in-lipid-metabolism",
-      "topicName": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism"
+      "topicName": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism",
+      "tier": "extra"
     },
     {
       "id": "bo38-014",
@@ -10606,7 +10835,8 @@
         "primary dyslipidemia"
       ],
       "topicId": "dyslipidemias-lipid-storage-disorders-and-defects-in-lipid-metabolism",
-      "topicName": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism"
+      "topicName": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism",
+      "tier": "extra"
     },
     {
       "id": "bo38-015",
@@ -10652,7 +10882,8 @@
         "screening"
       ],
       "topicId": "dyslipidemias-lipid-storage-disorders-and-defects-in-lipid-metabolism",
-      "topicName": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism"
+      "topicName": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism",
+      "tier": "extra"
     },
     {
       "id": "bo38-016",
@@ -10698,7 +10929,8 @@
         "pathophysiology"
       ],
       "topicId": "dyslipidemias-lipid-storage-disorders-and-defects-in-lipid-metabolism",
-      "topicName": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism"
+      "topicName": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism",
+      "tier": "extra"
     },
     {
       "id": "bo38-017",
@@ -10744,7 +10976,8 @@
         "triglycerides"
       ],
       "topicId": "dyslipidemias-lipid-storage-disorders-and-defects-in-lipid-metabolism",
-      "topicName": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism"
+      "topicName": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism",
+      "tier": "extra"
     },
     {
       "id": "bo38-018",
@@ -10790,7 +11023,8 @@
         "VLDL"
       ],
       "topicId": "dyslipidemias-lipid-storage-disorders-and-defects-in-lipid-metabolism",
-      "topicName": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism"
+      "topicName": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism",
+      "tier": "extra"
     },
     {
       "id": "bo38-019",
@@ -10836,7 +11070,8 @@
         "autosomal dominant"
       ],
       "topicId": "dyslipidemias-lipid-storage-disorders-and-defects-in-lipid-metabolism",
-      "topicName": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism"
+      "topicName": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism",
+      "tier": "extra"
     },
     {
       "id": "bo38-020",
@@ -10882,7 +11117,8 @@
         "prognosis"
       ],
       "topicId": "dyslipidemias-lipid-storage-disorders-and-defects-in-lipid-metabolism",
-      "topicName": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism"
+      "topicName": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism",
+      "tier": "extra"
     },
     {
       "id": "bo38-021",
@@ -10928,7 +11164,8 @@
         "autosomal dominant"
       ],
       "topicId": "dyslipidemias-lipid-storage-disorders-and-defects-in-lipid-metabolism",
-      "topicName": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism"
+      "topicName": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism",
+      "tier": "extra"
     },
     {
       "id": "bo38-022",
@@ -10974,7 +11211,8 @@
         "atherosclerosis risk"
       ],
       "topicId": "dyslipidemias-lipid-storage-disorders-and-defects-in-lipid-metabolism",
-      "topicName": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism"
+      "topicName": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism",
+      "tier": "extra"
     },
     {
       "id": "bo38-023",
@@ -11020,7 +11258,8 @@
         "familial dysbetalipoproteinemia"
       ],
       "topicId": "dyslipidemias-lipid-storage-disorders-and-defects-in-lipid-metabolism",
-      "topicName": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism"
+      "topicName": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism",
+      "tier": "extra"
     },
     {
       "id": "bo38-024",
@@ -11066,7 +11305,8 @@
         "physical findings"
       ],
       "topicId": "dyslipidemias-lipid-storage-disorders-and-defects-in-lipid-metabolism",
-      "topicName": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism"
+      "topicName": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism",
+      "tier": "extra"
     },
     {
       "id": "bo38-025",
@@ -11112,7 +11352,8 @@
         "skin findings"
       ],
       "topicId": "dyslipidemias-lipid-storage-disorders-and-defects-in-lipid-metabolism",
-      "topicName": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism"
+      "topicName": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism",
+      "tier": "extra"
     },
     {
       "id": "bo38-026",
@@ -11158,7 +11399,8 @@
         "atherosclerosis"
       ],
       "topicId": "dyslipidemias-lipid-storage-disorders-and-defects-in-lipid-metabolism",
-      "topicName": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism"
+      "topicName": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism",
+      "tier": "extra"
     },
     {
       "id": "bo38-027",
@@ -11204,7 +11446,8 @@
         "atherosclerosis"
       ],
       "topicId": "dyslipidemias-lipid-storage-disorders-and-defects-in-lipid-metabolism",
-      "topicName": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism"
+      "topicName": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism",
+      "tier": "extra"
     },
     {
       "id": "bo38-028",
@@ -11250,7 +11493,8 @@
         "familial hypercholesterolemia"
       ],
       "topicId": "dyslipidemias-lipid-storage-disorders-and-defects-in-lipid-metabolism",
-      "topicName": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism"
+      "topicName": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism",
+      "tier": "extra"
     },
     {
       "id": "bo38-029",
@@ -11296,7 +11540,8 @@
         "reverse cholesterol transport"
       ],
       "topicId": "dyslipidemias-lipid-storage-disorders-and-defects-in-lipid-metabolism",
-      "topicName": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism"
+      "topicName": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism",
+      "tier": "extra"
     },
     {
       "id": "bo38-030",
@@ -11342,7 +11587,8 @@
         "beta-oxidation"
       ],
       "topicId": "dyslipidemias-lipid-storage-disorders-and-defects-in-lipid-metabolism",
-      "topicName": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism"
+      "topicName": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism",
+      "tier": "extra"
     },
     {
       "id": "bo38-031",
@@ -11388,7 +11634,8 @@
         "methionine"
       ],
       "topicId": "dyslipidemias-lipid-storage-disorders-and-defects-in-lipid-metabolism",
-      "topicName": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism"
+      "topicName": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism",
+      "tier": "extra"
     },
     {
       "id": "bo38-032",
@@ -11434,7 +11681,8 @@
         "SLC22A5"
       ],
       "topicId": "dyslipidemias-lipid-storage-disorders-and-defects-in-lipid-metabolism",
-      "topicName": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism"
+      "topicName": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism",
+      "tier": "extra"
     },
     {
       "id": "bo38-033",
@@ -11480,7 +11728,8 @@
         "CoA conservation"
       ],
       "topicId": "dyslipidemias-lipid-storage-disorders-and-defects-in-lipid-metabolism",
-      "topicName": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism"
+      "topicName": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism",
+      "tier": "extra"
     },
     {
       "id": "bo38-034",
@@ -11526,7 +11775,8 @@
         "MCAD deficiency"
       ],
       "topicId": "dyslipidemias-lipid-storage-disorders-and-defects-in-lipid-metabolism",
-      "topicName": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism"
+      "topicName": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism",
+      "tier": "extra"
     },
     {
       "id": "bo38-035",
@@ -11572,7 +11822,8 @@
         "carnitine deficiency"
       ],
       "topicId": "dyslipidemias-lipid-storage-disorders-and-defects-in-lipid-metabolism",
-      "topicName": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism"
+      "topicName": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism",
+      "tier": "extra"
     },
     {
       "id": "bo38-036",
@@ -11618,7 +11869,8 @@
         "MCAD deficiency"
       ],
       "topicId": "dyslipidemias-lipid-storage-disorders-and-defects-in-lipid-metabolism",
-      "topicName": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism"
+      "topicName": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism",
+      "tier": "extra"
     },
     {
       "id": "bo39-001",
@@ -11664,7 +11916,8 @@
         "sphingolipidoses"
       ],
       "topicId": "lysosomal-storage-and-peroxisomal-disorders",
-      "topicName": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism (2 of 2)"
+      "topicName": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism (2 of 2)",
+      "tier": "core"
     },
     {
       "id": "bo39-002",
@@ -11710,7 +11963,8 @@
         "hepatosplenomegaly"
       ],
       "topicId": "lysosomal-storage-and-peroxisomal-disorders",
-      "topicName": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism (2 of 2)"
+      "topicName": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism (2 of 2)",
+      "tier": "core"
     },
     {
       "id": "bo39-003",
@@ -11756,7 +12010,8 @@
         "differential diagnosis"
       ],
       "topicId": "lysosomal-storage-and-peroxisomal-disorders",
-      "topicName": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism (2 of 2)"
+      "topicName": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism (2 of 2)",
+      "tier": "core"
     },
     {
       "id": "bo39-004",
@@ -11802,7 +12057,8 @@
         "Gaucher cells"
       ],
       "topicId": "lysosomal-storage-and-peroxisomal-disorders",
-      "topicName": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism (2 of 2)"
+      "topicName": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism (2 of 2)",
+      "tier": "core"
     },
     {
       "id": "bo39-005",
@@ -11848,7 +12104,8 @@
         "prognosis"
       ],
       "topicId": "lysosomal-storage-and-peroxisomal-disorders",
-      "topicName": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism (2 of 2)"
+      "topicName": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism (2 of 2)",
+      "tier": "core"
     },
     {
       "id": "bo39-006",
@@ -11894,7 +12151,8 @@
         "X-linked"
       ],
       "topicId": "lysosomal-storage-and-peroxisomal-disorders",
-      "topicName": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism (2 of 2)"
+      "topicName": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism (2 of 2)",
+      "tier": "core"
     },
     {
       "id": "bo39-007",
@@ -11940,7 +12198,8 @@
         "vascular endothelium"
       ],
       "topicId": "lysosomal-storage-and-peroxisomal-disorders",
-      "topicName": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism (2 of 2)"
+      "topicName": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism (2 of 2)",
+      "tier": "core"
     },
     {
       "id": "bo39-008",
@@ -11986,7 +12245,8 @@
         "globoid cells"
       ],
       "topicId": "lysosomal-storage-and-peroxisomal-disorders",
-      "topicName": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism (2 of 2)"
+      "topicName": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism (2 of 2)",
+      "tier": "core"
     },
     {
       "id": "bo39-009",
@@ -12032,7 +12292,8 @@
         "PEX"
       ],
       "topicId": "lysosomal-storage-and-peroxisomal-disorders",
-      "topicName": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism (2 of 2)"
+      "topicName": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism (2 of 2)",
+      "tier": "core"
     },
     {
       "id": "bo39-010",
@@ -12078,7 +12339,8 @@
         "VLCFA"
       ],
       "topicId": "lysosomal-storage-and-peroxisomal-disorders",
-      "topicName": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism (2 of 2)"
+      "topicName": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism (2 of 2)",
+      "tier": "core"
     },
     {
       "id": "bo39-011",
@@ -12124,7 +12386,8 @@
         "hydrogen peroxide"
       ],
       "topicId": "lysosomal-storage-and-peroxisomal-disorders",
-      "topicName": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism (2 of 2)"
+      "topicName": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism (2 of 2)",
+      "tier": "core"
     },
     {
       "id": "bo39-012",
@@ -12170,7 +12433,8 @@
         "VLCFA"
       ],
       "topicId": "lysosomal-storage-and-peroxisomal-disorders",
-      "topicName": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism (2 of 2)"
+      "topicName": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism (2 of 2)",
+      "tier": "core"
     },
     {
       "id": "bo39-013",
@@ -12216,7 +12480,8 @@
         "pH"
       ],
       "topicId": "lysosomal-storage-and-peroxisomal-disorders",
-      "topicName": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism (2 of 2)"
+      "topicName": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo39-014",
@@ -12262,7 +12527,8 @@
         "hepatosplenomegaly"
       ],
       "topicId": "lysosomal-storage-and-peroxisomal-disorders",
-      "topicName": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism (2 of 2)"
+      "topicName": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo39-015",
@@ -12308,7 +12574,8 @@
         "cytokines"
       ],
       "topicId": "lysosomal-storage-and-peroxisomal-disorders",
-      "topicName": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism (2 of 2)"
+      "topicName": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo39-016",
@@ -12354,7 +12621,8 @@
         "Hurler syndrome"
       ],
       "topicId": "lysosomal-storage-and-peroxisomal-disorders",
-      "topicName": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism (2 of 2)"
+      "topicName": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo39-017",
@@ -12400,7 +12668,8 @@
         "sphingolipidoses"
       ],
       "topicId": "lysosomal-storage-and-peroxisomal-disorders",
-      "topicName": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism (2 of 2)"
+      "topicName": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo39-018",
@@ -12446,7 +12715,8 @@
         "diagnosis"
       ],
       "topicId": "lysosomal-storage-and-peroxisomal-disorders",
-      "topicName": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism (2 of 2)"
+      "topicName": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo39-019",
@@ -12492,7 +12762,8 @@
         "Cajun"
       ],
       "topicId": "lysosomal-storage-and-peroxisomal-disorders",
-      "topicName": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism (2 of 2)"
+      "topicName": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo39-020",
@@ -12538,7 +12809,8 @@
         "fundoscopy"
       ],
       "topicId": "lysosomal-storage-and-peroxisomal-disorders",
-      "topicName": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism (2 of 2)"
+      "topicName": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo39-021",
@@ -12584,7 +12856,8 @@
         "natural history"
       ],
       "topicId": "lysosomal-storage-and-peroxisomal-disorders",
-      "topicName": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism (2 of 2)"
+      "topicName": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo39-022",
@@ -12630,7 +12903,8 @@
         "foam cells"
       ],
       "topicId": "lysosomal-storage-and-peroxisomal-disorders",
-      "topicName": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism (2 of 2)"
+      "topicName": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo39-023",
@@ -12676,7 +12950,8 @@
         "sphingomyelinase"
       ],
       "topicId": "lysosomal-storage-and-peroxisomal-disorders",
-      "topicName": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism (2 of 2)"
+      "topicName": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo39-024",
@@ -12722,7 +12997,8 @@
         "lysosomal storage disease"
       ],
       "topicId": "lysosomal-storage-and-peroxisomal-disorders",
-      "topicName": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism (2 of 2)"
+      "topicName": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo39-025",
@@ -12768,7 +13044,8 @@
         "bone marrow"
       ],
       "topicId": "lysosomal-storage-and-peroxisomal-disorders",
-      "topicName": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism (2 of 2)"
+      "topicName": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo39-026",
@@ -12814,7 +13091,8 @@
         "bone crisis"
       ],
       "topicId": "lysosomal-storage-and-peroxisomal-disorders",
-      "topicName": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism (2 of 2)"
+      "topicName": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo39-027",
@@ -12860,7 +13138,8 @@
         "prognosis"
       ],
       "topicId": "lysosomal-storage-and-peroxisomal-disorders",
-      "topicName": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism (2 of 2)"
+      "topicName": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo39-028",
@@ -12906,7 +13185,8 @@
         "angiokeratomas"
       ],
       "topicId": "lysosomal-storage-and-peroxisomal-disorders",
-      "topicName": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism (2 of 2)"
+      "topicName": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo39-029",
@@ -12952,7 +13232,8 @@
         "craniofacial abnormalities"
       ],
       "topicId": "lysosomal-storage-and-peroxisomal-disorders",
-      "topicName": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism (2 of 2)"
+      "topicName": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo39-030",
@@ -12998,7 +13279,8 @@
         "galactocerebroside"
       ],
       "topicId": "lysosomal-storage-and-peroxisomal-disorders",
-      "topicName": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism (2 of 2)"
+      "topicName": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo39-031",
@@ -13044,7 +13326,8 @@
         "globoid cells"
       ],
       "topicId": "lysosomal-storage-and-peroxisomal-disorders",
-      "topicName": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism (2 of 2)"
+      "topicName": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo39-032",
@@ -13090,7 +13373,8 @@
         "beta-oxidation"
       ],
       "topicId": "lysosomal-storage-and-peroxisomal-disorders",
-      "topicName": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism (2 of 2)"
+      "topicName": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo39-033",
@@ -13136,7 +13420,8 @@
         "peroxisome biogenesis"
       ],
       "topicId": "lysosomal-storage-and-peroxisomal-disorders",
-      "topicName": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism (2 of 2)"
+      "topicName": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo39-034",
@@ -13182,7 +13467,8 @@
         "hydrogen peroxide"
       ],
       "topicId": "lysosomal-storage-and-peroxisomal-disorders",
-      "topicName": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism (2 of 2)"
+      "topicName": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo39-035",
@@ -13228,7 +13514,8 @@
         "medium-chain fatty acids"
       ],
       "topicId": "lysosomal-storage-and-peroxisomal-disorders",
-      "topicName": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism (2 of 2)"
+      "topicName": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo39-036",
@@ -13275,7 +13562,8 @@
         "Tangier"
       ],
       "topicId": "lysosomal-storage-and-peroxisomal-disorders",
-      "topicName": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism (2 of 2)"
+      "topicName": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism (2 of 2)",
+      "tier": "extra"
     }
   ]
 }

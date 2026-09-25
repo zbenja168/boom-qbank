@@ -46,7 +46,8 @@
         "protein synthesis"
       ],
       "topicId": "metabolic-overview-i-general-reactions",
-      "topicName": "Metabolic Overview I: General Reactions"
+      "topicName": "Metabolic Overview I: General Reactions",
+      "tier": "core"
     },
     {
       "id": "bo01-002",
@@ -92,7 +93,8 @@
         "perspective"
       ],
       "topicId": "metabolic-overview-i-general-reactions",
-      "topicName": "Metabolic Overview I: General Reactions"
+      "topicName": "Metabolic Overview I: General Reactions",
+      "tier": "core"
     },
     {
       "id": "bo01-003",
@@ -138,7 +140,8 @@
         "definitions"
       ],
       "topicId": "metabolic-overview-i-general-reactions",
-      "topicName": "Metabolic Overview I: General Reactions"
+      "topicName": "Metabolic Overview I: General Reactions",
+      "tier": "core"
     },
     {
       "id": "bo01-004",
@@ -185,7 +188,8 @@
         "vitamin A"
       ],
       "topicId": "metabolic-overview-i-general-reactions",
-      "topicName": "Metabolic Overview I: General Reactions"
+      "topicName": "Metabolic Overview I: General Reactions",
+      "tier": "core"
     },
     {
       "id": "bo01-005",
@@ -231,7 +235,8 @@
         "oxidation"
       ],
       "topicId": "metabolic-overview-i-general-reactions",
-      "topicName": "Metabolic Overview I: General Reactions"
+      "topicName": "Metabolic Overview I: General Reactions",
+      "tier": "core"
     },
     {
       "id": "bo01-006",
@@ -277,7 +282,8 @@
         "ATP"
       ],
       "topicId": "metabolic-overview-i-general-reactions",
-      "topicName": "Metabolic Overview I: General Reactions"
+      "topicName": "Metabolic Overview I: General Reactions",
+      "tier": "core"
     },
     {
       "id": "bo01-007",
@@ -324,7 +330,8 @@
         "oxidation"
       ],
       "topicId": "metabolic-overview-i-general-reactions",
-      "topicName": "Metabolic Overview I: General Reactions"
+      "topicName": "Metabolic Overview I: General Reactions",
+      "tier": "core"
     },
     {
       "id": "bo01-008",
@@ -370,7 +377,8 @@
         "catabolism"
       ],
       "topicId": "metabolic-overview-i-general-reactions",
-      "topicName": "Metabolic Overview I: General Reactions"
+      "topicName": "Metabolic Overview I: General Reactions",
+      "tier": "core"
     },
     {
       "id": "bo01-009",
@@ -417,7 +425,8 @@
         "clinical correlation"
       ],
       "topicId": "metabolic-overview-i-general-reactions",
-      "topicName": "Metabolic Overview I: General Reactions"
+      "topicName": "Metabolic Overview I: General Reactions",
+      "tier": "core"
     },
     {
       "id": "bo01-010",
@@ -464,7 +473,8 @@
         "oxygen"
       ],
       "topicId": "metabolic-overview-i-general-reactions",
-      "topicName": "Metabolic Overview I: General Reactions"
+      "topicName": "Metabolic Overview I: General Reactions",
+      "tier": "core"
     },
     {
       "id": "bo01-011",
@@ -510,7 +520,8 @@
         "glycogenesis"
       ],
       "topicId": "metabolic-overview-i-general-reactions",
-      "topicName": "Metabolic Overview I: General Reactions"
+      "topicName": "Metabolic Overview I: General Reactions",
+      "tier": "core"
     },
     {
       "id": "bo01-012",
@@ -557,7 +568,8 @@
         "clinical correlation"
       ],
       "topicId": "metabolic-overview-i-general-reactions",
-      "topicName": "Metabolic Overview I: General Reactions"
+      "topicName": "Metabolic Overview I: General Reactions",
+      "tier": "core"
     },
     {
       "id": "bo01-013",
@@ -604,7 +616,8 @@
         "definitions"
       ],
       "topicId": "metabolic-overview-i-general-reactions",
-      "topicName": "Metabolic Overview I: General Reactions"
+      "topicName": "Metabolic Overview I: General Reactions",
+      "tier": "extra"
     },
     {
       "id": "bo01-014",
@@ -650,7 +663,8 @@
         "energy release"
       ],
       "topicId": "metabolic-overview-i-general-reactions",
-      "topicName": "Metabolic Overview I: General Reactions"
+      "topicName": "Metabolic Overview I: General Reactions",
+      "tier": "extra"
     },
     {
       "id": "bo01-015",
@@ -697,7 +711,8 @@
         "global pathway"
       ],
       "topicId": "metabolic-overview-i-general-reactions",
-      "topicName": "Metabolic Overview I: General Reactions"
+      "topicName": "Metabolic Overview I: General Reactions",
+      "tier": "extra"
     },
     {
       "id": "bo01-016",
@@ -743,7 +758,8 @@
         "electron shuttle"
       ],
       "topicId": "metabolic-overview-i-general-reactions",
-      "topicName": "Metabolic Overview I: General Reactions"
+      "topicName": "Metabolic Overview I: General Reactions",
+      "tier": "extra"
     },
     {
       "id": "bo01-017",
@@ -790,7 +806,8 @@
         "coenzymes"
       ],
       "topicId": "metabolic-overview-i-general-reactions",
-      "topicName": "Metabolic Overview I: General Reactions"
+      "topicName": "Metabolic Overview I: General Reactions",
+      "tier": "extra"
     },
     {
       "id": "bo01-018",
@@ -837,7 +854,8 @@
         "terminology"
       ],
       "topicId": "metabolic-overview-i-general-reactions",
-      "topicName": "Metabolic Overview I: General Reactions"
+      "topicName": "Metabolic Overview I: General Reactions",
+      "tier": "extra"
     },
     {
       "id": "bo01-019",
@@ -883,7 +901,8 @@
         "functional groups"
       ],
       "topicId": "metabolic-overview-i-general-reactions",
-      "topicName": "Metabolic Overview I: General Reactions"
+      "topicName": "Metabolic Overview I: General Reactions",
+      "tier": "extra"
     },
     {
       "id": "bo01-020",
@@ -930,7 +949,8 @@
         "alcohol dehydrogenase"
       ],
       "topicId": "metabolic-overview-i-general-reactions",
-      "topicName": "Metabolic Overview I: General Reactions"
+      "topicName": "Metabolic Overview I: General Reactions",
+      "tier": "extra"
     },
     {
       "id": "bo01-021",
@@ -976,7 +996,8 @@
         "reductive pathway"
       ],
       "topicId": "metabolic-overview-i-general-reactions",
-      "topicName": "Metabolic Overview I: General Reactions"
+      "topicName": "Metabolic Overview I: General Reactions",
+      "tier": "extra"
     },
     {
       "id": "bo01-022",
@@ -1022,7 +1043,8 @@
         "NADP"
       ],
       "topicId": "metabolic-overview-i-general-reactions",
-      "topicName": "Metabolic Overview I: General Reactions"
+      "topicName": "Metabolic Overview I: General Reactions",
+      "tier": "extra"
     },
     {
       "id": "bo01-023",
@@ -1069,7 +1091,8 @@
         "water"
       ],
       "topicId": "metabolic-overview-i-general-reactions",
-      "topicName": "Metabolic Overview I: General Reactions"
+      "topicName": "Metabolic Overview I: General Reactions",
+      "tier": "extra"
     },
     {
       "id": "bo01-024",
@@ -1116,7 +1139,8 @@
         "oxidation state"
       ],
       "topicId": "metabolic-overview-i-general-reactions",
-      "topicName": "Metabolic Overview I: General Reactions"
+      "topicName": "Metabolic Overview I: General Reactions",
+      "tier": "extra"
     },
     {
       "id": "bo01-025",
@@ -1162,7 +1186,8 @@
         "intermembrane space"
       ],
       "topicId": "metabolic-overview-i-general-reactions",
-      "topicName": "Metabolic Overview I: General Reactions"
+      "topicName": "Metabolic Overview I: General Reactions",
+      "tier": "extra"
     },
     {
       "id": "bo01-026",
@@ -1208,7 +1233,8 @@
         "mitochondrial matrix"
       ],
       "topicId": "metabolic-overview-i-general-reactions",
-      "topicName": "Metabolic Overview I: General Reactions"
+      "topicName": "Metabolic Overview I: General Reactions",
+      "tier": "extra"
     },
     {
       "id": "bo01-027",
@@ -1254,7 +1280,8 @@
         "decompression sickness"
       ],
       "topicId": "metabolic-overview-i-general-reactions",
-      "topicName": "Metabolic Overview I: General Reactions"
+      "topicName": "Metabolic Overview I: General Reactions",
+      "tier": "extra"
     },
     {
       "id": "bo01-028",
@@ -1301,7 +1328,8 @@
         "oxygen delivery"
       ],
       "topicId": "metabolic-overview-i-general-reactions",
-      "topicName": "Metabolic Overview I: General Reactions"
+      "topicName": "Metabolic Overview I: General Reactions",
+      "tier": "extra"
     },
     {
       "id": "bo01-029",
@@ -1347,7 +1375,8 @@
         "enzyme kinetics"
       ],
       "topicId": "metabolic-overview-i-general-reactions",
-      "topicName": "Metabolic Overview I: General Reactions"
+      "topicName": "Metabolic Overview I: General Reactions",
+      "tier": "extra"
     },
     {
       "id": "bo01-030",
@@ -1393,7 +1422,8 @@
         "glycogenolysis"
       ],
       "topicId": "metabolic-overview-i-general-reactions",
-      "topicName": "Metabolic Overview I: General Reactions"
+      "topicName": "Metabolic Overview I: General Reactions",
+      "tier": "extra"
     },
     {
       "id": "bo01-031",
@@ -1440,7 +1470,8 @@
         "glycogen depletion"
       ],
       "topicId": "metabolic-overview-i-general-reactions",
-      "topicName": "Metabolic Overview I: General Reactions"
+      "topicName": "Metabolic Overview I: General Reactions",
+      "tier": "extra"
     },
     {
       "id": "bo01-032",
@@ -1486,7 +1517,8 @@
         "oxidative catabolism"
       ],
       "topicId": "metabolic-overview-i-general-reactions",
-      "topicName": "Metabolic Overview I: General Reactions"
+      "topicName": "Metabolic Overview I: General Reactions",
+      "tier": "extra"
     },
     {
       "id": "bo01-033",
@@ -1532,7 +1564,8 @@
         "glucose storage"
       ],
       "topicId": "metabolic-overview-i-general-reactions",
-      "topicName": "Metabolic Overview I: General Reactions"
+      "topicName": "Metabolic Overview I: General Reactions",
+      "tier": "extra"
     },
     {
       "id": "bo01-034",
@@ -1579,7 +1612,8 @@
         "fed state"
       ],
       "topicId": "metabolic-overview-i-general-reactions",
-      "topicName": "Metabolic Overview I: General Reactions"
+      "topicName": "Metabolic Overview I: General Reactions",
+      "tier": "extra"
     },
     {
       "id": "bo01-035",
@@ -1625,7 +1659,8 @@
         "cofactor vs biomolecule"
       ],
       "topicId": "metabolic-overview-i-general-reactions",
-      "topicName": "Metabolic Overview I: General Reactions"
+      "topicName": "Metabolic Overview I: General Reactions",
+      "tier": "extra"
     },
     {
       "id": "bo01-036",
@@ -1672,7 +1707,8 @@
         "reversibility"
       ],
       "topicId": "metabolic-overview-i-general-reactions",
-      "topicName": "Metabolic Overview I: General Reactions"
+      "topicName": "Metabolic Overview I: General Reactions",
+      "tier": "extra"
     },
     {
       "id": "bo02-001",
@@ -1718,7 +1754,8 @@
         "ATP generation"
       ],
       "topicId": "metabolic-overview-i-general-reactions-2-of-2",
-      "topicName": "Metabolic Overview I: General Reactions (2 of 2)"
+      "topicName": "Metabolic Overview I: General Reactions (2 of 2)",
+      "tier": "core"
     },
     {
       "id": "bo02-002",
@@ -1764,7 +1801,8 @@
         "lactate dehydrogenase"
       ],
       "topicId": "metabolic-overview-i-general-reactions-2-of-2",
-      "topicName": "Metabolic Overview I: General Reactions (2 of 2)"
+      "topicName": "Metabolic Overview I: General Reactions (2 of 2)",
+      "tier": "core"
     },
     {
       "id": "bo02-003",
@@ -1810,7 +1848,8 @@
         "lactate"
       ],
       "topicId": "metabolic-overview-i-general-reactions-2-of-2",
-      "topicName": "Metabolic Overview I: General Reactions (2 of 2)"
+      "topicName": "Metabolic Overview I: General Reactions (2 of 2)",
+      "tier": "core"
     },
     {
       "id": "bo02-004",
@@ -1857,7 +1896,8 @@
         "NADH"
       ],
       "topicId": "metabolic-overview-i-general-reactions-2-of-2",
-      "topicName": "Metabolic Overview I: General Reactions (2 of 2)"
+      "topicName": "Metabolic Overview I: General Reactions (2 of 2)",
+      "tier": "core"
     },
     {
       "id": "bo02-005",
@@ -1904,7 +1944,8 @@
         "toxic alcohol"
       ],
       "topicId": "metabolic-overview-i-general-reactions-2-of-2",
-      "topicName": "Metabolic Overview I: General Reactions (2 of 2)"
+      "topicName": "Metabolic Overview I: General Reactions (2 of 2)",
+      "tier": "core"
     },
     {
       "id": "bo02-006",
@@ -1951,7 +1992,8 @@
         "renal failure"
       ],
       "topicId": "metabolic-overview-i-general-reactions-2-of-2",
-      "topicName": "Metabolic Overview I: General Reactions (2 of 2)"
+      "topicName": "Metabolic Overview I: General Reactions (2 of 2)",
+      "tier": "core"
     },
     {
       "id": "bo02-007",
@@ -1998,7 +2040,8 @@
         "malnutrition"
       ],
       "topicId": "metabolic-overview-i-general-reactions-2-of-2",
-      "topicName": "Metabolic Overview I: General Reactions (2 of 2)"
+      "topicName": "Metabolic Overview I: General Reactions (2 of 2)",
+      "tier": "core"
     },
     {
       "id": "bo02-008",
@@ -2044,7 +2087,8 @@
         "wasting"
       ],
       "topicId": "metabolic-overview-i-general-reactions-2-of-2",
-      "topicName": "Metabolic Overview I: General Reactions (2 of 2)"
+      "topicName": "Metabolic Overview I: General Reactions (2 of 2)",
+      "tier": "core"
     },
     {
       "id": "bo02-009",
@@ -2090,7 +2134,8 @@
         "calculation"
       ],
       "topicId": "metabolic-overview-i-general-reactions-2-of-2",
-      "topicName": "Metabolic Overview I: General Reactions (2 of 2)"
+      "topicName": "Metabolic Overview I: General Reactions (2 of 2)",
+      "tier": "core"
     },
     {
       "id": "bo02-010",
@@ -2137,7 +2182,8 @@
         "hypoglycemia"
       ],
       "topicId": "metabolic-overview-i-general-reactions-2-of-2",
-      "topicName": "Metabolic Overview I: General Reactions (2 of 2)"
+      "topicName": "Metabolic Overview I: General Reactions (2 of 2)",
+      "tier": "core"
     },
     {
       "id": "bo02-011",
@@ -2183,7 +2229,8 @@
         "acetyl-CoA"
       ],
       "topicId": "metabolic-overview-i-general-reactions-2-of-2",
-      "topicName": "Metabolic Overview I: General Reactions (2 of 2)"
+      "topicName": "Metabolic Overview I: General Reactions (2 of 2)",
+      "tier": "core"
     },
     {
       "id": "bo02-012",
@@ -2230,7 +2277,8 @@
         "enzyme induction"
       ],
       "topicId": "metabolic-overview-i-general-reactions-2-of-2",
-      "topicName": "Metabolic Overview I: General Reactions (2 of 2)"
+      "topicName": "Metabolic Overview I: General Reactions (2 of 2)",
+      "tier": "core"
     },
     {
       "id": "bo02-013",
@@ -2276,7 +2324,8 @@
         "energy metabolism"
       ],
       "topicId": "metabolic-overview-i-general-reactions-2-of-2",
-      "topicName": "Metabolic Overview I: General Reactions (2 of 2)"
+      "topicName": "Metabolic Overview I: General Reactions (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo02-014",
@@ -2323,7 +2372,8 @@
         "NADH"
       ],
       "topicId": "metabolic-overview-i-general-reactions-2-of-2",
-      "topicName": "Metabolic Overview I: General Reactions (2 of 2)"
+      "topicName": "Metabolic Overview I: General Reactions (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo02-015",
@@ -2370,7 +2420,8 @@
         "biomarker"
       ],
       "topicId": "metabolic-overview-i-general-reactions-2-of-2",
-      "topicName": "Metabolic Overview I: General Reactions (2 of 2)"
+      "topicName": "Metabolic Overview I: General Reactions (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo02-016",
@@ -2416,7 +2467,8 @@
         "head circumference"
       ],
       "topicId": "metabolic-overview-i-general-reactions-2-of-2",
-      "topicName": "Metabolic Overview I: General Reactions (2 of 2)"
+      "topicName": "Metabolic Overview I: General Reactions (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo02-017",
@@ -2463,7 +2515,8 @@
         "dehydration"
       ],
       "topicId": "metabolic-overview-i-general-reactions-2-of-2",
-      "topicName": "Metabolic Overview I: General Reactions (2 of 2)"
+      "topicName": "Metabolic Overview I: General Reactions (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo02-018",
@@ -2510,7 +2563,8 @@
         "end-stage"
       ],
       "topicId": "metabolic-overview-i-general-reactions-2-of-2",
-      "topicName": "Metabolic Overview I: General Reactions (2 of 2)"
+      "topicName": "Metabolic Overview I: General Reactions (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo02-019",
@@ -2556,7 +2610,8 @@
         "weight for height"
       ],
       "topicId": "metabolic-overview-i-general-reactions-2-of-2",
-      "topicName": "Metabolic Overview I: General Reactions (2 of 2)"
+      "topicName": "Metabolic Overview I: General Reactions (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo02-020",
@@ -2603,7 +2658,8 @@
         "triglyceride"
       ],
       "topicId": "metabolic-overview-i-general-reactions-2-of-2",
-      "topicName": "Metabolic Overview I: General Reactions (2 of 2)"
+      "topicName": "Metabolic Overview I: General Reactions (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo02-021",
@@ -2650,7 +2706,8 @@
         "wasting"
       ],
       "topicId": "metabolic-overview-i-general-reactions-2-of-2",
-      "topicName": "Metabolic Overview I: General Reactions (2 of 2)"
+      "topicName": "Metabolic Overview I: General Reactions (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo02-022",
@@ -2696,7 +2753,8 @@
         "pharmacology"
       ],
       "topicId": "metabolic-overview-i-general-reactions-2-of-2",
-      "topicName": "Metabolic Overview I: General Reactions (2 of 2)"
+      "topicName": "Metabolic Overview I: General Reactions (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo02-023",
@@ -2743,7 +2801,8 @@
         "TCA cycle"
       ],
       "topicId": "metabolic-overview-i-general-reactions-2-of-2",
-      "topicName": "Metabolic Overview I: General Reactions (2 of 2)"
+      "topicName": "Metabolic Overview I: General Reactions (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo02-024",
@@ -2790,7 +2849,8 @@
         "hydrogen peroxide"
       ],
       "topicId": "metabolic-overview-i-general-reactions-2-of-2",
-      "topicName": "Metabolic Overview I: General Reactions (2 of 2)"
+      "topicName": "Metabolic Overview I: General Reactions (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo02-025",
@@ -2837,7 +2897,8 @@
         "ethanol oxidation"
       ],
       "topicId": "metabolic-overview-i-general-reactions-2-of-2",
-      "topicName": "Metabolic Overview I: General Reactions (2 of 2)"
+      "topicName": "Metabolic Overview I: General Reactions (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo02-026",
@@ -2884,7 +2945,8 @@
         "acetate"
       ],
       "topicId": "metabolic-overview-i-general-reactions-2-of-2",
-      "topicName": "Metabolic Overview I: General Reactions (2 of 2)"
+      "topicName": "Metabolic Overview I: General Reactions (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo02-027",
@@ -2931,7 +2993,8 @@
         "lipid metabolism"
       ],
       "topicId": "metabolic-overview-i-general-reactions-2-of-2",
-      "topicName": "Metabolic Overview I: General Reactions (2 of 2)"
+      "topicName": "Metabolic Overview I: General Reactions (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo02-028",
@@ -2977,7 +3040,8 @@
         "hypothermia"
       ],
       "topicId": "metabolic-overview-i-general-reactions-2-of-2",
-      "topicName": "Metabolic Overview I: General Reactions (2 of 2)"
+      "topicName": "Metabolic Overview I: General Reactions (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo02-029",
@@ -3023,7 +3087,8 @@
         "alcohol dehydrogenase"
       ],
       "topicId": "metabolic-overview-i-general-reactions-2-of-2",
-      "topicName": "Metabolic Overview I: General Reactions (2 of 2)"
+      "topicName": "Metabolic Overview I: General Reactions (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo02-030",
@@ -3070,7 +3135,8 @@
         "acid-base neutralization"
       ],
       "topicId": "metabolic-overview-i-general-reactions-2-of-2",
-      "topicName": "Metabolic Overview I: General Reactions (2 of 2)"
+      "topicName": "Metabolic Overview I: General Reactions (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo02-031",
@@ -3116,7 +3182,8 @@
         "kidney stones"
       ],
       "topicId": "metabolic-overview-i-general-reactions-2-of-2",
-      "topicName": "Metabolic Overview I: General Reactions (2 of 2)"
+      "topicName": "Metabolic Overview I: General Reactions (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo02-032",
@@ -3162,7 +3229,8 @@
         "formula"
       ],
       "topicId": "metabolic-overview-i-general-reactions-2-of-2",
-      "topicName": "Metabolic Overview I: General Reactions (2 of 2)"
+      "topicName": "Metabolic Overview I: General Reactions (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo02-033",
@@ -3209,7 +3277,8 @@
         "serum neutrality"
       ],
       "topicId": "metabolic-overview-i-general-reactions-2-of-2",
-      "topicName": "Metabolic Overview I: General Reactions (2 of 2)"
+      "topicName": "Metabolic Overview I: General Reactions (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo02-034",
@@ -3256,7 +3325,8 @@
         "bicarbonate"
       ],
       "topicId": "metabolic-overview-i-general-reactions-2-of-2",
-      "topicName": "Metabolic Overview I: General Reactions (2 of 2)"
+      "topicName": "Metabolic Overview I: General Reactions (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo02-035",
@@ -3303,7 +3373,8 @@
         "methanol"
       ],
       "topicId": "metabolic-overview-i-general-reactions-2-of-2",
-      "topicName": "Metabolic Overview I: General Reactions (2 of 2)"
+      "topicName": "Metabolic Overview I: General Reactions (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo02-036",
@@ -3350,7 +3421,8 @@
         "anion gap"
       ],
       "topicId": "metabolic-overview-i-general-reactions-2-of-2",
-      "topicName": "Metabolic Overview I: General Reactions (2 of 2)"
+      "topicName": "Metabolic Overview I: General Reactions (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo03-001",
@@ -3396,7 +3468,8 @@
         "liver metabolism"
       ],
       "topicId": "metabolic-overview-ii-oxphos",
-      "topicName": "Metabolic Overview II: OXPHOS"
+      "topicName": "Metabolic Overview II: OXPHOS",
+      "tier": "core"
     },
     {
       "id": "bo03-002",
@@ -3442,7 +3515,8 @@
         "reduced coenzymes"
       ],
       "topicId": "metabolic-overview-ii-oxphos",
-      "topicName": "Metabolic Overview II: OXPHOS"
+      "topicName": "Metabolic Overview II: OXPHOS",
+      "tier": "core"
     },
     {
       "id": "bo03-003",
@@ -3488,7 +3562,8 @@
         "coenzyme Q"
       ],
       "topicId": "metabolic-overview-ii-oxphos",
-      "topicName": "Metabolic Overview II: OXPHOS"
+      "topicName": "Metabolic Overview II: OXPHOS",
+      "tier": "core"
     },
     {
       "id": "bo03-004",
@@ -3534,7 +3609,8 @@
         "chemiosmosis"
       ],
       "topicId": "metabolic-overview-ii-oxphos",
-      "topicName": "Metabolic Overview II: OXPHOS"
+      "topicName": "Metabolic Overview II: OXPHOS",
+      "tier": "core"
     },
     {
       "id": "bo03-005",
@@ -3580,7 +3656,8 @@
         "coupling"
       ],
       "topicId": "metabolic-overview-ii-oxphos",
-      "topicName": "Metabolic Overview II: OXPHOS"
+      "topicName": "Metabolic Overview II: OXPHOS",
+      "tier": "core"
     },
     {
       "id": "bo03-006",
@@ -3626,7 +3703,8 @@
         "heat production"
       ],
       "topicId": "metabolic-overview-ii-oxphos",
-      "topicName": "Metabolic Overview II: OXPHOS"
+      "topicName": "Metabolic Overview II: OXPHOS",
+      "tier": "core"
     },
     {
       "id": "bo03-007",
@@ -3672,7 +3750,8 @@
         "inborn errors of metabolism"
       ],
       "topicId": "metabolic-overview-ii-oxphos",
-      "topicName": "Metabolic Overview II: OXPHOS"
+      "topicName": "Metabolic Overview II: OXPHOS",
+      "tier": "core"
     },
     {
       "id": "bo03-008",
@@ -3718,7 +3797,8 @@
         "ribose 5-phosphate"
       ],
       "topicId": "metabolic-overview-ii-oxphos",
-      "topicName": "Metabolic Overview II: OXPHOS"
+      "topicName": "Metabolic Overview II: OXPHOS",
+      "tier": "core"
     },
     {
       "id": "bo03-009",
@@ -3764,7 +3844,8 @@
         "mitochondrial matrix"
       ],
       "topicId": "metabolic-overview-ii-oxphos",
-      "topicName": "Metabolic Overview II: OXPHOS"
+      "topicName": "Metabolic Overview II: OXPHOS",
+      "tier": "core"
     },
     {
       "id": "bo03-010",
@@ -3810,7 +3891,8 @@
         "caspases"
       ],
       "topicId": "metabolic-overview-ii-oxphos",
-      "topicName": "Metabolic Overview II: OXPHOS"
+      "topicName": "Metabolic Overview II: OXPHOS",
+      "tier": "core"
     },
     {
       "id": "bo03-011",
@@ -3856,7 +3938,8 @@
         "complex II"
       ],
       "topicId": "metabolic-overview-ii-oxphos",
-      "topicName": "Metabolic Overview II: OXPHOS"
+      "topicName": "Metabolic Overview II: OXPHOS",
+      "tier": "core"
     },
     {
       "id": "bo03-012",
@@ -3902,7 +3985,8 @@
         "ATP production"
       ],
       "topicId": "metabolic-overview-ii-oxphos",
-      "topicName": "Metabolic Overview II: OXPHOS"
+      "topicName": "Metabolic Overview II: OXPHOS",
+      "tier": "core"
     },
     {
       "id": "bo03-013",
@@ -3948,7 +4032,8 @@
         "cell biology"
       ],
       "topicId": "metabolic-overview-ii-oxphos",
-      "topicName": "Metabolic Overview II: OXPHOS"
+      "topicName": "Metabolic Overview II: OXPHOS",
+      "tier": "extra"
     },
     {
       "id": "bo03-014",
@@ -3994,7 +4079,8 @@
         "cellular locale"
       ],
       "topicId": "metabolic-overview-ii-oxphos",
-      "topicName": "Metabolic Overview II: OXPHOS"
+      "topicName": "Metabolic Overview II: OXPHOS",
+      "tier": "extra"
     },
     {
       "id": "bo03-015",
@@ -4040,7 +4126,8 @@
         "glucose 6-phosphatase"
       ],
       "topicId": "metabolic-overview-ii-oxphos",
-      "topicName": "Metabolic Overview II: OXPHOS"
+      "topicName": "Metabolic Overview II: OXPHOS",
+      "tier": "extra"
     },
     {
       "id": "bo03-016",
@@ -4086,7 +4173,8 @@
         "fasting"
       ],
       "topicId": "metabolic-overview-ii-oxphos",
-      "topicName": "Metabolic Overview II: OXPHOS"
+      "topicName": "Metabolic Overview II: OXPHOS",
+      "tier": "extra"
     },
     {
       "id": "bo03-017",
@@ -4132,7 +4220,8 @@
         "AMP"
       ],
       "topicId": "metabolic-overview-ii-oxphos",
-      "topicName": "Metabolic Overview II: OXPHOS"
+      "topicName": "Metabolic Overview II: OXPHOS",
+      "tier": "extra"
     },
     {
       "id": "bo03-018",
@@ -4178,7 +4267,8 @@
         "lactate"
       ],
       "topicId": "metabolic-overview-ii-oxphos",
-      "topicName": "Metabolic Overview II: OXPHOS"
+      "topicName": "Metabolic Overview II: OXPHOS",
+      "tier": "extra"
     },
     {
       "id": "bo03-019",
@@ -4224,7 +4314,8 @@
         "regulation"
       ],
       "topicId": "metabolic-overview-ii-oxphos",
-      "topicName": "Metabolic Overview II: OXPHOS"
+      "topicName": "Metabolic Overview II: OXPHOS",
+      "tier": "extra"
     },
     {
       "id": "bo03-020",
@@ -4270,7 +4361,8 @@
         "acetyl-CoA"
       ],
       "topicId": "metabolic-overview-ii-oxphos",
-      "topicName": "Metabolic Overview II: OXPHOS"
+      "topicName": "Metabolic Overview II: OXPHOS",
+      "tier": "extra"
     },
     {
       "id": "bo03-021",
@@ -4316,7 +4408,8 @@
         "regulation"
       ],
       "topicId": "metabolic-overview-ii-oxphos",
-      "topicName": "Metabolic Overview II: OXPHOS"
+      "topicName": "Metabolic Overview II: OXPHOS",
+      "tier": "extra"
     },
     {
       "id": "bo03-022",
@@ -4362,7 +4455,8 @@
         "regulation"
       ],
       "topicId": "metabolic-overview-ii-oxphos",
-      "topicName": "Metabolic Overview II: OXPHOS"
+      "topicName": "Metabolic Overview II: OXPHOS",
+      "tier": "extra"
     },
     {
       "id": "bo03-023",
@@ -4408,7 +4502,8 @@
         "water"
       ],
       "topicId": "metabolic-overview-ii-oxphos",
-      "topicName": "Metabolic Overview II: OXPHOS"
+      "topicName": "Metabolic Overview II: OXPHOS",
+      "tier": "extra"
     },
     {
       "id": "bo03-024",
@@ -4454,7 +4549,8 @@
         "electron transport chain"
       ],
       "topicId": "metabolic-overview-ii-oxphos",
-      "topicName": "Metabolic Overview II: OXPHOS"
+      "topicName": "Metabolic Overview II: OXPHOS",
+      "tier": "extra"
     },
     {
       "id": "bo03-025",
@@ -4500,7 +4596,8 @@
         "electron transport chain"
       ],
       "topicId": "metabolic-overview-ii-oxphos",
-      "topicName": "Metabolic Overview II: OXPHOS"
+      "topicName": "Metabolic Overview II: OXPHOS",
+      "tier": "extra"
     },
     {
       "id": "bo03-026",
@@ -4546,7 +4643,8 @@
         "dam analogy"
       ],
       "topicId": "metabolic-overview-ii-oxphos",
-      "topicName": "Metabolic Overview II: OXPHOS"
+      "topicName": "Metabolic Overview II: OXPHOS",
+      "tier": "extra"
     },
     {
       "id": "bo03-027",
@@ -4592,7 +4690,8 @@
         "intermembrane space"
       ],
       "topicId": "metabolic-overview-ii-oxphos",
-      "topicName": "Metabolic Overview II: OXPHOS"
+      "topicName": "Metabolic Overview II: OXPHOS",
+      "tier": "extra"
     },
     {
       "id": "bo03-028",
@@ -4638,7 +4737,8 @@
         "electron transfer"
       ],
       "topicId": "metabolic-overview-ii-oxphos",
-      "topicName": "Metabolic Overview II: OXPHOS"
+      "topicName": "Metabolic Overview II: OXPHOS",
+      "tier": "extra"
     },
     {
       "id": "bo03-029",
@@ -4684,7 +4784,8 @@
         "terminal acceptor"
       ],
       "topicId": "metabolic-overview-ii-oxphos",
-      "topicName": "Metabolic Overview II: OXPHOS"
+      "topicName": "Metabolic Overview II: OXPHOS",
+      "tier": "extra"
     },
     {
       "id": "bo03-030",
@@ -4730,7 +4831,8 @@
         "organelle defect"
       ],
       "topicId": "metabolic-overview-ii-oxphos",
-      "topicName": "Metabolic Overview II: OXPHOS"
+      "topicName": "Metabolic Overview II: OXPHOS",
+      "tier": "extra"
     },
     {
       "id": "bo03-031",
@@ -4776,7 +4878,8 @@
         "lysosome"
       ],
       "topicId": "metabolic-overview-ii-oxphos",
-      "topicName": "Metabolic Overview II: OXPHOS"
+      "topicName": "Metabolic Overview II: OXPHOS",
+      "tier": "extra"
     },
     {
       "id": "bo03-032",
@@ -4822,7 +4925,8 @@
         "Zellweger spectrum disorder"
       ],
       "topicId": "metabolic-overview-ii-oxphos",
-      "topicName": "Metabolic Overview II: OXPHOS"
+      "topicName": "Metabolic Overview II: OXPHOS",
+      "tier": "extra"
     },
     {
       "id": "bo03-033",
@@ -4868,7 +4972,8 @@
         "cytoplasm"
       ],
       "topicId": "metabolic-overview-ii-oxphos",
-      "topicName": "Metabolic Overview II: OXPHOS"
+      "topicName": "Metabolic Overview II: OXPHOS",
+      "tier": "extra"
     },
     {
       "id": "bo03-034",
@@ -4914,7 +5019,8 @@
         "mitochondrial matrix"
       ],
       "topicId": "metabolic-overview-ii-oxphos",
-      "topicName": "Metabolic Overview II: OXPHOS"
+      "topicName": "Metabolic Overview II: OXPHOS",
+      "tier": "extra"
     },
     {
       "id": "bo03-035",
@@ -4960,7 +5066,8 @@
         "gluconeogenesis"
       ],
       "topicId": "metabolic-overview-ii-oxphos",
-      "topicName": "Metabolic Overview II: OXPHOS"
+      "topicName": "Metabolic Overview II: OXPHOS",
+      "tier": "extra"
     },
     {
       "id": "bo03-036",
@@ -5006,7 +5113,8 @@
         "blood glucose regulation"
       ],
       "topicId": "metabolic-overview-ii-oxphos",
-      "topicName": "Metabolic Overview II: OXPHOS"
+      "topicName": "Metabolic Overview II: OXPHOS",
+      "tier": "extra"
     },
     {
       "id": "bo04-001",
@@ -5053,7 +5161,8 @@
         "OXPHOS"
       ],
       "topicId": "oxphos-uncouplers-and-inhibitors",
-      "topicName": "Metabolic Overview II: OXPHOS Uncouplers and Inhibitors"
+      "topicName": "Metabolic Overview II: OXPHOS Uncouplers and Inhibitors",
+      "tier": "core"
     },
     {
       "id": "bo04-002",
@@ -5100,7 +5209,8 @@
         "inhibitors"
       ],
       "topicId": "oxphos-uncouplers-and-inhibitors",
-      "topicName": "Metabolic Overview II: OXPHOS Uncouplers and Inhibitors"
+      "topicName": "Metabolic Overview II: OXPHOS Uncouplers and Inhibitors",
+      "tier": "core"
     },
     {
       "id": "bo04-003",
@@ -5147,7 +5257,8 @@
         "thermogenesis"
       ],
       "topicId": "oxphos-uncouplers-and-inhibitors",
-      "topicName": "Metabolic Overview II: OXPHOS Uncouplers and Inhibitors"
+      "topicName": "Metabolic Overview II: OXPHOS Uncouplers and Inhibitors",
+      "tier": "core"
     },
     {
       "id": "bo04-004",
@@ -5194,7 +5305,8 @@
         "clinical correlation"
       ],
       "topicId": "oxphos-uncouplers-and-inhibitors",
-      "topicName": "Metabolic Overview II: OXPHOS Uncouplers and Inhibitors"
+      "topicName": "Metabolic Overview II: OXPHOS Uncouplers and Inhibitors",
+      "tier": "core"
     },
     {
       "id": "bo04-005",
@@ -5241,7 +5353,8 @@
         "smoke inhalation"
       ],
       "topicId": "oxphos-uncouplers-and-inhibitors",
-      "topicName": "Metabolic Overview II: OXPHOS Uncouplers and Inhibitors"
+      "topicName": "Metabolic Overview II: OXPHOS Uncouplers and Inhibitors",
+      "tier": "core"
     },
     {
       "id": "bo04-006",
@@ -5288,7 +5401,8 @@
         "vitamin B12"
       ],
       "topicId": "oxphos-uncouplers-and-inhibitors",
-      "topicName": "Metabolic Overview II: OXPHOS Uncouplers and Inhibitors"
+      "topicName": "Metabolic Overview II: OXPHOS Uncouplers and Inhibitors",
+      "tier": "core"
     },
     {
       "id": "bo04-007",
@@ -5335,7 +5449,8 @@
         "complex IV"
       ],
       "topicId": "oxphos-uncouplers-and-inhibitors",
-      "topicName": "Metabolic Overview II: OXPHOS Uncouplers and Inhibitors"
+      "topicName": "Metabolic Overview II: OXPHOS Uncouplers and Inhibitors",
+      "tier": "core"
     },
     {
       "id": "bo04-008",
@@ -5382,7 +5497,8 @@
         "differential"
       ],
       "topicId": "oxphos-uncouplers-and-inhibitors",
-      "topicName": "Metabolic Overview II: OXPHOS Uncouplers and Inhibitors"
+      "topicName": "Metabolic Overview II: OXPHOS Uncouplers and Inhibitors",
+      "tier": "core"
     },
     {
       "id": "bo04-009",
@@ -5429,7 +5545,8 @@
         "redox ratio"
       ],
       "topicId": "oxphos-uncouplers-and-inhibitors",
-      "topicName": "Metabolic Overview II: OXPHOS Uncouplers and Inhibitors"
+      "topicName": "Metabolic Overview II: OXPHOS Uncouplers and Inhibitors",
+      "tier": "core"
     },
     {
       "id": "bo04-010",
@@ -5476,7 +5593,8 @@
         "ATP depletion"
       ],
       "topicId": "oxphos-uncouplers-and-inhibitors",
-      "topicName": "Metabolic Overview II: OXPHOS Uncouplers and Inhibitors"
+      "topicName": "Metabolic Overview II: OXPHOS Uncouplers and Inhibitors",
+      "tier": "core"
     },
     {
       "id": "bo04-011",
@@ -5523,7 +5641,8 @@
         "glycolysis"
       ],
       "topicId": "oxphos-uncouplers-and-inhibitors",
-      "topicName": "Metabolic Overview II: OXPHOS Uncouplers and Inhibitors"
+      "topicName": "Metabolic Overview II: OXPHOS Uncouplers and Inhibitors",
+      "tier": "core"
     },
     {
       "id": "bo04-012",
@@ -5570,7 +5689,8 @@
         "disparate inhibitors"
       ],
       "topicId": "oxphos-uncouplers-and-inhibitors",
-      "topicName": "Metabolic Overview II: OXPHOS Uncouplers and Inhibitors"
+      "topicName": "Metabolic Overview II: OXPHOS Uncouplers and Inhibitors",
+      "tier": "core"
     },
     {
       "id": "bo04-013",
@@ -5617,7 +5737,8 @@
         "uncouplers"
       ],
       "topicId": "oxphos-uncouplers-and-inhibitors",
-      "topicName": "Metabolic Overview II: OXPHOS Uncouplers and Inhibitors"
+      "topicName": "Metabolic Overview II: OXPHOS Uncouplers and Inhibitors",
+      "tier": "extra"
     },
     {
       "id": "bo04-014",
@@ -5664,7 +5785,8 @@
         "lipid soluble"
       ],
       "topicId": "oxphos-uncouplers-and-inhibitors",
-      "topicName": "Metabolic Overview II: OXPHOS Uncouplers and Inhibitors"
+      "topicName": "Metabolic Overview II: OXPHOS Uncouplers and Inhibitors",
+      "tier": "extra"
     },
     {
       "id": "bo04-015",
@@ -5711,7 +5833,8 @@
         "weight loss"
       ],
       "topicId": "oxphos-uncouplers-and-inhibitors",
-      "topicName": "Metabolic Overview II: OXPHOS Uncouplers and Inhibitors"
+      "topicName": "Metabolic Overview II: OXPHOS Uncouplers and Inhibitors",
+      "tier": "extra"
     },
     {
       "id": "bo04-016",
@@ -5758,7 +5881,8 @@
         "UCP"
       ],
       "topicId": "oxphos-uncouplers-and-inhibitors",
-      "topicName": "Metabolic Overview II: OXPHOS Uncouplers and Inhibitors"
+      "topicName": "Metabolic Overview II: OXPHOS Uncouplers and Inhibitors",
+      "tier": "extra"
     },
     {
       "id": "bo04-017",
@@ -5805,7 +5929,8 @@
         "thermogenesis"
       ],
       "topicId": "oxphos-uncouplers-and-inhibitors",
-      "topicName": "Metabolic Overview II: OXPHOS Uncouplers and Inhibitors"
+      "topicName": "Metabolic Overview II: OXPHOS Uncouplers and Inhibitors",
+      "tier": "extra"
     },
     {
       "id": "bo04-018",
@@ -5852,7 +5977,8 @@
         "organ toxicity"
       ],
       "topicId": "oxphos-uncouplers-and-inhibitors",
-      "topicName": "Metabolic Overview II: OXPHOS Uncouplers and Inhibitors"
+      "topicName": "Metabolic Overview II: OXPHOS Uncouplers and Inhibitors",
+      "tier": "extra"
     },
     {
       "id": "bo04-019",
@@ -5899,7 +6025,8 @@
         "management"
       ],
       "topicId": "oxphos-uncouplers-and-inhibitors",
-      "topicName": "Metabolic Overview II: OXPHOS Uncouplers and Inhibitors"
+      "topicName": "Metabolic Overview II: OXPHOS Uncouplers and Inhibitors",
+      "tier": "extra"
     },
     {
       "id": "bo04-020",
@@ -5946,7 +6073,8 @@
         "critical note"
       ],
       "topicId": "oxphos-uncouplers-and-inhibitors",
-      "topicName": "Metabolic Overview II: OXPHOS Uncouplers and Inhibitors"
+      "topicName": "Metabolic Overview II: OXPHOS Uncouplers and Inhibitors",
+      "tier": "extra"
     },
     {
       "id": "bo04-021",
@@ -5993,7 +6121,8 @@
         "rotenone"
       ],
       "topicId": "oxphos-uncouplers-and-inhibitors",
-      "topicName": "Metabolic Overview II: OXPHOS Uncouplers and Inhibitors"
+      "topicName": "Metabolic Overview II: OXPHOS Uncouplers and Inhibitors",
+      "tier": "extra"
     },
     {
       "id": "bo04-022",
@@ -6040,7 +6169,8 @@
         "antimycin A"
       ],
       "topicId": "oxphos-uncouplers-and-inhibitors",
-      "topicName": "Metabolic Overview II: OXPHOS Uncouplers and Inhibitors"
+      "topicName": "Metabolic Overview II: OXPHOS Uncouplers and Inhibitors",
+      "tier": "extra"
     },
     {
       "id": "bo04-023",
@@ -6087,7 +6217,8 @@
         "clinical correlation"
       ],
       "topicId": "oxphos-uncouplers-and-inhibitors",
-      "topicName": "Metabolic Overview II: OXPHOS Uncouplers and Inhibitors"
+      "topicName": "Metabolic Overview II: OXPHOS Uncouplers and Inhibitors",
+      "tier": "extra"
     },
     {
       "id": "bo04-024",
@@ -6134,7 +6265,8 @@
         "ETC inhibition"
       ],
       "topicId": "oxphos-uncouplers-and-inhibitors",
-      "topicName": "Metabolic Overview II: OXPHOS Uncouplers and Inhibitors"
+      "topicName": "Metabolic Overview II: OXPHOS Uncouplers and Inhibitors",
+      "tier": "extra"
     },
     {
       "id": "bo04-025",
@@ -6181,7 +6313,8 @@
         "electron flow"
       ],
       "topicId": "oxphos-uncouplers-and-inhibitors",
-      "topicName": "Metabolic Overview II: OXPHOS Uncouplers and Inhibitors"
+      "topicName": "Metabolic Overview II: OXPHOS Uncouplers and Inhibitors",
+      "tier": "extra"
     },
     {
       "id": "bo04-026",
@@ -6228,7 +6361,8 @@
         "pesticide"
       ],
       "topicId": "oxphos-uncouplers-and-inhibitors",
-      "topicName": "Metabolic Overview II: OXPHOS Uncouplers and Inhibitors"
+      "topicName": "Metabolic Overview II: OXPHOS Uncouplers and Inhibitors",
+      "tier": "extra"
     },
     {
       "id": "bo04-027",
@@ -6275,7 +6409,8 @@
         "inhibitor table"
       ],
       "topicId": "oxphos-uncouplers-and-inhibitors",
-      "topicName": "Metabolic Overview II: OXPHOS Uncouplers and Inhibitors"
+      "topicName": "Metabolic Overview II: OXPHOS Uncouplers and Inhibitors",
+      "tier": "extra"
     },
     {
       "id": "bo04-028",
@@ -6322,7 +6457,8 @@
         "hypertensive crisis"
       ],
       "topicId": "oxphos-uncouplers-and-inhibitors",
-      "topicName": "Metabolic Overview II: OXPHOS Uncouplers and Inhibitors"
+      "topicName": "Metabolic Overview II: OXPHOS Uncouplers and Inhibitors",
+      "tier": "extra"
     },
     {
       "id": "bo04-029",
@@ -6369,7 +6505,8 @@
         "complex IV"
       ],
       "topicId": "oxphos-uncouplers-and-inhibitors",
-      "topicName": "Metabolic Overview II: OXPHOS Uncouplers and Inhibitors"
+      "topicName": "Metabolic Overview II: OXPHOS Uncouplers and Inhibitors",
+      "tier": "extra"
     },
     {
       "id": "bo04-030",
@@ -6416,7 +6553,8 @@
         "research"
       ],
       "topicId": "oxphos-uncouplers-and-inhibitors",
-      "topicName": "Metabolic Overview II: OXPHOS Uncouplers and Inhibitors"
+      "topicName": "Metabolic Overview II: OXPHOS Uncouplers and Inhibitors",
+      "tier": "extra"
     },
     {
       "id": "bo04-031",
@@ -6463,7 +6601,8 @@
         "metabolic activation"
       ],
       "topicId": "oxphos-uncouplers-and-inhibitors",
-      "topicName": "Metabolic Overview II: OXPHOS Uncouplers and Inhibitors"
+      "topicName": "Metabolic Overview II: OXPHOS Uncouplers and Inhibitors",
+      "tier": "extra"
     },
     {
       "id": "bo04-032",
@@ -6510,7 +6649,8 @@
         "early symptoms"
       ],
       "topicId": "oxphos-uncouplers-and-inhibitors",
-      "topicName": "Metabolic Overview II: OXPHOS Uncouplers and Inhibitors"
+      "topicName": "Metabolic Overview II: OXPHOS Uncouplers and Inhibitors",
+      "tier": "extra"
     },
     {
       "id": "bo04-033",
@@ -6557,7 +6697,8 @@
         "alternative treatment"
       ],
       "topicId": "oxphos-uncouplers-and-inhibitors",
-      "topicName": "Metabolic Overview II: OXPHOS Uncouplers and Inhibitors"
+      "topicName": "Metabolic Overview II: OXPHOS Uncouplers and Inhibitors",
+      "tier": "extra"
     },
     {
       "id": "bo04-034",
@@ -6604,7 +6745,8 @@
         "differential"
       ],
       "topicId": "oxphos-uncouplers-and-inhibitors",
-      "topicName": "Metabolic Overview II: OXPHOS Uncouplers and Inhibitors"
+      "topicName": "Metabolic Overview II: OXPHOS Uncouplers and Inhibitors",
+      "tier": "extra"
     },
     {
       "id": "bo04-035",
@@ -6651,7 +6793,8 @@
         "lactate"
       ],
       "topicId": "oxphos-uncouplers-and-inhibitors",
-      "topicName": "Metabolic Overview II: OXPHOS Uncouplers and Inhibitors"
+      "topicName": "Metabolic Overview II: OXPHOS Uncouplers and Inhibitors",
+      "tier": "extra"
     },
     {
       "id": "bo04-036",
@@ -6698,7 +6841,8 @@
         "structure"
       ],
       "topicId": "oxphos-uncouplers-and-inhibitors",
-      "topicName": "Metabolic Overview II: OXPHOS Uncouplers and Inhibitors"
+      "topicName": "Metabolic Overview II: OXPHOS Uncouplers and Inhibitors",
+      "tier": "extra"
     },
     {
       "id": "bo05-001",
@@ -6744,7 +6888,8 @@
         "MCV"
       ],
       "topicId": "metabolic-overview-iii-o2-delivery-1-of-2",
-      "topicName": "Metabolic Overview III: O2 Delivery (1 of 2)"
+      "topicName": "Metabolic Overview III: O2 Delivery (1 of 2)",
+      "tier": "core"
     },
     {
       "id": "bo05-002",
@@ -6790,7 +6935,8 @@
         "mitochondria"
       ],
       "topicId": "metabolic-overview-iii-o2-delivery-1-of-2",
-      "topicName": "Metabolic Overview III: O2 Delivery (1 of 2)"
+      "topicName": "Metabolic Overview III: O2 Delivery (1 of 2)",
+      "tier": "core"
     },
     {
       "id": "bo05-003",
@@ -6836,7 +6982,8 @@
         "central pallor"
       ],
       "topicId": "metabolic-overview-iii-o2-delivery-1-of-2",
-      "topicName": "Metabolic Overview III: O2 Delivery (1 of 2)"
+      "topicName": "Metabolic Overview III: O2 Delivery (1 of 2)",
+      "tier": "core"
     },
     {
       "id": "bo05-004",
@@ -6882,7 +7029,8 @@
         "RBC membrane"
       ],
       "topicId": "metabolic-overview-iii-o2-delivery-1-of-2",
-      "topicName": "Metabolic Overview III: O2 Delivery (1 of 2)"
+      "topicName": "Metabolic Overview III: O2 Delivery (1 of 2)",
+      "tier": "core"
     },
     {
       "id": "bo05-005",
@@ -6928,7 +7076,8 @@
         "amino acid substitution"
       ],
       "topicId": "metabolic-overview-iii-o2-delivery-1-of-2",
-      "topicName": "Metabolic Overview III: O2 Delivery (1 of 2)"
+      "topicName": "Metabolic Overview III: O2 Delivery (1 of 2)",
+      "tier": "core"
     },
     {
       "id": "bo05-006",
@@ -6974,7 +7123,8 @@
         "dissociation curve"
       ],
       "topicId": "metabolic-overview-iii-o2-delivery-1-of-2",
-      "topicName": "Metabolic Overview III: O2 Delivery (1 of 2)"
+      "topicName": "Metabolic Overview III: O2 Delivery (1 of 2)",
+      "tier": "core"
     },
     {
       "id": "bo05-007",
@@ -7020,7 +7170,8 @@
         "HbA vs HbF"
       ],
       "topicId": "metabolic-overview-iii-o2-delivery-1-of-2",
-      "topicName": "Metabolic Overview III: O2 Delivery (1 of 2)"
+      "topicName": "Metabolic Overview III: O2 Delivery (1 of 2)",
+      "tier": "core"
     },
     {
       "id": "bo05-008",
@@ -7066,7 +7217,8 @@
         "oxygen delivery"
       ],
       "topicId": "metabolic-overview-iii-o2-delivery-1-of-2",
-      "topicName": "Metabolic Overview III: O2 Delivery (1 of 2)"
+      "topicName": "Metabolic Overview III: O2 Delivery (1 of 2)",
+      "tier": "core"
     },
     {
       "id": "bo05-009",
@@ -7112,7 +7264,8 @@
         "oxygen affinity"
       ],
       "topicId": "metabolic-overview-iii-o2-delivery-1-of-2",
-      "topicName": "Metabolic Overview III: O2 Delivery (1 of 2)"
+      "topicName": "Metabolic Overview III: O2 Delivery (1 of 2)",
+      "tier": "core"
     },
     {
       "id": "bo05-010",
@@ -7158,7 +7311,8 @@
         "pulse oximetry"
       ],
       "topicId": "metabolic-overview-iii-o2-delivery-1-of-2",
-      "topicName": "Metabolic Overview III: O2 Delivery (1 of 2)"
+      "topicName": "Metabolic Overview III: O2 Delivery (1 of 2)",
+      "tier": "core"
     },
     {
       "id": "bo05-011",
@@ -7204,7 +7358,8 @@
         "oxygen affinity"
       ],
       "topicId": "metabolic-overview-iii-o2-delivery-1-of-2",
-      "topicName": "Metabolic Overview III: O2 Delivery (1 of 2)"
+      "topicName": "Metabolic Overview III: O2 Delivery (1 of 2)",
+      "tier": "core"
     },
     {
       "id": "bo05-012",
@@ -7250,7 +7405,8 @@
         "CBC"
       ],
       "topicId": "metabolic-overview-iii-o2-delivery-1-of-2",
-      "topicName": "Metabolic Overview III: O2 Delivery (1 of 2)"
+      "topicName": "Metabolic Overview III: O2 Delivery (1 of 2)",
+      "tier": "core"
     },
     {
       "id": "bo05-013",
@@ -7296,7 +7452,8 @@
         "blood composition"
       ],
       "topicId": "metabolic-overview-iii-o2-delivery-1-of-2",
-      "topicName": "Metabolic Overview III: O2 Delivery (1 of 2)"
+      "topicName": "Metabolic Overview III: O2 Delivery (1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo05-014",
@@ -7342,7 +7499,8 @@
         "OXPHOS"
       ],
       "topicId": "metabolic-overview-iii-o2-delivery-1-of-2",
-      "topicName": "Metabolic Overview III: O2 Delivery (1 of 2)"
+      "topicName": "Metabolic Overview III: O2 Delivery (1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo05-015",
@@ -7388,7 +7546,8 @@
         "deformability"
       ],
       "topicId": "metabolic-overview-iii-o2-delivery-1-of-2",
-      "topicName": "Metabolic Overview III: O2 Delivery (1 of 2)"
+      "topicName": "Metabolic Overview III: O2 Delivery (1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo05-016",
@@ -7434,7 +7593,8 @@
         "RBC morphology"
       ],
       "topicId": "metabolic-overview-iii-o2-delivery-1-of-2",
-      "topicName": "Metabolic Overview III: O2 Delivery (1 of 2)"
+      "topicName": "Metabolic Overview III: O2 Delivery (1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo05-017",
@@ -7480,7 +7640,8 @@
         "lab units"
       ],
       "topicId": "metabolic-overview-iii-o2-delivery-1-of-2",
-      "topicName": "Metabolic Overview III: O2 Delivery (1 of 2)"
+      "topicName": "Metabolic Overview III: O2 Delivery (1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo05-018",
@@ -7526,7 +7687,8 @@
         "CBC"
       ],
       "topicId": "metabolic-overview-iii-o2-delivery-1-of-2",
-      "topicName": "Metabolic Overview III: O2 Delivery (1 of 2)"
+      "topicName": "Metabolic Overview III: O2 Delivery (1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo05-019",
@@ -7572,7 +7734,8 @@
         "OXPHOS"
       ],
       "topicId": "metabolic-overview-iii-o2-delivery-1-of-2",
-      "topicName": "Metabolic Overview III: O2 Delivery (1 of 2)"
+      "topicName": "Metabolic Overview III: O2 Delivery (1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo05-020",
@@ -7618,7 +7781,8 @@
         "clinical reasoning"
       ],
       "topicId": "metabolic-overview-iii-o2-delivery-1-of-2",
-      "topicName": "Metabolic Overview III: O2 Delivery (1 of 2)"
+      "topicName": "Metabolic Overview III: O2 Delivery (1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo05-021",
@@ -7664,7 +7828,8 @@
         "globin chains"
       ],
       "topicId": "metabolic-overview-iii-o2-delivery-1-of-2",
-      "topicName": "Metabolic Overview III: O2 Delivery (1 of 2)"
+      "topicName": "Metabolic Overview III: O2 Delivery (1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo05-022",
@@ -7710,7 +7875,8 @@
         "oxygen affinity"
       ],
       "topicId": "metabolic-overview-iii-o2-delivery-1-of-2",
-      "topicName": "Metabolic Overview III: O2 Delivery (1 of 2)"
+      "topicName": "Metabolic Overview III: O2 Delivery (1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo05-023",
@@ -7756,7 +7922,8 @@
         "oxygen loading"
       ],
       "topicId": "metabolic-overview-iii-o2-delivery-1-of-2",
-      "topicName": "Metabolic Overview III: O2 Delivery (1 of 2)"
+      "topicName": "Metabolic Overview III: O2 Delivery (1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo05-024",
@@ -7802,7 +7969,8 @@
         "oxygen affinity"
       ],
       "topicId": "metabolic-overview-iii-o2-delivery-1-of-2",
-      "topicName": "Metabolic Overview III: O2 Delivery (1 of 2)"
+      "topicName": "Metabolic Overview III: O2 Delivery (1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo05-025",
@@ -7848,7 +8016,8 @@
         "oxygen affinity"
       ],
       "topicId": "metabolic-overview-iii-o2-delivery-1-of-2",
-      "topicName": "Metabolic Overview III: O2 Delivery (1 of 2)"
+      "topicName": "Metabolic Overview III: O2 Delivery (1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo05-026",
@@ -7894,7 +8063,8 @@
         "carbonic acid"
       ],
       "topicId": "metabolic-overview-iii-o2-delivery-1-of-2",
-      "topicName": "Metabolic Overview III: O2 Delivery (1 of 2)"
+      "topicName": "Metabolic Overview III: O2 Delivery (1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo05-027",
@@ -7940,7 +8110,8 @@
         "exercise"
       ],
       "topicId": "metabolic-overview-iii-o2-delivery-1-of-2",
-      "topicName": "Metabolic Overview III: O2 Delivery (1 of 2)"
+      "topicName": "Metabolic Overview III: O2 Delivery (1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo05-028",
@@ -7986,7 +8157,8 @@
         "oxygen affinity"
       ],
       "topicId": "metabolic-overview-iii-o2-delivery-1-of-2",
-      "topicName": "Metabolic Overview III: O2 Delivery (1 of 2)"
+      "topicName": "Metabolic Overview III: O2 Delivery (1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo05-029",
@@ -8032,7 +8204,8 @@
         "2,3-BPG"
       ],
       "topicId": "metabolic-overview-iii-o2-delivery-1-of-2",
-      "topicName": "Metabolic Overview III: O2 Delivery (1 of 2)"
+      "topicName": "Metabolic Overview III: O2 Delivery (1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo05-030",
@@ -8078,7 +8251,8 @@
         "affinity ranking"
       ],
       "topicId": "metabolic-overview-iii-o2-delivery-1-of-2",
-      "topicName": "Metabolic Overview III: O2 Delivery (1 of 2)"
+      "topicName": "Metabolic Overview III: O2 Delivery (1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo05-031",
@@ -8124,7 +8298,8 @@
         "toxicology"
       ],
       "topicId": "metabolic-overview-iii-o2-delivery-1-of-2",
-      "topicName": "Metabolic Overview III: O2 Delivery (1 of 2)"
+      "topicName": "Metabolic Overview III: O2 Delivery (1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo05-032",
@@ -8170,7 +8345,8 @@
         "heme"
       ],
       "topicId": "metabolic-overview-iii-o2-delivery-1-of-2",
-      "topicName": "Metabolic Overview III: O2 Delivery (1 of 2)"
+      "topicName": "Metabolic Overview III: O2 Delivery (1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo05-033",
@@ -8216,7 +8392,8 @@
         "toxicology"
       ],
       "topicId": "metabolic-overview-iii-o2-delivery-1-of-2",
-      "topicName": "Metabolic Overview III: O2 Delivery (1 of 2)"
+      "topicName": "Metabolic Overview III: O2 Delivery (1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo05-034",
@@ -8262,7 +8439,8 @@
         "pulse oximetry"
       ],
       "topicId": "metabolic-overview-iii-o2-delivery-1-of-2",
-      "topicName": "Metabolic Overview III: O2 Delivery (1 of 2)"
+      "topicName": "Metabolic Overview III: O2 Delivery (1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo05-035",
@@ -8308,7 +8486,8 @@
         "competitive binding"
       ],
       "topicId": "metabolic-overview-iii-o2-delivery-1-of-2",
-      "topicName": "Metabolic Overview III: O2 Delivery (1 of 2)"
+      "topicName": "Metabolic Overview III: O2 Delivery (1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo05-036",
@@ -8354,7 +8533,8 @@
         "tissue hypoxia"
       ],
       "topicId": "metabolic-overview-iii-o2-delivery-1-of-2",
-      "topicName": "Metabolic Overview III: O2 Delivery (1 of 2)"
+      "topicName": "Metabolic Overview III: O2 Delivery (1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "bo06-001",
@@ -8400,7 +8580,8 @@
         "DNA synthesis"
       ],
       "topicId": "anemia-mcv-classification-b-vitamins",
-      "topicName": "BOOM: Metabolic Overview III - O2 Delivery (2 of 2): Anemia, MCV Classification, and the B Vitamins"
+      "topicName": "BOOM: Metabolic Overview III - O2 Delivery (2 of 2): Anemia, MCV Classification, and the B Vitamins",
+      "tier": "core"
     },
     {
       "id": "bo06-002",
@@ -8446,7 +8627,8 @@
         "glutathione reductase"
       ],
       "topicId": "anemia-mcv-classification-b-vitamins",
-      "topicName": "BOOM: Metabolic Overview III - O2 Delivery (2 of 2): Anemia, MCV Classification, and the B Vitamins"
+      "topicName": "BOOM: Metabolic Overview III - O2 Delivery (2 of 2): Anemia, MCV Classification, and the B Vitamins",
+      "tier": "core"
     },
     {
       "id": "bo06-003",
@@ -8493,7 +8675,8 @@
         "heme synthesis"
       ],
       "topicId": "anemia-mcv-classification-b-vitamins",
-      "topicName": "BOOM: Metabolic Overview III - O2 Delivery (2 of 2): Anemia, MCV Classification, and the B Vitamins"
+      "topicName": "BOOM: Metabolic Overview III - O2 Delivery (2 of 2): Anemia, MCV Classification, and the B Vitamins",
+      "tier": "core"
     },
     {
       "id": "bo06-004",
@@ -8540,7 +8723,8 @@
         "antifolate"
       ],
       "topicId": "anemia-mcv-classification-b-vitamins",
-      "topicName": "BOOM: Metabolic Overview III - O2 Delivery (2 of 2): Anemia, MCV Classification, and the B Vitamins"
+      "topicName": "BOOM: Metabolic Overview III - O2 Delivery (2 of 2): Anemia, MCV Classification, and the B Vitamins",
+      "tier": "core"
     },
     {
       "id": "bo06-005",
@@ -8587,7 +8771,8 @@
         "terminal ileum"
       ],
       "topicId": "anemia-mcv-classification-b-vitamins",
-      "topicName": "BOOM: Metabolic Overview III - O2 Delivery (2 of 2): Anemia, MCV Classification, and the B Vitamins"
+      "topicName": "BOOM: Metabolic Overview III - O2 Delivery (2 of 2): Anemia, MCV Classification, and the B Vitamins",
+      "tier": "core"
     },
     {
       "id": "bo06-006",
@@ -8633,7 +8818,8 @@
         "B12 neuropathy"
       ],
       "topicId": "anemia-mcv-classification-b-vitamins",
-      "topicName": "BOOM: Metabolic Overview III - O2 Delivery (2 of 2): Anemia, MCV Classification, and the B Vitamins"
+      "topicName": "BOOM: Metabolic Overview III - O2 Delivery (2 of 2): Anemia, MCV Classification, and the B Vitamins",
+      "tier": "core"
     },
     {
       "id": "bo06-007",
@@ -8680,7 +8866,8 @@
         "biomarkers"
       ],
       "topicId": "anemia-mcv-classification-b-vitamins",
-      "topicName": "BOOM: Metabolic Overview III - O2 Delivery (2 of 2): Anemia, MCV Classification, and the B Vitamins"
+      "topicName": "BOOM: Metabolic Overview III - O2 Delivery (2 of 2): Anemia, MCV Classification, and the B Vitamins",
+      "tier": "core"
     },
     {
       "id": "bo06-008",
@@ -8726,7 +8913,8 @@
         "biomarkers"
       ],
       "topicId": "anemia-mcv-classification-b-vitamins",
-      "topicName": "BOOM: Metabolic Overview III - O2 Delivery (2 of 2): Anemia, MCV Classification, and the B Vitamins"
+      "topicName": "BOOM: Metabolic Overview III - O2 Delivery (2 of 2): Anemia, MCV Classification, and the B Vitamins",
+      "tier": "core"
     },
     {
       "id": "bo06-009",
@@ -8773,7 +8961,8 @@
         "predisposing factors"
       ],
       "topicId": "anemia-mcv-classification-b-vitamins",
-      "topicName": "BOOM: Metabolic Overview III - O2 Delivery (2 of 2): Anemia, MCV Classification, and the B Vitamins"
+      "topicName": "BOOM: Metabolic Overview III - O2 Delivery (2 of 2): Anemia, MCV Classification, and the B Vitamins",
+      "tier": "core"
     },
     {
       "id": "bo06-010",
@@ -8819,7 +9008,8 @@
         "thiamine"
       ],
       "topicId": "anemia-mcv-classification-b-vitamins",
-      "topicName": "BOOM: Metabolic Overview III - O2 Delivery (2 of 2): Anemia, MCV Classification, and the B Vitamins"
+      "topicName": "BOOM: Metabolic Overview III - O2 Delivery (2 of 2): Anemia, MCV Classification, and the B Vitamins",
+      "tier": "core"
     },
     {
       "id": "bo06-011",
@@ -8866,7 +9056,8 @@
         "case connection"
       ],
       "topicId": "anemia-mcv-classification-b-vitamins",
-      "topicName": "BOOM: Metabolic Overview III - O2 Delivery (2 of 2): Anemia, MCV Classification, and the B Vitamins"
+      "topicName": "BOOM: Metabolic Overview III - O2 Delivery (2 of 2): Anemia, MCV Classification, and the B Vitamins",
+      "tier": "core"
     },
     {
       "id": "bo06-012",
@@ -8913,7 +9104,8 @@
         "macrocytic anemia"
       ],
       "topicId": "anemia-mcv-classification-b-vitamins",
-      "topicName": "BOOM: Metabolic Overview III - O2 Delivery (2 of 2): Anemia, MCV Classification, and the B Vitamins"
+      "topicName": "BOOM: Metabolic Overview III - O2 Delivery (2 of 2): Anemia, MCV Classification, and the B Vitamins",
+      "tier": "core"
     },
     {
       "id": "bo06-013",
@@ -8959,7 +9151,8 @@
         "hemoglobin quota"
       ],
       "topicId": "anemia-mcv-classification-b-vitamins",
-      "topicName": "BOOM: Metabolic Overview III - O2 Delivery (2 of 2): Anemia, MCV Classification, and the B Vitamins"
+      "topicName": "BOOM: Metabolic Overview III - O2 Delivery (2 of 2): Anemia, MCV Classification, and the B Vitamins",
+      "tier": "extra"
     },
     {
       "id": "bo06-014",
@@ -9005,7 +9198,8 @@
         "red cell loss"
       ],
       "topicId": "anemia-mcv-classification-b-vitamins",
-      "topicName": "BOOM: Metabolic Overview III - O2 Delivery (2 of 2): Anemia, MCV Classification, and the B Vitamins"
+      "topicName": "BOOM: Metabolic Overview III - O2 Delivery (2 of 2): Anemia, MCV Classification, and the B Vitamins",
+      "tier": "extra"
     },
     {
       "id": "bo06-015",
@@ -9051,7 +9245,8 @@
         "hypervitaminosis"
       ],
       "topicId": "anemia-mcv-classification-b-vitamins",
-      "topicName": "BOOM: Metabolic Overview III - O2 Delivery (2 of 2): Anemia, MCV Classification, and the B Vitamins"
+      "topicName": "BOOM: Metabolic Overview III - O2 Delivery (2 of 2): Anemia, MCV Classification, and the B Vitamins",
+      "tier": "extra"
     },
     {
       "id": "bo06-016",
@@ -9098,7 +9293,8 @@
         "rapidly dividing tissues"
       ],
       "topicId": "anemia-mcv-classification-b-vitamins",
-      "topicName": "BOOM: Metabolic Overview III - O2 Delivery (2 of 2): Anemia, MCV Classification, and the B Vitamins"
+      "topicName": "BOOM: Metabolic Overview III - O2 Delivery (2 of 2): Anemia, MCV Classification, and the B Vitamins",
+      "tier": "extra"
     },
     {
       "id": "bo06-017",
@@ -9145,7 +9341,8 @@
         "light"
       ],
       "topicId": "anemia-mcv-classification-b-vitamins",
-      "topicName": "BOOM: Metabolic Overview III - O2 Delivery (2 of 2): Anemia, MCV Classification, and the B Vitamins"
+      "topicName": "BOOM: Metabolic Overview III - O2 Delivery (2 of 2): Anemia, MCV Classification, and the B Vitamins",
+      "tier": "extra"
     },
     {
       "id": "bo06-018",
@@ -9192,7 +9389,8 @@
         "diagnostic assay"
       ],
       "topicId": "anemia-mcv-classification-b-vitamins",
-      "topicName": "BOOM: Metabolic Overview III - O2 Delivery (2 of 2): Anemia, MCV Classification, and the B Vitamins"
+      "topicName": "BOOM: Metabolic Overview III - O2 Delivery (2 of 2): Anemia, MCV Classification, and the B Vitamins",
+      "tier": "extra"
     },
     {
       "id": "bo06-019",
@@ -9239,7 +9437,8 @@
         "Complex II"
       ],
       "topicId": "anemia-mcv-classification-b-vitamins",
-      "topicName": "BOOM: Metabolic Overview III - O2 Delivery (2 of 2): Anemia, MCV Classification, and the B Vitamins"
+      "topicName": "BOOM: Metabolic Overview III - O2 Delivery (2 of 2): Anemia, MCV Classification, and the B Vitamins",
+      "tier": "extra"
     },
     {
       "id": "bo06-020",
@@ -9286,7 +9485,8 @@
         "microcytic anemia"
       ],
       "topicId": "anemia-mcv-classification-b-vitamins",
-      "topicName": "BOOM: Metabolic Overview III - O2 Delivery (2 of 2): Anemia, MCV Classification, and the B Vitamins"
+      "topicName": "BOOM: Metabolic Overview III - O2 Delivery (2 of 2): Anemia, MCV Classification, and the B Vitamins",
+      "tier": "extra"
     },
     {
       "id": "bo06-021",
@@ -9333,7 +9533,8 @@
         "riboflavin"
       ],
       "topicId": "anemia-mcv-classification-b-vitamins",
-      "topicName": "BOOM: Metabolic Overview III - O2 Delivery (2 of 2): Anemia, MCV Classification, and the B Vitamins"
+      "topicName": "BOOM: Metabolic Overview III - O2 Delivery (2 of 2): Anemia, MCV Classification, and the B Vitamins",
+      "tier": "extra"
     },
     {
       "id": "bo06-022",
@@ -9379,7 +9580,8 @@
         "dietary abundance"
       ],
       "topicId": "anemia-mcv-classification-b-vitamins",
-      "topicName": "BOOM: Metabolic Overview III - O2 Delivery (2 of 2): Anemia, MCV Classification, and the B Vitamins"
+      "topicName": "BOOM: Metabolic Overview III - O2 Delivery (2 of 2): Anemia, MCV Classification, and the B Vitamins",
+      "tier": "extra"
     },
     {
       "id": "bo06-023",
@@ -9426,7 +9628,8 @@
         "peripheral smear"
       ],
       "topicId": "anemia-mcv-classification-b-vitamins",
-      "topicName": "BOOM: Metabolic Overview III - O2 Delivery (2 of 2): Anemia, MCV Classification, and the B Vitamins"
+      "topicName": "BOOM: Metabolic Overview III - O2 Delivery (2 of 2): Anemia, MCV Classification, and the B Vitamins",
+      "tier": "extra"
     },
     {
       "id": "bo06-024",
@@ -9473,7 +9676,8 @@
         "one-carbon metabolism"
       ],
       "topicId": "anemia-mcv-classification-b-vitamins",
-      "topicName": "BOOM: Metabolic Overview III - O2 Delivery (2 of 2): Anemia, MCV Classification, and the B Vitamins"
+      "topicName": "BOOM: Metabolic Overview III - O2 Delivery (2 of 2): Anemia, MCV Classification, and the B Vitamins",
+      "tier": "extra"
     },
     {
       "id": "bo06-025",
@@ -9521,7 +9725,8 @@
         "homocysteine"
       ],
       "topicId": "anemia-mcv-classification-b-vitamins",
-      "topicName": "BOOM: Metabolic Overview III - O2 Delivery (2 of 2): Anemia, MCV Classification, and the B Vitamins"
+      "topicName": "BOOM: Metabolic Overview III - O2 Delivery (2 of 2): Anemia, MCV Classification, and the B Vitamins",
+      "tier": "extra"
     },
     {
       "id": "bo06-026",
@@ -9568,7 +9773,8 @@
         "absorption"
       ],
       "topicId": "anemia-mcv-classification-b-vitamins",
-      "topicName": "BOOM: Metabolic Overview III - O2 Delivery (2 of 2): Anemia, MCV Classification, and the B Vitamins"
+      "topicName": "BOOM: Metabolic Overview III - O2 Delivery (2 of 2): Anemia, MCV Classification, and the B Vitamins",
+      "tier": "extra"
     },
     {
       "id": "bo06-027",
@@ -9615,7 +9821,8 @@
         "absorption"
       ],
       "topicId": "anemia-mcv-classification-b-vitamins",
-      "topicName": "BOOM: Metabolic Overview III - O2 Delivery (2 of 2): Anemia, MCV Classification, and the B Vitamins"
+      "topicName": "BOOM: Metabolic Overview III - O2 Delivery (2 of 2): Anemia, MCV Classification, and the B Vitamins",
+      "tier": "extra"
     },
     {
       "id": "bo06-028",
@@ -9662,7 +9869,8 @@
         "transport"
       ],
       "topicId": "anemia-mcv-classification-b-vitamins",
-      "topicName": "BOOM: Metabolic Overview III - O2 Delivery (2 of 2): Anemia, MCV Classification, and the B Vitamins"
+      "topicName": "BOOM: Metabolic Overview III - O2 Delivery (2 of 2): Anemia, MCV Classification, and the B Vitamins",
+      "tier": "extra"
     },
     {
       "id": "bo06-029",
@@ -9709,7 +9917,8 @@
         "predisposing factors"
       ],
       "topicId": "anemia-mcv-classification-b-vitamins",
-      "topicName": "BOOM: Metabolic Overview III - O2 Delivery (2 of 2): Anemia, MCV Classification, and the B Vitamins"
+      "topicName": "BOOM: Metabolic Overview III - O2 Delivery (2 of 2): Anemia, MCV Classification, and the B Vitamins",
+      "tier": "extra"
     },
     {
       "id": "bo06-030",
@@ -9756,7 +9965,8 @@
         "epidemiology"
       ],
       "topicId": "anemia-mcv-classification-b-vitamins",
-      "topicName": "BOOM: Metabolic Overview III - O2 Delivery (2 of 2): Anemia, MCV Classification, and the B Vitamins"
+      "topicName": "BOOM: Metabolic Overview III - O2 Delivery (2 of 2): Anemia, MCV Classification, and the B Vitamins",
+      "tier": "extra"
     },
     {
       "id": "bo06-031",
@@ -9803,7 +10013,8 @@
         "FH4 regeneration"
       ],
       "topicId": "anemia-mcv-classification-b-vitamins",
-      "topicName": "BOOM: Metabolic Overview III - O2 Delivery (2 of 2): Anemia, MCV Classification, and the B Vitamins"
+      "topicName": "BOOM: Metabolic Overview III - O2 Delivery (2 of 2): Anemia, MCV Classification, and the B Vitamins",
+      "tier": "extra"
     },
     {
       "id": "bo06-032",
@@ -9850,7 +10061,8 @@
         "cobalamin reactions"
       ],
       "topicId": "anemia-mcv-classification-b-vitamins",
-      "topicName": "BOOM: Metabolic Overview III - O2 Delivery (2 of 2): Anemia, MCV Classification, and the B Vitamins"
+      "topicName": "BOOM: Metabolic Overview III - O2 Delivery (2 of 2): Anemia, MCV Classification, and the B Vitamins",
+      "tier": "extra"
     },
     {
       "id": "bo06-033",
@@ -9898,7 +10110,8 @@
         "alcohol"
       ],
       "topicId": "anemia-mcv-classification-b-vitamins",
-      "topicName": "BOOM: Metabolic Overview III - O2 Delivery (2 of 2): Anemia, MCV Classification, and the B Vitamins"
+      "topicName": "BOOM: Metabolic Overview III - O2 Delivery (2 of 2): Anemia, MCV Classification, and the B Vitamins",
+      "tier": "extra"
     },
     {
       "id": "bo06-034",
@@ -9945,7 +10158,8 @@
         "fortified foods"
       ],
       "topicId": "anemia-mcv-classification-b-vitamins",
-      "topicName": "BOOM: Metabolic Overview III - O2 Delivery (2 of 2): Anemia, MCV Classification, and the B Vitamins"
+      "topicName": "BOOM: Metabolic Overview III - O2 Delivery (2 of 2): Anemia, MCV Classification, and the B Vitamins",
+      "tier": "extra"
     },
     {
       "id": "bo06-035",
@@ -9991,7 +10205,8 @@
         "neural tube defects"
       ],
       "topicId": "anemia-mcv-classification-b-vitamins",
-      "topicName": "BOOM: Metabolic Overview III - O2 Delivery (2 of 2): Anemia, MCV Classification, and the B Vitamins"
+      "topicName": "BOOM: Metabolic Overview III - O2 Delivery (2 of 2): Anemia, MCV Classification, and the B Vitamins",
+      "tier": "extra"
     },
     {
       "id": "bo06-036",
@@ -10038,7 +10253,8 @@
         "predisposing factors"
       ],
       "topicId": "anemia-mcv-classification-b-vitamins",
-      "topicName": "BOOM: Metabolic Overview III - O2 Delivery (2 of 2): Anemia, MCV Classification, and the B Vitamins"
+      "topicName": "BOOM: Metabolic Overview III - O2 Delivery (2 of 2): Anemia, MCV Classification, and the B Vitamins",
+      "tier": "extra"
     }
   ]
 }

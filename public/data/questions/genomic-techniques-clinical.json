@@ -46,7 +46,8 @@
         "microdeletion"
       ],
       "topicId": "molecular-biology-techniques-cytogenetics-b54",
-      "topicName": "Molecular Biology Techniques (1 of 3) - Cytogenetics"
+      "topicName": "Molecular Biology Techniques (1 of 3) - Cytogenetics",
+      "tier": "core"
     },
     {
       "id": "bo54-002",
@@ -92,7 +93,8 @@
         "CNV"
       ],
       "topicId": "molecular-biology-techniques-cytogenetics-b54",
-      "topicName": "Molecular Biology Techniques (1 of 3) - Cytogenetics"
+      "topicName": "Molecular Biology Techniques (1 of 3) - Cytogenetics",
+      "tier": "core"
     },
     {
       "id": "bo54-003",
@@ -138,7 +140,8 @@
         "deletion"
       ],
       "topicId": "molecular-biology-techniques-cytogenetics-b54",
-      "topicName": "Molecular Biology Techniques (1 of 3) - Cytogenetics"
+      "topicName": "Molecular Biology Techniques (1 of 3) - Cytogenetics",
+      "tier": "core"
     },
     {
       "id": "bo54-004",
@@ -184,7 +187,8 @@
         "metaphase"
       ],
       "topicId": "molecular-biology-techniques-cytogenetics-b54",
-      "topicName": "Molecular Biology Techniques (1 of 3) - Cytogenetics"
+      "topicName": "Molecular Biology Techniques (1 of 3) - Cytogenetics",
+      "tier": "core"
     },
     {
       "id": "bo54-005",
@@ -230,7 +234,8 @@
         "Giemsa"
       ],
       "topicId": "molecular-biology-techniques-cytogenetics-b54",
-      "topicName": "Molecular Biology Techniques (1 of 3) - Cytogenetics"
+      "topicName": "Molecular Biology Techniques (1 of 3) - Cytogenetics",
+      "tier": "core"
     },
     {
       "id": "bo54-006",
@@ -276,7 +281,8 @@
         "interpretation"
       ],
       "topicId": "molecular-biology-techniques-cytogenetics-b54",
-      "topicName": "Molecular Biology Techniques (1 of 3) - Cytogenetics"
+      "topicName": "Molecular Biology Techniques (1 of 3) - Cytogenetics",
+      "tier": "core"
     },
     {
       "id": "bo54-007",
@@ -322,7 +328,8 @@
         "repeat expansion"
       ],
       "topicId": "molecular-biology-techniques-cytogenetics-b54",
-      "topicName": "Molecular Biology Techniques (1 of 3) - Cytogenetics"
+      "topicName": "Molecular Biology Techniques (1 of 3) - Cytogenetics",
+      "tier": "core"
     },
     {
       "id": "bo54-008",
@@ -368,7 +375,8 @@
         "probe"
       ],
       "topicId": "molecular-biology-techniques-cytogenetics-b54",
-      "topicName": "Molecular Biology Techniques (1 of 3) - Cytogenetics"
+      "topicName": "Molecular Biology Techniques (1 of 3) - Cytogenetics",
+      "tier": "core"
     },
     {
       "id": "bo54-009",
@@ -414,7 +422,8 @@
         "recurrent pregnancy loss"
       ],
       "topicId": "molecular-biology-techniques-cytogenetics-b54",
-      "topicName": "Molecular Biology Techniques (1 of 3) - Cytogenetics"
+      "topicName": "Molecular Biology Techniques (1 of 3) - Cytogenetics",
+      "tier": "core"
     },
     {
       "id": "bo54-010",
@@ -460,7 +469,8 @@
         "balanced translocation"
       ],
       "topicId": "molecular-biology-techniques-cytogenetics-b54",
-      "topicName": "Molecular Biology Techniques (1 of 3) - Cytogenetics"
+      "topicName": "Molecular Biology Techniques (1 of 3) - Cytogenetics",
+      "tier": "core"
     },
     {
       "id": "bo54-011",
@@ -506,7 +516,8 @@
         "signal interpretation"
       ],
       "topicId": "molecular-biology-techniques-cytogenetics-b54",
-      "topicName": "Molecular Biology Techniques (1 of 3) - Cytogenetics"
+      "topicName": "Molecular Biology Techniques (1 of 3) - Cytogenetics",
+      "tier": "core"
     },
     {
       "id": "bo54-012",
@@ -552,7 +563,8 @@
         "developmental delay"
       ],
       "topicId": "molecular-biology-techniques-cytogenetics-b54",
-      "topicName": "Molecular Biology Techniques (1 of 3) - Cytogenetics"
+      "topicName": "Molecular Biology Techniques (1 of 3) - Cytogenetics",
+      "tier": "core"
     },
     {
       "id": "bo55-001",
@@ -598,7 +610,8 @@
         "thermostability"
       ],
       "topicId": "molecular-biology-techniques-dna-analysis-b55",
-      "topicName": "Molecular Biology Techniques (2 of 3), DNA analysis"
+      "topicName": "Molecular Biology Techniques (2 of 3), DNA analysis",
+      "tier": "core"
     },
     {
       "id": "bo55-002",
@@ -644,7 +657,8 @@
         "sickle cell disease"
       ],
       "topicId": "molecular-biology-techniques-dna-analysis-b55",
-      "topicName": "Molecular Biology Techniques (2 of 3), DNA analysis"
+      "topicName": "Molecular Biology Techniques (2 of 3), DNA analysis",
+      "tier": "core"
     },
     {
       "id": "bo55-003",
@@ -690,7 +704,8 @@
         "Lynch syndrome"
       ],
       "topicId": "molecular-biology-techniques-dna-analysis-b55",
-      "topicName": "Molecular Biology Techniques (2 of 3), DNA analysis"
+      "topicName": "Molecular Biology Techniques (2 of 3), DNA analysis",
+      "tier": "core"
     },
     {
       "id": "bo55-004",
@@ -736,7 +751,8 @@
         "targeted approach"
       ],
       "topicId": "molecular-biology-techniques-dna-analysis-b55",
-      "topicName": "Molecular Biology Techniques (2 of 3), DNA analysis"
+      "topicName": "Molecular Biology Techniques (2 of 3), DNA analysis",
+      "tier": "core"
     },
     {
       "id": "bo55-005",
@@ -782,7 +798,8 @@
         "CFTR"
       ],
       "topicId": "molecular-biology-techniques-dna-analysis-b55",
-      "topicName": "Molecular Biology Techniques (2 of 3), DNA analysis"
+      "topicName": "Molecular Biology Techniques (2 of 3), DNA analysis",
+      "tier": "core"
     },
     {
       "id": "bo55-006",
@@ -828,7 +845,8 @@
         "chain termination"
       ],
       "topicId": "molecular-biology-techniques-dna-analysis-b55",
-      "topicName": "Molecular Biology Techniques (2 of 3), DNA analysis"
+      "topicName": "Molecular Biology Techniques (2 of 3), DNA analysis",
+      "tier": "core"
     },
     {
       "id": "bo55-007",
@@ -874,7 +892,8 @@
         "separation"
       ],
       "topicId": "molecular-biology-techniques-dna-analysis-b55",
-      "topicName": "Molecular Biology Techniques (2 of 3), DNA analysis"
+      "topicName": "Molecular Biology Techniques (2 of 3), DNA analysis",
+      "tier": "core"
     },
     {
       "id": "bo55-008",
@@ -920,7 +939,8 @@
         "heterozygous"
       ],
       "topicId": "molecular-biology-techniques-dna-analysis-b55",
-      "topicName": "Molecular Biology Techniques (2 of 3), DNA analysis"
+      "topicName": "Molecular Biology Techniques (2 of 3), DNA analysis",
+      "tier": "core"
     },
     {
       "id": "bo55-009",
@@ -966,7 +986,8 @@
         "technique selection"
       ],
       "topicId": "molecular-biology-techniques-dna-analysis-b55",
-      "topicName": "Molecular Biology Techniques (2 of 3), DNA analysis"
+      "topicName": "Molecular Biology Techniques (2 of 3), DNA analysis",
+      "tier": "core"
     },
     {
       "id": "bo55-010",
@@ -1012,7 +1033,8 @@
         "mosaicism"
       ],
       "topicId": "molecular-biology-techniques-dna-analysis-b55",
-      "topicName": "Molecular Biology Techniques (2 of 3), DNA analysis"
+      "topicName": "Molecular Biology Techniques (2 of 3), DNA analysis",
+      "tier": "core"
     },
     {
       "id": "bo55-011",
@@ -1058,7 +1080,8 @@
         "primers"
       ],
       "topicId": "molecular-biology-techniques-dna-analysis-b55",
-      "topicName": "Molecular Biology Techniques (2 of 3), DNA analysis"
+      "topicName": "Molecular Biology Techniques (2 of 3), DNA analysis",
+      "tier": "core"
     },
     {
       "id": "bo55-012",
@@ -1104,7 +1127,8 @@
         "loss of heterozygosity"
       ],
       "topicId": "molecular-biology-techniques-dna-analysis-b55",
-      "topicName": "Molecular Biology Techniques (2 of 3), DNA analysis"
+      "topicName": "Molecular Biology Techniques (2 of 3), DNA analysis",
+      "tier": "core"
     },
     {
       "id": "bo55-013",
@@ -1150,7 +1174,8 @@
         "drug response"
       ],
       "topicId": "molecular-biology-techniques-dna-analysis-b55",
-      "topicName": "Molecular Biology Techniques (2 of 3), DNA analysis"
+      "topicName": "Molecular Biology Techniques (2 of 3), DNA analysis",
+      "tier": "extra"
     },
     {
       "id": "bo55-014",
@@ -1196,7 +1221,8 @@
         "susceptibility variants"
       ],
       "topicId": "molecular-biology-techniques-dna-analysis-b55",
-      "topicName": "Molecular Biology Techniques (2 of 3), DNA analysis"
+      "topicName": "Molecular Biology Techniques (2 of 3), DNA analysis",
+      "tier": "extra"
     },
     {
       "id": "bo55-015",
@@ -1242,7 +1268,8 @@
         "limitations"
       ],
       "topicId": "molecular-biology-techniques-dna-analysis-b55",
-      "topicName": "Molecular Biology Techniques (2 of 3), DNA analysis"
+      "topicName": "Molecular Biology Techniques (2 of 3), DNA analysis",
+      "tier": "extra"
     },
     {
       "id": "bo55-016",
@@ -1288,7 +1315,8 @@
         "infertility"
       ],
       "topicId": "molecular-biology-techniques-dna-analysis-b55",
-      "topicName": "Molecular Biology Techniques (2 of 3), DNA analysis"
+      "topicName": "Molecular Biology Techniques (2 of 3), DNA analysis",
+      "tier": "extra"
     },
     {
       "id": "bo55-017",
@@ -1335,7 +1363,8 @@
         "targeted approach"
       ],
       "topicId": "molecular-biology-techniques-dna-analysis-b55",
-      "topicName": "Molecular Biology Techniques (2 of 3), DNA analysis"
+      "topicName": "Molecular Biology Techniques (2 of 3), DNA analysis",
+      "tier": "extra"
     },
     {
       "id": "bo55-018",
@@ -1381,7 +1410,8 @@
         "drug resistance"
       ],
       "topicId": "molecular-biology-techniques-dna-analysis-b55",
-      "topicName": "Molecular Biology Techniques (2 of 3), DNA analysis"
+      "topicName": "Molecular Biology Techniques (2 of 3), DNA analysis",
+      "tier": "extra"
     },
     {
       "id": "bo55-019",
@@ -1427,7 +1457,8 @@
         "MgCl2"
       ],
       "topicId": "molecular-biology-techniques-dna-analysis-b55",
-      "topicName": "Molecular Biology Techniques (2 of 3), DNA analysis"
+      "topicName": "Molecular Biology Techniques (2 of 3), DNA analysis",
+      "tier": "extra"
     },
     {
       "id": "bo55-020",
@@ -1473,7 +1504,8 @@
         "reverse-complement"
       ],
       "topicId": "molecular-biology-techniques-dna-analysis-b55",
-      "topicName": "Molecular Biology Techniques (2 of 3), DNA analysis"
+      "topicName": "Molecular Biology Techniques (2 of 3), DNA analysis",
+      "tier": "extra"
     },
     {
       "id": "bo55-021",
@@ -1519,7 +1551,8 @@
         "off-target amplification"
       ],
       "topicId": "molecular-biology-techniques-dna-analysis-b55",
-      "topicName": "Molecular Biology Techniques (2 of 3), DNA analysis"
+      "topicName": "Molecular Biology Techniques (2 of 3), DNA analysis",
+      "tier": "extra"
     },
     {
       "id": "bo55-022",
@@ -1565,7 +1598,8 @@
         "thermal cycler"
       ],
       "topicId": "molecular-biology-techniques-dna-analysis-b55",
-      "topicName": "Molecular Biology Techniques (2 of 3), DNA analysis"
+      "topicName": "Molecular Biology Techniques (2 of 3), DNA analysis",
+      "tier": "extra"
     },
     {
       "id": "bo55-023",
@@ -1611,7 +1645,8 @@
         "2^n"
       ],
       "topicId": "molecular-biology-techniques-dna-analysis-b55",
-      "topicName": "Molecular Biology Techniques (2 of 3), DNA analysis"
+      "topicName": "Molecular Biology Techniques (2 of 3), DNA analysis",
+      "tier": "extra"
     },
     {
       "id": "bo55-024",
@@ -1657,7 +1692,8 @@
         "DdeI"
       ],
       "topicId": "molecular-biology-techniques-dna-analysis-b55",
-      "topicName": "Molecular Biology Techniques (2 of 3), DNA analysis"
+      "topicName": "Molecular Biology Techniques (2 of 3), DNA analysis",
+      "tier": "extra"
     },
     {
       "id": "bo55-025",
@@ -1703,7 +1739,8 @@
         "limitations"
       ],
       "topicId": "molecular-biology-techniques-dna-analysis-b55",
-      "topicName": "Molecular Biology Techniques (2 of 3), DNA analysis"
+      "topicName": "Molecular Biology Techniques (2 of 3), DNA analysis",
+      "tier": "extra"
     },
     {
       "id": "bo55-026",
@@ -1749,7 +1786,8 @@
         "gel interpretation"
       ],
       "topicId": "molecular-biology-techniques-dna-analysis-b55",
-      "topicName": "Molecular Biology Techniques (2 of 3), DNA analysis"
+      "topicName": "Molecular Biology Techniques (2 of 3), DNA analysis",
+      "tier": "extra"
     },
     {
       "id": "bo55-027",
@@ -1795,7 +1833,8 @@
         "interpretation"
       ],
       "topicId": "molecular-biology-techniques-dna-analysis-b55",
-      "topicName": "Molecular Biology Techniques (2 of 3), DNA analysis"
+      "topicName": "Molecular Biology Techniques (2 of 3), DNA analysis",
+      "tier": "extra"
     },
     {
       "id": "bo55-028",
@@ -1841,7 +1880,8 @@
         "fragment size"
       ],
       "topicId": "molecular-biology-techniques-dna-analysis-b55",
-      "topicName": "Molecular Biology Techniques (2 of 3), DNA analysis"
+      "topicName": "Molecular Biology Techniques (2 of 3), DNA analysis",
+      "tier": "extra"
     },
     {
       "id": "bo55-029",
@@ -1887,7 +1927,8 @@
         "sequencing"
       ],
       "topicId": "molecular-biology-techniques-dna-analysis-b55",
-      "topicName": "Molecular Biology Techniques (2 of 3), DNA analysis"
+      "topicName": "Molecular Biology Techniques (2 of 3), DNA analysis",
+      "tier": "extra"
     },
     {
       "id": "bo55-030",
@@ -1933,7 +1974,8 @@
         "reaction components"
       ],
       "topicId": "molecular-biology-techniques-dna-analysis-b55",
-      "topicName": "Molecular Biology Techniques (2 of 3), DNA analysis"
+      "topicName": "Molecular Biology Techniques (2 of 3), DNA analysis",
+      "tier": "extra"
     },
     {
       "id": "bo55-031",
@@ -1979,7 +2021,8 @@
         "electropherogram"
       ],
       "topicId": "molecular-biology-techniques-dna-analysis-b55",
-      "topicName": "Molecular Biology Techniques (2 of 3), DNA analysis"
+      "topicName": "Molecular Biology Techniques (2 of 3), DNA analysis",
+      "tier": "extra"
     },
     {
       "id": "bo55-032",
@@ -2025,7 +2068,8 @@
         "indel"
       ],
       "topicId": "molecular-biology-techniques-dna-analysis-b55",
-      "topicName": "Molecular Biology Techniques (2 of 3), DNA analysis"
+      "topicName": "Molecular Biology Techniques (2 of 3), DNA analysis",
+      "tier": "extra"
     },
     {
       "id": "bo55-033",
@@ -2071,7 +2115,8 @@
         "sequencing by synthesis"
       ],
       "topicId": "molecular-biology-techniques-dna-analysis-b55",
-      "topicName": "Molecular Biology Techniques (2 of 3), DNA analysis"
+      "topicName": "Molecular Biology Techniques (2 of 3), DNA analysis",
+      "tier": "extra"
     },
     {
       "id": "bo55-034",
@@ -2117,7 +2162,8 @@
         "exome sequencing"
       ],
       "topicId": "molecular-biology-techniques-dna-analysis-b55",
-      "topicName": "Molecular Biology Techniques (2 of 3), DNA analysis"
+      "topicName": "Molecular Biology Techniques (2 of 3), DNA analysis",
+      "tier": "extra"
     },
     {
       "id": "bo55-035",
@@ -2163,7 +2209,8 @@
         "unbiased approach"
       ],
       "topicId": "molecular-biology-techniques-dna-analysis-b55",
-      "topicName": "Molecular Biology Techniques (2 of 3), DNA analysis"
+      "topicName": "Molecular Biology Techniques (2 of 3), DNA analysis",
+      "tier": "extra"
     },
     {
       "id": "bo55-036",
@@ -2209,7 +2256,8 @@
         "limitations"
       ],
       "topicId": "molecular-biology-techniques-dna-analysis-b55",
-      "topicName": "Molecular Biology Techniques (2 of 3), DNA analysis"
+      "topicName": "Molecular Biology Techniques (2 of 3), DNA analysis",
+      "tier": "extra"
     },
     {
       "id": "bo56-001",
@@ -2255,7 +2303,8 @@
         "clinical application"
       ],
       "topicId": "molecular-biology-techniques-rna-analysis",
-      "topicName": "Molecular Biology Techniques (3 of 3), RNA analysis"
+      "topicName": "Molecular Biology Techniques (3 of 3), RNA analysis",
+      "tier": "core"
     },
     {
       "id": "bo56-002",
@@ -2301,7 +2350,8 @@
         "off-target effects"
       ],
       "topicId": "molecular-biology-techniques-rna-analysis",
-      "topicName": "Molecular Biology Techniques (3 of 3), RNA analysis"
+      "topicName": "Molecular Biology Techniques (3 of 3), RNA analysis",
+      "tier": "core"
     },
     {
       "id": "bo56-003",
@@ -2347,7 +2397,8 @@
         "qPCR"
       ],
       "topicId": "molecular-biology-techniques-rna-analysis",
-      "topicName": "Molecular Biology Techniques (3 of 3), RNA analysis"
+      "topicName": "Molecular Biology Techniques (3 of 3), RNA analysis",
+      "tier": "core"
     },
     {
       "id": "bo56-004",
@@ -2393,7 +2444,8 @@
         "gene expression"
       ],
       "topicId": "molecular-biology-techniques-rna-analysis",
-      "topicName": "Molecular Biology Techniques (3 of 3), RNA analysis"
+      "topicName": "Molecular Biology Techniques (3 of 3), RNA analysis",
+      "tier": "core"
     },
     {
       "id": "bo56-005",
@@ -2439,7 +2491,8 @@
         "HIV viral load"
       ],
       "topicId": "molecular-biology-techniques-rna-analysis",
-      "topicName": "Molecular Biology Techniques (3 of 3), RNA analysis"
+      "topicName": "Molecular Biology Techniques (3 of 3), RNA analysis",
+      "tier": "core"
     },
     {
       "id": "bo56-006",
@@ -2485,7 +2538,8 @@
         "retrovirus"
       ],
       "topicId": "molecular-biology-techniques-rna-analysis",
-      "topicName": "Molecular Biology Techniques (3 of 3), RNA analysis"
+      "topicName": "Molecular Biology Techniques (3 of 3), RNA analysis",
+      "tier": "core"
     },
     {
       "id": "bo56-007",
@@ -2531,7 +2585,8 @@
         "qPCR"
       ],
       "topicId": "molecular-biology-techniques-rna-analysis",
-      "topicName": "Molecular Biology Techniques (3 of 3), RNA analysis"
+      "topicName": "Molecular Biology Techniques (3 of 3), RNA analysis",
+      "tier": "core"
     },
     {
       "id": "bo56-008",
@@ -2577,7 +2632,8 @@
         "cell populations"
       ],
       "topicId": "molecular-biology-techniques-rna-analysis",
-      "topicName": "Molecular Biology Techniques (3 of 3), RNA analysis"
+      "topicName": "Molecular Biology Techniques (3 of 3), RNA analysis",
+      "tier": "core"
     },
     {
       "id": "bo56-009",
@@ -2623,7 +2679,8 @@
         "RNA-seq"
       ],
       "topicId": "molecular-biology-techniques-rna-analysis",
-      "topicName": "Molecular Biology Techniques (3 of 3), RNA analysis"
+      "topicName": "Molecular Biology Techniques (3 of 3), RNA analysis",
+      "tier": "core"
     },
     {
       "id": "bo56-010",
@@ -2669,7 +2726,8 @@
         "gene fusion"
       ],
       "topicId": "molecular-biology-techniques-rna-analysis",
-      "topicName": "Molecular Biology Techniques (3 of 3), RNA analysis"
+      "topicName": "Molecular Biology Techniques (3 of 3), RNA analysis",
+      "tier": "core"
     },
     {
       "id": "bo56-011",
@@ -2715,7 +2773,8 @@
         "fluorescence"
       ],
       "topicId": "molecular-biology-techniques-rna-analysis",
-      "topicName": "Molecular Biology Techniques (3 of 3), RNA analysis"
+      "topicName": "Molecular Biology Techniques (3 of 3), RNA analysis",
+      "tier": "core"
     },
     {
       "id": "bo56-012",
@@ -2761,7 +2820,8 @@
         "clinical application"
       ],
       "topicId": "molecular-biology-techniques-rna-analysis",
-      "topicName": "Molecular Biology Techniques (3 of 3), RNA analysis"
+      "topicName": "Molecular Biology Techniques (3 of 3), RNA analysis",
+      "tier": "core"
     },
     {
       "id": "bo56-013",
@@ -2807,7 +2867,8 @@
         "cDNA"
       ],
       "topicId": "molecular-biology-techniques-rna-analysis",
-      "topicName": "Molecular Biology Techniques (3 of 3), RNA analysis"
+      "topicName": "Molecular Biology Techniques (3 of 3), RNA analysis",
+      "tier": "extra"
     },
     {
       "id": "bo56-014",
@@ -2853,7 +2914,8 @@
         "reverse transcriptase"
       ],
       "topicId": "molecular-biology-techniques-rna-analysis",
-      "topicName": "Molecular Biology Techniques (3 of 3), RNA analysis"
+      "topicName": "Molecular Biology Techniques (3 of 3), RNA analysis",
+      "tier": "extra"
     },
     {
       "id": "bo56-015",
@@ -2899,7 +2961,8 @@
         "troubleshooting"
       ],
       "topicId": "molecular-biology-techniques-rna-analysis",
-      "topicName": "Molecular Biology Techniques (3 of 3), RNA analysis"
+      "topicName": "Molecular Biology Techniques (3 of 3), RNA analysis",
+      "tier": "extra"
     },
     {
       "id": "bo56-016",
@@ -2945,7 +3008,8 @@
         "single gene"
       ],
       "topicId": "molecular-biology-techniques-rna-analysis",
-      "topicName": "Molecular Biology Techniques (3 of 3), RNA analysis"
+      "topicName": "Molecular Biology Techniques (3 of 3), RNA analysis",
+      "tier": "extra"
     },
     {
       "id": "bo56-017",
@@ -2991,7 +3055,8 @@
         "qPCR"
       ],
       "topicId": "molecular-biology-techniques-rna-analysis",
-      "topicName": "Molecular Biology Techniques (3 of 3), RNA analysis"
+      "topicName": "Molecular Biology Techniques (3 of 3), RNA analysis",
+      "tier": "extra"
     },
     {
       "id": "bo56-018",
@@ -3037,7 +3102,8 @@
         "absolute quantification"
       ],
       "topicId": "molecular-biology-techniques-rna-analysis",
-      "topicName": "Molecular Biology Techniques (3 of 3), RNA analysis"
+      "topicName": "Molecular Biology Techniques (3 of 3), RNA analysis",
+      "tier": "extra"
     },
     {
       "id": "bo56-019",
@@ -3083,7 +3149,8 @@
         "absolute quantification"
       ],
       "topicId": "molecular-biology-techniques-rna-analysis",
-      "topicName": "Molecular Biology Techniques (3 of 3), RNA analysis"
+      "topicName": "Molecular Biology Techniques (3 of 3), RNA analysis",
+      "tier": "extra"
     },
     {
       "id": "bo56-020",
@@ -3129,7 +3196,8 @@
         "HIV viral load"
       ],
       "topicId": "molecular-biology-techniques-rna-analysis",
-      "topicName": "Molecular Biology Techniques (3 of 3), RNA analysis"
+      "topicName": "Molecular Biology Techniques (3 of 3), RNA analysis",
+      "tier": "extra"
     },
     {
       "id": "bo56-021",
@@ -3175,7 +3243,8 @@
         "qPCR"
       ],
       "topicId": "molecular-biology-techniques-rna-analysis",
-      "topicName": "Molecular Biology Techniques (3 of 3), RNA analysis"
+      "topicName": "Molecular Biology Techniques (3 of 3), RNA analysis",
+      "tier": "extra"
     },
     {
       "id": "bo56-022",
@@ -3221,7 +3290,8 @@
         "data interpretation"
       ],
       "topicId": "molecular-biology-techniques-rna-analysis",
-      "topicName": "Molecular Biology Techniques (3 of 3), RNA analysis"
+      "topicName": "Molecular Biology Techniques (3 of 3), RNA analysis",
+      "tier": "extra"
     },
     {
       "id": "bo56-023",
@@ -3267,7 +3337,8 @@
         "comparison table"
       ],
       "topicId": "molecular-biology-techniques-rna-analysis",
-      "topicName": "Molecular Biology Techniques (3 of 3), RNA analysis"
+      "topicName": "Molecular Biology Techniques (3 of 3), RNA analysis",
+      "tier": "extra"
     },
     {
       "id": "bo56-024",
@@ -3313,7 +3384,8 @@
         "study design"
       ],
       "topicId": "molecular-biology-techniques-rna-analysis",
-      "topicName": "Molecular Biology Techniques (3 of 3), RNA analysis"
+      "topicName": "Molecular Biology Techniques (3 of 3), RNA analysis",
+      "tier": "extra"
     },
     {
       "id": "bo56-025",
@@ -3359,7 +3431,8 @@
         "qPCR vs RNA-seq"
       ],
       "topicId": "molecular-biology-techniques-rna-analysis",
-      "topicName": "Molecular Biology Techniques (3 of 3), RNA analysis"
+      "topicName": "Molecular Biology Techniques (3 of 3), RNA analysis",
+      "tier": "extra"
     },
     {
       "id": "bo56-026",
@@ -3405,7 +3478,8 @@
         "RNA-seq limitations"
       ],
       "topicId": "molecular-biology-techniques-rna-analysis",
-      "topicName": "Molecular Biology Techniques (3 of 3), RNA analysis"
+      "topicName": "Molecular Biology Techniques (3 of 3), RNA analysis",
+      "tier": "extra"
     },
     {
       "id": "bo56-027",
@@ -3451,7 +3525,8 @@
         "RNA-seq"
       ],
       "topicId": "molecular-biology-techniques-rna-analysis",
-      "topicName": "Molecular Biology Techniques (3 of 3), RNA analysis"
+      "topicName": "Molecular Biology Techniques (3 of 3), RNA analysis",
+      "tier": "extra"
     },
     {
       "id": "bo56-028",
@@ -3497,7 +3572,8 @@
         "reverse transcription"
       ],
       "topicId": "molecular-biology-techniques-rna-analysis",
-      "topicName": "Molecular Biology Techniques (3 of 3), RNA analysis"
+      "topicName": "Molecular Biology Techniques (3 of 3), RNA analysis",
+      "tier": "extra"
     },
     {
       "id": "bo56-029",
@@ -3543,7 +3619,8 @@
         "RNA-seq"
       ],
       "topicId": "molecular-biology-techniques-rna-analysis",
-      "topicName": "Molecular Biology Techniques (3 of 3), RNA analysis"
+      "topicName": "Molecular Biology Techniques (3 of 3), RNA analysis",
+      "tier": "extra"
     },
     {
       "id": "bo56-030",
@@ -3589,7 +3666,8 @@
         "data visualization"
       ],
       "topicId": "molecular-biology-techniques-rna-analysis",
-      "topicName": "Molecular Biology Techniques (3 of 3), RNA analysis"
+      "topicName": "Molecular Biology Techniques (3 of 3), RNA analysis",
+      "tier": "extra"
     },
     {
       "id": "bo56-031",
@@ -3635,7 +3713,8 @@
         "RNA-seq"
       ],
       "topicId": "molecular-biology-techniques-rna-analysis",
-      "topicName": "Molecular Biology Techniques (3 of 3), RNA analysis"
+      "topicName": "Molecular Biology Techniques (3 of 3), RNA analysis",
+      "tier": "extra"
     },
     {
       "id": "bo56-032",
@@ -3681,7 +3760,8 @@
         "cancer diagnostics"
       ],
       "topicId": "molecular-biology-techniques-rna-analysis",
-      "topicName": "Molecular Biology Techniques (3 of 3), RNA analysis"
+      "topicName": "Molecular Biology Techniques (3 of 3), RNA analysis",
+      "tier": "extra"
     },
     {
       "id": "bo56-033",
@@ -3727,7 +3807,8 @@
         "lineage trajectories"
       ],
       "topicId": "molecular-biology-techniques-rna-analysis",
-      "topicName": "Molecular Biology Techniques (3 of 3), RNA analysis"
+      "topicName": "Molecular Biology Techniques (3 of 3), RNA analysis",
+      "tier": "extra"
     },
     {
       "id": "bo56-034",
@@ -3773,7 +3854,8 @@
         "RNA detection"
       ],
       "topicId": "molecular-biology-techniques-rna-analysis",
-      "topicName": "Molecular Biology Techniques (3 of 3), RNA analysis"
+      "topicName": "Molecular Biology Techniques (3 of 3), RNA analysis",
+      "tier": "extra"
     },
     {
       "id": "bo56-035",
@@ -3819,7 +3901,8 @@
         "transcription factor"
       ],
       "topicId": "molecular-biology-techniques-rna-analysis",
-      "topicName": "Molecular Biology Techniques (3 of 3), RNA analysis"
+      "topicName": "Molecular Biology Techniques (3 of 3), RNA analysis",
+      "tier": "extra"
     },
     {
       "id": "bo56-036",
@@ -3865,7 +3948,8 @@
         "reverse transcription"
       ],
       "topicId": "molecular-biology-techniques-rna-analysis",
-      "topicName": "Molecular Biology Techniques (3 of 3), RNA analysis"
+      "topicName": "Molecular Biology Techniques (3 of 3), RNA analysis",
+      "tier": "extra"
     },
     {
       "id": "bo57-001",
@@ -3911,7 +3995,8 @@
         "advanced maternal age"
       ],
       "topicId": "prenatal-genetic-testing-neonatal-screening",
-      "topicName": "Prenatal Genetic Testing & Neonatal Screening"
+      "topicName": "Prenatal Genetic Testing & Neonatal Screening",
+      "tier": "core"
     },
     {
       "id": "bo57-002",
@@ -3957,7 +4042,8 @@
         "serum markers"
       ],
       "topicId": "prenatal-genetic-testing-neonatal-screening",
-      "topicName": "Prenatal Genetic Testing & Neonatal Screening"
+      "topicName": "Prenatal Genetic Testing & Neonatal Screening",
+      "tier": "core"
     },
     {
       "id": "bo57-003",
@@ -4003,7 +4089,8 @@
         "multiple of the median"
       ],
       "topicId": "prenatal-genetic-testing-neonatal-screening",
-      "topicName": "Prenatal Genetic Testing & Neonatal Screening"
+      "topicName": "Prenatal Genetic Testing & Neonatal Screening",
+      "tier": "core"
     },
     {
       "id": "bo57-004",
@@ -4049,7 +4136,8 @@
         "quad screen"
       ],
       "topicId": "prenatal-genetic-testing-neonatal-screening",
-      "topicName": "Prenatal Genetic Testing & Neonatal Screening"
+      "topicName": "Prenatal Genetic Testing & Neonatal Screening",
+      "tier": "core"
     },
     {
       "id": "bo57-005",
@@ -4095,7 +4183,8 @@
         "placenta"
       ],
       "topicId": "prenatal-genetic-testing-neonatal-screening",
-      "topicName": "Prenatal Genetic Testing & Neonatal Screening"
+      "topicName": "Prenatal Genetic Testing & Neonatal Screening",
+      "tier": "core"
     },
     {
       "id": "bo57-006",
@@ -4141,7 +4230,8 @@
         "nuchal translucency"
       ],
       "topicId": "prenatal-genetic-testing-neonatal-screening",
-      "topicName": "Prenatal Genetic Testing & Neonatal Screening"
+      "topicName": "Prenatal Genetic Testing & Neonatal Screening",
+      "tier": "core"
     },
     {
       "id": "bo57-007",
@@ -4187,7 +4277,8 @@
         "blastocyst biopsy"
       ],
       "topicId": "prenatal-genetic-testing-neonatal-screening",
-      "topicName": "Prenatal Genetic Testing & Neonatal Screening"
+      "topicName": "Prenatal Genetic Testing & Neonatal Screening",
+      "tier": "core"
     },
     {
       "id": "bo57-008",
@@ -4233,7 +4324,8 @@
         "lab interpretation"
       ],
       "topicId": "prenatal-genetic-testing-neonatal-screening",
-      "topicName": "Prenatal Genetic Testing & Neonatal Screening"
+      "topicName": "Prenatal Genetic Testing & Neonatal Screening",
+      "tier": "core"
     },
     {
       "id": "bo57-009",
@@ -4279,7 +4371,8 @@
         "trophoblast"
       ],
       "topicId": "prenatal-genetic-testing-neonatal-screening",
-      "topicName": "Prenatal Genetic Testing & Neonatal Screening"
+      "topicName": "Prenatal Genetic Testing & Neonatal Screening",
+      "tier": "core"
     },
     {
       "id": "bo57-010",
@@ -4325,7 +4418,8 @@
         "tandem mass spectrometry"
       ],
       "topicId": "prenatal-genetic-testing-neonatal-screening",
-      "topicName": "Prenatal Genetic Testing & Neonatal Screening"
+      "topicName": "Prenatal Genetic Testing & Neonatal Screening",
+      "tier": "core"
     },
     {
       "id": "bo57-011",
@@ -4371,7 +4465,8 @@
         "confirmatory testing"
       ],
       "topicId": "prenatal-genetic-testing-neonatal-screening",
-      "topicName": "Prenatal Genetic Testing & Neonatal Screening"
+      "topicName": "Prenatal Genetic Testing & Neonatal Screening",
+      "tier": "core"
     },
     {
       "id": "bo57-012",
@@ -4417,7 +4512,8 @@
         "nuchal translucency"
       ],
       "topicId": "prenatal-genetic-testing-neonatal-screening",
-      "topicName": "Prenatal Genetic Testing & Neonatal Screening"
+      "topicName": "Prenatal Genetic Testing & Neonatal Screening",
+      "tier": "core"
     },
     {
       "id": "bo57-013",
@@ -4463,7 +4559,8 @@
         "neural tube defect"
       ],
       "topicId": "prenatal-genetic-testing-neonatal-screening",
-      "topicName": "Prenatal Genetic Testing & Neonatal Screening"
+      "topicName": "Prenatal Genetic Testing & Neonatal Screening",
+      "tier": "extra"
     },
     {
       "id": "bo57-014",
@@ -4509,7 +4606,8 @@
         "detection rates"
       ],
       "topicId": "prenatal-genetic-testing-neonatal-screening",
-      "topicName": "Prenatal Genetic Testing & Neonatal Screening"
+      "topicName": "Prenatal Genetic Testing & Neonatal Screening",
+      "tier": "extra"
     },
     {
       "id": "bo57-015",
@@ -4555,7 +4653,8 @@
         "neural tube defect"
       ],
       "topicId": "prenatal-genetic-testing-neonatal-screening",
-      "topicName": "Prenatal Genetic Testing & Neonatal Screening"
+      "topicName": "Prenatal Genetic Testing & Neonatal Screening",
+      "tier": "extra"
     },
     {
       "id": "bo57-016",
@@ -4601,7 +4700,8 @@
         "screening panel"
       ],
       "topicId": "prenatal-genetic-testing-neonatal-screening",
-      "topicName": "Prenatal Genetic Testing & Neonatal Screening"
+      "topicName": "Prenatal Genetic Testing & Neonatal Screening",
+      "tier": "extra"
     },
     {
       "id": "bo57-017",
@@ -4647,7 +4747,8 @@
         "copy-number variants"
       ],
       "topicId": "prenatal-genetic-testing-neonatal-screening",
-      "topicName": "Prenatal Genetic Testing & Neonatal Screening"
+      "topicName": "Prenatal Genetic Testing & Neonatal Screening",
+      "tier": "extra"
     },
     {
       "id": "bo57-018",
@@ -4693,7 +4794,8 @@
         "screening choice"
       ],
       "topicId": "prenatal-genetic-testing-neonatal-screening",
-      "topicName": "Prenatal Genetic Testing & Neonatal Screening"
+      "topicName": "Prenatal Genetic Testing & Neonatal Screening",
+      "tier": "extra"
     },
     {
       "id": "bo57-019",
@@ -4739,7 +4841,8 @@
         "gestational windows"
       ],
       "topicId": "prenatal-genetic-testing-neonatal-screening",
-      "topicName": "Prenatal Genetic Testing & Neonatal Screening"
+      "topicName": "Prenatal Genetic Testing & Neonatal Screening",
+      "tier": "extra"
     },
     {
       "id": "bo57-020",
@@ -4785,7 +4888,8 @@
         "ultrasound guidance"
       ],
       "topicId": "prenatal-genetic-testing-neonatal-screening",
-      "topicName": "Prenatal Genetic Testing & Neonatal Screening"
+      "topicName": "Prenatal Genetic Testing & Neonatal Screening",
+      "tier": "extra"
     },
     {
       "id": "bo57-021",
@@ -4831,7 +4935,8 @@
         "counseling"
       ],
       "topicId": "prenatal-genetic-testing-neonatal-screening",
-      "topicName": "Prenatal Genetic Testing & Neonatal Screening"
+      "topicName": "Prenatal Genetic Testing & Neonatal Screening",
+      "tier": "extra"
     },
     {
       "id": "bo57-022",
@@ -4877,7 +4982,8 @@
         "test selection"
       ],
       "topicId": "prenatal-genetic-testing-neonatal-screening",
-      "topicName": "Prenatal Genetic Testing & Neonatal Screening"
+      "topicName": "Prenatal Genetic Testing & Neonatal Screening",
+      "tier": "extra"
     },
     {
       "id": "bo57-023",
@@ -4923,7 +5029,8 @@
         "diagnostic testing"
       ],
       "topicId": "prenatal-genetic-testing-neonatal-screening",
-      "topicName": "Prenatal Genetic Testing & Neonatal Screening"
+      "topicName": "Prenatal Genetic Testing & Neonatal Screening",
+      "tier": "extra"
     },
     {
       "id": "bo57-024",
@@ -4969,7 +5076,8 @@
         "IVF"
       ],
       "topicId": "prenatal-genetic-testing-neonatal-screening",
-      "topicName": "Prenatal Genetic Testing & Neonatal Screening"
+      "topicName": "Prenatal Genetic Testing & Neonatal Screening",
+      "tier": "extra"
     },
     {
       "id": "bo57-025",
@@ -5015,7 +5123,8 @@
         "critical congenital heart disease"
       ],
       "topicId": "prenatal-genetic-testing-neonatal-screening",
-      "topicName": "Prenatal Genetic Testing & Neonatal Screening"
+      "topicName": "Prenatal Genetic Testing & Neonatal Screening",
+      "tier": "extra"
     },
     {
       "id": "bo57-026",
@@ -5061,7 +5170,8 @@
         "metabolic disorders"
       ],
       "topicId": "prenatal-genetic-testing-neonatal-screening",
-      "topicName": "Prenatal Genetic Testing & Neonatal Screening"
+      "topicName": "Prenatal Genetic Testing & Neonatal Screening",
+      "tier": "extra"
     },
     {
       "id": "bo57-027",
@@ -5107,7 +5217,8 @@
         "laboratory"
       ],
       "topicId": "prenatal-genetic-testing-neonatal-screening",
-      "topicName": "Prenatal Genetic Testing & Neonatal Screening"
+      "topicName": "Prenatal Genetic Testing & Neonatal Screening",
+      "tier": "extra"
     },
     {
       "id": "bo57-028",
@@ -5153,7 +5264,8 @@
         "screening programs"
       ],
       "topicId": "prenatal-genetic-testing-neonatal-screening",
-      "topicName": "Prenatal Genetic Testing & Neonatal Screening"
+      "topicName": "Prenatal Genetic Testing & Neonatal Screening",
+      "tier": "extra"
     },
     {
       "id": "bo57-029",
@@ -5199,7 +5311,8 @@
         "public health"
       ],
       "topicId": "prenatal-genetic-testing-neonatal-screening",
-      "topicName": "Prenatal Genetic Testing & Neonatal Screening"
+      "topicName": "Prenatal Genetic Testing & Neonatal Screening",
+      "tier": "extra"
     },
     {
       "id": "bo57-030",
@@ -5245,7 +5358,8 @@
         "false negatives"
       ],
       "topicId": "prenatal-genetic-testing-neonatal-screening",
-      "topicName": "Prenatal Genetic Testing & Neonatal Screening"
+      "topicName": "Prenatal Genetic Testing & Neonatal Screening",
+      "tier": "extra"
     },
     {
       "id": "bo57-031",
@@ -5291,7 +5405,8 @@
         "screening interpretation"
       ],
       "topicId": "prenatal-genetic-testing-neonatal-screening",
-      "topicName": "Prenatal Genetic Testing & Neonatal Screening"
+      "topicName": "Prenatal Genetic Testing & Neonatal Screening",
+      "tier": "extra"
     },
     {
       "id": "bo57-032",
@@ -5337,7 +5452,8 @@
         "neural tube defect"
       ],
       "topicId": "prenatal-genetic-testing-neonatal-screening",
-      "topicName": "Prenatal Genetic Testing & Neonatal Screening"
+      "topicName": "Prenatal Genetic Testing & Neonatal Screening",
+      "tier": "extra"
     },
     {
       "id": "bo57-033",
@@ -5383,7 +5499,8 @@
         "aneuploidy"
       ],
       "topicId": "prenatal-genetic-testing-neonatal-screening",
-      "topicName": "Prenatal Genetic Testing & Neonatal Screening"
+      "topicName": "Prenatal Genetic Testing & Neonatal Screening",
+      "tier": "extra"
     },
     {
       "id": "bo57-034",
@@ -5429,7 +5546,8 @@
         "anatomic anomalies"
       ],
       "topicId": "prenatal-genetic-testing-neonatal-screening",
-      "topicName": "Prenatal Genetic Testing & Neonatal Screening"
+      "topicName": "Prenatal Genetic Testing & Neonatal Screening",
+      "tier": "extra"
     },
     {
       "id": "bo57-035",
@@ -5475,7 +5593,8 @@
         "family counseling"
       ],
       "topicId": "prenatal-genetic-testing-neonatal-screening",
-      "topicName": "Prenatal Genetic Testing & Neonatal Screening"
+      "topicName": "Prenatal Genetic Testing & Neonatal Screening",
+      "tier": "extra"
     },
     {
       "id": "bo57-036",
@@ -5521,7 +5640,8 @@
         "definitions"
       ],
       "topicId": "prenatal-genetic-testing-neonatal-screening",
-      "topicName": "Prenatal Genetic Testing & Neonatal Screening"
+      "topicName": "Prenatal Genetic Testing & Neonatal Screening",
+      "tier": "extra"
     },
     {
       "id": "bo58-001",
@@ -5567,7 +5687,8 @@
         "knock-down"
       ],
       "topicId": "animal-models-in-novel-therapeutics",
-      "topicName": "From Bench to Bedside: The Role of Animal Models in Novel Therapeutics"
+      "topicName": "From Bench to Bedside: The Role of Animal Models in Novel Therapeutics",
+      "tier": "core"
     },
     {
       "id": "bo58-002",
@@ -5613,7 +5734,8 @@
         "gene silencing"
       ],
       "topicId": "animal-models-in-novel-therapeutics",
-      "topicName": "From Bench to Bedside: The Role of Animal Models in Novel Therapeutics"
+      "topicName": "From Bench to Bedside: The Role of Animal Models in Novel Therapeutics",
+      "tier": "core"
     },
     {
       "id": "bo58-003",
@@ -5659,7 +5781,8 @@
         "history"
       ],
       "topicId": "animal-models-in-novel-therapeutics",
-      "topicName": "From Bench to Bedside: The Role of Animal Models in Novel Therapeutics"
+      "topicName": "From Bench to Bedside: The Role of Animal Models in Novel Therapeutics",
+      "tier": "core"
     },
     {
       "id": "bo58-004",
@@ -5705,7 +5828,8 @@
         "delivery"
       ],
       "topicId": "animal-models-in-novel-therapeutics",
-      "topicName": "From Bench to Bedside: The Role of Animal Models in Novel Therapeutics"
+      "topicName": "From Bench to Bedside: The Role of Animal Models in Novel Therapeutics",
+      "tier": "core"
     },
     {
       "id": "bo58-005",
@@ -5751,7 +5875,8 @@
         "porphyria"
       ],
       "topicId": "animal-models-in-novel-therapeutics",
-      "topicName": "From Bench to Bedside: The Role of Animal Models in Novel Therapeutics"
+      "topicName": "From Bench to Bedside: The Role of Animal Models in Novel Therapeutics",
+      "tier": "core"
     },
     {
       "id": "bo58-006",
@@ -5797,7 +5922,8 @@
         "preclinical testing"
       ],
       "topicId": "animal-models-in-novel-therapeutics",
-      "topicName": "From Bench to Bedside: The Role of Animal Models in Novel Therapeutics"
+      "topicName": "From Bench to Bedside: The Role of Animal Models in Novel Therapeutics",
+      "tier": "core"
     },
     {
       "id": "bo58-007",
@@ -5843,7 +5969,8 @@
         "gene function"
       ],
       "topicId": "animal-models-in-novel-therapeutics",
-      "topicName": "From Bench to Bedside: The Role of Animal Models in Novel Therapeutics"
+      "topicName": "From Bench to Bedside: The Role of Animal Models in Novel Therapeutics",
+      "tier": "core"
     },
     {
       "id": "bo58-008",
@@ -5889,7 +6016,8 @@
         "genetically modified models"
       ],
       "topicId": "animal-models-in-novel-therapeutics",
-      "topicName": "From Bench to Bedside: The Role of Animal Models in Novel Therapeutics"
+      "topicName": "From Bench to Bedside: The Role of Animal Models in Novel Therapeutics",
+      "tier": "core"
     },
     {
       "id": "bo58-009",
@@ -5935,7 +6063,8 @@
         "reverse genetics"
       ],
       "topicId": "animal-models-in-novel-therapeutics",
-      "topicName": "From Bench to Bedside: The Role of Animal Models in Novel Therapeutics"
+      "topicName": "From Bench to Bedside: The Role of Animal Models in Novel Therapeutics",
+      "tier": "core"
     },
     {
       "id": "bo58-010",
@@ -5981,7 +6110,8 @@
         "selection marker"
       ],
       "topicId": "animal-models-in-novel-therapeutics",
-      "topicName": "From Bench to Bedside: The Role of Animal Models in Novel Therapeutics"
+      "topicName": "From Bench to Bedside: The Role of Animal Models in Novel Therapeutics",
+      "tier": "core"
     },
     {
       "id": "bo58-011",
@@ -6027,7 +6157,8 @@
         "frameshift"
       ],
       "topicId": "animal-models-in-novel-therapeutics",
-      "topicName": "From Bench to Bedside: The Role of Animal Models in Novel Therapeutics"
+      "topicName": "From Bench to Bedside: The Role of Animal Models in Novel Therapeutics",
+      "tier": "core"
     },
     {
       "id": "bo58-012",
@@ -6073,7 +6204,8 @@
         "limitations"
       ],
       "topicId": "animal-models-in-novel-therapeutics",
-      "topicName": "From Bench to Bedside: The Role of Animal Models in Novel Therapeutics"
+      "topicName": "From Bench to Bedside: The Role of Animal Models in Novel Therapeutics",
+      "tier": "core"
     },
     {
       "id": "bo58-013",
@@ -6119,7 +6251,8 @@
         "zebrafish"
       ],
       "topicId": "animal-models-in-novel-therapeutics",
-      "topicName": "From Bench to Bedside: The Role of Animal Models in Novel Therapeutics"
+      "topicName": "From Bench to Bedside: The Role of Animal Models in Novel Therapeutics",
+      "tier": "extra"
     },
     {
       "id": "bo58-014",
@@ -6165,7 +6298,8 @@
         "mRNA"
       ],
       "topicId": "animal-models-in-novel-therapeutics",
-      "topicName": "From Bench to Bedside: The Role of Animal Models in Novel Therapeutics"
+      "topicName": "From Bench to Bedside: The Role of Animal Models in Novel Therapeutics",
+      "tier": "extra"
     },
     {
       "id": "bo58-015",
@@ -6211,7 +6345,8 @@
         "functional genomics"
       ],
       "topicId": "animal-models-in-novel-therapeutics",
-      "topicName": "From Bench to Bedside: The Role of Animal Models in Novel Therapeutics"
+      "topicName": "From Bench to Bedside: The Role of Animal Models in Novel Therapeutics",
+      "tier": "extra"
     },
     {
       "id": "bo58-016",
@@ -6257,7 +6392,8 @@
         "gene regulation"
       ],
       "topicId": "animal-models-in-novel-therapeutics",
-      "topicName": "From Bench to Bedside: The Role of Animal Models in Novel Therapeutics"
+      "topicName": "From Bench to Bedside: The Role of Animal Models in Novel Therapeutics",
+      "tier": "extra"
     },
     {
       "id": "bo58-017",
@@ -6303,7 +6439,8 @@
         "RNA processing"
       ],
       "topicId": "animal-models-in-novel-therapeutics",
-      "topicName": "From Bench to Bedside: The Role of Animal Models in Novel Therapeutics"
+      "topicName": "From Bench to Bedside: The Role of Animal Models in Novel Therapeutics",
+      "tier": "extra"
     },
     {
       "id": "bo58-018",
@@ -6349,7 +6486,8 @@
         "RISC"
       ],
       "topicId": "animal-models-in-novel-therapeutics",
-      "topicName": "From Bench to Bedside: The Role of Animal Models in Novel Therapeutics"
+      "topicName": "From Bench to Bedside: The Role of Animal Models in Novel Therapeutics",
+      "tier": "extra"
     },
     {
       "id": "bo58-019",
@@ -6395,7 +6533,8 @@
         "endosomal escape"
       ],
       "topicId": "animal-models-in-novel-therapeutics",
-      "topicName": "From Bench to Bedside: The Role of Animal Models in Novel Therapeutics"
+      "topicName": "From Bench to Bedside: The Role of Animal Models in Novel Therapeutics",
+      "tier": "extra"
     },
     {
       "id": "bo58-020",
@@ -6441,7 +6580,8 @@
         "mechanism"
       ],
       "topicId": "animal-models-in-novel-therapeutics",
-      "topicName": "From Bench to Bedside: The Role of Animal Models in Novel Therapeutics"
+      "topicName": "From Bench to Bedside: The Role of Animal Models in Novel Therapeutics",
+      "tier": "extra"
     },
     {
       "id": "bo58-021",
@@ -6487,7 +6627,8 @@
         "agriculture"
       ],
       "topicId": "animal-models-in-novel-therapeutics",
-      "topicName": "From Bench to Bedside: The Role of Animal Models in Novel Therapeutics"
+      "topicName": "From Bench to Bedside: The Role of Animal Models in Novel Therapeutics",
+      "tier": "extra"
     },
     {
       "id": "bo58-022",
@@ -6533,7 +6674,8 @@
         "specificity"
       ],
       "topicId": "animal-models-in-novel-therapeutics",
-      "topicName": "From Bench to Bedside: The Role of Animal Models in Novel Therapeutics"
+      "topicName": "From Bench to Bedside: The Role of Animal Models in Novel Therapeutics",
+      "tier": "extra"
     },
     {
       "id": "bo58-023",
@@ -6579,7 +6721,8 @@
         "APP"
       ],
       "topicId": "animal-models-in-novel-therapeutics",
-      "topicName": "From Bench to Bedside: The Role of Animal Models in Novel Therapeutics"
+      "topicName": "From Bench to Bedside: The Role of Animal Models in Novel Therapeutics",
+      "tier": "extra"
     },
     {
       "id": "bo58-024",
@@ -6625,7 +6768,8 @@
         "genome editing"
       ],
       "topicId": "animal-models-in-novel-therapeutics",
-      "topicName": "From Bench to Bedside: The Role of Animal Models in Novel Therapeutics"
+      "topicName": "From Bench to Bedside: The Role of Animal Models in Novel Therapeutics",
+      "tier": "extra"
     },
     {
       "id": "bo58-025",
@@ -6671,7 +6815,8 @@
         "genetically modified models"
       ],
       "topicId": "animal-models-in-novel-therapeutics",
-      "topicName": "From Bench to Bedside: The Role of Animal Models in Novel Therapeutics"
+      "topicName": "From Bench to Bedside: The Role of Animal Models in Novel Therapeutics",
+      "tier": "extra"
     },
     {
       "id": "bo58-026",
@@ -6717,7 +6862,8 @@
         "CRISPR-Cas9"
       ],
       "topicId": "animal-models-in-novel-therapeutics",
-      "topicName": "From Bench to Bedside: The Role of Animal Models in Novel Therapeutics"
+      "topicName": "From Bench to Bedside: The Role of Animal Models in Novel Therapeutics",
+      "tier": "extra"
     },
     {
       "id": "bo58-027",
@@ -6763,7 +6909,8 @@
         "NGS"
       ],
       "topicId": "animal-models-in-novel-therapeutics",
-      "topicName": "From Bench to Bedside: The Role of Animal Models in Novel Therapeutics"
+      "topicName": "From Bench to Bedside: The Role of Animal Models in Novel Therapeutics",
+      "tier": "extra"
     },
     {
       "id": "bo58-028",
@@ -6809,7 +6956,8 @@
         "cardiotoxicity"
       ],
       "topicId": "animal-models-in-novel-therapeutics",
-      "topicName": "From Bench to Bedside: The Role of Animal Models in Novel Therapeutics"
+      "topicName": "From Bench to Bedside: The Role of Animal Models in Novel Therapeutics",
+      "tier": "extra"
     },
     {
       "id": "bo58-029",
@@ -6855,7 +7003,8 @@
         "mosaicism"
       ],
       "topicId": "animal-models-in-novel-therapeutics",
-      "topicName": "From Bench to Bedside: The Role of Animal Models in Novel Therapeutics"
+      "topicName": "From Bench to Bedside: The Role of Animal Models in Novel Therapeutics",
+      "tier": "extra"
     },
     {
       "id": "bo58-030",
@@ -6901,7 +7050,8 @@
         "bacterial immunity"
       ],
       "topicId": "animal-models-in-novel-therapeutics",
-      "topicName": "From Bench to Bedside: The Role of Animal Models in Novel Therapeutics"
+      "topicName": "From Bench to Bedside: The Role of Animal Models in Novel Therapeutics",
+      "tier": "extra"
     },
     {
       "id": "bo58-031",
@@ -6947,7 +7097,8 @@
         "CRISPR"
       ],
       "topicId": "animal-models-in-novel-therapeutics",
-      "topicName": "From Bench to Bedside: The Role of Animal Models in Novel Therapeutics"
+      "topicName": "From Bench to Bedside: The Role of Animal Models in Novel Therapeutics",
+      "tier": "extra"
     },
     {
       "id": "bo58-032",
@@ -6993,7 +7144,8 @@
         "Nobel Prize"
       ],
       "topicId": "animal-models-in-novel-therapeutics",
-      "topicName": "From Bench to Bedside: The Role of Animal Models in Novel Therapeutics"
+      "topicName": "From Bench to Bedside: The Role of Animal Models in Novel Therapeutics",
+      "tier": "extra"
     },
     {
       "id": "bo58-033",
@@ -7039,7 +7191,8 @@
         "CRISPR-Cas9"
       ],
       "topicId": "animal-models-in-novel-therapeutics",
-      "topicName": "From Bench to Bedside: The Role of Animal Models in Novel Therapeutics"
+      "topicName": "From Bench to Bedside: The Role of Animal Models in Novel Therapeutics",
+      "tier": "extra"
     },
     {
       "id": "bo58-034",
@@ -7085,7 +7238,8 @@
         "methods"
       ],
       "topicId": "animal-models-in-novel-therapeutics",
-      "topicName": "From Bench to Bedside: The Role of Animal Models in Novel Therapeutics"
+      "topicName": "From Bench to Bedside: The Role of Animal Models in Novel Therapeutics",
+      "tier": "extra"
     },
     {
       "id": "bo58-035",
@@ -7131,7 +7285,8 @@
         "sickle cell disease"
       ],
       "topicId": "animal-models-in-novel-therapeutics",
-      "topicName": "From Bench to Bedside: The Role of Animal Models in Novel Therapeutics"
+      "topicName": "From Bench to Bedside: The Role of Animal Models in Novel Therapeutics",
+      "tier": "extra"
     },
     {
       "id": "bo58-036",
@@ -7177,7 +7332,8 @@
         "ethics"
       ],
       "topicId": "animal-models-in-novel-therapeutics",
-      "topicName": "From Bench to Bedside: The Role of Animal Models in Novel Therapeutics"
+      "topicName": "From Bench to Bedside: The Role of Animal Models in Novel Therapeutics",
+      "tier": "extra"
     },
     {
       "id": "bo59-001",
@@ -7223,7 +7379,8 @@
         "multifactorial inheritance"
       ],
       "topicId": "multifactorial-disorders-b59",
-      "topicName": "Multifactorial Disorders"
+      "topicName": "Multifactorial Disorders",
+      "tier": "core"
     },
     {
       "id": "bo59-002",
@@ -7269,7 +7426,8 @@
         "risk assessment"
       ],
       "topicId": "multifactorial-disorders-b59",
-      "topicName": "Multifactorial Disorders"
+      "topicName": "Multifactorial Disorders",
+      "tier": "core"
     },
     {
       "id": "bo59-003",
@@ -7315,7 +7473,8 @@
         "recurrence risk"
       ],
       "topicId": "multifactorial-disorders-b59",
-      "topicName": "Multifactorial Disorders"
+      "topicName": "Multifactorial Disorders",
+      "tier": "core"
     },
     {
       "id": "bo59-004",
@@ -7361,7 +7520,8 @@
         "liability threshold"
       ],
       "topicId": "multifactorial-disorders-b59",
-      "topicName": "Multifactorial Disorders"
+      "topicName": "Multifactorial Disorders",
+      "tier": "core"
     },
     {
       "id": "bo59-005",
@@ -7407,7 +7567,8 @@
         "gene-environment"
       ],
       "topicId": "multifactorial-disorders-b59",
-      "topicName": "Multifactorial Disorders"
+      "topicName": "Multifactorial Disorders",
+      "tier": "core"
     },
     {
       "id": "bo59-006",
@@ -7453,7 +7614,8 @@
         "concordance"
       ],
       "topicId": "multifactorial-disorders-b59",
-      "topicName": "Multifactorial Disorders"
+      "topicName": "Multifactorial Disorders",
+      "tier": "core"
     },
     {
       "id": "bo59-007",
@@ -7499,7 +7661,8 @@
         "ADHD"
       ],
       "topicId": "multifactorial-disorders-b59",
-      "topicName": "Multifactorial Disorders"
+      "topicName": "Multifactorial Disorders",
+      "tier": "core"
     },
     {
       "id": "bo59-008",
@@ -7545,7 +7708,8 @@
         "variant classification"
       ],
       "topicId": "multifactorial-disorders-b59",
-      "topicName": "Multifactorial Disorders"
+      "topicName": "Multifactorial Disorders",
+      "tier": "core"
     },
     {
       "id": "bo59-009",
@@ -7591,7 +7755,8 @@
         "CYP2C9"
       ],
       "topicId": "multifactorial-disorders-b59",
-      "topicName": "Multifactorial Disorders"
+      "topicName": "Multifactorial Disorders",
+      "tier": "core"
     },
     {
       "id": "bo59-010",
@@ -7638,7 +7803,8 @@
         "drug targets"
       ],
       "topicId": "multifactorial-disorders-b59",
-      "topicName": "Multifactorial Disorders"
+      "topicName": "Multifactorial Disorders",
+      "tier": "core"
     },
     {
       "id": "bo59-011",
@@ -7684,7 +7850,8 @@
         "DNA methylation"
       ],
       "topicId": "multifactorial-disorders-b59",
-      "topicName": "Multifactorial Disorders"
+      "topicName": "Multifactorial Disorders",
+      "tier": "core"
     },
     {
       "id": "bo59-012",
@@ -7730,7 +7897,8 @@
         "learning objective 2"
       ],
       "topicId": "multifactorial-disorders-b59",
-      "topicName": "Multifactorial Disorders"
+      "topicName": "Multifactorial Disorders",
+      "tier": "core"
     },
     {
       "id": "bo60-001",
@@ -7776,7 +7944,8 @@
         "genetic diversity"
       ],
       "topicId": "population-genetics-b60",
-      "topicName": "Population Genetics"
+      "topicName": "Population Genetics",
+      "tier": "core"
     },
     {
       "id": "bo60-002",
@@ -7822,7 +7991,8 @@
         "genetic drift"
       ],
       "topicId": "population-genetics-b60",
-      "topicName": "Population Genetics"
+      "topicName": "Population Genetics",
+      "tier": "core"
     },
     {
       "id": "bo60-003",
@@ -7868,7 +8038,8 @@
         "genetic variation"
       ],
       "topicId": "population-genetics-b60",
-      "topicName": "Population Genetics"
+      "topicName": "Population Genetics",
+      "tier": "core"
     },
     {
       "id": "bo60-004",
@@ -7914,7 +8085,8 @@
         "calculation"
       ],
       "topicId": "population-genetics-b60",
-      "topicName": "Population Genetics"
+      "topicName": "Population Genetics",
+      "tier": "core"
     },
     {
       "id": "bo60-005",
@@ -7960,7 +8132,8 @@
         "allele frequency"
       ],
       "topicId": "population-genetics-b60",
-      "topicName": "Population Genetics"
+      "topicName": "Population Genetics",
+      "tier": "core"
     },
     {
       "id": "bo60-006",
@@ -8006,7 +8179,8 @@
         "heterozygote advantage"
       ],
       "topicId": "population-genetics-b60",
-      "topicName": "Population Genetics"
+      "topicName": "Population Genetics",
+      "tier": "core"
     },
     {
       "id": "bo60-007",
@@ -8052,7 +8226,8 @@
         "equilibrium"
       ],
       "topicId": "population-genetics-b60",
-      "topicName": "Population Genetics"
+      "topicName": "Population Genetics",
+      "tier": "core"
     },
     {
       "id": "bo60-008",
@@ -8099,7 +8274,8 @@
         "ancestry"
       ],
       "topicId": "population-genetics-b60",
-      "topicName": "Population Genetics"
+      "topicName": "Population Genetics",
+      "tier": "core"
     },
     {
       "id": "bo60-009",
@@ -8145,7 +8321,8 @@
         "Ashkenazi Jews"
       ],
       "topicId": "population-genetics-b60",
-      "topicName": "Population Genetics"
+      "topicName": "Population Genetics",
+      "tier": "core"
     },
     {
       "id": "bo60-010",
@@ -8191,7 +8368,8 @@
         "Hardy-Weinberg"
       ],
       "topicId": "population-genetics-b60",
-      "topicName": "Population Genetics"
+      "topicName": "Population Genetics",
+      "tier": "core"
     },
     {
       "id": "bo60-011",
@@ -8237,7 +8415,8 @@
         "definitions"
       ],
       "topicId": "population-genetics-b60",
-      "topicName": "Population Genetics"
+      "topicName": "Population Genetics",
+      "tier": "core"
     },
     {
       "id": "bo60-012",
@@ -8283,7 +8462,8 @@
         "selection"
       ],
       "topicId": "population-genetics-b60",
-      "topicName": "Population Genetics"
+      "topicName": "Population Genetics",
+      "tier": "core"
     },
     {
       "id": "bo61-001",
@@ -8329,7 +8509,8 @@
         "carbamazepine"
       ],
       "topicId": "pharmacogenetics-an-introduction",
-      "topicName": "Pharmacogenetics: An Introduction"
+      "topicName": "Pharmacogenetics: An Introduction",
+      "tier": "core"
     },
     {
       "id": "bo61-002",
@@ -8375,7 +8556,8 @@
         "monitoring"
       ],
       "topicId": "pharmacogenetics-an-introduction",
-      "topicName": "Pharmacogenetics: An Introduction"
+      "topicName": "Pharmacogenetics: An Introduction",
+      "tier": "core"
     },
     {
       "id": "bo61-003",
@@ -8421,7 +8603,8 @@
         "genetics"
       ],
       "topicId": "pharmacogenetics-an-introduction",
-      "topicName": "Pharmacogenetics: An Introduction"
+      "topicName": "Pharmacogenetics: An Introduction",
+      "tier": "core"
     },
     {
       "id": "bo61-004",
@@ -8467,7 +8650,8 @@
         "myelosuppression"
       ],
       "topicId": "pharmacogenetics-an-introduction",
-      "topicName": "Pharmacogenetics: An Introduction"
+      "topicName": "Pharmacogenetics: An Introduction",
+      "tier": "core"
     },
     {
       "id": "bo61-005",
@@ -8513,7 +8697,8 @@
         "proton pump inhibitor"
       ],
       "topicId": "pharmacogenetics-an-introduction",
-      "topicName": "Pharmacogenetics: An Introduction"
+      "topicName": "Pharmacogenetics: An Introduction",
+      "tier": "core"
     },
     {
       "id": "bo61-006",
@@ -8559,7 +8744,8 @@
         "venlafaxine"
       ],
       "topicId": "pharmacogenetics-an-introduction",
-      "topicName": "Pharmacogenetics: An Introduction"
+      "topicName": "Pharmacogenetics: An Introduction",
+      "tier": "core"
     },
     {
       "id": "bo61-007",
@@ -8605,7 +8791,8 @@
         "narrow therapeutic index"
       ],
       "topicId": "pharmacogenetics-an-introduction",
-      "topicName": "Pharmacogenetics: An Introduction"
+      "topicName": "Pharmacogenetics: An Introduction",
+      "tier": "core"
     },
     {
       "id": "bo61-008",
@@ -8651,7 +8838,8 @@
         "hypersensitivity"
       ],
       "topicId": "pharmacogenetics-an-introduction",
-      "topicName": "Pharmacogenetics: An Introduction"
+      "topicName": "Pharmacogenetics: An Introduction",
+      "tier": "core"
     },
     {
       "id": "bo61-009",
@@ -8697,7 +8885,8 @@
         "classification"
       ],
       "topicId": "pharmacogenetics-an-introduction",
-      "topicName": "Pharmacogenetics: An Introduction"
+      "topicName": "Pharmacogenetics: An Introduction",
+      "tier": "core"
     },
     {
       "id": "bo61-010",
@@ -8743,7 +8932,8 @@
         "definitions"
       ],
       "topicId": "pharmacogenetics-an-introduction",
-      "topicName": "Pharmacogenetics: An Introduction"
+      "topicName": "Pharmacogenetics: An Introduction",
+      "tier": "core"
     },
     {
       "id": "bo61-011",
@@ -8789,7 +8979,8 @@
         "drug target"
       ],
       "topicId": "pharmacogenetics-an-introduction",
-      "topicName": "Pharmacogenetics: An Introduction"
+      "topicName": "Pharmacogenetics: An Introduction",
+      "tier": "core"
     },
     {
       "id": "bo61-012",
@@ -8835,7 +9026,8 @@
         "ACMG"
       ],
       "topicId": "pharmacogenetics-an-introduction",
-      "topicName": "Pharmacogenetics: An Introduction"
+      "topicName": "Pharmacogenetics: An Introduction",
+      "tier": "core"
     },
     {
       "id": "bo61-013",
@@ -8881,7 +9073,8 @@
         "precision medicine"
       ],
       "topicId": "pharmacogenetics-an-introduction",
-      "topicName": "Pharmacogenetics: An Introduction"
+      "topicName": "Pharmacogenetics: An Introduction",
+      "tier": "extra"
     },
     {
       "id": "bo61-014",
@@ -8927,7 +9120,8 @@
         "definitions"
       ],
       "topicId": "pharmacogenetics-an-introduction",
-      "topicName": "Pharmacogenetics: An Introduction"
+      "topicName": "Pharmacogenetics: An Introduction",
+      "tier": "extra"
     },
     {
       "id": "bo61-015",
@@ -8973,7 +9167,8 @@
         "drug metabolism"
       ],
       "topicId": "pharmacogenetics-an-introduction",
-      "topicName": "Pharmacogenetics: An Introduction"
+      "topicName": "Pharmacogenetics: An Introduction",
+      "tier": "extra"
     },
     {
       "id": "bo61-016",
@@ -9019,7 +9214,8 @@
         "asthma"
       ],
       "topicId": "pharmacogenetics-an-introduction",
-      "topicName": "Pharmacogenetics: An Introduction"
+      "topicName": "Pharmacogenetics: An Introduction",
+      "tier": "extra"
     },
     {
       "id": "bo61-017",
@@ -9065,7 +9261,8 @@
         "GPCR variant"
       ],
       "topicId": "pharmacogenetics-an-introduction",
-      "topicName": "Pharmacogenetics: An Introduction"
+      "topicName": "Pharmacogenetics: An Introduction",
+      "tier": "extra"
     },
     {
       "id": "bo61-018",
@@ -9111,7 +9308,8 @@
         "opioid receptor"
       ],
       "topicId": "pharmacogenetics-an-introduction",
-      "topicName": "Pharmacogenetics: An Introduction"
+      "topicName": "Pharmacogenetics: An Introduction",
+      "tier": "extra"
     },
     {
       "id": "bo61-019",
@@ -9157,7 +9355,8 @@
         "weight gain"
       ],
       "topicId": "pharmacogenetics-an-introduction",
-      "topicName": "Pharmacogenetics: An Introduction"
+      "topicName": "Pharmacogenetics: An Introduction",
+      "tier": "extra"
     },
     {
       "id": "bo61-020",
@@ -9203,7 +9402,8 @@
         "adverse effect"
       ],
       "topicId": "pharmacogenetics-an-introduction",
-      "topicName": "Pharmacogenetics: An Introduction"
+      "topicName": "Pharmacogenetics: An Introduction",
+      "tier": "extra"
     },
     {
       "id": "bo61-021",
@@ -9249,7 +9449,8 @@
         "nephrogenic diabetes insipidus"
       ],
       "topicId": "pharmacogenetics-an-introduction",
-      "topicName": "Pharmacogenetics: An Introduction"
+      "topicName": "Pharmacogenetics: An Introduction",
+      "tier": "extra"
     },
     {
       "id": "bo61-022",
@@ -9295,7 +9496,8 @@
         "resensitization"
       ],
       "topicId": "pharmacogenetics-an-introduction",
-      "topicName": "Pharmacogenetics: An Introduction"
+      "topicName": "Pharmacogenetics: An Introduction",
+      "tier": "extra"
     },
     {
       "id": "bo61-023",
@@ -9341,7 +9543,8 @@
         "drug metabolism"
       ],
       "topicId": "pharmacogenetics-an-introduction",
-      "topicName": "Pharmacogenetics: An Introduction"
+      "topicName": "Pharmacogenetics: An Introduction",
+      "tier": "extra"
     },
     {
       "id": "bo61-024",
@@ -9387,7 +9590,8 @@
         "excretion"
       ],
       "topicId": "pharmacogenetics-an-introduction",
-      "topicName": "Pharmacogenetics: An Introduction"
+      "topicName": "Pharmacogenetics: An Introduction",
+      "tier": "extra"
     },
     {
       "id": "bo61-025",
@@ -9433,7 +9637,8 @@
         "drug breakdown"
       ],
       "topicId": "pharmacogenetics-an-introduction",
-      "topicName": "Pharmacogenetics: An Introduction"
+      "topicName": "Pharmacogenetics: An Introduction",
+      "tier": "extra"
     },
     {
       "id": "bo61-026",
@@ -9479,7 +9684,8 @@
         "methylation"
       ],
       "topicId": "pharmacogenetics-an-introduction",
-      "topicName": "Pharmacogenetics: An Introduction"
+      "topicName": "Pharmacogenetics: An Introduction",
+      "tier": "extra"
     },
     {
       "id": "bo61-027",
@@ -9525,7 +9731,8 @@
         "thiopurine"
       ],
       "topicId": "pharmacogenetics-an-introduction",
-      "topicName": "Pharmacogenetics: An Introduction"
+      "topicName": "Pharmacogenetics: An Introduction",
+      "tier": "extra"
     },
     {
       "id": "bo61-028",
@@ -9571,7 +9778,8 @@
         "efficacy"
       ],
       "topicId": "pharmacogenetics-an-introduction",
-      "topicName": "Pharmacogenetics: An Introduction"
+      "topicName": "Pharmacogenetics: An Introduction",
+      "tier": "extra"
     },
     {
       "id": "bo61-029",
@@ -9617,7 +9825,8 @@
         "drug safety"
       ],
       "topicId": "pharmacogenetics-an-introduction",
-      "topicName": "Pharmacogenetics: An Introduction"
+      "topicName": "Pharmacogenetics: An Introduction",
+      "tier": "extra"
     },
     {
       "id": "bo61-030",
@@ -9663,7 +9872,8 @@
         "mutation"
       ],
       "topicId": "pharmacogenetics-an-introduction",
-      "topicName": "Pharmacogenetics: An Introduction"
+      "topicName": "Pharmacogenetics: An Introduction",
+      "tier": "extra"
     },
     {
       "id": "bo61-031",
@@ -9709,7 +9919,8 @@
         "genetic variants"
       ],
       "topicId": "pharmacogenetics-an-introduction",
-      "topicName": "Pharmacogenetics: An Introduction"
+      "topicName": "Pharmacogenetics: An Introduction",
+      "tier": "extra"
     },
     {
       "id": "bo61-032",
@@ -9755,7 +9966,8 @@
         "genetic testing"
       ],
       "topicId": "pharmacogenetics-an-introduction",
-      "topicName": "Pharmacogenetics: An Introduction"
+      "topicName": "Pharmacogenetics: An Introduction",
+      "tier": "extra"
     },
     {
       "id": "bo61-033",
@@ -9801,7 +10013,8 @@
         "hypersensitivity"
       ],
       "topicId": "pharmacogenetics-an-introduction",
-      "topicName": "Pharmacogenetics: An Introduction"
+      "topicName": "Pharmacogenetics: An Introduction",
+      "tier": "extra"
     },
     {
       "id": "bo61-034",
@@ -9847,7 +10060,8 @@
         "classification"
       ],
       "topicId": "pharmacogenetics-an-introduction",
-      "topicName": "Pharmacogenetics: An Introduction"
+      "topicName": "Pharmacogenetics: An Introduction",
+      "tier": "extra"
     },
     {
       "id": "bo61-035",
@@ -9893,7 +10107,8 @@
         "statistics"
       ],
       "topicId": "pharmacogenetics-an-introduction",
-      "topicName": "Pharmacogenetics: An Introduction"
+      "topicName": "Pharmacogenetics: An Introduction",
+      "tier": "extra"
     },
     {
       "id": "bo61-036",
@@ -9939,7 +10154,8 @@
         "volume of distribution"
       ],
       "topicId": "pharmacogenetics-an-introduction",
-      "topicName": "Pharmacogenetics: An Introduction"
+      "topicName": "Pharmacogenetics: An Introduction",
+      "tier": "extra"
     }
   ]
 }
