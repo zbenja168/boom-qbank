@@ -1,0 +1,1141 @@
+{
+  "categoryId": "w2s2",
+  "categoryName": "Session 2",
+  "questions": [
+    {
+      "id": "bo13-001",
+      "stem": "A 4-year-old boy is brought in for a photosensitive rash over sun-exposed skin, intermittent cerebellar ataxia, and diarrhea. Urine amino acid analysis shows markedly elevated excretion of several amino acids, and the child improves with a niacin supplement. A defect in a renal transporter for neutral amino acids is suspected. Which of the following amino acids would be most expected to be increased in this patient's urine?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Arginine"
+        },
+        {
+          "label": "B",
+          "text": "Aspartate"
+        },
+        {
+          "label": "C",
+          "text": "Glutamate"
+        },
+        {
+          "label": "D",
+          "text": "Lysine"
+        },
+        {
+          "label": "E",
+          "text": "Tryptophan"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Hartnup disease impairs reabsorption of neutral (uncharged) amino acids, so they are lost in the urine.",
+        "whyCorrect": "The renal transporter defect in Hartnup disease causes loss of neutral amino acids, producing hyperaminoaciduria. Tryptophan is a neutral amino acid, and its depletion reduces NAD+ synthesis, producing a pellagra-like picture (diarrhea, dermatitis, dementia) that responds to niacin.",
+        "whyWrongByChoice": {
+          "A": "Arginine is basic and positively charged, so it is not handled by the neutral amino acid transporter.",
+          "B": "Aspartate is acidic and negatively charged at blood pH, not neutral, so it is not preferentially wasted here.",
+          "C": "Glutamate carries a negatively charged carboxylic acid side chain, so it is not among the neutral amino acids lost by this transporter.",
+          "D": "Lysine has a basic, positively charged amine side chain and is not a neutral amino acid."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "amino acids",
+        "Hartnup disease",
+        "pellagra"
+      ],
+      "topicId": "proteins-enzymatic-machines-protein-based-disorders-i",
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I",
+      "tier": "core"
+    },
+    {
+      "id": "bo13-002",
+      "stem": "During the Bohr effect, a drop in tissue pH protonates a specific histidine residue in hemoglobin, stabilizing a lower-affinity conformation that favors oxygen unloading. Once protonated and positively charged, this histidine most logically forms a stabilizing ionic salt bridge with which of the following amino acids?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Arginine"
+        },
+        {
+          "label": "B",
+          "text": "Aspartate"
+        },
+        {
+          "label": "C",
+          "text": "Histidine"
+        },
+        {
+          "label": "D",
+          "text": "Lysine"
+        },
+        {
+          "label": "E",
+          "text": "Phenylalanine"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "A positively charged residue forms a salt bridge with a negatively charged partner.",
+        "whyCorrect": "When histidine is protonated it becomes positively charged. An ionic salt bridge requires an oppositely charged partner, and the only amino acids with negatively charged side chains are aspartate and glutamate. Aspartate is therefore the correct partner.",
+        "whyWrongByChoice": {
+          "A": "Arginine is also positively charged and would electrostatically repel the protonated histidine.",
+          "C": "A second histidine would carry the same positive charge and could not form a stabilizing ionic bond.",
+          "D": "Lysine is positively charged, so it would repel the protonated (positive) histidine rather than form a salt bridge.",
+          "E": "Phenylalanine has a nonpolar, uncharged side chain and cannot participate in an ionic salt bridge."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Bohr effect",
+        "hemoglobin",
+        "salt bridge"
+      ],
+      "topicId": "proteins-enzymatic-machines-protein-based-disorders-i",
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I",
+      "tier": "core"
+    },
+    {
+      "id": "bo13-003",
+      "stem": "A signaling protein normally promotes cell division only after a hormone triggers its phosphorylation. In a certain cancer, a mutation replaces the modifiable residue with a different amino acid that mimics the phosphate group, causing constitutive activation independent of the hormone. Which single amino acid substitution best explains this constitutive, unregulated growth?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A leucine is replaced by an arginine"
+        },
+        {
+          "label": "B",
+          "text": "A lysine is replaced by a serine"
+        },
+        {
+          "label": "C",
+          "text": "A serine is replaced by a lysine"
+        },
+        {
+          "label": "D",
+          "text": "A threonine is replaced by an aspartate"
+        },
+        {
+          "label": "E",
+          "text": "An aspartate is replaced by a threonine"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "A phosphomimetic swaps a phosphorylatable hydroxyl residue for a negatively charged residue that imitates the phosphate.",
+        "whyCorrect": "The original residue must be serine, threonine, or tyrosine because only these hydroxyl-bearing residues are phosphorylated. Replacing threonine with aspartate introduces a permanent negative charge that mimics the phosphate group, locking the protein in its active state independent of the hormone.",
+        "whyWrongByChoice": {
+          "A": "Neither leucine nor arginine can be phosphorylated, and arginine is positively charged, not phosphomimetic.",
+          "B": "This removes the phosphorylatable serine rather than mimicking phosphorylation, so it would not drive constitutive activity.",
+          "C": "Serine can be phosphorylated, but lysine adds a positive charge, which does not mimic the negative phosphate group.",
+          "E": "Aspartate is not a phosphorylation target and threonine does not carry a negative charge, so this reverses the needed logic."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "phosphorylation",
+        "post-translational modification",
+        "oncogenesis"
+      ],
+      "topicId": "proteins-enzymatic-machines-protein-based-disorders-i",
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I",
+      "tier": "core"
+    },
+    {
+      "id": "bo13-004",
+      "stem": "A 58-year-old man with a diet lacking fresh fruits and vegetables presents with bleeding, inflamed gums, perifollicular hemorrhages, easy bruising, and poorly healing wounds. His fibroblasts contain a normally folded prolyl hydroxylase enzyme, yet collagen in his tissues lacks structural integrity. Which of the following best explains the defective collagen?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A missense mutation that misfolds and denatures prolyl hydroxylase"
+        },
+        {
+          "label": "B",
+          "text": "Deficiency of vitamin B12 needed for peptide bond formation"
+        },
+        {
+          "label": "C",
+          "text": "Deficiency of vitamin C, a required cofactor for prolyl hydroxylase"
+        },
+        {
+          "label": "D",
+          "text": "Excess ubiquitination targeting collagen for proteasomal degradation"
+        },
+        {
+          "label": "E",
+          "text": "Failure of N-linked glycosylation of collagen asparagine residues"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Scurvy results from vitamin C deficiency, which deprives prolyl hydroxylase of its required cofactor.",
+        "whyCorrect": "Prolyl hydroxylase requires vitamin C (ascorbic acid) to hydroxylate proline to hydroxyproline, a modification that stabilizes collagen. In scurvy the enzyme is present and properly folded but simply lacks the cofactor, so collagen loses structural integrity and produces bleeding gums, perifollicular hemorrhage, and poor wound healing.",
+        "whyWrongByChoice": {
+          "A": "The vignette states the enzyme is normally folded; the problem is a missing nonprotein cofactor, not a denatured enzyme.",
+          "B": "Vitamin B12 is not the cofactor for prolyl hydroxylase, and peptide bonds are formed during translation, not by this enzyme.",
+          "D": "The defect is failed hydroxylation, not excessive ubiquitin-tagged degradation of collagen.",
+          "E": "Collagen's key modification here is proline hydroxylation; N-linked glycosylation of asparagine is not the failed step in scurvy."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "scurvy",
+        "hydroxylation",
+        "collagen",
+        "vitamin C"
+      ],
+      "topicId": "proteins-enzymatic-machines-protein-based-disorders-i",
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I",
+      "tier": "core"
+    },
+    {
+      "id": "bo13-005",
+      "stem": "A cell biologist is studying N-linked glycosylation, in which a carbohydrate chain is covalently attached to a nitrogen atom of a specific amino acid side chain. Which amino acid is the target for N-linked glycosylation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Asparagine"
+        },
+        {
+          "label": "B",
+          "text": "Lysine"
+        },
+        {
+          "label": "C",
+          "text": "Serine"
+        },
+        {
+          "label": "D",
+          "text": "Threonine"
+        },
+        {
+          "label": "E",
+          "text": "Tyrosine"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "N-linked glycosylation attaches sugar to the nitrogen of asparagine.",
+        "whyCorrect": "N-linked glycosylation requires a nitrogen atom for the carbohydrate linkage, and asparagine is the only amino acid targeted for this modification. This routing modification is medically relevant because its disruption underlies I-cell disease.",
+        "whyWrongByChoice": {
+          "B": "Lysine's amine is the target for ubiquitination, not for N-linked glycosylation of proteins.",
+          "C": "Serine bears a hydroxyl group and is a target for O-linked glycosylation, not N-linked.",
+          "D": "Threonine has a hydroxyl side chain used in O-linked glycosylation, not the nitrogen-based N-linkage.",
+          "E": "Tyrosine's hydroxyl group supports O-linked glycosylation, not N-linked attachment."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "glycosylation",
+        "post-translational modification",
+        "asparagine"
+      ],
+      "topicId": "proteins-enzymatic-machines-protein-based-disorders-i",
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I",
+      "tier": "core"
+    },
+    {
+      "id": "bo13-006",
+      "stem": "A damaged cytosolic protein is tagged for degradation when a small 76-amino-acid protein is covalently attached, and additional copies are then added to one another to form a polymeric tag. To which amino acid side chain is this tag initially attached?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Aspartate"
+        },
+        {
+          "label": "B",
+          "text": "Cysteine"
+        },
+        {
+          "label": "C",
+          "text": "Lysine"
+        },
+        {
+          "label": "D",
+          "text": "Proline"
+        },
+        {
+          "label": "E",
+          "text": "Serine"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Ubiquitin is attached to the epsilon-amino group of a lysine side chain.",
+        "whyCorrect": "Ubiquitin, a conserved 76-amino-acid protein, is covalently linked to the epsilon-amino group within a lysine side chain, and subsequent ubiquitin molecules are added to form a polyubiquitin chain that traffics the protein to the proteasome.",
+        "whyWrongByChoice": {
+          "A": "Aspartate is a negatively charged residue and is not the site of ubiquitin conjugation.",
+          "B": "Cysteine's thiol forms disulfide bonds; it is not the residue that anchors ubiquitin.",
+          "D": "Proline can be hydroxylated in collagen but is not the anchor for ubiquitination.",
+          "E": "Serine's hydroxyl group is a target for phosphorylation and O-linked glycosylation, not ubiquitin attachment."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "ubiquitination",
+        "protein turnover",
+        "lysine"
+      ],
+      "topicId": "proteins-enzymatic-machines-protein-based-disorders-i",
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I",
+      "tier": "core"
+    },
+    {
+      "id": "bo13-007",
+      "stem": "A patient with multiple myeloma, a cancer of antibody-producing B cells, is treated with bortezomib, a proteasome inhibitor. These malignant cells rapidly ubiquitinate and degrade the mediators of programmed cell death. Which of the following best explains how proteasome inhibition helps kill these cancer cells?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It blocks degradation of pro-apoptotic proteins"
+        },
+        {
+          "label": "B",
+          "text": "It chelates the calcium cofactor required for the coagulation cascade"
+        },
+        {
+          "label": "C",
+          "text": "It denatures the primary structure of antibodies by hydrolyzing peptide bonds"
+        },
+        {
+          "label": "D",
+          "text": "It inhibits phosphorylation of serine residues needed for cell division"
+        },
+        {
+          "label": "E",
+          "text": "It prevents lysosomal acidification, halting autophagy of mitochondria"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Inhibiting the proteasome restores pro-apoptotic proteins that the cancer cells were destroying.",
+        "whyCorrect": "The ubiquitin-proteasome pathway degrades polyubiquitin-tagged cytosolic proteins. Myeloma cells escape apoptosis by degrading pro-apoptotic proteins, so inhibiting the proteasome allows those proteins to accumulate, restoring apoptosis and enhancing cancer cell death.",
+        "whyWrongByChoice": {
+          "B": "Calcium chelation to block coagulation is the action of agents like EDTA, not a proteasome inhibitor.",
+          "C": "Peptide-bond hydrolysis of antibodies is not the mechanism; the drug prevents degradation of intracellular proteins.",
+          "D": "The drug blocks proteasomal degradation; it does not inhibit serine phosphorylation.",
+          "E": "Bortezomib acts on the proteasome, not on lysosomal acidification or autophagy of organelles."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "proteasome",
+        "bortezomib",
+        "multiple myeloma",
+        "apoptosis"
+      ],
+      "topicId": "proteins-enzymatic-machines-protein-based-disorders-i",
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I",
+      "tier": "core"
+    },
+    {
+      "id": "bo13-008",
+      "stem": "A researcher wants to selectively destroy the primary structure of a protein without relying on disruption of weaker stabilizing forces. Which of the following agents or conditions is required to accomplish this?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A change in pH"
+        },
+        {
+          "label": "B",
+          "text": "A detergent"
+        },
+        {
+          "label": "C",
+          "text": "A protease enzyme"
+        },
+        {
+          "label": "D",
+          "text": "Elevated heat"
+        },
+        {
+          "label": "E",
+          "text": "Mechanical agitation"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Primary structure is held by covalent peptide bonds, which only an enzyme can hydrolyze.",
+        "whyCorrect": "Primary structure is stabilized by covalent peptide bonds. Unlike the weaker forces that maintain higher-order structure, these bonds are not easily broken and require a protease, a hydrolytic enzyme, to cleave them with water.",
+        "whyWrongByChoice": {
+          "A": "Changes in pH neutralize charged side chains and disrupt ionic salt bridges, affecting higher-order structure but not covalent peptide bonds.",
+          "B": "Detergents disrupt hydrophobic interactions and denature proteins without breaking the covalent primary structure.",
+          "D": "Heat compromises weaker interactions such as hydrogen bonds while the covalent peptide backbone persists.",
+          "E": "Mechanical stress disrupts weak forces and promotes misfolding but does not cleave peptide bonds."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "protein structure",
+        "denaturation",
+        "peptide bond"
+      ],
+      "topicId": "proteins-enzymatic-machines-protein-based-disorders-i",
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I",
+      "tier": "core"
+    },
+    {
+      "id": "bo13-009",
+      "stem": "A student is reviewing the forces that stabilize each level of protein structure. The two predominant elements of secondary structure, the alpha-helix and the beta-pleated sheet, are held together primarily by which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Covalent peptide bonds"
+        },
+        {
+          "label": "B",
+          "text": "Disulfide bonds"
+        },
+        {
+          "label": "C",
+          "text": "Hydrogen bonds"
+        },
+        {
+          "label": "D",
+          "text": "Ionic salt bridges"
+        },
+        {
+          "label": "E",
+          "text": "Van der Waals interactions"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Secondary structure (alpha-helix, beta-sheet) is stabilized by hydrogen bonds.",
+        "whyCorrect": "The alpha-helix and beta-pleated sheet are stabilized by hydrogen bonds, which are specialized dipole-dipole interactions occurring when hydrogen is attached to an electronegative atom such as oxygen, nitrogen, or sulfur.",
+        "whyWrongByChoice": {
+          "A": "Covalent peptide bonds stabilize primary structure, not the folding of secondary elements.",
+          "B": "Disulfide bonds form between oxidized cysteines and help stabilize tertiary structure, not secondary structure.",
+          "D": "Ionic salt bridges between charged side chains contribute to tertiary structure, not the backbone hydrogen bonding of secondary structure.",
+          "E": "Van der Waals interactions arise from transient dipoles among side chains and stabilize tertiary structure."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "protein structure",
+        "secondary structure",
+        "hydrogen bonds"
+      ],
+      "topicId": "proteins-enzymatic-machines-protein-based-disorders-i",
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I",
+      "tier": "core"
+    },
+    {
+      "id": "bo13-010",
+      "stem": "Before running a coagulation-independent laboratory analysis, blood is collected into a vacutainer tube pre-loaded with EDTA. Despite the glass and plastic surfaces that normally activate clotting, the sample does not coagulate. Which of the following best explains why EDTA prevents coagulation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It chelates Ca++, an inorganic cofactor required by coagulation proteins"
+        },
+        {
+          "label": "B",
+          "text": "It covalently attaches a heme prosthetic group to fibrinogen"
+        },
+        {
+          "label": "C",
+          "text": "It denatures the primary structure of clotting factors by hydrolysis"
+        },
+        {
+          "label": "D",
+          "text": "It donates NADH as a coenzyme to reverse the coagulation cascade"
+        },
+        {
+          "label": "E",
+          "text": "It phosphorylates serine residues on clotting factors to inhibit them"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "EDTA sequesters calcium, a cofactor multiple coagulation proteins require.",
+        "whyCorrect": "Multiple proteins in the coagulation cascade require the cofactor Ca++. EDTA is a metal chelator that binds and coordinates positively charged metals like Ca++, sequestering them away from the clotting proteins so the cascade cannot proceed. The proteins themselves remain intact but lack their required cofactor.",
+        "whyWrongByChoice": {
+          "B": "EDTA sequesters calcium rather than adding a heme prosthetic group to any protein.",
+          "C": "EDTA does not hydrolyze peptide bonds or denature the primary structure of clotting factors.",
+          "D": "NADH is an intracellular coenzyme and is unrelated to EDTA's chelating mechanism in the tube.",
+          "E": "EDTA chelates metal ions; it does not phosphorylate residues."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "cofactor",
+        "calcium",
+        "EDTA",
+        "coagulation"
+      ],
+      "topicId": "proteins-enzymatic-machines-protein-based-disorders-i",
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I",
+      "tier": "core"
+    },
+    {
+      "id": "bo13-011",
+      "stem": "An examiner asks a student to classify the non-protein components proteins require for function. Heme, which is covalently linked within a hemoglobin subunit and whose removal disrupts the protein's structure and function, is best described as which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Apoenzyme"
+        },
+        {
+          "label": "B",
+          "text": "Coenzyme"
+        },
+        {
+          "label": "C",
+          "text": "Inorganic cofactor"
+        },
+        {
+          "label": "D",
+          "text": "Prosthetic group"
+        },
+        {
+          "label": "E",
+          "text": "Substrate"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "A cofactor covalently linked to a protein is a prosthetic group.",
+        "whyCorrect": "A prosthetic group is a cofactor that is covalently linked to the protein structure, with heme given as the classic example. Unlike loosely bound cofactors, removal of a prosthetic group often disrupts structure and function and cannot simply be restored by adding it back.",
+        "whyWrongByChoice": {
+          "A": "An apoenzyme is the protein portion lacking its cofactor, not the covalently bound helper itself.",
+          "B": "A coenzyme is an organic cofactor such as NADH or FADH2 and is not defined by covalent attachment to the protein.",
+          "C": "Inorganic cofactors such as metal ions are typically loosely associated and readily removable, unlike a covalently attached heme.",
+          "E": "A substrate is the molecule an enzyme acts upon, not a bound non-protein helper."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "prosthetic group",
+        "cofactor",
+        "heme"
+      ],
+      "topicId": "proteins-enzymatic-machines-protein-based-disorders-i",
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I",
+      "tier": "core"
+    },
+    {
+      "id": "bo13-012",
+      "stem": "A key step in influenza infection is the ability of a latent viral fusion protein to undergo a conformational change that promotes viral spread. This change occurs after the extracellular virus is internalized by the cell and the fusion protein is exposed to a slightly acidic environment. Which of the following best describes a vital aspect of this process?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A histidine on the fusion protein becomes deprotonated and negatively charged within the lysosome"
+        },
+        {
+          "label": "B",
+          "text": "A histidine on the fusion protein becomes deprotonated and negatively charged within the proteasome"
+        },
+        {
+          "label": "C",
+          "text": "A histidine on the fusion protein becomes protonated and positively charged within the lysosome"
+        },
+        {
+          "label": "D",
+          "text": "A histidine on the fusion protein becomes protonated and positively charged within the proteasome"
+        },
+        {
+          "label": "E",
+          "text": "A serine on the fusion protein becomes phosphorylated within the proteasome"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "An internalized protein is routed to the acidic lysosome, where histidine becomes protonated and positively charged.",
+        "whyCorrect": "Extracellular material that is internalized is routed to the lysosome, which has an acidic interior (pH 4.5-5.0). Because histidine has a side-chain pKa near physiological pH, this acidic environment protonates it, giving it a positive charge that drives the fusion protein's conformational change.",
+        "whyWrongByChoice": {
+          "A": "In an acidic environment histidine gains a proton and becomes positively charged, not deprotonated and negative.",
+          "B": "The proteasome is the wrong compartment, and acidic conditions would protonate rather than deprotonate histidine.",
+          "D": "The proteasome degrades cytosolic proteins and is not the acidic compartment that receives internalized extracellular virus.",
+          "E": "Serine phosphorylation is a signaling modification and does not describe the acid-driven conformational change of the fusion protein."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "histidine",
+        "lysosome",
+        "pH",
+        "influenza"
+      ],
+      "topicId": "proteins-enzymatic-machines-protein-based-disorders-i",
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I",
+      "tier": "core"
+    },
+    {
+      "id": "bo14-001",
+      "stem": "A newborn develops a hemolytic crisis in the first days of life and is found to have glucose-6-phosphate dehydrogenase (G6PD) deficiency. On a later rotation, an otherwise healthy 53-year-old man is diagnosed with the exact same enzyme deficiency, yet this is his first-ever hemolytic episode. Which of the following best explains the difference in age at initial presentation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "G6PD enzyme activity naturally increases with age, protecting older patients"
+        },
+        {
+          "label": "B",
+          "text": "Reduced glutathione is only required in neonatal red blood cells"
+        },
+        {
+          "label": "C",
+          "text": "The adult's red blood cells contain mitochondria that compensate for the defect"
+        },
+        {
+          "label": "D",
+          "text": "The older adult acquired the deficiency later in life rather than inheriting it"
+        },
+        {
+          "label": "E",
+          "text": "The two patients carry different G6PD variants that differ in residual enzyme activity"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "G6PD deficiency is a spectrum disorder whose severity depends on which of the many variants a patient carries.",
+        "whyCorrect": "Over 200 pathogenic G6PD variants (and 400+ variant enzymes) are described, and the disease occurs along a spectrum of severity. Some variants cause hemolysis within days of birth, while others may never cause a crisis unless the right oxidative stressor is introduced. The age of presentation is entirely dependent on the specific mutation and how it impacts enzyme function.",
+        "whyWrongByChoice": {
+          "A": "Enzyme activity does not rise with age; residual activity is set by the inherited variant.",
+          "B": "Reduced glutathione is required throughout life in all red blood cells, not only in neonates.",
+          "C": "Mature red blood cells lack mitochondria entirely, which is precisely why they depend on pentose-phosphate-pathway NADPH.",
+          "D": "G6PD deficiency is an inherited X-linked disorder present from birth, not something acquired in adulthood."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "G6PD deficiency",
+        "disease spectrum",
+        "hemolytic anemia"
+      ],
+      "topicId": "proteins-enzymatic-machines-protein-based-disorders-i-2",
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I (2 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "bo14-002",
+      "stem": "An otherwise healthy 42-year-old man presents to the emergency department with abnormally dark urine after starting a sulfa drug for a urinary tract infection. Blood work shows a low hematocrit with an increased reticulocyte count, indicating hemolytic anemia. This patient's condition is most likely due to failure of which of the following functions?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Degradation of lysosomal cargo"
+        },
+        {
+          "label": "B",
+          "text": "Inhibition of oxidative phosphorylation"
+        },
+        {
+          "label": "C",
+          "text": "Neutralizing oxidative agents"
+        },
+        {
+          "label": "D",
+          "text": "Production of the amino acid cysteine"
+        },
+        {
+          "label": "E",
+          "text": "Proper elastin formation"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "G6PD deficiency prevents NADPH production, so red blood cells cannot regenerate reduced glutathione to neutralize oxidative agents.",
+        "whyCorrect": "The sulfa drug is a classic oxidative stressor that triggers hemolysis in G6PD deficiency. Without G6PD, red cells cannot make NADPH from the pentose phosphate pathway, so they cannot reduce glutathione and neutralize accumulating oxidizing species, leading to red-cell destruction.",
+        "whyWrongByChoice": {
+          "A": "Failure to degrade lysosomal cargo describes lysosomal storage disorders such as Hurler or I-cell disease.",
+          "B": "Oxidative phosphorylation would be reduced by anemia, but a decrease in ATP production is not what causes the hemolysis here.",
+          "D": "Impaired cysteine production reflects cystathionine beta-synthase deficiency (homocystinuria), not G6PD deficiency.",
+          "E": "Defective elastin formation is the problem in Marfan syndrome, not a cause of hemolytic anemia."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "G6PD deficiency",
+        "glutathione",
+        "oxidative stress"
+      ],
+      "topicId": "proteins-enzymatic-machines-protein-based-disorders-i-2",
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I (2 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "bo14-003",
+      "stem": "A 6-year-old boy of Mediterranean descent develops jaundice and dark urine one day after eating fava beans. A peripheral blood smear shows red cells with membrane \"bites\" removed and inclusions of denatured hemoglobin. Which of the following enzymes is most likely deficient?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Fibrillin-1 of connective tissue"
+        },
+        {
+          "label": "B",
+          "text": "Glucose-6-phosphate dehydrogenase"
+        },
+        {
+          "label": "C",
+          "text": "Hepatic cystathionine beta-synthase"
+        },
+        {
+          "label": "D",
+          "text": "Hepatic phenylalanine hydroxylase"
+        },
+        {
+          "label": "E",
+          "text": "Lysosomal alpha-L-iduronidase"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Favism with Heinz bodies and bite cells is the classic picture of G6PD deficiency.",
+        "whyCorrect": "Fava beans are a well-known oxidative trigger in G6PD deficiency, which is common in individuals of Mediterranean heritage. The inclusions of oxidatively denatured hemoglobin are Heinz bodies, and the bite cells form when macrophages remove those Heinz-body regions from the red cell membrane.",
+        "whyWrongByChoice": {
+          "A": "Fibrillin-1 is defective in Marfan syndrome, a connective tissue disorder.",
+          "C": "Cystathionine beta-synthase deficiency causes homocystinuria, presenting with thrombosis and lens dislocation.",
+          "D": "Phenylalanine hydroxylase deficiency causes PKU, presenting with a mousy odor and developmental delay.",
+          "E": "Alpha-L-iduronidase deficiency causes Hurler syndrome, a lysosomal storage disorder, not acute hemolysis."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "G6PD deficiency",
+        "Heinz bodies",
+        "bite cells",
+        "favism"
+      ],
+      "topicId": "proteins-enzymatic-machines-protein-based-disorders-i-2",
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I (2 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "bo14-004",
+      "stem": "A newborn is noted to have a musty, mousy body odor. Over the following months the infant develops progressive developmental delay and unusually fair skin and hair. Which of the following enzymatic conversions is most likely impaired?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Conversion of homocysteine to cysteine"
+        },
+        {
+          "label": "B",
+          "text": "Conversion of phenylalanine to tyrosine"
+        },
+        {
+          "label": "C",
+          "text": "Degradation of glycosaminoglycans"
+        },
+        {
+          "label": "D",
+          "text": "Inhibition of neutrophil elastase"
+        },
+        {
+          "label": "E",
+          "text": "Regeneration of reduced glutathione"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Classic PKU results from deficient phenylalanine hydroxylase, which normally converts phenylalanine to tyrosine.",
+        "whyCorrect": "In PKU, phenylalanine hydroxylase cannot convert phenylalanine to tyrosine, so phenylalanine accumulates to neurotoxic levels (causing developmental delay) and generates metabolites that produce a mousy odor. Because melanin synthesis requires tyrosine, affected patients are typically fair-complected.",
+        "whyWrongByChoice": {
+          "A": "Impaired conversion of homocysteine to cysteine occurs in homocystinuria, which does not cause a mousy odor or fair skin.",
+          "C": "Failure to degrade glycosaminoglycans describes Hurler syndrome, a lysosomal storage disorder.",
+          "D": "Loss of neutrophil elastase inhibition describes alpha-1 antitrypsin deficiency and its lung disease.",
+          "E": "Failure to regenerate reduced glutathione describes G6PD deficiency and its hemolytic anemia."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "PKU",
+        "phenylalanine hydroxylase",
+        "tyrosine"
+      ],
+      "topicId": "proteins-enzymatic-machines-protein-based-disorders-i-2",
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I (2 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "bo14-005",
+      "stem": "A child with a milder form of phenylketonuria (PKU) shows partial clinical improvement when supplemented with a specific organic cofactor used by phenylalanine hydroxylase. Which of the following is this cofactor?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cobalamin"
+        },
+        {
+          "label": "B",
+          "text": "FAD"
+        },
+        {
+          "label": "C",
+          "text": "NADPH"
+        },
+        {
+          "label": "D",
+          "text": "Pyridoxal phosphate"
+        },
+        {
+          "label": "E",
+          "text": "Tetrahydrobiopterin"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Phenylalanine hydroxylase uses tetrahydrobiopterin (BH4), and some milder PKU variants respond to BH4 supplementation.",
+        "whyCorrect": "Phenylalanine hydroxylase uses the GTP-derived organic cofactor tetrahydrobiopterin (BH4) to hydroxylate phenylalanine to tyrosine. When a variant enzyme binds its cofactor poorly, raising cofactor concentration can drive binding and partially restore function, which is why some milder PKU forms are BH4-responsive.",
+        "whyWrongByChoice": {
+          "A": "Cobalamin (B12) participates in homocysteine remethylation, not phenylalanine hydroxylation.",
+          "B": "FAD (from vitamin B2) serves glutathione reductase, not phenylalanine hydroxylase.",
+          "C": "NADPH is produced by the pentose phosphate pathway and used to reduce glutathione, not by phenylalanine hydroxylase.",
+          "D": "Pyridoxal phosphate (vitamin B6) is the cofactor for cystathionine beta-synthase in homocystinuria, not for phenylalanine hydroxylase."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "PKU",
+        "tetrahydrobiopterin",
+        "cofactor supplementation"
+      ],
+      "topicId": "proteins-enzymatic-machines-protein-based-disorders-i-2",
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I (2 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "bo14-006",
+      "stem": "A 14-month-old boy has coarse facial features, joint stiffness, developmental delay, and increased urinary mucopolysaccharides. Enzyme testing reveals deficient alpha-L-iduronidase, confirming Hurler syndrome. Which of the following features would best distinguish this disorder from Hunter syndrome?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Accumulation of heparan and dermatan sulfate"
+        },
+        {
+          "label": "B",
+          "text": "Deficiency of a lysosomal enzyme"
+        },
+        {
+          "label": "C",
+          "text": "Presence of coarse facial features"
+        },
+        {
+          "label": "D",
+          "text": "Presence of corneal clouding"
+        },
+        {
+          "label": "E",
+          "text": "Progressive developmental delay"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Corneal clouding is present in Hurler but absent in Hunter syndrome, making it a key distinguishing feature.",
+        "whyCorrect": "Hurler and Hunter syndromes both accumulate heparan and dermatan sulfate and share many features, but Hunter syndrome is distinct in that there is no corneal clouding, it is X-linked, it includes aggressive behavior, and it is due to iduronate sulfatase deficiency. The presence of corneal clouding therefore points to Hurler.",
+        "whyWrongByChoice": {
+          "A": "Accumulation of heparan and dermatan sulfate is shared by both Hurler and Hunter syndromes.",
+          "B": "Both disorders result from deficiency of a lysosomal enzyme, so this is not distinguishing.",
+          "C": "Coarse facial features occur in both disorders and cannot distinguish them.",
+          "E": "Progressive developmental delay is a shared manifestation of both syndromes."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Hurler syndrome",
+        "Hunter syndrome",
+        "corneal clouding"
+      ],
+      "topicId": "proteins-enzymatic-machines-protein-based-disorders-i-2",
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I (2 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "bo14-007",
+      "stem": "An infant has severe developmental delay, coarse facial features, and failure to thrive. Cultured fibroblasts contain dense intracellular inclusion bodies. Laboratory testing shows markedly ELEVATED lysosomal hydrolase levels in the plasma with normal urinary mucopolysaccharides. Which of the following processes is defective?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Addition of the mannose-6-phosphate tag"
+        },
+        {
+          "label": "B",
+          "text": "Degradation of glycosaminoglycans by alpha-L-iduronidase"
+        },
+        {
+          "label": "C",
+          "text": "Hydroxylation of phenylalanine to tyrosine"
+        },
+        {
+          "label": "D",
+          "text": "Multimerization of tropoelastin into elastin"
+        },
+        {
+          "label": "E",
+          "text": "Reduction of oxidized glutathione"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "I-cell disease results from defective GlcNAc-1-phosphotransferase, which fails to add mannose-6-phosphate, so lysosomal enzymes are secreted instead of delivered to lysosomes.",
+        "whyCorrect": "In I-cell disease, GlcNAc-1-phosphotransferase cannot form mannose-6-phosphate on lysosomal enzymes in the Golgi. Without this tag, trans-Golgi receptors cannot route the hydrolases to lysosomes, so the enzymes spill into the circulation (elevated plasma levels) while undegraded material accumulates as dense inclusion bodies. Urinary mucopolysaccharides are not increased, unlike in Hurler syndrome.",
+        "whyWrongByChoice": {
+          "B": "Deficient alpha-L-iduronidase causes Hurler syndrome, which raises urinary mucopolysaccharides and affects only one enzyme.",
+          "C": "Defective phenylalanine hydroxylation causes PKU, not a lysosomal trafficking disorder.",
+          "D": "Defective tropoelastin multimerization reflects fibrillin-1 dysfunction in Marfan syndrome.",
+          "E": "Failure to reduce glutathione causes G6PD-related hemolytic anemia."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "I-cell disease",
+        "mannose-6-phosphate",
+        "lysosomal trafficking"
+      ],
+      "topicId": "proteins-enzymatic-machines-protein-based-disorders-i-2",
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I (2 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "bo14-008",
+      "stem": "A tall, thin 17-year-old has long fingers with positive thumb and wrist signs and is found to have upward-and-outward dislocation of the ocular lens along with aortic root dilation. Which of the following genes is most likely mutated?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "FBN1"
+        },
+        {
+          "label": "B",
+          "text": "G6PD"
+        },
+        {
+          "label": "C",
+          "text": "IDUA"
+        },
+        {
+          "label": "D",
+          "text": "PAH"
+        },
+        {
+          "label": "E",
+          "text": "SERPINA1"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Marfan syndrome arises from mutation of the fibrillin-1 gene, FBN1.",
+        "whyCorrect": "The tall stature, arachnodactyly (positive thumb and wrist signs), upward-and-outward lens dislocation, and aortic root dilation are classic for Marfan syndrome. Marfan arises from an autosomal dominant mutation of FBN1, which encodes fibrillin-1, the scaffold protein for elastin in connective tissue.",
+        "whyWrongByChoice": {
+          "B": "G6PD mutations cause hemolytic anemia, not a connective tissue phenotype.",
+          "C": "IDUA mutations cause Hurler syndrome.",
+          "D": "PAH mutations cause PKU.",
+          "E": "SERPINA1 mutations cause alpha-1 antitrypsin deficiency with lung and liver disease."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "Marfan syndrome",
+        "FBN1",
+        "fibrillin",
+        "lens dislocation"
+      ],
+      "topicId": "proteins-enzymatic-machines-protein-based-disorders-i-2",
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I (2 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "bo14-009",
+      "stem": "In Marfan syndrome, mutation of fibrillin-1 produces a defective elastin scaffold in connective tissue. Which of the following secondary molecular changes is chiefly responsible for the aortic pathology seen in these patients?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Accumulation of homocysteine in the circulation"
+        },
+        {
+          "label": "B",
+          "text": "Increased transforming growth factor beta activity"
+        },
+        {
+          "label": "C",
+          "text": "Loss of mannose-6-phosphate tagging of lysosomal enzymes"
+        },
+        {
+          "label": "D",
+          "text": "Oxidative denaturation of hemoglobin within red cells"
+        },
+        {
+          "label": "E",
+          "text": "Unopposed neutrophil elastase activity in the lung"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "In Marfan syndrome, FBN1 mutation secondarily increases TGF-beta activity, which drives the aortic pathology.",
+        "whyCorrect": "Beyond producing defective elastin, the FBN1 mutation secondarily increases the levels and activity of transforming growth factor beta (TGF-beta), a signaling protein. Abnormal TGF-beta activation is what primarily drives the aortic dissection and aneurysm risk associated with Marfan syndrome.",
+        "whyWrongByChoice": {
+          "A": "Accumulation of homocysteine is the mechanism in homocystinuria, a biochemically distinct disorder.",
+          "C": "Loss of mannose-6-phosphate tagging is the defect in I-cell disease.",
+          "D": "Oxidative denaturation of hemoglobin occurs in G6PD deficiency.",
+          "E": "Unopposed neutrophil elastase activity underlies alpha-1 antitrypsin deficiency."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Marfan syndrome",
+        "TGF-beta",
+        "aortic dissection"
+      ],
+      "topicId": "proteins-enzymatic-machines-protein-based-disorders-i-2",
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I (2 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "bo14-010",
+      "stem": "A 12-year-old girl is brought in for a decline in her speaking ability. She has intellectual delay, long thin extremities, and vision problems from a downward-and-inward dislocation of the ocular lens. Which of the following proteins is most likely defective?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Alpha-L-iduronidase"
+        },
+        {
+          "label": "B",
+          "text": "Cystathionine beta-synthase"
+        },
+        {
+          "label": "C",
+          "text": "Fibrillin-1"
+        },
+        {
+          "label": "D",
+          "text": "Glucose-6-phosphate dehydrogenase"
+        },
+        {
+          "label": "E",
+          "text": "Phenylalanine hydroxylase"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Homocystinuria, most commonly from cystathionine beta-synthase deficiency, presents with intellectual disability, marfanoid habitus, and downward-and-inward lens dislocation.",
+        "whyCorrect": "The combination of intellectual disability, marfanoid long limbs, and a down-and-in (inferonasal) lens dislocation is characteristic of homocystinuria. The most common enzyme deficiency causing homocystinuria is cystathionine beta-synthase, which normally consumes homocysteine to make cysteine.",
+        "whyWrongByChoice": {
+          "A": "Alpha-L-iduronidase deficiency causes Hurler syndrome, presenting in infancy with coarse features and corneal clouding.",
+          "C": "Fibrillin-1 defects cause Marfan syndrome, in which the lens dislocates up and out and intellect is preserved.",
+          "D": "Glucose-6-phosphate dehydrogenase deficiency causes hemolytic anemia, not lens dislocation and intellectual disability.",
+          "E": "Phenylalanine hydroxylase deficiency causes PKU, which does not feature lens dislocation."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "homocystinuria",
+        "cystathionine beta-synthase",
+        "lens dislocation"
+      ],
+      "topicId": "proteins-enzymatic-machines-protein-based-disorders-i-2",
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I (2 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "bo14-011",
+      "stem": "Marfan syndrome and homocystinuria share several clinical features despite having unrelated biochemical causes. Which of the following findings points specifically to homocystinuria rather than Marfan syndrome?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Adverse cardiovascular events"
+        },
+        {
+          "label": "B",
+          "text": "Autosomal dominant inheritance"
+        },
+        {
+          "label": "C",
+          "text": "Impaired vision from lens dislocation"
+        },
+        {
+          "label": "D",
+          "text": "Intellectual disability"
+        },
+        {
+          "label": "E",
+          "text": "Long limbs and appendages"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Intellectual disability and thrombotic risk are specific to homocystinuria, whereas long limbs, vision problems, and cardiovascular events are shared with Marfan syndrome.",
+        "whyCorrect": "Marfan syndrome and homocystinuria share long appendages, impaired vision, and adverse cardiovascular events. Homocystinuria is distinguished by intellectual disability (when untreated) and a high risk of thrombosis leading to early myocardial infarction or stroke, features not seen in Marfan syndrome.",
+        "whyWrongByChoice": {
+          "A": "Adverse cardiovascular events occur in both conditions and therefore do not distinguish them.",
+          "B": "Autosomal dominant inheritance describes Marfan syndrome, not homocystinuria.",
+          "C": "Impaired vision from lens dislocation occurs in both, differing only in the direction of dislocation.",
+          "E": "Long limbs and appendages (marfanoid habitus) are a shared feature of both disorders."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "Marfan syndrome",
+        "homocystinuria",
+        "shared features"
+      ],
+      "topicId": "proteins-enzymatic-machines-protein-based-disorders-i-2",
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I (2 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "bo14-012",
+      "stem": "A 45-year-old man with a minimal smoking history has early-onset emphysema affecting the lower lobes of the lungs. He is also found to have cirrhosis with elevated liver enzymes. Genetic testing reveals that he is homozygous for the Z allele (Glu342Lys) of the alpha-1 antitrypsin gene. Which of the following best explains his liver involvement?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Complete absence of AAT protein production"
+        },
+        {
+          "label": "B",
+          "text": "Glycosaminoglycans accumulate within hepatic lysosomes"
+        },
+        {
+          "label": "C",
+          "text": "Homocysteine accumulation causes hepatic vein thrombosis"
+        },
+        {
+          "label": "D",
+          "text": "Misfolded AAT accumulates in the hepatocyte endoplasmic reticulum"
+        },
+        {
+          "label": "E",
+          "text": "Neutrophil elastase digests the hepatic extracellular matrix"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The Z allele produces a misfolded alpha-1 antitrypsin that accumulates in the hepatocyte ER, causing cellular stress and liver disease.",
+        "whyCorrect": "The Z allele replaces a glutamate with lysine (Glu342Lys), a nonconservative change that causes AAT to misfold within the liver endoplasmic reticulum. This misfolded protein induces cellular stress and hepatocyte death, producing cirrhosis, elevated liver enzymes, decreased protein production, and increased hepatic cancer risk.",
+        "whyWrongByChoice": {
+          "A": "Rarer null variants make minimal or no AAT and, lacking misfolding stress, spare the liver while still causing lung disease; this patient's Z allele does produce protein that misfolds.",
+          "B": "Glycosaminoglycan accumulation in lysosomes describes Hurler syndrome.",
+          "C": "Homocysteine-related thrombosis is a feature of homocystinuria, not AAT deficiency.",
+          "E": "Neutrophil elastase drives the lung disease by degrading the alveolar extracellular matrix, not the liver pathology."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "alpha-1 antitrypsin deficiency",
+        "SERPINA1",
+        "Z allele",
+        "cirrhosis"
+      ],
+      "topicId": "proteins-enzymatic-machines-protein-based-disorders-i-2",
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I (2 of 2)",
+      "tier": "core"
+    }
+  ]
+}

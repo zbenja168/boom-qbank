@@ -1,0 +1,1726 @@
+{
+  "categoryId": "w5s1",
+  "categoryName": "Session 1",
+  "questions": [
+    {
+      "id": "bo29-001",
+      "stem": "A committee is setting nutrient intake guidance for a newly recognized micronutrient. There is not enough scientific evidence to calculate a value that meets the requirement of 50% of healthy individuals, so they instead rely on observed and experimentally approximated intakes of healthy population groups. Which dietary reference intake value are they establishing?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Adequate Intake (AI)"
+        },
+        {
+          "label": "B",
+          "text": "Dietary Reference Intake (DRI)"
+        },
+        {
+          "label": "C",
+          "text": "Estimated Average Requirement (EAR)"
+        },
+        {
+          "label": "D",
+          "text": "Recommended Dietary Allowance (RDA)"
+        },
+        {
+          "label": "E",
+          "text": "Tolerable Upper Intake Level (UL)"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Adequate Intake (AI) is used when an EAR cannot be determined.",
+        "whyCorrect": "AI is a value based on observed or experimentally determined approximations of nutrient intake by groups of healthy people. It is set in lieu of an RDA when there is insufficient evidence to calculate an EAR, exactly the scenario described.",
+        "whyWrongByChoice": {
+          "B": "DRI is the umbrella term for the entire set of reference values, not the specific value being established.",
+          "C": "The EAR is a defined value meeting the requirement of 50% of healthy individuals; the committee could not calculate it here.",
+          "D": "The RDA is derived from the EAR and covers 97-98% of individuals, so it also cannot be set without an EAR.",
+          "E": "The UL is the safety ceiling for adverse effects, not a value for planning adequate intake."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "DRI",
+        "nutrition-terminology",
+        "LO1"
+      ],
+      "topicId": "basic-nutritional-requirements-for-metabolism",
+      "topicName": "Basic Nutritional Requirements for Metabolism (1 of 3)",
+      "tier": "core"
+    },
+    {
+      "id": "bo29-002",
+      "stem": "A 58-year-old man in a region where maize is the dietary staple presents with a symmetric, hyperpigmented, scaly rash over sun-exposed skin of the arms and a collar-like rash around the neck. He also reports diarrhea, and his family notes progressive confusion and irritability. Deficiency of which vitamin best explains this presentation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Vitamin B1 (thiamin)"
+        },
+        {
+          "label": "B",
+          "text": "Vitamin B12 (cobalamin)"
+        },
+        {
+          "label": "C",
+          "text": "Vitamin B3 (niacin)"
+        },
+        {
+          "label": "D",
+          "text": "Vitamin B9 (folate)"
+        },
+        {
+          "label": "E",
+          "text": "Vitamin C (ascorbic acid)"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Pellagra from niacin (B3) deficiency causes dermatitis, diarrhea, and dementia.",
+        "whyCorrect": "Niacin deficiency produces pellagra, defined by the 4 D's: dermatitis, diarrhea, dementia, and death if untreated. The photosensitive dermatitis in sun-exposed areas with the collar-like Casal necklace is classic, and it is historically common in corn-based diets.",
+        "whyWrongByChoice": {
+          "A": "Thiamin deficiency causes beriberi with cardiomyopathy and peripheral neuropathy, not a photosensitive rash with the 4 D's.",
+          "B": "B12 deficiency causes macrocytic anemia and neurologic symptoms, not pellagra.",
+          "D": "Folate deficiency causes macrocytic anemia or birth defects, not the pellagra triad.",
+          "E": "Vitamin C deficiency causes scurvy with bleeding gums and pinpoint hemorrhages, not the Casal necklace."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "niacin",
+        "pellagra",
+        "LO2"
+      ],
+      "topicId": "basic-nutritional-requirements-for-metabolism",
+      "topicName": "Basic Nutritional Requirements for Metabolism (1 of 3)",
+      "tier": "core"
+    },
+    {
+      "id": "bo29-003",
+      "stem": "A 6-year-old child presents with a pellagra-like photosensitive rash and intermittent cerebellar ataxia. Laboratory studies show a marked increase in neutral amino acids, including tryptophan, in the urine, while plasma amino acid levels are low. The underlying defect involves a transporter in the intestine and kidney. Which condition most likely accounts for this patient's niacin deficiency?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Biotinidase deficiency"
+        },
+        {
+          "label": "B",
+          "text": "Carcinoid syndrome"
+        },
+        {
+          "label": "C",
+          "text": "Classic phenylketonuria (PKU)"
+        },
+        {
+          "label": "D",
+          "text": "Hartnup disease"
+        },
+        {
+          "label": "E",
+          "text": "Prolonged isoniazid therapy"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Hartnup disease impairs tryptophan absorption, reducing niacin availability.",
+        "whyCorrect": "Hartnup disease is a defective neutral amino acid transporter in the intestine and kidney. Tryptophan fails to be absorbed and is lost in the urine; because tryptophan can be catabolized to nicotinamide for NAD+, this decrement can culminate in pellagra.",
+        "whyWrongByChoice": {
+          "A": "Biotinidase deficiency impairs biotin recycling and causes a biotin, not niacin, deficiency.",
+          "B": "Carcinoid syndrome depletes tryptophan by shunting it into excess serotonin synthesis, not by a defective amino acid transporter with aminoaciduria.",
+          "C": "PKU results from defective phenylalanine hydroxylase and does not cause tryptophan wasting or pellagra.",
+          "E": "Isoniazid depletes vitamin B6 needed to synthesize niacin, but it does not cause neutral aminoaciduria."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "Hartnup",
+        "tryptophan",
+        "niacin",
+        "LO2"
+      ],
+      "topicId": "basic-nutritional-requirements-for-metabolism",
+      "topicName": "Basic Nutritional Requirements for Metabolism (1 of 3)",
+      "tier": "core"
+    },
+    {
+      "id": "bo29-004",
+      "stem": "A 52-year-old man with a long history of chronic alcohol use is admitted with dilated cardiomyopathy and high-output heart failure along with a symmetric peripheral sensory neuropathy. His symptoms improve rapidly after intravenous administration of a specific vitamin. This vitamin's active cofactor is required by transketolase and by pyruvate dehydrogenase. Which vitamin was administered?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Vitamin B1 (thiamin)"
+        },
+        {
+          "label": "B",
+          "text": "Vitamin B2 (riboflavin)"
+        },
+        {
+          "label": "C",
+          "text": "Vitamin B3 (niacin)"
+        },
+        {
+          "label": "D",
+          "text": "Vitamin B6 (pyridoxine)"
+        },
+        {
+          "label": "E",
+          "text": "Vitamin B7 (biotin)"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Thiamin (B1) deficiency causes beriberi and is common in chronic alcoholism.",
+        "whyCorrect": "Thiamin provides thiamin pyrophosphate (TPP), the cofactor for oxidative decarboxylation enzymes such as pyruvate dehydrogenase and alpha-ketoglutarate dehydrogenase and for transketolase. Its deficiency causes beriberi with cardiac and peripheral nerve dysfunction and is especially likely in chronic alcoholism.",
+        "whyWrongByChoice": {
+          "B": "Riboflavin gives FMN/FAD; deficiency is linked to impaired iron absorption and possible normocytic anemia, not beriberi.",
+          "C": "Niacin gives NAD+/NADP+; its deficiency causes pellagra, not high-output cardiac failure.",
+          "D": "Pyridoxine gives PLP; deficiency causes convulsions and microcytic anemia, and its cofactor is not used by transketolase.",
+          "E": "Biotin supports carboxylation reactions; deficiency causes dermatitis and metabolic acidosis, not beriberi."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "thiamin",
+        "beriberi",
+        "alcoholism",
+        "LO2"
+      ],
+      "topicId": "basic-nutritional-requirements-for-metabolism",
+      "topicName": "Basic Nutritional Requirements for Metabolism (1 of 3)",
+      "tier": "core"
+    },
+    {
+      "id": "bo29-005",
+      "stem": "A 45-year-old man who eats an extremely limited diet with almost no fruits or vegetables presents with bleeding, swollen gums, perifollicular hemorrhages, and a poorly healing surgical wound. The deficient vitamin acts as a coenzyme for prolyl and lysyl hydroxylase. Impaired activity of these enzymes most directly explains his findings through defective synthesis of which molecule?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cross-linked collagen"
+        },
+        {
+          "label": "B",
+          "text": "Heme"
+        },
+        {
+          "label": "C",
+          "text": "Methionine"
+        },
+        {
+          "label": "D",
+          "text": "Nicotinamide for NAD+"
+        },
+        {
+          "label": "E",
+          "text": "Serotonin"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Vitamin C deficiency (scurvy) impairs collagen hydroxylation and cross-linking.",
+        "whyCorrect": "Vitamin C is a coenzyme for prolyl and lysyl hydroxylase, which hydroxylate proline and lysine residues so collagen can cross-link and form stable, mature protein. Without it, collagen is weak, producing the bleeding gums, pinpoint hemorrhages, and poor wound healing of scurvy.",
+        "whyWrongByChoice": {
+          "B": "Heme synthesis begins with ALA synthase using PLP and glycine, and is not the target of prolyl/lysyl hydroxylase.",
+          "C": "Methionine is regenerated by methionine synthase using B12 and folate, not by collagen hydroxylases.",
+          "D": "Nicotinamide for NAD+ derives from tryptophan catabolism, unrelated to collagen hydroxylation.",
+          "E": "Serotonin synthesis requires BH4 and PLP, not vitamin C-dependent collagen hydroxylases."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "vitamin-C",
+        "scurvy",
+        "collagen",
+        "LO2"
+      ],
+      "topicId": "basic-nutritional-requirements-for-metabolism",
+      "topicName": "Basic Nutritional Requirements for Metabolism (1 of 3)",
+      "tier": "core"
+    },
+    {
+      "id": "bo29-006",
+      "stem": "A 34-year-old woman has been taking more than 2 grams per day of a vitamin supplement for premenstrual symptoms for several months, roughly 20 times the tolerable upper intake level. She develops numbness beginning in the feet, then loss of sensation in the hands, and eventually difficulty walking. Symptoms resolve after she stops the supplement. Excess of which vitamin best explains this toxicity?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Vitamin B1 (thiamin)"
+        },
+        {
+          "label": "B",
+          "text": "Vitamin B3 (niacin)"
+        },
+        {
+          "label": "C",
+          "text": "Vitamin B5 (pantothenic acid)"
+        },
+        {
+          "label": "D",
+          "text": "Vitamin B6 (pyridoxine)"
+        },
+        {
+          "label": "E",
+          "text": "Vitamin C (ascorbic acid)"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Excess vitamin B6 causes a dose-dependent peripheral sensory neuropathy.",
+        "whyCorrect": "Vitamin B6 is one of the two water-soluble vitamins (with B3) that can cause adverse effects in excess. Toxicity was recognized in studies of megadose B6 for premenstrual syndrome, producing sensory neuropathy that starts as numb feet and can progress to inability to walk, reversing after supplements are stopped.",
+        "whyWrongByChoice": {
+          "A": "Thiamin has no established UL and is considered safe even at high doses.",
+          "B": "Excess niacin causes a prostaglandin-mediated flush, not a progressive sensory neuropathy.",
+          "C": "Pantothenate has no established RDA and deficiency, not excess, is essentially the only concern, and even that is very rare.",
+          "E": "The vitamin C UL is 2000 mg/d and excess does not cause this ascending neuropathy."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "pyridoxine",
+        "vitamin-toxicity",
+        "UL",
+        "LO2"
+      ],
+      "topicId": "basic-nutritional-requirements-for-metabolism",
+      "topicName": "Basic Nutritional Requirements for Metabolism (1 of 3)",
+      "tier": "core"
+    },
+    {
+      "id": "bo29-007",
+      "stem": "A bodybuilder who consumes several raw egg whites daily for months develops thinning hair, a scaly dry rash, and fatigue. His diet is otherwise adequate. A protein in the raw egg white tightly binds a vitamin required by carboxylase enzymes. Which vitamin is most likely deficient?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Vitamin B2 (riboflavin)"
+        },
+        {
+          "label": "B",
+          "text": "Vitamin B6 (pyridoxine)"
+        },
+        {
+          "label": "C",
+          "text": "Vitamin B7 (biotin)"
+        },
+        {
+          "label": "D",
+          "text": "Vitamin B9 (folate)"
+        },
+        {
+          "label": "E",
+          "text": "Vitamin B12 (cobalamin)"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Avidin in raw egg white binds biotin and can cause biotin deficiency.",
+        "whyCorrect": "Biotin is the cofactor for carboxylase enzymes such as pyruvate carboxylase. Raw eggs contain avidin, which tightly binds biotin; regular consumption of raw eggs in high quantities can deplete biotin, causing thinning hair and scaly, dry skin. Heat denatures avidin, so cooked eggs are not a concern.",
+        "whyWrongByChoice": {
+          "A": "Riboflavin is not bound by avidin and its deficiency affects iron absorption and can cause anemia.",
+          "B": "Pyridoxine is not bound by avidin; its deficiency causes convulsions and microcytic anemia.",
+          "D": "Folate deficiency causes macrocytic anemia, and folate is not bound by avidin.",
+          "E": "B12 deficiency causes macrocytic anemia and neurologic disease, unrelated to raw egg intake."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "biotin",
+        "avidin",
+        "carboxylase",
+        "LO2"
+      ],
+      "topicId": "basic-nutritional-requirements-for-metabolism",
+      "topicName": "Basic Nutritional Requirements for Metabolism (1 of 3)",
+      "tier": "core"
+    },
+    {
+      "id": "bo29-008",
+      "stem": "A 70-year-old vegan presents with fatigue, macrocytic anemia, and paresthesias. Serum methylmalonic acid (MMA) is markedly elevated. The elevated MMA reflects reduced activity of an enzyme that normally uses this vitamin as a coenzyme. Which enzyme is impaired?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "ALA synthase"
+        },
+        {
+          "label": "B",
+          "text": "Cystathionine beta-synthase"
+        },
+        {
+          "label": "C",
+          "text": "Methylmalonyl-CoA mutase"
+        },
+        {
+          "label": "D",
+          "text": "Pyruvate carboxylase"
+        },
+        {
+          "label": "E",
+          "text": "Transketolase"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Vitamin B12 is a coenzyme for methylmalonyl-CoA mutase, so deficiency raises MMA.",
+        "whyCorrect": "Vitamin B12 serves as a coenzyme for methylmalonyl-CoA mutase, a role distinct from its interdependence with folate at methionine synthase. When this function is impaired, methylmalonic acid accumulates, which is why elevated serum MMA is indicative of B12 deficiency.",
+        "whyWrongByChoice": {
+          "A": "ALA synthase uses PLP for heme synthesis and is unrelated to MMA accumulation.",
+          "B": "Cystathionine beta-synthase is PLP-dependent and its defect causes homocystinuria, not elevated MMA.",
+          "D": "Pyruvate carboxylase uses biotin, not B12, and its impairment does not elevate MMA.",
+          "E": "Transketolase uses TPP in the pentose phosphate pathway and does not affect MMA."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "vitamin-B12",
+        "methylmalonic-acid",
+        "LO4"
+      ],
+      "topicId": "basic-nutritional-requirements-for-metabolism",
+      "topicName": "Basic Nutritional Requirements for Metabolism (1 of 3)",
+      "tier": "core"
+    },
+    {
+      "id": "bo29-009",
+      "stem": "A 40-year-old man is started on isoniazid for latent tuberculosis. His physician co-prescribes vitamin B6 supplementation. Prolonged isoniazid therapy depletes vitamin B6, which is required to synthesize niacin. Without supplementation, the patient would be at greatest risk of developing which condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Beriberi"
+        },
+        {
+          "label": "B",
+          "text": "Macrocytic anemia"
+        },
+        {
+          "label": "C",
+          "text": "Niacin flush reaction"
+        },
+        {
+          "label": "D",
+          "text": "Pellagra"
+        },
+        {
+          "label": "E",
+          "text": "Scurvy"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Isoniazid depletes B6, reducing niacin synthesis and risking pellagra.",
+        "whyCorrect": "Long-term isoniazid use depletes vitamin B6 (pyridoxine) stores, which are required to synthesize niacin from tryptophan. Reduced niacin availability can culminate in pellagra, which is why patients on isoniazid receive supplemental vitamin B6.",
+        "whyWrongByChoice": {
+          "A": "Beriberi results from thiamin (B1) deficiency, which isoniazid does not cause.",
+          "B": "Macrocytic anemia reflects folate or B12 deficiency, not B6 depletion from isoniazid.",
+          "C": "The niacin flush is a toxicity of excess niacin, the opposite of the deficiency risk here.",
+          "E": "Scurvy results from vitamin C deficiency, unrelated to B6 depletion."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "isoniazid",
+        "pyridoxine",
+        "niacin",
+        "LO2"
+      ],
+      "topicId": "basic-nutritional-requirements-for-metabolism",
+      "topicName": "Basic Nutritional Requirements for Metabolism (1 of 3)",
+      "tier": "core"
+    },
+    {
+      "id": "bo29-010",
+      "stem": "A first-year medical student is reviewing which vitamin-derived cofactor is shared by pyruvate dehydrogenase, alpha-ketoglutarate dehydrogenase, and transketolase in the reactions of glucose metabolism. Which cofactor correctly completes this assignment?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Biotin (carboxylase, from B7)"
+        },
+        {
+          "label": "B",
+          "text": "Coenzyme A (acyl carrier, from B5)"
+        },
+        {
+          "label": "C",
+          "text": "FAD (flavin carrier, from B2)"
+        },
+        {
+          "label": "D",
+          "text": "NAD+ (hydride carrier, from B3)"
+        },
+        {
+          "label": "E",
+          "text": "Thiamin pyrophosphate (from B1)"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Thiamin pyrophosphate (TPP) is the cofactor shared by these three enzymes.",
+        "whyCorrect": "Thiamin pyrophosphate (TPP), derived from vitamin B1, is required by pyruvate dehydrogenase and alpha-ketoglutarate dehydrogenase (oxidative decarboxylation in the TCA cycle) and by transketolase in the pentose phosphate pathway.",
+        "whyWrongByChoice": {
+          "A": "Biotin (from B7) supports carboxylation in gluconeogenesis (pyruvate carboxylase), not these three enzymes.",
+          "B": "CoA (from B5) is used in the TCA cycle by enzymes such as pyruvate dehydrogenase but not by transketolase.",
+          "C": "FAD (from B2) participates in the TCA/electron transport chain (e.g., complex II), not transketolase.",
+          "D": "NAD+ (from B3) is used broadly in glycolysis and TCA dehydrogenases but is not the transketolase cofactor."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "thiamin",
+        "TPP",
+        "glucose-metabolism",
+        "LO3"
+      ],
+      "topicId": "basic-nutritional-requirements-for-metabolism",
+      "topicName": "Basic Nutritional Requirements for Metabolism (1 of 3)",
+      "tier": "core"
+    },
+    {
+      "id": "bo29-011",
+      "stem": "A neonate with classic phenylketonuria is being studied. The defective enzyme phenylalanine hydroxylase normally converts phenylalanine to tyrosine and requires a specific cofactor that is also needed by tyrosine hydroxylase, tryptophan hydroxylase, and nitric oxide synthase. Unlike the B vitamins, this cofactor is a derivative of GTP. Which cofactor is described?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cobalamin (B12)"
+        },
+        {
+          "label": "B",
+          "text": "Coenzyme A (CoA)"
+        },
+        {
+          "label": "C",
+          "text": "Pyridoxal phosphate (PLP)"
+        },
+        {
+          "label": "D",
+          "text": "Tetrahydrobiopterin (BH4)"
+        },
+        {
+          "label": "E",
+          "text": "Tetrahydrofolate (FH4)"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Tetrahydrobiopterin (BH4) is the GTP-derived cofactor for the aromatic hydroxylases and NO synthase.",
+        "whyCorrect": "BH4 is a derivative of GTP required by phenylalanine hydroxylase (dysfunctional in classic PKU), tyrosine hydroxylase, and tryptophan hydroxylase, feeding catecholamine and serotonin synthesis. It is also required by nitric oxide synthase to make NO from arginine.",
+        "whyWrongByChoice": {
+          "A": "Cobalamin serves methylmalonyl-CoA mutase and methionine synthase, not the aromatic hydroxylases.",
+          "B": "CoA is used in energy-yielding acyl transfer reactions, unrelated to amino acid hydroxylation.",
+          "C": "PLP (from B6) is used by aminotransferases and decarboxylases, and downstream dopa decarboxylase, but not by phenylalanine hydroxylase.",
+          "E": "FH4 donates one-carbon units for methionine synthesis and is not the hydroxylase cofactor."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "BH4",
+        "phenylalanine-hydroxylase",
+        "PKU",
+        "LO4"
+      ],
+      "topicId": "basic-nutritional-requirements-for-metabolism",
+      "topicName": "Basic Nutritional Requirements for Metabolism (1 of 3)",
+      "tier": "core"
+    },
+    {
+      "id": "bo29-012",
+      "stem": "A 60-year-old man takes a 1,000 mg dose of niacin for hyperlipidemia. About 20 minutes later he develops red, warm, itchy skin over his face and upper body, which resolves within about an hour. The tolerable upper intake level for niacin is only 35 mg/day, the lowest of the water-soluble vitamins. Which mechanism best explains this reaction?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Accumulation of methylmalonic acid in the skin"
+        },
+        {
+          "label": "B",
+          "text": "IgE-mediated mast cell degranulation from a true allergy"
+        },
+        {
+          "label": "C",
+          "text": "Impaired collagen cross-linking in dermal vessels"
+        },
+        {
+          "label": "D",
+          "text": "Peripheral sensory neuropathy from cofactor toxicity"
+        },
+        {
+          "label": "E",
+          "text": "Prostaglandin release causing cutaneous vasodilation"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The niacin flush is a harmless prostaglandin-mediated cutaneous vasodilation.",
+        "whyCorrect": "Exceeding the niacin UL commonly causes a flush reaction with red, warm, itchy skin. Niacin in the bloodstream prompts release of prostaglandins, leading to dilation of skin blood vessels and increased blood flow. It is harmless and temporary, typically subsiding within 1-2 hours.",
+        "whyWrongByChoice": {
+          "A": "Methylmalonic acid accumulates in B12 deficiency and does not cause cutaneous flushing.",
+          "B": "The flush is a prostaglandin-mediated response, not an IgE-mediated allergic reaction.",
+          "C": "Defective collagen cross-linking is the mechanism of scurvy, not the niacin flush.",
+          "D": "Sensory neuropathy is a feature of vitamin B6 toxicity, not the transient niacin flush."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "niacin",
+        "flush",
+        "UL",
+        "LO2"
+      ],
+      "topicId": "basic-nutritional-requirements-for-metabolism",
+      "topicName": "Basic Nutritional Requirements for Metabolism (1 of 3)",
+      "tier": "core"
+    },
+    {
+      "id": "bo30-001",
+      "stem": "A 6-year-old boy with cystic fibrosis is evaluated for poor weight gain and greasy, foul-smelling stools. His parents report he has recently had trouble seeing in dim light. Laboratory testing confirms pancreatic insufficiency with low fecal elastase. Which of the following best explains why this child is at risk for vitamin A deficiency?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A congenital defect in hepatic 25-hydroxylase prevents activation of the vitamin"
+        },
+        {
+          "label": "B",
+          "text": "Autoantibodies destroy the intestinal receptor required for active transport of the vitamin"
+        },
+        {
+          "label": "C",
+          "text": "Excess renal excretion of the water-soluble vitamin depletes body stores"
+        },
+        {
+          "label": "D",
+          "text": "Gut bacteria that synthesize the vitamin are eradicated by chronic antibiotic use"
+        },
+        {
+          "label": "E",
+          "text": "Thick mucus blocks the exocrine ducts, reducing lipase delivery"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Fat-soluble vitamins (A, D, E, K) require normal fat digestion; conditions that impair lipid absorption cause their deficiency.",
+        "whyCorrect": "In cystic fibrosis, thick mucus blocks pancreatic secretory ducts and reduces lipase release into the small intestine, adversely impacting fat absorption. Because fat-soluble vitamins are absorbed with lipids and incorporated into chylomicrons formed during fat digestion, any pathology that impairs lipid absorption traps these vitamins in the digestive tract and causes deficiency. Night blindness is an early indicator of vitamin A deficiency.",
+        "whyWrongByChoice": {
+          "A": "25-hydroxylase acts on vitamin D3, not vitamin A, and this is not the mechanism of malabsorption in cystic fibrosis.",
+          "B": "Fat-soluble vitamins are absorbed passively with dietary lipids, not through a specific autoantibody-targeted active transporter.",
+          "C": "Vitamin A is fat-soluble, not water-soluble, and is stored in liver and adipose rather than being lost readily in urine.",
+          "D": "Loss of vitamin K-producing gut bacteria affects vitamin K, not vitamin A, and is not the cause here."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "vitamin A",
+        "malabsorption",
+        "cystic fibrosis"
+      ],
+      "topicId": "fat-soluble-vitamins-a-d-e-k",
+      "topicName": "Fat-Soluble Vitamins (A, D, E, K)",
+      "tier": "core"
+    },
+    {
+      "id": "bo30-002",
+      "stem": "A 35-year-old man with known chronic pancreatic disease comes to the clinic complaining of difficulty seeing while driving home at night. Physical exam of the anterior eye later shows a dry, hardened cornea and small foamy patches on the conjunctiva. Which form of vitamin A most directly explains his night vision problem?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Beta-carotene, the plant carotenoid precursor of vitamin A"
+        },
+        {
+          "label": "B",
+          "text": "Calcitriol, the active hormonal derivative that governs gene expression"
+        },
+        {
+          "label": "C",
+          "text": "Retinal, a component of rhodopsin needed for visual pigment regeneration"
+        },
+        {
+          "label": "D",
+          "text": "Retinoic acid, which activates nuclear receptors to regulate keratin"
+        },
+        {
+          "label": "E",
+          "text": "Retinol bound to its transport protein for storage in the liver"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Night blindness in vitamin A deficiency results from insufficient retinal for regeneration of visual pigment in the retina.",
+        "whyCorrect": "Retinal is the component of rhodopsin, the light-sensing biological pigment in cells at the back of the eye. Night blindness occurs when insufficient retinal is present for visual pigment regeneration, and it is an early indicator of vitamin A deficiency. His dry hardened cornea (corneal xerosis) and conjunctival Bitot's spots reflect progression of the same deficiency (xerophthalmia).",
+        "whyWrongByChoice": {
+          "A": "Beta-carotene is the inactive plant precursor cleaved into vitamin A; it is not itself the visual pigment.",
+          "B": "Calcitriol is the active form of vitamin D, unrelated to visual pigment function.",
+          "D": "Retinoic acid acts as a hormone regulating gene expression and keratin production but is not the light-sensing molecule of the retina.",
+          "E": "Retinol is the major transport and storage form of vitamin A, not the pigment that directly senses light."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "vitamin A",
+        "vision",
+        "night blindness"
+      ],
+      "topicId": "fat-soluble-vitamins-a-d-e-k",
+      "topicName": "Fat-Soluble Vitamins (A, D, E, K)",
+      "tier": "core"
+    },
+    {
+      "id": "bo30-003",
+      "stem": "A dermatologist plans to prescribe isotretinoin (13-cis-retinoic acid) for a 19-year-old woman with severe cystic acne. Before starting therapy she is enrolled in a program requiring two negative pregnancy tests and adherence to a strict contraception regimen. Which property of this retinoid best justifies these precautions?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It causes irreversible maternal night blindness that progresses during pregnancy"
+        },
+        {
+          "label": "B",
+          "text": "It inhibits vitamin K epoxide reductase and causes fetal intracranial hemorrhage"
+        },
+        {
+          "label": "C",
+          "text": "It is rapidly converted from beta-carotene and accumulates to toxic levels in the fetal liver"
+        },
+        {
+          "label": "D",
+          "text": "It is teratogenic because it modulates transcription factors that affect fetal development"
+        },
+        {
+          "label": "E",
+          "text": "It precipitates as calcium oxalate crystals and forms obstructing fetal kidney stones"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Excess vitamin A is a well-known teratogen and is of great concern in pregnancy.",
+        "whyCorrect": "Retinoic acid acts as a hormone that regulates cell differentiation and embryonic development by modulating transcription. Excess vitamin A poses a teratogenic risk to the developing fetus and increases the risk of birth defects, which is why isotretinoin (Accutane) requires strict contraception and negative pregnancy tests before prescription.",
+        "whyWrongByChoice": {
+          "A": "Night blindness is a sign of vitamin A deficiency, not toxicity, and is not the reason for contraception requirements.",
+          "B": "Epoxide reductase inhibition describes warfarin's effect on vitamin K, not isotretinoin.",
+          "C": "Beta-carotene conversion is too slow to cause toxicity and describes a mechanism protecting against, not causing, vitamin A toxicity.",
+          "E": "Calcium oxalate stones are a feature of vitamin D toxicity, not retinoid teratogenicity."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "vitamin A",
+        "toxicity",
+        "teratogen",
+        "isotretinoin"
+      ],
+      "topicId": "fat-soluble-vitamins-a-d-e-k",
+      "topicName": "Fat-Soluble Vitamins (A, D, E, K)",
+      "tier": "core"
+    },
+    {
+      "id": "bo30-004",
+      "stem": "A 28-year-old woman is diagnosed with acute promyelocytic leukemia (APL). She is started on all-trans-retinoic acid (ATRA) and achieves complete remission. Which mechanism best explains the therapeutic effect of ATRA in this leukemia?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It blocks 1-alpha-hydroxylase, starving the tumor of active vitamin D"
+        },
+        {
+          "label": "B",
+          "text": "It chelates calcium needed for leukemic cell proliferation"
+        },
+        {
+          "label": "C",
+          "text": "It directly triggers apoptosis by cross-linking leukemic cell DNA"
+        },
+        {
+          "label": "D",
+          "text": "It drives differentiation of the leukemic cells into mature granulocytes"
+        },
+        {
+          "label": "E",
+          "text": "It inhibits CYP26 enzymes to prevent catabolism of the leukemic cells"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "ATRA treats APL by promoting differentiation of the leukemic cells rather than killing them directly.",
+        "whyCorrect": "All-trans-retinoic acid is first-line therapy for acute promyelocytic leukemia. Its mechanism is to drive differentiation of the leukemic cells into nondividing mature granulocytes/macrophages, and it has proven extremely effective, with about 90% of patients achieving complete remission.",
+        "whyWrongByChoice": {
+          "A": "1-alpha-hydroxylase acts in vitamin D activation and is unrelated to ATRA's differentiating effect.",
+          "B": "Calcium chelation (by EDTA/EGTA) relates to preventing coagulation in phlebotomy, not to APL therapy.",
+          "C": "ATRA works by inducing differentiation, not by directly cross-linking DNA to trigger apoptosis.",
+          "E": "CYP26 inhibition describes retinoic acid metabolism blocking agents (RAMBAs), which raise RA levels; it is not the mechanism of ATRA's action in APL."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "vitamin A",
+        "ATRA",
+        "leukemia",
+        "differentiation"
+      ],
+      "topicId": "fat-soluble-vitamins-a-d-e-k",
+      "topicName": "Fat-Soluble Vitamins (A, D, E, K)",
+      "tier": "core"
+    },
+    {
+      "id": "bo30-005",
+      "stem": "A 9-month-old exclusively breastfed infant with darkly pigmented skin who lives in a northern city and gets little sun exposure is brought in for delayed motor milestones. Exam shows bowing of the legs, bone tenderness, and delayed closure of the fontanelles. Which vitamin deficiency best accounts for these findings?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Vitamin A"
+        },
+        {
+          "label": "B",
+          "text": "Vitamin C"
+        },
+        {
+          "label": "C",
+          "text": "Vitamin D"
+        },
+        {
+          "label": "D",
+          "text": "Vitamin E"
+        },
+        {
+          "label": "E",
+          "text": "Vitamin K"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Rickets from vitamin D deficiency causes soft, poorly mineralized bones in children.",
+        "whyCorrect": "Vitamin D deficiency causes rickets, the softening and weakening of bones in children. Features include delayed growth, bowing of the legs, bone pain and tenderness, and delayed closing of the fontanelles due to poor mineralization of newly formed bone. Lack of sunlight, darker skin tones with less UV absorption, and breastfeeding without supplementation are all contributing risk factors present in this infant.",
+        "whyWrongByChoice": {
+          "A": "Vitamin A deficiency causes night blindness and eye/skin changes, not bowed bones and delayed fontanelle closure.",
+          "B": "Vitamin C is water-soluble and its deficiency causes scurvy; it is outside the fat-soluble vitamin scope and does not produce this classic rickets picture.",
+          "D": "Vitamin E deficiency causes hemolytic anemia, not a rachitic bone phenotype.",
+          "E": "Vitamin K deficiency causes bleeding and prolonged coagulation, not bone deformities."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "vitamin D",
+        "rickets",
+        "deficiency"
+      ],
+      "topicId": "fat-soluble-vitamins-a-d-e-k",
+      "topicName": "Fat-Soluble Vitamins (A, D, E, K)",
+      "tier": "core"
+    },
+    {
+      "id": "bo30-006",
+      "stem": "A physician wants to assess a patient's overall vitamin D status. Which serum measurement provides the best reflection of the patient's vitamin D stores?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "1,25-OH vitamin D3 (calcitriol)"
+        },
+        {
+          "label": "B",
+          "text": "25-OH vitamin D3 (calcidiol)"
+        },
+        {
+          "label": "C",
+          "text": "7-dehydrocholesterol"
+        },
+        {
+          "label": "D",
+          "text": "Parathyroid hormone"
+        },
+        {
+          "label": "E",
+          "text": "Vitamin D2 (ergocalciferol)"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Serum 25-OH vitamin D3 (calcidiol) is the best marker of vitamin D status.",
+        "whyCorrect": "When checking vitamin D status, you measure the concentration of 25-OH vitamin D3 in the serum. This metabolite has a long half-life, its production in the liver is not hormonally influenced, and it is stored in this inert form until it is hydroxylated one more time, making it a better reflection of vitamin D levels.",
+        "whyWrongByChoice": {
+          "A": "Calcitriol (1,25-OH D3) is the active hormone; its production is tightly hormonally regulated and its short half-life makes it a poor marker of overall stores.",
+          "C": "7-dehydrocholesterol is a skin precursor of D3, not a circulating measure of vitamin D status.",
+          "D": "PTH regulates activation of vitamin D but is not itself a measure of vitamin D stores.",
+          "E": "Vitamin D2 is a minor dietary form and is not the standard status marker; the stored 25-OH D3 metabolite is measured instead."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "vitamin D",
+        "calcidiol",
+        "laboratory"
+      ],
+      "topicId": "fat-soluble-vitamins-a-d-e-k",
+      "topicName": "Fat-Soluble Vitamins (A, D, E, K)",
+      "tier": "core"
+    },
+    {
+      "id": "bo30-007",
+      "stem": "In a patient with low blood calcium, parathyroid hormone is released and stimulates the final activating step of vitamin D metabolism. Where does this hormonally stimulated hydroxylation occur, and what product is formed?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "In the intestine by calcium binding protein, producing ergocalciferol"
+        },
+        {
+          "label": "B",
+          "text": "In the kidney by 1-alpha-hydroxylase, producing calcitriol"
+        },
+        {
+          "label": "C",
+          "text": "In the liver by 25-hydroxylase, producing calcidiol"
+        },
+        {
+          "label": "D",
+          "text": "In the parathyroid gland by epoxide reductase, producing 7-dehydrocholesterol"
+        },
+        {
+          "label": "E",
+          "text": "In the skin by UVB energy, producing vitamin D3"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "PTH stimulates renal 1-alpha-hydroxylase to convert 25-OH D3 into active calcitriol.",
+        "whyCorrect": "The second hydroxylation adds a hydroxyl group at the number 1 carbon to create the biologically active steroid hormone calcitriol (1,25-OH D3). This reaction predominantly occurs in the kidney via 1-alpha-hydroxylase and, unlike the first hydroxylation, is stimulated by parathyroid hormone released in response to low blood calcium.",
+        "whyWrongByChoice": {
+          "A": "Calcium binding protein mediates intestinal calcium absorption; it is not an enzyme that hydroxylates vitamin D.",
+          "C": "The liver 25-hydroxylase step produces calcidiol (25-OH D3) and is not hormonally governed by PTH.",
+          "D": "Epoxide reductase regenerates reduced vitamin K; it has no role in vitamin D activation, and 7-dehydrocholesterol is a precursor, not a product.",
+          "E": "UVB conversion of 7-dehydrocholesterol in skin produces D3, which is upstream and not the PTH-stimulated activating step."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "vitamin D",
+        "calcitriol",
+        "PTH",
+        "activation"
+      ],
+      "topicId": "fat-soluble-vitamins-a-d-e-k",
+      "topicName": "Fat-Soluble Vitamins (A, D, E, K)",
+      "tier": "core"
+    },
+    {
+      "id": "bo30-008",
+      "stem": "A 46-year-old woman with sarcoidosis is found to have hypercalcemia. Her renal function is normal. Which mechanism best explains the elevated calcium in this patient?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Excess dietary beta-carotene is rapidly converted to a calcium-mobilizing hormone"
+        },
+        {
+          "label": "B",
+          "text": "Granuloma macrophages express 1-alpha-hydroxylase"
+        },
+        {
+          "label": "C",
+          "text": "Impaired hepatic 25-hydroxylase leads to accumulation of active vitamin D"
+        },
+        {
+          "label": "D",
+          "text": "Loss of vitamin K carboxylation releases calcium from clotting factors"
+        },
+        {
+          "label": "E",
+          "text": "Warfarin-induced inhibition of epoxide reductase raises serum calcium"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "In sarcoidosis, granuloma macrophages express 1-alpha-hydroxylase, producing active vitamin D outside the kidney and causing hypercalcemia.",
+        "whyCorrect": "Hydroxylation of vitamin D at the 1-position can occur independently of renal function. In sarcoidosis, granulomas contain activated macrophages that express 1-alpha-hydroxylase. This extrarenal activation of vitamin D increases calcium absorption in the gastrointestinal tract, leading to hypercalcemia, a hallmark metabolic complication of the disease.",
+        "whyWrongByChoice": {
+          "A": "Beta-carotene is a vitamin A precursor and does not mobilize calcium.",
+          "C": "Impaired 25-hydroxylase would reduce, not increase, active vitamin D and would not raise calcium.",
+          "D": "Vitamin K carboxylation modifies clotting factors so they can bind calcium; it does not store or release systemic calcium in this way.",
+          "E": "Warfarin inhibits vitamin K cycling and affects coagulation, not serum calcium."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "vitamin D",
+        "sarcoidosis",
+        "hypercalcemia",
+        "1-alpha-hydroxylase"
+      ],
+      "topicId": "fat-soluble-vitamins-a-d-e-k",
+      "topicName": "Fat-Soluble Vitamins (A, D, E, K)",
+      "tier": "core"
+    },
+    {
+      "id": "bo30-009",
+      "stem": "A 58-year-old man who takes very large doses of over-the-counter vitamin D supplements presents with waves of flank and back pain. Imaging reveals renal calculi, and further workup shows hardening of several arteries. Which laboratory abnormality most directly underlies these complications?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Elevated blood calcium"
+        },
+        {
+          "label": "B",
+          "text": "Hemolysis from increased red blood cell lipid peroxidation"
+        },
+        {
+          "label": "C",
+          "text": "Increased intracranial pressure from excess retinol"
+        },
+        {
+          "label": "D",
+          "text": "Low serum calcium triggering compensatory bone resorption"
+        },
+        {
+          "label": "E",
+          "text": "Prolonged prothrombin time from impaired clotting factor synthesis"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Vitamin D toxicity raises blood calcium, forming kidney stones and calcifying vessels.",
+        "whyCorrect": "Excess vitamin D, most often from over-supplementation, raises the concentration of blood calcium. The increased calcium precipitates as calcium oxalate in soft tissues and forms stones, especially in the kidneys, causing waves of flank and back pain. Calcium phosphate deposition (apatite crystals) can also harden blood vessels (arteriosclerosis), which is especially dangerous in major arteries.",
+        "whyWrongByChoice": {
+          "B": "Red cell lipid peroxidation and hemolysis are features of vitamin E deficiency.",
+          "C": "Intracranial hypertension and headache are features of vitamin A toxicity.",
+          "D": "Vitamin D toxicity causes high, not low, serum calcium; the stones and calcification arise from hypercalcemia.",
+          "E": "Prolonged prothrombin time reflects vitamin K deficiency, not vitamin D toxicity."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "vitamin D",
+        "toxicity",
+        "hypercalcemia",
+        "kidney stones"
+      ],
+      "topicId": "fat-soluble-vitamins-a-d-e-k",
+      "topicName": "Fat-Soluble Vitamins (A, D, E, K)",
+      "tier": "core"
+    },
+    {
+      "id": "bo30-010",
+      "stem": "A premature infant with fat malabsorption develops anemia. Peripheral smear and labs are consistent with red blood cell destruction due to increased lipid peroxidation of the erythrocyte membrane. Deficiency of which vitamin best explains this hemolytic anemia?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Vitamin A"
+        },
+        {
+          "label": "B",
+          "text": "Vitamin B12"
+        },
+        {
+          "label": "C",
+          "text": "Vitamin D"
+        },
+        {
+          "label": "D",
+          "text": "Vitamin E"
+        },
+        {
+          "label": "E",
+          "text": "Vitamin K"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Vitamin E deficiency predisposes premature infants to hemolytic anemia from RBC lipid peroxidation.",
+        "whyCorrect": "Vitamin E functions primarily as an antioxidant that prevents oxidative damage of lipids. A major point about its deficiency is that it can predispose premature infants and children with fat malabsorption to hemolytic anemia. Without sufficient vitamin E antioxidant function, increased lipid peroxidation within red blood cells leads to their premature destruction.",
+        "whyWrongByChoice": {
+          "A": "Vitamin A deficiency causes visual and epithelial problems, not lipid-peroxidation hemolysis.",
+          "B": "Vitamin B12 is water-soluble and its deficiency causes megaloblastic (not oxidative hemolytic) anemia, and it is outside this brick's fat-soluble scope.",
+          "C": "Vitamin D deficiency causes bone disease (rickets/osteomalacia), not hemolytic anemia.",
+          "E": "Vitamin K deficiency causes bleeding from impaired coagulation, not membrane lipid peroxidation."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "vitamin E",
+        "hemolytic anemia",
+        "antioxidant"
+      ],
+      "topicId": "fat-soluble-vitamins-a-d-e-k",
+      "topicName": "Fat-Soluble Vitamins (A, D, E, K)",
+      "tier": "core"
+    },
+    {
+      "id": "bo30-011",
+      "stem": "A 67-year-old man on warfarin for atrial fibrillation presents with a major gastrointestinal bleed, and his INR is markedly elevated. The team administers vitamin K to reverse the anticoagulation. Which mechanism explains why warfarin produced this coagulopathy?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It blocks intestinal absorption of dietary calcium required for coagulation"
+        },
+        {
+          "label": "B",
+          "text": "It chelates vitamin K in the gut, preventing bacterial synthesis"
+        },
+        {
+          "label": "C",
+          "text": "It directly degrades circulating fibrin and clotting factors"
+        },
+        {
+          "label": "D",
+          "text": "It inhibits epoxide reductase, preventing regeneration of reduced vitamin K"
+        },
+        {
+          "label": "E",
+          "text": "It stimulates gamma-glutamyl carboxylase, overactivating clotting factors"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Warfarin inhibits epoxide reductase, halting vitamin K recycling and impairing carboxylation of clotting factors.",
+        "whyCorrect": "During carboxylation of clotting factors, vitamin K goes from a reduced to an oxidized form and must be regenerated by epoxide reductase to keep clotting factors active. Warfarin inhibits epoxide reductase and prevents cycling of vitamin K from oxidized to reduced forms, acting as an anticoagulant. Dosing vitamin K provides more substrate to compete and can reverse the drug's effect.",
+        "whyWrongByChoice": {
+          "A": "Warfarin does not act by blocking dietary calcium absorption.",
+          "B": "Warfarin does not chelate vitamin K in the gut; it inhibits the epoxide reductase enzyme.",
+          "C": "Warfarin does not directly degrade fibrin or clotting factors; it impairs their vitamin K-dependent activation.",
+          "E": "Warfarin impairs, rather than stimulates, the vitamin K-dependent carboxylase pathway."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "vitamin K",
+        "warfarin",
+        "epoxide reductase",
+        "coagulation"
+      ],
+      "topicId": "fat-soluble-vitamins-a-d-e-k",
+      "topicName": "Fat-Soluble Vitamins (A, D, E, K)",
+      "tier": "core"
+    },
+    {
+      "id": "bo30-012",
+      "stem": "After an uncomplicated birth, a newborn is given a routine intramuscular vitamin K injection. The parents ask why a healthy newborn with a good Apgar score needs this shot. Which statement best explains why newborns are at increased risk of vitamin K deficiency bleeding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Maternal antibodies cross the placenta and destroy fetal clotting factors during delivery"
+        },
+        {
+          "label": "B",
+          "text": "Newborn livers are too immature to perform the 25-hydroxylation step needed to activate vitamin K"
+        },
+        {
+          "label": "C",
+          "text": "Newborns have excess stored vitamin E that permanently inactivates all circulating vitamin K"
+        },
+        {
+          "label": "D",
+          "text": "Newborns rapidly excrete vitamin K in the urine because it is a water-soluble vitamin"
+        },
+        {
+          "label": "E",
+          "text": "Vitamin K crosses the placenta poorly, and the newborn gut lacks the bacteria that synthesize it"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Newborns receive vitamin K at birth because placental transfer, breast milk content, and gut synthesis are all limited.",
+        "whyCorrect": "Because vitamin K is essential to several clotting factors, deficiency raises the risk of potentially fatal hemorrhage, known as Vitamin K Deficiency Bleeding (VKDB). Newborns are given a vitamin K shot because vitamin K does not easily cross the placenta, breast milk contains low amounts of vitamin K, and the gut microbiome that produces vitamin K is underdeveloped, as the vitamin K-synthesizing bacteria are not yet present in the newborn gut.",
+        "whyWrongByChoice": {
+          "A": "VKDB results from the newborn's limited vitamin K sources, not from maternal antibodies destroying clotting factors.",
+          "B": "Vitamin K is not activated by hepatic 25-hydroxylation; that step applies to vitamin D3.",
+          "C": "While extreme vitamin E excess can interfere with vitamin K, newborns are not characterized by excess vitamin E, and this is not the reason for the routine shot.",
+          "D": "Vitamin K is fat-soluble, not water-soluble, so rapid urinary excretion is not the reason for newborn deficiency."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "vitamin K",
+        "newborn",
+        "VKDB",
+        "hemostasis"
+      ],
+      "topicId": "fat-soluble-vitamins-a-d-e-k",
+      "topicName": "Fat-Soluble Vitamins (A, D, E, K)",
+      "tier": "core"
+    },
+    {
+      "id": "bo31-001",
+      "stem": "A 6-year-old boy is brought to clinic for a year of worsening behavioral changes, including new aggression and impulsivity. On close inspection of his eyes you note brownish rings at the corneal margin. Laboratory studies show elevated serum transaminases. Which of the following combinations of copper studies would you most expect to confirm the diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Liver copper high, serum ceruloplasmin high, urine copper high"
+        },
+        {
+          "label": "B",
+          "text": "Liver copper high, serum ceruloplasmin high, urine copper low"
+        },
+        {
+          "label": "C",
+          "text": "Liver copper high, serum ceruloplasmin low, urine copper high"
+        },
+        {
+          "label": "D",
+          "text": "Liver copper low, serum ceruloplasmin high, urine copper low"
+        },
+        {
+          "label": "E",
+          "text": "Liver copper low, serum ceruloplasmin low, urine copper low"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Wilson disease produces hepatic copper overload with low serum ceruloplasmin and high urinary copper.",
+        "whyCorrect": "In Wilson disease the ATP7B defect prevents copper from being incorporated into ceruloplasmin and excreted into bile, so copper accumulates in hepatocytes (high liver copper) and serum ceruloplasmin is low. Unbound copper spills into blood and is filtered at the glomerulus but cannot be reabsorbed, giving high urinary copper. Kayser-Fleischer rings and elevated transaminases support the diagnosis.",
+        "whyWrongByChoice": {
+          "A": "Ceruloplasmin is low, not high, because copper cannot be loaded onto apoceruloplasmin.",
+          "B": "Both serum ceruloplasmin (low) and urine copper (high) are incorrect here.",
+          "D": "Liver copper is high in Wilson disease because copper is trapped in hepatocytes, and urine copper is high.",
+          "E": "This low/low/low pattern fits Menkes disease (copper deficiency), not Wilson disease."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "copper",
+        "Wilson disease",
+        "ATP7B",
+        "ceruloplasmin"
+      ],
+      "topicId": "basic-nutritional-requirements-select-minerals",
+      "topicName": "Basic Nutritional Requirements for Metabolism: Select Minerals",
+      "tier": "core"
+    },
+    {
+      "id": "bo31-002",
+      "stem": "A previously healthy patient presents to the emergency department with an increased respiratory rate. Serum studies show pH 7.22, bicarbonate 14 mEq/L, sodium 140 mEq/L, chloride 100 mEq/L, and an anion gap of 26 mEq/L. Which of the following best describes this patient's expected ionized calcium?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Ionized calcium will be high because binding to albumin is decreased"
+        },
+        {
+          "label": "B",
+          "text": "Ionized calcium will be high because binding to albumin is increased"
+        },
+        {
+          "label": "C",
+          "text": "Ionized calcium will be low because binding to albumin is decreased"
+        },
+        {
+          "label": "D",
+          "text": "Ionized calcium will be low because binding to albumin is increased"
+        },
+        {
+          "label": "E",
+          "text": "Ionized calcium will be unchanged because pH does not affect calcium binding"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Acidemia raises free ionized calcium by displacing calcium from albumin.",
+        "whyCorrect": "The labs show a high anion-gap metabolic acidosis (low pH, low bicarbonate, gap of 26). In acidemia, excess protons occupy the negatively charged sites on albumin, displacing bound calcium. This decreased albumin binding releases calcium and elevates the ionized (free) fraction.",
+        "whyWrongByChoice": {
+          "B": "Ionized calcium is high, but through decreased binding, not increased binding.",
+          "C": "The mechanism (decreased binding) is right, but decreased binding raises, not lowers, ionized calcium.",
+          "D": "Increased albumin binding and lower ionized calcium occur in alkalemia, not this acidotic patient.",
+          "E": "Serum pH does affect calcium binding to albumin, so ionized calcium changes."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "calcium",
+        "acid-base",
+        "albumin",
+        "ionized calcium"
+      ],
+      "topicId": "basic-nutritional-requirements-select-minerals",
+      "topicName": "Basic Nutritional Requirements for Metabolism: Select Minerals",
+      "tier": "core"
+    },
+    {
+      "id": "bo31-003",
+      "stem": "A researcher studies a hormone that opposes parathyroid hormone by inhibiting osteoclast activity, promoting bone formation, and reducing renal calcium reabsorption. Which of the following cells is the source of this hormone?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Chief cells of the parathyroid gland"
+        },
+        {
+          "label": "B",
+          "text": "Osteoblasts of the bone matrix"
+        },
+        {
+          "label": "C",
+          "text": "Parafollicular (C) cells of the thyroid gland"
+        },
+        {
+          "label": "D",
+          "text": "Proximal tubule cells of the kidney"
+        },
+        {
+          "label": "E",
+          "text": "Zona glomerulosa cells of the adrenal cortex"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Calcitonin, from thyroid parafollicular cells, lowers serum calcium and opposes PTH.",
+        "whyCorrect": "Calcitonin is made by the parafollicular (C) cells of the thyroid gland. It inhibits osteoclastic bone resorption, favors bone formation, and inhibits renal reabsorption of calcium, thereby decreasing blood calcium levels in direct opposition to PTH.",
+        "whyWrongByChoice": {
+          "A": "Chief cells secrete parathyroid hormone, which raises calcium rather than lowering it.",
+          "B": "Osteoblasts build bone matrix but do not secrete calcitonin.",
+          "D": "The proximal tubule reabsorbs solutes but is not the source of calcitonin.",
+          "E": "The zona glomerulosa produces aldosterone, not a calcium-lowering hormone."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "calcium",
+        "calcitonin",
+        "thyroid",
+        "hormone"
+      ],
+      "topicId": "basic-nutritional-requirements-select-minerals",
+      "topicName": "Basic Nutritional Requirements for Metabolism: Select Minerals",
+      "tier": "core"
+    },
+    {
+      "id": "bo31-004",
+      "stem": "A patient with hypocalcemia has appropriately increased secretion of parathyroid hormone. In addition to stimulating osteoclastic bone resorption and renal calcium reabsorption, PTH raises serum calcium by promoting which of the following renal processes?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Activation of 1-alpha-hydroxylase to form calcitriol"
+        },
+        {
+          "label": "B",
+          "text": "Conversion of angiotensinogen to angiotensin I"
+        },
+        {
+          "label": "C",
+          "text": "Increased renal phosphate reabsorption"
+        },
+        {
+          "label": "D",
+          "text": "Inhibition of 25-hydroxylase in the proximal tubule"
+        },
+        {
+          "label": "E",
+          "text": "Secretion of erythropoietin from peritubular cells"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "PTH promotes renal 1-alpha-hydroxylase activity, generating active vitamin D (calcitriol).",
+        "whyCorrect": "PTH is released from the parathyroid glands in response to hypocalcemia and promotes 1-alpha-hydroxylase activity within the kidney. This converts vitamin D to its active form, calcitriol, which increases intestinal calcium absorption and helps restore serum calcium.",
+        "whyWrongByChoice": {
+          "B": "That conversion involves renin and ACE in the renin-angiotensin system, unrelated to PTH.",
+          "C": "PTH promotes phosphate excretion (phosphaturia), not increased phosphate reabsorption.",
+          "D": "Hepatic 25-hydroxylase is not the PTH-regulated step; PTH acts on renal 1-alpha-hydroxylase.",
+          "E": "Erythropoietin regulates red cell production and is not part of PTH-driven calcium handling."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "calcium",
+        "PTH",
+        "calcitriol",
+        "vitamin D"
+      ],
+      "topicId": "basic-nutritional-requirements-select-minerals",
+      "topicName": "Basic Nutritional Requirements for Metabolism: Select Minerals",
+      "tier": "core"
+    },
+    {
+      "id": "bo31-005",
+      "stem": "A 2-year-old boy has a several-week history of a red, scaly rash localized around the mouth, hands, feet, and perianal region, along with chronic diarrhea and patchy hair loss. His parents also note delayed healing of minor skin wounds. Deficiency of which of the following minerals best explains this triad?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Calcium"
+        },
+        {
+          "label": "B",
+          "text": "Copper"
+        },
+        {
+          "label": "C",
+          "text": "Magnesium"
+        },
+        {
+          "label": "D",
+          "text": "Phosphorus"
+        },
+        {
+          "label": "E",
+          "text": "Zinc"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The classic triad of dermatitis, diarrhea, and alopecia defines zinc deficiency (acrodermatitis enteropathica).",
+        "whyCorrect": "Zinc deficiency produces acrodermatitis enteropathica, whose classic triad is dermatitis (red rashes and lesions around the mouth, hands, feet, and perianal areas), diarrhea, and alopecia. Delayed wound healing, loss of taste, and immunosuppression are other features because zinc is a cofactor for more than 100 enzymes.",
+        "whyWrongByChoice": {
+          "A": "Calcium deficiency presents with tetany, paresthesias, and osteoporosis, not this rash.",
+          "B": "Copper deficiency causes anemia and neurologic changes, not this perioral dermatitis triad.",
+          "C": "Magnesium deficiency causes tetany, weakness, and arrhythmias rather than acrodermatitis.",
+          "D": "Phosphorus abnormalities affect bone and energy metabolism, not this dermatologic triad."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "zinc",
+        "acrodermatitis enteropathica",
+        "deficiency",
+        "trace mineral"
+      ],
+      "topicId": "basic-nutritional-requirements-select-minerals",
+      "topicName": "Basic Nutritional Requirements for Metabolism: Select Minerals",
+      "tier": "core"
+    },
+    {
+      "id": "bo31-006",
+      "stem": "A neonate develops a perioral and acral dermatitis, diarrhea, and hair loss shortly after being weaned from breast milk to formula. Genetic testing reveals a defect in the SLC39A4 gene. This gene encodes a transporter (ZIP4) whose dysfunction causes disease through which of the following mechanisms?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Defective renal reabsorption of magnesium"
+        },
+        {
+          "label": "B",
+          "text": "Failure to load copper onto ceruloplasmin"
+        },
+        {
+          "label": "C",
+          "text": "Impaired intestinal absorption of zinc"
+        },
+        {
+          "label": "D",
+          "text": "Loss of biliary copper excretion"
+        },
+        {
+          "label": "E",
+          "text": "Reduced intestinal calcium uptake"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "SLC39A4 encodes the ZIP4 zinc transporter; its loss impairs intestinal zinc absorption.",
+        "whyCorrect": "The genetic form of acrodermatitis enteropathica results from a disrupted SLC39A4 gene, which encodes the zinc transporter ZIP4. Loss of ZIP4 function impairs zinc absorption in the small intestine, producing the dermatitis-diarrhea-alopecia triad of zinc deficiency.",
+        "whyWrongByChoice": {
+          "A": "Renal magnesium wasting is not caused by ZIP4; it relates to diuretics and alcohol.",
+          "B": "Failure to load copper onto ceruloplasmin describes ATP7B dysfunction in Wilson disease.",
+          "D": "Loss of biliary copper excretion is the ATP7B defect of Wilson disease, not a zinc transporter.",
+          "E": "ZIP4 transports zinc, not calcium, so intestinal calcium uptake is unaffected."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "zinc",
+        "SLC39A4",
+        "ZIP4",
+        "genetics"
+      ],
+      "topicId": "basic-nutritional-requirements-select-minerals",
+      "topicName": "Basic Nutritional Requirements for Metabolism: Select Minerals",
+      "tier": "core"
+    },
+    {
+      "id": "bo31-007",
+      "stem": "A 4-month-old boy has failure to thrive, seizures, and hypotonia. On examination his hair is unusually brittle, sparse, and fragile. Serum studies show low copper and low ceruloplasmin, and urinary copper is also low. A defect in which of the following genes best explains this presentation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "ATP7A"
+        },
+        {
+          "label": "B",
+          "text": "ATP7B"
+        },
+        {
+          "label": "C",
+          "text": "FBN1"
+        },
+        {
+          "label": "D",
+          "text": "HFE"
+        },
+        {
+          "label": "E",
+          "text": "SLC39A4"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Menkes disease is caused by an ATP7A defect that traps copper in enterocytes, causing systemic copper deficiency.",
+        "whyCorrect": "Menkes disease results from dysfunction of the ATP7A gene, which prevents dietary copper from leaving intestinal enterocytes. The resulting severe copper deficiency lowers whole-body, serum, and urinary copper as well as ceruloplasmin, and impairs lysyl oxidase, giving brittle, kinky hair along with seizures, hypotonia, and failure to thrive.",
+        "whyWrongByChoice": {
+          "B": "ATP7B mutations cause Wilson disease, which produces copper overload rather than deficiency.",
+          "C": "FBN1 encodes fibrillin and is mutated in Marfan syndrome, unrelated to copper metabolism.",
+          "D": "HFE mutations cause hereditary hemochromatosis, an iron-overload disorder.",
+          "E": "SLC39A4 defects cause zinc deficiency (acrodermatitis enteropathica), not copper deficiency."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "copper",
+        "Menkes disease",
+        "ATP7A",
+        "deficiency"
+      ],
+      "topicId": "basic-nutritional-requirements-select-minerals",
+      "topicName": "Basic Nutritional Requirements for Metabolism: Select Minerals",
+      "tier": "core"
+    },
+    {
+      "id": "bo31-008",
+      "stem": "A child with a copper deficiency shows evidence of weakened connective tissue. A student notes that both vitamin C deficiency (scurvy) and copper deficiency impair collagen. Which of the following copper-dependent enzymes accounts for the copper-related defect in collagen strength?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cytochrome c oxidase, which transfers electrons to oxygen"
+        },
+        {
+          "label": "B",
+          "text": "Lysyl hydroxylase, which hydroxylates lysine residues in collagen"
+        },
+        {
+          "label": "C",
+          "text": "Lysyl oxidase, which cross-links lysine residues in collagen"
+        },
+        {
+          "label": "D",
+          "text": "Prolyl hydroxylase, which hydroxylates proline residues in collagen"
+        },
+        {
+          "label": "E",
+          "text": "Tyrosinase, which synthesizes melanin"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Copper is the cofactor for lysyl oxidase, which cross-links collagen at a step distinct from vitamin C-dependent enzymes.",
+        "whyCorrect": "Copper is required by lysyl oxidase, which covalently cross-links lysine residues to strengthen collagen fibrils in a later step of collagen maturation. Because the vitamin C-dependent enzymes (prolyl and lysyl hydroxylase) act at an earlier step, copper-deficient children do not develop scurvy-like symptoms despite both processes affecting collagen.",
+        "whyWrongByChoice": {
+          "A": "Cytochrome c oxidase is copper-dependent but functions in the electron transport chain, not collagen synthesis.",
+          "B": "Lysyl hydroxylase is also a vitamin C-dependent enzyme, not a copper-dependent one.",
+          "D": "Prolyl hydroxylase requires vitamin C, not copper, and its failure causes scurvy.",
+          "E": "Tyrosinase is copper-dependent but makes melanin, not collagen cross-links."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "copper",
+        "lysyl oxidase",
+        "collagen",
+        "vitamin C"
+      ],
+      "topicId": "basic-nutritional-requirements-select-minerals",
+      "topicName": "Basic Nutritional Requirements for Metabolism: Select Minerals",
+      "tier": "core"
+    },
+    {
+      "id": "bo31-009",
+      "stem": "A 52-year-old woman who underwent gastric bypass surgery several years ago and takes high-dose zinc supplements presents with fatigue, a wide-based unsteady gait, and blurred vision. Complete blood count shows anemia. Deficiency of which of the following minerals best explains this combination of hematologic and neurologic findings?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Calcium"
+        },
+        {
+          "label": "B",
+          "text": "Copper"
+        },
+        {
+          "label": "C",
+          "text": "Magnesium"
+        },
+        {
+          "label": "D",
+          "text": "Phosphorus"
+        },
+        {
+          "label": "E",
+          "text": "Zinc"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Acquired copper deficiency, common after bariatric surgery and with excess zinc, causes anemia plus neurologic dysfunction.",
+        "whyCorrect": "Copper deficiency is more common after gastric bypass and is worsened by excess zinc, which diminishes dietary copper absorption. Because copper is required for maximal iron absorption, deficiency produces anemia; neurologic features include ataxia (gait disturbance), spasticity, and vision impairment.",
+        "whyWrongByChoice": {
+          "A": "Calcium deficiency causes tetany and osteoporosis, not anemia and gait ataxia.",
+          "C": "Magnesium deficiency causes tetany and arrhythmias, not this anemia-plus-myelopathy picture.",
+          "D": "Phosphorus deficiency affects energy metabolism and bone, not this neuro-hematologic syndrome.",
+          "E": "This patient takes high-dose zinc, which causes copper deficiency rather than zinc deficiency."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "copper",
+        "deficiency",
+        "zinc excess",
+        "bariatric surgery"
+      ],
+      "topicId": "basic-nutritional-requirements-select-minerals",
+      "topicName": "Basic Nutritional Requirements for Metabolism: Select Minerals",
+      "tier": "core"
+    },
+    {
+      "id": "bo31-010",
+      "stem": "A 45-year-old man with chronic alcohol use presents with muscle cramps, weakness, and a cardiac arrhythmia. He is found to be hypocalcemic, and his hypocalcemia does not correct with calcium administration alone. Which of the following mineral abnormalities is the most likely underlying cause?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Copper excess causing free-radical injury"
+        },
+        {
+          "label": "B",
+          "text": "Hypercalciuria from calcitonin excess"
+        },
+        {
+          "label": "C",
+          "text": "Hyperphosphatemia from renal failure"
+        },
+        {
+          "label": "D",
+          "text": "Hypomagnesemia impairing PTH secretion"
+        },
+        {
+          "label": "E",
+          "text": "Zinc deficiency impairing enzyme cofactors"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Alcohol-related magnesium wasting impairs PTH secretion, causing refractory hypocalcemia.",
+        "whyCorrect": "Magnesium is commonly deficient in alcoholism because alcohol acts as a diuretic and promotes renal magnesium wasting. Because magnesium is required for secretion of PTH from the parathyroid gland, hypomagnesemia lowers available calcium and produces hypocalcemia that will not correct until magnesium is repleted. Tetany and arrhythmias are typical of hypomagnesemia.",
+        "whyWrongByChoice": {
+          "A": "Copper excess produces hepatic and neuropsychiatric disease (Wilson disease), not this picture.",
+          "B": "Calcitonin excess lowers calcium but does not explain the alcohol-associated, magnesium-driven mechanism here.",
+          "C": "Renal failure with hyperphosphatemia causes renal osteodystrophy, not this alcohol-related refractory hypocalcemia.",
+          "E": "Zinc deficiency causes dermatitis, diarrhea, and alopecia, not PTH-dependent hypocalcemia."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "magnesium",
+        "hypocalcemia",
+        "PTH",
+        "alcoholism"
+      ],
+      "topicId": "basic-nutritional-requirements-select-minerals",
+      "topicName": "Basic Nutritional Requirements for Metabolism: Select Minerals",
+      "tier": "core"
+    },
+    {
+      "id": "bo31-011",
+      "stem": "A patient with end-stage renal disease develops rising serum phosphate levels, bone pain, and secondary bone fractures (renal osteodystrophy). Which of the following properties of phosphate handling best explains why kidney failure leads to hyperphosphatemia?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Phosphate cannot be filtered by the glomerulus under any conditions"
+        },
+        {
+          "label": "B",
+          "text": "Phosphate is eliminated mainly through sweat and skin"
+        },
+        {
+          "label": "C",
+          "text": "Phosphate is lost primarily through the gastrointestinal tract when the kidneys fail"
+        },
+        {
+          "label": "D",
+          "text": "Phosphate is removed from the body exclusively by the kidneys"
+        },
+        {
+          "label": "E",
+          "text": "Phosphate is stored almost entirely in the extracellular fluid rather than bone"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Phosphate is excreted exclusively by the kidneys, so renal failure causes hyperphosphatemia and renal osteodystrophy.",
+        "whyCorrect": "Removal of phosphate from the body occurs through the kidneys, and none is lost through the gastrointestinal tract. When the kidneys fail, phosphate cannot be excreted, so serum phosphate rises. This hyperphosphatemia contributes to secondary bone fractures and bone pain, known as renal osteodystrophy.",
+        "whyWrongByChoice": {
+          "A": "Phosphate is readily filtered by the glomerulus; the problem in renal failure is failed excretion.",
+          "B": "Sweat and skin are not the major routes of phosphate elimination.",
+          "C": "Phosphate is not lost through the GI tract; the kidney is the sole route of elimination.",
+          "E": "About 86% of phosphate is stored in bone, not the extracellular fluid."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "phosphorus",
+        "renal osteodystrophy",
+        "kidney failure",
+        "hyperphosphatemia"
+      ],
+      "topicId": "basic-nutritional-requirements-select-minerals",
+      "topicName": "Basic Nutritional Requirements for Metabolism: Select Minerals",
+      "tier": "core"
+    },
+    {
+      "id": "bo31-012",
+      "stem": "A clinician wants to assess the fraction of circulating calcium that is metabolically active and can be measured directly in the serum. Which of the following forms of calcium should be measured?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Albumin-bound calcium"
+        },
+        {
+          "label": "B",
+          "text": "Bicarbonate-complexed calcium"
+        },
+        {
+          "label": "C",
+          "text": "Calcium stored as hydroxyapatite in bone"
+        },
+        {
+          "label": "D",
+          "text": "Ionized (free) calcium"
+        },
+        {
+          "label": "E",
+          "text": "Phosphate-complexed calcium"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The ionized (free) fraction is the metabolically active calcium and can be measured directly.",
+        "whyCorrect": "Circulating calcium exists as protein-bound (about half, bound to albumin), ionized free cations (about half), and a small complexed fraction (5-7%). The ionized free calcium is the fraction most relevant for medicine because it is metabolically active, and it can be measured directly.",
+        "whyWrongByChoice": {
+          "A": "Albumin-bound calcium is not directly available for metabolic action or renal filtration.",
+          "B": "Bicarbonate-complexed calcium is likewise a minor complexed fraction, not the active free calcium.",
+          "C": "Hydroxyapatite in bone is the storage pool (99% of body calcium), not circulating active calcium.",
+          "E": "Phosphate-complexed calcium is a small, filterable fraction and not the active pool being assessed."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "calcium",
+        "ionized calcium",
+        "albumin",
+        "serum"
+      ],
+      "topicId": "basic-nutritional-requirements-select-minerals",
+      "topicName": "Basic Nutritional Requirements for Metabolism: Select Minerals",
+      "tier": "core"
+    }
+  ]
+}

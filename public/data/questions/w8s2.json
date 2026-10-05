@@ -1,0 +1,570 @@
+{
+  "categoryId": "w8s2",
+  "categoryName": "Session 2",
+  "questions": [
+    {
+      "id": "bo58-001",
+      "stem": "A research team wants to transiently reduce expression of a specific gene in cultured cells for one week without altering the DNA sequence. They introduce a synthetic double-stranded RNA molecule about 21-23 nucleotides long that is loaded into RISC to guide cleavage of the complementary messenger RNA. Which of the following molecules are they using?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "miRNA"
+        },
+        {
+          "label": "B",
+          "text": "rRNA"
+        },
+        {
+          "label": "C",
+          "text": "shRNA"
+        },
+        {
+          "label": "D",
+          "text": "siRNA"
+        },
+        {
+          "label": "E",
+          "text": "tRNA"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "siRNA is a short double-stranded RNA used for transient gene knockdown.",
+        "whyCorrect": "Small interfering RNA (siRNA) is a double-stranded RNA about 21-23 nucleotides long, either synthetic or derived from endogenous dsRNA. Its guide strand is loaded into RISC to direct cleavage of complementary mRNA, producing short-term knockdown without changing the DNA sequence.",
+        "whyWrongByChoice": {
+          "A": "miRNA is an endogenously encoded single strand (~22 nt) that broadly regulates gene expression; it is not a synthetic dsRNA introduced for targeted knockdown.",
+          "B": "rRNA is a structural and catalytic component of ribosomes and does not silence target genes.",
+          "C": "shRNA is a single strand that folds into a hairpin loop and is favored for long-term, stable silencing rather than a brief transient effect.",
+          "E": "tRNA delivers amino acids during translation and has no role in RNA interference or gene silencing."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "RNAi",
+        "siRNA",
+        "knock-down"
+      ],
+      "topicId": "animal-models-in-novel-therapeutics",
+      "topicName": "From Bench to Bedside: The Role of Animal Models in Novel Therapeutics",
+      "tier": "core"
+    },
+    {
+      "id": "bo58-002",
+      "stem": "An investigator needs durable, long-term silencing of a target gene that will persist across many cell divisions. She selects an RNA interference molecule that is a single RNA strand which folds back on itself into a hairpin loop and is processed into siRNA within the cell. Which molecule best fits this description?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "miRNA"
+        },
+        {
+          "label": "B",
+          "text": "mRNA"
+        },
+        {
+          "label": "C",
+          "text": "rRNA"
+        },
+        {
+          "label": "D",
+          "text": "shRNA"
+        },
+        {
+          "label": "E",
+          "text": "siRNA"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "shRNA folds into a hairpin loop and provides long-term gene silencing.",
+        "whyCorrect": "Short hairpin RNA (shRNA) is a single RNA strand that folds into a hairpin loop. It is used for long-term gene silencing in both research and therapeutic applications because it can be stably expressed and processed into siRNA within the cell.",
+        "whyWrongByChoice": {
+          "A": "miRNA is an endogenous regulator processed from pri-miRNA to pre-miRNA to mature miRNA; it is not the engineered hairpin construct described.",
+          "B": "mRNA carries the coding message for protein synthesis and is the target of silencing, not a silencing tool.",
+          "C": "rRNA is a ribosomal component and does not mediate gene silencing.",
+          "E": "siRNA is a double-stranded molecule typically used for short-term, transient knockdown rather than durable silencing."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "RNAi",
+        "shRNA",
+        "gene silencing"
+      ],
+      "topicId": "animal-models-in-novel-therapeutics",
+      "topicName": "From Bench to Bedside: The Role of Animal Models in Novel Therapeutics",
+      "tier": "core"
+    },
+    {
+      "id": "bo58-003",
+      "stem": "A student is reviewing the discovery of a natural cellular process in which small RNA molecules silence specific messenger RNAs and defend against viral genomes. This process was first characterized in a small nematode worm, a discovery that earned Andrew Fire and Craig Mello the Nobel Prize in Physiology or Medicine in 2006. In which model organism was RNA interference originally discovered?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Caenorhabditis elegans"
+        },
+        {
+          "label": "B",
+          "text": "Danio rerio (zebrafish)"
+        },
+        {
+          "label": "C",
+          "text": "Escherichia coli"
+        },
+        {
+          "label": "D",
+          "text": "Mus musculus (mouse)"
+        },
+        {
+          "label": "E",
+          "text": "Saccharomyces cerevisiae"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "RNAi was discovered in the nematode C. elegans by Fire and Mello.",
+        "whyCorrect": "RNA interference was the first technique used to knock down a gene, and it was discovered in 1998 by Andrew Fire and Craig Mello working in the nematode Caenorhabditis elegans, a discovery recognized with the 2006 Nobel Prize in Physiology or Medicine.",
+        "whyWrongByChoice": {
+          "B": "Zebrafish share roughly 70% of genes with humans and are useful vertebrate models, but they are not the organism of the original RNAi discovery.",
+          "C": "E. coli is a bacterial non-animal model used to study basic mechanisms but was not where RNAi was discovered.",
+          "D": "Mice share about 95% of genes with humans and are heavily used, but the seminal RNAi work was performed in C. elegans.",
+          "E": "S. cerevisiae (yeast) is a common non-animal model, but the RNAi discovery was made in the worm."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "RNAi",
+        "model organisms",
+        "history"
+      ],
+      "topicId": "animal-models-in-novel-therapeutics",
+      "topicName": "From Bench to Bedside: The Role of Animal Models in Novel Therapeutics",
+      "tier": "core"
+    },
+    {
+      "id": "bo58-004",
+      "stem": "A biotechnology company is developing an allele-specific siRNA therapy for Huntington disease, in which a CAG triplet-repeat expansion produces toxic huntingtin protein. The design targets the mutant HTT transcript while sparing the wild-type allele, and encouraging results have been seen in mouse models. Which of the following remains the single greatest obstacle to translating this therapy into patients?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Delivering the siRNA across the blood-brain barrier"
+        },
+        {
+          "label": "B",
+          "text": "Inability of siRNA to reduce the amount of protein produced"
+        },
+        {
+          "label": "C",
+          "text": "Lack of any mouse model in which to test the approach"
+        },
+        {
+          "label": "D",
+          "text": "Permanent alteration of the patient's DNA sequence"
+        },
+        {
+          "label": "E",
+          "text": "Requirement to edit the germline to achieve any benefit"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "CNS delivery is the major hurdle for siRNA therapies targeting neurologic disease.",
+        "whyCorrect": "The brick emphasizes that delivering siRNA to hard-to-reach tissues such as the central nervous system remains a significant challenge, contributing to longer development timelines and higher costs. For Huntington disease, crossing the blood-brain barrier is the principal barrier to clinical use.",
+        "whyWrongByChoice": {
+          "B": "siRNA works precisely by reducing protein production through mRNA degradation, so this is the intended effect, not an obstacle.",
+          "C": "Encouraging results have already been demonstrated in mouse models, so lack of a model is incorrect.",
+          "D": "siRNA acts at the mRNA level and does not alter the DNA sequence, so permanent DNA change is not the issue.",
+          "E": "This is a somatic, non-heritable knockdown strategy and does not require germline editing."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "siRNA",
+        "Huntington disease",
+        "delivery"
+      ],
+      "topicId": "animal-models-in-novel-therapeutics",
+      "topicName": "From Bench to Bedside: The Role of Animal Models in Novel Therapeutics",
+      "tier": "core"
+    },
+    {
+      "id": "bo58-005",
+      "stem": "A hospital pharmacist reviews Givlaari, a novel RNA-based therapy that silences an overexpressed gene and costs approximately $39,000 per vial, with an expected average annual cost near $442,000 per patient. For which condition is this siRNA therapy indicated?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acute intermittent porphyria"
+        },
+        {
+          "label": "B",
+          "text": "Alzheimer disease with early onset"
+        },
+        {
+          "label": "C",
+          "text": "Cystic fibrosis with the F508del variant"
+        },
+        {
+          "label": "D",
+          "text": "Huntington disease with adult onset"
+        },
+        {
+          "label": "E",
+          "text": "Sickle cell disease with frequent crises"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Givlaari is an siRNA therapy for acute intermittent porphyria.",
+        "whyCorrect": "The brick identifies Givlaari as a novel siRNA treatment for acute intermittent porphyria, costing about $39,000 a vial with an expected annual average of roughly $442,000 per patient, illustrating how cost can limit development of siRNA therapies.",
+        "whyWrongByChoice": {
+          "B": "Alzheimer disease is mentioned as a potential siRNA target (for example APP), but it is not the approved Givlaari indication.",
+          "C": "Cystic fibrosis is not discussed as the indication for Givlaari in the brick.",
+          "D": "Huntington disease is a proposed target for allele-specific siRNA but is not the indication for Givlaari.",
+          "E": "Sickle cell disease is treated by Casgevy, the first FDA-approved CRISPR-Cas9 therapy, not by Givlaari."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "siRNA",
+        "Givlaari",
+        "porphyria"
+      ],
+      "topicId": "animal-models-in-novel-therapeutics",
+      "topicName": "From Bench to Bedside: The Role of Animal Models in Novel Therapeutics",
+      "tier": "core"
+    },
+    {
+      "id": "bo58-006",
+      "stem": "During preclinical testing, a drug is found to cause severe limb malformations (phocomelia) in human fetuses but produced no such defects when tested in rodents, because of species-specific differences in drug metabolism. This historical example is used to illustrate an important principle of drug development. Which principle does it best demonstrate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Animal models have limitations"
+        },
+        {
+          "label": "B",
+          "text": "Drugs safe in rodents are guaranteed to be safe in humans"
+        },
+        {
+          "label": "C",
+          "text": "Preclinical animal testing is unnecessary before human trials"
+        },
+        {
+          "label": "D",
+          "text": "Rodents and humans share no gene homology"
+        },
+        {
+          "label": "E",
+          "text": "Teratogenicity can never be detected in any animal model"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Thalidomide shows that animal model results do not always predict human outcomes.",
+        "whyCorrect": "The thalidomide case is presented to highlight that animal models have limitations: because of species-specific drug metabolism, thalidomide caused birth defects in humans but not in rodents. This underscores the importance of understanding model limitations in drug development.",
+        "whyWrongByChoice": {
+          "B": "The thalidomide example directly disproves the idea that rodent safety guarantees human safety.",
+          "C": "The FDA mandates preclinical animal studies to assess safety and efficacy; the example does not argue they are unnecessary.",
+          "D": "Rodents and humans in fact share extensive gene homology (about 95% of genes in mice), so this statement is false.",
+          "E": "The point is that some effects are missed in certain species, not that teratogenicity is undetectable in every model."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "animal models",
+        "thalidomide",
+        "preclinical testing"
+      ],
+      "topicId": "animal-models-in-novel-therapeutics",
+      "topicName": "From Bench to Bedside: The Role of Animal Models in Novel Therapeutics",
+      "tier": "core"
+    },
+    {
+      "id": "bo58-007",
+      "stem": "A geneticist generates a mouse in which a specific gene has been permanently inactivated, rendering it non-functional or 'null,' and then compares the animal's phenotype to that of wild-type mice to infer the gene's function. Which type of genetically modified model has been created?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Chemical mutagenesis model"
+        },
+        {
+          "label": "B",
+          "text": "Chimeric wild-type model"
+        },
+        {
+          "label": "C",
+          "text": "Knock-in model"
+        },
+        {
+          "label": "D",
+          "text": "Knock-out model"
+        },
+        {
+          "label": "E",
+          "text": "RNA interference model"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "A knock-out inactivates a gene ('null') to reveal its function versus wild-type.",
+        "whyCorrect": "Knock-out (KO) organisms carry an inactivated gene called 'null' because it is non-functional. Comparing the KO phenotype with wild-type animals helps decipher the gene's function; with CRISPR-Cas9, double and triple knockouts have become easier to generate.",
+        "whyWrongByChoice": {
+          "A": "Chemical mutagenesis introduces random mutations across the genome and is not a targeted inactivation of one chosen gene.",
+          "B": "Wild-type animals serve as the comparison group and are, by definition, not the genetically inactivated model.",
+          "C": "A knock-in model has additional or modified genetic information inserted (such as GFP) rather than an inactivated gene.",
+          "E": "RNAi produces transient knock-down at the mRNA level without permanently inactivating the gene in the genome."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "knock-out",
+        "genetically modified models",
+        "gene function"
+      ],
+      "topicId": "animal-models-in-novel-therapeutics",
+      "topicName": "From Bench to Bedside: The Role of Animal Models in Novel Therapeutics",
+      "tier": "core"
+    },
+    {
+      "id": "bo58-008",
+      "stem": "To study a protein's localization in living epithelial cells, a lab engineers an animal whose genome carries an additional inserted sequence coding for green fluorescent protein derived from jellyfish, fused to the endogenous protein. Which category of genetically modified model does this represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Forward-genetics mutagenesis model"
+        },
+        {
+          "label": "B",
+          "text": "Knock-in model"
+        },
+        {
+          "label": "C",
+          "text": "Knock-out model"
+        },
+        {
+          "label": "D",
+          "text": "siRNA knock-down model"
+        },
+        {
+          "label": "E",
+          "text": "Wild-type control model"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Inserting new genetic material such as jellyfish GFP defines a knock-in model.",
+        "whyCorrect": "Knock-in animals have additional genetic information inserted into their genome. The inserted sequence can be a gene from another species, such as the jellyfish green fluorescent protein (GFP), used here to tag and visualize a protein in living cells.",
+        "whyWrongByChoice": {
+          "A": "Forward genetics uses random, untargeted mutagenesis and does not deliberately insert a chosen reporter gene.",
+          "C": "A knock-out inactivates a gene rather than adding new genetic material like GFP.",
+          "D": "siRNA knock-down reduces expression at the mRNA level and does not add DNA to the genome.",
+          "E": "A wild-type control has an unmodified genome and no inserted reporter sequence."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "knock-in",
+        "GFP",
+        "genetically modified models"
+      ],
+      "topicId": "animal-models-in-novel-therapeutics",
+      "topicName": "From Bench to Bedside: The Role of Animal Models in Novel Therapeutics",
+      "tier": "core"
+    },
+    {
+      "id": "bo58-009",
+      "stem": "A researcher exposes a population of worms to a mutagen that introduces random single-nucleotide changes throughout the genome, including coding and non-coding regions, and then screens the offspring for interesting phenotypes such as defects in cell division and apoptosis. This unbiased approach can generate models but cannot be used as a therapeutic strategy. Which method is being described?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Allele-specific siRNA silencing of a transcript"
+        },
+        {
+          "label": "B",
+          "text": "Chemical mutagenesis (forward genetics)"
+        },
+        {
+          "label": "C",
+          "text": "CRISPR-Cas9 targeted genome editing"
+        },
+        {
+          "label": "D",
+          "text": "Homologous recombination at a chosen locus"
+        },
+        {
+          "label": "E",
+          "text": "Targeted knock-in of a fluorescent reporter gene"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Chemical mutagenesis is a random, forward-genetics approach that cannot be therapeutic.",
+        "whyCorrect": "Chemical mutagenesis introduces random mutations throughout the genome, and mutants are identified through phenotypic screening. As a forward-genetics (unbiased) technique, it generates models but is not gene-targeted, so it cannot serve as a therapeutic strategy.",
+        "whyWrongByChoice": {
+          "A": "Allele-specific siRNA silencing is highly sequence-specific and targeted, not random.",
+          "C": "CRISPR-Cas9 is a precise, targeted editing tool guided to a specific sequence, the opposite of random mutagenesis.",
+          "D": "Homologous recombination is a reverse-genetics method that deliberately targets a specific gene, not a random approach.",
+          "E": "A targeted knock-in deliberately inserts a chosen sequence at a defined site rather than introducing random mutations."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "forward genetics",
+        "chemical mutagenesis",
+        "reverse genetics"
+      ],
+      "topicId": "animal-models-in-novel-therapeutics",
+      "topicName": "From Bench to Bedside: The Role of Animal Models in Novel Therapeutics",
+      "tier": "core"
+    },
+    {
+      "id": "bo58-010",
+      "stem": "A team generates a knock-out mouse using homologous recombination. They electroporate embryonic stem cells with a plasmid carrying a cassette flanked by sequences from the gene of interest, then need a way to identify which cells successfully integrated the cassette before injecting them into blastocysts. What is the primary purpose of including a neomycin-resistance gene in the cassette?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "To allow selection of the cells in which the construct was inserted"
+        },
+        {
+          "label": "B",
+          "text": "To degrade the target messenger RNA in the transfected stem cells"
+        },
+        {
+          "label": "C",
+          "text": "To prevent the formation of chimeric offspring after blastocyst injection"
+        },
+        {
+          "label": "D",
+          "text": "To provide the guide RNA that directs the cut site in the genome"
+        },
+        {
+          "label": "E",
+          "text": "To restore function of the disrupted gene of interest in the mouse"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The neomycin-resistance gene is a selection marker for successfully edited cells.",
+        "whyCorrect": "In homologous recombination, a cassette containing a neomycin-resistance gene is inserted into the targeted gene, disrupting it. The resistance gene lets researchers select cells that integrated the cassette; these are then injected into blastocysts to produce chimeric mice, which are bred to obtain heterozygous and homozygous animals.",
+        "whyWrongByChoice": {
+          "B": "Degrading target mRNA is the function of RNA interference, not a resistance-marker gene.",
+          "C": "Chimeric offspring are the intended intermediate step; the marker enables selection and does not prevent chimerism.",
+          "D": "Guide RNA is a component of CRISPR-Cas9, not the neomycin cassette used in classic homologous recombination.",
+          "E": "The cassette disrupts the gene of interest to knock it out; it does not restore its function."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "homologous recombination",
+        "knock-out",
+        "selection marker"
+      ],
+      "topicId": "animal-models-in-novel-therapeutics",
+      "topicName": "From Bench to Bedside: The Role of Animal Models in Novel Therapeutics",
+      "tier": "core"
+    },
+    {
+      "id": "bo58-011",
+      "stem": "In a CRISPR-Cas9 experiment, the Cas9 protein and a guide RNA are delivered into cells and make a precise double-strand break three base pairs upstream of the PAM site. The cell then repairs the break using non-homologous end joining. Which consequence of this repair pathway most directly produces a gene knockout?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Degradation of the gene's messenger RNA by RISC"
+        },
+        {
+          "label": "B",
+          "text": "Exchange of DNA between two homologous chromosomes during meiosis"
+        },
+        {
+          "label": "C",
+          "text": "Insertion of a jellyfish GFP reporter sequence"
+        },
+        {
+          "label": "D",
+          "text": "Introduction of small insertions or deletions causing a frameshift"
+        },
+        {
+          "label": "E",
+          "text": "Precise, error-free restoration of the original sequence"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "NHEJ is error-prone and creates indels that cause frameshift knockouts.",
+        "whyCorrect": "After Cas9 cuts the DNA about three base pairs upstream of the PAM, the cell attempts repair by non-homologous end joining (NHEJ). NHEJ is error-prone and often introduces small insertions or deletions (indels) that cause frameshift mutations, disrupting the targeted gene and creating a knockout.",
+        "whyWrongByChoice": {
+          "A": "mRNA degradation by RISC is the RNA interference mechanism, not the outcome of DNA repair after a Cas9 cut.",
+          "B": "DNA exchange between homologous chromosomes describes meiotic recombination, not the NHEJ repair of a Cas9 break.",
+          "C": "Inserting a GFP reporter is a knock-in achieved through homologous recombination with a donor template, not through NHEJ indels.",
+          "E": "NHEJ is characteristically error-prone; error-free restoration would not disrupt the gene or create a knockout."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "CRISPR-Cas9",
+        "NHEJ",
+        "frameshift"
+      ],
+      "topicId": "animal-models-in-novel-therapeutics",
+      "topicName": "From Bench to Bedside: The Role of Animal Models in Novel Therapeutics",
+      "tier": "core"
+    },
+    {
+      "id": "bo58-012",
+      "stem": "A biotech firm is optimizing guide RNA design and engineering higher-specificity Cas9 variants before advancing a CRISPR-based therapy toward the clinic. Their main worry is that mismatches between the guide RNA and the genome could cause unintended cuts, potentially producing unwanted knockouts or disrupting regulatory regions and raising the risk of tumor formation. Which limitation of CRISPR-Cas9 are they primarily trying to minimize?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Ethical concerns over germline editing"
+        },
+        {
+          "label": "B",
+          "text": "High treatment cost"
+        },
+        {
+          "label": "C",
+          "text": "Low editing efficiency"
+        },
+        {
+          "label": "D",
+          "text": "Mosaicism"
+        },
+        {
+          "label": "E",
+          "text": "Off-target effects"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Off-target effects are the biggest technical concern with CRISPR-Cas9.",
+        "whyCorrect": "The brick states that the biggest issue with CRISPR-Cas9 is off-target effects, unintended cuts caused by mismatches between the guide RNA and the genome. These can produce unwanted knockouts or disrupt regulatory regions and carry a significant risk of tumor formation, which is why better guide-RNA software and higher-specificity Cas9 proteins have been developed.",
+        "whyWrongByChoice": {
+          "A": "Ethical concerns, such as those raised by germline editing, are important but are not the technical limitation targeted by improving guide RNA and Cas9 specificity.",
+          "B": "High cost limits accessibility (for example, Casgevy exceeding $2 million per patient) but is a separate issue from the unintended-cut problem being addressed.",
+          "C": "Low efficiency is a real challenge but is explicitly not identified as the major concern.",
+          "D": "Mosaicism, the coexistence of edited and non-edited cells, reduces treatment efficacy but is described as a lesser concern than off-target effects."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "CRISPR-Cas9",
+        "off-target effects",
+        "limitations"
+      ],
+      "topicId": "animal-models-in-novel-therapeutics",
+      "topicName": "From Bench to Bedside: The Role of Animal Models in Novel Therapeutics",
+      "tier": "core"
+    }
+  ]
+}

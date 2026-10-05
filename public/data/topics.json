@@ -1,8 +1,8 @@
 {
   "categories": [
     {
-      "id": "metabolism-bioenergetics",
-      "name": "Metabolism & Bioenergetics",
+      "id": "w1s1",
+      "name": "Session 1",
       "topics": [
         {
           "id": "metabolic-overview-i-general-reactions",
@@ -19,7 +19,16 @@
           "coreCount": 12,
           "extraCount": 24,
           "questionCount": 36
-        },
+        }
+      ],
+      "week": 1,
+      "weekName": "Week 1",
+      "weekSubtitle": ""
+    },
+    {
+      "id": "w1s2",
+      "name": "Session 2",
+      "topics": [
         {
           "id": "metabolic-overview-ii-oxphos",
           "name": "Metabolic Overview II: OXPHOS",
@@ -35,7 +44,16 @@
           "coreCount": 12,
           "extraCount": 24,
           "questionCount": 36
-        },
+        }
+      ],
+      "week": 1,
+      "weekName": "Week 1",
+      "weekSubtitle": ""
+    },
+    {
+      "id": "w1s3",
+      "name": "Session 3",
+      "topics": [
         {
           "id": "metabolic-overview-iii-o2-delivery-1-of-2",
           "name": "Metabolic Overview III: O2 Delivery (1 of 2)",
@@ -52,11 +70,14 @@
           "extraCount": 24,
           "questionCount": 36
         }
-      ]
+      ],
+      "week": 1,
+      "weekName": "Week 1",
+      "weekSubtitle": ""
     },
     {
-      "id": "molecular-biology-proteins",
-      "name": "Molecular Biology & Proteins",
+      "id": "w2s1",
+      "name": "Session 1",
       "topics": [
         {
           "id": "nitrogenous-base-metabolism",
@@ -105,7 +126,16 @@
           "coreCount": 12,
           "extraCount": 24,
           "questionCount": 36
-        },
+        }
+      ],
+      "week": 2,
+      "weekName": "Week 2",
+      "weekSubtitle": ""
+    },
+    {
+      "id": "w2s2",
+      "name": "Session 2",
+      "topics": [
         {
           "id": "proteins-enzymatic-machines-protein-based-disorders-i",
           "name": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I",
@@ -121,7 +151,16 @@
           "coreCount": 12,
           "extraCount": 24,
           "questionCount": 36
-        },
+        }
+      ],
+      "week": 2,
+      "weekName": "Week 2",
+      "weekSubtitle": ""
+    },
+    {
+      "id": "w2s3",
+      "name": "Session 3",
+      "topics": [
         {
           "id": "proteins-enzymatic-machines-and-protein-based-disorders-ii",
           "name": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II",
@@ -146,11 +185,14 @@
           "extraCount": 24,
           "questionCount": 36
         }
-      ]
+      ],
+      "week": 2,
+      "weekName": "Week 2",
+      "weekSubtitle": ""
     },
     {
-      "id": "carb-lipid-metabolism",
-      "name": "Carbohydrate & Lipid Metabolism",
+      "id": "w3s1",
+      "name": "Session 1",
       "topics": [
         {
           "id": "carbohydrates-and-carbohydrate-metabolism-overview-i",
@@ -167,7 +209,16 @@
           "coreCount": 12,
           "extraCount": 24,
           "questionCount": 36
-        },
+        }
+      ],
+      "week": 3,
+      "weekName": "Week 3",
+      "weekSubtitle": ""
+    },
+    {
+      "id": "w3s2",
+      "name": "Session 2",
+      "topics": [
         {
           "id": "carbohydrate-metabolism-overview-ii",
           "name": "Carbohydrates and Carbohydrate Metabolism Overview II",
@@ -183,7 +234,16 @@
           "coreCount": 12,
           "extraCount": 24,
           "questionCount": 36
-        },
+        }
+      ],
+      "week": 3,
+      "weekName": "Week 3",
+      "weekSubtitle": ""
+    },
+    {
+      "id": "w3s3",
+      "name": "Session 3",
+      "topics": [
         {
           "id": "lipids-and-lipid-metabolism-introduction",
           "name": "Lipids and Lipid Metabolism Introduction",
@@ -208,11 +268,14 @@
           "extraCount": 24,
           "questionCount": 36
         }
-      ]
+      ],
+      "week": 3,
+      "weekName": "Week 3",
+      "weekSubtitle": ""
     },
     {
-      "id": "cell-signaling-nutrition",
-      "name": "Cell Signaling & Nutrition",
+      "id": "w4s1",
+      "name": "Session 1",
       "topics": [
         {
           "id": "overview-of-cell-signaling",
@@ -229,7 +292,16 @@
           "coreCount": 12,
           "extraCount": 24,
           "questionCount": 36
-        },
+        }
+      ],
+      "week": 4,
+      "weekName": "Week 4",
+      "weekSubtitle": ""
+    },
+    {
+      "id": "w4s2",
+      "name": "Session 2",
+      "topics": [
         {
           "id": "fed-and-fasting-metabolic-state",
           "name": "Cell Signaling in Context: Fed and Fasting Metabolic State",
@@ -245,7 +317,16 @@
           "coreCount": 12,
           "extraCount": 24,
           "questionCount": 36
-        },
+        }
+      ],
+      "week": 4,
+      "weekName": "Week 4",
+      "weekSubtitle": ""
+    },
+    {
+      "id": "w5s1",
+      "name": "Session 1",
+      "topics": [
         {
           "id": "basic-nutritional-requirements-for-metabolism",
           "name": "Basic Nutritional Requirements for Metabolism (1 of 3)",
@@ -270,11 +351,14 @@
           "extraCount": 24,
           "questionCount": 36
         }
-      ]
+      ],
+      "week": 5,
+      "weekName": "Week 5",
+      "weekSubtitle": ""
     },
     {
-      "id": "amino-acid-metabolic-disorders",
-      "name": "Amino Acid Metabolism & Metabolic Disorders",
+      "id": "w5s2",
+      "name": "Session 2",
       "topics": [
         {
           "id": "amino-acid-metabolism-i-nitrogen-balance-and-urea-cycle",
@@ -291,7 +375,16 @@
           "coreCount": 12,
           "extraCount": 24,
           "questionCount": 36
-        },
+        }
+      ],
+      "week": 5,
+      "weekName": "Week 5",
+      "weekSubtitle": ""
+    },
+    {
+      "id": "w5s3",
+      "name": "Session 3",
+      "topics": [
         {
           "id": "inborn-errors-of-amino-acid-metabolism",
           "name": "Inborn Errors of Amino Acid Metabolism",
@@ -299,7 +392,16 @@
           "coreCount": 12,
           "extraCount": 24,
           "questionCount": 36
-        },
+        }
+      ],
+      "week": 5,
+      "weekName": "Week 5",
+      "weekSubtitle": ""
+    },
+    {
+      "id": "w6s1",
+      "name": "Session 1",
+      "topics": [
         {
           "id": "porphyrins-and-iron-homeostasis",
           "name": "Porphyrins and Iron Homeostasis (1 of 2)",
@@ -315,7 +417,16 @@
           "coreCount": 12,
           "extraCount": 24,
           "questionCount": 36
-        },
+        }
+      ],
+      "week": 6,
+      "weekName": "Week 6",
+      "weekSubtitle": ""
+    },
+    {
+      "id": "w6s2",
+      "name": "Session 2",
+      "topics": [
         {
           "id": "inborn-errors-of-carbohydrate-metabolism",
           "name": "Inborn Errors of Carbohydrate Metabolism",
@@ -323,7 +434,16 @@
           "coreCount": 12,
           "extraCount": 24,
           "questionCount": 36
-        },
+        }
+      ],
+      "week": 6,
+      "weekName": "Week 6",
+      "weekSubtitle": ""
+    },
+    {
+      "id": "w6s3",
+      "name": "Session 3",
+      "topics": [
         {
           "id": "dyslipidemias-lipid-storage-disorders-and-defects-in-lipid-metabolism",
           "name": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism",
@@ -340,11 +460,14 @@
           "extraCount": 24,
           "questionCount": 36
         }
-      ]
+      ],
+      "week": 6,
+      "weekName": "Week 6",
+      "weekSubtitle": ""
     },
     {
-      "id": "cytogenetics-chromosomal",
-      "name": "Cytogenetics & Chromosomal Disorders",
+      "id": "w7s1",
+      "name": "Session 1",
       "topics": [
         {
           "id": "chromosomes",
@@ -393,12 +516,23 @@
           "coreCount": 12,
           "extraCount": 24,
           "questionCount": 36
+        },
+        {
+          "id": "molecular-biology-techniques-cytogenetics-b54",
+          "name": "Molecular Biology Techniques (1 of 3) - Cytogenetics",
+          "sourceFile": "BOOM Brick 54",
+          "coreCount": 12,
+          "extraCount": 0,
+          "questionCount": 12
         }
-      ]
+      ],
+      "week": 7,
+      "weekName": "Week 7",
+      "weekSubtitle": ""
     },
     {
-      "id": "inheritance-genetic-disorders",
-      "name": "Inheritance & Genetic Disorders",
+      "id": "w7s2",
+      "name": "Session 2",
       "topics": [
         {
           "id": "pedigrees-and-patterns-of-monogenic-inheritance",
@@ -425,6 +559,14 @@
           "questionCount": 36
         },
         {
+          "id": "molecular-biology-techniques-dna-analysis-b55",
+          "name": "Molecular Biology Techniques (2 of 3), DNA analysis",
+          "sourceFile": "BOOM Brick 55",
+          "coreCount": 12,
+          "extraCount": 24,
+          "questionCount": 36
+        },
+        {
           "id": "repeat-expansion-disorders",
           "name": "Repeat Expansion Disorders",
           "sourceFile": "BOOM Brick 49",
@@ -439,7 +581,16 @@
           "coreCount": 12,
           "extraCount": 24,
           "questionCount": 36
-        },
+        }
+      ],
+      "week": 7,
+      "weekName": "Week 7",
+      "weekSubtitle": ""
+    },
+    {
+      "id": "w7s3",
+      "name": "Session 3",
+      "topics": [
         {
           "id": "genomic-imprinting-disorders",
           "name": "Genomic Imprinting Disorders",
@@ -457,35 +608,38 @@
           "questionCount": 36
         },
         {
+          "id": "multifactorial-disorders-b59",
+          "name": "Multifactorial Disorders",
+          "sourceFile": "BOOM Brick 59",
+          "coreCount": 12,
+          "extraCount": 0,
+          "questionCount": 12
+        },
+        {
           "id": "population-genetics",
           "name": "Population Genetics",
           "sourceFile": "BOOM Brick 53",
           "coreCount": 12,
           "extraCount": 24,
           "questionCount": 36
-        }
-      ]
-    },
-    {
-      "id": "genomic-techniques-clinical",
-      "name": "Genomic Techniques & Clinical Genomics",
-      "topics": [
+        },
         {
-          "id": "molecular-biology-techniques-cytogenetics-b54",
-          "name": "Molecular Biology Techniques (1 of 3) - Cytogenetics",
-          "sourceFile": "BOOM Brick 54",
+          "id": "population-genetics-b60",
+          "name": "Population Genetics",
+          "sourceFile": "BOOM Brick 60",
           "coreCount": 12,
           "extraCount": 0,
           "questionCount": 12
-        },
-        {
-          "id": "molecular-biology-techniques-dna-analysis-b55",
-          "name": "Molecular Biology Techniques (2 of 3), DNA analysis",
-          "sourceFile": "BOOM Brick 55",
-          "coreCount": 12,
-          "extraCount": 24,
-          "questionCount": 36
-        },
+        }
+      ],
+      "week": 7,
+      "weekName": "Week 7",
+      "weekSubtitle": ""
+    },
+    {
+      "id": "w8s1",
+      "name": "Session 1",
+      "topics": [
         {
           "id": "molecular-biology-techniques-rna-analysis",
           "name": "Molecular Biology Techniques (3 of 3), RNA analysis",
@@ -501,7 +655,16 @@
           "coreCount": 12,
           "extraCount": 24,
           "questionCount": 36
-        },
+        }
+      ],
+      "week": 8,
+      "weekName": "Week 8",
+      "weekSubtitle": ""
+    },
+    {
+      "id": "w8s2",
+      "name": "Session 2",
+      "topics": [
         {
           "id": "animal-models-in-novel-therapeutics",
           "name": "From Bench to Bedside: The Role of Animal Models in Novel Therapeutics",
@@ -509,23 +672,16 @@
           "coreCount": 12,
           "extraCount": 24,
           "questionCount": 36
-        },
-        {
-          "id": "multifactorial-disorders-b59",
-          "name": "Multifactorial Disorders",
-          "sourceFile": "BOOM Brick 59",
-          "coreCount": 12,
-          "extraCount": 0,
-          "questionCount": 12
-        },
-        {
-          "id": "population-genetics-b60",
-          "name": "Population Genetics",
-          "sourceFile": "BOOM Brick 60",
-          "coreCount": 12,
-          "extraCount": 0,
-          "questionCount": 12
-        },
+        }
+      ],
+      "week": 8,
+      "weekName": "Week 8",
+      "weekSubtitle": ""
+    },
+    {
+      "id": "w8s3",
+      "name": "Session 3",
+      "topics": [
         {
           "id": "pharmacogenetics-an-introduction",
           "name": "Pharmacogenetics: An Introduction",
@@ -534,7 +690,10 @@
           "extraCount": 24,
           "questionCount": 36
         }
-      ]
+      ],
+      "week": 8,
+      "weekName": "Week 8",
+      "weekSubtitle": ""
     }
   ],
   "totalQuestions": 2124

@@ -1,0 +1,1134 @@
+{
+  "categoryId": "w6s3",
+  "categoryName": "Session 3",
+  "questions": [
+    {
+      "id": "bo38-001",
+      "stem": "A 12-year-old boy is evaluated for tonsils that appear strikingly orange-yellow on examination with no evidence of infection. A fasting lipid panel shows total cholesterol 100 mg/dL, HDL 5 mg/dL, LDL 50 mg/dL, and triglycerides 250 mg/dL. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Familial hypercholesterolemia"
+        },
+        {
+          "label": "B",
+          "text": "Familial hyperchylomicronemia"
+        },
+        {
+          "label": "C",
+          "text": "Familial hypertriglyceridemia"
+        },
+        {
+          "label": "D",
+          "text": "Medium-chain acyl-CoA dehydrogenase deficiency"
+        },
+        {
+          "label": "E",
+          "text": "Tangier disease"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Enlarged orange-yellow tonsils with low HDL and low total cholesterol is the classic presentation of Tangier disease.",
+        "whyCorrect": "Tangier disease results from a deficiency of the ABC1 transporter, which normally promotes cholesterol efflux from peripheral tissue onto HDL. The failure of efflux causes intracellular cholesterol accumulation, producing low HDL and low overall cholesterol, and the characteristic orange-yellow discoloration and enlargement of the tonsils.",
+        "whyWrongByChoice": {
+          "A": "Familial hypercholesterolemia causes very high LDL cholesterol, not the low cholesterol and low HDL seen here.",
+          "B": "Familial hyperchylomicronemia produces triglycerides often exceeding 1,000 mg/dL, far higher than this panel.",
+          "C": "Familial hypertriglyceridemia shows high VLDL/triglycerides with low HDL but does not cause orange tonsils or low total cholesterol.",
+          "D": "MCAD deficiency disrupts fatty acid oxidation and causes hypoketotic hypoglycemia, not orange tonsils or an abnormal lipid panel."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Tangier disease",
+        "HDL",
+        "lipid storage"
+      ],
+      "topicId": "dyslipidemias-lipid-storage-disorders-and-defects-in-lipid-metabolism",
+      "topicName": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism",
+      "tier": "core"
+    },
+    {
+      "id": "bo38-002",
+      "stem": "A patient with confirmed Tangier disease has intracellular accumulation of cholesterol within peripheral tissues. A defect in which of the following is most directly responsible for this abnormality?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "ABC1 transporter in macrophages"
+        },
+        {
+          "label": "B",
+          "text": "Apolipoprotein E on remnant particles"
+        },
+        {
+          "label": "C",
+          "text": "LDL receptor on hepatocytes"
+        },
+        {
+          "label": "D",
+          "text": "Lipoprotein lipase on endothelial cells"
+        },
+        {
+          "label": "E",
+          "text": "OCTN2 carnitine transporter"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Tangier disease is caused by a deficiency of the ABC1 transporter that mediates cholesterol efflux from peripheral tissue.",
+        "whyCorrect": "ABC1 is the transporter that promotes cholesterol release from extra-hepatic tissue so it can be picked up by HDL via LCAT activity. When ABC1 is absent, cholesterol cannot leave the cell and accumulates intracellularly, and the serum shows low HDL and low total cholesterol.",
+        "whyWrongByChoice": {
+          "B": "Apolipoprotein E defects cause familial dysbetalipoproteinemia with retained IDL and chylomicron remnants.",
+          "C": "Defective LDL receptors cause familial hypercholesterolemia with high LDL, not intracellular cholesterol accumulation with low HDL.",
+          "D": "Lipoprotein lipase deficiency impairs triglyceride clearance and causes familial hyperchylomicronemia.",
+          "E": "The OCTN2 transporter handles carnitine reabsorption and its defect causes primary carnitine deficiency, not Tangier disease."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Tangier disease",
+        "ABC1 transporter",
+        "cholesterol efflux"
+      ],
+      "topicId": "dyslipidemias-lipid-storage-disorders-and-defects-in-lipid-metabolism",
+      "topicName": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism",
+      "tier": "core"
+    },
+    {
+      "id": "bo38-003",
+      "stem": "A 38-year-old woman presents with an increasing number of large, bumpy growths over her knees and buttocks as well as distinctive yellow-orange streaks in the creases of her palms. Both her mother and father developed heart disease before age 40. Her serum cholesterol and triglycerides are both elevated. Which of the following primary lipid disorders is most likely?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Familial combined hyperlipidemia"
+        },
+        {
+          "label": "B",
+          "text": "Familial dysbetalipoproteinemia"
+        },
+        {
+          "label": "C",
+          "text": "Familial hypercholesterolemia"
+        },
+        {
+          "label": "D",
+          "text": "Familial hyperchylomicronemia"
+        },
+        {
+          "label": "E",
+          "text": "Familial hypertriglyceridemia"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Palmar xanthomas plus tuberoeruptive xanthomas with elevated cholesterol and triglycerides point to familial dysbetalipoproteinemia (type III).",
+        "whyCorrect": "Palmar xanthomas along the palmar creases are pathognomonic for familial dysbetalipoproteinemia, which also commonly causes tuberoeruptive xanthomas on the knees and elbows. The disorder stems from an apolipoprotein E defect that impairs clearance of chylomicron and VLDL remnants, producing moderate elevations in both cholesterol and triglycerides and premature atherosclerotic heart disease, consistent with the family history.",
+        "whyWrongByChoice": {
+          "A": "Familial combined hyperlipidemia causes elevated cholesterol and triglycerides but does not produce pathognomonic palmar xanthomas.",
+          "C": "Familial hypercholesterolemia raises cholesterol with near-normal triglycerides and does not cause palmar xanthomas.",
+          "D": "Familial hyperchylomicronemia presents with markedly high triglycerides and near-normal cholesterol, without palmar xanthomas.",
+          "E": "Familial hypertriglyceridemia shows high triglycerides with relatively normal cholesterol and lacks palmar xanthomas."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "familial dysbetalipoproteinemia",
+        "apolipoprotein E",
+        "xanthoma"
+      ],
+      "topicId": "dyslipidemias-lipid-storage-disorders-and-defects-in-lipid-metabolism",
+      "topicName": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism",
+      "tier": "core"
+    },
+    {
+      "id": "bo38-004",
+      "stem": "A newborn from a family with a known lipid disorder is found to have very high LDL cholesterol at birth with normal triglycerides. The child's affected relatives suffered myocardial infarctions in early adulthood. Which of the following best explains the underlying defect?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Defective apolipoprotein E"
+        },
+        {
+          "label": "B",
+          "text": "Deficiency of lipoprotein lipase"
+        },
+        {
+          "label": "C",
+          "text": "Deficiency of the ABC1 transporter"
+        },
+        {
+          "label": "D",
+          "text": "Overproduction of VLDL by the liver"
+        },
+        {
+          "label": "E",
+          "text": "Too few or absent LDL receptors"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Familial hypercholesterolemia results from too few or absent LDL receptors, producing very high LDL with normal triglycerides.",
+        "whyCorrect": "Familial hypercholesterolemia (type IIa) is an autosomal dominant disorder caused by mutations that reduce or eliminate functional LDL receptors, most often in the LDL receptor gene itself. Without adequate receptors, LDL cannot be cleared, so LDL cholesterol is very high even at birth while triglycerides remain near normal, driving early atherosclerosis and myocardial infarction.",
+        "whyWrongByChoice": {
+          "A": "A defective apolipoprotein E causes familial dysbetalipoproteinemia with elevated remnants and both cholesterol and triglycerides.",
+          "B": "Lipoprotein lipase deficiency causes familial hyperchylomicronemia with very high triglycerides, not isolated high LDL.",
+          "C": "ABC1 transporter deficiency causes Tangier disease with low HDL and low total cholesterol.",
+          "D": "VLDL overproduction underlies familial hypertriglyceridemia, which elevates triglycerides rather than LDL."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "familial hypercholesterolemia",
+        "LDL receptor",
+        "autosomal dominant"
+      ],
+      "topicId": "dyslipidemias-lipid-storage-disorders-and-defects-in-lipid-metabolism",
+      "topicName": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism",
+      "tier": "core"
+    },
+    {
+      "id": "bo38-005",
+      "stem": "A 9-month-old infant is admitted with severe abdominal pain, and a fasting lipid panel reveals triglycerides of 1,400 mg/dL with cholesterol near the reference range. Genetic testing confirms a deficiency of lipoprotein lipase. This patient is at greatest risk for which of the following complications?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acute pancreatitis"
+        },
+        {
+          "label": "B",
+          "text": "Early myocardial infarction"
+        },
+        {
+          "label": "C",
+          "text": "Hepatic cirrhosis"
+        },
+        {
+          "label": "D",
+          "text": "Ischemic stroke"
+        },
+        {
+          "label": "E",
+          "text": "Peripheral arterial disease"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Familial hyperchylomicronemia causes markedly high triglycerides that place patients primarily at risk for pancreatitis.",
+        "whyCorrect": "Lipoprotein lipase (or apo C-II) deficiency impairs degradation and clearance of triglyceride-rich chylomicrons, so triglycerides often exceed 1,000 mg/dL. These patients are primarily at risk for acute pancreatitis. Because cholesterol stays within or near reference ranges, the risk for ischemic heart disease is not increased.",
+        "whyWrongByChoice": {
+          "B": "The risk for ischemic heart disease is not increased in familial hyperchylomicronemia because cholesterol is near normal.",
+          "C": "The brick does not attribute hepatic cirrhosis to this disorder; pancreatitis is the primary risk.",
+          "D": "Stroke is an atherosclerotic complication tied to elevated LDL, which is not the abnormality here.",
+          "E": "Peripheral arterial disease reflects atherosclerosis, which is not the main risk given near-normal cholesterol."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "familial hyperchylomicronemia",
+        "lipoprotein lipase",
+        "pancreatitis"
+      ],
+      "topicId": "dyslipidemias-lipid-storage-disorders-and-defects-in-lipid-metabolism",
+      "topicName": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism",
+      "tier": "core"
+    },
+    {
+      "id": "bo38-006",
+      "stem": "A 45-year-old man has a lipid panel showing moderately elevated VLDL and triglycerides with a total cholesterol near the reference range and low HDL. He has no palmar xanthomas, and the disorder is attributed to hepatic overproduction of a single lipoprotein class. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Familial dysbetalipoproteinemia"
+        },
+        {
+          "label": "B",
+          "text": "Familial hypercholesterolemia"
+        },
+        {
+          "label": "C",
+          "text": "Familial hyperchylomicronemia"
+        },
+        {
+          "label": "D",
+          "text": "Familial hypertriglyceridemia"
+        },
+        {
+          "label": "E",
+          "text": "Tangier disease"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Familial hypertriglyceridemia (type IV) is driven by hepatic overproduction of VLDL, elevating VLDL and triglycerides with near-normal cholesterol.",
+        "whyCorrect": "Familial hypertriglyceridemia results from hepatic overproduction of VLDL, so the lipid panel shows elevated VLDL and triglycerides while total cholesterol stays relatively normal and HDL is often low. Because LDL is not increased, a strong association with atherosclerotic heart disease has not been found, though high triglycerides raise the risk for acute pancreatitis.",
+        "whyWrongByChoice": {
+          "A": "Familial dysbetalipoproteinemia elevates IDL and chylomicron remnants and typically causes palmar xanthomas.",
+          "B": "Familial hypercholesterolemia produces very high LDL cholesterol with normal triglycerides, not the reverse.",
+          "C": "Familial hyperchylomicronemia elevates chylomicrons from LPL deficiency rather than VLDL overproduction by the liver.",
+          "E": "Tangier disease causes low HDL and low total cholesterol from an ABC1 transporter defect, not VLDL overproduction."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "familial hypertriglyceridemia",
+        "VLDL",
+        "Fredrickson type IV"
+      ],
+      "topicId": "dyslipidemias-lipid-storage-disorders-and-defects-in-lipid-metabolism",
+      "topicName": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism",
+      "tier": "core"
+    },
+    {
+      "id": "bo38-007",
+      "stem": "A 30-year-old man with a strong family history of early heart disease has a lipid panel showing elevated LDL, elevated VLDL, elevated triglycerides, and low HDL. Analysis reveals increased apolipoprotein B-100 with hepatic overproduction of small VLDL and dense LDL particles. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Familial combined hyperlipidemia"
+        },
+        {
+          "label": "B",
+          "text": "Familial hypercholesterolemia"
+        },
+        {
+          "label": "C",
+          "text": "Familial hyperchylomicronemia"
+        },
+        {
+          "label": "D",
+          "text": "Familial hypertriglyceridemia"
+        },
+        {
+          "label": "E",
+          "text": "Tangier disease (ABCA1 deficiency)"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Combined elevation of LDL, VLDL, and triglycerides with increased apo B-100 is characteristic of familial combined hyperlipidemia (type IIb).",
+        "whyCorrect": "Familial combined hyperlipidemia is the most common primary lipid disorder overall and is polygenic. Mutations that increase apolipoprotein B-100 drive hepatic overproduction of small VLDL and small dense LDL particles, and decreased hepatic LDL clearance from increased PCSK9 activity contributes as well. Patients show combined elevations of LDL, VLDL, and triglycerides with low HDL and accelerated atherosclerosis.",
+        "whyWrongByChoice": {
+          "B": "Familial hypercholesterolemia raises LDL alone with normal triglycerides, not a combined pattern.",
+          "C": "Familial hyperchylomicronemia elevates chylomicrons and triglycerides from LPL deficiency, without high LDL.",
+          "D": "Familial hypertriglyceridemia elevates VLDL and triglycerides but does not increase LDL.",
+          "E": "Tangier disease shows low HDL and low total cholesterol rather than combined elevations."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "familial combined hyperlipidemia",
+        "apolipoprotein B-100",
+        "Fredrickson type IIb"
+      ],
+      "topicId": "dyslipidemias-lipid-storage-disorders-and-defects-in-lipid-metabolism",
+      "topicName": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism",
+      "tier": "core"
+    },
+    {
+      "id": "bo38-008",
+      "stem": "A researcher is studying a monoclonal antibody that inhibits PCSK9 as a therapy for dyslipidemia. Inhibiting PCSK9 lowers circulating LDL by which of the following mechanisms?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Blocking lipoprotein lipase on endothelial cells"
+        },
+        {
+          "label": "B",
+          "text": "Enhancing cholesterol efflux through the ABC1 transporter"
+        },
+        {
+          "label": "C",
+          "text": "Increasing hepatic synthesis of cholesterol"
+        },
+        {
+          "label": "D",
+          "text": "Preventing degradation of LDL receptors"
+        },
+        {
+          "label": "E",
+          "text": "Stimulating hepatic overproduction of VLDL"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "PCSK9 normally targets LDL receptors for lysosomal degradation, so inhibiting it preserves receptors and lowers LDL.",
+        "whyCorrect": "PCSK9 binds LDL receptors on hepatocytes; the complex is internalized and directed to lysosomes for degradation, preventing the receptor from recycling back to the cell surface. Inhibiting PCSK9 with a monoclonal antibody spares the receptors so they return to the surface and continue clearing LDL, lowering circulating LDL levels.",
+        "whyWrongByChoice": {
+          "A": "PCSK9 does not act on lipoprotein lipase; blocking LPL would impair triglyceride clearance.",
+          "B": "ABC1-mediated efflux is the pathway defective in Tangier disease and is unrelated to PCSK9's action on LDL receptors.",
+          "C": "Increasing cholesterol synthesis would raise, not lower, circulating lipids and is not how PCSK9 inhibition works.",
+          "E": "Stimulating VLDL overproduction would worsen dyslipidemia and is not the mechanism of PCSK9 inhibitors."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "PCSK9",
+        "LDL receptor",
+        "therapeutics"
+      ],
+      "topicId": "dyslipidemias-lipid-storage-disorders-and-defects-in-lipid-metabolism",
+      "topicName": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism",
+      "tier": "core"
+    },
+    {
+      "id": "bo38-009",
+      "stem": "In the early atherosclerotic lesion of a patient with familial hypercholesterolemia, macrophages within the arterial wall become engorged with lipid and transform into foam cells. Which of the following best describes the process that generates these foam cells?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Macrophages accumulate carnitine because of an OCTN2 defect"
+        },
+        {
+          "label": "B",
+          "text": "Macrophages clear chylomicron remnants through apolipoprotein E receptors"
+        },
+        {
+          "label": "C",
+          "text": "Macrophages fail to efflux cholesterol because of an ABC1 defect"
+        },
+        {
+          "label": "D",
+          "text": "Macrophages overproduce VLDL and store it internally"
+        },
+        {
+          "label": "E",
+          "text": "Macrophages take up oxidized LDL through scavenger receptors"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Foam cells form when macrophages take up oxidized LDL via low-affinity, nonregulated scavenger receptors.",
+        "whyCorrect": "When LDL is abundant it becomes more susceptible to oxidative damage, generating the pro-atherogenic oxLDL particle. Monocytes adhere to injured endothelium and become macrophages, which take up modified (oxidized) LDL through nonspecific scavenger receptors that are not downregulated by intracellular cholesterol. This unchecked uptake fills the macrophage with lipid, transforming it into a foam cell.",
+        "whyWrongByChoice": {
+          "A": "Carnitine accumulation from an OCTN2 defect relates to fatty acid oxidation, not foam cell formation.",
+          "B": "Apolipoprotein E-mediated remnant clearance occurs in the liver and is not the mechanism of foam cell formation.",
+          "C": "An ABC1 efflux defect describes Tangier disease; foam cells here form from oxLDL uptake via scavenger receptors.",
+          "D": "Foam cells form by taking up oxidized LDL, not by internally overproducing VLDL."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "foam cell",
+        "oxidized LDL",
+        "atherosclerosis"
+      ],
+      "topicId": "dyslipidemias-lipid-storage-disorders-and-defects-in-lipid-metabolism",
+      "topicName": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism",
+      "tier": "core"
+    },
+    {
+      "id": "bo38-010",
+      "stem": "A patient's lipid panel is described as demonstrating reverse cholesterol transport in which a lipoprotein carries cholesterol from peripheral tissues back to the liver and donates apolipoproteins to other particles. Blood levels of this lipoprotein are inversely related to cardiac disease. Which lipoprotein is being described?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Chylomicrons"
+        },
+        {
+          "label": "B",
+          "text": "HDL"
+        },
+        {
+          "label": "C",
+          "text": "IDL"
+        },
+        {
+          "label": "D",
+          "text": "LDL"
+        },
+        {
+          "label": "E",
+          "text": "VLDL"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "HDL performs reverse cholesterol transport and donates apolipoproteins, and its levels are inversely related to cardiac disease.",
+        "whyCorrect": "HDL delivers cholesterol from the tissues back to the liver, a process known as reverse cholesterol transport. It also acts as a 'helper,' donating important apolipoproteins to other lipoproteins so they can be recognized and taken up by the appropriate tissues. HDL blood levels are inversely related to cardiac disease.",
+        "whyWrongByChoice": {
+          "A": "Chylomicrons deliver dietary triglycerides and cholesterol from the intestines to peripheral tissues.",
+          "C": "IDL is a transitional particle between VLDL and LDL and does not carry out reverse cholesterol transport.",
+          "D": "LDL delivers cholesterol from the liver to the tissues and its elevation is directly linked to cardiac disease.",
+          "E": "VLDL delivers liver-synthesized triglycerides to tissues, not cholesterol back to the liver."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "HDL",
+        "reverse cholesterol transport",
+        "lipoproteins"
+      ],
+      "topicId": "dyslipidemias-lipid-storage-disorders-and-defects-in-lipid-metabolism",
+      "topicName": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism",
+      "tier": "core"
+    },
+    {
+      "id": "bo38-011",
+      "stem": "A 10-month-old infant develops lethargy and hypoglycemia during a viral illness with poor oral intake. Laboratory studies show low glucose with inappropriately low ketones. The child is subsequently diagnosed with medium-chain acyl-CoA dehydrogenase (MCAD) deficiency. The hypoketotic hypoglycemia in this disorder is best explained by which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Deficient LDL receptor recycling in hepatocytes"
+        },
+        {
+          "label": "B",
+          "text": "Excess acetyl-CoA overwhelming the citric acid cycle"
+        },
+        {
+          "label": "C",
+          "text": "Failure to produce acetyl-CoA from beta-oxidation"
+        },
+        {
+          "label": "D",
+          "text": "Increased urinary loss of carnitine through OCTN2"
+        },
+        {
+          "label": "E",
+          "text": "Overproduction of ketone bodies by the liver"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Both MCAD and carnitine deficiency cause hypoketotic hypoglycemia because impaired beta-oxidation fails to generate acetyl-CoA.",
+        "whyCorrect": "Hypoketotic hypoglycemia results from a failure to produce acetyl-CoA through beta-oxidation. Acetyl-CoA is the required substrate for ketogenesis, its generation supplies ATP needed for gluconeogenesis, and it is an allosteric activator of pyruvate carboxylase. When beta-oxidation is blocked, ketones cannot be made and glucose cannot be maintained, a state worsened by fasting or illness.",
+        "whyWrongByChoice": {
+          "A": "LDL receptor recycling relates to cholesterol handling and has no role in this fatty acid oxidation defect.",
+          "B": "The problem is too little acetyl-CoA from blocked beta-oxidation, not an excess.",
+          "D": "Urinary carnitine wasting is the mechanism in primary carnitine deficiency, not the direct cause of hypoketotic hypoglycemia in MCAD deficiency.",
+          "E": "Ketone production is decreased, not overproduced, which is why the hypoglycemia is hypoketotic."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "MCAD deficiency",
+        "hypoketotic hypoglycemia",
+        "beta-oxidation"
+      ],
+      "topicId": "dyslipidemias-lipid-storage-disorders-and-defects-in-lipid-metabolism",
+      "topicName": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism",
+      "tier": "core"
+    },
+    {
+      "id": "bo38-012",
+      "stem": "A dietitian is planning nutritional supplementation for two patients: one with systemic primary carnitine deficiency and one with MCAD deficiency. Which dietary supplement could be considered for the patient with carnitine deficiency but would not be appropriate for the patient with MCAD deficiency?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Carnitine supplementation"
+        },
+        {
+          "label": "B",
+          "text": "Glucose supplementation"
+        },
+        {
+          "label": "C",
+          "text": "Long-chain fatty acids"
+        },
+        {
+          "label": "D",
+          "text": "Medium-chain fatty acids"
+        },
+        {
+          "label": "E",
+          "text": "Short-chain fatty acids"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Medium-chain fatty acids bypass carnitine transport and are useful in carnitine deficiency but cannot be metabolized in MCAD deficiency.",
+        "whyCorrect": "Medium-chain fatty acids freely diffuse into the cell and mitochondria, bypassing the need for carnitine, so they can be metabolized in primary carnitine deficiency. In MCAD deficiency, however, the enzyme needed to catabolize these very substrates is missing, so MCFAs would only accumulate. MCFA supplementation is therefore considered only for carnitine deficiency, not MCAD.",
+        "whyWrongByChoice": {
+          "A": "Carnitine supplementation is considered in both conditions and is routine in primary carnitine deficiency.",
+          "B": "Glucose supports both patients by preventing catabolic states and is not contraindicated in either.",
+          "C": "Long-chain fatty acids should be avoided in both deficiencies because neither can properly catabolize them.",
+          "E": "Short-chain fatty acids can be strategically provided in both deficiencies."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "carnitine deficiency",
+        "MCAD deficiency",
+        "dietary management"
+      ],
+      "topicId": "dyslipidemias-lipid-storage-disorders-and-defects-in-lipid-metabolism",
+      "topicName": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism",
+      "tier": "core"
+    },
+    {
+      "id": "bo39-001",
+      "stem": "A 6-month-old boy of Ashkenazi Jewish descent, who developed normally until now, is losing previously acquired motor skills and demonstrates an exaggerated startle response to loud sounds. Fundoscopic exam reveals a cherry-red spot on the macula. The liver and spleen are not enlarged. Which of the following enzyme deficiencies is most likely responsible?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Alpha-galactosidase A"
+        },
+        {
+          "label": "B",
+          "text": "Galactocerebrosidase"
+        },
+        {
+          "label": "C",
+          "text": "Glucocerebrosidase"
+        },
+        {
+          "label": "D",
+          "text": "Hexosaminidase A"
+        },
+        {
+          "label": "E",
+          "text": "Sphingomyelinase"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Tay-Sachs disease is caused by hexosaminidase A deficiency with GM2 ganglioside accumulation.",
+        "whyCorrect": "The infantile cherry-red macula, exaggerated startle response reflecting abnormal brainstem function, progressive loss of motor skills, and absence of hepatosplenomegaly in an Ashkenazi Jewish infant are classic for Tay-Sachs disease. Hexosaminidase A deficiency leads to accumulation of GM2 ganglioside, which is critical for neuronal health.",
+        "whyWrongByChoice": {
+          "A": "Alpha-galactosidase A deficiency causes Fabry disease, an adult-onset X-linked disorder with angiokeratomas and acroparesthesia, not infantile neurodegeneration.",
+          "B": "Galactocerebrosidase deficiency causes Krabbe disease, which features globoid cells and optic atrophy rather than a cherry-red macular spot with startle response.",
+          "C": "Glucocerebrosidase deficiency causes Gaucher disease, marked by hepatosplenomegaly and bone disease rather than a cherry-red spot with a normal-sized liver and spleen.",
+          "E": "Sphingomyelinase deficiency causes Niemann-Pick disease, which shares the cherry-red spot but characteristically presents with prominent hepatosplenomegaly, absent here."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "Tay-Sachs",
+        "hexosaminidase A",
+        "sphingolipidoses"
+      ],
+      "topicId": "lysosomal-storage-and-peroxisomal-disorders",
+      "topicName": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism (2 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "bo39-002",
+      "stem": "A 5-month-old infant who was healthy at birth now has failure to thrive, spasticity, and rapidly progressing neurologic deterioration. On exam there is massive hepatosplenomegaly, and fundoscopy shows a cherry-red spot on the macula. The infant dies at 30 months of age. Which enzyme deficiency best explains this presentation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Alpha-galactosidase A"
+        },
+        {
+          "label": "B",
+          "text": "Galactocerebrosidase"
+        },
+        {
+          "label": "C",
+          "text": "Glucocerebrosidase"
+        },
+        {
+          "label": "D",
+          "text": "Hexosaminidase A"
+        },
+        {
+          "label": "E",
+          "text": "Sphingomyelinase"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Niemann-Pick disease type A results from sphingomyelinase deficiency and accumulation of sphingomyelin.",
+        "whyCorrect": "The combination of a cherry-red macular spot AND massive hepatosplenomegaly with rapidly progressive neurologic decline and death by about age 3 is characteristic of Niemann-Pick disease type A. It is caused by a deficiency of sphingomyelinase, leading to accumulation of sphingomyelin.",
+        "whyWrongByChoice": {
+          "A": "Alpha-galactosidase A deficiency (Fabry) is an adult-onset X-linked disorder with angiokeratomas and renal/cardiac disease, not infantile hepatosplenomegaly with a cherry-red spot.",
+          "B": "Galactocerebrosidase deficiency (Krabbe) spares the liver and spleen and does not produce a cherry-red macular spot.",
+          "C": "Glucocerebrosidase deficiency (Gaucher type 1) causes hepatosplenomegaly and bone disease but not a cherry-red macular spot or this fulminant infantile neurodegeneration.",
+          "D": "Hexosaminidase A deficiency (Tay-Sachs) also causes a cherry-red spot, but there is no hepatosplenomegaly, which is a prominent finding here."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Niemann-Pick",
+        "sphingomyelinase",
+        "hepatosplenomegaly"
+      ],
+      "topicId": "lysosomal-storage-and-peroxisomal-disorders",
+      "topicName": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism (2 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "bo39-003",
+      "stem": "Two infants each present with progressive neurodegeneration and a cherry-red spot on the macula. Which of the following findings would most reliably distinguish Niemann-Pick disease from Tay-Sachs disease?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Exaggerated startle response"
+        },
+        {
+          "label": "B",
+          "text": "Hepatosplenomegaly"
+        },
+        {
+          "label": "C",
+          "text": "Onset during infancy"
+        },
+        {
+          "label": "D",
+          "text": "Presence of a cherry-red spot on the macula"
+        },
+        {
+          "label": "E",
+          "text": "Progressive neurologic deterioration"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Hepatosplenomegaly is present in Niemann-Pick but absent in Tay-Sachs, distinguishing the two.",
+        "whyCorrect": "Both diseases share a cherry-red macular spot and infantile progressive neurodegeneration, so those features cannot separate them. The brick specifically notes that the absence of hepatosplenomegaly helps distinguish Tay-Sachs from Niemann-Pick, in which hepatosplenomegaly is a prominent finding.",
+        "whyWrongByChoice": {
+          "A": "An increased startle response reflects brainstem dysfunction seen with progressive neurodegeneration and is not specific to one disease.",
+          "C": "Both disorders present in infancy, so onset timing does not separate them.",
+          "D": "A cherry-red spot occurs in both conditions and therefore cannot distinguish them.",
+          "E": "Both are progressive, fatal neurodegenerative diseases, so this feature is shared."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "Tay-Sachs",
+        "Niemann-Pick",
+        "differential diagnosis"
+      ],
+      "topicId": "lysosomal-storage-and-peroxisomal-disorders",
+      "topicName": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism (2 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "bo39-004",
+      "stem": "A 22-year-old woman presents with chronic bone pain, anemia, easy bruising, and an abdomen distended by a massively enlarged spleen. A bone marrow biopsy shows lipid-laden macrophages with a 'crinkled paper' or 'wrinkled silk' cytoplasmic appearance. Which enzyme deficiency is most consistent with these findings?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Alpha-galactosidase A"
+        },
+        {
+          "label": "B",
+          "text": "Galactocerebrosidase"
+        },
+        {
+          "label": "C",
+          "text": "Glucocerebrosidase"
+        },
+        {
+          "label": "D",
+          "text": "Hexosaminidase A"
+        },
+        {
+          "label": "E",
+          "text": "Sphingomyelinase"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Gaucher disease is caused by glucocerebrosidase deficiency and features Gaucher cells.",
+        "whyCorrect": "Hepatosplenomegaly with prominent splenomegaly, anemia, thrombocytopenia causing easy bruising, bone pain, and lipid-laden macrophages with a crinkled-paper appearance (Gaucher cells) define Gaucher disease, the most common lysosomal storage disease. It results from glucocerebrosidase deficiency and accumulation of glucocerebroside.",
+        "whyWrongByChoice": {
+          "A": "Alpha-galactosidase A deficiency (Fabry) causes angiokeratomas, acroparesthesia, and renal/cardiac disease, not Gaucher cells.",
+          "B": "Galactocerebrosidase deficiency (Krabbe) produces globoid cells and neurologic disease, sparing the spleen and liver.",
+          "D": "Hexosaminidase A deficiency (Tay-Sachs) causes infantile neurodegeneration with a cherry-red spot and no hepatosplenomegaly.",
+          "E": "Sphingomyelinase deficiency (Niemann-Pick) causes hepatosplenomegaly but is associated with a cherry-red spot and, in type A, fatal infantile neurodegeneration rather than crinkled-paper macrophages."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Gaucher",
+        "glucocerebrosidase",
+        "Gaucher cells"
+      ],
+      "topicId": "lysosomal-storage-and-peroxisomal-disorders",
+      "topicName": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism (2 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "bo39-005",
+      "stem": "A 28-year-old man with Gaucher disease is started on glucocerebrosidase enzyme replacement therapy. Compared with the untreated natural history of other lysosomal storage diseases discussed, which statement about his expected outcome is most accurate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Death is expected within 2 to 3 years regardless of therapy"
+        },
+        {
+          "label": "B",
+          "text": "He will inevitably develop severe central nervous system degeneration"
+        },
+        {
+          "label": "C",
+          "text": "Therapy can allow him to live a long, normal life"
+        },
+        {
+          "label": "D",
+          "text": "Therapy prevents accumulation of very-long-chain fatty acids"
+        },
+        {
+          "label": "E",
+          "text": "Therapy will reverse an existing cherry-red macular spot"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Type 1 Gaucher disease is treatable, and enzyme replacement therapy supports a relatively normal lifespan.",
+        "whyCorrect": "The brick emphasizes that Gaucher disease is treatable: with glucocerebrosidase enzyme replacement therapy, patients can live relatively long, normal lives. This is a notable contrast to most other lysosomal storage diseases, which are fatal at a young age.",
+        "whyWrongByChoice": {
+          "A": "Death within 2 to 3 years describes untreated Tay-Sachs disease, not treated Gaucher disease.",
+          "B": "Type 1 (non-neuronopathic) Gaucher disease accounts for 99% of cases and does not involve the central nervous system.",
+          "D": "Very-long-chain fatty acid accumulation is a feature of peroxisomal disorders, not Gaucher disease, and is unrelated to glucocerebrosidase therapy.",
+          "E": "A cherry-red spot is a feature of Tay-Sachs and Niemann-Pick disease, not Gaucher disease."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Gaucher",
+        "enzyme replacement therapy",
+        "prognosis"
+      ],
+      "topicId": "lysosomal-storage-and-peroxisomal-disorders",
+      "topicName": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism (2 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "bo39-006",
+      "stem": "A 34-year-old man reports years of burning pain and tingling in his hands and feet, markedly decreased sweating, and intermittent abdominal cramping. Examination reveals clusters of small, raised reddish-purple skin lesions, and urinalysis shows proteinuria. His maternal uncle died of renal failure at a young age. Which enzyme is most likely deficient?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Alpha-galactosidase A"
+        },
+        {
+          "label": "B",
+          "text": "Galactocerebrosidase"
+        },
+        {
+          "label": "C",
+          "text": "Glucocerebrosidase"
+        },
+        {
+          "label": "D",
+          "text": "Hexosaminidase A"
+        },
+        {
+          "label": "E",
+          "text": "Sphingomyelinase"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Fabry disease is an X-linked deficiency of alpha-galactosidase A with ceramide trihexoside accumulation.",
+        "whyCorrect": "Acroparesthesia (burning/tingling of the hands and feet), hypohidrosis, angiokeratomas (raised reddish-purple skin lesions), and renal disease in a male with an X-linked family pattern are classic for Fabry disease. It results from deficiency of alpha-galactosidase A, causing accumulation of ceramide trihexoside.",
+        "whyWrongByChoice": {
+          "B": "Galactocerebrosidase deficiency (Krabbe) is an infantile demyelinating disease, not an adult disorder with angiokeratomas.",
+          "C": "Glucocerebrosidase deficiency (Gaucher) causes splenomegaly, anemia, and bone disease, not angiokeratomas and acroparesthesia.",
+          "D": "Hexosaminidase A deficiency (Tay-Sachs) is a fatal infantile neurodegenerative disorder, not an adult-onset disease with skin and peripheral nerve findings.",
+          "E": "Sphingomyelinase deficiency (Niemann-Pick) causes hepatosplenomegaly and a cherry-red spot, not this constellation of adult symptoms."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Fabry",
+        "alpha-galactosidase A",
+        "X-linked"
+      ],
+      "topicId": "lysosomal-storage-and-peroxisomal-disorders",
+      "topicName": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism (2 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "bo39-007",
+      "stem": "A 38-year-old man with a long history of hypohidrosis, angiokeratomas, and acroparesthesia is found to have deficient alpha-galactosidase A activity. As his disease progresses, sphingolipid accumulates in the vascular endothelial lining. Which of the following complications is most characteristically associated with this process?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cherry-red spot on the macula"
+        },
+        {
+          "label": "B",
+          "text": "Crinkled-paper macrophages in bone marrow"
+        },
+        {
+          "label": "C",
+          "text": "Early ischemic stroke"
+        },
+        {
+          "label": "D",
+          "text": "Globoid cell formation in nervous tissue"
+        },
+        {
+          "label": "E",
+          "text": "Massive hepatosplenomegaly with a huge spleen"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "In Fabry disease, sphingolipid deposition in vascular endothelium promotes early stroke.",
+        "whyCorrect": "The brick notes that Fabry disease produces early stroke because of sphingolipid accumulation in the vascular endothelial lining, along with renal and cardiac complications that can lead to death in the third or fourth decade.",
+        "whyWrongByChoice": {
+          "A": "A cherry-red macular spot is a feature of Tay-Sachs and Niemann-Pick disease, not Fabry disease.",
+          "B": "Crinkled-paper macrophages are Gaucher cells, seen in Gaucher disease rather than Fabry disease.",
+          "D": "Globoid cells are pathognomonic of Krabbe disease, not Fabry disease.",
+          "E": "Massive splenomegaly is characteristic of Gaucher disease; Fabry disease does not cause a hugely enlarged spleen."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "Fabry",
+        "stroke",
+        "vascular endothelium"
+      ],
+      "topicId": "lysosomal-storage-and-peroxisomal-disorders",
+      "topicName": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism (2 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "bo39-008",
+      "stem": "A 5-month-old infant who was normal at birth now has failure to thrive, marked irritability, and progressive vision loss due to optic atrophy, along with seizure-like episodes that do not respond to anticonvulsant therapy. There is no hepatosplenomegaly. Nervous tissue shows multinucleated macrophages with abundant cytoplasm. Which enzyme deficiency is most likely?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Alpha-galactosidase A"
+        },
+        {
+          "label": "B",
+          "text": "Galactocerebrosidase"
+        },
+        {
+          "label": "C",
+          "text": "Glucocerebrosidase"
+        },
+        {
+          "label": "D",
+          "text": "Hexosaminidase A"
+        },
+        {
+          "label": "E",
+          "text": "Sphingomyelinase"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Krabbe disease results from galactocerebrosidase deficiency and produces globoid cells.",
+        "whyCorrect": "Infantile onset at 4-6 months with failure to thrive, irritability, optic atrophy with vision loss, seizures unresponsive to anticonvulsants, absence of liver and spleen involvement, and multinucleated globoid cells are hallmarks of Krabbe disease. It is caused by galactocerebrosidase deficiency with accumulation of galactocerebroside, a major component of myelin.",
+        "whyWrongByChoice": {
+          "A": "Alpha-galactosidase A deficiency (Fabry) is an adult-onset disorder with angiokeratomas, not an infantile demyelinating disease.",
+          "C": "Glucocerebrosidase deficiency (Gaucher) causes splenomegaly and bone disease with Gaucher cells, not globoid cells or optic atrophy.",
+          "D": "Hexosaminidase A deficiency (Tay-Sachs) causes a cherry-red spot and startle response, not globoid cells.",
+          "E": "Sphingomyelinase deficiency (Niemann-Pick) causes hepatosplenomegaly and a cherry-red spot, both absent here."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Krabbe",
+        "galactocerebrosidase",
+        "globoid cells"
+      ],
+      "topicId": "lysosomal-storage-and-peroxisomal-disorders",
+      "topicName": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism (2 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "bo39-009",
+      "stem": "A neonate presents with severe hypotonia, seizures, jaundice, and hepatomegaly. Physical exam shows a high forehead, widely spaced eyes, and a broad nasal bridge. Laboratory testing reveals elevated very-long-chain fatty acids, and tissue analysis shows that peroxisomes are essentially absent. This disorder is inherited in an autosomal recessive fashion. Which underlying defect is most likely responsible?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A defective ABC transporter for peroxisomal fatty acid import"
+        },
+        {
+          "label": "B",
+          "text": "A deficient lysosomal acid hydrolase causing substrate storage"
+        },
+        {
+          "label": "C",
+          "text": "Defective PEX proteins impairing peroxisome biogenesis"
+        },
+        {
+          "label": "D",
+          "text": "Deficiency of a single mitochondrial beta-oxidation enzyme"
+        },
+        {
+          "label": "E",
+          "text": "Deficiency of lysosomal acid sphingomyelinase"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Zellweger syndrome is caused by defective PEX proteins, leading to failed peroxisome biogenesis.",
+        "whyCorrect": "Zellweger syndrome is an autosomal recessive disorder of the PEX gene causing faulty peroxisomal biogenesis. Without functional peroxins, peroxisomal enzymes cannot be imported, so peroxisomes are absent or nonfunctional, VLCFAs accumulate in liver and brain, and infants show craniofacial anomalies, hypotonia, seizures, jaundice, and hepatomegaly, usually dying before age 1.",
+        "whyWrongByChoice": {
+          "A": "A defective ABC transporter underlies X-linked adrenoleukodystrophy, in which peroxisomes still form; here peroxisomes are essentially absent.",
+          "B": "A deficient lysosomal hydrolase would cause a lysosomal storage disease with substrate accumulation, not an absence of peroxisomes with elevated VLCFAs.",
+          "D": "A mitochondrial beta-oxidation defect would not eliminate peroxisomes or produce this dysmorphic biogenesis phenotype.",
+          "E": "Sphingomyelinase deficiency causes Niemann-Pick disease, a lysosomal disorder unrelated to peroxisome biogenesis."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Zellweger",
+        "peroxisome biogenesis",
+        "PEX"
+      ],
+      "topicId": "lysosomal-storage-and-peroxisomal-disorders",
+      "topicName": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism (2 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "bo39-010",
+      "stem": "An 8-year-old boy develops progressive neurologic decline together with signs of adrenal insufficiency, including fatigue and skin hyperpigmentation. Plasma very-long-chain fatty acids are elevated, but peroxisomes are present in his tissues. The condition is inherited in an X-linked pattern. Which molecular defect best explains this presentation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A defective ABC transporter"
+        },
+        {
+          "label": "B",
+          "text": "Absent peroxins preventing peroxisome formation"
+        },
+        {
+          "label": "C",
+          "text": "Deficiency of glucocerebrosidase"
+        },
+        {
+          "label": "D",
+          "text": "Deficiency of hexosaminidase A"
+        },
+        {
+          "label": "E",
+          "text": "Deficiency of peroxisomal catalase"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "X-linked adrenoleukodystrophy is caused by a defective ABC transporter that imports VLCFA substrates into peroxisomes.",
+        "whyCorrect": "X-linked adrenoleukodystrophy occurs when transport of VLCFA substrates into the peroxisome is defective due to a faulty ABC transporter that normally uses ATP hydrolysis. VLCFAs accumulate in blood and tissues, and the disease presents later in childhood with neurologic decline and adrenal insufficiency, with peroxisomes still present.",
+        "whyWrongByChoice": {
+          "B": "Absent peroxins causing failed peroxisome formation describes Zellweger syndrome, in which peroxisomes are absent; here they are present.",
+          "C": "Glucocerebrosidase deficiency causes Gaucher disease, a lysosomal disorder with hepatosplenomegaly and bone disease.",
+          "D": "Hexosaminidase A deficiency causes Tay-Sachs disease, an infantile neurodegenerative lysosomal storage disease.",
+          "E": "Catalase reduces hydrogen peroxide to water; its deficiency does not explain elevated VLCFAs with adrenal and neurologic disease."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "adrenoleukodystrophy",
+        "ABC transporter",
+        "VLCFA"
+      ],
+      "topicId": "lysosomal-storage-and-peroxisomal-disorders",
+      "topicName": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism (2 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "bo39-011",
+      "stem": "A researcher studies isolated peroxisomes and notes that their beta-oxidation reactions transfer electrons directly to oxygen, generating hydrogen peroxide rather than driving ATP synthesis. Which peroxisomal enzyme is chiefly responsible for protecting the cell from the toxic hydrogen peroxide produced?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acyl-CoA oxidase"
+        },
+        {
+          "label": "B",
+          "text": "Carnitine acetyltransferase"
+        },
+        {
+          "label": "C",
+          "text": "Catalase"
+        },
+        {
+          "label": "D",
+          "text": "Glucocerebrosidase"
+        },
+        {
+          "label": "E",
+          "text": "Sphingomyelinase"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Catalase in peroxisomes reduces toxic hydrogen peroxide to water.",
+        "whyCorrect": "Because hydrogen peroxide is toxic, it is sequestered within the peroxisome, which contains catalase to reduce hydrogen peroxide to water and protect the cell from damage.",
+        "whyWrongByChoice": {
+          "A": "Acyl-CoA oxidase catalyzes the first step of peroxisomal beta-oxidation and actually generates hydrogen peroxide rather than detoxifying it.",
+          "B": "Carnitine acetyltransferase transports activated acyl groups out of the peroxisome toward the mitochondria; it does not neutralize hydrogen peroxide.",
+          "D": "Glucocerebrosidase is a lysosomal enzyme deficient in Gaucher disease, not a peroxisomal antioxidant.",
+          "E": "Sphingomyelinase is a lysosomal enzyme deficient in Niemann-Pick disease, unrelated to peroxisomal hydrogen peroxide handling."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "peroxisome",
+        "catalase",
+        "hydrogen peroxide"
+      ],
+      "topicId": "lysosomal-storage-and-peroxisomal-disorders",
+      "topicName": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism (2 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "bo39-012",
+      "stem": "A biochemistry student is asked to describe how peroxisomal beta-oxidation differs from mitochondrial beta-oxidation. Which of the following best characterizes the substrate handled specifically by peroxisomal beta-oxidation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Glycogen, which is degraded to glucose within the peroxisome"
+        },
+        {
+          "label": "B",
+          "text": "Glycosaminoglycans that are broken down into monosaccharides"
+        },
+        {
+          "label": "C",
+          "text": "Short-chain fatty acids that are fully oxidized to carbon dioxide within the peroxisome"
+        },
+        {
+          "label": "D",
+          "text": "Sphingolipids requiring a unique acid hydrolase active at pH 5"
+        },
+        {
+          "label": "E",
+          "text": "Very-long-chain fatty acids greater than 22 carbons"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Peroxisomal beta-oxidation shortens very-long-chain fatty acids too large for mitochondria into medium-chain products.",
+        "whyCorrect": "Peroxisomal beta-oxidation breaks down very-long-chain fatty acids larger than 22 carbons, which are too big for transport into mitochondria. It produces medium-chain fatty acids that are then transported to mitochondria to complete beta-oxidation.",
+        "whyWrongByChoice": {
+          "A": "Glycogen degradation defects (Pompe disease) involve lysosomes, not peroxisomal beta-oxidation.",
+          "B": "Glycosaminoglycan (mucopolysaccharide) degradation is impaired in Hunter and Hurler syndromes, which are lysosomal, not peroxisomal.",
+          "C": "Peroxisomal beta-oxidation does not fully oxidize substrates to carbon dioxide; it shortens VLCFAs and hands medium-chain products to mitochondria.",
+          "D": "Enzymes active at pH 5 are lysosomal acid hydrolases used for sphingolipid turnover, not peroxisomal beta-oxidation of fatty acids."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "peroxisome",
+        "beta-oxidation",
+        "VLCFA"
+      ],
+      "topicId": "lysosomal-storage-and-peroxisomal-disorders",
+      "topicName": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism (2 of 2)",
+      "tier": "core"
+    }
+  ]
+}

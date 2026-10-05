@@ -1,6 +1,6 @@
 {
-  "categoryId": "cytogenetics-chromosomal",
-  "categoryName": "Cytogenetics & Chromosomal Disorders",
+  "categoryId": "w7s1",
+  "categoryName": "Session 1",
   "questions": [
     {
       "id": "bo40-001",
@@ -3389,6 +3389,570 @@
         "limitations"
       ],
       "topicId": "molecular-biology-techniques-cytogenetics",
+      "topicName": "Molecular Biology Techniques (1 of 3) - Cytogenetics",
+      "tier": "core"
+    },
+    {
+      "id": "bo54-001",
+      "stem": "A 6-month-old boy is evaluated for poor feeding, failure to thrive, and developmental delay. Examination shows low-set ears, a small chin, and a heart murmur; echocardiography reveals a ventricular septal defect. The physician suspects a microdeletion syndrome and wants a test targeted to a single known genomic region. Which technique is most appropriate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Fluorescence in situ hybridization"
+        },
+        {
+          "label": "B",
+          "text": "G-banded karyotype read at 550-band resolution"
+        },
+        {
+          "label": "C",
+          "text": "Polymerase chain reaction (PCR) of patient DNA"
+        },
+        {
+          "label": "D",
+          "text": "Serum karyotype of both parents to look for a balanced rearrangement"
+        },
+        {
+          "label": "E",
+          "text": "Southern blot with a radiolabeled probe"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "FISH is a targeted, a priori method ideal for confirming a suspected microdeletion such as 22q11.",
+        "whyCorrect": "The presentation (conotruncal heart defect, dysmorphism) suggests DiGeorge (22q11.2 deletion) syndrome. FISH uses a fluorescent probe designed for a known locus, so it can confirm a specific suspected microdeletion that is below the resolution of routine karyotyping.",
+        "whyWrongByChoice": {
+          "B": "A standard G-banded karyotype only resolves abnormalities larger than about 5-10 Mb and cannot detect a microdeletion.",
+          "C": "PCR amplifies DNA but is only one step in a genotyping workflow and does not by itself localize a chromosomal microdeletion.",
+          "D": "Parental karyotypes evaluate recurrent pregnancy loss and would not detect the child's submicroscopic deletion.",
+          "E": "Southern blot is a low-throughput historic method requiring large amounts of DNA and a radiolabeled probe; it is not the modern choice for a microdeletion."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "FISH",
+        "DiGeorge",
+        "microdeletion"
+      ],
+      "topicId": "molecular-biology-techniques-cytogenetics-b54",
+      "topicName": "Molecular Biology Techniques (1 of 3) - Cytogenetics",
+      "tier": "core"
+    },
+    {
+      "id": "bo54-002",
+      "stem": "A 2-month-old girl has poor feeding, recurrent vomiting, and failure to thrive. Examination shows microcephaly, epicanthal folds, and a cardiac murmur, and echocardiography reveals a ventricular septal defect. A G-banded karyotype is reported as normal 46,XX. Which technique is most likely to establish the diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Array comparative genomic hybridization"
+        },
+        {
+          "label": "B",
+          "text": "Northern blot of peripheral blood RNA"
+        },
+        {
+          "label": "C",
+          "text": "Repeat G-banded karyotype at higher resolution"
+        },
+        {
+          "label": "D",
+          "text": "Southern blot with a locus-specific probe"
+        },
+        {
+          "label": "E",
+          "text": "Western blot of a lymphocyte lysate"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Array CGH is an unbiased, genome-wide test that detects submicroscopic copy number variants missed by karyotyping.",
+        "whyCorrect": "With a normal karyotype but strong clinical suspicion of a congenital syndrome, array CGH can scan the whole genome and detect a small deletion (for example a ~1.5 Mb 7q11.23 deletion causing Williams syndrome) down to roughly 50-200 kb.",
+        "whyWrongByChoice": {
+          "B": "Northern blot detects RNA transcripts, not chromosomal copy number changes.",
+          "C": "Repeating the karyotype adds nothing, since a deletion this small is below its 5-10 Mb resolution.",
+          "D": "Southern blot is a targeted method for a known locus and cannot survey the genome for an unknown deletion.",
+          "E": "Western blot detects proteins and cannot identify a genomic deletion."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "array CGH",
+        "Williams syndrome",
+        "CNV"
+      ],
+      "topicId": "molecular-biology-techniques-cytogenetics-b54",
+      "topicName": "Molecular Biology Techniques (1 of 3) - Cytogenetics",
+      "tier": "core"
+    },
+    {
+      "id": "bo54-003",
+      "stem": "A genetics laboratory runs array CGH on a patient's DNA labeled with a red fluorophore against reference DNA labeled with a green fluorophore. At one microarray well, the scanner reports a fluorescence signal that is predominantly green. What does this finding indicate at that locus?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A balanced translocation"
+        },
+        {
+          "label": "B",
+          "text": "A deletion in the patient's DNA"
+        },
+        {
+          "label": "C",
+          "text": "A duplication in the patient's DNA"
+        },
+        {
+          "label": "D",
+          "text": "A point mutation"
+        },
+        {
+          "label": "E",
+          "text": "Normal copy number"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "In array CGH a green-dominant (weak red) signal means the patient's test DNA failed to bind, implying a deletion.",
+        "whyCorrect": "Test DNA is red and reference DNA is green. A weaker red signal relative to green means less patient DNA hybridized at that locus, indicating the sequence is deleted in the patient.",
+        "whyWrongByChoice": {
+          "A": "Array CGH cannot detect balanced translocations because copy number is unchanged.",
+          "C": "A duplication would give a stronger red (test) signal, not a predominantly green one.",
+          "D": "Array CGH measures copy number, not single-base substitutions.",
+          "E": "Normal copy number gives equal red and green, seen as a yellow signal."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "array CGH",
+        "fluorescence ratio",
+        "deletion"
+      ],
+      "topicId": "molecular-biology-techniques-cytogenetics-b54",
+      "topicName": "Molecular Biology Techniques (1 of 3) - Cytogenetics",
+      "tier": "core"
+    },
+    {
+      "id": "bo54-004",
+      "stem": "During karyotype preparation, cultured cells are treated with colchicine before the chromosomes are spread onto a slide. What is the purpose of this step?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "To arrest cell division at metaphase"
+        },
+        {
+          "label": "B",
+          "text": "To denature DNA into single strands"
+        },
+        {
+          "label": "C",
+          "text": "To digest histone proteins"
+        },
+        {
+          "label": "D",
+          "text": "To fluorescently label the probe"
+        },
+        {
+          "label": "E",
+          "text": "To stain AT-rich regions"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Colchicine arrests dividing cells in metaphase, when chromosomes are most condensed and best visualized.",
+        "whyCorrect": "Colchicine disrupts spindle microtubules and halts mitosis at metaphase, where chromosomes are maximally condensed, defined, and aligned at the equator, making them ideal for analysis.",
+        "whyWrongByChoice": {
+          "B": "Denaturation into single strands is a step in FISH, not chromosome arrest.",
+          "C": "Partial digestion of histones is done later with the protease trypsin, not colchicine.",
+          "D": "Fluorescent labeling applies to FISH probes, not to metaphase arrest.",
+          "E": "Staining of AT-rich regions is achieved with Giemsa, which produces dark bands."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "karyotype",
+        "colchicine",
+        "metaphase"
+      ],
+      "topicId": "molecular-biology-techniques-cytogenetics-b54",
+      "topicName": "Molecular Biology Techniques (1 of 3) - Cytogenetics",
+      "tier": "core"
+    },
+    {
+      "id": "bo54-005",
+      "stem": "A G-banded karyotype shows a chromosome region that stains as a dark band with Giemsa. Which description best characterizes this dark (G-positive) band?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A centromeric copy number gain"
+        },
+        {
+          "label": "B",
+          "text": "A region of active DNA replication"
+        },
+        {
+          "label": "C",
+          "text": "A site of a balanced translocation"
+        },
+        {
+          "label": "D",
+          "text": "AT-rich, gene-poor heterochromatin"
+        },
+        {
+          "label": "E",
+          "text": "GC-rich, gene-rich euchromatin with active transcription"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Dark G-positive bands are AT-rich, gene-poor heterochromatin where Giemsa binds strongly.",
+        "whyCorrect": "Giemsa binds more strongly to AT-rich DNA, producing dark bands that correspond to gene-poor heterochromatin. Light G-negative bands are GC-rich, gene-rich euchromatin.",
+        "whyWrongByChoice": {
+          "A": "Band color reflects DNA composition, not copy number changes.",
+          "B": "Banding reflects base composition and chromatin state, not sites of active replication.",
+          "C": "A dark band is a normal staining feature, not evidence of a translocation.",
+          "E": "GC-rich, gene-rich euchromatin corresponds to light (G-negative) bands, not dark bands."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "G-banding",
+        "heterochromatin",
+        "Giemsa"
+      ],
+      "topicId": "molecular-biology-techniques-cytogenetics-b54",
+      "topicName": "Molecular Biology Techniques (1 of 3) - Cytogenetics",
+      "tier": "core"
+    },
+    {
+      "id": "bo54-006",
+      "stem": "A karyotype from a male patient shows the short arm of chromosome 9 and the short arm of chromosome 22 exchanging material, with both chromosomes 9 and 22 altered and a normal Y chromosome present. Which abnormality is best described by these findings?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "t(9;22)(q11;p11)"
+        },
+        {
+          "label": "B",
+          "text": "Trisomy 21"
+        },
+        {
+          "label": "C",
+          "text": "del(22)(q11.2)"
+        },
+        {
+          "label": "D",
+          "text": "dup(22)(p23.3p23)"
+        },
+        {
+          "label": "E",
+          "text": "45,X (Turner syndrome)"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Involvement of two chromosomes (9 and 22) exchanging material indicates a reciprocal translocation.",
+        "whyCorrect": "Because two different chromosomes are altered, the finding is a translocation, t(9;22). A deletion, duplication, or aneuploidy each involves only a single chromosome or chromosome count.",
+        "whyWrongByChoice": {
+          "B": "Trisomy 21 involves an extra chromosome 21, not an exchange between chromosomes 9 and 22.",
+          "C": "A del(22) involves only chromosome 22, but here two chromosomes are affected.",
+          "D": "A dup(22) affects only one chromosome and would not be visible as an exchange between two.",
+          "E": "45,X (Turner syndrome) is excluded because a Y chromosome is visible in a male patient."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "karyotype",
+        "translocation",
+        "interpretation"
+      ],
+      "topicId": "molecular-biology-techniques-cytogenetics-b54",
+      "topicName": "Molecular Biology Techniques (1 of 3) - Cytogenetics",
+      "tier": "core"
+    },
+    {
+      "id": "bo54-007",
+      "stem": "A 13-year-old boy has progressive gait and limb ataxia, dysarthria, and cardiomyopathy. Genetic testing shows a very large GAA trinucleotide repeat expansion in intron 1 of the FXN gene that is too long to size reliably by conventional PCR. Which technique is best suited to accurately size this expansion?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Array CGH"
+        },
+        {
+          "label": "B",
+          "text": "FISH"
+        },
+        {
+          "label": "C",
+          "text": "G-banded karyotype"
+        },
+        {
+          "label": "D",
+          "text": "Southern blot"
+        },
+        {
+          "label": "E",
+          "text": "Western blot"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Southern blot can accurately size very large repeat expansions that exceed the limits of conventional PCR.",
+        "whyCorrect": "The clinical picture is Friedreich ataxia, caused by a GAA expansion in FXN. Southern blotting analyzes genomic DNA directly after restriction digestion and can size large expansions (as in Friedreich ataxia or myotonic dystrophy type 1) that are too long for standard PCR.",
+        "whyWrongByChoice": {
+          "A": "Array CGH detects copy number variants and would not size a repeat expansion.",
+          "B": "FISH detects copy number and location of a locus, not the length of a repeat expansion.",
+          "C": "A karyotype cannot resolve a trinucleotide repeat expansion within a gene.",
+          "E": "Western blot detects proteins, not DNA repeat length."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Southern blot",
+        "Friedreich ataxia",
+        "repeat expansion"
+      ],
+      "topicId": "molecular-biology-techniques-cytogenetics-b54",
+      "topicName": "Molecular Biology Techniques (1 of 3) - Cytogenetics",
+      "tier": "core"
+    },
+    {
+      "id": "bo54-008",
+      "stem": "A student asks why FISH is described as a targeted or a priori method. Which statement best explains this characteristic?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It can only be performed on interphase nuclei"
+        },
+        {
+          "label": "B",
+          "text": "It detects copy number variants across the whole genome without assumptions"
+        },
+        {
+          "label": "C",
+          "text": "It fluorescently labels the entire genome at once"
+        },
+        {
+          "label": "D",
+          "text": "It measures a red-to-green fluorescence ratio"
+        },
+        {
+          "label": "E",
+          "text": "It requires prior knowledge of the suspected abnormality to design a probe"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "FISH only reveals suspected abnormalities because a probe must be designed for a known target sequence.",
+        "whyCorrect": "FISH is targeted: the probe is a short single-stranded DNA sequence complementary to a specific locus. Because the probe must be designed in advance, FISH requires prior knowledge of the suspected abnormality and detects only what it was designed to find.",
+        "whyWrongByChoice": {
+          "A": "FISH can be performed on metaphase chromosomes or interphase nuclei.",
+          "B": "Unbiased genome-wide, assumption-free detection describes array CGH, not FISH.",
+          "C": "FISH labels specific target sequences, not the entire genome indiscriminately.",
+          "D": "The red-to-green fluorescence ratio is the readout of array CGH, not FISH."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "FISH",
+        "targeted method",
+        "probe"
+      ],
+      "topicId": "molecular-biology-techniques-cytogenetics-b54",
+      "topicName": "Molecular Biology Techniques (1 of 3) - Cytogenetics",
+      "tier": "core"
+    },
+    {
+      "id": "bo54-009",
+      "stem": "A couple with recurrent pregnancy loss is referred for evaluation. The clinician explains that a particular class of chromosomal abnormality is over-represented in this setting and can be identified by testing the chromosomes of each partner. Which technique is used for this evaluation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Array CGH"
+        },
+        {
+          "label": "B",
+          "text": "G-banded karyotype"
+        },
+        {
+          "label": "C",
+          "text": "PCR"
+        },
+        {
+          "label": "D",
+          "text": "Southern blot"
+        },
+        {
+          "label": "E",
+          "text": "Western blot"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Karyotype testing of couples detects balanced translocations, a major cause of recurrent pregnancy loss.",
+        "whyCorrect": "Karyotype testing is part of the evaluation of recurrent pregnancy loss because balanced reciprocal and Robertsonian translocations are the major abnormalities identified, and these balanced rearrangements are visible on a karyotype.",
+        "whyWrongByChoice": {
+          "A": "Array CGH cannot detect balanced translocations because they do not change copy number.",
+          "C": "PCR amplifies specific sequences and does not visualize whole-chromosome rearrangements.",
+          "D": "Southern blot is a targeted single-locus method, not a survey for translocations.",
+          "E": "Western blot detects proteins and is irrelevant to chromosomal rearrangements."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "karyotype",
+        "translocation",
+        "recurrent pregnancy loss"
+      ],
+      "topicId": "molecular-biology-techniques-cytogenetics-b54",
+      "topicName": "Molecular Biology Techniques (1 of 3) - Cytogenetics",
+      "tier": "core"
+    },
+    {
+      "id": "bo54-010",
+      "stem": "A clinician wants an unbiased test that scans the entire genome for copy number variants as small as approximately 50-200 kilobases in a child with intellectual disability. However, the clinician is warned that the test cannot detect one important type of abnormality. Which abnormality will this test miss?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A balanced reciprocal translocation"
+        },
+        {
+          "label": "B",
+          "text": "A duplication of a 200-kilobase genomic segment"
+        },
+        {
+          "label": "C",
+          "text": "A heterozygous 100-kilobase microdeletion"
+        },
+        {
+          "label": "D",
+          "text": "A homozygous deletion of an entire gene"
+        },
+        {
+          "label": "E",
+          "text": "A three-copy duplication of one gene"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Array CGH is high-resolution and genome-wide but cannot detect balanced rearrangements.",
+        "whyCorrect": "Array CGH measures copy number, so it detects deletions and duplications genome-wide. A balanced reciprocal translocation does not change the amount of DNA, so it produces a normal (yellow) ratio and is missed.",
+        "whyWrongByChoice": {
+          "B": "A duplication increases copy number and gives a red-dominant signal on array CGH.",
+          "C": "A heterozygous microdeletion reduces copy number and is readily detected by array CGH.",
+          "D": "A homozygous deletion is a strong copy number loss and is detected by array CGH.",
+          "E": "A three-copy duplication is a copy number gain and is detected as a +1 dosage change."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "array CGH",
+        "limitations",
+        "balanced translocation"
+      ],
+      "topicId": "molecular-biology-techniques-cytogenetics-b54",
+      "topicName": "Molecular Biology Techniques (1 of 3) - Cytogenetics",
+      "tier": "core"
+    },
+    {
+      "id": "bo54-011",
+      "stem": "A FISH assay for the 22q11 region uses two probes: an ARSA control probe (green) located outside the deleted region and a TUPLE1 probe (red) located at 22q11. In the patient's cells, two green signals are seen but only one red signal is observed. What does this result indicate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A 22q11 duplication on one homolog"
+        },
+        {
+          "label": "B",
+          "text": "A heterozygous 22q11 deletion"
+        },
+        {
+          "label": "C",
+          "text": "A homozygous 22q11 deletion on both homologs"
+        },
+        {
+          "label": "D",
+          "text": "A normal 22q11 region on both copies"
+        },
+        {
+          "label": "E",
+          "text": "Trisomy 22 with three chromosome copies"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "One red signal with two control signals indicates loss of one copy of the target region, a heterozygous deletion.",
+        "whyCorrect": "The control (green) probe marks both copies of chromosome 22, while the target (red) probe marks 22q11. Two green signals confirm both chromosomes 22 are present; a single red signal shows the 22q11 region is missing on one of them, a heterozygous deletion.",
+        "whyWrongByChoice": {
+          "A": "A duplication would produce an extra red signal, not a reduced number.",
+          "C": "A homozygous deletion would show no red signal at all, not one.",
+          "D": "A normal region would show two red signals matching the two green controls.",
+          "E": "Trisomy 22 would show three green control signals from three copies of chromosome 22."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "FISH",
+        "22q11 deletion",
+        "signal interpretation"
+      ],
+      "topicId": "molecular-biology-techniques-cytogenetics-b54",
+      "topicName": "Molecular Biology Techniques (1 of 3) - Cytogenetics",
+      "tier": "core"
+    },
+    {
+      "id": "bo54-012",
+      "stem": "A 4-year-old girl with developmental delay is evaluated. The physician wants a single test that can visualize all chromosomes arranged in pairs to assess both chromosome number and gross structure. Which technique meets this description?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "FISH"
+        },
+        {
+          "label": "B",
+          "text": "Karyotyping"
+        },
+        {
+          "label": "C",
+          "text": "PCR"
+        },
+        {
+          "label": "D",
+          "text": "SNP microarray"
+        },
+        {
+          "label": "E",
+          "text": "Southern blot"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Karyotyping visualizes all chromosomes in pairs to assess number and structure.",
+        "whyCorrect": "A karyotype arranges all chromosomes into pairs by size and banding pattern (1-22 plus the sex chromosomes), allowing assessment of both numerical and gross structural abnormalities in a single view.",
+        "whyWrongByChoice": {
+          "A": "FISH targets specific loci with probes and does not display all chromosomes as pairs.",
+          "C": "PCR amplifies specific DNA sequences and does not visualize chromosomes.",
+          "D": "A SNP microarray detects single-nucleotide polymorphisms and copy number, not a whole-chromosome image.",
+          "E": "Southern blot analyzes a specific DNA fragment and cannot visualize whole chromosomes."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "karyotype",
+        "chromosome visualization",
+        "developmental delay"
+      ],
+      "topicId": "molecular-biology-techniques-cytogenetics-b54",
       "topicName": "Molecular Biology Techniques (1 of 3) - Cytogenetics",
       "tier": "core"
     }

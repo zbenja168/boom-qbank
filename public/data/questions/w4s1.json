@@ -1,0 +1,1137 @@
+{
+  "categoryId": "w4s1",
+  "categoryName": "Session 1",
+  "questions": [
+    {
+      "id": "bo25-001",
+      "stem": "A 9-year-old boy with type 1 diabetes mellitus develops severe hypoglycemia and is given a glucagon rescue injection. Glucagon is released from the pancreas, travels through the bloodstream, and acts on distant hepatocytes to raise blood glucose. Which type of cell signaling does this therapy exploit?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Autocrine signaling"
+        },
+        {
+          "label": "B",
+          "text": "Endocrine signaling"
+        },
+        {
+          "label": "C",
+          "text": "Juxtacrine signaling"
+        },
+        {
+          "label": "D",
+          "text": "Paracrine signaling"
+        },
+        {
+          "label": "E",
+          "text": "Synaptic signaling"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Hormones carried through the blood to act on distant target cells define endocrine signaling.",
+        "whyCorrect": "Glucagon is a peptide hormone secreted into the bloodstream that travels to distant hepatocytes to stimulate glucose release. Signaling that induces a response in cells at a separate, distant location via the blood is by definition endocrine signaling.",
+        "whyWrongByChoice": {
+          "A": "Autocrine signaling occurs when a cell secretes a ligand that binds its own receptors, not distant hepatocytes.",
+          "C": "Juxtacrine signaling requires direct physical contact between adjacent cells through gap junctions or membrane-bound ligands.",
+          "D": "Paracrine signaling acts on nearby local cells by local diffusion, not on distant organs via the blood.",
+          "E": "Synaptic signaling releases neurotransmitters across a synaptic cleft between neurons, not hormones into the blood."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "signaling paradigms",
+        "endocrine",
+        "glucagon"
+      ],
+      "topicId": "overview-of-cell-signaling",
+      "topicName": "Overview of Cell Signaling",
+      "tier": "core"
+    },
+    {
+      "id": "bo25-002",
+      "stem": "A 24-year-old woman with allergic asthma inhales an allergen. Mast cells in the airway wall release histamine, which acts on immediately adjacent smooth muscle and blood vessels to cause local bronchoconstriction and vasodilation. Which mode of cell signaling best describes the action of the released histamine?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Autocrine signaling"
+        },
+        {
+          "label": "B",
+          "text": "Endocrine signaling"
+        },
+        {
+          "label": "C",
+          "text": "Juxtacrine signaling"
+        },
+        {
+          "label": "D",
+          "text": "Paracrine signaling"
+        },
+        {
+          "label": "E",
+          "text": "Synaptic signaling"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "A mediator that diffuses a short distance to act on nearby cells is paracrine signaling.",
+        "whyCorrect": "Paracrine signaling propagates a signal to nearby cells. Histamine released from mast cells diffuses locally to act on adjacent smooth muscle and vascular cells, exactly the example the brick gives for paracrine inflammatory mediators.",
+        "whyWrongByChoice": {
+          "A": "Autocrine signaling would require histamine to bind receptors on the same mast cell that released it.",
+          "B": "Endocrine signaling delivers hormones through the bloodstream to distant target cells, not to immediately adjacent tissue.",
+          "C": "Juxtacrine signaling requires direct membrane contact or gap junctions rather than a diffusible mediator.",
+          "E": "Synaptic signaling involves neurotransmitter release across a synaptic cleft between neurons."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "signaling paradigms",
+        "paracrine",
+        "histamine"
+      ],
+      "topicId": "overview-of-cell-signaling",
+      "topicName": "Overview of Cell Signaling",
+      "tier": "core"
+    },
+    {
+      "id": "bo25-003",
+      "stem": "A researcher exposes a person to the nerve agent sarin. Sarin inhibits acetylcholinesterase in the cleft between a nerve terminal and its target cell, preventing hydrolysis of the neurotransmitter and leading to convulsions, paralysis, and cardiac arrest. The normal signaling process disrupted by sarin is an example of which type of cell communication?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Autocrine signaling"
+        },
+        {
+          "label": "B",
+          "text": "Endocrine signaling"
+        },
+        {
+          "label": "C",
+          "text": "Juxtacrine signaling"
+        },
+        {
+          "label": "D",
+          "text": "Paracrine signaling"
+        },
+        {
+          "label": "E",
+          "text": "Synaptic signaling"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Neurotransmitter release across a synaptic cleft, terminated by acetylcholinesterase, defines synaptic signaling.",
+        "whyCorrect": "Synaptic signaling occurs when chemical signals are released from a presynaptic terminal into the synaptic cleft to bind a postsynaptic membrane. Acetylcholinesterase normally terminates the signal; sarin blocks this cessation, causing sustained neurotransmission.",
+        "whyWrongByChoice": {
+          "A": "Autocrine signaling occurs when a cell responds to a ligand it secreted itself.",
+          "B": "Endocrine signaling delivers hormones through the blood to distant cells.",
+          "C": "Juxtacrine signaling requires direct physical contact between cells rather than a cleft-crossing transmitter.",
+          "D": "Paracrine signaling uses diffusible mediators acting on nearby cells, not neurotransmitters at a defined synapse."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "signaling paradigms",
+        "synaptic",
+        "acetylcholinesterase"
+      ],
+      "topicId": "overview-of-cell-signaling",
+      "topicName": "Overview of Cell Signaling",
+      "tier": "core"
+    },
+    {
+      "id": "bo25-004",
+      "stem": "A steroid hormone derived from cholesterol is administered to a cultured cell. Because of its chemical nature, this hormone readily crosses the plasma membrane and binds a receptor that then regulates gene transcription. Which type of receptor most likely binds this ligand?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "G protein-coupled receptor"
+        },
+        {
+          "label": "B",
+          "text": "Ligand-gated ion channel"
+        },
+        {
+          "label": "C",
+          "text": "Nuclear receptor"
+        },
+        {
+          "label": "D",
+          "text": "Receptor tyrosine kinase"
+        },
+        {
+          "label": "E",
+          "text": "Serine/threonine kinase receptor"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Lipophilic, cholesterol-derived hormones cross the membrane and act through intracellular nuclear receptors.",
+        "whyCorrect": "Steroid hormones are lipophilic and readily cross the lipid bilayer, so they are detected by intracellular nuclear receptors that act as ligand-activated transcription factors, binding DNA to regulate gene expression.",
+        "whyWrongByChoice": {
+          "A": "GPCRs are cell-surface receptors for hydrophilic ligands and signal through second messengers.",
+          "B": "Ligand-gated ion channels sit in the membrane and open in response to polar extracellular ligands.",
+          "D": "Receptor tyrosine kinases are cell-surface receptors for polar ligands such as growth factors that cannot passively cross the membrane.",
+          "E": "Serine/threonine kinase receptors are membrane enzyme-linked receptors for peptide ligands such as TGF-beta."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "hormones",
+        "nuclear receptor",
+        "steroid"
+      ],
+      "topicId": "overview-of-cell-signaling",
+      "topicName": "Overview of Cell Signaling",
+      "tier": "core"
+    },
+    {
+      "id": "bo25-005",
+      "stem": "A peptide hormone binds its receptor on the surface of a target cell but does not enter the cytoplasm. To generate a cellular response, the cell must produce low-molecular-weight intracellular molecules that propagate and amplify the external signal. What is the fundamental reason a peptide hormone signals in this indirect manner rather than binding an intracellular receptor?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It is an iodinated amine that binds nuclear receptors"
+        },
+        {
+          "label": "B",
+          "text": "It is degraded by phosphodiesterases before entering the cell"
+        },
+        {
+          "label": "C",
+          "text": "It is hydrophilic and too large to passively cross the membrane"
+        },
+        {
+          "label": "D",
+          "text": "It is lipophilic and freely diffuses across the bilayer"
+        },
+        {
+          "label": "E",
+          "text": "It is synthesized directly from cholesterol"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Hydrophilic, large peptide hormones cannot cross the membrane, so they use surface receptors and second messengers.",
+        "whyCorrect": "Peptide/protein hormones are substantially larger and polar, which along with their hydrophilic nature impedes passive diffusion into the cell. They must bind cell-surface receptors that trigger second messengers to propagate and amplify the signal internally.",
+        "whyWrongByChoice": {
+          "A": "Thyroid hormones are iodinated amines that use nuclear receptors, but peptide hormones are a different class.",
+          "B": "Phosphodiesterases degrade second messengers such as cAMP, not the extracellular peptide hormone itself.",
+          "D": "Peptide hormones are hydrophilic, not lipophilic, and cannot freely diffuse across the bilayer.",
+          "E": "Cholesterol-derived hormones are steroids, which are lipophilic and use nuclear receptors, unlike peptide hormones."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "hormones",
+        "second messengers",
+        "receptor reception"
+      ],
+      "topicId": "overview-of-cell-signaling",
+      "topicName": "Overview of Cell Signaling",
+      "tier": "core"
+    },
+    {
+      "id": "bo25-006",
+      "stem": "Epinephrine binds a beta-adrenergic G protein-coupled receptor. The receptor acts as a guanine nucleotide exchange factor on the associated Galpha subunit, which then dissociates and stimulates adenylate cyclase. Which molecule, when bound to the Galpha subunit, promotes this activation of adenylate cyclase?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "ATP"
+        },
+        {
+          "label": "B",
+          "text": "cAMP"
+        },
+        {
+          "label": "C",
+          "text": "GDP"
+        },
+        {
+          "label": "D",
+          "text": "GTP"
+        },
+        {
+          "label": "E",
+          "text": "Inositol triphosphate (IP3)"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "GTP-bound Galpha dissociates from the receptor and Gbeta-gamma to activate adenylate cyclase.",
+        "whyCorrect": "On activation, the GPCR catalyzes exchange of GDP for GTP on Galpha. The GTP-bound Galpha subunit dissociates from the beta-gamma subunits and activates adenylate cyclase to generate cAMP, propagating the signal.",
+        "whyWrongByChoice": {
+          "A": "ATP is the substrate adenylate cyclase converts into cAMP, not the molecule that binds and activates Galpha.",
+          "B": "cAMP is the downstream second messenger produced after Galpha activates adenylate cyclase, not the activating nucleotide.",
+          "C": "GDP-bound Galpha is the inactive state formed after intrinsic GTPase hydrolysis shuts the pathway off.",
+          "E": "IP3 is a second messenger of the Gq/phospholipase C pathway, not the nucleotide that activates Galpha-s."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "GPCR",
+        "G protein",
+        "GTP"
+      ],
+      "topicId": "overview-of-cell-signaling",
+      "topicName": "Overview of Cell Signaling",
+      "tier": "core"
+    },
+    {
+      "id": "bo25-007",
+      "stem": "A patient chronically consumes large amounts of caffeine, a methylxanthine that inhibits phosphodiesterase. As a result, the intracellular second messenger that normally activates protein kinase A has a prolonged half-life, sustaining alertness and increased heart rate. Which second messenger accumulates due to this phosphodiesterase inhibition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Calcium ions (Ca2+)"
+        },
+        {
+          "label": "B",
+          "text": "cAMP"
+        },
+        {
+          "label": "C",
+          "text": "Diacylglycerol (DAG)"
+        },
+        {
+          "label": "D",
+          "text": "Inositol triphosphate (IP3)"
+        },
+        {
+          "label": "E",
+          "text": "Nitric oxide (NO)"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Phosphodiesterases hydrolyze cyclic nucleotides; inhibiting them prolongs cAMP signaling and PKA activation.",
+        "whyCorrect": "cAMP is a cyclic purine mononucleotide that activates PKA and is normally destroyed by phosphodiesterases. Caffeine inhibits PDE, prolonging the cAMP half-life to sustain downstream effects such as alertness and increased heart rate.",
+        "whyWrongByChoice": {
+          "A": "Calcium ions are released from ER/SR stores and cleared by SERCA pumps, not by phosphodiesterase.",
+          "C": "DAG is generated by phospholipase C cleaving PIP2 and activates PKC; it is not degraded by phosphodiesterase.",
+          "D": "IP3 is a phospholipase C product that releases calcium and is not a cyclic nucleotide targeted by phosphodiesterase.",
+          "E": "Nitric oxide is a gas generated from arginine; it is not a cyclic nucleotide broken down by phosphodiesterase."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "second messengers",
+        "cAMP",
+        "phosphodiesterase"
+      ],
+      "topicId": "overview-of-cell-signaling",
+      "topicName": "Overview of Cell Signaling",
+      "tier": "core"
+    },
+    {
+      "id": "bo25-008",
+      "stem": "A patient develops profuse watery diarrhea and dehydration after infection with Vibrio cholerae. Cholera toxin covalently modifies a specific Galpha subunit, preventing GTP hydrolysis so the subunit is constitutively active, leading to sustained cAMP production, PKA activation, and chloride efflux into the gut lumen. Which Galpha subunit does cholera toxin lock in the active state?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Galpha-12/13"
+        },
+        {
+          "label": "B",
+          "text": "Galpha-i"
+        },
+        {
+          "label": "C",
+          "text": "Galpha-q"
+        },
+        {
+          "label": "D",
+          "text": "Galpha-s"
+        },
+        {
+          "label": "E",
+          "text": "The Gbeta-gamma complex"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Cholera toxin constitutively activates Galpha-s, driving unregulated cAMP production.",
+        "whyCorrect": "Cholera toxin covalently alters Galpha-s to prevent GTP hydrolysis, keeping it permanently active. The prolonged cAMP and PKA activity opens chloride channels; ion efflux draws water into the gut lumen, causing the severe secretory diarrhea of cholera.",
+        "whyWrongByChoice": {
+          "A": "Galpha-12/13 activates Rho kinases for cytoskeletal remodeling, unrelated to cholera toxin.",
+          "B": "Galpha-i is the target of pertussis toxin, which inhibits an inhibitor of adenylate cyclase, a different mechanism.",
+          "C": "Galpha-q activates phospholipase C to make IP3 and DAG and is not the cholera toxin target.",
+          "E": "The Gbeta-gamma complex modulates ion channels such as GIRK; it is not covalently modified by cholera toxin."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "G protein",
+        "cholera toxin",
+        "Galpha-s"
+      ],
+      "topicId": "overview-of-cell-signaling",
+      "topicName": "Overview of Cell Signaling",
+      "tier": "core"
+    },
+    {
+      "id": "bo25-009",
+      "stem": "Pertussis toxin from Bordetella pertussis ADP-ribosylates a Galpha subunit, effectively inhibiting an inhibitor of adenylate cyclase. This raises intracellular cAMP and impairs leukocyte function, helping the bacterium evade immune-mediated destruction. Which Galpha subunit is modified by pertussis toxin?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Galpha-12/13"
+        },
+        {
+          "label": "B",
+          "text": "Galpha-i"
+        },
+        {
+          "label": "C",
+          "text": "Galpha-q"
+        },
+        {
+          "label": "D",
+          "text": "Galpha-s"
+        },
+        {
+          "label": "E",
+          "text": "RhoA"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Pertussis toxin inactivates Galpha-i, removing inhibition of adenylate cyclase and raising cAMP.",
+        "whyCorrect": "The Galpha-i subtype normally blocks adenylate cyclase activation. Pertussis toxin modifies Galpha-i, inhibiting this inhibitor, which increases cAMP and impairs leukocyte function so the bacterium escapes immune clearance.",
+        "whyWrongByChoice": {
+          "A": "Galpha-12/13 drives Rho-mediated cytoskeletal remodeling and is unrelated to pertussis toxin.",
+          "C": "Galpha-q signals through phospholipase C to produce IP3 and DAG and is not the pertussis toxin target.",
+          "D": "Galpha-s stimulates adenylate cyclase directly and is the target of cholera toxin, not pertussis toxin.",
+          "E": "RhoA is a small G-protein downstream of Galpha-12/13, not a heterotrimeric Galpha subunit modified by the toxin."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "G protein",
+        "pertussis toxin",
+        "Galpha-i"
+      ],
+      "topicId": "overview-of-cell-signaling",
+      "topicName": "Overview of Cell Signaling",
+      "tier": "core"
+    },
+    {
+      "id": "bo25-010",
+      "stem": "A 55-year-old man with obesity has recently developed insulin resistance and early type 2 diabetes. Insulin levels are normal or elevated, but the downstream metabolic signaling cascade is blunted. The insulin receptor is an atypical predimerized receptor tyrosine kinase whose metabolic effects depend on a PI3-kinase pathway. Which parameter is most likely decreased in this patient?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Activity of nuclear thyroid receptors"
+        },
+        {
+          "label": "B",
+          "text": "Insulin receptor dimerization"
+        },
+        {
+          "label": "C",
+          "text": "Insulin secretion from pancreatic beta cells"
+        },
+        {
+          "label": "D",
+          "text": "Phosphorylation of PKB/Akt"
+        },
+        {
+          "label": "E",
+          "text": "Synthesis of cAMP"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Blunted insulin signaling reduces downstream PKB/Akt phosphorylation, impairing metabolic responses.",
+        "whyCorrect": "Insulin's metabolic branch depends on PIP3-mediated recruitment and PDK1 phosphorylation of PKB/Akt. When insulin signaling is compromised, PKB/Akt activation via phosphorylation falls, reducing GLUT4 translocation and glucose uptake.",
+        "whyWrongByChoice": {
+          "A": "Nuclear thyroid receptor activity is unrelated to insulin receptor tyrosine kinase signaling.",
+          "B": "The insulin receptor is already predimerized (linked by disulfide bonds), so dimerization is not the limiting step.",
+          "C": "Insulin is present or elevated in insulin resistance, so secretion is not decreased at onset.",
+          "E": "cAMP is produced from GPCR-mediated signaling; the insulin receptor signals through an RTK pathway instead."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "insulin receptor",
+        "RTK",
+        "PKB/Akt"
+      ],
+      "topicId": "overview-of-cell-signaling",
+      "topicName": "Overview of Cell Signaling",
+      "tier": "core"
+    },
+    {
+      "id": "bo25-011",
+      "stem": "In a research experiment, a ligand is applied to cells expressing a Gq-coupled GPCR, both with and without a SERCA inhibitor. Gq activates phospholipase C, generating IP3 and DAG; IP3 releases intracellular calcium that activates protein kinase C. Compared with cells that have functional SERCA, which parameter is most prolonged in the cells treated with the SERCA inhibitor?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Calmodulin inactivation"
+        },
+        {
+          "label": "B",
+          "text": "cAMP half-life"
+        },
+        {
+          "label": "C",
+          "text": "Phosphorylation of PKB/Akt"
+        },
+        {
+          "label": "D",
+          "text": "Protein kinase C activation"
+        },
+        {
+          "label": "E",
+          "text": "Rho-associated kinase (ROCK) activity"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "SERCA normally clears cytosolic calcium; inhibiting it keeps calcium high and prolongs PKC activation.",
+        "whyCorrect": "Gq signaling activates phospholipase C to make IP3 and DAG; IP3 releases calcium that, with DAG, activates PKC. SERCA pumps calcium back into the ER/SR to terminate the signal, so a SERCA inhibitor keeps cytosolic calcium elevated and prolongs PKC activation.",
+        "whyWrongByChoice": {
+          "A": "Sustained high calcium would promote calmodulin activation, not inactivation, the opposite of this option.",
+          "B": "cAMP is produced by the Galpha-s/adenylate cyclase pathway, not by Gq-driven phospholipase C signaling.",
+          "C": "PKB/Akt phosphorylation is part of insulin receptor tyrosine kinase signaling, not Gq/calcium signaling.",
+          "E": "ROCK is activated downstream of Galpha-12/13 and RhoA, not by Gq-mediated calcium release."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "Galpha-q",
+        "second messengers",
+        "calcium",
+        "PKC"
+      ],
+      "topicId": "overview-of-cell-signaling",
+      "topicName": "Overview of Cell Signaling",
+      "tier": "core"
+    },
+    {
+      "id": "bo25-012",
+      "stem": "A 68-year-old man with stable angina places a sublingual nitroglycerine tablet under his tongue during chest pain. Nitroglycerine increases production of a gaseous signaling molecule that diffuses into vascular smooth muscle, activates cytosolic guanylate cyclase to produce cGMP, and causes vasodilation. Which molecule directly mediates this smooth muscle relaxation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "cAMP"
+        },
+        {
+          "label": "B",
+          "text": "Diacylglycerol (DAG)"
+        },
+        {
+          "label": "C",
+          "text": "Epinephrine"
+        },
+        {
+          "label": "D",
+          "text": "Inositol triphosphate (IP3)"
+        },
+        {
+          "label": "E",
+          "text": "Nitric oxide"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Nitroglycerine raises nitric oxide, which activates guanylate cyclase to make cGMP and relax vascular smooth muscle.",
+        "whyCorrect": "Nitric oxide is a gas that freely diffuses across membranes to activate cytosolic guanylate cyclase, producing cGMP that stimulates smooth muscle relaxation and vasodilation. This relieves the pain of angina, the mechanism behind sublingual nitroglycerine.",
+        "whyWrongByChoice": {
+          "A": "cAMP is generated by adenylate cyclase downstream of Galpha-s and is not the gaseous mediator produced by nitroglycerine.",
+          "B": "DAG is a membrane-anchored phospholipase C product that activates PKC, not a diffusible vasodilating gas.",
+          "C": "Epinephrine is a catecholamine ligand acting on adrenergic GPCRs, not the molecule generated by nitroglycerine.",
+          "D": "IP3 releases intracellular calcium and is not the gas that activates guanylate cyclase in this pathway."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "second messengers",
+        "nitric oxide",
+        "cGMP",
+        "vasodilation"
+      ],
+      "topicId": "overview-of-cell-signaling",
+      "topicName": "Overview of Cell Signaling",
+      "tier": "core"
+    },
+    {
+      "id": "bo26-001",
+      "stem": "A 62-year-old woman with chronic kidney disease and symptomatic anemia is started on epoetin (recombinant erythropoietin) to stimulate red blood cell production. Erythropoietin binds a receptor that lacks intrinsic catalytic activity. Through which of the following mechanisms does this receptor most likely propagate its intracellular signal?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A G-alpha-s subunit that activates adenylate cyclase"
+        },
+        {
+          "label": "B",
+          "text": "An associated Janus kinase that phosphorylates STAT proteins"
+        },
+        {
+          "label": "C",
+          "text": "IKK-mediated phosphorylation and degradation of IkB"
+        },
+        {
+          "label": "D",
+          "text": "Intrinsic receptor autophosphorylation on cytoplasmic tyrosines"
+        },
+        {
+          "label": "E",
+          "text": "Receptor kinase phosphorylation of SMAD transcription factors"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Cytokine receptors such as the EPO receptor lack intrinsic kinase activity and rely on Janus kinases (JAKs) to phosphorylate STATs.",
+        "whyCorrect": "The EPO receptor is a hematopoietic cytokine receptor without catalytic activity of its own. Ligand binding brings associated JAKs into proximity so they phosphorylate the receptor and then STAT proteins, which dimerize and translocate to the nucleus to act as transcription factors driving RBC differentiation.",
+        "whyWrongByChoice": {
+          "A": "G-alpha-s activation of adenylate cyclase is a GPCR/cAMP mechanism, not the cytokine-receptor pathway used by EPO.",
+          "C": "IKK-mediated IkB degradation liberates NF-kB and is downstream of TNF-alpha, not EPO.",
+          "D": "Intrinsic autophosphorylation describes receptor tyrosine kinases (e.g., the EGF receptor), which possess catalytic activity the EPO receptor lacks.",
+          "E": "SMAD phosphorylation is characteristic of serine/threonine receptor kinases such as the TGF-beta receptor."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "JAK-STAT",
+        "erythropoietin",
+        "cytokine receptors"
+      ],
+      "topicId": "overview-of-cell-signaling-2",
+      "topicName": "Overview of Cell Signaling (2 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "bo26-002",
+      "stem": "A researcher studies how oxygen availability controls erythropoietin (EPO) production. Under well-oxygenated (normoxic) conditions, EPO gene expression is kept low. Which of the following best explains why EPO levels remain low when tissue oxygen is normal?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Gene amplification increases the number of EPO gene copies"
+        },
+        {
+          "label": "B",
+          "text": "HIF-1-alpha dimerizes with HIF-beta and binds the hypoxia response element"
+        },
+        {
+          "label": "C",
+          "text": "HIF-1-alpha is hydroxylated, bound by VHL, and degraded by the proteasome"
+        },
+        {
+          "label": "D",
+          "text": "JAK2 constitutively phosphorylates STAT independent of ligand"
+        },
+        {
+          "label": "E",
+          "text": "Prolyl hydroxylases are inactivated, stabilizing HIF-1-alpha"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "In normoxia, oxygen-dependent prolyl hydroxylases mark HIF-1-alpha for VHL-mediated ubiquitination and proteasomal degradation, keeping EPO low.",
+        "whyCorrect": "When oxygen is abundant, prolyl hydroxylases (PHDs) hydroxylate HIF-1-alpha. Hydroxylated HIF-1-alpha is recognized by the von Hippel-Lindau (VHL) protein, which promotes ubiquitination and proteasomal degradation, preventing transcription of hypoxia genes like EPO.",
+        "whyWrongByChoice": {
+          "A": "Gene amplification is an overexpression mechanism seen in cancers such as HER2+ breast cancer, not physiologic EPO regulation.",
+          "B": "Dimerization of HIF-1-alpha with HIF-beta at the hypoxia response element occurs during hypoxia to raise EPO, not in normoxia.",
+          "D": "Constitutive JAK2 signaling describes polycythemia vera, not the normal oxygen-sensing regulation of EPO.",
+          "E": "PHDs are oxygen-dependent and active in normoxia; their inactivation stabilizes HIF-1-alpha and occurs during hypoxia."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "HIF-1-alpha",
+        "VHL",
+        "hypoxia",
+        "erythropoietin"
+      ],
+      "topicId": "overview-of-cell-signaling-2",
+      "topicName": "Overview of Cell Signaling (2 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "bo26-003",
+      "stem": "A 59-year-old man reports intense itching after hot showers, facial redness, and headaches. Laboratory studies show an elevated red blood cell count, and genetic testing identifies a JAK2 V617F mutation. This mutation causes constitutive signaling that mimics the binding of which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Alpha-melanocyte stimulating hormone"
+        },
+        {
+          "label": "B",
+          "text": "Erythropoietin"
+        },
+        {
+          "label": "C",
+          "text": "Fibroblast growth factor"
+        },
+        {
+          "label": "D",
+          "text": "Transforming growth factor-beta"
+        },
+        {
+          "label": "E",
+          "text": "Tumor necrosis factor-alpha"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Polycythemia vera results from a JAK2 mutation that constitutively activates the JAK-STAT pathway normally triggered by erythropoietin.",
+        "whyCorrect": "The clinical picture—elevated RBCs, aquagenic pruritus, plethora—is polycythemia vera, driven by JAK2 V617F. Because JAK2 relays erythropoietin signaling to promote RBC production, constitutive JAK2 activity mimics ongoing EPO stimulation even without ligand.",
+        "whyWrongByChoice": {
+          "A": "Alpha-MSH signals through MC1R/cAMP for melanin production, not JAK2-driven erythropoiesis.",
+          "C": "Fibroblast growth factor acts through FGFR-3 in bone growth (achondroplasia), unrelated to RBC overproduction.",
+          "D": "TGF-beta signals through SMAD proteins and is not the ligand relayed by JAK2 in erythropoiesis.",
+          "E": "TNF-alpha activates the NF-kB inflammatory cascade, not the erythropoietic JAK2/STAT pathway."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "polycythemia vera",
+        "JAK2",
+        "erythropoietin"
+      ],
+      "topicId": "overview-of-cell-signaling-2",
+      "topicName": "Overview of Cell Signaling (2 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "bo26-004",
+      "stem": "A 47-year-old man presents with fatigue, splenomegaly, and a markedly elevated white blood cell count. Cytogenetics reveal a t(9;22) translocation. The resulting fusion gene produces a protein that drives his disease. Which of the following best describes the pathologic protein?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A constitutively active G-alpha-s subunit driving cAMP excess"
+        },
+        {
+          "label": "B",
+          "text": "A constitutively active nonreceptor cytosolic tyrosine kinase"
+        },
+        {
+          "label": "C",
+          "text": "A soluble decoy receptor lacking any intracellular signaling domain"
+        },
+        {
+          "label": "D",
+          "text": "A transcription factor with a phosphomimetic amino-acid substitution"
+        },
+        {
+          "label": "E",
+          "text": "An overexpressed receptor tyrosine kinase at the cell surface"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The Philadelphia chromosome fuses BCR and ABL, yielding a constitutively active nonreceptor tyrosine kinase that drives chronic myeloid leukemia.",
+        "whyCorrect": "The t(9;22) translocation joins the ABL gene—encoding a freely diffusible cytosolic (nonreceptor) tyrosine kinase—to BCR. The BCR-ABL fusion retains full kinase activity but loses regulatory sites, causing constitutive pro-growth signaling and CML.",
+        "whyWrongByChoice": {
+          "A": "A constitutively active G-alpha-s subunit characterizes McCune-Albright syndrome, not CML.",
+          "C": "A soluble decoy receptor describes etanercept, a therapeutic, not the leukemogenic fusion protein.",
+          "D": "The BCR-ABL defect is a gross structural fusion, not a single phosphomimetic amino-acid substitution in a transcription factor.",
+          "E": "ABL is explicitly not a receptor tyrosine kinase; it is a cytoplasmic protein, and the defect is a fusion, not overexpression."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Philadelphia chromosome",
+        "BCR-ABL",
+        "CML"
+      ],
+      "topicId": "overview-of-cell-signaling-2",
+      "topicName": "Overview of Cell Signaling (2 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "bo26-005",
+      "stem": "A cancer biologist studies a colon epithelial cell in which Wnt binds the Frizzled receptor, activating the intracellular component Dishevelled. Which of the following is the most direct downstream consequence of Dishevelled activation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Autophosphorylation of Frizzled on cytoplasmic tyrosine residues"
+        },
+        {
+          "label": "B",
+          "text": "Degradation of IkB to release NF-kB into the nucleus"
+        },
+        {
+          "label": "C",
+          "text": "Increased transbinding of E-cadherin between adjacent cells"
+        },
+        {
+          "label": "D",
+          "text": "Inhibition of the Axin/APC/GSK-3-beta destruction complex"
+        },
+        {
+          "label": "E",
+          "text": "Phosphorylation of STAT proteins by Janus kinases"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "In Wnt signaling, Dishevelled inhibits the beta-catenin destruction complex, allowing beta-catenin to accumulate and enter the nucleus.",
+        "whyCorrect": "When Wnt binds Frizzled (a GPCR), Dishevelled is activated and inhibits the complex of Axin, APC, GSK-3-beta, and CKI-alpha that normally targets beta-catenin for degradation. By 'inhibiting the inhibitor,' free beta-catenin translocates to the nucleus to promote gene expression.",
+        "whyWrongByChoice": {
+          "A": "Frizzled is a GPCR without intrinsic tyrosine kinase activity, so it does not autophosphorylate like an RTK.",
+          "B": "IkB degradation releasing NF-kB is the TNF-alpha inflammatory cascade, unrelated to Dishevelled.",
+          "C": "Wnt signaling frees beta-catenin for migration-promoting transcription; increased E-cadherin transbinding instead sequesters beta-catenin at the membrane.",
+          "E": "STAT phosphorylation by JAKs is part of the cytokine JAK-STAT pathway, not Wnt/Frizzled signaling."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "Wnt",
+        "beta-catenin",
+        "Frizzled"
+      ],
+      "topicId": "overview-of-cell-signaling-2",
+      "topicName": "Overview of Cell Signaling (2 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "bo26-006",
+      "stem": "A 5-year-old boy presents with early pubic hair, a growth spurt placing him at the 97th height percentile, enlarged testicles, and hyperpigmented macules on his torso. Imaging shows craniofacial fibrous dysplasia. Genetic testing points to a somatic mutation in a cell-signaling gene. Which of the following is the most likely pathophysiologic mechanism?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Activating mutation of fibroblast growth factor receptor-3"
+        },
+        {
+          "label": "B",
+          "text": "Amplification of a receptor tyrosine kinase gene"
+        },
+        {
+          "label": "C",
+          "text": "Constitutive G-alpha-s activation"
+        },
+        {
+          "label": "D",
+          "text": "Expression of a BCR-ABL fusion protein"
+        },
+        {
+          "label": "E",
+          "text": "Loss of erythropoietin expression"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "McCune-Albright syndrome arises from a somatic GNAS mutation that constitutively activates G-alpha-s, overstimulating adenylate cyclase and cAMP.",
+        "whyCorrect": "The triad of precocious puberty, cafe-au-lait spots, and fibrous dysplasia is McCune-Albright syndrome. A somatic (non-inherited) mutation in GNAS locks G-alpha-s in the active state, overproducing cAMP and driving excessive hormone synthesis and abnormal bone and pigment cell behavior.",
+        "whyWrongByChoice": {
+          "A": "An activating FGFR-3 mutation causes achondroplasia (short-limbed dwarfism), not precocious puberty with fibrous dysplasia.",
+          "B": "RTK gene amplification drives cancers such as HER2+ breast cancer, not McCune-Albright syndrome.",
+          "D": "A BCR-ABL fusion causes leukemia through an abnormal tyrosine kinase, not this endocrine/skeletal picture.",
+          "E": "Loss of EPO expression would cause anemia and does not match these findings."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "McCune-Albright",
+        "GNAS",
+        "cAMP"
+      ],
+      "topicId": "overview-of-cell-signaling-2",
+      "topicName": "Overview of Cell Signaling (2 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "bo26-007",
+      "stem": "A 2-year-old boy has disproportionately short upper arms and thighs, a long narrow trunk, macrocephaly with frontal bossing, and normal cognitive development. The condition results from an activating mutation in a receptor tyrosine kinase. Which of the following best explains the short stature?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Constitutive JAK2 activation impairing bone marrow output of osteoprogenitors"
+        },
+        {
+          "label": "B",
+          "text": "Deficient intramembranous ossification of the flat bones of the skull and ribs"
+        },
+        {
+          "label": "C",
+          "text": "Enhanced chondrocyte proliferation accelerating endochondral ossification of long bones"
+        },
+        {
+          "label": "D",
+          "text": "FGFR-3 signaling that suppresses chondrocyte proliferation and cartilage formation"
+        },
+        {
+          "label": "E",
+          "text": "Loss-of-function of G-alpha-s reducing cAMP signaling in growth plate osteoblasts"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Achondroplasia is caused by an activating FGFR-3 mutation that suppresses chondrocyte proliferation, limiting the cartilage-based (endochondral) growth of long bones.",
+        "whyCorrect": "In achondroplasia, gain-of-function FGFR-3 autophosphorylates without ligand. FGFR-3 signaling suppresses chondrocyte differentiation and proliferation, decreasing cartilage formation needed for endochondral ossification of the long bones, producing rhizomelic shortening with preserved intelligence.",
+        "whyWrongByChoice": {
+          "A": "JAK2 activation drives polycythemia vera, not the skeletal phenotype of achondroplasia.",
+          "B": "Flat bones like the skull form by intramembranous ossification, which is relatively preserved; the defect impairs endochondral ossification of long bones.",
+          "C": "FGFR-3 activation suppresses—rather than enhances—chondrocyte proliferation, so bone growth is inhibited.",
+          "E": "Achondroplasia is a gain-of-function RTK mutation, not a loss of G-alpha-s/cAMP signaling."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "achondroplasia",
+        "FGFR-3",
+        "endochondral ossification"
+      ],
+      "topicId": "overview-of-cell-signaling-2",
+      "topicName": "Overview of Cell Signaling (2 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "bo26-008",
+      "stem": "A pathologist evaluates a breast tumor that is classified as HER2-positive. HER2 is a pro-growth receptor tyrosine kinase. Which of the following mechanisms most commonly accounts for the increased HER2 signaling in this cancer?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A chromosomal translocation creating a fusion protein"
+        },
+        {
+          "label": "B",
+          "text": "A phosphomimetic substitution stabilizing the active receptor"
+        },
+        {
+          "label": "C",
+          "text": "A promoter mutation that decreases transcription"
+        },
+        {
+          "label": "D",
+          "text": "Altered epigenetic imprinting silencing the receptor"
+        },
+        {
+          "label": "E",
+          "text": "Gene amplification producing extra HER2 gene copies"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "HER2-positive breast cancer results from amplification/duplication of the HER2 gene, overexpressing a pro-growth RTK.",
+        "whyCorrect": "Overexpression can amplify a pro-growth pathway, and in HER2+ breast cancer the receptor is overproduced due to an increased number of HER2 gene copies (gene amplification/duplication). This excessive receptor density drives uncontrolled proliferative signaling.",
+        "whyWrongByChoice": {
+          "A": "A translocation-derived fusion protein describes BCR-ABL in leukemia, not HER2 amplification.",
+          "B": "A phosphomimetic substitution is an activating point mutation; HER2+ cancer reflects overexpression from extra gene copies, not a mimic of phosphorylation.",
+          "C": "A promoter mutation that decreases transcription would lower HER2, whereas the disease is defined by overexpression.",
+          "D": "Epigenetic silencing would reduce, not increase, receptor levels, opposite to the overexpression seen here."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "HER2",
+        "gene amplification",
+        "overexpression"
+      ],
+      "topicId": "overview-of-cell-signaling-2",
+      "topicName": "Overview of Cell Signaling (2 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "bo26-009",
+      "stem": "In a macrophage, TNF-alpha binds TNFR-1 and triggers the NF-kB cascade. The NF-kB complex is normally held inactive in the cytoplasm. Which of the following events most directly liberates NF-kB so it can translocate to the nucleus?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Dimerization and nuclear translocation of STAT proteins after JAK phosphorylation"
+        },
+        {
+          "label": "B",
+          "text": "IKK-mediated phosphorylation of IkB, marking it for proteasomal degradation"
+        },
+        {
+          "label": "C",
+          "text": "Inhibition of the Axin/APC/GSK-3-beta destruction complex by Frizzled"
+        },
+        {
+          "label": "D",
+          "text": "Phosphorylation of SMAD proteins by an activated serine/threonine receptor kinase"
+        },
+        {
+          "label": "E",
+          "text": "Prolyl hydroxylation of NF-kB by oxygen-dependent prolyl hydroxylase enzymes"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "NF-kB is sequestered by IkB; IKK phosphorylates IkB, targeting it for ubiquitination and proteasomal degradation, freeing NF-kB.",
+        "whyCorrect": "The inhibitor of kappa-B (IkB) keeps NF-kB in the cytoplasm. Upon receptor activation, the IkB kinase (IKK) complex phosphorylates IkB, a post-translational mark that leads to its ubiquitination and proteasomal degradation, releasing NF-kB (p50/p65) to enter the nucleus and induce gene expression.",
+        "whyWrongByChoice": {
+          "A": "STAT dimerization is the JAK-STAT pathway, not the mechanism releasing NF-kB.",
+          "C": "Inhibiting the destruction complex frees beta-catenin in Wnt signaling, not NF-kB.",
+          "D": "SMAD phosphorylation belongs to TGF-beta serine/threonine receptor signaling.",
+          "E": "Prolyl hydroxylation regulates HIF-1-alpha in oxygen sensing, not NF-kB liberation."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "NF-kB",
+        "IkB",
+        "TNF-alpha"
+      ],
+      "topicId": "overview-of-cell-signaling-2",
+      "topicName": "Overview of Cell Signaling (2 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "bo26-010",
+      "stem": "A 54-year-old woman with rheumatoid arthritis is prescribed etanercept, a recombinant protein resembling the shed, proteolytically cleaved TNFR-1. Which of the following best describes how etanercept reduces inflammation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It acts as a soluble decoy that binds TNF-alpha"
+        },
+        {
+          "label": "B",
+          "text": "It blocks the ATP-binding pocket of intracellular tyrosine kinases"
+        },
+        {
+          "label": "C",
+          "text": "It increases membrane-bound TNFR-1 to enhance signaling"
+        },
+        {
+          "label": "D",
+          "text": "It is a monoclonal antibody that opsonizes synovial cells"
+        },
+        {
+          "label": "E",
+          "text": "It phosphorylates IkB to prevent NF-kB release"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Etanercept is a soluble decoy receptor that intercepts TNF-alpha before it engages membrane receptors, dampening NF-kB-driven inflammation.",
+        "whyCorrect": "Etanercept mimics the shed soluble TNFR-1. Because it is not membrane-bound, it binds circulating TNF-alpha but cannot transduce an intracellular signal, preventing the cytokine from engaging cell-surface receptors and thereby reducing immune-related gene expression.",
+        "whyWrongByChoice": {
+          "B": "Blocking a kinase ATP pocket describes small-molecule inhibitors like imatinib, not etanercept.",
+          "C": "Etanercept intercepts TNF-alpha to reduce signaling; it does not increase membrane TNFR-1.",
+          "D": "Etanercept is a recombinant decoy receptor, not a monoclonal antibody (that description fits adalimumab).",
+          "E": "It sequesters extracellular TNF-alpha; it does not act intracellularly to phosphorylate IkB."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "etanercept",
+        "TNF-alpha",
+        "rheumatoid arthritis"
+      ],
+      "topicId": "overview-of-cell-signaling-2",
+      "topicName": "Overview of Cell Signaling (2 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "bo26-011",
+      "stem": "A neonate has delayed separation of the umbilical cord, recurrent skin and mucosal infections, and notably absent pus formation at sites of infection. The condition is caused by a defect in an adhesion molecule required for neutrophils to exit blood vessels. Which of the following molecules is most likely defective?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Beta-catenin (CTNNB1)"
+        },
+        {
+          "label": "B",
+          "text": "E-cadherin (CDH1)"
+        },
+        {
+          "label": "C",
+          "text": "Frizzled (FZD receptor)"
+        },
+        {
+          "label": "D",
+          "text": "LFA-1 integrin (CD18)"
+        },
+        {
+          "label": "E",
+          "text": "P-selectin (CD62P)"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Leukocyte adhesion deficiency results from a defect in the LFA-1 integrin (CD18), impairing neutrophil adhesion and transmigration.",
+        "whyCorrect": "The classic triad—delayed umbilical cord separation, recurrent infections, and absent pus—is leukocyte adhesion deficiency (LAD). It stems from a defect in the LFA-1 integrin (CD18), which mediates firm adhesion of leukocytes to vascular endothelium; without it, neutrophils cannot transmigrate to sites of infection.",
+        "whyWrongByChoice": {
+          "A": "Beta-catenin is an intracellular transcription factor in Wnt/cadherin signaling, not a neutrophil adhesion receptor.",
+          "B": "E-cadherin mediates epithelial cell-cell adhesion and beta-catenin signaling, not neutrophil transmigration.",
+          "C": "Frizzled is the Wnt GPCR, unrelated to leukocyte adhesion and transmigration.",
+          "E": "P-selectin mediates initial leukocyte rolling, but LAD is specifically due to an integrin (CD18) defect impairing firm adhesion."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "leukocyte adhesion deficiency",
+        "integrin",
+        "CD18"
+      ],
+      "topicId": "overview-of-cell-signaling-2",
+      "topicName": "Overview of Cell Signaling (2 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "bo26-012",
+      "stem": "A researcher observes that as an epithelial tumor becomes more migratory, its cells internalize E-cadherin. Which of the following best describes the downstream signaling consequence that promotes this migratory, mesenchymal phenotype?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Beta-catenin is further sequestered at the plasma membrane"
+        },
+        {
+          "label": "B",
+          "text": "Beta-catenin is released and translocates to the nucleus"
+        },
+        {
+          "label": "C",
+          "text": "HIF-1-alpha is hydroxylated and degraded by the proteasome"
+        },
+        {
+          "label": "D",
+          "text": "IkB is stabilized, blocking NF-kB activation"
+        },
+        {
+          "label": "E",
+          "text": "STAT proteins are dephosphorylated and retained in the cytoplasm"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Loss of E-cadherin releases beta-catenin, which enters the nucleus and reprograms gene expression to support the epithelial-to-mesenchymal transition.",
+        "whyCorrect": "Cadherin receptors normally sequester beta-catenin at the membrane. When a cell becomes migratory and internalizes E-cadherin, beta-catenin is freed, translocates to the nucleus, binds transcription factors, and shifts the gene expression profile toward movement and migration, facilitating the EMT seen in cancer progression.",
+        "whyWrongByChoice": {
+          "A": "Internalizing E-cadherin releases beta-catenin from the membrane rather than sequestering more of it there.",
+          "C": "HIF-1-alpha degradation is the oxygen-sensing pathway and is unrelated to E-cadherin internalization.",
+          "D": "IkB stabilization concerns NF-kB inflammatory signaling, not E-cadherin/beta-catenin behavior.",
+          "E": "STAT phosphorylation status is part of JAK-STAT signaling and is not the mechanism of cadherin-driven EMT."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "E-cadherin",
+        "beta-catenin",
+        "EMT"
+      ],
+      "topicId": "overview-of-cell-signaling-2",
+      "topicName": "Overview of Cell Signaling (2 of 2)",
+      "tier": "core"
+    }
+  ]
+}

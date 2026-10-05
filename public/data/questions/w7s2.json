@@ -1,0 +1,3395 @@
+{
+  "categoryId": "w7s2",
+  "categoryName": "Session 2",
+  "questions": [
+    {
+      "id": "bo46-001",
+      "stem": "A 5-year-old boy is brought to the pediatrician for recurrent prolonged bleeding after minor injuries, including a small knee cut that bled for several hours. His mother's brother reportedly has similar problems. Laboratory studies show a prolonged partial thromboplastin time (PTT) with a normal prothrombin time (PT) and decreased factor VIII activity. Which of the following inheritance patterns best explains this condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Autosomal dominant"
+        },
+        {
+          "label": "B",
+          "text": "Autosomal recessive"
+        },
+        {
+          "label": "C",
+          "text": "Mitochondrial"
+        },
+        {
+          "label": "D",
+          "text": "X-linked dominant"
+        },
+        {
+          "label": "E",
+          "text": "X-linked recessive"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Hemophilia A (factor VIII deficiency) is a classic X-linked recessive disorder.",
+        "whyCorrect": "The findings of prolonged PTT with normal PT and decreased factor VIII activity diagnose hemophilia A. It is X-linked recessive: an affected male carries a single pathogenic X allele (hemizygous), and the disease is transmitted through unaffected female carriers, which fits the affected maternal uncle who inherited it through the mother's line.",
+        "whyWrongByChoice": {
+          "A": "Autosomal dominant conditions show affected individuals in every generation with male-to-male transmission, not disease traced only through the maternal line and males.",
+          "B": "Autosomal recessive disease requires two pathogenic alleles and affects males and females equally, whereas this predominantly affects males via carrier females.",
+          "C": "Mitochondrial disorders are maternally inherited and affect high-energy tissues (neuromuscular), not a coagulation factor deficiency.",
+          "D": "In X-linked dominant inheritance all daughters of an affected male are affected and females are affected more often, which does not match a boy affected through carrier females."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "X-linked recessive",
+        "hemophilia A",
+        "factor VIII"
+      ],
+      "topicId": "pedigrees-and-patterns-of-monogenic-inheritance",
+      "topicName": "Pedigrees and Patterns of Monogenic Inheritance",
+      "tier": "core"
+    },
+    {
+      "id": "bo46-002",
+      "stem": "A woman is an obligate carrier for hemophilia A, an X-linked recessive disorder, and her partner is an unaffected man. They are counseled about the risk to their future daughters. What is the probability that any given daughter will be a carrier of the pathogenic allele?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "0%"
+        },
+        {
+          "label": "B",
+          "text": "25%"
+        },
+        {
+          "label": "C",
+          "text": "50%"
+        },
+        {
+          "label": "D",
+          "text": "75%"
+        },
+        {
+          "label": "E",
+          "text": "100%"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "A carrier mother passes her variant X to half of her daughters.",
+        "whyCorrect": "The carrier mother is X-wt/X-v and each daughter receives the father's normal X plus one of the mother's two X chromosomes. Half of the daughters inherit the mother's X-v (becoming carriers) and half inherit her X-wt, giving a 50% chance a daughter is a carrier.",
+        "whyWrongByChoice": {
+          "A": "A carrier mother has a pathogenic X to pass on, so the risk is not zero.",
+          "B": "25% would apply if both parents contributed a variant allele at random, but the father contributes only a normal X here.",
+          "D": "75% overstates the risk; the mother passes the variant X to only half of her offspring.",
+          "E": "100% would require the mother to be homozygous for the variant (affected), not a carrier."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "X-linked recessive",
+        "carrier",
+        "genetic counseling"
+      ],
+      "topicId": "pedigrees-and-patterns-of-monogenic-inheritance",
+      "topicName": "Pedigrees and Patterns of Monogenic Inheritance",
+      "tier": "core"
+    },
+    {
+      "id": "bo46-003",
+      "stem": "A geneticist is describing the status of a male patient with respect to a gene located on his X chromosome. Because he has only one copy of that gene, which of the following terms most accurately describes his genetic status at that locus?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Carrier"
+        },
+        {
+          "label": "B",
+          "text": "Hemizygous"
+        },
+        {
+          "label": "C",
+          "text": "Heterozygous"
+        },
+        {
+          "label": "D",
+          "text": "Homozygous"
+        },
+        {
+          "label": "E",
+          "text": "Wild-type"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "An individual with only a single allele for a gene is hemizygous.",
+        "whyCorrect": "Males have only one X chromosome, so they carry a single allele for X-linked genes and are described as hemizygous. This is why a male expresses an X-linked recessive disorder with just one pathogenic allele.",
+        "whyWrongByChoice": {
+          "A": "A carrier has one pathogenic and one wild-type allele without disease, which requires two alleles and describes only females for X-linked genes.",
+          "C": "Heterozygous means having two different alleles at a locus, again requiring two copies.",
+          "D": "Homozygous refers to having two identical alleles at a locus, which requires two copies of the gene.",
+          "E": "Wild-type describes the common non-disease form of an allele, not the number of alleles present."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "hemizygous",
+        "X chromosome",
+        "terminology"
+      ],
+      "topicId": "pedigrees-and-patterns-of-monogenic-inheritance",
+      "topicName": "Pedigrees and Patterns of Monogenic Inheritance",
+      "tier": "core"
+    },
+    {
+      "id": "bo46-004",
+      "stem": "A 30-year-old woman with progressive muscle weakness undergoes a muscle biopsy. Molecular analysis of the tissue reveals that some copies of the mitochondrial DNA carry a pathogenic mutation while others are wild-type. Which of the following terms best describes this finding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Aneuploidy"
+        },
+        {
+          "label": "B",
+          "text": "Consanguinity"
+        },
+        {
+          "label": "C",
+          "text": "Hemizygosity"
+        },
+        {
+          "label": "D",
+          "text": "Heteroplasmy"
+        },
+        {
+          "label": "E",
+          "text": "Heterozygosity"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "A mixture of mutant and wild-type mitochondrial DNA within a cell is heteroplasmy.",
+        "whyCorrect": "Because each cell contains many mitochondria and each mitochondrion has multiple mtDNA copies, replication and random sorting during cell division can leave a cell with both mutant and wild-type mtDNA, a state called heteroplasmy.",
+        "whyWrongByChoice": {
+          "A": "Aneuploidy is an abnormal number of whole chromosomes, not a mixture of mitochondrial DNA variants.",
+          "B": "Consanguinity refers to reproductive partners being biologically related, a pedigree concept unrelated to mtDNA content.",
+          "C": "Hemizygosity refers to having a single allele of a nuclear gene, as in males for X-linked genes.",
+          "E": "Heterozygosity describes two different alleles at a locus in nuclear DNA, not a mixture of mitochondrial genomes."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "mitochondrial",
+        "heteroplasmy",
+        "mtDNA"
+      ],
+      "topicId": "pedigrees-and-patterns-of-monogenic-inheritance",
+      "topicName": "Pedigrees and Patterns of Monogenic Inheritance",
+      "tier": "core"
+    },
+    {
+      "id": "bo46-005",
+      "stem": "A child with a mitochondrial DNA mutation is asymptomatic at birth but develops encephalopathy and myopathy over several years as the proportion of mutant mitochondria in his tissues rises. His cells maintained normal function until the mutant load became high enough to impair energy production. Which of the following concepts best explains why the disease became clinically apparent only later?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Anticipation"
+        },
+        {
+          "label": "B",
+          "text": "Genomic imprinting"
+        },
+        {
+          "label": "C",
+          "text": "Incomplete penetrance"
+        },
+        {
+          "label": "D",
+          "text": "Threshold effect"
+        },
+        {
+          "label": "E",
+          "text": "X-inactivation"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Mitochondrial disease appears once the mutant mtDNA fraction exceeds a critical threshold.",
+        "whyCorrect": "When only a small number of mitochondria carry the mutation, cells and tissues still function normally. Once the proportion of mutant mitochondria exceeds a threshold, cell and tissue dysfunction produces the disease phenotype, especially in high-energy tissues that rely on oxidative phosphorylation, such as neuromuscular tissue.",
+        "whyWrongByChoice": {
+          "A": "Anticipation is the worsening or earlier onset of a disorder across successive generations, not the accumulation of mutant mtDNA within one person.",
+          "B": "Genomic imprinting is parent-of-origin-dependent gene expression, unrelated to mitochondrial mutant proportions.",
+          "C": "Incomplete penetrance describes some individuals with a genotype never showing the phenotype, not a threshold of mutant load.",
+          "E": "X-inactivation is the silencing of one X chromosome in females and explains milder female phenotypes in X-linked conditions, not mitochondrial thresholds."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "mitochondrial",
+        "threshold effect",
+        "heteroplasmy"
+      ],
+      "topicId": "pedigrees-and-patterns-of-monogenic-inheritance",
+      "topicName": "Pedigrees and Patterns of Monogenic Inheritance",
+      "tier": "core"
+    },
+    {
+      "id": "bo46-006",
+      "stem": "A man is diagnosed with a disorder caused by a mutation in his mitochondrial DNA. He and his unaffected wife are counseled about the risk of the condition in their children. Which of the following statements about transmission is most accurate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "All of his children will inherit the mutation from him"
+        },
+        {
+          "label": "B",
+          "text": "Half of his children will inherit the mutation from him"
+        },
+        {
+          "label": "C",
+          "text": "None of his children will inherit the mutation from him"
+        },
+        {
+          "label": "D",
+          "text": "Only his daughters will inherit the mutation from him"
+        },
+        {
+          "label": "E",
+          "text": "Only his sons will inherit the mutation from him"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Mitochondrial DNA is maternally inherited, so affected fathers do not transmit the mutation.",
+        "whyCorrect": "Sperm mitochondria are generally not present in the fertilized embryo, so mitochondrial DNA is inherited from the mother. An affected male therefore does not transmit a mitochondrial DNA mutation to any of his children.",
+        "whyWrongByChoice": {
+          "A": "Children of an affected female inherit the mutation, but an affected male transmits it to none of his children.",
+          "B": "There is no 50% split from a father; paternal mitochondrial transmission does not occur.",
+          "D": "Fathers do not transmit mtDNA to daughters either, because mtDNA comes from the mother.",
+          "E": "Transmission is not sex-selective toward sons; fathers transmit mtDNA to no offspring at all."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "mitochondrial",
+        "maternal inheritance",
+        "genetic counseling"
+      ],
+      "topicId": "pedigrees-and-patterns-of-monogenic-inheritance",
+      "topicName": "Pedigrees and Patterns of Monogenic Inheritance",
+      "tier": "core"
+    },
+    {
+      "id": "bo46-007",
+      "stem": "A pedigree is analyzed for a genetic disorder. Affected individuals are present in every generation, males and females are affected in roughly equal numbers, and there are several instances in which an affected father has an affected son. Which of the following inheritance patterns is most consistent with this pedigree?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Autosomal dominant"
+        },
+        {
+          "label": "B",
+          "text": "Autosomal recessive"
+        },
+        {
+          "label": "C",
+          "text": "X-linked dominant"
+        },
+        {
+          "label": "D",
+          "text": "X-linked recessive"
+        },
+        {
+          "label": "E",
+          "text": "Y-linked"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Affected individuals in every generation, equal sex ratio, and male-to-male transmission indicate autosomal dominant inheritance.",
+        "whyCorrect": "Autosomal dominant pedigrees show affected individuals in multiple generations and affect males and females equally. Male-to-male transmission is a key clue that the gene is not on the X chromosome, because a father passes his Y to his sons; only one pathogenic allele is needed to express the phenotype.",
+        "whyWrongByChoice": {
+          "B": "Autosomal recessive disease typically appears in only one generation and often arises from unaffected carrier parents.",
+          "C": "X-linked dominant conditions cannot show father-to-son transmission because fathers pass only the Y to sons.",
+          "D": "X-linked recessive pedigrees show mostly affected males with skipped generations and no male-to-male transmission.",
+          "E": "Y-linked traits affect only males and cannot affect females, so an equal sex ratio excludes it."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "autosomal dominant",
+        "pedigree",
+        "male-to-male transmission"
+      ],
+      "topicId": "pedigrees-and-patterns-of-monogenic-inheritance",
+      "topicName": "Pedigrees and Patterns of Monogenic Inheritance",
+      "tier": "core"
+    },
+    {
+      "id": "bo46-008",
+      "stem": "A pedigree shows an affected girl whose parents are unaffected first cousins. No one else in the previous two generations is affected, and the disorder affects males and females equally. Which of the following inheritance patterns is most consistent with these findings?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Autosomal dominant"
+        },
+        {
+          "label": "B",
+          "text": "Autosomal recessive"
+        },
+        {
+          "label": "C",
+          "text": "Mitochondrial"
+        },
+        {
+          "label": "D",
+          "text": "X-linked dominant"
+        },
+        {
+          "label": "E",
+          "text": "X-linked recessive"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "An affected child of unaffected consanguineous parents points to autosomal recessive inheritance.",
+        "whyCorrect": "Autosomal recessive conditions require two pathogenic alleles, so affected individuals often have unaffected carrier parents, affect males and females equally, and tend to appear in only one generation. Consanguinity increases the chance both parents inherited the same recessive allele from a shared ancestor.",
+        "whyWrongByChoice": {
+          "A": "Autosomal dominant disease would show affected individuals in every generation, typically with an affected parent.",
+          "C": "Mitochondrial disease is maternally inherited through an affected mother, not seen in an affected child of two unaffected carriers.",
+          "D": "X-linked dominant disease would affect the parent generation and show more affected females across generations.",
+          "E": "X-linked recessive disease affects predominantly males, not a girl born to unaffected parents."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "autosomal recessive",
+        "consanguinity",
+        "carrier"
+      ],
+      "topicId": "pedigrees-and-patterns-of-monogenic-inheritance",
+      "topicName": "Pedigrees and Patterns of Monogenic Inheritance",
+      "tier": "core"
+    },
+    {
+      "id": "bo46-009",
+      "stem": "A pedigree shows an affected man whose every daughter is affected but whose sons are all unaffected. Affected females tend to have milder disease than affected males. Which of the following inheritance patterns best explains this pedigree?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Autosomal dominant"
+        },
+        {
+          "label": "B",
+          "text": "Autosomal recessive"
+        },
+        {
+          "label": "C",
+          "text": "X-linked dominant"
+        },
+        {
+          "label": "D",
+          "text": "X-linked recessive"
+        },
+        {
+          "label": "E",
+          "text": "Y-linked"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "An affected male transmitting to all daughters but no sons is the hallmark of X-linked dominant inheritance.",
+        "whyCorrect": "In X-linked dominant inheritance, all daughters of an affected male are affected because they all inherit his single X chromosome, while sons inherit his Y and are unaffected. Affected females are often less severely affected because of X-inactivation.",
+        "whyWrongByChoice": {
+          "A": "Autosomal dominant inheritance allows male-to-male transmission and does not affect all daughters exclusively.",
+          "B": "Autosomal recessive disease usually arises from carrier parents and does not show every daughter of an affected father affected.",
+          "D": "X-linked recessive disease affects mostly males, and daughters of an affected male would typically be unaffected carriers.",
+          "E": "Y-linked traits pass only father to son and cannot affect daughters at all."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "X-linked dominant",
+        "pedigree",
+        "X-inactivation"
+      ],
+      "topicId": "pedigrees-and-patterns-of-monogenic-inheritance",
+      "topicName": "Pedigrees and Patterns of Monogenic Inheritance",
+      "tier": "core"
+    },
+    {
+      "id": "bo46-010",
+      "stem": "A trait is observed to affect only males in a family. Every affected man has an affected father and an affected paternal grandfather, and each affected man transmits the trait to all of his sons but to none of his daughters. Which of the following inheritance patterns best describes this trait?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Autosomal dominant"
+        },
+        {
+          "label": "B",
+          "text": "Mitochondrial"
+        },
+        {
+          "label": "C",
+          "text": "X-linked dominant"
+        },
+        {
+          "label": "D",
+          "text": "X-linked recessive"
+        },
+        {
+          "label": "E",
+          "text": "Y-linked"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Transmission only from fathers to all sons and exclusively in males indicates Y-linked inheritance.",
+        "whyCorrect": "Because the Y chromosome is passed only from fathers to sons, Y-linked traits are transmitted and expressed only in males and pass straight down the male line. If a man is affected, his father, paternal grandfather, and sons should also be affected.",
+        "whyWrongByChoice": {
+          "A": "Autosomal dominant traits affect both sexes and can be transmitted by mothers as well as fathers.",
+          "B": "Mitochondrial traits are maternally inherited and affect both sexes, not passed father to son.",
+          "C": "X-linked dominant traits are transmitted by affected males to all daughters, not to sons.",
+          "D": "X-linked recessive traits are transmitted through carrier females and skip generations, not straight down the male line to all sons."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Y-linked",
+        "male line",
+        "inheritance pattern"
+      ],
+      "topicId": "pedigrees-and-patterns-of-monogenic-inheritance",
+      "topicName": "Pedigrees and Patterns of Monogenic Inheritance",
+      "tier": "core"
+    },
+    {
+      "id": "bo46-011",
+      "stem": "A patient is affected by a condition that occurs when only one of the two copies of a particular gene located on chromosome 9 carries a pathogenic variant. Which of the following inheritance patterns would this condition follow?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Autosomal dominant"
+        },
+        {
+          "label": "B",
+          "text": "Autosomal recessive"
+        },
+        {
+          "label": "C",
+          "text": "Mitochondrial"
+        },
+        {
+          "label": "D",
+          "text": "X-linked dominant"
+        },
+        {
+          "label": "E",
+          "text": "X-linked recessive"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "A single pathogenic allele on an autosome causing disease defines autosomal dominant inheritance.",
+        "whyCorrect": "Chromosome 9 is one of the 22 autosomes, so a condition on it is autosomal. Because only one pathogenic allele is needed to express the phenotype, the pattern is dominant, making this autosomal dominant.",
+        "whyWrongByChoice": {
+          "B": "Autosomal recessive conditions require two pathogenic alleles, not just one.",
+          "C": "Mitochondrial inheritance involves genes on the mitochondrial DNA, not on chromosome 9.",
+          "D": "X-linked dominant conditions are located on the X chromosome, not on chromosome 9.",
+          "E": "X-linked recessive conditions also involve the X chromosome, not an autosome."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "autosomal dominant",
+        "autosome",
+        "dominant"
+      ],
+      "topicId": "pedigrees-and-patterns-of-monogenic-inheritance",
+      "topicName": "Pedigrees and Patterns of Monogenic Inheritance",
+      "tier": "core"
+    },
+    {
+      "id": "bo46-012",
+      "stem": "While constructing a family history, a clinician wants to label the affected individual whose diagnosis first brought the family to medical attention. Which of the following terms describes this person?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Consultand"
+        },
+        {
+          "label": "B",
+          "text": "First-degree relative"
+        },
+        {
+          "label": "C",
+          "text": "Heterozygote"
+        },
+        {
+          "label": "D",
+          "text": "Obligate carrier"
+        },
+        {
+          "label": "E",
+          "text": "Proband"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The proband is the affected individual who first brings the family to medical attention.",
+        "whyCorrect": "By convention, the proband is the affected person who first brings the family to medical attention and is often marked in a pedigree with an arrow pointing to a shaded symbol.",
+        "whyWrongByChoice": {
+          "A": "The consultand is the person consulting the health professional, who may or may not be affected and may or may not be the proband.",
+          "B": "A first-degree relative is a parent, sibling, or offspring of the proband, defined by relationship rather than by initiating medical attention.",
+          "C": "A heterozygote simply has two different alleles at a locus and is a genotype term, not a pedigree role.",
+          "D": "An obligate carrier is an individual who must be heterozygous based on the pedigree, such as the parent of an affected recessive child, not necessarily the first to seek care."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "proband",
+        "pedigree",
+        "terminology"
+      ],
+      "topicId": "pedigrees-and-patterns-of-monogenic-inheritance",
+      "topicName": "Pedigrees and Patterns of Monogenic Inheritance",
+      "tier": "core"
+    },
+    {
+      "id": "bo47-001",
+      "stem": "A 9-year-old boy and his 12-year-old sister both carry the same pathogenic NF1 variant and both have neurofibromatosis 1. The boy has only a few small cafe-au-lait spots, whereas his sister has numerous large cafe-au-lait spots, several neurofibromas, and scoliosis. Which of the following best explains the difference in the severity of disease between these two siblings?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Genetic anticipation"
+        },
+        {
+          "label": "B",
+          "text": "Codominant expression"
+        },
+        {
+          "label": "C",
+          "text": "Locus (genetic) heterogeneity"
+        },
+        {
+          "label": "D",
+          "text": "Reduced penetrance"
+        },
+        {
+          "label": "E",
+          "text": "Variable expressivity"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Different severity of the same phenotype among individuals with the same genotype is variable expressivity.",
+        "whyCorrect": "Expressivity describes the severity of a disease-related phenotype among individuals who share a genotype. Neurofibromatosis 1 is highly penetrant but has highly variable expressivity, so people with the same NF1 variant may show cafe-au-lait spots, neurofibromas, and scoliosis of differing size, number, and location.",
+        "whyWrongByChoice": {
+          "A": "Anticipation refers to earlier onset or worsening across generations, not variation between siblings of one generation.",
+          "B": "Codominance is the simultaneous expression of both alleles of a heterozygous pair, as in ABO blood groups, not a difference in severity.",
+          "C": "Locus heterogeneity means the same phenotype arises from mutations in different genes; both siblings share the same NF1 variant.",
+          "D": "Reduced penetrance would mean some carriers show no phenotype at all; here both siblings are clearly affected, so penetrance is complete."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "expressivity",
+        "neurofibromatosis",
+        "autosomal dominant"
+      ],
+      "topicId": "genotype-phenotype-correlation",
+      "topicName": "Genotype-Phenotype Correlation",
+      "tier": "core"
+    },
+    {
+      "id": "bo47-002",
+      "stem": "A 68-year-old woman is found to carry a pathogenic BRCA1 variant during cascade testing after her sister developed breast cancer. Despite carrying the same variant, she has never developed breast or ovarian cancer. Which of the following concepts best accounts for the fact that not everyone with this variant develops cancer?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Allelic heterogeneity"
+        },
+        {
+          "label": "B",
+          "text": "Codominance"
+        },
+        {
+          "label": "C",
+          "text": "Incomplete penetrance"
+        },
+        {
+          "label": "D",
+          "text": "Pleiotropy"
+        },
+        {
+          "label": "E",
+          "text": "Variable expressivity"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "When fewer carriers than expected show any phenotype, penetrance is incomplete.",
+        "whyCorrect": "Penetrance is the all-or-nothing probability that a genotype produces any phenotype at all. Hereditary cancer syndromes such as BRCA1-related breast cancer are classic examples of incomplete penetrance because not everyone who carries the pathogenic variant develops cancer in their lifetime.",
+        "whyWrongByChoice": {
+          "A": "Allelic heterogeneity refers to different mutations in the same gene causing one phenotype, not to a carrier remaining unaffected.",
+          "B": "Codominance is the simultaneous expression of two alleles and is unrelated to whether a phenotype appears.",
+          "D": "Pleiotropy is one gene variant causing multiple unrelated features across organ systems, which is not what this scenario describes.",
+          "E": "Variable expressivity describes differing severity among individuals who do manifest disease, not the total absence of disease in a carrier."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "penetrance",
+        "BRCA1",
+        "hereditary cancer"
+      ],
+      "topicId": "genotype-phenotype-correlation",
+      "topicName": "Genotype-Phenotype Correlation",
+      "tier": "core"
+    },
+    {
+      "id": "bo47-003",
+      "stem": "A person inherits an A allele from one parent and a B allele from the other at the ABO locus. Laboratory typing shows that their red blood cells display both A and B antigens on the surface. Which of the following genetic concepts does this finding best illustrate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Codominance"
+        },
+        {
+          "label": "B",
+          "text": "Incomplete penetrance"
+        },
+        {
+          "label": "C",
+          "text": "Locus heterogeneity"
+        },
+        {
+          "label": "D",
+          "text": "Modifier gene effect"
+        },
+        {
+          "label": "E",
+          "text": "Pleiotropy"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The ABO blood group is the classic example of codominance.",
+        "whyCorrect": "Codominance occurs when both alleles of a heterozygous pair are expressed and contribute to the phenotype. The A and B alleles each encode an enzyme that modifies red-cell surface sugars, so a heterozygous AB individual expresses both A and B antigens because neither allele is dominant over the other.",
+        "whyWrongByChoice": {
+          "B": "Incomplete penetrance concerns whether a phenotype appears at all, not the joint expression of two alleles.",
+          "C": "Locus heterogeneity is the same phenotype arising from different genes, which does not apply to a single ABO locus.",
+          "D": "A modifier gene is a separate gene altering another gene's phenotype; both antigens here come from the two ABO alleles themselves.",
+          "E": "Pleiotropy is one gene affecting multiple organ systems, not two alleles at one locus being co-expressed."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "codominance",
+        "ABO blood group"
+      ],
+      "topicId": "genotype-phenotype-correlation",
+      "topicName": "Genotype-Phenotype Correlation",
+      "tier": "core"
+    },
+    {
+      "id": "bo47-004",
+      "stem": "An untreated infant with phenylketonuria develops microcephaly, developmental delay, eczema, a mousy body odor, and a markedly elevated serum phenylalanine concentration. All of these seemingly unrelated features arise from a variant in the single gene encoding phenylalanine hydroxylase. Which of the following concepts best describes this pattern?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Codominance"
+        },
+        {
+          "label": "B",
+          "text": "Incomplete penetrance"
+        },
+        {
+          "label": "C",
+          "text": "Locus heterogeneity"
+        },
+        {
+          "label": "D",
+          "text": "Pleiotropy"
+        },
+        {
+          "label": "E",
+          "text": "Variable expressivity"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "One gene variant producing many unrelated features across organ systems is pleiotropy.",
+        "whyCorrect": "Pleiotropy refers to situations where a pathogenic variant in a single gene leads to multiple, seemingly unrelated phenotypic effects across different organ systems. Untreated phenylketonuria illustrates this with neurologic, dermatologic, and metabolic manifestations all stemming from one gene defect.",
+        "whyWrongByChoice": {
+          "A": "Codominance is joint expression of two alleles at one locus and does not explain multi-system involvement.",
+          "B": "Incomplete penetrance concerns whether disease appears at all, not the breadth of features when it does.",
+          "C": "Locus heterogeneity is one phenotype produced by variants in different genes; PKU here arises from a single gene.",
+          "E": "Variable expressivity describes differing severity of the phenotype among individuals with the same genotype, not multiple features in one patient."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "pleiotropy",
+        "phenylketonuria"
+      ],
+      "topicId": "genotype-phenotype-correlation",
+      "topicName": "Genotype-Phenotype Correlation",
+      "tier": "core"
+    },
+    {
+      "id": "bo47-005",
+      "stem": "Two unrelated children both have cystic fibrosis, but sequencing shows that each carries a different pair of pathogenic mutations within the CFTR gene. Which of the following concepts best explains how different mutations in the same gene produce the same disease?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Allelic heterogeneity"
+        },
+        {
+          "label": "B",
+          "text": "Codominant expression"
+        },
+        {
+          "label": "C",
+          "text": "Locus heterogeneity"
+        },
+        {
+          "label": "D",
+          "text": "Modifier gene effect"
+        },
+        {
+          "label": "E",
+          "text": "Pleiotropic gene effect"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Different mutations at the same locus causing one phenotype is allelic heterogeneity.",
+        "whyCorrect": "Allelic heterogeneity occurs when different mutations at the same locus lead to a similar phenotype. Cystic fibrosis is the classic example because it can be caused by many different mutations within the CFTR gene.",
+        "whyWrongByChoice": {
+          "B": "Codominance is the co-expression of two alleles and does not describe multiple disease-causing mutations.",
+          "C": "Locus heterogeneity involves mutations in genes at different loci; here all mutations are within the single CFTR gene.",
+          "D": "A modifier gene alters the phenotype from a different gene; the scenario concerns variants inside CFTR itself.",
+          "E": "Pleiotropy is one variant causing multiple unrelated features, not different variants producing the same disease."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "allelic heterogeneity",
+        "cystic fibrosis",
+        "CFTR"
+      ],
+      "topicId": "genotype-phenotype-correlation",
+      "topicName": "Genotype-Phenotype Correlation",
+      "tier": "core"
+    },
+    {
+      "id": "bo47-006",
+      "stem": "A geneticist notes that Cornelia de Lange syndrome, a developmental disorder, can be caused by a pathogenic variant in any one of three different genes located at separate chromosomal loci. Which of the following concepts does this observation best illustrate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Allelic heterogeneity"
+        },
+        {
+          "label": "B",
+          "text": "Codominance"
+        },
+        {
+          "label": "C",
+          "text": "Locus heterogeneity"
+        },
+        {
+          "label": "D",
+          "text": "Pleiotropy"
+        },
+        {
+          "label": "E",
+          "text": "Variable expressivity"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "One phenotype produced by mutations in different genes is locus heterogeneity.",
+        "whyCorrect": "Locus heterogeneity describes the same disorder being caused by mutations in genes at different loci. Cornelia de Lange syndrome, which can be acquired by a mutation in any of three different genes, is an example. Such heterogeneity can complicate diagnosis and cause false-negative genetic testing when not all loci are known.",
+        "whyWrongByChoice": {
+          "A": "Allelic heterogeneity involves different mutations within a single gene, not across different genes.",
+          "B": "Codominance is joint expression of two alleles at one locus and is unrelated to multiple causative loci.",
+          "D": "Pleiotropy is one gene variant causing multiple features, the opposite direction of this scenario.",
+          "E": "Variable expressivity concerns differing severity among affected individuals, not the number of causative genes."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "locus heterogeneity",
+        "Cornelia de Lange syndrome"
+      ],
+      "topicId": "genotype-phenotype-correlation",
+      "topicName": "Genotype-Phenotype Correlation",
+      "tier": "core"
+    },
+    {
+      "id": "bo47-007",
+      "stem": "In sickle cell disease, a single base-pair change (GAG to GTG) in the HBB gene substitutes one amino acid in the beta-chain of hemoglobin, converting it to hemoglobin S. Which of the following types of mutation is described?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Chromosomal nondisjunction"
+        },
+        {
+          "label": "B",
+          "text": "Frameshift mutation"
+        },
+        {
+          "label": "C",
+          "text": "Large gene deletion"
+        },
+        {
+          "label": "D",
+          "text": "Point mutation"
+        },
+        {
+          "label": "E",
+          "text": "Trinucleotide repeat expansion"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "A single base-pair substitution altering one codon is a point mutation.",
+        "whyCorrect": "A point mutation is a single base-pair change. In sickle cell disease this GAG-to-GTG substitution in HBB changes one amino acid in the beta-globin chain to yield hemoglobin S, and a person homozygous for the variant has HbSS disease. This is a clean example of a direct genotype-phenotype correlation.",
+        "whyWrongByChoice": {
+          "A": "Nondisjunction is failure of chromosome separation causing aneuploidy, not a single base-pair change.",
+          "B": "A frameshift results from insertion or deletion of bases not in multiples of three, shifting the reading frame; only a single base is changed here.",
+          "C": "A large deletion removes a segment of the gene; here a single nucleotide is substituted, not deleted.",
+          "E": "Trinucleotide repeat expansions underlie disorders such as Huntington disease, not the single substitution in HBB."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "point mutation",
+        "sickle cell disease",
+        "HBB"
+      ],
+      "topicId": "genotype-phenotype-correlation",
+      "topicName": "Genotype-Phenotype Correlation",
+      "tier": "core"
+    },
+    {
+      "id": "bo47-008",
+      "stem": "A 35-year-old man whose father had Huntington disease learns that he carries the same pathogenic variant. He currently has no neurologic symptoms, and his physician explains that manifestations most often appear during the 30s or 40s. Which of the following best characterizes this feature of Huntington disease?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Age-dependent penetrance"
+        },
+        {
+          "label": "B",
+          "text": "Allelic heterogeneity at one locus"
+        },
+        {
+          "label": "C",
+          "text": "Codominant expression"
+        },
+        {
+          "label": "D",
+          "text": "Modifier gene effect"
+        },
+        {
+          "label": "E",
+          "text": "Pleiotropic gene effect"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "When a genotype expresses only later in life, penetrance is age-dependent.",
+        "whyCorrect": "Penetrance of some disorders is age-dependent: a person may not express the disorder early in life yet develop signs and symptoms later. Huntington disease most frequently becomes symptomatic when people are in their 30s or 40s, so a young unaffected carrier reflects age-dependent penetrance rather than true absence of disease.",
+        "whyWrongByChoice": {
+          "B": "Allelic heterogeneity is different mutations in the same gene causing one phenotype, not delayed onset.",
+          "C": "Codominance is the co-expression of two alleles and has nothing to do with age of onset.",
+          "D": "A modifier gene alters a phenotype caused by another gene; the delayed onset here reflects age-dependent penetrance.",
+          "E": "Pleiotropy is one gene producing multiple unrelated features across organ systems."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "penetrance",
+        "age-dependent",
+        "Huntington disease"
+      ],
+      "topicId": "genotype-phenotype-correlation",
+      "topicName": "Genotype-Phenotype Correlation",
+      "tier": "core"
+    },
+    {
+      "id": "bo47-009",
+      "stem": "Two patients with cystic fibrosis carry identical CFTR genotypes, yet one has markedly more severe disease. Investigators determine that a variant in a separate gene at a different locus is responsible for altering the severity of the CFTR-related phenotype. Which of the following best describes the role of this second gene?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Allelic heterogeneity"
+        },
+        {
+          "label": "B",
+          "text": "Codominance"
+        },
+        {
+          "label": "C",
+          "text": "Locus heterogeneity"
+        },
+        {
+          "label": "D",
+          "text": "Modifier gene"
+        },
+        {
+          "label": "E",
+          "text": "Pleiotropy"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "A separate gene that changes the phenotype produced by another gene is a modifier gene.",
+        "whyCorrect": "A modifier gene has the ability to alter the phenotype caused by expression of a different gene elsewhere in the genome, and can affect dominance, penetrance, and expressivity. Cystic fibrosis is a recognized example in which modifier genes can influence disease severity, symptoms, or whether signs appear at all.",
+        "whyWrongByChoice": {
+          "A": "Allelic heterogeneity involves different mutations within the same gene; here a distinct, separate gene changes the phenotype.",
+          "B": "Codominance is the joint expression of two alleles at one locus, not one gene modifying another.",
+          "C": "Locus heterogeneity means the same disease arises from different genes independently; here CFTR still causes the disease and a second gene only modifies it.",
+          "E": "Pleiotropy is a single gene causing multiple features, not a second gene influencing severity."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "modifier gene",
+        "cystic fibrosis"
+      ],
+      "topicId": "genotype-phenotype-correlation",
+      "topicName": "Genotype-Phenotype Correlation",
+      "tier": "core"
+    },
+    {
+      "id": "bo47-010",
+      "stem": "A physician in a Marfan syndrome clinic sees five children who all share the same autosomal dominant condition. All are tall and thin with long fingers, but only one has severe heart disease, two have eye disease, and two have curved spines. A shadowing student asks why patients with the same disorder have different findings. Which of the following concepts best explains this variation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Allelic heterogeneity"
+        },
+        {
+          "label": "B",
+          "text": "Codominance"
+        },
+        {
+          "label": "C",
+          "text": "Incomplete penetrance"
+        },
+        {
+          "label": "D",
+          "text": "Locus heterogeneity"
+        },
+        {
+          "label": "E",
+          "text": "Variable expressivity"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "A range of findings among people with the same disorder reflects variable expressivity.",
+        "whyCorrect": "In most genetic disorders a range of signs and symptoms occurs among different affected individuals, a phenomenon called variable expressivity. The Marfan patients all express the disease (complete penetrance) but differ in which features appear and how severe they are, which is variable expressivity.",
+        "whyWrongByChoice": {
+          "A": "Allelic heterogeneity concerns different mutations in the same gene, not variability in expression among affected patients.",
+          "B": "Codominance is co-expression of two alleles at a locus and does not explain the range of findings.",
+          "C": "Incomplete penetrance would mean some mutation carriers show no disease at all; here all five children are affected.",
+          "D": "Locus heterogeneity means the same phenotype arises from different genes; these patients share one disorder."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "expressivity",
+        "Marfan syndrome",
+        "autosomal dominant"
+      ],
+      "topicId": "genotype-phenotype-correlation",
+      "topicName": "Genotype-Phenotype Correlation",
+      "tier": "core"
+    },
+    {
+      "id": "bo47-011",
+      "stem": "Monozygotic twins share an identical genome, yet one develops a particular trait and the other does not because of differences in diet and other non-genetic exposures. Which of the following concepts best accounts for this discordance?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Allelic heterogeneity"
+        },
+        {
+          "label": "B",
+          "text": "Codominance"
+        },
+        {
+          "label": "C",
+          "text": "Environmental effects"
+        },
+        {
+          "label": "D",
+          "text": "Locus heterogeneity"
+        },
+        {
+          "label": "E",
+          "text": "Pleiotropy"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Non-genetic factors that shape a phenotype are environmental effects.",
+        "whyCorrect": "Environmental effects are non-genetic factors that can influence a phenotype. When genetically identical twins differ in a trait, factors outside the genome such as diet and exposures can drive the difference, illustrating how the environment modifies genotype-phenotype correlation.",
+        "whyWrongByChoice": {
+          "A": "Allelic heterogeneity concerns different mutations in one gene; the twins share the same genome, so this cannot be the cause.",
+          "B": "Codominance is joint expression of two alleles and does not explain a difference driven by exposures.",
+          "D": "Locus heterogeneity involves different genes causing one phenotype and cannot apply to twins with an identical genome.",
+          "E": "Pleiotropy is one gene producing multiple features, not a non-genetic cause of discordance."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "environmental effects",
+        "twins"
+      ],
+      "topicId": "genotype-phenotype-correlation",
+      "topicName": "Genotype-Phenotype Correlation",
+      "tier": "core"
+    },
+    {
+      "id": "bo47-012",
+      "stem": "A medical student is asked to distinguish penetrance from expressivity. Which of the following statements most accurately defines penetrance?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A single gene variant causing multiple unrelated phenotypic features"
+        },
+        {
+          "label": "B",
+          "text": "The probability that a genotype produces any phenotypic expression at all"
+        },
+        {
+          "label": "C",
+          "text": "The same phenotype being caused by mutations in different genes"
+        },
+        {
+          "label": "D",
+          "text": "The severity of the disease-related phenotype among individuals with the same genotype"
+        },
+        {
+          "label": "E",
+          "text": "The simultaneous expression of both alleles of a heterozygous pair"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Penetrance is the all-or-nothing probability that a genotype produces any phenotype.",
+        "whyCorrect": "Penetrance is the probability that an allele or alleles will have any phenotypic expression at all; it is all-or-nothing, so an individual either shows some clinical manifestation or none. If only 8 of 10 people with a genotype ever show a phenotype, penetrance is 80%.",
+        "whyWrongByChoice": {
+          "A": "This defines pleiotropy, a single gene variant causing multiple unrelated features.",
+          "C": "This defines locus heterogeneity, one phenotype produced by mutations in different genes.",
+          "D": "This defines expressivity, which describes the severity of the phenotype among individuals who share a genotype.",
+          "E": "This defines codominance, the joint expression of both alleles of a heterozygous pair."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "penetrance",
+        "expressivity",
+        "definitions"
+      ],
+      "topicId": "genotype-phenotype-correlation",
+      "topicName": "Genotype-Phenotype Correlation",
+      "tier": "core"
+    },
+    {
+      "id": "bo48-001",
+      "stem": "A 45-year-old man is diagnosed with colorectal cancer. His family history includes multiple relatives with early-onset colorectal and endometrial cancers, raising concern for Lynch syndrome (hereditary non-polyposis colorectal cancer). To identify a causative mutation, the clinician wants to simultaneously sequence the coding exons and splice sites of MLH1, MSH2, MSH6, PMS2, and EPCAM. Which molecular technique is most appropriate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Fluorescence in situ hybridization (FISH) with locus-specific probes"
+        },
+        {
+          "label": "B",
+          "text": "Karyotyping of cultured peripheral lymphocytes"
+        },
+        {
+          "label": "C",
+          "text": "Next-generation sequencing using a targeted gene panel"
+        },
+        {
+          "label": "D",
+          "text": "Restriction enzyme digestion of a single PCR product"
+        },
+        {
+          "label": "E",
+          "text": "SNP-microarray genotyping with fixed probes"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "An NGS gene panel sequences the exons and exon-intron boundaries of several disease genes at once, making it ideal for multigene conditions like Lynch syndrome.",
+        "whyCorrect": "Lynch syndrome can be caused by mutations in any of several mismatch-repair genes (MLH1, MSH2, MSH6, PMS2) or EPCAM. An NGS panel sequences all of these genes' exons and splice sites simultaneously, efficiently detecting the responsible variant regardless of which gene harbors it.",
+        "whyWrongByChoice": {
+          "A": "FISH detects the presence, absence, or location of large chromosomal sequences, not single-nucleotide mismatch-repair gene mutations.",
+          "B": "Karyotyping visualizes whole chromosomes and cannot detect a small point or frameshift mutation within a single gene.",
+          "D": "Restriction enzyme digestion only detects a specific, already-known mutation that alters a restriction site and cannot screen five genes for unknown variants.",
+          "E": "A SNP-microarray is a targeted approach limited to variants with probes on the array and would miss rare or novel mutations in these genes."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "NGS",
+        "gene panel",
+        "Lynch syndrome"
+      ],
+      "topicId": "molecular-biology-techniques-dna-analysis",
+      "topicName": "Molecular Biology Techniques (2 of 3): DNA Analysis",
+      "tier": "core"
+    },
+    {
+      "id": "bo48-002",
+      "stem": "A newborn screening program wants an inexpensive first-line test to detect the F508del mutation in the CFTR gene, which accounts for roughly 70% of cystic fibrosis cases. Which technique offers a rapid, cost-effective way to screen for this common, well-characterized variant?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "FISH"
+        },
+        {
+          "label": "B",
+          "text": "Karyotyping"
+        },
+        {
+          "label": "C",
+          "text": "SNP-microarray"
+        },
+        {
+          "label": "D",
+          "text": "Whole-exome sequencing"
+        },
+        {
+          "label": "E",
+          "text": "Whole-genome sequencing"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "SNP-microarrays are a cost-effective, targeted first step for detecting common, high-frequency mutations such as F508del.",
+        "whyCorrect": "SNP-arrays function as genotyping panels that efficiently detect known high-frequency mutations. Because they are less expensive than sequencing, they provide a quick, cost-effective screen for common variants like F508del before moving to more comprehensive analyses.",
+        "whyWrongByChoice": {
+          "A": "FISH detects large chromosomal changes, not a small single-gene deletion like F508del.",
+          "B": "Karyotyping evaluates chromosome number and structure and cannot detect a 3-base-pair deletion in CFTR.",
+          "D": "Whole-exome sequencing is an unbiased, costlier exploratory approach reserved for when a common mutation is not suspected.",
+          "E": "Whole-genome sequencing is comprehensive but far more expensive and data-intensive than needed to screen for one common mutation."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "SNP-array",
+        "cystic fibrosis",
+        "CFTR"
+      ],
+      "topicId": "molecular-biology-techniques-dna-analysis",
+      "topicName": "Molecular Biology Techniques (2 of 3): DNA Analysis",
+      "tier": "core"
+    },
+    {
+      "id": "bo48-003",
+      "stem": "A patient with a strong clinical suspicion of a hereditary disorder has a SNP-microarray performed, which returns negative. The clinician notes that this platform can only interrogate certain positions. Which statement best explains a key limitation of SNP-microarrays?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "They can only be used after a restriction enzyme digestion step"
+        },
+        {
+          "label": "B",
+          "text": "They can only detect balanced chromosomal translocations"
+        },
+        {
+          "label": "C",
+          "text": "They can only detect variants for which probes are present on the array"
+        },
+        {
+          "label": "D",
+          "text": "They read every base of the genome and therefore detect all possible mutations"
+        },
+        {
+          "label": "E",
+          "text": "They require a heat-stable polymerase that denatures above 80 degrees C"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "SNP-microarrays are a targeted approach limited to the variants their probes cover, so rare or novel variants are missed.",
+        "whyCorrect": "SNP-arrays detect only variants for which probes are designed onto the chip. Rare or novel variants that are not represented on the array will be missed, which is why a negative result does not exclude disease and may prompt more comprehensive sequencing.",
+        "whyWrongByChoice": {
+          "A": "SNP-arrays do not require a restriction enzyme digestion step; that is a feature of RFLP analysis.",
+          "B": "SNP-arrays detect SNPs, copy number variations, and loss of heterozygosity; balanced translocations are typically missed and are not their defining detection target.",
+          "D": "SNP-arrays are targeted, not comprehensive; they do not read every base of the genome.",
+          "E": "A heat-stable polymerase is a feature of PCR, not a limitation of SNP-arrays."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "SNP-array",
+        "limitations",
+        "targeted approach"
+      ],
+      "topicId": "molecular-biology-techniques-dna-analysis",
+      "topicName": "Molecular Biology Techniques (2 of 3): DNA Analysis",
+      "tier": "core"
+    },
+    {
+      "id": "bo48-004",
+      "stem": "A laboratory is running a PCR that repeatedly heats the reaction to 95 degrees C during the denaturation step of every cycle. The enzyme used remains active despite this repeated high-temperature exposure. This heat stability is attributable to the fact that the enzyme was originally purified from which source?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Chicken embryo fibroblasts"
+        },
+        {
+          "label": "B",
+          "text": "Escherichia coli grown at 37 degrees C"
+        },
+        {
+          "label": "C",
+          "text": "Human bone marrow cells"
+        },
+        {
+          "label": "D",
+          "text": "Mycobacterium tuberculosis cultures"
+        },
+        {
+          "label": "E",
+          "text": "Thermus aquaticus"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Taq polymerase is heat-stable because it comes from Thermus aquaticus, a bacterium that lives in hot environments.",
+        "whyCorrect": "Taq polymerase was purified from Thermus aquaticus, a thermophilic bacterium living in hot springs (50 to 80 degrees C). Unlike polymerases from animal cells, it remains active even after exposure to temperatures around 95 degrees C, which was the breakthrough that allowed PCR to be automated.",
+        "whyWrongByChoice": {
+          "A": "Chicken embryo cells are a possible DNA sample source but not the source of a thermostable polymerase.",
+          "B": "E. coli lives at moderate temperatures and its polymerase is not adapted to survive repeated near-boiling exposure.",
+          "C": "Polymerases from human (animal) cells are not heat-stable and would be denatured by the 95 degrees C step.",
+          "D": "M. tuberculosis is a diagnostic PCR target, not the source of the heat-stable polymerase."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "PCR",
+        "Taq polymerase",
+        "Thermus aquaticus"
+      ],
+      "topicId": "molecular-biology-techniques-dna-analysis",
+      "topicName": "Molecular Biology Techniques (2 of 3): DNA Analysis",
+      "tier": "core"
+    },
+    {
+      "id": "bo48-005",
+      "stem": "While optimizing a PCR reaction, a technician notes that the buffer supplies a divalent cation that acts as an essential cofactor for the polymerase, along with potassium ions that promote primer annealing. Which component is the essential polymerase cofactor provided by the buffer?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A dideoxynucleotide (ddNTP)"
+        },
+        {
+          "label": "B",
+          "text": "A fluorochrome label"
+        },
+        {
+          "label": "C",
+          "text": "A restriction endonuclease"
+        },
+        {
+          "label": "D",
+          "text": "MgCl2 (magnesium)"
+        },
+        {
+          "label": "E",
+          "text": "Sodium chloride (NaCl)"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The PCR buffer supplies MgCl2, whose magnesium ion is a required cofactor for the polymerase.",
+        "whyCorrect": "The buffer creates the optimal chemical environment for enzyme activity: it regulates pH, supplies MgCl2 as a cofactor for the polymerase, and includes potassium ions to promote primer annealing.",
+        "whyWrongByChoice": {
+          "A": "ddNTPs are chain-terminating nucleotides used in Sanger sequencing, not a polymerase cofactor supplied in a standard PCR buffer.",
+          "B": "Fluorochrome labels tag ddNTPs in sequencing and are not the enzyme's cofactor.",
+          "C": "A restriction endonuclease is a DNA-cutting enzyme used in RFLP, not a PCR cofactor.",
+          "E": "Potassium ions (not sodium chloride) promote annealing, and the essential cofactor is magnesium, not NaCl."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "PCR",
+        "buffer",
+        "magnesium cofactor"
+      ],
+      "topicId": "molecular-biology-techniques-dna-analysis",
+      "topicName": "Molecular Biology Techniques (2 of 3): DNA Analysis",
+      "tier": "core"
+    },
+    {
+      "id": "bo48-006",
+      "stem": "A PCR product spanning the beta-globin (HBB) region is digested with the restriction enzyme DdeI, which recognizes the sequence C^TNAG present in the normal (HbA) allele. After gel electrophoresis, one patient's sample shows only two smaller digested fragments and no uncut band. Which genotype does this pattern indicate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A chromosomal translocation involving HBB"
+        },
+        {
+          "label": "B",
+          "text": "Failed PCR amplification"
+        },
+        {
+          "label": "C",
+          "text": "HbAA (homozygous wild type)"
+        },
+        {
+          "label": "D",
+          "text": "HbAS (heterozygous carrier)"
+        },
+        {
+          "label": "E",
+          "text": "HbSS (homozygous sickle cell)"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Complete cutting into two fragments means the DdeI site is intact on both alleles, indicating the normal HbAA genotype.",
+        "whyCorrect": "The DdeI recognition site is present in the normal HbA allele. In an HbAA individual, both alleles are cut completely, producing only the two smaller digested fragments with no remaining uncut band.",
+        "whyWrongByChoice": {
+          "A": "A translocation would not be assessed by this single-fragment restriction digest, and the pattern shown reflects normal cutting.",
+          "B": "Failed amplification would show no bands at all, not two clean digested fragments.",
+          "D": "HbAS carriers show three bands: one uncut (mutant allele) plus two digested fragments (wild-type allele).",
+          "E": "In HbSS the A-to-T mutation destroys the DdeI site on both alleles, so the fragment remains uncut as a single band."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "RFLP",
+        "sickle cell",
+        "DdeI"
+      ],
+      "topicId": "molecular-biology-techniques-dna-analysis",
+      "topicName": "Molecular Biology Techniques (2 of 3): DNA Analysis",
+      "tier": "core"
+    },
+    {
+      "id": "bo48-007",
+      "stem": "In the same DdeI-based sickle cell assay, a different patient's digested sample displays three bands on the gel: one full-length undigested band plus two smaller digested fragments. Which genotype is most consistent with this result?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Complete absence of the HBB gene"
+        },
+        {
+          "label": "B",
+          "text": "Contamination with a DNA ladder"
+        },
+        {
+          "label": "C",
+          "text": "HbAA (homozygous wild type)"
+        },
+        {
+          "label": "D",
+          "text": "HbAS (heterozygous carrier)"
+        },
+        {
+          "label": "E",
+          "text": "HbSS (homozygous sickle cell)"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "A mix of one uncut band and two cut fragments reflects one mutant (uncut) allele and one wild-type (cut) allele, the heterozygous carrier state.",
+        "whyCorrect": "A heterozygous HbAS genotype has one allele that retains the DdeI site (cut into two fragments) and one allele carrying the mutation that abolishes the site (remains uncut). The gel therefore shows three bands: the undigested fragment plus the two digested fragments.",
+        "whyWrongByChoice": {
+          "A": "Absence of HBB is not what this assay demonstrates; the three-band pattern reflects two different alleles, not a missing gene.",
+          "B": "A DNA ladder is loaded in a separate reference well and would not create this specific three-band digestion pattern in the sample lane.",
+          "C": "HbAA is fully cut and shows only the two digested fragments, with no uncut band.",
+          "E": "HbSS cannot be cut and shows only a single uncut band."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "RFLP",
+        "sickle cell carrier",
+        "gel electrophoresis"
+      ],
+      "topicId": "molecular-biology-techniques-dna-analysis",
+      "topicName": "Molecular Biology Techniques (2 of 3): DNA Analysis",
+      "tier": "core"
+    },
+    {
+      "id": "bo48-008",
+      "stem": "During Sanger sequencing, a small amount of fluorochrome-labeled dideoxynucleotide (ddNTP) is included with the normal dNTPs. When a ddNTP is incorporated, DNA synthesis stops at that position, generating fragments of many different lengths. What chemical property of ddNTPs causes this chain termination?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "They are heat-stable and resist denaturation"
+        },
+        {
+          "label": "B",
+          "text": "They bind magnesium and deplete the cofactor supply"
+        },
+        {
+          "label": "C",
+          "text": "They carry an extra phosphate group that repels the polymerase"
+        },
+        {
+          "label": "D",
+          "text": "They cut the DNA strand at a specific recognition site"
+        },
+        {
+          "label": "E",
+          "text": "They lack a 3-prime hydroxyl group"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "ddNTPs terminate the chain because they lack the 3-prime hydroxyl needed to bond to the next nucleotide.",
+        "whyCorrect": "Unlike dNTPs, dideoxynucleotides lack a 3-prime hydroxyl group. Without it, no phosphodiester bond can form with the following nucleotide, so synthesis terminates at that position. Because ddNTP concentration is much lower than dNTP concentration, termination occurs randomly, producing a ladder of fragments each ending in a labeled base.",
+        "whyWrongByChoice": {
+          "A": "Heat stability is a property of Taq polymerase, unrelated to why ddNTPs stop synthesis.",
+          "B": "ddNTPs do not terminate the chain by sequestering magnesium; they lack the 3-prime hydroxyl group.",
+          "C": "Chain termination is due to the missing 3-prime hydroxyl, not an extra phosphate repelling the polymerase.",
+          "D": "Cutting DNA at recognition sites is the function of restriction enzymes, not ddNTPs."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Sanger sequencing",
+        "ddNTP",
+        "chain termination"
+      ],
+      "topicId": "molecular-biology-techniques-dna-analysis",
+      "topicName": "Molecular Biology Techniques (2 of 3): DNA Analysis",
+      "tier": "core"
+    },
+    {
+      "id": "bo48-009",
+      "stem": "A researcher wants a method that can detect a previously undescribed (novel) point mutation in a single candidate gene of interest. Which technique is capable of identifying such a novel point mutation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Array CGH"
+        },
+        {
+          "label": "B",
+          "text": "Restriction enzyme digestion"
+        },
+        {
+          "label": "C",
+          "text": "Sanger sequencing"
+        },
+        {
+          "label": "D",
+          "text": "SNP-array"
+        },
+        {
+          "label": "E",
+          "text": "Standard karyotyping"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Sequencing reads DNA base by base, so it can identify novel point mutations, unlike targeted or chromosome-level methods.",
+        "whyCorrect": "Sanger sequencing reads the DNA sequence base by base and can detect novel point mutations and small indels, because it does not require prior knowledge of the specific variant. SNP-arrays and restriction digestion, by contrast, are targeted approaches limited to already-known variants.",
+        "whyWrongByChoice": {
+          "A": "Array CGH is designed to detect copy number variations, not point mutations.",
+          "B": "Restriction enzyme digestion only detects known mutations that alter a restriction site.",
+          "D": "A SNP-array only detects variants with probes on the chip, so it cannot reveal a truly novel point mutation.",
+          "E": "Karyotyping visualizes chromosomes and cannot resolve a single-base change."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Sanger sequencing",
+        "novel mutation",
+        "technique selection"
+      ],
+      "topicId": "molecular-biology-techniques-dna-analysis",
+      "topicName": "Molecular Biology Techniques (2 of 3): DNA Analysis",
+      "tier": "core"
+    },
+    {
+      "id": "bo48-010",
+      "stem": "After a restriction digestion, a laboratory loads the DNA into an agarose gel and applies an electric current to separate the fragments. Given the physical principle of gel electrophoresis, how will fragments of different sizes migrate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "All fragments migrate at the same rate regardless of size"
+        },
+        {
+          "label": "B",
+          "text": "Fragments migrate toward the negative electrode"
+        },
+        {
+          "label": "C",
+          "text": "Larger fragments migrate faster because they carry more charge"
+        },
+        {
+          "label": "D",
+          "text": "Only fragments labeled with a fluorochrome will move through the gel"
+        },
+        {
+          "label": "E",
+          "text": "Smaller fragments migrate faster and travel farther than larger fragments"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "In gel electrophoresis, DNA separates by size, with smaller fragments passing through the pores more easily and migrating faster.",
+        "whyCorrect": "Electrophoresis relies on charged molecules migrating in an electric field through a gel matrix. Small DNA fragments pass through the pores more easily and migrate faster, while larger fragments move more slowly, allowing separation by size.",
+        "whyWrongByChoice": {
+          "A": "Fragments do not migrate at the same rate; separation by size is the entire point of the technique.",
+          "B": "DNA is negatively charged and migrates toward the positive electrode, not the negative one.",
+          "C": "Larger fragments migrate more slowly, not faster; size, not extra charge, dominates their slower movement through the pores.",
+          "D": "Fluorochrome labels are used in sequencing detection; unlabeled DNA still migrates and can be visualized in a standard gel."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "gel electrophoresis",
+        "fragment size",
+        "principle"
+      ],
+      "topicId": "molecular-biology-techniques-dna-analysis",
+      "topicName": "Molecular Biology Techniques (2 of 3): DNA Analysis",
+      "tier": "core"
+    },
+    {
+      "id": "bo48-011",
+      "stem": "A pathologist suspects a somatic mutation present in only a small proportion of cells within a tumor biopsy (low-level mosaicism). Which feature of next-generation sequencing best enables detection of such a rare, low-frequency variant?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Deep coverage, in which each base is read many times"
+        },
+        {
+          "label": "B",
+          "text": "Digestion of the sample with DdeI before loading"
+        },
+        {
+          "label": "C",
+          "text": "Limiting the analysis to whole chromosomes"
+        },
+        {
+          "label": "D",
+          "text": "Reading only a single DNA fragment at a time"
+        },
+        {
+          "label": "E",
+          "text": "Use of a single primer to define the starting point"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Deep coverage reads each base many times, increasing sensitivity for rare low-frequency variants such as those in mosaicism.",
+        "whyCorrect": "Deep coverage, where each base is read many times, enhances the ability to detect rare mutations such as those seen in mosaicism. Somatic mutations present in only a small fraction of cells could be missed if coverage is insufficient, so high (or ultra-deep) coverage is key.",
+        "whyWrongByChoice": {
+          "B": "DdeI digestion is part of RFLP analysis and is not how NGS achieves sensitivity for rare variants.",
+          "C": "Limiting analysis to whole chromosomes describes karyotyping and would miss a single-base somatic variant.",
+          "D": "NGS reads millions of fragments simultaneously; reading only one fragment at a time describes the older, less sensitive approach.",
+          "E": "A single primer defining the start point is a feature of Sanger sequencing setup, not the reason NGS detects low-level mosaicism."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "NGS",
+        "deep coverage",
+        "mosaicism"
+      ],
+      "topicId": "molecular-biology-techniques-dna-analysis",
+      "topicName": "Molecular Biology Techniques (2 of 3): DNA Analysis",
+      "tier": "core"
+    },
+    {
+      "id": "bo48-012",
+      "stem": "An electropherogram from a Sanger sequencing run shows, at a single position, two overlapping peaks of different colors superimposed on one another, while the rest of the trace shows clean single peaks. What does this overlapping (double) peak most likely indicate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A heterozygous point variant"
+        },
+        {
+          "label": "B",
+          "text": "A large chromosomal deletion spanning the gene"
+        },
+        {
+          "label": "C",
+          "text": "Complete failure of the sequencing reaction"
+        },
+        {
+          "label": "D",
+          "text": "Contamination of the buffer with magnesium"
+        },
+        {
+          "label": "E",
+          "text": "Successful digestion by a restriction enzyme"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Overlapping peaks at one position on a Sanger trace reflect two different bases there, the signature of a heterozygous variant.",
+        "whyCorrect": "On an electropherogram, clear non-overlapping peaks give reliable base calls, whereas overlapping peaks indicate a mixed signal. Two different bases occupying the same position, seen as superimposed peaks, is characteristic of a heterozygous point variant.",
+        "whyWrongByChoice": {
+          "B": "A large chromosomal deletion is not resolved by base-level electropherogram peaks and would not appear as a single overlapping position.",
+          "C": "A failed reaction produces a flat or noisy trace with no readable peaks, not a clean trace with one doubled position.",
+          "D": "Magnesium is a normal buffer cofactor and does not create overlapping base-call peaks at a single position.",
+          "E": "Restriction digestion is analyzed by gel banding patterns, not by electropherogram peaks."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "Sanger sequencing",
+        "electropherogram",
+        "heterozygous variant"
+      ],
+      "topicId": "molecular-biology-techniques-dna-analysis",
+      "topicName": "Molecular Biology Techniques (2 of 3): DNA Analysis",
+      "tier": "core"
+    },
+    {
+      "id": "bo55-001",
+      "stem": "A research laboratory is optimizing a polymerase chain reaction (PCR) protocol in which the reaction mixture is repeatedly heated to 95 degrees C to separate the DNA strands. The technicians note that, unlike DNA polymerases isolated from animal cells, the enzyme they use remains active after each high-temperature step. From which organism was this enzyme most likely purified?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Escherichia coli, a mesophilic gut bacterium"
+        },
+        {
+          "label": "B",
+          "text": "Homo sapiens, using native cellular polymerase"
+        },
+        {
+          "label": "C",
+          "text": "Mycobacterium tuberculosis, an acid-fast bacillus"
+        },
+        {
+          "label": "D",
+          "text": "Saccharomyces cerevisiae, a budding yeast"
+        },
+        {
+          "label": "E",
+          "text": "Thermus aquaticus, a thermophilic bacterium"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "PCR relies on the heat-stable Taq polymerase, which comes from a thermophilic bacterium.",
+        "whyCorrect": "Taq polymerase was purified from Thermus aquaticus, a bacterium that lives in hot environments (50 to 80 degrees C) such as hot springs. Because it is heat-stable, it stays active even after repeated exposure to the ~95 degrees C denaturation step, which made automated PCR possible.",
+        "whyWrongByChoice": {
+          "A": "Escherichia coli polymerase is not heat-stable and would be denatured by the 95 degrees C step, requiring fresh enzyme each cycle.",
+          "B": "Human DNA polymerases are heat-labile; the brick notes Arthur Kornberg discovered the human enzyme, but it is not heat-stable.",
+          "C": "M. tuberculosis DNA can be detected by PCR, but it is not the source of the thermostable enzyme.",
+          "D": "Yeast is not the source of the thermostable polymerase used in PCR."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "PCR",
+        "Taq polymerase",
+        "thermostability"
+      ],
+      "topicId": "molecular-biology-techniques-dna-analysis-b55",
+      "topicName": "Molecular Biology Techniques (2 of 3), DNA analysis",
+      "tier": "core"
+    },
+    {
+      "id": "bo55-002",
+      "stem": "A 6-year-old boy of West African descent presents with recurrent vaso-occlusive pain crises and anemia. To genotype his HBB gene, his amplified DNA is digested with the restriction enzyme DdeI, which recognizes the sequence CTNAG. The gel shows a single undigested band, identical to the pre-digestion product. Which of the following best explains this result?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A point mutation abolished the DdeI recognition site"
+        },
+        {
+          "label": "B",
+          "text": "A point mutation created a new DdeI recognition site"
+        },
+        {
+          "label": "C",
+          "text": "He is a heterozygous carrier with one normal and one mutant allele"
+        },
+        {
+          "label": "D",
+          "text": "The DNA contains a large insertion within the amplified fragment"
+        },
+        {
+          "label": "E",
+          "text": "The PCR failed to amplify the target region"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "In sickle cell disease the HBB point mutation destroys the DdeI restriction site, leaving the fragment uncut.",
+        "whyCorrect": "Sickle cell disease is caused by a point mutation in HBB (c.20A>T, p.Glu7Val) that replaces adenine with thymine. This change alters the CTNAG recognition sequence so DdeI can no longer cut. A homozygous mutant (HbSS) patient therefore shows a single, undigested band of the full PCR-product size.",
+        "whyWrongByChoice": {
+          "B": "A new site would produce additional (smaller) cut fragments, not a single uncut band; the mutation removes rather than adds a site.",
+          "C": "A heterozygous carrier (HbAS) shows three bands, one uncut and two digested, not a single uncut band.",
+          "D": "A large insertion would produce a larger band than the reference product; here the band matches the undigested PCR product size.",
+          "E": "A failed PCR would show no band at all, not a full-length product."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "RFLP",
+        "restriction enzyme",
+        "sickle cell disease"
+      ],
+      "topicId": "molecular-biology-techniques-dna-analysis-b55",
+      "topicName": "Molecular Biology Techniques (2 of 3), DNA analysis",
+      "tier": "core"
+    },
+    {
+      "id": "bo55-003",
+      "stem": "A 45-year-old man is diagnosed with colorectal cancer and has a family history of multiple relatives with early-onset colorectal and endometrial cancers, raising concern for Lynch syndrome. His clinician wants to screen the five genes commonly implicated (MLH1, MSH2, MSH6, PMS2, and EPCAM) in a single test. Which of the following is the most appropriate molecular technique?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Fluorescence in situ hybridization (FISH)"
+        },
+        {
+          "label": "B",
+          "text": "Karyotyping"
+        },
+        {
+          "label": "C",
+          "text": "Next-generation sequencing multigene panel"
+        },
+        {
+          "label": "D",
+          "text": "Restriction fragment length polymorphism analysis"
+        },
+        {
+          "label": "E",
+          "text": "SNP-microarray"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Sequencing several disease genes at once is best done with a targeted NGS gene panel.",
+        "whyCorrect": "An NGS panel of the mismatch-repair genes sequences MLH1, MSH2, MSH6, PMS2, and EPCAM simultaneously, generally covering the exons and exon-intron (splicing) boundaries where causative mutations lie. If no mutation is found, an untargeted exome or genome approach can follow.",
+        "whyWrongByChoice": {
+          "A": "FISH detects specific chromosomal loci or rearrangements, not sequence-level mutations across a gene panel.",
+          "B": "Karyotyping detects large chromosomal abnormalities, not single-gene point mutations.",
+          "D": "RFLP only detects a specific known mutation that alters a restriction site, not the full spectrum of mutations across five genes.",
+          "E": "SNP-arrays detect only common known variants for which probes exist and would miss rare or novel mutations."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "NGS",
+        "gene panel",
+        "Lynch syndrome"
+      ],
+      "topicId": "molecular-biology-techniques-dna-analysis-b55",
+      "topicName": "Molecular Biology Techniques (2 of 3), DNA analysis",
+      "tier": "core"
+    },
+    {
+      "id": "bo55-004",
+      "stem": "A genetics laboratory runs a SNP-microarray on a patient with a strong clinical suspicion of a rare, previously unreported single-nucleotide variant. The array returns a normal result, yet the patient is later found to carry a pathogenic novel variant. Which inherent property of SNP-microarrays best explains this false-negative result?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "SNP-arrays are more expensive than whole-genome sequencing per sample tested"
+        },
+        {
+          "label": "B",
+          "text": "SNP-arrays cannot detect copy number variations or loss of heterozygosity"
+        },
+        {
+          "label": "C",
+          "text": "SNP-arrays only detect variants for which a probe is present on the chip"
+        },
+        {
+          "label": "D",
+          "text": "SNP-arrays require a heat-stable polymerase that denatures the patient sample"
+        },
+        {
+          "label": "E",
+          "text": "SNP-arrays sequence the entire genome base by base at low read depth"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "SNP-arrays are a targeted approach and only detect variants represented by probes on the chip.",
+        "whyCorrect": "SNP-microarrays function as genotyping panels that interrogate only pre-selected regions. They can detect a variant only if a probe for it is present, so rare or novel variants not represented on the chip are missed.",
+        "whyWrongByChoice": {
+          "A": "SNP-arrays are described as cost-effective and less expensive than sequencing, not more expensive.",
+          "B": "SNP-arrays actually can detect copy number variations and loss of heterozygosity in addition to SNPs.",
+          "D": "SNP-arrays are hybridization-based genotyping panels; the heat-stable polymerase description applies to PCR, not to why the array missed the variant.",
+          "E": "SNP-arrays do not sequence the genome; they are a targeted probe-based method, which is precisely why novel variants are missed."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "SNP-microarray",
+        "limitations",
+        "targeted approach"
+      ],
+      "topicId": "molecular-biology-techniques-dna-analysis-b55",
+      "topicName": "Molecular Biology Techniques (2 of 3), DNA analysis",
+      "tier": "core"
+    },
+    {
+      "id": "bo55-005",
+      "stem": "A child with cystic fibrosis tests negative for the common F508del CFTR mutation on a SNP-array, but clinical suspicion remains high. Because roughly 30% of disease-causing CFTR variants are not detected by the array, the clinician wants to comprehensively analyze the entire CFTR gene for additional pathogenic mutations. Which technique is most appropriate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Fluorescence in situ hybridization"
+        },
+        {
+          "label": "B",
+          "text": "Karyotyping"
+        },
+        {
+          "label": "C",
+          "text": "Repeat the SNP-array with a different platform"
+        },
+        {
+          "label": "D",
+          "text": "Restriction enzyme digestion for F508del"
+        },
+        {
+          "label": "E",
+          "text": "Sanger sequencing of the CFTR gene"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Sequencing is required to comprehensively read a gene and detect mutations beyond common variants.",
+        "whyCorrect": "SNP-arrays detect the common F508del mutation but miss up to 30% of disease-causing variants. Sanger sequencing reads the DNA base by base and enables comprehensive analysis of the entire CFTR gene to identify additional pathogenic mutations.",
+        "whyWrongByChoice": {
+          "A": "FISH visualizes chromosomal loci, not the base-level sequence of the CFTR gene.",
+          "B": "Karyotyping evaluates chromosome-level abnormalities, not single-base CFTR mutations.",
+          "C": "Repeating a targeted array with different probe content still only detects variants represented on the chip, not the full gene.",
+          "D": "Restriction digestion only interrogates the specific F508del site, which already tested negative, and cannot survey the whole gene."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Sanger sequencing",
+        "cystic fibrosis",
+        "CFTR"
+      ],
+      "topicId": "molecular-biology-techniques-dna-analysis-b55",
+      "topicName": "Molecular Biology Techniques (2 of 3), DNA analysis",
+      "tier": "core"
+    },
+    {
+      "id": "bo55-006",
+      "stem": "During a Sanger sequencing reaction, DNA synthesis stops at specific bases, generating a collection of fragments of varying lengths that each end with a labeled terminal nucleotide. Which property of the special nucleotides added to the reaction is responsible for terminating chain elongation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "They are present at a higher concentration than standard dNTPs"
+        },
+        {
+          "label": "B",
+          "text": "They bind the primer and block its annealing to the template"
+        },
+        {
+          "label": "C",
+          "text": "They carry an extra phosphate group that repels the polymerase"
+        },
+        {
+          "label": "D",
+          "text": "They cause the DNA polymerase to become permanently denatured"
+        },
+        {
+          "label": "E",
+          "text": "They lack a 3-prime hydroxyl group"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Dideoxynucleotides terminate Sanger sequencing because they lack a 3-prime hydroxyl group.",
+        "whyCorrect": "Sanger sequencing uses fluorochrome-labeled dideoxynucleotides (ddNTPs) that act as chain-elongating inhibitors. Unlike dNTPs, ddNTPs lack a 3-prime hydroxyl group, so once incorporated they cannot form a phosphodiester bond with the next nucleotide, terminating synthesis at that base.",
+        "whyWrongByChoice": {
+          "A": "ddNTPs are present at much lower concentration than dNTPs, so they incorporate randomly rather than at every position.",
+          "B": "ddNTPs are incorporated into the growing strand by the polymerase; they do not block primer annealing.",
+          "C": "Chain termination results from the missing 3-prime OH, not from an extra phosphate repelling the enzyme.",
+          "D": "The polymerase is not denatured; it simply cannot extend past an incorporated ddNTP."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Sanger sequencing",
+        "ddNTP",
+        "chain termination"
+      ],
+      "topicId": "molecular-biology-techniques-dna-analysis-b55",
+      "topicName": "Molecular Biology Techniques (2 of 3), DNA analysis",
+      "tier": "core"
+    },
+    {
+      "id": "bo55-007",
+      "stem": "A student loads DNA fragments of several sizes into a single well of an agarose gel and applies an electric current. After running the gel, which of the following fragments will have migrated farthest from the well toward the positive electrode?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "All fragments migrate equally regardless of size, because charge is uniform"
+        },
+        {
+          "label": "B",
+          "text": "Only uncut fragments migrate; digested fragments remain trapped in the well"
+        },
+        {
+          "label": "C",
+          "text": "The fragment closest to the negative electrode migrates farthest down the gel"
+        },
+        {
+          "label": "D",
+          "text": "The largest fragment, because it carries the most negative charge overall"
+        },
+        {
+          "label": "E",
+          "text": "The smallest fragment, because it passes through the gel pores most easily"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "In gel electrophoresis smaller DNA fragments migrate faster and travel farther than larger ones.",
+        "whyCorrect": "Electrophoresis separates charged DNA molecules that migrate toward the positive electrode in an electric field. Small fragments pass through the gel pores more easily and migrate faster, so they travel the farthest, while larger fragments move more slowly and stay closer to the well.",
+        "whyWrongByChoice": {
+          "A": "Fragments are separated precisely because migration depends on size.",
+          "B": "Both cut and uncut fragments migrate; their distance depends on their size.",
+          "C": "DNA is negatively charged and migrates toward the positive electrode; proximity to the negative electrode does not determine distance traveled.",
+          "D": "Migration is governed by size-dependent movement through the pores, not by larger fragments carrying more charge; larger fragments move more slowly."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "gel electrophoresis",
+        "fragment size",
+        "separation"
+      ],
+      "topicId": "molecular-biology-techniques-dna-analysis-b55",
+      "topicName": "Molecular Biology Techniques (2 of 3), DNA analysis",
+      "tier": "core"
+    },
+    {
+      "id": "bo55-008",
+      "stem": "A patient's Sanger sequencing electropherogram is reviewed. At one position, instead of a single clean peak, two overlapping peaks of different colors are seen at the same location, while the rest of the trace shows clear single peaks. Which of the following does this finding most likely indicate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A heterozygous variant at that position"
+        },
+        {
+          "label": "B",
+          "text": "A homozygous mutant genotype at that position"
+        },
+        {
+          "label": "C",
+          "text": "A homozygous wild-type genotype at that position"
+        },
+        {
+          "label": "D",
+          "text": "A large chromosomal deletion spanning the gene"
+        },
+        {
+          "label": "E",
+          "text": "Complete failure of the sequencing reaction"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Overlapping electropherogram peaks at one position reflect a heterozygous variant.",
+        "whyCorrect": "Each electropherogram peak represents a single nucleotide, and clear non-overlapping peaks indicate a reliable base call. Overlapping peaks at one position indicate a mixed signal from two different bases, characteristic of a heterozygous individual carrying two different alleles.",
+        "whyWrongByChoice": {
+          "B": "A homozygous mutant position also gives a single clean peak, just of a different base.",
+          "C": "A homozygous wild-type position gives a single clean peak, not overlapping peaks.",
+          "D": "A large deletion is not detected as overlapping single-base peaks on a Sanger electropherogram.",
+          "E": "A failed reaction would produce no readable peaks, not two clear overlapping ones at a single position."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Sanger sequencing",
+        "electropherogram",
+        "heterozygous"
+      ],
+      "topicId": "molecular-biology-techniques-dna-analysis-b55",
+      "topicName": "Molecular Biology Techniques (2 of 3), DNA analysis",
+      "tier": "core"
+    },
+    {
+      "id": "bo55-009",
+      "stem": "A clinician needs to detect a completely novel point mutation in a patient whose disease gene is unknown from prior testing. Which of the following techniques is capable of detecting novel point mutations?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Array comparative genomic hybridization (aCGH)"
+        },
+        {
+          "label": "B",
+          "text": "DNA sequencing"
+        },
+        {
+          "label": "C",
+          "text": "PCR alone"
+        },
+        {
+          "label": "D",
+          "text": "Restriction enzyme digestion"
+        },
+        {
+          "label": "E",
+          "text": "SNP-array"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Only sequencing can detect novel point mutations, because it reads previously unknown bases directly.",
+        "whyCorrect": "DNA sequencing, whether Sanger (after PCR) or NGS, reads the sequence base by base and can identify point mutations that were not previously characterized. The other listed methods are targeted approaches limited to known variants or serve a different purpose.",
+        "whyWrongByChoice": {
+          "A": "aCGH is designed to detect copy number variations, not point mutations.",
+          "C": "PCR only amplifies DNA and must be combined with another technique to detect mutations.",
+          "D": "Restriction enzyme digestion detects only known mutations that alter a restriction site, not novel variants.",
+          "E": "SNP-arrays are targeted and detect only well-characterized variants with existing probes, not novel ones."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "sequencing",
+        "novel mutation",
+        "technique selection"
+      ],
+      "topicId": "molecular-biology-techniques-dna-analysis-b55",
+      "topicName": "Molecular Biology Techniques (2 of 3), DNA analysis",
+      "tier": "core"
+    },
+    {
+      "id": "bo55-010",
+      "stem": "A pathologist wants to detect a somatic mutation that is present in only a small proportion of cells within a tissue biopsy, a situation of low-level mosaicism. Which feature of next-generation sequencing best enables detection of such rare, low-frequency variants?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Deep coverage, in which each base is read many times"
+        },
+        {
+          "label": "B",
+          "text": "Karyotyping the mosaic cells"
+        },
+        {
+          "label": "C",
+          "text": "Reading each base only once to save cost"
+        },
+        {
+          "label": "D",
+          "text": "Restricting analysis to a single restriction site"
+        },
+        {
+          "label": "E",
+          "text": "Using dideoxynucleotides to terminate every strand"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Deep NGS coverage, reading each base many times, is what allows detection of rare low-frequency variants.",
+        "whyCorrect": "Deep coverage means each base is read many times, which enhances the ability to detect rare mutations such as those seen in mosaicism. Somatic mutations present in only a small fraction of cells could be missed if coverage is insufficient; ultra-deep sequencing reads a base thousands of times for even rarer targets.",
+        "whyWrongByChoice": {
+          "B": "Karyotyping detects large chromosomal abnormalities, not low-frequency single-nucleotide somatic mutations.",
+          "C": "Reading each base only once (shallow coverage) would likely miss low-frequency variants.",
+          "D": "Analyzing a single restriction site is an RFLP concept and cannot survey rare somatic variants across a region.",
+          "E": "Dideoxynucleotides are used in Sanger sequencing and do not confer NGS's deep-coverage sensitivity for mosaicism."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "NGS",
+        "deep coverage",
+        "mosaicism"
+      ],
+      "topicId": "molecular-biology-techniques-dna-analysis-b55",
+      "topicName": "Molecular Biology Techniques (2 of 3), DNA analysis",
+      "tier": "core"
+    },
+    {
+      "id": "bo55-011",
+      "stem": "A technician is setting up the temperature program on a thermal cycler for PCR. She needs to select the step during which the two short oligonucleotide primers bind to their complementary sequences on the single-stranded template. Which step and approximate temperature range is she programming?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Annealing at 50 to 65 degrees C"
+        },
+        {
+          "label": "B",
+          "text": "Denaturation at 95 degrees C"
+        },
+        {
+          "label": "C",
+          "text": "Elongation at 72 degrees C"
+        },
+        {
+          "label": "D",
+          "text": "Final hold at 4 degrees C"
+        },
+        {
+          "label": "E",
+          "text": "Ligation at 16 degrees C"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Primers bind the template during the annealing step at roughly 50 to 65 degrees C.",
+        "whyCorrect": "A PCR cycle is divided into steps defined by temperature. During annealing (about 50 to 65 degrees C, 20 to 40 seconds), the forward and reverse primers bind to their complementary sequences on the separated single strands, defining the fragment to be amplified.",
+        "whyWrongByChoice": {
+          "B": "Denaturation at 95 degrees C separates the double strand into single strands; primers do not bind at this temperature.",
+          "C": "Elongation at 72 degrees C is when Taq polymerase extends the new strand from the already-bound primers.",
+          "D": "A 4 degrees C hold is a post-reaction storage step, not the primer-binding step.",
+          "E": "Ligation is not a step of the standard PCR cycle described in this technique."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "PCR",
+        "annealing",
+        "primers"
+      ],
+      "topicId": "molecular-biology-techniques-dna-analysis-b55",
+      "topicName": "Molecular Biology Techniques (2 of 3), DNA analysis",
+      "tier": "core"
+    },
+    {
+      "id": "bo55-012",
+      "stem": "A patient with acute leukemia relapses after initial treatment. A molecular study of the relapse sample reveals uniparental disomy at the 19p13.3-p12 locus and altered allele-specific gene dosage that were not present at initial diagnosis. Which technique was most likely used to generate these genotyping data?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "PCR alone"
+        },
+        {
+          "label": "B",
+          "text": "Restriction enzyme digestion"
+        },
+        {
+          "label": "C",
+          "text": "Sanger sequencing"
+        },
+        {
+          "label": "D",
+          "text": "SNP-microarray"
+        },
+        {
+          "label": "E",
+          "text": "Standard karyotyping"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "SNP-arrays reveal allele-specific dosage, copy number, and uniparental disomy, useful in comparing diagnosis to relapse.",
+        "whyCorrect": "SNP-microarrays detect SNPs, copy number variations, and loss of heterozygosity, and they report total and allele-specific gene dosage. This allows detection of uniparental disomy, which the brick illustrates as being seen only at relapse when comparing an initial tumor to a relapse tumor.",
+        "whyWrongByChoice": {
+          "A": "PCR alone amplifies DNA and does not by itself produce dosage or genotype plots.",
+          "B": "Restriction digestion only assesses a single known restriction site, not genome-wide dosage or LOH.",
+          "C": "Sanger sequencing reads base-by-base sequence but does not generate genome-wide allele-specific dosage or detect uniparental disomy across a locus.",
+          "E": "Standard karyotyping detects large structural changes but cannot reveal copy-neutral uniparental disomy or allele-specific dosage."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "SNP-microarray",
+        "uniparental disomy",
+        "loss of heterozygosity"
+      ],
+      "topicId": "molecular-biology-techniques-dna-analysis-b55",
+      "topicName": "Molecular Biology Techniques (2 of 3), DNA analysis",
+      "tier": "core"
+    },
+    {
+      "id": "bo49-001",
+      "stem": "A 3-year-old boy is brought in for evaluation of possible autism. His parents report delayed development and that he remains nonverbal, and he becomes overwhelmed and anxious with loud classroom noise. On examination he has large ears, a long narrow face, and a prominent forehead. Which of the following genes is most likely affected?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "DMPK"
+        },
+        {
+          "label": "B",
+          "text": "FMR1"
+        },
+        {
+          "label": "C",
+          "text": "FXN"
+        },
+        {
+          "label": "D",
+          "text": "HTT"
+        },
+        {
+          "label": "E",
+          "text": "TBP"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Developmental delay with a long face, large ears, and sensory hypersensitivity in a young boy points to Fragile X syndrome, caused by FMR1.",
+        "whyCorrect": "Fragile X syndrome results from a CGG repeat expansion in the FMR1 gene on the X chromosome. Classic features include intellectual disability, autism-like behavior and sensory hypersensitivity, and a long face with large ears and a prominent jaw, matching this child.",
+        "whyWrongByChoice": {
+          "A": "DMPK (CTG) causes myotonic dystrophy, presenting in the 20s-30s with myotonia and distal weakness.",
+          "C": "FXN (GAA) causes Friedreich ataxia, presenting at ages 5-15 with ataxic gait and areflexia, not this facial phenotype.",
+          "D": "HTT (CAG) causes Huntington disease, an adult-onset chorea and dementia, not childhood developmental delay with these facies.",
+          "E": "TBP (CAG/CAA) is one of the spinocerebellar ataxia loci and causes autosomal dominant cerebellar ataxia, not this childhood syndrome."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "Fragile X",
+        "FMR1",
+        "clinical vignette"
+      ],
+      "topicId": "repeat-expansion-disorders",
+      "topicName": "Repeat Expansion Disorders",
+      "tier": "core"
+    },
+    {
+      "id": "bo49-002",
+      "stem": "Molecular testing on the boy in the previous vignette reveals more than 200 CGG repeats in the 5' untranslated region of FMR1. Which of the following best explains how this expansion produces disease?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A frameshift mutation prematurely terminates translation of every transcript"
+        },
+        {
+          "label": "B",
+          "text": "Aberrant splicing produces a truncated, nonfunctional protein"
+        },
+        {
+          "label": "C",
+          "text": "Hypermethylation of the promoter silences transcription and eliminates the FMRP protein"
+        },
+        {
+          "label": "D",
+          "text": "The expanded mRNA forms nuclear foci that trap RNA-binding proteins"
+        },
+        {
+          "label": "E",
+          "text": "The expansion adds a long polyglutamine tract that makes the protein aggregate"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "In Fragile X, a full CGG expansion (>200) triggers promoter hypermethylation, silencing FMR1 and abolishing FMRP.",
+        "whyCorrect": "When the CGG repeat exceeds ~200, the FMR1 promoter becomes hypermethylated, transcription is silenced, and the FMRP protein—essential for synaptic function and neural development—is not produced. This loss-of-function mechanism drives the phenotype.",
+        "whyWrongByChoice": {
+          "A": "The CGG expansion silences transcription by methylation rather than causing a frameshift in the coding sequence.",
+          "B": "Aberrant splicing with reduced protein describes Friedreich ataxia (GAA in an intron), not the CGG expansion of Fragile X.",
+          "D": "Toxic RNA nuclear foci that sequester splicing proteins are the mechanism of myotonic dystrophy type 1 (CTG).",
+          "E": "A polyglutamine tract is the mechanism in Huntington disease (CAG in the coding region), not Fragile X."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Fragile X",
+        "FMR1",
+        "hypermethylation",
+        "mechanism"
+      ],
+      "topicId": "repeat-expansion-disorders",
+      "topicName": "Repeat Expansion Disorders",
+      "tier": "core"
+    },
+    {
+      "id": "bo49-003",
+      "stem": "A 28-year-old man reports progressive muscle weakness and difficulty releasing his grip after shaking hands. He also notes fatigue, occasional trouble swallowing, and daytime sleepiness. On examination he has a thin elongated face with frontal balding and ptosis, and percussion of the thenar eminence produces a delayed relaxation response. His mother had similar symptoms and died of a cardiac arrhythmia in her 40s. Which gene is most likely mutated?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "DMPK"
+        },
+        {
+          "label": "B",
+          "text": "FMR1"
+        },
+        {
+          "label": "C",
+          "text": "FshMD1A"
+        },
+        {
+          "label": "D",
+          "text": "FXN"
+        },
+        {
+          "label": "E",
+          "text": "HTT"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Grip and percussion myotonia with distal weakness, frontal balding, ptosis, and cardiac arrhythmia indicate myotonic dystrophy type 1 (DMPK).",
+        "whyCorrect": "Myotonic dystrophy type 1 (Steinert disease) is an autosomal dominant CTG expansion in the 3' UTR of DMPK. Hallmarks are myotonia (delayed muscle relaxation), distal weakness, a thin face with ptosis and frontal balding, cataracts, daytime sleepiness, and cardiac conduction defects, as seen here.",
+        "whyWrongByChoice": {
+          "B": "FMR1 causes Fragile X syndrome, a childhood developmental disorder, not adult-onset myotonia.",
+          "C": "This is a distractor gene label; the presentation of myotonia points specifically to DMPK.",
+          "D": "FXN causes Friedreich ataxia with childhood ataxia and areflexia, not grip myotonia.",
+          "E": "HTT causes Huntington disease with chorea and dementia, not myotonia and delayed muscle relaxation."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Myotonic dystrophy",
+        "DMPK",
+        "myotonia",
+        "clinical vignette"
+      ],
+      "topicId": "repeat-expansion-disorders",
+      "topicName": "Repeat Expansion Disorders",
+      "tier": "core"
+    },
+    {
+      "id": "bo49-004",
+      "stem": "In myotonic dystrophy type 1, the CTG expansion lies in the 3' untranslated region of DMPK and does not alter the protein's amino acid sequence. Which mechanism best accounts for the disease?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A gain-of-function point mutation that constitutively activates the kinase"
+        },
+        {
+          "label": "B",
+          "text": "An expanded polyglutamine tract makes the kinase aggregate in muscle"
+        },
+        {
+          "label": "C",
+          "text": "Impaired iron-sulfur cluster assembly within mitochondria"
+        },
+        {
+          "label": "D",
+          "text": "Loss of the DMPK protein due to promoter methylation"
+        },
+        {
+          "label": "E",
+          "text": "Toxic expanded RNA forms nuclear foci that sequester RNA-binding proteins"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The CTG expansion acts at the RNA level: toxic transcripts trap splicing factors and disrupt RNA processing.",
+        "whyCorrect": "Because the repeat is in the noncoding 3' UTR, the protein sequence is unchanged. The expanded transcript accumulates as nuclear foci that sequester RNA-binding (splicing) proteins, disrupting normal RNA splicing and impairing muscle cell function, leading to cell death and progressive atrophy.",
+        "whyWrongByChoice": {
+          "A": "The pathology arises from a toxic RNA gain of function, not an activating point mutation in the kinase.",
+          "B": "A polyglutamine aggregation mechanism belongs to Huntington disease (coding CAG expansion).",
+          "C": "Impaired mitochondrial iron-sulfur cluster assembly is the frataxin/Friedreich ataxia mechanism.",
+          "D": "Promoter methylation and loss of protein is the Fragile X (FMR1) mechanism, not DMPK."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Myotonic dystrophy",
+        "toxic RNA",
+        "splicing",
+        "mechanism"
+      ],
+      "topicId": "repeat-expansion-disorders",
+      "topicName": "Repeat Expansion Disorders",
+      "tier": "core"
+    },
+    {
+      "id": "bo49-005",
+      "stem": "A 44-year-old man develops jerky involuntary movements of his limbs and face, along with irritability, depression, and cognitive decline. His father developed similar symptoms at age 50. MRI shows atrophy of the caudate and putamen. Which of the following is the underlying molecular abnormality?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Accumulation of misfolded huntingtin protein"
+        },
+        {
+          "label": "B",
+          "text": "Decreased HTT gene transcription reducing huntingtin levels"
+        },
+        {
+          "label": "C",
+          "text": "Loss of FMRP due to gene silencing"
+        },
+        {
+          "label": "D",
+          "text": "Nuclear accumulation of toxic CTG-containing RNA"
+        },
+        {
+          "label": "E",
+          "text": "Reduced frataxin causing mitochondrial dysfunction"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Adult-onset chorea with caudate/putamen atrophy and an affected parent is Huntington disease, caused by toxic polyglutamine huntingtin.",
+        "whyCorrect": "Huntington disease results from a CAG expansion in the coding region of HTT, producing huntingtin with an abnormally long polyglutamine tract. The mutant protein misfolds and aggregates within neurons, causing selective neuronal loss and atrophy of the caudate and putamen, which manifests as chorea, dementia, and behavioral change.",
+        "whyWrongByChoice": {
+          "B": "Huntington disease is a toxic gain of function from an expanded protein, not simply decreased huntingtin production.",
+          "C": "Loss of FMRP causes Fragile X syndrome, a childhood disorder, not adult chorea.",
+          "D": "Toxic CTG RNA is the mechanism of myotonic dystrophy type 1, not Huntington disease.",
+          "E": "Reduced frataxin causes Friedreich ataxia with ataxic gait, not chorea with basal ganglia atrophy."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "Huntington disease",
+        "HTT",
+        "polyglutamine",
+        "basal ganglia"
+      ],
+      "topicId": "repeat-expansion-disorders",
+      "topicName": "Repeat Expansion Disorders",
+      "tier": "core"
+    },
+    {
+      "id": "bo49-006",
+      "stem": "A family history shows that a grandfather developed Huntington disease at age 60, his son at age 45, and a grandson at age 30, with each generation more severely affected. Repeat sizing shows progressively larger CAG expansions down the generations. Which phenomenon does this pattern illustrate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Genetic anticipation"
+        },
+        {
+          "label": "B",
+          "text": "Genomic imprinting"
+        },
+        {
+          "label": "C",
+          "text": "Incomplete penetrance"
+        },
+        {
+          "label": "D",
+          "text": "Locus heterogeneity"
+        },
+        {
+          "label": "E",
+          "text": "Variable expressivity unrelated to genotype"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Earlier onset and increasing severity across generations, tracking with larger repeats, defines genetic anticipation.",
+        "whyCorrect": "Genetic anticipation is the phenomenon in which a disorder appears earlier and more severely in each successive generation because the number of trinucleotide repeats grows as the allele is transmitted. Longer expansions cause greater disruption, so the phenotype worsens over generations.",
+        "whyWrongByChoice": {
+          "B": "Genomic imprinting refers to parent-of-origin expression differences, not repeat expansion across generations.",
+          "C": "Incomplete penetrance describes carriers who never manifest disease, not a progressive change in onset age.",
+          "D": "Locus heterogeneity means different genes cause the same phenotype; here a single gene expands over generations.",
+          "E": "The variability here is directly explained by repeat length, so it is not expressivity independent of genotype."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "anticipation",
+        "Huntington disease",
+        "trinucleotide repeat"
+      ],
+      "topicId": "repeat-expansion-disorders",
+      "topicName": "Repeat Expansion Disorders",
+      "tier": "core"
+    },
+    {
+      "id": "bo49-007",
+      "stem": "A 12-year-old child has a 3-year history of a staggering, unsteady gait with frequent falls. Examination reveals absent deep tendon reflexes, diminished vibratory and position sense, and kyphoscoliosis. Echocardiography shows hypertrophic cardiomyopathy. Which of the following is the most likely inheritance pattern and repeat?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Autosomal dominant, CAG repeat"
+        },
+        {
+          "label": "B",
+          "text": "Autosomal dominant, CTG repeat"
+        },
+        {
+          "label": "C",
+          "text": "Autosomal recessive, GAA repeat"
+        },
+        {
+          "label": "D",
+          "text": "Mitochondrial, GAA repeat"
+        },
+        {
+          "label": "E",
+          "text": "X-linked dominant, CGG repeat"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Childhood ataxia with areflexia, sensory loss, scoliosis, and hypertrophic cardiomyopathy is Friedreich ataxia—autosomal recessive, GAA repeat.",
+        "whyCorrect": "Friedreich ataxia is caused by a GAA trinucleotide expansion in an intron of the FXN gene and is inherited in an autosomal recessive pattern. It presents at ages 5-15 with progressive ataxic gait, loss of deep tendon reflexes, diminished vibratory sensation, and kyphoscoliosis, and is commonly associated with hypertrophic cardiomyopathy, the leading cause of death.",
+        "whyWrongByChoice": {
+          "A": "An autosomal dominant CAG repeat describes Huntington disease, which causes chorea, not childhood ataxia.",
+          "B": "An autosomal dominant CTG repeat describes myotonic dystrophy type 1 with myotonia, not areflexic ataxia.",
+          "D": "Friedreich ataxia is autosomal recessive; it is not mitochondrially inherited despite affecting mitochondrial function.",
+          "E": "An X-linked dominant CGG repeat describes Fragile X syndrome, not ataxia with cardiomyopathy."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Friedreich ataxia",
+        "FXN",
+        "autosomal recessive",
+        "GAA"
+      ],
+      "topicId": "repeat-expansion-disorders",
+      "topicName": "Repeat Expansion Disorders",
+      "tier": "core"
+    },
+    {
+      "id": "bo49-008",
+      "stem": "The gene mutated in Friedreich ataxia encodes frataxin, a mitochondrial protein. Deficiency of frataxin most directly impairs which of the following, driving neuronal and cardiac degeneration?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Iron-sulfur cluster assembly and iron homeostasis"
+        },
+        {
+          "label": "B",
+          "text": "Methylation of gene promoter CpG islands"
+        },
+        {
+          "label": "C",
+          "text": "Pre-mRNA splicing by nuclear spliceosomes"
+        },
+        {
+          "label": "D",
+          "text": "Proteasomal degradation of misfolded cytoplasmic proteins"
+        },
+        {
+          "label": "E",
+          "text": "Synaptic vesicle release of neurotransmitters"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Frataxin is essential for mitochondrial iron-sulfur cluster assembly and iron homeostasis.",
+        "whyCorrect": "Frataxin is a mitochondrial protein needed for iron-sulfur cluster assembly and iron handling. Its deficiency causes free ionic iron accumulation, free radical formation, oxidative damage to DNA and proteins, and reduced ATP production, leading to cell death—especially in neurons, heart, and pancreatic cells.",
+        "whyWrongByChoice": {
+          "B": "Promoter methylation is the FMR1 silencing mechanism, unrelated to frataxin.",
+          "C": "Disrupted splicing is characteristic of the toxic RNA in myotonic dystrophy, not frataxin deficiency.",
+          "D": "Defective protein degradation is a downstream feature of huntingtin aggregation, not frataxin's primary function.",
+          "E": "Impaired synaptic transmission relates more to loss of FMRP or huntingtin dysfunction, not frataxin's defined role."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Friedreich ataxia",
+        "frataxin",
+        "mitochondria",
+        "iron-sulfur cluster"
+      ],
+      "topicId": "repeat-expansion-disorders",
+      "topicName": "Repeat Expansion Disorders",
+      "tier": "core"
+    },
+    {
+      "id": "bo49-009",
+      "stem": "An asymptomatic 30-year-old woman is found to carry an FMR1 allele with 90 CGG repeats. She is concerned about her future children. Which of the following best describes her status and the risk to her offspring?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Her allele will contract in offspring, eliminating disease risk"
+        },
+        {
+          "label": "B",
+          "text": "Her children can only be affected if the father also carries an expansion"
+        },
+        {
+          "label": "C",
+          "text": "Her repeat count is within the normal range and poses no risk"
+        },
+        {
+          "label": "D",
+          "text": "She has a full mutation and will develop Fragile X syndrome herself"
+        },
+        {
+          "label": "E",
+          "text": "She is a premutation carrier whose allele may expand to a full mutation"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "An FMR1 allele of 55-200 CGG repeats is a premutation—asymptomatic in the carrier but unstable and prone to full expansion in offspring.",
+        "whyCorrect": "The premutation range (about 55-200 CGG for FMR1) does not cause classic Fragile X in the carrier because there are not enough repeats. However, loop structures and slippage make the allele unstable, so it can expand to a full mutation (>200) when transmitted, placing offspring at risk. Premutation carriers themselves may develop FXTAS or primary ovarian insufficiency.",
+        "whyWrongByChoice": {
+          "A": "Premutation alleles tend to expand rather than contract across generations, increasing rather than removing risk.",
+          "B": "Because FMR1 is X-linked, the mother's expanding allele alone confers risk; the father need not carry a mutation.",
+          "C": "The normal FMR1 range is below ~55 repeats, so 90 is above normal and unstable.",
+          "D": "A full mutation is >200 repeats; 90 repeats is a premutation and she is asymptomatic for classic Fragile X."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "Fragile X",
+        "premutation",
+        "anticipation",
+        "FMR1"
+      ],
+      "topicId": "repeat-expansion-disorders",
+      "topicName": "Repeat Expansion Disorders",
+      "tier": "core"
+    },
+    {
+      "id": "bo49-010",
+      "stem": "Repetitive trinucleotide sequences are inherently unstable during DNA replication. Which of the following best describes the molecular event most responsible for adding extra repeat units in these regions?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Crossing over between homologous chromosomes during meiosis"
+        },
+        {
+          "label": "B",
+          "text": "Deamination of cytosine to uracil"
+        },
+        {
+          "label": "C",
+          "text": "DNA polymerase slippage"
+        },
+        {
+          "label": "D",
+          "text": "Nonhomologous end joining of double-strand breaks"
+        },
+        {
+          "label": "E",
+          "text": "Nucleotide excision repair removing bulky adducts"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Repeat expansion arises from DNA polymerase slippage on repetitive sequences, inserting additional repeats.",
+        "whyCorrect": "Slippage occurs when DNA polymerase detaches from the template strand in a repetitive region and reattaches incorrectly, often backtracking and inserting extra repeats. As repeat sequences grow, the likelihood of slippage increases, accelerating further expansion across generations.",
+        "whyWrongByChoice": {
+          "A": "The brick attributes expansion to replication slippage rather than meiotic crossing over.",
+          "B": "Cytosine deamination causes point mutations, not the length instability of trinucleotide repeats.",
+          "D": "Nonhomologous end joining repairs double-strand breaks and is not the source of repeat unit gain here.",
+          "E": "Nucleotide excision repair addresses bulky helix-distorting lesions, not the addition of tandem repeats."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "DNA slippage",
+        "replication",
+        "repeat instability",
+        "mechanism"
+      ],
+      "topicId": "repeat-expansion-disorders",
+      "topicName": "Repeat Expansion Disorders",
+      "tier": "core"
+    },
+    {
+      "id": "bo49-011",
+      "stem": "Fragile X syndrome is notable among the trinucleotide repeat disorders because it can be detected on a routine karyotype, whereas the others cannot. What is the characteristic karyotypic finding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A balanced translocation between the X and chromosome 4"
+        },
+        {
+          "label": "B",
+          "text": "A non-staining gap at the long arm of the X chromosome"
+        },
+        {
+          "label": "C",
+          "text": "A ring chromosome formed from the X"
+        },
+        {
+          "label": "D",
+          "text": "Deletion of the short arm of the X chromosome"
+        },
+        {
+          "label": "E",
+          "text": "Trisomy of the X chromosome"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Fragile X shows a fragile site—a non-staining gap—near the tip of the long arm of the X chromosome.",
+        "whyCorrect": "Karyotyping can diagnose Fragile X because the expansion produces a visible fragile site that appears as a non-staining gap at the terminal end of the long arm of the X chromosome. The other trinucleotide repeat disorders do not produce a cytogenetically visible lesion.",
+        "whyWrongByChoice": {
+          "A": "Fragile X is due to a repeat expansion, not a balanced translocation with chromosome 4.",
+          "C": "A ring chromosome is not the described finding; Fragile X shows a terminal gap, not a ring.",
+          "D": "The lesion is a fragile gap on the long arm, not a deletion of the short arm.",
+          "E": "Trisomy X is a numerical abnormality unrelated to the FMR1 repeat expansion."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Fragile X",
+        "karyotype",
+        "fragile site",
+        "diagnosis"
+      ],
+      "topicId": "repeat-expansion-disorders",
+      "topicName": "Repeat Expansion Disorders",
+      "tier": "core"
+    },
+    {
+      "id": "bo49-012",
+      "stem": "A research team wants to develop a gene-directed therapy. They note that Huntington disease is caused by a toxic gain of function, whereas Fragile X syndrome results from loss of a protein. Which conclusion about therapeutic strategy is most consistent with the brick?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Both disorders are best treated by silencing the mutated gene"
+        },
+        {
+          "label": "B",
+          "text": "Both disorders would benefit from increasing expression of the mutated gene"
+        },
+        {
+          "label": "C",
+          "text": "Neither disorder can be targeted at the genetic level"
+        },
+        {
+          "label": "D",
+          "text": "siRNA gene silencing is rational for Fragile X but not for Huntington disease"
+        },
+        {
+          "label": "E",
+          "text": "siRNA gene silencing is rational for Huntington disease but not for Fragile X"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Silencing helps a toxic gain-of-function disease (Huntington) but is counterproductive when the problem is loss of a needed protein (Fragile X).",
+        "whyCorrect": "In Huntington disease, siRNA-based strategies aim to silence or reduce the defective HTT gene, lowering production of the toxic mutant huntingtin. In Fragile X the disorder stems from absence of FMRP due to gene silencing, so reducing expression would not help; approaches such as CRISPR genome editing to correct the expansion are more promising.",
+        "whyWrongByChoice": {
+          "A": "Silencing is inappropriate for Fragile X because FMRP is needed, so both cannot be treated by silencing.",
+          "B": "Increasing expression of mutant HTT would raise toxic protein levels, worsening Huntington disease.",
+          "C": "The brick describes siRNA and CRISPR strategies, so genetic-level targeting is feasible.",
+          "D": "This reverses the logic: silencing worsens Fragile X, where the protein is already missing, and helps Huntington disease."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "treatment",
+        "gene silencing",
+        "Huntington disease",
+        "Fragile X"
+      ],
+      "topicId": "repeat-expansion-disorders",
+      "topicName": "Repeat Expansion Disorders",
+      "tier": "core"
+    },
+    {
+      "id": "bo50-001",
+      "stem": "A 22-year-old man presents to the emergency department for sudden, nontraumatic, painless bilateral loss of vision. He reports some initial blurring that progressed rapidly to loss of sight over a day, without pain or other symptoms. An ophthalmology consult confirms bilateral central scotomas with a normal-appearing retina. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Friedreich ataxia"
+        },
+        {
+          "label": "B",
+          "text": "Leber hereditary optic neuropathy (LHON)"
+        },
+        {
+          "label": "C",
+          "text": "MELAS"
+        },
+        {
+          "label": "D",
+          "text": "Myoclonic epilepsy with ragged red fibers (MERRF)"
+        },
+        {
+          "label": "E",
+          "text": "Retinitis pigmentosa"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Sudden painless bilateral vision loss in a young man is the classic presentation of LHON.",
+        "whyCorrect": "LHON is a mitochondrial disease characterized by sudden, painless vision loss in both eyes, typically presenting in the 2nd or 3rd decade of life, with about 90% of affected patients being male. Vision loss occurs because optic nerve cells die from mitochondrial dysfunction and impaired ATP production.",
+        "whyWrongByChoice": {
+          "A": "Friedreich ataxia causes progressive gait ataxia and cardiomyopathy beginning in childhood, not sudden vision loss.",
+          "C": "MELAS presents with mitochondrial encephalomyopathy, lactic acidosis, and stroke-like episodes in the first decade, not isolated painless vision loss.",
+          "D": "MERRF is defined by myoclonus, seizures, myopathy, and cerebellar ataxia, not acute bilateral optic neuropathy.",
+          "E": "Retinitis pigmentosa causes gradual, progressive peripheral and night-vision loss, not sudden bilateral central vision loss."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "LHON",
+        "optic neuropathy",
+        "mitochondrial disease"
+      ],
+      "topicId": "mitochondrial-diseases",
+      "topicName": "Mitochondrial Diseases",
+      "tier": "core"
+    },
+    {
+      "id": "bo50-002",
+      "stem": "A 16-year-old boy is evaluated for sudden, painless vision loss. His mother reports that both her older and younger brothers developed the same problem in their late teens, but none of the children of those uncles have been affected. Which of the following features best supports a mitochondrial (rather than another genetic) etiology?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Autosomal dominant inheritance with anticipation"
+        },
+        {
+          "label": "B",
+          "text": "Maternal pattern of inheritance"
+        },
+        {
+          "label": "C",
+          "text": "Only males are ever affected"
+        },
+        {
+          "label": "D",
+          "text": "Paternal pattern of inheritance"
+        },
+        {
+          "label": "E",
+          "text": "The disease reliably skips generations"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Mitochondrial diseases follow a maternal inheritance pattern because only oocytes contribute mitochondria to offspring.",
+        "whyCorrect": "Mitochondrial mutations are transmitted only through the mother, since only oocytes contribute mitochondria to the zygote. This explains why the patient's maternal uncles are affected (they inherited mutant mtDNA from the grandmother) but their own children are not (affected males cannot transmit the disease).",
+        "whyWrongByChoice": {
+          "A": "Autosomal dominant inheritance would allow affected fathers to transmit disease to their children, which is not seen here.",
+          "C": "Mitochondrial diseases affect both sexes; in LHON males predominate, but males are not the only affected individuals and this alone does not define mitochondrial inheritance.",
+          "D": "Fathers do not transmit mitochondria, so a paternal pattern argues against mitochondrial inheritance.",
+          "E": "Skipping generations is characteristic of recessive or reduced-penetrance nuclear traits, not the defining feature of maternal inheritance."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "maternal inheritance",
+        "mitochondrial inheritance",
+        "pedigree"
+      ],
+      "topicId": "mitochondrial-diseases",
+      "topicName": "Mitochondrial Diseases",
+      "tier": "core"
+    },
+    {
+      "id": "bo50-003",
+      "stem": "A 7-year-old child has recurrent stroke-like episodes, migraine-like headaches, vomiting, muscle weakness, and seizures. Serum lactate is markedly elevated. A muscle biopsy stained microscopically shows ragged-red fibers from an accumulation of abnormal mitochondria. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Duchenne muscular dystrophy"
+        },
+        {
+          "label": "B",
+          "text": "Friedreich ataxia"
+        },
+        {
+          "label": "C",
+          "text": "Leber hereditary optic neuropathy"
+        },
+        {
+          "label": "D",
+          "text": "MELAS"
+        },
+        {
+          "label": "E",
+          "text": "Pearson syndrome"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Encephalomyopathy, lactic acidosis, and stroke-like episodes with ragged-red fibers define MELAS.",
+        "whyCorrect": "MELAS (mitochondrial encephalomyopathy, lactic acidosis, and stroke-like episodes) is a mitochondrial myopathy presenting within the first decade of life. It preferentially affects the brain and muscle, and muscle biopsy classically shows ragged-red fibers formed from accumulated diseased mitochondria; lactic acid buildup accounts for the vomiting, weakness, and dyspnea.",
+        "whyWrongByChoice": {
+          "A": "Duchenne muscular dystrophy is an X-linked dystrophinopathy causing progressive proximal weakness, not lactic acidosis with stroke-like episodes.",
+          "B": "Friedreich ataxia produces gait ataxia and cardiomyopathy from a nuclear FXN defect, without lactic acidosis and ragged-red fibers.",
+          "C": "LHON causes sudden painless bilateral vision loss, not stroke-like episodes with lactic acidosis.",
+          "E": "Pearson syndrome is a mitochondrial disorder affecting the bone marrow and pancreas, not one defined by stroke-like episodes."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "MELAS",
+        "ragged-red fibers",
+        "lactic acidosis"
+      ],
+      "topicId": "mitochondrial-diseases",
+      "topicName": "Mitochondrial Diseases",
+      "tier": "core"
+    },
+    {
+      "id": "bo50-004",
+      "stem": "A young patient has myoclonus (involuntary muscle twitches), seizures, myopathy, and cerebellar ataxia. Muscle biopsy shows ragged-red fibers. Genetic testing reveals a point mutation in the mitochondrial tRNA-lysine gene MT-TK (A8344G). Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Friedreich ataxia (FXN GAA expansion)"
+        },
+        {
+          "label": "B",
+          "text": "Leber hereditary optic neuropathy (complex I)"
+        },
+        {
+          "label": "C",
+          "text": "MELAS (ragged-red fibers, lactic acidosis, strokes)"
+        },
+        {
+          "label": "D",
+          "text": "Myoclonic epilepsy with ragged red fibers"
+        },
+        {
+          "label": "E",
+          "text": "Wilson disease (copper accumulation)"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Myoclonus, seizures, ataxia, and ragged-red fibers with an MT-TK mutation define MERRF.",
+        "whyCorrect": "MERRF is caused by mtDNA mutations, most commonly in the tRNA-lysine gene MT-TK (A8344G, T8356C, or G8363A). It is characterized mainly by myoclonus, seizures, myopathy, and cerebellar ataxia, and ragged-red fibers from mitochondrial accumulation in muscle are a hallmark seen microscopically after staining.",
+        "whyWrongByChoice": {
+          "A": "Friedreich ataxia is an autosomal recessive nuclear FXN disorder without ragged-red fibers or an MT-TK mutation.",
+          "B": "LHON causes painless bilateral vision loss from complex I gene mutations, not a myoclonic epilepsy syndrome.",
+          "C": "MELAS features stroke-like episodes and lactic acidosis; although it also shows ragged-red fibers, myoclonus with an MT-TK tRNA-lysine mutation is specific for MERRF.",
+          "E": "Wilson disease is a disorder of copper accumulation, unrelated to mtDNA tRNA mutations or ragged-red fibers."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "MERRF",
+        "MT-TK",
+        "tRNA mutation"
+      ],
+      "topicId": "mitochondrial-diseases",
+      "topicName": "Mitochondrial Diseases",
+      "tier": "core"
+    },
+    {
+      "id": "bo50-005",
+      "stem": "A child is referred for a suspected mitochondrial disorder. Mitochondrial DNA sequencing shows that some cells contain a mixture of both normal mitochondria and mutant mitochondria. Which of the following terms best describes this finding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Heterogeneity"
+        },
+        {
+          "label": "B",
+          "text": "Heteroplasmy"
+        },
+        {
+          "label": "C",
+          "text": "Homogeneity"
+        },
+        {
+          "label": "D",
+          "text": "Homoplasmy"
+        },
+        {
+          "label": "E",
+          "text": "Threshold model of disease"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "A cell containing both normal and mutant mtDNA is heteroplasmic.",
+        "whyCorrect": "Heteroplasmy describes cells that contain both mitochondria with normal mtDNA and mitochondria with mutant mtDNA. Because mtDNA randomly assorts among mitochondria and daughter cells during division, the proportion of mutant mtDNA varies and is responsible for the variable expressivity of mitochondrial disease.",
+        "whyWrongByChoice": {
+          "A": "Heterogeneity is a general term and does not specifically describe the mtDNA composition of a cell.",
+          "C": "Homogeneity is a general term implying uniformity, not a mixture of normal and mutant mtDNA.",
+          "D": "Homoplasmy describes a uniform mtDNA population, either all normal or all mutant, which is the opposite of this finding.",
+          "E": "The threshold model describes when symptoms appear once mutant load is high enough, not the coexistence of two mtDNA populations."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "heteroplasmy",
+        "mtDNA",
+        "genetics"
+      ],
+      "topicId": "mitochondrial-diseases",
+      "topicName": "Mitochondrial Diseases",
+      "tier": "core"
+    },
+    {
+      "id": "bo50-006",
+      "stem": "Two siblings carry the same mtDNA mutation, but one is severely affected while the other is asymptomatic. Studies show that a respiratory chain complex can be substantially inhibited up to a critical value before mitochondrial respiration and ATP synthesis decline and symptoms appear. Which of the following concepts best explains this pattern?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Anticipation"
+        },
+        {
+          "label": "B",
+          "text": "Genomic imprinting"
+        },
+        {
+          "label": "C",
+          "text": "Locus heterogeneity"
+        },
+        {
+          "label": "D",
+          "text": "Phenotypic threshold effect"
+        },
+        {
+          "label": "E",
+          "text": "X-inactivation (lyonization)"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Mitochondrial disease manifests only once mutant load and ATP loss exceed a tissue-specific threshold.",
+        "whyCorrect": "The phenotypic threshold effect states that a genetic defect manifests only when a threshold level is exceeded. A respiratory chain complex can be considerably inhibited up to a critical value without affecting respiration or ATP synthesis; disease appears only after ATP production falls below the level required by that organ system, accounting for variable severity.",
+        "whyWrongByChoice": {
+          "A": "Anticipation describes earlier or more severe disease across generations, typically with expanding repeats, not a mutant-load threshold.",
+          "B": "Genomic imprinting refers to parent-of-origin gene expression differences, not a threshold of mutant mitochondria.",
+          "C": "Locus heterogeneity means different genes cause a similar phenotype, which does not explain variable severity from the same mutation.",
+          "E": "X-inactivation involves silencing one X chromosome and does not apply to mtDNA."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "threshold effect",
+        "expressivity",
+        "mitochondrial disease"
+      ],
+      "topicId": "mitochondrial-diseases",
+      "topicName": "Mitochondrial Diseases",
+      "tier": "core"
+    },
+    {
+      "id": "bo50-007",
+      "stem": "A medical student is asked to describe the structure of a mitochondrion. Which of the following statements is accurate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It contains its own circular, double-stranded DNA"
+        },
+        {
+          "label": "B",
+          "text": "It divides by mitosis"
+        },
+        {
+          "label": "C",
+          "text": "It has only a single membrane"
+        },
+        {
+          "label": "D",
+          "text": "It produces only a small percentage of the cell's ATP"
+        },
+        {
+          "label": "E",
+          "text": "It relies solely on the nuclear genome to encode all of its proteins"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Mitochondria have their own circular, double-stranded mtDNA and their own machinery.",
+        "whyCorrect": "Mitochondria contain their own circular, double-stranded mtDNA housed in the matrix, which encodes 13 OXPHOS proteins, 22 tRNAs, and 2 rRNAs. This reflects their bacterial endosymbiotic origin.",
+        "whyWrongByChoice": {
+          "B": "Mitochondria divide by prokaryotic binary fission, not mitosis.",
+          "C": "Mitochondria have two membranes, an outer membrane and an inner membrane.",
+          "D": "Mitochondria produce most of the cell's ATP via aerobic respiration, not a small percentage.",
+          "E": "Although about 1100 mitochondrial proteins are nuclear-encoded, mitochondria also use their own mtDNA to encode essential OXPHOS proteins."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "mtDNA",
+        "mitochondrial structure",
+        "recall"
+      ],
+      "topicId": "mitochondrial-diseases",
+      "topicName": "Mitochondrial Diseases",
+      "tier": "core"
+    },
+    {
+      "id": "bo50-008",
+      "stem": "Which of the following metabolic pathways does NOT take place within the mitochondria?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Electron transport chain"
+        },
+        {
+          "label": "B",
+          "text": "Fatty acid beta-oxidation"
+        },
+        {
+          "label": "C",
+          "text": "Glycolysis"
+        },
+        {
+          "label": "D",
+          "text": "Oxidative phosphorylation"
+        },
+        {
+          "label": "E",
+          "text": "Tricarboxylic acid (TCA) cycle"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Glycolysis occurs in the cytoplasm; the other listed pathways occur in mitochondria.",
+        "whyCorrect": "Glycolysis takes place solely in the cell's cytoplasm. Pathways housed in the mitochondria include the electron transport chain, fatty acid beta-oxidation, oxidative phosphorylation, the TCA cycle, acetyl-CoA production, and ketogenesis.",
+        "whyWrongByChoice": {
+          "A": "The electron transport chain operates on the inner mitochondrial membrane.",
+          "B": "Fatty acid beta-oxidation occurs within the mitochondria.",
+          "D": "Oxidative phosphorylation is carried out in the mitochondria and is the cell's main site of ATP production.",
+          "E": "The TCA (Krebs) cycle takes place in the mitochondrial matrix."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "metabolism",
+        "glycolysis",
+        "mitochondrial function"
+      ],
+      "topicId": "mitochondrial-diseases",
+      "topicName": "Mitochondrial Diseases",
+      "tier": "core"
+    },
+    {
+      "id": "bo50-009",
+      "stem": "A 10-year-old child has had progressive difficulty walking, unsteady posture, and frequent falls since age 7, along with dysarthria. Echocardiography reveals cardiomyopathy. Genetic testing shows homozygous GAA trinucleotide repeat expansion in intron 1 of the FXN gene. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Ataxia-telangiectasia"
+        },
+        {
+          "label": "B",
+          "text": "Friedreich ataxia"
+        },
+        {
+          "label": "C",
+          "text": "Leber hereditary optic neuropathy"
+        },
+        {
+          "label": "D",
+          "text": "MELAS"
+        },
+        {
+          "label": "E",
+          "text": "MERRF"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Childhood-onset ataxia with cardiomyopathy and an FXN GAA repeat expansion defines Friedreich ataxia.",
+        "whyCorrect": "Friedreich ataxia (FRDA) is an autosomal recessive, progressive neurodegenerative disease typically presenting between ages 5 and 15 with unsteady posture, frequent falls, and progressive gait ataxia, and is associated with cardiomyopathy. It results from a GAA trinucleotide repeat expansion in intron 1 of the FXN gene, which disrupts transcription and leads to frataxin deficiency.",
+        "whyWrongByChoice": {
+          "A": "Ataxia-telangiectasia causes ataxia with oculocutaneous telangiectasias and immunodeficiency from ATM mutations, not an FXN GAA expansion.",
+          "C": "LHON causes painless vision loss from mtDNA complex I mutations, not gait ataxia with cardiomyopathy.",
+          "D": "MELAS is a maternally inherited mtDNA disorder with stroke-like episodes and lactic acidosis, not an FXN repeat expansion.",
+          "E": "MERRF is a maternally inherited mtDNA disorder (MT-TK) with myoclonus and ragged-red fibers, not caused by an FXN mutation."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Friedreich ataxia",
+        "FXN",
+        "trinucleotide repeat"
+      ],
+      "topicId": "mitochondrial-diseases",
+      "topicName": "Mitochondrial Diseases",
+      "tier": "core"
+    },
+    {
+      "id": "bo50-010",
+      "stem": "Friedreich ataxia results from deficiency of frataxin, a nuclear-encoded mitochondrial protein. Which of the following best describes the normal function of frataxin?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acting as the electron carrier released to trigger apoptosis"
+        },
+        {
+          "label": "B",
+          "text": "Charging the mitochondrial tRNA for lysine"
+        },
+        {
+          "label": "C",
+          "text": "Mitochondrial iron metabolism and iron homeostasis"
+        },
+        {
+          "label": "D",
+          "text": "Repair of mitochondrial DNA damage"
+        },
+        {
+          "label": "E",
+          "text": "Serving as a subunit of electron transport chain complex I"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Frataxin plays a crucial role in mitochondrial iron metabolism and iron homeostasis.",
+        "whyCorrect": "Frataxin is a nuclear-encoded mitochondrial protein that plays a crucial role in mitochondrial iron metabolism and iron homeostasis. Deficient or non-functional frataxin, caused by FXN GAA repeat expansions, underlies Friedreich ataxia.",
+        "whyWrongByChoice": {
+          "A": "Cytochrome C is the electron carrier released to trigger apoptosis, not frataxin.",
+          "B": "The tRNA-lysine gene MT-TK relates to MERRF; frataxin does not charge tRNAs.",
+          "D": "mtDNA repair is limited in mitochondria and is not the role of frataxin.",
+          "E": "Complex I subunits are encoded by genes such as MT-ND1/MT-ND4 (implicated in LHON), not by frataxin."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "frataxin",
+        "iron homeostasis",
+        "Friedreich ataxia"
+      ],
+      "topicId": "mitochondrial-diseases",
+      "topicName": "Mitochondrial Diseases",
+      "tier": "core"
+    },
+    {
+      "id": "bo50-011",
+      "stem": "Mitochondria help determine whether a cell will undergo programmed cell death. Which of the following mitochondrial events triggers apoptosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Accumulation of acetyl-CoA in the matrix"
+        },
+        {
+          "label": "B",
+          "text": "Fusion of two mitochondria into one"
+        },
+        {
+          "label": "C",
+          "text": "Import of nuclear-encoded proteins into the mitochondrion"
+        },
+        {
+          "label": "D",
+          "text": "Release of cytochrome C from the mitochondrion"
+        },
+        {
+          "label": "E",
+          "text": "Replication of mitochondrial DNA"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Release of cytochrome C from mitochondria triggers apoptosis.",
+        "whyCorrect": "When a mitochondrion releases cytochrome C, normally an electron carrier of the electron transport chain, apoptosis (programmed cell death) is triggered and the cell dies. This makes mitochondria central regulators of whether a cell lives or dies.",
+        "whyWrongByChoice": {
+          "A": "Acetyl-CoA production is a normal metabolic function of mitochondria and does not by itself trigger apoptosis.",
+          "B": "Mitochondrial fusion adjusts to the cell's energy needs and is not the trigger for programmed cell death.",
+          "C": "Import of nuclear-encoded proteins is required for normal mitochondrial function, not a death signal.",
+          "E": "mtDNA replication accompanies mitochondrial division and is unrelated to triggering apoptosis."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "apoptosis",
+        "cytochrome C",
+        "mitochondrial function"
+      ],
+      "topicId": "mitochondrial-diseases",
+      "topicName": "Mitochondrial Diseases",
+      "tier": "core"
+    },
+    {
+      "id": "bo50-012",
+      "stem": "The mitochondrial genome contains only 37 genes, of which 13 are protein-encoding. All 13 protein-encoding genes encode subunits of which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Glycolytic enzymes"
+        },
+        {
+          "label": "B",
+          "text": "Histone packaging proteins"
+        },
+        {
+          "label": "C",
+          "text": "Oxidative phosphorylation complexes"
+        },
+        {
+          "label": "D",
+          "text": "Ribosomal proteins of the cytoplasm"
+        },
+        {
+          "label": "E",
+          "text": "Urea cycle enzymes"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The 13 protein-coding mtDNA genes all encode oxidative phosphorylation subunits.",
+        "whyCorrect": "mtDNA is a small circular genome of about 16,569 base pairs containing 37 genes: 13 protein-encoding (all oxidative phosphorylation subunits), 22 tRNA genes, and 2 rRNA genes. The remaining ~1100 mitochondrial proteins are nuclear-encoded and imported from the cytoplasm.",
+        "whyWrongByChoice": {
+          "A": "Glycolytic enzymes function in the cytoplasm and are not encoded by mtDNA.",
+          "B": "mtDNA has no histones, and histone proteins are nuclear-encoded.",
+          "D": "Cytoplasmic ribosomal proteins are nuclear-encoded; mtDNA encodes only 2 rRNAs and 22 tRNAs for its own translation.",
+          "E": "Urea cycle enzymes are nuclear-encoded, not products of the 13 mtDNA protein-coding genes."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "mtDNA",
+        "OXPHOS",
+        "genome"
+      ],
+      "topicId": "mitochondrial-diseases",
+      "topicName": "Mitochondrial Diseases",
+      "tier": "core"
+    }
+  ]
+}

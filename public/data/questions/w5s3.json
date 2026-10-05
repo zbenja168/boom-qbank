@@ -1,0 +1,570 @@
+{
+  "categoryId": "w5s3",
+  "categoryName": "Session 3",
+  "questions": [
+    {
+      "id": "bo34-001",
+      "stem": "A 2-day-old term female is feeding well but her urine has a distinct sweet, burnt-sugar odor noted by nursing staff. The newborn screen shows markedly elevated leucine, isoleucine, and valine. The parents are given a specialized formula restricted in these three amino acids. A deficiency in which of the following enzymes is the most likely cause of this presentation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Branched-chain alpha-ketoacid dehydrogenase"
+        },
+        {
+          "label": "B",
+          "text": "Cystathionine beta-synthase (PLP-dependent)"
+        },
+        {
+          "label": "C",
+          "text": "Homogentisate oxidase (homogentisate dioxygenase)"
+        },
+        {
+          "label": "D",
+          "text": "Phenylalanine hydroxylase (BH4-dependent)"
+        },
+        {
+          "label": "E",
+          "text": "Propionyl-CoA carboxylase (biotin-dependent)"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Maple syrup urine disease results from deficient branched-chain alpha-ketoacid dehydrogenase.",
+        "whyCorrect": "The sweet, burnt-sugar urine odor and elevated valine, leucine, and isoleucine are classic for maple syrup urine disease (MSUD). MSUD is caused by deficiency of the branched-chain alpha-ketoacid dehydrogenase, a TPP-dependent complex that oxidatively decarboxylates the BCAA-derived alpha-keto acids. The block causes accumulation of toxic alpha-keto acids that are excreted in the urine.",
+        "whyWrongByChoice": {
+          "B": "Cystathionine beta-synthase deficiency causes homocystinuria with elevated homocysteine, not a maple-syrup odor.",
+          "C": "Homogentisate oxidase deficiency causes alkaptonuria with dark urine, not sweet-smelling urine or elevated BCAAs.",
+          "D": "Phenylalanine hydroxylase deficiency causes PKU, which gives a musty odor and elevated phenylalanine, not elevated BCAAs.",
+          "E": "Propionyl-CoA carboxylase deficiency causes propionic acidemia; while an organic acidemia, it does not produce the maple-syrup odor or the specific BCAA elevation of MSUD."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "MSUD",
+        "branched-chain amino acids",
+        "newborn screening"
+      ],
+      "topicId": "inborn-errors-of-amino-acid-metabolism",
+      "topicName": "Inborn Errors of Amino Acid Metabolism",
+      "tier": "core"
+    },
+    {
+      "id": "bo34-002",
+      "stem": "A 3-day-old newborn becomes lethargic and hypotonic before discharge. Laboratory studies show a high anion gap metabolic acidosis, hyperammonemia, and organic aciduria, with no urea cycle intermediates above normal. Based on the identity of the accumulating organic acid, the physician prescribes adenosyl-cobalamin. Catabolism of which of the following is defective in this patient?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Homocysteine"
+        },
+        {
+          "label": "B",
+          "text": "Leucine"
+        },
+        {
+          "label": "C",
+          "text": "Phenylalanine"
+        },
+        {
+          "label": "D",
+          "text": "Threonine"
+        },
+        {
+          "label": "E",
+          "text": "Tyrosine"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Methylmalonic acidemia is a methylmalonyl-CoA mutase defect that impairs catabolism of several amino acids including threonine.",
+        "whyCorrect": "The response to adenosyl-cobalamin identifies a defect in methylmalonyl-CoA mutase, the vitamin B12 (adenosyl-cobalamin)-dependent enzyme. This blocks the conversion of methylmalonyl-CoA to succinyl-CoA and impairs catabolism of methionine, threonine, isoleucine, and valine, causing methylmalonic acidemia with high anion gap acidosis and hyperammonemia.",
+        "whyWrongByChoice": {
+          "A": "Homocysteine metabolism is affected in homocystinuria, treated with B6 or B12 for methionine synthase, not adenosyl-cobalamin for a mutase.",
+          "B": "Leucine catabolism is blocked in isovaleric acidemia (isovaleryl-CoA dehydrogenase), which does not use adenosyl-cobalamin.",
+          "C": "Phenylalanine catabolism is disrupted in PKU (phenylalanine hydroxylase), which does not respond to cobalamin.",
+          "E": "Tyrosine catabolism is blocked in alkaptonuria, which causes dark urine and arthritis, not this acute acidosis."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "methylmalonic acidemia",
+        "vitamin B12",
+        "organic acidemia"
+      ],
+      "topicId": "inborn-errors-of-amino-acid-metabolism",
+      "topicName": "Inborn Errors of Amino Acid Metabolism",
+      "tier": "core"
+    },
+    {
+      "id": "bo34-003",
+      "stem": "A 6-year-old boy has developmental delay and poor school performance. On examination he is tall and thin with disproportionately long limbs and fingers. Laboratory studies reveal elevated plasma homocysteine, and urinalysis is unremarkable for organic acids and ketones. Genetic testing identifies a mutation in the CBS gene. Supplementation with which vitamin is most likely to be therapeutically beneficial?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Tetrahydrobiopterin (BH4)"
+        },
+        {
+          "label": "B",
+          "text": "Vitamin B1 (thiamine)"
+        },
+        {
+          "label": "C",
+          "text": "Vitamin B12 (cobalamin)"
+        },
+        {
+          "label": "D",
+          "text": "Vitamin B6 (pyridoxine)"
+        },
+        {
+          "label": "E",
+          "text": "Vitamin B7 (biotin)"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Cystathionine beta-synthase is PLP-dependent, so pyridoxine (B6) can rescue responsive homocystinuria variants.",
+        "whyCorrect": "A CBS mutation causes homocystinuria. Cystathionine beta-synthase requires pyridoxal phosphate (PLP), the active form of vitamin B6, and some patients respond to high-dose B6 supplementation. The tall marfanoid habitus with long limbs, cognitive issues, and elevated homocysteine fit CBS deficiency.",
+        "whyWrongByChoice": {
+          "A": "BH4 is the cofactor for phenylalanine hydroxylase in PKU, unrelated to CBS.",
+          "B": "Thiamine (TPP) is the cofactor for the branched-chain alpha-ketoacid dehydrogenase in MSUD, not for CBS.",
+          "C": "B12 (methylcobalamin) supports methionine synthase; it is used when the homocystinuria is due to methionine synthase deficiency, not a CBS mutation.",
+          "E": "Biotin is the cofactor for propionyl-CoA carboxylase, not CBS."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "homocystinuria",
+        "cystathionine beta-synthase",
+        "vitamin B6"
+      ],
+      "topicId": "inborn-errors-of-amino-acid-metabolism",
+      "topicName": "Inborn Errors of Amino Acid Metabolism",
+      "tier": "core"
+    },
+    {
+      "id": "bo34-004",
+      "stem": "A 30-year-old man is evaluated for progressive back and hip pain. His wife notes that his urine turns dark, almost black, after sitting in the toilet bowl, and his sclerae and ear cartilage have a bluish-black discoloration. Which enzyme deficiency best explains these findings?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Homogentisate oxidase"
+        },
+        {
+          "label": "B",
+          "text": "Isovaleryl-CoA dehydrogenase"
+        },
+        {
+          "label": "C",
+          "text": "Methylmalonyl-CoA mutase"
+        },
+        {
+          "label": "D",
+          "text": "Phenylalanine hydroxylase"
+        },
+        {
+          "label": "E",
+          "text": "Tyrosinase"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Alkaptonuria is a homogentisate oxidase deficiency causing homogentisic acid accumulation, ochronosis, and dark urine.",
+        "whyCorrect": "Alkaptonuria results from deficient homogentisate oxidase in the tyrosine catabolic pathway. Homogentisic acid accumulates and spontaneously oxidizes and polymerizes into a dark pigment, causing urine that darkens on air exposure, bluish-black connective tissue pigmentation (ochronosis), and early-onset arthritis of the spine, hips, and knees.",
+        "whyWrongByChoice": {
+          "B": "Isovaleryl-CoA dehydrogenase deficiency causes isovaleric acidemia with a sweaty-feet odor.",
+          "C": "Methylmalonyl-CoA mutase deficiency causes methylmalonic acidemia with acute acidosis in infancy.",
+          "D": "Phenylalanine hydroxylase deficiency causes PKU with a musty odor, not dark urine or ochronosis.",
+          "E": "Tyrosinase deficiency causes albinism with hypopigmentation, not dark pigment deposition."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "alkaptonuria",
+        "ochronosis",
+        "tyrosine catabolism"
+      ],
+      "topicId": "inborn-errors-of-amino-acid-metabolism",
+      "topicName": "Inborn Errors of Amino Acid Metabolism",
+      "tier": "core"
+    },
+    {
+      "id": "bo34-005",
+      "stem": "A newborn with untreated classic PKU is noted to have very fair skin, blond hair, and light-colored eyes compared with the parents. This hypopigmentation is best explained by which of the following mechanisms?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A primary mutation in the tyrosinase gene"
+        },
+        {
+          "label": "B",
+          "text": "Absence of melanocytes in the skin"
+        },
+        {
+          "label": "C",
+          "text": "Deficient tyrosine for melanin synthesis"
+        },
+        {
+          "label": "D",
+          "text": "Excess homogentisic acid deposition in skin"
+        },
+        {
+          "label": "E",
+          "text": "Failure of dopamine beta-hydroxylase"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "In PKU, blocked phenylalanine-to-tyrosine conversion limits tyrosine, the precursor for melanin, causing hypopigmentation.",
+        "whyCorrect": "Phenylalanine hydroxylase converts phenylalanine to tyrosine. When PAH is deficient, tyrosine becomes essential and is relatively deficient. Since tyrosine is the substrate for melanin synthesis, PKU patients characteristically show hypopigmentation of skin, hair, and eyes.",
+        "whyWrongByChoice": {
+          "A": "A primary tyrosinase mutation causes albinism, a separate disorder, not PKU-related hypopigmentation.",
+          "B": "PKU patients retain melanocytes; the problem is a lack of substrate, not absent pigment cells.",
+          "D": "Homogentisic acid deposition causes the dark pigmentation of alkaptonuria, the opposite of hypopigmentation.",
+          "E": "Dopamine beta-hydroxylase makes norepinephrine and is unrelated to melanin pigmentation."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "PKU",
+        "tyrosine",
+        "melanin"
+      ],
+      "topicId": "inborn-errors-of-amino-acid-metabolism",
+      "topicName": "Inborn Errors of Amino Acid Metabolism",
+      "tier": "core"
+    },
+    {
+      "id": "bo34-006",
+      "stem": "A 4-day-old infant presents with poor feeding, vomiting, hypotonia, and a sweaty-feet odor. Metabolic workup shows accumulation of isovaleryl-glycine and hydroxy-isovaleric acid. A deficiency in which enzyme, acting on which amino acid pathway, best explains this presentation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Branched-chain alpha-ketoacid dehydrogenase in all three BCAAs"
+        },
+        {
+          "label": "B",
+          "text": "Homogentisate oxidase in the tyrosine pathway"
+        },
+        {
+          "label": "C",
+          "text": "Isovaleryl-CoA dehydrogenase in the leucine pathway"
+        },
+        {
+          "label": "D",
+          "text": "Methylmalonyl-CoA mutase in the methionine pathway"
+        },
+        {
+          "label": "E",
+          "text": "Propionyl-CoA carboxylase in the valine pathway"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Isovaleric acidemia is a deficiency of isovaleryl-CoA dehydrogenase in leucine catabolism.",
+        "whyCorrect": "Isovaleric acidemia is a defect in the leucine catabolism pathway caused by deficient isovaleryl-CoA dehydrogenase, a mitochondrial FAD-dependent flavoenzyme that converts isovaleryl-CoA to 3-methylcrotonyl-CoA. Accumulated isovaleryl-CoA yields measurable derivatives such as isovaleryl-glycine and hydroxy-isovaleric acid, and produces the characteristic sweaty-feet odor.",
+        "whyWrongByChoice": {
+          "A": "Branched-chain alpha-ketoacid dehydrogenase deficiency causes MSUD affecting all three BCAAs, with a maple-syrup odor.",
+          "B": "Homogentisate oxidase acts in tyrosine catabolism (alkaptonuria), unrelated to a sweaty-feet odor.",
+          "D": "Methylmalonyl-CoA mutase deficiency causes methylmalonic acidemia, not isovaleryl-glycine accumulation.",
+          "E": "Propionyl-CoA carboxylase deficiency causes propionic acidemia with propionyl-CoA buildup, not isovaleryl derivatives."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "isovaleric acidemia",
+        "leucine",
+        "organic acidemia"
+      ],
+      "topicId": "inborn-errors-of-amino-acid-metabolism",
+      "topicName": "Inborn Errors of Amino Acid Metabolism",
+      "tier": "core"
+    },
+    {
+      "id": "bo34-007",
+      "stem": "A 25-year-old man presents with severe, radiating right flank pain. Urinalysis shows hexagonal crystals, and a stone analysis confirms cystine. His disease is caused by a defect in the transporter that reabsorbs cystine along with which other group of amino acids?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acidic/anionic amino acids (aspartate, glutamate)"
+        },
+        {
+          "label": "B",
+          "text": "Aromatic amino acids (phenylalanine, tyrosine)"
+        },
+        {
+          "label": "C",
+          "text": "Basic amino acids (ornithine, arginine, lysine)"
+        },
+        {
+          "label": "D",
+          "text": "Branched-chain amino acids (leucine, valine)"
+        },
+        {
+          "label": "E",
+          "text": "Neutral (zwitterionic) amino acids (alanine, serine)"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Cystinuria is a defect in the basic amino acid transporter that also carries the cystine dimer.",
+        "whyCorrect": "Cystinuria results from a defect in the basic amino acid transporter (encoded by SLC3A1 or SLC7A9), which also recognizes the disulfide-linked cysteine dimer, cystine. Affected patients cannot reabsorb ornithine, arginine, lysine, and cystine, and cystine precipitates into hexagonal kidney stones, especially in acidic urine.",
+        "whyWrongByChoice": {
+          "A": "Anionic amino acids use the XAG- system, which is not involved in cystinuria.",
+          "B": "Aromatic amino acids are transported by the L system and are not the group lost with cystine in cystinuria.",
+          "D": "Branched-chain amino acids are handled by the L system and are not the defective transporter in cystinuria.",
+          "E": "The neutral amino acid transporter (SLC6A19) is defective in Hartnup disease, not cystinuria."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "cystinuria",
+        "amino acid transport",
+        "kidney stones"
+      ],
+      "topicId": "inborn-errors-of-amino-acid-metabolism",
+      "topicName": "Inborn Errors of Amino Acid Metabolism",
+      "tier": "core"
+    },
+    {
+      "id": "bo34-008",
+      "stem": "A 5-year-old child with intermittent ataxia develops a photosensitive, pellagra-like skin rash during a period of poor diet and increased sun exposure. Urinalysis shows increased excretion of neutral amino acids including tryptophan. Which of the following best explains the pellagra-like features?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Branched-chain alpha-keto acids inhibit the TCA cycle"
+        },
+        {
+          "label": "B",
+          "text": "Cystine precipitates in the renal tubules"
+        },
+        {
+          "label": "C",
+          "text": "Excess phenylalanine displaces tryptophan at the blood-brain barrier"
+        },
+        {
+          "label": "D",
+          "text": "Homogentisic acid polymerizes in connective tissue"
+        },
+        {
+          "label": "E",
+          "text": "Loss of tryptophan reduces nicotinamide (niacin) production"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Hartnup disease causes neutral aminoaciduria; tryptophan loss impairs niacin synthesis and can produce pellagra.",
+        "whyCorrect": "Hartnup disease is a defect in the neutral amino acid transporter (SLC6A19) causing neutral hyperaminoaciduria. Poor absorption combined with urinary loss of tryptophan reduces nicotinamide production, and when triggered by dietary changes or sun exposure can lead to pellagra (dermatitis, diarrhea, dementia).",
+        "whyWrongByChoice": {
+          "A": "Branched-chain alpha-keto acids inhibiting the TCA cycle relate to organic acidemias like MSUD, not Hartnup dermatitis.",
+          "B": "Cystine precipitation causes kidney stones in cystinuria, not a pellagra-like rash.",
+          "C": "Phenylalanine displacing tryptophan at the blood-brain barrier is a mechanism in PKU affecting serotonin, not the cause of the Hartnup skin rash.",
+          "D": "Homogentisic acid polymerization causes ochronosis in alkaptonuria, unrelated to pellagra."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "Hartnup disease",
+        "tryptophan",
+        "pellagra"
+      ],
+      "topicId": "inborn-errors-of-amino-acid-metabolism",
+      "topicName": "Inborn Errors of Amino Acid Metabolism",
+      "tier": "core"
+    },
+    {
+      "id": "bo34-009",
+      "stem": "An infant is diagnosed with a severe, rare form of PKU that does not improve with strict phenylalanine restriction alone. Testing reveals a mutation in dihydropteridine reductase. Beyond a low-phenylalanine diet, why is this form more severe and require neurotransmitter precursor supplementation such as L-Dopa and 5-HTP?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Aspartame competitively inhibits the enzyme"
+        },
+        {
+          "label": "B",
+          "text": "BH4 cannot be recycled"
+        },
+        {
+          "label": "C",
+          "text": "Excess methionine accumulates and is neurotoxic"
+        },
+        {
+          "label": "D",
+          "text": "Phenylalanine hydroxylase is completely absent"
+        },
+        {
+          "label": "E",
+          "text": "Tyrosinase activity is secondarily lost"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Malignant PKU results from failed BH4 recycling, which cripples multiple BH4-dependent hydroxylases.",
+        "whyCorrect": "Dihydropteridine reductase is needed to regenerate tetrahydrobiopterin (BH4). Without recycling, all BH4-dependent hydroxylases are impaired: not only phenylalanine hydroxylase but also tyrosine hydroxylase (dopamine, then norepinephrine and epinephrine) and tryptophan hydroxylase (serotonin). Because diet alone cannot restore these neurotransmitters, precursors such as L-Dopa and 5-HTP are supplemented.",
+        "whyWrongByChoice": {
+          "A": "Aspartame is a phenylalanine source to avoid, not an enzyme inhibitor causing this severity.",
+          "C": "Methionine accumulation relates to homocystinuria, not malignant PKU.",
+          "D": "Complete absence of PAH is classic PKU, which responds to phenylalanine restriction and does not by itself deplete dopamine and serotonin.",
+          "E": "Tyrosinase (albinism) is not the affected enzyme in malignant PKU."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "malignant PKU",
+        "dihydropteridine reductase",
+        "BH4"
+      ],
+      "topicId": "inborn-errors-of-amino-acid-metabolism",
+      "topicName": "Inborn Errors of Amino Acid Metabolism",
+      "tier": "core"
+    },
+    {
+      "id": "bo34-010",
+      "stem": "A neonate with propionic acidemia is stabilized. As part of long-term management the team plans a therapy that helps clear the accumulating toxic acid by conjugation. Which supplement is used, and by what mechanism does it help?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Adenosyl-cobalamin, which is the cofactor for propionyl-CoA carboxylase"
+        },
+        {
+          "label": "B",
+          "text": "Biotin, which directly degrades propionyl-CoA to acetyl-CoA"
+        },
+        {
+          "label": "C",
+          "text": "Carnitine, which conjugates propionic acid to aid its excretion and free up CoA"
+        },
+        {
+          "label": "D",
+          "text": "Tetrahydrobiopterin, which restores propionyl-CoA carboxylase activity"
+        },
+        {
+          "label": "E",
+          "text": "Thiamine, which serves as the cofactor for propionyl-CoA carboxylase"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Carnitine supplementation conjugates accumulating propionic acid to aid excretion and regenerate free CoA.",
+        "whyCorrect": "In propionyl-CoA carboxylase deficiency, propionyl-CoA and propionic acid accumulate. Carnitine supplementation allows carnitine acyltransferase to conjugate carnitine to the excess acid, freeing up needed CoA and making the propionic acid more readily excreted, analogous to the handling of medium-chain acyl-CoAs in MCAD.",
+        "whyWrongByChoice": {
+          "A": "Adenosyl-cobalamin is the cofactor for methylmalonyl-CoA mutase, the next step, not propionyl-CoA carboxylase, whose cofactor is biotin.",
+          "B": "Biotin is the natural cofactor for propionyl-CoA carboxylase, but it does not directly degrade propionyl-CoA to acetyl-CoA.",
+          "D": "BH4 is the PAH cofactor in PKU, not relevant to propionyl-CoA carboxylase.",
+          "E": "Thiamine (TPP) is the cofactor for the branched-chain alpha-ketoacid dehydrogenase, not propionyl-CoA carboxylase."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "propionic acidemia",
+        "carnitine",
+        "organic acidemia"
+      ],
+      "topicId": "inborn-errors-of-amino-acid-metabolism",
+      "topicName": "Inborn Errors of Amino Acid Metabolism",
+      "tier": "core"
+    },
+    {
+      "id": "bo34-011",
+      "stem": "During the newborn period, several inborn errors that cause accumulation of organic acids present with a characteristic laboratory triad when untreated. Which of the following combinations is most typical of these organic acidemias?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "High anion gap acidosis with low ammonia and no ketosis"
+        },
+        {
+          "label": "B",
+          "text": "High anion gap metabolic acidosis, hyperammonemia, and ketosis"
+        },
+        {
+          "label": "C",
+          "text": "Metabolic alkalosis, hyperammonemia, and hyperglycemia"
+        },
+        {
+          "label": "D",
+          "text": "Normal anion gap acidosis, hypoammonemia, and alkalosis"
+        },
+        {
+          "label": "E",
+          "text": "Respiratory alkalosis, hypoglycemia, and hyperkalemia only"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Untreated organic acidemias classically present with high anion gap metabolic acidosis, hyperammonemia, and ketosis.",
+        "whyCorrect": "Organic acidemias accumulate toxic acids that, along with ketosis from decreased energy yield of amino acid catabolism and inhibition of TCA cycle enzymes, cause high anion gap metabolic acidosis. The organic acids also inhibit urea cycle enzymes (notably NAG synthase), producing hyperammonemia. Hypoglycemia may also occur.",
+        "whyWrongByChoice": {
+          "A": "Ammonia is typically elevated and ketosis is usually present, the opposite of this option.",
+          "C": "These disorders cause acidosis, not alkalosis, and tend toward hypoglycemia rather than hyperglycemia.",
+          "D": "Organic acidemias cause a high, not normal, anion gap, and hyperammonemia rather than hypoammonemia.",
+          "E": "The primary disturbance is a high anion gap metabolic acidosis, not respiratory alkalosis; potassium is not the defining feature."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "organic acidemias",
+        "metabolic acidosis",
+        "hyperammonemia"
+      ],
+      "topicId": "inborn-errors-of-amino-acid-metabolism",
+      "topicName": "Inborn Errors of Amino Acid Metabolism",
+      "tier": "core"
+    },
+    {
+      "id": "bo34-012",
+      "stem": "A pregnant woman with poorly controlled PKU consumes a normal, phenylalanine-rich diet throughout gestation. Her fetus is at increased risk of adverse effects even though the fetus may not have inherited PKU. Which of the following congenital findings is most characteristic of this maternal condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bluish-black sclerae"
+        },
+        {
+          "label": "B",
+          "text": "Hexagonal renal calculi"
+        },
+        {
+          "label": "C",
+          "text": "Microcephaly"
+        },
+        {
+          "label": "D",
+          "text": "Ochronosis of cartilage"
+        },
+        {
+          "label": "E",
+          "text": "Sweaty-feet body odor"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Maternal PKU with high phenylalanine causes fetal phenylalanine embryopathy, notably microcephaly and congenital heart defects.",
+        "whyCorrect": "When a pregnant woman with PKU consumes excess phenylalanine, transplacental phenylalanine adversely affects fetal development (phenylalanine embryopathy). Characteristic features in the affected newborn include microcephaly and congenital heart defects, even if the child did not inherit PKU.",
+        "whyWrongByChoice": {
+          "A": "Bluish-black sclerae reflect ochronosis in alkaptonuria, not phenylalanine embryopathy.",
+          "B": "Hexagonal renal calculi are the hallmark of cystinuria, not maternal PKU.",
+          "D": "Ochronosis of cartilage is seen in alkaptonuria.",
+          "E": "A sweaty-feet odor characterizes isovaleric acidemia, not maternal PKU effects."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "maternal PKU",
+        "phenylalanine embryopathy",
+        "clinical correlation"
+      ],
+      "topicId": "inborn-errors-of-amino-acid-metabolism",
+      "topicName": "Inborn Errors of Amino Acid Metabolism",
+      "tier": "core"
+    }
+  ]
+}

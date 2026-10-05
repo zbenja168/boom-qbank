@@ -1,0 +1,1139 @@
+{
+  "categoryId": "w6s1",
+  "categoryName": "Session 1",
+  "questions": [
+    {
+      "id": "bo35-001",
+      "stem": "A healthy full-term newborn develops yellowing of the skin and sclerae on the third day of life. He is feeding well and is otherwise vigorous. Total bilirubin is elevated with a predominantly unconjugated (indirect) fraction, and the jaundice resolves by two weeks of age. Which of the following mechanisms best explains the elevated bilirubin?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Absent ferrochelatase in erythroid precursors"
+        },
+        {
+          "label": "B",
+          "text": "Autoimmune destruction of hepatocytes"
+        },
+        {
+          "label": "C",
+          "text": "Extrahepatic obstruction of the common bile duct"
+        },
+        {
+          "label": "D",
+          "text": "Low hepatic UDP-glucuronosyltransferase activity"
+        },
+        {
+          "label": "E",
+          "text": "Mutation in the ABCC2 (MRP2) canalicular transporter"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Physiologic neonatal jaundice reflects immature hepatic conjugation combined with high red-cell turnover.",
+        "whyCorrect": "In newborns the liver is still maturing, so UDP-glucuronosyltransferase (UDPGT) activity is transiently reduced. Combined with increased breakdown of a large, short-lived neonatal red-cell mass, this produces a benign unconjugated hyperbilirubinemia that resolves as the liver matures over 1-2 weeks.",
+        "whyWrongByChoice": {
+          "A": "Absent ferrochelatase impairs heme synthesis and does not describe the mechanism of physiologic neonatal jaundice.",
+          "B": "Autoimmune hepatocyte destruction is not the cause of routine physiologic neonatal jaundice, which is developmental and self-limited.",
+          "C": "Bile duct obstruction would raise the conjugated (direct) fraction and cause pale stools and dark urine, not a self-resolving indirect hyperbilirubinemia.",
+          "E": "An ABCC2/MRP2 mutation (Dubin-Johnson) causes a conjugated hyperbilirubinemia, not the transient unconjugated jaundice of the newborn."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "neonatal jaundice",
+        "bilirubin",
+        "UDPGT"
+      ],
+      "topicId": "porphyrins-and-iron-homeostasis",
+      "topicName": "Porphyrins and Iron Homeostasis (1 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "bo35-002",
+      "stem": "A 3-year-old who lives in a home built in the 1940s presents with irritability, abdominal pain, and loss of previously acquired developmental milestones. A complete blood count shows a microcytic anemia, and delta-aminolevulinic acid (ALA) is elevated. Which pair of enzymes is most directly inhibited by the responsible toxin?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "ALA dehydratase and ferrochelatase"
+        },
+        {
+          "label": "B",
+          "text": "ALA synthase and biliverdin reductase"
+        },
+        {
+          "label": "C",
+          "text": "Coproporphyrinogen oxidase and protoporphyrinogen oxidase"
+        },
+        {
+          "label": "D",
+          "text": "Porphobilinogen deaminase and uroporphyrinogen III synthase"
+        },
+        {
+          "label": "E",
+          "text": "UDP-glucuronosyltransferase and heme oxygenase"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Lead poisoning blocks ALA dehydratase and ferrochelatase, causing ALA buildup and reduced heme.",
+        "whyCorrect": "Lead inhibits ALA dehydratase (causing accumulation of neurotoxic ALA) and ferrochelatase (preventing insertion of iron into protoporphyrin IX). The result is decreased heme production with microcytic anemia plus the neurologic findings of ALA accumulation.",
+        "whyWrongByChoice": {
+          "B": "ALA synthase is the rate-limiting enzyme but is not the target of lead, and biliverdin reductase acts in heme degradation, not synthesis.",
+          "C": "The coproporphyrinogen and protoporphyrinogen oxidases are not the primary lead-sensitive steps described in the pathway.",
+          "D": "Porphobilinogen deaminase and uroporphyrinogen III synthase are not the enzymes classically inhibited by lead.",
+          "E": "UDP-glucuronosyltransferase and heme oxygenase participate in bilirubin metabolism, not the steps blocked by lead."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "lead poisoning",
+        "heme synthesis",
+        "microcytic anemia"
+      ],
+      "topicId": "porphyrins-and-iron-homeostasis",
+      "topicName": "Porphyrins and Iron Homeostasis (1 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "bo35-003",
+      "stem": "A 2-month-old boy is brought in for failure to thrive that began shortly after birth. Laboratory studies confirm a microcytic anemia, and a Prussian blue stain of the bone marrow shows ringed sideroblasts (iron-laden mitochondria encircling the nucleus of erythroid precursors). Which of the following is the most likely cause of his condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Decreased ALAS1 activity"
+        },
+        {
+          "label": "B",
+          "text": "Decreased ALAS2 activity"
+        },
+        {
+          "label": "C",
+          "text": "Excess heme oxygenase activity"
+        },
+        {
+          "label": "D",
+          "text": "Folate deficiency"
+        },
+        {
+          "label": "E",
+          "text": "Increased ferrochelatase activity"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "X-linked sideroblastic anemia results from deficient ALAS2, the erythroid-specific isoform.",
+        "whyCorrect": "ALAS2 is the erythroid isoform that drives heme synthesis for hemoglobin. Its deficiency impairs heme production, so iron accumulates in the mitochondria of erythroid precursors, forming ringed sideroblasts and causing an X-linked microcytic anemia.",
+        "whyWrongByChoice": {
+          "A": "ALAS1 predominates in the liver and non-erythroid tissues, not the erythroid precursors affected in ringed sideroblastic anemia.",
+          "C": "Excess heme oxygenase accelerates heme degradation and does not explain ringed sideroblasts or microcytic anemia.",
+          "D": "Folate deficiency causes a macrocytic (megaloblastic) anemia, whereas impaired heme synthesis produces microcytosis.",
+          "E": "Increased ferrochelatase activity would enhance iron incorporation into heme, the opposite of the defect seen here."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "ALAS2",
+        "sideroblastic anemia",
+        "heme synthesis"
+      ],
+      "topicId": "porphyrins-and-iron-homeostasis",
+      "topicName": "Porphyrins and Iron Homeostasis (1 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "bo35-004",
+      "stem": "The committed, rate-limiting step of heme synthesis condenses glycine and succinyl-CoA to form delta-aminolevulinic acid. Which of the following cofactors is required for this reaction, such that its deficiency can produce a microcytic (sideroblastic) anemia?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Biotin"
+        },
+        {
+          "label": "B",
+          "text": "Folate"
+        },
+        {
+          "label": "C",
+          "text": "NADPH"
+        },
+        {
+          "label": "D",
+          "text": "Vitamin B12 (cobalamin)"
+        },
+        {
+          "label": "E",
+          "text": "Vitamin B6"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "ALA synthase is a PLP (vitamin B6)-dependent enzyme catalyzing the first step of heme synthesis.",
+        "whyCorrect": "The first step of heme synthesis, catalyzed by ALA synthase, requires pyridoxal phosphate (the active form of vitamin B6). Because this step is essential for heme production, B6/PLP deficiency impairs heme synthesis and can cause a microcytic, sideroblastic anemia.",
+        "whyWrongByChoice": {
+          "A": "Biotin is a cofactor for carboxylase reactions and is not involved in the first step of heme synthesis.",
+          "B": "Folate is required for one-carbon transfer and DNA synthesis, not for the ALA synthase reaction.",
+          "C": "NADPH is used by biliverdin reductase in heme degradation, not for the condensation of glycine and succinyl-CoA.",
+          "D": "Vitamin B12 deficiency causes a macrocytic megaloblastic anemia and is not the cofactor for ALA synthase."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "ALA synthase",
+        "vitamin B6",
+        "rate-limiting step"
+      ],
+      "topicId": "porphyrins-and-iron-homeostasis",
+      "topicName": "Porphyrins and Iron Homeostasis (1 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "bo35-005",
+      "stem": "Before bilirubin can be excreted into bile, it must be conjugated with glucuronic acid to become water-soluble. In which of the following cells does this conjugation reaction occur?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Erythroid precursor"
+        },
+        {
+          "label": "B",
+          "text": "Hepatocyte"
+        },
+        {
+          "label": "C",
+          "text": "Intestinal bacterium"
+        },
+        {
+          "label": "D",
+          "text": "Renal tubular cell"
+        },
+        {
+          "label": "E",
+          "text": "Splenic macrophage"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Bilirubin is conjugated with glucuronic acid by UDP-glucuronosyltransferase inside hepatocytes.",
+        "whyCorrect": "Unconjugated bilirubin is taken up by hepatocytes, where UDP-glucuronosyltransferase (UDPGT) covalently links it to glucuronic acid. This produces water-soluble conjugated bilirubin that can then be excreted into bile.",
+        "whyWrongByChoice": {
+          "A": "Erythroid precursors synthesize hemoglobin and are not sites of bilirubin conjugation.",
+          "C": "Gut bacteria convert conjugated bilirubin to urobilinogen; they do not conjugate bilirubin.",
+          "D": "Renal tubular cells excrete water-soluble conjugated bilirubin but do not perform the conjugation reaction.",
+          "E": "Macrophages break down red cells and generate unconjugated bilirubin, but they do not conjugate it."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "bilirubin conjugation",
+        "hepatocyte",
+        "UDPGT"
+      ],
+      "topicId": "porphyrins-and-iron-homeostasis",
+      "topicName": "Porphyrins and Iron Homeostasis (1 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "bo35-006",
+      "stem": "During degradation of heme within splenic macrophages, the porphyrin ring is cleaved to form biliverdin. Which of the following byproducts are released in this heme oxygenase-catalyzed reaction?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Ammonia and succinyl-CoA"
+        },
+        {
+          "label": "B",
+          "text": "Carbon monoxide and ferrous iron"
+        },
+        {
+          "label": "C",
+          "text": "Glycine and carbon dioxide"
+        },
+        {
+          "label": "D",
+          "text": "NADPH and glucuronic acid"
+        },
+        {
+          "label": "E",
+          "text": "Urobilinogen and stercobilin"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Heme oxygenase cleaves heme to biliverdin, releasing carbon monoxide and Fe2+.",
+        "whyCorrect": "Heme oxygenase opens the porphyrin ring of heme, producing biliverdin while liberating carbon monoxide and ferrous iron (Fe2+). The iron is recycled, and this reaction is the source of endogenous CO.",
+        "whyWrongByChoice": {
+          "A": "Ammonia and succinyl-CoA are not products of heme cleavage; succinyl-CoA is a substrate of heme synthesis.",
+          "C": "Glycine and CO2 relate to the synthetic (ALA synthase) side of heme metabolism, not to heme degradation.",
+          "D": "NADPH is a reactant for the next step (biliverdin reductase), and glucuronic acid is added later in the liver; neither is released by heme oxygenase.",
+          "E": "Urobilinogen and stercobilin are downstream gut bacterial products of conjugated bilirubin, not products of heme oxygenase."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "heme oxygenase",
+        "biliverdin",
+        "carbon monoxide"
+      ],
+      "topicId": "porphyrins-and-iron-homeostasis",
+      "topicName": "Porphyrins and Iron Homeostasis (1 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "bo35-007",
+      "stem": "A newborn with a markedly elevated unconjugated bilirubin that is not promptly treated becomes lethargic and later develops cerebral palsy and hearing loss. Which property of unconjugated bilirubin best accounts for this neurologic injury?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It accumulates as ringed sideroblasts in the basal ganglia"
+        },
+        {
+          "label": "B",
+          "text": "It is covalently bound to glucuronic acid by UGT1A1"
+        },
+        {
+          "label": "C",
+          "text": "It is efficiently excreted into bile by hepatocytes"
+        },
+        {
+          "label": "D",
+          "text": "It is lipid-soluble and can cross the blood-brain barrier"
+        },
+        {
+          "label": "E",
+          "text": "It is water-soluble and freely filtered by the renal glomerulus"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Lipid-soluble unconjugated bilirubin crosses the blood-brain barrier, causing kernicterus.",
+        "whyCorrect": "Unconjugated bilirubin is hydrophobic and lipid-soluble. When it accumulates because conjugation cannot keep pace, it crosses the blood-brain barrier and deposits in the brain, producing the irreversible neurologic damage of kernicterus (cerebral palsy, hearing/vision problems).",
+        "whyWrongByChoice": {
+          "A": "Ringed sideroblasts are marrow erythroid precursors in sideroblastic anemia and have nothing to do with kernicterus.",
+          "B": "Conjugation with glucuronic acid defines conjugated bilirubin, which does not cross the blood-brain barrier.",
+          "C": "Only conjugated bilirubin is efficiently excreted into bile; the unconjugated form is the neurotoxic species.",
+          "E": "Unconjugated bilirubin is water-insoluble and is not filtered by the kidney; only the conjugated form is renally excreted."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "kernicterus",
+        "unconjugated bilirubin",
+        "blood-brain barrier"
+      ],
+      "topicId": "porphyrins-and-iron-homeostasis",
+      "topicName": "Porphyrins and Iron Homeostasis (1 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "bo35-008",
+      "stem": "A jaundiced neonate is placed under blue-green phototherapy lamps, and the serum bilirubin falls even though hepatic conjugation is unchanged. Which of the following best explains how phototherapy lowers the bilirubin level?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It degrades bilirubin into carbon monoxide and iron"
+        },
+        {
+          "label": "B",
+          "text": "It increases albumin binding of bilirubin in the blood"
+        },
+        {
+          "label": "C",
+          "text": "It induces hepatic UDP-glucuronosyltransferase"
+        },
+        {
+          "label": "D",
+          "text": "It photo-isomerizes bilirubin into a water-soluble form"
+        },
+        {
+          "label": "E",
+          "text": "It stimulates ferrochelatase to consume bilirubin"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Phototherapy isomerizes unconjugated bilirubin in the skin into a water-soluble form for excretion.",
+        "whyCorrect": "The conjugated ring system of bilirubin absorbs blue-green light (most effective around 460-490 nm). This energy isomerizes unconjugated bilirubin in the skin capillaries into a more water-soluble isomer that can be excreted in bile and urine without requiring hepatic conjugation.",
+        "whyWrongByChoice": {
+          "A": "CO and iron are released by heme oxygenase acting on heme, not by light acting on bilirubin.",
+          "B": "Increasing albumin binding would keep bilirubin in the blood rather than promote its excretion.",
+          "C": "Phototherapy works independently of hepatic conjugation; the stem specifies conjugation is unchanged.",
+          "E": "Ferrochelatase inserts iron into protoporphyrin during heme synthesis and does not consume bilirubin."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "phototherapy",
+        "neonatal jaundice",
+        "bilirubin isomerization"
+      ],
+      "topicId": "porphyrins-and-iron-homeostasis",
+      "topicName": "Porphyrins and Iron Homeostasis (1 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "bo35-009",
+      "stem": "A young adult with a history of mild, intermittent jaundice undergoes laparoscopy for an unrelated reason, and the surgeon notes a strikingly glossy black liver. Laboratory studies show a predominantly conjugated (direct) hyperbilirubinemia. Which of the following defects is most likely responsible?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A slight reduction in hepatic UDP-glucuronosyltransferase activity"
+        },
+        {
+          "label": "B",
+          "text": "Complete absence of hepatic UDP-glucuronosyltransferase activity"
+        },
+        {
+          "label": "C",
+          "text": "Defective canalicular MRP2 transporter due to an ABCC2 mutation"
+        },
+        {
+          "label": "D",
+          "text": "Excessive intravascular hemolysis of circulating red blood cells"
+        },
+        {
+          "label": "E",
+          "text": "Inhibition of erythroid ferrochelatase by chronic lead exposure"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Dubin-Johnson syndrome is a conjugated hyperbilirubinemia from a defective MRP2 (ABCC2) transporter, marked by a black liver.",
+        "whyCorrect": "Dubin-Johnson syndrome is an autosomal recessive defect of the ABCC2 gene encoding MRP2, which normally exports conjugated bilirubin from hepatocytes into bile. Impaired excretion raises conjugated bilirubin and produces the characteristic glossy black liver.",
+        "whyWrongByChoice": {
+          "A": "A slight decrease in UDPGT describes Gilbert syndrome, an unconjugated hyperbilirubinemia without a black liver.",
+          "B": "Complete absence of UDPGT is Crigler-Najjar type 1, which causes severe unconjugated (not conjugated) hyperbilirubinemia.",
+          "D": "Hemolysis produces an unconjugated hyperbilirubinemia because it overwhelms conjugation, not a conjugated one.",
+          "E": "Lead inhibition of ferrochelatase impairs heme synthesis and causes anemia, not a conjugated hyperbilirubinemia with a black liver."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "Dubin-Johnson",
+        "conjugated hyperbilirubinemia",
+        "ABCC2"
+      ],
+      "topicId": "porphyrins-and-iron-homeostasis",
+      "topicName": "Porphyrins and Iron Homeostasis (1 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "bo35-010",
+      "stem": "A 19-year-old man notices mild scleral icterus during a febrile illness and again after fasting for a religious observance; each episode resolves on its own. Labs show a mildly elevated, predominantly unconjugated bilirubin with normal liver enzymes and no evidence of hemolysis. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Crigler-Najjar syndrome type 1"
+        },
+        {
+          "label": "B",
+          "text": "Dubin-Johnson syndrome"
+        },
+        {
+          "label": "C",
+          "text": "Extrahepatic biliary obstruction"
+        },
+        {
+          "label": "D",
+          "text": "Gilbert syndrome"
+        },
+        {
+          "label": "E",
+          "text": "Rotor syndrome"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Gilbert syndrome causes mild, stress- or fasting-provoked unconjugated hyperbilirubinemia and is benign.",
+        "whyCorrect": "Gilbert syndrome is a common (3-7%), benign disorder with a slight decrease in UDPGT. Conjugation still occurs, but stressors such as infection or fasting let heme breakdown outpace conjugation, producing a transient, self-limited unconjugated hyperbilirubinemia that needs no treatment.",
+        "whyWrongByChoice": {
+          "A": "Crigler-Najjar type 1 has complete absence of UDPGT and presents in infancy with severe jaundice and kernicterus, not mild episodic icterus in a young adult.",
+          "B": "Dubin-Johnson causes a conjugated hyperbilirubinemia with a black liver, not an unconjugated one triggered by fasting.",
+          "C": "Biliary obstruction produces a conjugated hyperbilirubinemia with pale stools and dark urine, not a benign unconjugated pattern.",
+          "E": "Rotor syndrome causes a conjugated hyperbilirubinemia from impaired hepatic excretion, unlike this unconjugated pattern."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Gilbert syndrome",
+        "unconjugated hyperbilirubinemia",
+        "UDPGT"
+      ],
+      "topicId": "porphyrins-and-iron-homeostasis",
+      "topicName": "Porphyrins and Iron Homeostasis (1 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "bo35-011",
+      "stem": "A 55-year-old woman with a gallstone lodged in her common bile duct develops jaundice, pale clay-colored stools, and dark urine. Which of the following laboratory findings best fits her condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Decreased serum conjugated bilirubin"
+        },
+        {
+          "label": "B",
+          "text": "Elevated conjugated bilirubin that spills over into the urine"
+        },
+        {
+          "label": "C",
+          "text": "Elevated unconjugated bilirubin with absent bilirubin in the urine"
+        },
+        {
+          "label": "D",
+          "text": "Increased stercobilin production in the gut"
+        },
+        {
+          "label": "E",
+          "text": "Ringed sideroblasts in the bone marrow"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Post-hepatic obstruction backs up conjugated bilirubin into blood and urine, causing pale stools and dark urine.",
+        "whyCorrect": "With a bile duct obstruction the liver still conjugates bilirubin, but the water-soluble conjugated form cannot reach the gut and backs up into the blood (post-hepatic jaundice). It is then abnormally excreted in urine (dark urine), while reduced bilirubin delivery to the gut produces pale stools.",
+        "whyWrongByChoice": {
+          "A": "Serum conjugated bilirubin rises, not falls, when it cannot be routed out through the obstructed bile duct.",
+          "C": "The obstruction raises the conjugated fraction, and because conjugated bilirubin is water-soluble it does appear in the urine.",
+          "D": "Obstruction reduces conjugated bilirubin reaching the gut, so stercobilin falls and stools become pale, not increased.",
+          "E": "Ringed sideroblasts reflect a heme synthesis defect in the marrow, unrelated to biliary obstruction."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "biliary obstruction",
+        "conjugated bilirubin",
+        "post-hepatic jaundice"
+      ],
+      "topicId": "porphyrins-and-iron-homeostasis",
+      "topicName": "Porphyrins and Iron Homeostasis (1 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "bo35-012",
+      "stem": "A patient with acute intermittent porphyria has an attack after starting a barbiturate and drinking alcohol, both of which induce hepatic ALAS1. The clinical team wants to reduce ALAS1-driven flux through the pathway. Which of the following most directly opposes ALAS1 induction and is used to dampen such attacks?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Erythropoietin"
+        },
+        {
+          "label": "B",
+          "text": "Glucose"
+        },
+        {
+          "label": "C",
+          "text": "Hypoxia"
+        },
+        {
+          "label": "D",
+          "text": "Iron chelation"
+        },
+        {
+          "label": "E",
+          "text": "Lead"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Glucose (and heme/hemin) suppresses ALAS1, so glucose loading helps dampen porphyria attacks.",
+        "whyCorrect": "Low glucose indirectly stimulates ALAS1 expression, so maintaining or raising blood glucose suppresses ALAS1 and reduces flux through the heme pathway. This is why glucose loading (and hemin, which acts like heme's feedback signal) is used to blunt acute porphyria attacks.",
+        "whyWrongByChoice": {
+          "A": "Erythropoietin induces the erythroid isoform ALAS2, not the hepatic ALAS1 relevant to this scenario.",
+          "C": "Hypoxia is a stimulator of ALAS activity, which would worsen rather than dampen an attack.",
+          "D": "Iron chelation does not suppress ALAS1; if anything, intracellular iron regulates the erythroid isoform ALAS2.",
+          "E": "Lead inhibits downstream enzymes (ALA dehydratase, ferrochelatase) but does not suppress ALAS1 expression."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "ALAS1 regulation",
+        "porphyria",
+        "glucose"
+      ],
+      "topicId": "porphyrins-and-iron-homeostasis",
+      "topicName": "Porphyrins and Iron Homeostasis (1 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "bo36-001",
+      "stem": "A 24-year-old woman presents with recurrent attacks of severe, diffuse abdominal pain lasting several days, accompanied by nausea, tingling in her arms, and anxiety. The attacks tend to coincide with her menstrual cycle and a recent low-calorie diet. Her abdomen is soft with no peritoneal signs, and a urine sample left at the bedside darkens to a port-wine color on standing. Which of the following enzyme deficiencies is most likely responsible?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "ALA synthase"
+        },
+        {
+          "label": "B",
+          "text": "Aminolevulinic acid dehydrase"
+        },
+        {
+          "label": "C",
+          "text": "Ferrochelatase"
+        },
+        {
+          "label": "D",
+          "text": "Porphobilinogen deaminase"
+        },
+        {
+          "label": "E",
+          "text": "Uroporphyrinogen decarboxylase"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Acute intermittent porphyria is caused by porphobilinogen deaminase deficiency and presents with neurovisceral attacks.",
+        "whyCorrect": "Acute intermittent porphyria (AIP) results from deficiency of porphobilinogen deaminase (PBGD), causing accumulation of the neurotoxic intermediates ALA and PBG. This produces episodic severe abdominal pain, peripheral neuropathy, and neuropsychiatric symptoms, often triggered by fasting and hormonal changes, and the urine turns port-wine colored on standing or light exposure.",
+        "whyWrongByChoice": {
+          "A": "ALA synthase is the rate-limiting enzyme that is upregulated in attacks; its deficiency does not cause AIP and would reduce, not increase, ALA and PBG.",
+          "B": "ALA dehydrase deficiency is a different, far rarer porphyria and is not the classic cause of the described AIP presentation.",
+          "C": "Ferrochelatase deficiency causes erythropoietic protoporphyria, which presents with painful cutaneous photosensitivity, not neurovisceral abdominal attacks.",
+          "E": "Uroporphyrinogen decarboxylase deficiency causes porphyria cutanea tarda, a cutaneous porphyria with blistering photosensitivity rather than acute abdominal pain."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "porphyria",
+        "AIP",
+        "heme synthesis"
+      ],
+      "topicId": "porphyrins-and-iron-homeostasis-2",
+      "topicName": "Porphyrins and Iron Homeostasis (2 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "bo36-002",
+      "stem": "A 30-year-old woman is admitted with an acute attack of acute intermittent porphyria marked by severe abdominal pain and confusion. Which of the following is the most appropriate intervention to abort the attack, and what is its mechanism?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A barbiturate sedative, which calms neurovisceral symptoms"
+        },
+        {
+          "label": "B",
+          "text": "High-dose vitamin C, which enhances porphyrin excretion"
+        },
+        {
+          "label": "C",
+          "text": "Intravenous glucose and hemin, which downregulate ALA synthase"
+        },
+        {
+          "label": "D",
+          "text": "Oral iron supplementation, which restores heme synthesis"
+        },
+        {
+          "label": "E",
+          "text": "Phlebotomy, which reduces accumulated porphyrins"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Acute porphyria attacks are treated by suppressing ALA synthase with glucose or hemin.",
+        "whyCorrect": "Acute attacks are managed with glucose or hemin infusions, which downregulate ALA synthase (ALAS1). This reduces production of the upstream neurotoxic intermediates ALA and PBG that drive the neurovisceral symptoms. Givosiran, an siRNA against the ALAS1 transcript, works by the same principle of lowering ALA synthase activity.",
+        "whyWrongByChoice": {
+          "A": "Barbiturates induce cytochrome P450 enzymes and increase heme demand, which is a classic trigger that worsens AIP attacks.",
+          "B": "Vitamin C aids dietary iron reduction and absorption but has no role in downregulating ALA synthase or aborting acute porphyria attacks.",
+          "D": "Iron is a substrate for the final ferrochelatase step but does not treat AIP; the defect is upstream at PBGD, and giving iron would not lower ALA and PBG.",
+          "E": "Phlebotomy is a treatment for iron-overload states such as PCT or hemochromatosis, not for aborting an acute AIP attack."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "porphyria",
+        "AIP",
+        "management",
+        "ALA synthase"
+      ],
+      "topicId": "porphyrins-and-iron-homeostasis-2",
+      "topicName": "Porphyrins and Iron Homeostasis (2 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "bo36-003",
+      "stem": "A 49-year-old man is referred to dermatology for painful, blistering lesions on the dorsum of both hands that appeared after a beach vacation, though he never developed a frank sunburn. Exam shows 1-2 cm blisters, some ruptured, with fragile skin over the hands and forearms. He drinks alcohol regularly, and labs reveal elevated liver enzymes. Which enzyme deficiency best explains his condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Delta-aminolevulinic acid synthase"
+        },
+        {
+          "label": "B",
+          "text": "Ferrochelatase (heme synthase)"
+        },
+        {
+          "label": "C",
+          "text": "Porphobilinogen deaminase (PBGD)"
+        },
+        {
+          "label": "D",
+          "text": "Uroporphyrinogen decarboxylase"
+        },
+        {
+          "label": "E",
+          "text": "Uroporphyrinogen III cosynthase"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Porphyria cutanea tarda is due to reduced uroporphyrinogen decarboxylase activity and causes delayed blistering photosensitivity.",
+        "whyCorrect": "Porphyria cutanea tarda (PCT), the most common porphyria, results from deficiency or inhibition of uroporphyrinogen decarboxylase (UROD). Uroporphyrinogen III accumulates and is oxidized to photosensitive uroporphyrin, which deposits in skin and causes delayed blistering and skin fragility on sun-exposed areas. Alcohol use, iron overload, and hepatitis are well-known triggers, consistent with his elevated liver enzymes.",
+        "whyWrongByChoice": {
+          "A": "ALA synthase is the rate-limiting regulatory enzyme; PCT is notably not exacerbated by upregulation of this pathway.",
+          "B": "Ferrochelatase deficiency causes erythropoietic protoporphyria, which produces painful burning photosensitivity that usually lacks blistering and presents in childhood.",
+          "C": "PBGD deficiency causes acute intermittent porphyria with neurovisceral attacks, not delayed cutaneous blistering.",
+          "E": "Uroporphyrinogen III synthase acts one step earlier and is not the enzyme implicated in PCT."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "porphyria",
+        "PCT",
+        "photosensitivity"
+      ],
+      "topicId": "porphyrins-and-iron-homeostasis-2",
+      "topicName": "Porphyrins and Iron Homeostasis (2 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "bo36-004",
+      "stem": "A 6-year-old boy develops intense burning, itching, and swelling of the skin within minutes of sun exposure, but rarely forms blisters. Over years, the backs of his hands have developed a waxy, pebbled thickening. Laboratory testing shows elevated protoporphyrin in red blood cells and dark-colored stool. Which enzyme is partially deficient?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "ALA dehydrase"
+        },
+        {
+          "label": "B",
+          "text": "Coproporphyrinogen oxidase"
+        },
+        {
+          "label": "C",
+          "text": "Ferrochelatase"
+        },
+        {
+          "label": "D",
+          "text": "Porphobilinogen deaminase"
+        },
+        {
+          "label": "E",
+          "text": "Uroporphyrinogen decarboxylase"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Erythropoietic protoporphyria results from partial ferrochelatase deficiency, causing painful photosensitivity with elevated RBC protoporphyrin.",
+        "whyCorrect": "Erythropoietic protoporphyria (EPP) is caused by partial deficiency of ferrochelatase, the enzyme that inserts iron into protoporphyrin IX to form heme. Excess protoporphyrin accumulates in red blood cells, skin, and liver, generating reactive oxygen species on light exposure that cause painful, non-blistering photosensitivity beginning in childhood. Because protoporphyrin is water-insoluble, it is excreted in stool, giving it a dark color, and diagnosis relies on elevated RBC protoporphyrin.",
+        "whyWrongByChoice": {
+          "A": "ALA dehydrase deficiency is an early cytosolic-step defect and would not cause protoporphyrin to accumulate in red cells.",
+          "B": "Coproporphyrinogen oxidase acts earlier in the pathway and does not produce the isolated protoporphyrin accumulation seen in EPP.",
+          "D": "PBGD deficiency causes acute intermittent porphyria with neurovisceral attacks, not childhood cutaneous photosensitivity.",
+          "E": "UROD deficiency causes PCT, which produces frank blistering and skin fragility rather than the burning, non-blistering pain of EPP."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "porphyria",
+        "EPP",
+        "ferrochelatase"
+      ],
+      "topicId": "porphyrins-and-iron-homeostasis-2",
+      "topicName": "Porphyrins and Iron Homeostasis (2 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "bo36-005",
+      "stem": "A researcher studies how dietary non-heme iron crosses the apical membrane of duodenal enterocytes. Non-heme iron in food is largely ferric (Fe3+) and cannot be taken up in that form. Which of the following correctly pairs the step with the protein responsible?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Fe3+ binds transferrin at the lumen and enters via the transferrin receptor"
+        },
+        {
+          "label": "B",
+          "text": "Fe3+ enters directly via ferroportin-1 without a change in oxidation state"
+        },
+        {
+          "label": "C",
+          "text": "Fe3+ is oxidized to Fe2+ by duodenal hephaestin, then enters via ferroportin-1"
+        },
+        {
+          "label": "D",
+          "text": "Fe3+ is reduced to Fe2+ by duodenal cytochrome B, then enters via DMT-1"
+        },
+        {
+          "label": "E",
+          "text": "Fe3+ is stored as ferritin at the apical surface before absorption"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Dietary Fe3+ is reduced to Fe2+ by duodenal cytochrome B and imported by DMT-1.",
+        "whyCorrect": "Only ferrous iron (Fe2+) can be absorbed. Non-heme dietary Fe3+ is reduced to Fe2+ by the vitamin C-dependent duodenal cytochrome B on the apical surface, and this ferrous iron is then transported into the enterocyte by the divalent metal transporter-1 (DMT-1).",
+        "whyWrongByChoice": {
+          "A": "Transferrin transports iron in the blood as Fe3+; it is not the mechanism for luminal uptake across the apical enterocyte membrane.",
+          "B": "Ferroportin-1 exports iron from the basolateral membrane into portal blood, not import at the apical surface, and iron must first be reduced.",
+          "C": "Hephaestin oxidizes Fe2+ to Fe3+ on the basal side after export; it does not act at apical uptake, and ferroportin exports rather than imports iron.",
+          "E": "Ferritin is an intracellular storage protein, not an apical uptake mechanism for luminal iron."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "iron absorption",
+        "DMT-1",
+        "duodenal cytochrome B"
+      ],
+      "topicId": "porphyrins-and-iron-homeostasis-2",
+      "topicName": "Porphyrins and Iron Homeostasis (2 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "bo36-006",
+      "stem": "A 9-month-old infant has microcytic anemia unresponsive to oral iron. Genetic testing reveals a mutation in SLC11A2, the gene encoding DMT-1. Which of the following best explains the anemia in this patient?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Excess iron is deposited as hemosiderin in macrophages"
+        },
+        {
+          "label": "B",
+          "text": "Ferrochelatase cannot insert iron into protoporphyrin IX"
+        },
+        {
+          "label": "C",
+          "text": "Hepcidin is overexpressed, degrading all ferroportin"
+        },
+        {
+          "label": "D",
+          "text": "Iron is trapped in endosomal vesicles and cannot be released"
+        },
+        {
+          "label": "E",
+          "text": "Transferrin cannot be synthesized by the liver"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "A DMT-1 (SLC11A2) mutation traps iron intracellularly, causing functional iron deficiency and microcytic anemia.",
+        "whyCorrect": "DMT-1 normally moves ferrous iron into cells and out of endosomes. When SLC11A2 is mutated, iron becomes trapped in endosomal vesicles and cannot be released to bind transferrin or be used in biosynthetic reactions. The resulting reduction in heme and globin synthesis produces a microcytic anemia.",
+        "whyWrongByChoice": {
+          "A": "Hemosiderin deposition reflects iron overload, the opposite of the functional iron deficiency caused by DMT-1 loss.",
+          "B": "Ferrochelatase deficiency causes EPP, a porphyria, not a microcytic anemia from an SLC11A2 mutation.",
+          "C": "The defect is in the iron transporter DMT-1, not in hepcidin; hepcidin overexpression is not the mechanism described in this inherited mutation.",
+          "E": "Transferrin is synthesized normally by the liver; the problem is that iron cannot reach transferrin because it is trapped in vesicles."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "iron",
+        "DMT-1",
+        "microcytic anemia"
+      ],
+      "topicId": "porphyrins-and-iron-homeostasis-2",
+      "topicName": "Porphyrins and Iron Homeostasis (2 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "bo36-007",
+      "stem": "After ferroportin exports iron across the basolateral membrane of an enterocyte, the iron must be loaded onto plasma transferrin for transport. Because transferrin binds only ferric iron, which protein performs the required conversion?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "DMT-1, a divalent metal transporter"
+        },
+        {
+          "label": "B",
+          "text": "Duodenal cytochrome B, a vitamin C-dependent reductase"
+        },
+        {
+          "label": "C",
+          "text": "Ferritin, an intracellular storage protein"
+        },
+        {
+          "label": "D",
+          "text": "Hepcidin, a liver-derived hormone"
+        },
+        {
+          "label": "E",
+          "text": "Hephaestin, a copper-dependent ferroxidase"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Hephaestin, a copper-dependent ferroxidase, oxidizes exported Fe2+ to Fe3+ so it can bind transferrin.",
+        "whyCorrect": "Ferroportin exports iron in the ferrous (Fe2+) state, but transferrin transports only ferric (Fe3+) iron. Hephaestin is a copper-dependent ferroxidase that oxidizes the exported Fe2+ to Fe3+, enabling it to bind plasma transferrin for transport.",
+        "whyWrongByChoice": {
+          "A": "DMT-1 transports ferrous iron across membranes but has no ferroxidase activity to load transferrin.",
+          "B": "Duodenal cytochrome B reduces Fe3+ to Fe2+ at the apical surface for uptake; it performs the opposite reaction from what is needed here.",
+          "C": "Ferritin stores iron intracellularly and does not oxidize iron for transferrin loading.",
+          "D": "Hepcidin regulates iron export by degrading ferroportin; it does not change the oxidation state of iron."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "iron transport",
+        "hephaestin",
+        "transferrin"
+      ],
+      "topicId": "porphyrins-and-iron-homeostasis-2",
+      "topicName": "Porphyrins and Iron Homeostasis (2 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "bo36-008",
+      "stem": "A hematology team reviews cases of hereditary hemochromatosis to identify the common consequence of an HFE gene mutation. Which of the following best describes the downstream effect of HFE dysfunction that produces iron overload?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Decreased intestinal iron absorption"
+        },
+        {
+          "label": "B",
+          "text": "Decreased serum iron"
+        },
+        {
+          "label": "C",
+          "text": "Increased ferroportin activity"
+        },
+        {
+          "label": "D",
+          "text": "Increased hepcidin production"
+        },
+        {
+          "label": "E",
+          "text": "Increased total iron-binding capacity"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "HFE mutations lower hepcidin activity, prolonging ferroportin function and driving iron overload.",
+        "whyCorrect": "In hereditary hemochromatosis, an HFE mutation renders hepatocytes unable to produce adequately functioning hepcidin. Because hepcidin normally degrades ferroportin, reduced hepcidin allows ferroportin to remain active, prolonging iron export and increasing dietary iron absorption and release from macrophages. Homozygotes can absorb two to four times more iron than normal.",
+        "whyWrongByChoice": {
+          "A": "Iron absorption is increased in hemochromatosis, not decreased, because ferroportin export is prolonged.",
+          "B": "Serum iron is elevated in iron overload, not decreased.",
+          "D": "Increased hepcidin would degrade ferroportin and cause iron deficiency, the opposite of hemochromatosis.",
+          "E": "Iron overload lowers TIBC because most transferrin is already saturated with iron, so TIBC does not increase."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "hemochromatosis",
+        "hepcidin",
+        "HFE",
+        "ferroportin"
+      ],
+      "topicId": "porphyrins-and-iron-homeostasis-2",
+      "topicName": "Porphyrins and Iron Homeostasis (2 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "bo36-009",
+      "stem": "A 47-year-old man reports fatigue, joint pain in his hands, and progressively bronzed skin. He was recently diagnosed with diabetes mellitus, and exam reveals hepatomegaly. Iron studies show markedly elevated ferritin and transferrin saturation. Which of the following best accounts for the combination of skin pigmentation and diabetes seen in this patient?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Accumulation of ALA and PBG damaging peripheral nerves"
+        },
+        {
+          "label": "B",
+          "text": "Hepcidin excess trapping iron within macrophages"
+        },
+        {
+          "label": "C",
+          "text": "Iron overload causing hyperpigmentation and suppressed insulin release"
+        },
+        {
+          "label": "D",
+          "text": "Protoporphyrin accumulation in red blood cells and bile"
+        },
+        {
+          "label": "E",
+          "text": "Uroporphyrin deposition generating reactive oxygen species in the skin"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Hemochromatosis causes 'bronze diabetes' from iron-driven hyperpigmentation plus pancreatic and hepatic dysfunction.",
+        "whyCorrect": "Excess iron accumulates in and damages the liver, heart, skin, and pancreas. In the skin it drives hyperpigmentation (increased melanocyte-stimulating hormone effect plus hemosiderin deposition), the liver develops cirrhosis leading to insulin resistance, and the pancreas shows decreased insulin production. The combined effect is the classic 'bronze diabetes' of hemochromatosis, supported here by high ferritin and transferrin saturation.",
+        "whyWrongByChoice": {
+          "A": "ALA and PBG neurotoxicity causes the acute neurovisceral attacks of AIP, not bronze skin with diabetes.",
+          "B": "Hepcidin excess causes iron sequestration and anemia of chronic disease, the opposite of the iron-overload picture here.",
+          "D": "Protoporphyrin accumulation characterizes EPP, which produces photosensitivity and gallstones, not diabetes and hyperpigmentation.",
+          "E": "Uroporphyrin-mediated skin damage occurs in porphyria cutanea tarda, which does not cause diabetes or the elevated iron studies described."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "hemochromatosis",
+        "bronze diabetes",
+        "iron overload"
+      ],
+      "topicId": "porphyrins-and-iron-homeostasis-2",
+      "topicName": "Porphyrins and Iron Homeostasis (2 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "bo36-010",
+      "stem": "A 60-year-old postmenopausal woman is found to have previously undiagnosed hereditary hemochromatosis. Compared with an unaffected person, which of the following patterns of iron studies would you most expect?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Serum iron decreased, serum ferritin decreased, TIBC increased, transferrin saturation decreased"
+        },
+        {
+          "label": "B",
+          "text": "Serum iron decreased, serum ferritin increased, TIBC increased, transferrin saturation increased"
+        },
+        {
+          "label": "C",
+          "text": "Serum iron increased, serum ferritin decreased, TIBC increased, transferrin saturation decreased"
+        },
+        {
+          "label": "D",
+          "text": "Serum iron increased, serum ferritin increased, TIBC decreased, transferrin saturation increased"
+        },
+        {
+          "label": "E",
+          "text": "Serum iron increased, serum ferritin increased, TIBC increased, transferrin saturation decreased"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Iron overload raises serum iron, ferritin, and transferrin saturation while lowering TIBC.",
+        "whyCorrect": "In iron overload, excess circulating iron raises serum iron, and excess tissue stores spill ferritin into the serum. The abundance of iron saturates transferrin, raising transferrin saturation, while the amount of available unbound transferrin (TIBC) falls. Thus serum iron up, ferritin up, TIBC down, and transferrin saturation up.",
+        "whyWrongByChoice": {
+          "A": "This is the classic iron-deficiency pattern, the opposite of hemochromatosis.",
+          "B": "Decreased serum iron and increased TIBC are features of iron deficiency, not overload.",
+          "C": "This mixes overload and deficiency findings; ferritin and transferrin saturation should be increased, and TIBC decreased, in overload.",
+          "E": "TIBC decreases and transferrin saturation increases in overload; both directions here are wrong."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "iron studies",
+        "hemochromatosis",
+        "TIBC",
+        "transferrin saturation"
+      ],
+      "topicId": "porphyrins-and-iron-homeostasis-2",
+      "topicName": "Porphyrins and Iron Homeostasis (2 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "bo36-011",
+      "stem": "A 55-year-old woman with long-standing rheumatoid arthritis has a normocytic anemia. Labs show low serum iron, low TIBC, and an elevated serum ferritin. Which of the following best explains this pattern?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "An HFE mutation lowering hepcidin activity"
+        },
+        {
+          "label": "B",
+          "text": "Chronic blood loss depleting total body iron stores"
+        },
+        {
+          "label": "C",
+          "text": "Deficiency of duodenal cytochrome B impairing dietary iron reduction"
+        },
+        {
+          "label": "D",
+          "text": "Ferrochelatase deficiency blocking heme synthesis"
+        },
+        {
+          "label": "E",
+          "text": "IL-6-driven inflammation raises hepcidin, reducing iron absorption"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Anemia of chronic disease reflects IL-6-induced hepcidin sequestering iron, giving low serum iron but high ferritin.",
+        "whyCorrect": "Inflammation, classically via the IL-6 cytokine, induces hepcidin. Elevated hepcidin degrades ferroportin, reducing iron absorption in the gut and iron release from macrophage stores. This protective sequestration lowers circulating serum iron and TIBC while ferritin (reflecting retained tissue stores) is normal or elevated, producing anemia of chronic disease.",
+        "whyWrongByChoice": {
+          "A": "An HFE mutation lowers hepcidin and causes iron overload, which would raise serum iron and transferrin saturation, not lower serum iron.",
+          "B": "Chronic blood loss causes true iron deficiency with low ferritin and high TIBC, not the high ferritin and low TIBC seen here.",
+          "C": "Duodenal cytochrome B deficiency would impair absorption but does not explain the elevated ferritin of an inflammatory state.",
+          "D": "Ferrochelatase deficiency causes erythropoietic protoporphyria, a photosensitivity disorder, not this inflammatory iron-sequestration pattern."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "anemia of chronic disease",
+        "hepcidin",
+        "IL-6",
+        "iron studies"
+      ],
+      "topicId": "porphyrins-and-iron-homeostasis-2",
+      "topicName": "Porphyrins and Iron Homeostasis (2 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "bo36-012",
+      "stem": "A cell biologist examines how iron levels control ferritin production. Ferritin mRNA contains an iron response element (IRE) in its 5' untranslated region, which can be bound by iron regulatory protein (IRP). In a state of low intracellular iron, what happens to ferritin synthesis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Ferritin is degraded into hemosiderin within lysosomes"
+        },
+        {
+          "label": "B",
+          "text": "Hepcidin binds the IRE and enhances ferritin translation"
+        },
+        {
+          "label": "C",
+          "text": "IRP binds the IRE and blocks translation, decreasing ferritin synthesis"
+        },
+        {
+          "label": "D",
+          "text": "IRP binds the IRE and stabilizes the mRNA, increasing ferritin synthesis"
+        },
+        {
+          "label": "E",
+          "text": "IRP dissociates from the IRE, increasing ferritin synthesis"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "In low iron, IRP binds the 5' IRE of ferritin mRNA and blocks its translation.",
+        "whyCorrect": "IRP binds IRE-containing transcripts when intracellular iron is low. For ferritin mRNA, the IRE sits in the 5' untranslated region, so IRP binding physically blocks translation, decreasing ferritin synthesis. This is appropriate because a cell that is iron-poor should not waste resources building an iron storage protein.",
+        "whyWrongByChoice": {
+          "A": "Hemosiderin forms from denatured ferritin in iron excess, which is unrelated to the low-iron translational control described.",
+          "B": "Hepcidin is a hormone that regulates ferroportin; it does not bind iron response elements or control ferritin translation.",
+          "D": "IRP binding stabilizes mRNA for the transferrin receptor (3' IRE), but for ferritin (5' IRE) it blocks translation rather than stabilizing it.",
+          "E": "IRP dissociates from the IRE when iron is high, not low; it is bound in the low-iron state."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "iron regulation",
+        "IRP",
+        "IRE",
+        "ferritin"
+      ],
+      "topicId": "porphyrins-and-iron-homeostasis-2",
+      "topicName": "Porphyrins and Iron Homeostasis (2 of 2)",
+      "tier": "core"
+    }
+  ]
+}

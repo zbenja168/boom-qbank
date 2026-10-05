@@ -1,0 +1,1134 @@
+{
+  "categoryId": "w8s1",
+  "categoryName": "Session 1",
+  "questions": [
+    {
+      "id": "bo56-001",
+      "stem": "A biotechnology company running a CRISPR-based clinical trial for sickle cell disease must confirm that edited hematopoietic cells have increased fetal (gamma-globin) hemoglobin mRNA. The team wants precise, sensitive quantification of this single, known transcript. Which method is most appropriate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bulk RNA sequencing (RNA-seq)"
+        },
+        {
+          "label": "B",
+          "text": "RT-qPCR (real-time PCR)"
+        },
+        {
+          "label": "C",
+          "text": "Sanger sequencing of cDNA"
+        },
+        {
+          "label": "D",
+          "text": "Southern blot of genomic DNA"
+        },
+        {
+          "label": "E",
+          "text": "Western blot for hemoglobin"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "RT-qPCR is the tool for precise, targeted quantification of a known transcript such as fetal-globin mRNA.",
+        "whyCorrect": "RT-qPCR first reverse-transcribes RNA to cDNA and then measures fluorescence at each amplification cycle, giving very high sensitivity and precision for a specific, known gene. This makes it ideal for assessing editing efficiency by quantifying fetal-globin expression in edited cells.",
+        "whyWrongByChoice": {
+          "A": "RNA-seq is a global, exploratory method with only moderate sensitivity and lower precision, so it is not the best choice for precise quantification of one known low-abundance transcript.",
+          "C": "Sanger sequencing determines a nucleotide sequence but does not quantify gene expression.",
+          "D": "Southern blot detects specific DNA sequences, not RNA expression levels.",
+          "E": "Western blot detects protein, not the mRNA transcript being quantified here."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "RT-qPCR",
+        "gene expression",
+        "clinical application"
+      ],
+      "topicId": "molecular-biology-techniques-rna-analysis",
+      "topicName": "Molecular Biology Techniques (3 of 3), RNA analysis",
+      "tier": "core"
+    },
+    {
+      "id": "bo56-002",
+      "stem": "In the same trial, the FDA requires the team to screen for any unintended, genome-wide changes in gene expression between CRISPR-edited and non-edited cells, without specifying a predefined list of genes. Which technique best meets this requirement?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Absolute qPCR using a standard curve"
+        },
+        {
+          "label": "B",
+          "text": "Northern blot"
+        },
+        {
+          "label": "C",
+          "text": "RNA sequencing"
+        },
+        {
+          "label": "D",
+          "text": "RT-qPCR"
+        },
+        {
+          "label": "E",
+          "text": "Western blot"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "RNA-seq gives a transcriptome-wide, exploratory readout able to flag unexpected dysregulated genes.",
+        "whyCorrect": "RNA-seq uses next-generation sequencing to analyze the entire transcriptome, so it can identify thousands of up- or downregulated genes between edited and non-edited cells without requiring a predefined target list, which is exactly what off-target screening needs.",
+        "whyWrongByChoice": {
+          "A": "Absolute qPCR quantifies a single known target against a standard curve and is likewise targeted, not genome-wide.",
+          "B": "Northern blot analyzes one or a few known RNA species, not the whole transcriptome.",
+          "D": "RT-qPCR is a targeted method requiring specific primers for known genes, so it cannot survey unanticipated changes across the whole transcriptome.",
+          "E": "Western blot measures protein levels, not genome-wide transcript changes."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "RNA-seq",
+        "transcriptome",
+        "off-target effects"
+      ],
+      "topicId": "molecular-biology-techniques-rna-analysis",
+      "topicName": "Molecular Biology Techniques (3 of 3), RNA analysis",
+      "tier": "core"
+    },
+    {
+      "id": "bo56-003",
+      "stem": "A researcher measures gene X by RT-qPCR in tumor tissue (condition A, Ct = 19) and in matched normal tissue (condition B, Ct = 25). Which conclusion is best supported by these Ct values?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Gene X is expressed equally in both tissues"
+        },
+        {
+          "label": "B",
+          "text": "Gene X is more highly expressed in the normal tissue"
+        },
+        {
+          "label": "C",
+          "text": "Gene X is more highly expressed in the tumor tissue"
+        },
+        {
+          "label": "D",
+          "text": "The tumor sample had a lower initial concentration of target"
+        },
+        {
+          "label": "E",
+          "text": "The tumor sample required more cycles to cross the threshold"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "A lower Ct reflects a higher starting amount of target, so lower Ct means higher expression.",
+        "whyCorrect": "Ct is inversely proportional to the initial amount of target. The tumor has the lower Ct (19 < 25), meaning fewer cycles were needed to exceed background, indicating a higher initial target concentration and therefore higher expression of gene X.",
+        "whyWrongByChoice": {
+          "A": "The Ct values differ by six cycles, so expression is not equal.",
+          "B": "The normal tissue has the higher Ct (25), which corresponds to lower, not higher, expression.",
+          "D": "A lower Ct in the tumor indicates a higher, not lower, initial concentration of target.",
+          "E": "A lower Ct means fewer cycles were needed for the tumor sample, not more."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "cycle threshold",
+        "Ct interpretation",
+        "qPCR"
+      ],
+      "topicId": "molecular-biology-techniques-rna-analysis",
+      "topicName": "Molecular Biology Techniques (3 of 3), RNA analysis",
+      "tier": "core"
+    },
+    {
+      "id": "bo56-004",
+      "stem": "During a qPCR run, one sample's fluorescence crosses the detection threshold after only a small number of cycles (a low Ct). What does this most directly indicate about the target in that sample?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A high initial target concentration"
+        },
+        {
+          "label": "B",
+          "text": "A low initial target concentration"
+        },
+        {
+          "label": "C",
+          "text": "Reverse transcription of the RNA failed"
+        },
+        {
+          "label": "D",
+          "text": "The gene is poorly expressed"
+        },
+        {
+          "label": "E",
+          "text": "The target is absent from the sample"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Low Ct equals fewer cycles needed, reflecting abundant starting target and high expression.",
+        "whyCorrect": "Because Ct is inversely proportional to the amount of starting target, a low Ct means fewer cycles were required to exceed background, which reflects a high initial concentration of target and thus a highly expressed gene.",
+        "whyWrongByChoice": {
+          "B": "A low initial concentration would require more cycles and give a high Ct.",
+          "C": "Failed reverse transcription would leave little or no cDNA to amplify, yielding a high or undetectable Ct, not a low one.",
+          "D": "A poorly expressed gene starts with little target and produces a high Ct.",
+          "E": "An absent target would not cross the threshold or would give a very high/undetermined Ct."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "cycle threshold",
+        "qPCR",
+        "gene expression"
+      ],
+      "topicId": "molecular-biology-techniques-rna-analysis",
+      "topicName": "Molecular Biology Techniques (3 of 3), RNA analysis",
+      "tier": "core"
+    },
+    {
+      "id": "bo56-005",
+      "stem": "A clinician monitors an HIV-infected patient's viral load, which is reported as the number of copies of HIV RNA per milliliter of plasma. The value is obtained by comparing the sample's Ct to a curve built from serial dilutions of a template of known concentration. Which quantification approach does this describe?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Absolute quantification"
+        },
+        {
+          "label": "B",
+          "text": "Differential expression analysis"
+        },
+        {
+          "label": "C",
+          "text": "Endpoint RT-PCR"
+        },
+        {
+          "label": "D",
+          "text": "Fold-change analysis between two conditions"
+        },
+        {
+          "label": "E",
+          "text": "Relative (semi-quantitative) quantification"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Reporting exact copies/mL against a standard curve is absolute quantification.",
+        "whyCorrect": "Absolute quantification provides the exact concentration (number of molecules) of a target by interpolating the sample's Ct on a standard curve generated from serial dilutions of a known reference. HIV viral load, reported as copies per milliliter of plasma, is a classic example.",
+        "whyWrongByChoice": {
+          "B": "Differential expression analysis is a downstream step in RNA-seq, not a plasma viral-load assay.",
+          "C": "Endpoint RT-PCR only confirms presence of a product and is not quantitative.",
+          "D": "Fold-change analysis is the output of relative quantification, not an absolute copies/mL measurement.",
+          "E": "Relative quantification compares Ct values across conditions to estimate fold change; it does not yield an absolute copy number."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "absolute quantification",
+        "standard curve",
+        "HIV viral load"
+      ],
+      "topicId": "molecular-biology-techniques-rna-analysis",
+      "topicName": "Molecular Biology Techniques (3 of 3), RNA analysis",
+      "tier": "core"
+    },
+    {
+      "id": "bo56-006",
+      "stem": "The first step of RT-qPCR is generating a DNA copy from extracted RNA. Which enzyme, originally derived from retroviruses such as HIV-1, carries out this conversion?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "DNA ligase"
+        },
+        {
+          "label": "B",
+          "text": "Restriction endonuclease"
+        },
+        {
+          "label": "C",
+          "text": "Reverse transcriptase"
+        },
+        {
+          "label": "D",
+          "text": "RNA polymerase II"
+        },
+        {
+          "label": "E",
+          "text": "Taq polymerase"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Reverse transcriptase synthesizes cDNA from an RNA template.",
+        "whyCorrect": "Reverse transcriptase, obtained from retroviruses like HIV-1, converts extracted RNA into complementary DNA (cDNA). This cDNA then serves as the template for amplification in RT-qPCR.",
+        "whyWrongByChoice": {
+          "A": "DNA ligase joins DNA fragments and has no role in RNA-to-DNA conversion.",
+          "B": "Restriction endonucleases cut DNA at specific sequences and do not synthesize cDNA.",
+          "D": "RNA polymerase II synthesizes RNA from a DNA template, the opposite direction.",
+          "E": "Taq polymerase amplifies DNA during the cycling steps; it does not make DNA from RNA."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "reverse transcriptase",
+        "cDNA",
+        "retrovirus"
+      ],
+      "topicId": "molecular-biology-techniques-rna-analysis",
+      "topicName": "Molecular Biology Techniques (3 of 3), RNA analysis",
+      "tier": "core"
+    },
+    {
+      "id": "bo56-007",
+      "stem": "To perform absolute quantification, a laboratory runs serial dilutions of a template of known concentration and builds a standard curve. How is this standard curve typically constructed?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Ct values on the y-axis against the log10 of the known concentrations on the x-axis"
+        },
+        {
+          "label": "B",
+          "text": "Ct values on the y-axis against the melting temperature of each amplicon on the x-axis"
+        },
+        {
+          "label": "C",
+          "text": "Fluorescence intensity on the y-axis against elapsed reaction time on the x-axis"
+        },
+        {
+          "label": "D",
+          "text": "Known concentration on the y-axis against raw fluorescence intensity on the x-axis"
+        },
+        {
+          "label": "E",
+          "text": "Number of sequencing reads on the y-axis against gene length on the x-axis"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The qPCR standard curve plots Ct (y) versus log10 concentration (x) with a linear fit.",
+        "whyCorrect": "A standard curve is made by plotting the log10 of the known concentrations on the x-axis and the corresponding Ct values on the y-axis, then fitting a linear regression line. Unknown samples are quantified by interpolating their Ct on this line.",
+        "whyWrongByChoice": {
+          "B": "Ct versus melting temperature describes melt-curve (specificity) analysis, not the quantification standard curve.",
+          "C": "Fluorescence versus time describes a single amplification trace, not the standard curve used for quantification.",
+          "D": "The axes are reversed and there is no log transform of concentration; the curve uses Ct versus log10 concentration.",
+          "E": "Reads versus gene length relates to RNA-seq normalization, not to a qPCR standard curve."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "standard curve",
+        "absolute quantification",
+        "qPCR"
+      ],
+      "topicId": "molecular-biology-techniques-rna-analysis",
+      "topicName": "Molecular Biology Techniques (3 of 3), RNA analysis",
+      "tier": "core"
+    },
+    {
+      "id": "bo56-008",
+      "stem": "Researchers want to characterize the diverse immune, stromal, and malignant cell populations within a single tumor and to detect rare T-cell and macrophage subtypes that would be averaged out by pooled-tissue methods. Which technique is most appropriate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bulk tissue RNA sequencing"
+        },
+        {
+          "label": "B",
+          "text": "RT-qPCR of tumor lysate"
+        },
+        {
+          "label": "C",
+          "text": "Single-cell RNA sequencing"
+        },
+        {
+          "label": "D",
+          "text": "Southern blot of tumor DNA"
+        },
+        {
+          "label": "E",
+          "text": "Western blot of tumor lysate"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Single-cell RNA-seq resolves distinct and rare cell populations within heterogeneous tissue.",
+        "whyCorrect": "Single-cell RNA-seq (scRNA-seq) profiles the transcriptome of individual cells, allowing identification of distinct cell populations and gene-expression clusters. It can uncover rare subtypes in the tumor microenvironment that bulk methods miss because of averaging effects.",
+        "whyWrongByChoice": {
+          "A": "Bulk RNA-seq averages signal across all cells, obscuring rare subpopulations.",
+          "B": "RT-qPCR quantifies known genes in a bulk lysate and cannot resolve individual cell types.",
+          "D": "Southern blot detects DNA sequences and has no role in single-cell expression profiling.",
+          "E": "Western blot measures protein abundance, not single-cell transcriptomes."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "scRNA-seq",
+        "tumor microenvironment",
+        "cell populations"
+      ],
+      "topicId": "molecular-biology-techniques-rna-analysis",
+      "topicName": "Molecular Biology Techniques (3 of 3), RNA analysis",
+      "tier": "core"
+    },
+    {
+      "id": "bo56-009",
+      "stem": "An RNA-seq experiment flags a low-abundance transcript as differentially expressed. The team now needs to validate this specific gene with a highly sensitive, precise, targeted assay. Which method is best suited for the validation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A heatmap"
+        },
+        {
+          "label": "B",
+          "text": "A volcano plot"
+        },
+        {
+          "label": "C",
+          "text": "Repeating bulk RNA sequencing"
+        },
+        {
+          "label": "D",
+          "text": "RT-qPCR"
+        },
+        {
+          "label": "E",
+          "text": "Single-cell RNA sequencing"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "RT-qPCR is the targeted, high-sensitivity method used to validate specific RNA-seq hits.",
+        "whyCorrect": "RT-qPCR has very high sensitivity for low-abundance transcripts and high precision from specific primer design, making it the standard tool to validate a particular gene identified by broader transcriptomic analyses such as RNA-seq.",
+        "whyWrongByChoice": {
+          "A": "A heatmap is a way to display expression data, not a method to validate a transcript.",
+          "B": "A volcano plot is a visualization of differential expression, not a laboratory assay.",
+          "C": "RNA-seq has only moderate sensitivity and may miss low-expression genes, so repeating it does not add the precision needed for validation.",
+          "E": "scRNA-seq resolves cell types but is still a sequencing approach with lower per-gene sensitivity than qPCR and is not a targeted validation assay."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "RT-qPCR",
+        "validation",
+        "RNA-seq"
+      ],
+      "topicId": "molecular-biology-techniques-rna-analysis",
+      "topicName": "Molecular Biology Techniques (3 of 3), RNA analysis",
+      "tier": "core"
+    },
+    {
+      "id": "bo56-010",
+      "stem": "RNA-seq is commonly used to study the effects of treatments or mutations on gene expression and to detect gene fusions in cancer. Which of the following is NOT an appropriate use of RNA-seq?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Analyzing the effect of a drug treatment on gene expression"
+        },
+        {
+          "label": "B",
+          "text": "Comparing expression between wild-type and mutant organisms"
+        },
+        {
+          "label": "C",
+          "text": "Detecting gene fusions in cancer"
+        },
+        {
+          "label": "D",
+          "text": "Discovering novel dysregulated genes across conditions"
+        },
+        {
+          "label": "E",
+          "text": "Identifying a specific germline point mutation"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Identifying a point mutation is a DNA-sequencing task, not a primary use of RNA-seq.",
+        "whyCorrect": "RNA-seq measures the transcriptome to assess expression changes and detect gene fusions, but it is not the primary method for identifying specific point mutations; DNA sequencing is used to detect mutations directly.",
+        "whyWrongByChoice": {
+          "A": "Analyzing the effect of a treatment on expression is a standard RNA-seq application.",
+          "B": "Comparing wild-type versus mutant expression is a listed use of RNA-seq.",
+          "C": "Detecting gene fusions, especially in cancer, is a recognized strength of RNA-seq.",
+          "D": "Discovering novel dysregulated genes across conditions is a core exploratory use of RNA-seq."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "RNA-seq",
+        "applications",
+        "gene fusion"
+      ],
+      "topicId": "molecular-biology-techniques-rna-analysis",
+      "topicName": "Molecular Biology Techniques (3 of 3), RNA analysis",
+      "tier": "core"
+    },
+    {
+      "id": "bo56-011",
+      "stem": "Which single feature most distinguishes quantitative real-time PCR (qPCR) from conventional endpoint PCR?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Fluorescence is measured at every cycle"
+        },
+        {
+          "label": "B",
+          "text": "It does not require primers to define the target sequence"
+        },
+        {
+          "label": "C",
+          "text": "It does not require Taq polymerase"
+        },
+        {
+          "label": "D",
+          "text": "It sequences the entire transcriptome in a single reaction"
+        },
+        {
+          "label": "E",
+          "text": "It uses reverse transcriptase, which conventional PCR can never use"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Real-time fluorescence measurement each cycle is the defining feature of qPCR.",
+        "whyCorrect": "qPCR shares most components with conventional PCR (Taq polymerase, primers, dNTPs, template) but adds a fluorescent compound whose signal is measured at each cycle. This real-time readout allows the amount of DNA to be quantified as it accumulates, which conventional endpoint PCR cannot do.",
+        "whyWrongByChoice": {
+          "B": "Both qPCR and conventional PCR require primers to define the target sequence.",
+          "C": "qPCR still relies on Taq polymerase for amplification.",
+          "D": "Transcriptome-wide sequencing describes RNA-seq, not qPCR.",
+          "E": "Reverse transcription is a separate upstream step; conventional PCR can also be preceded by reverse transcription (RT-PCR), so RT is not the distinguishing feature."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "qPCR",
+        "real-time PCR",
+        "fluorescence"
+      ],
+      "topicId": "molecular-biology-techniques-rna-analysis",
+      "topicName": "Molecular Biology Techniques (3 of 3), RNA analysis",
+      "tier": "core"
+    },
+    {
+      "id": "bo56-012",
+      "stem": "A laboratory assesses breast cancer recurrence risk by measuring the expression levels of specific genes such as Ki-67 and by quantifying circulating tumor DNA (ctDNA). Which technique provides the precise, targeted quantification described here?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bulk RNA sequencing"
+        },
+        {
+          "label": "B",
+          "text": "Karyotyping"
+        },
+        {
+          "label": "C",
+          "text": "qPCR (RT-qPCR)"
+        },
+        {
+          "label": "D",
+          "text": "Single-cell RNA sequencing"
+        },
+        {
+          "label": "E",
+          "text": "Western blot"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "qPCR provides precise, targeted quantification of defined markers such as Ki-67 expression and ctDNA.",
+        "whyCorrect": "qPCR is used in cancer diagnostics to quantify predictive markers, including expression levels of specific genes like Ki-67 and circulating tumor DNA, to estimate the likelihood of recurrence in patients with breast cancer. Its specificity and sensitivity make it suited to measuring these predefined targets.",
+        "whyWrongByChoice": {
+          "A": "Bulk RNA-seq is a global exploratory method and is not the targeted, precise assay used for these specific recurrence markers.",
+          "B": "Karyotyping visualizes whole chromosomes and cannot quantify gene expression or ctDNA levels.",
+          "D": "scRNA-seq profiles individual cells and is not used for routine quantification of these markers.",
+          "E": "Western blot detects protein by antibody but does not quantify ctDNA or provide the targeted nucleic-acid quantification described."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "qPCR",
+        "cancer biomarkers",
+        "clinical application"
+      ],
+      "topicId": "molecular-biology-techniques-rna-analysis",
+      "topicName": "Molecular Biology Techniques (3 of 3), RNA analysis",
+      "tier": "core"
+    },
+    {
+      "id": "bo57-001",
+      "stem": "A 41-year-old woman presents for her first obstetric visit after a positive home pregnancy test. Her last menstrual period was 6 weeks ago. She is very anxious about her risk of having a child with trisomy 21 and states she wants a definitive answer as early as possible. Which of the following is the most appropriate test to offer once she reaches the earliest window at which it can be performed?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Amniocentesis"
+        },
+        {
+          "label": "B",
+          "text": "Anatomy ultrasound"
+        },
+        {
+          "label": "C",
+          "text": "Cell-free DNA testing (NIPT)"
+        },
+        {
+          "label": "D",
+          "text": "Chorionic villus sampling"
+        },
+        {
+          "label": "E",
+          "text": "Maternal serum PAPP-A and beta-hCG"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Chorionic villus sampling is the earliest diagnostic (definitive) prenatal test, performed at 10-14 weeks.",
+        "whyCorrect": "CVS is typically performed between 10 and 14 weeks of gestation and directly samples placental (chorionic villus) cells, so it directly examines fetal chromosomes and is diagnostic for trisomies. For a patient who wants a definitive answer at the earliest possible time, CVS is the appropriate choice.",
+        "whyWrongByChoice": {
+          "A": "Amniocentesis is also diagnostic but is performed later, at 16-20 weeks, so it is not the earliest option.",
+          "B": "Ultrasound can raise suspicion but does not provide a genetic diagnosis.",
+          "C": "Cell-free DNA (NIPT) is a screening test that estimates risk; it is not definitive/diagnostic.",
+          "E": "Maternal serum PAPP-A and beta-hCG make up a screening test and cannot confirm a diagnosis."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "diagnostic testing",
+        "CVS",
+        "advanced maternal age"
+      ],
+      "topicId": "prenatal-genetic-testing-neonatal-screening",
+      "topicName": "Prenatal Genetic Testing & Neonatal Screening",
+      "tier": "core"
+    },
+    {
+      "id": "bo57-002",
+      "stem": "A 32-year-old woman undergoes a second-trimester quadruple screen at 16 weeks of gestation. Which of the following analyte patterns would most likely be reported in a fetus affected by Down syndrome?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "MSAFP high, beta-hCG high, estriol high, inhibin A high"
+        },
+        {
+          "label": "B",
+          "text": "MSAFP high, beta-hCG normal, estriol normal, inhibin A normal"
+        },
+        {
+          "label": "C",
+          "text": "MSAFP low, beta-hCG high, estriol low, inhibin A high"
+        },
+        {
+          "label": "D",
+          "text": "MSAFP low, beta-hCG low, estriol low, inhibin A low"
+        },
+        {
+          "label": "E",
+          "text": "MSAFP normal, beta-hCG high, estriol normal, inhibin A normal"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "In trisomy 21 the quad screen shows low MSAFP and estriol but high beta-hCG and inhibin A.",
+        "whyCorrect": "Down syndrome (trisomy 21) classically produces a quad screen with decreased MSAFP, decreased estriol, and elevated beta-hCG and inhibin A. The elevated beta-hCG and inhibin A distinguish trisomy 21 from other trisomies.",
+        "whyWrongByChoice": {
+          "A": "Uniformly elevated markers are not the recognized trisomy 21 pattern.",
+          "B": "An isolated MSAFP elevation with otherwise normal markers suggests an open neural tube defect.",
+          "D": "A pattern with all four markers low is characteristic of Edwards syndrome (trisomy 18), not trisomy 21.",
+          "E": "An isolated beta-hCG elevation is characteristic of gestational trophoblastic disease, not trisomy 21."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "quad screen",
+        "trisomy 21",
+        "serum markers"
+      ],
+      "topicId": "prenatal-genetic-testing-neonatal-screening",
+      "topicName": "Prenatal Genetic Testing & Neonatal Screening",
+      "tier": "core"
+    },
+    {
+      "id": "bo57-003",
+      "stem": "A 36-year-old woman underwent prenatal testing at 17 weeks of gestation. Her quad screen results are: AFP 0.72 MoM, uE3 (estriol) 0.80 MoM, hCG 0.75 MoM, and inhibin A 1.08 MoM. These values are most consistent with an increased risk for which of the following conditions?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Neural tube defect"
+        },
+        {
+          "label": "B",
+          "text": "No increased risk"
+        },
+        {
+          "label": "C",
+          "text": "Trisomy 13"
+        },
+        {
+          "label": "D",
+          "text": "Trisomy 18"
+        },
+        {
+          "label": "E",
+          "text": "Trisomy 21"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Low MSAFP, low estriol, low hCG, and normal inhibin A indicate increased risk for trisomy 18.",
+        "whyCorrect": "Lower-than-expected MSAFP and estriol are seen in the commonly tested trisomies, but the low hCG together with a normal (not elevated) inhibin A points specifically to trisomy 18 (Edwards syndrome).",
+        "whyWrongByChoice": {
+          "A": "A neural tube defect would produce an elevated (high) MSAFP, whereas this MSAFP is low.",
+          "B": "Multiple abnormal analyte values indicate an increased risk of some kind, so 'no increased risk' is incorrect.",
+          "C": "Second-trimester quad screening is not sensitive or specific for trisomy 13, so it does not give a reliable risk estimate for it.",
+          "E": "Trisomy 21 would show elevated hCG and inhibin A, which are not present here."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "quad screen",
+        "trisomy 18",
+        "multiple of the median"
+      ],
+      "topicId": "prenatal-genetic-testing-neonatal-screening",
+      "topicName": "Prenatal Genetic Testing & Neonatal Screening",
+      "tier": "core"
+    },
+    {
+      "id": "bo57-004",
+      "stem": "A 28-year-old woman has a quad screen at 16 weeks of gestation that shows a markedly elevated maternal serum alpha-fetoprotein (MSAFP), with an AFP MoM of 3.2. The remaining analytes are within normal limits. This result should most raise concern for which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Klinefelter syndrome (47,XXY)"
+        },
+        {
+          "label": "B",
+          "text": "Open neural tube defect"
+        },
+        {
+          "label": "C",
+          "text": "Trisomy 13 (Patau syndrome)"
+        },
+        {
+          "label": "D",
+          "text": "Trisomy 18 (Edwards syndrome)"
+        },
+        {
+          "label": "E",
+          "text": "Trisomy 21 (Down syndrome)"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "High maternal serum AFP raises concern for an open neural tube defect.",
+        "whyCorrect": "When a fetus has an open neural tube defect, AFP leaks directly into the amniotic fluid and subsequently reaches the maternal circulation, producing elevated serum levels. About 80% of pregnancies affected by open NTDs have AFP MoM values greater than 2.50.",
+        "whyWrongByChoice": {
+          "A": "Sex chromosome aneuploidies are not detected by an isolated MSAFP elevation.",
+          "C": "Second-trimester screening is not sensitive or specific for trisomy 13, and it is not associated with elevated MSAFP.",
+          "D": "Trisomy 18 is associated with low MSAFP.",
+          "E": "Trisomy 21 is associated with low, not high, MSAFP."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "MSAFP",
+        "neural tube defect",
+        "quad screen"
+      ],
+      "topicId": "prenatal-genetic-testing-neonatal-screening",
+      "topicName": "Prenatal Genetic Testing & Neonatal Screening",
+      "tier": "core"
+    },
+    {
+      "id": "bo57-005",
+      "stem": "A patient is counseled about noninvasive prenatal testing (NIPT) at 11 weeks of gestation. The clinician explains that the test analyzes cell-free DNA in the mother's blood. The fetal-origin cell-free DNA analyzed by this test enters the maternal circulation primarily through which of the following mechanisms?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Active transport of intact fetal lymphocytes across the placenta"
+        },
+        {
+          "label": "B",
+          "text": "Apoptosis of placental trophoblast cells releasing DNA fragments"
+        },
+        {
+          "label": "C",
+          "text": "Breakdown of maternal white blood cells"
+        },
+        {
+          "label": "D",
+          "text": "Diffusion of amniocytes into the amniotic fluid"
+        },
+        {
+          "label": "E",
+          "text": "Hemolysis of fetal red blood cells in the maternal spleen"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Fetal cell-free DNA reaches maternal blood via apoptosis of placental trophoblasts.",
+        "whyCorrect": "The fetal fraction of cell-free DNA gets into the maternal circulation through the placenta when apoptosis occurs in trophoblast cells. After roughly 10 weeks of gestation the fetal fraction is high enough to perform the test, which uses massively parallel (next-generation) sequencing to detect extra or missing chromosomal material.",
+        "whyWrongByChoice": {
+          "A": "NIPT analyzes cell-free DNA fragments, not intact fetal cells actively transported across the placenta.",
+          "C": "The clinically useful signal is the fetal (placental) DNA fraction, not maternal white cell breakdown.",
+          "D": "Amniocytes are cells found in amniotic fluid and are relevant to amniocentesis, not to cell-free DNA in maternal serum.",
+          "E": "The test does not depend on hemolysis of fetal red cells."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "NIPT",
+        "cell-free DNA",
+        "placenta"
+      ],
+      "topicId": "prenatal-genetic-testing-neonatal-screening",
+      "topicName": "Prenatal Genetic Testing & Neonatal Screening",
+      "tier": "core"
+    },
+    {
+      "id": "bo57-006",
+      "stem": "A 30-year-old woman presents at 12 weeks of gestation for her first-trimester combined screening. In addition to a nuchal translucency measurement on ultrasound, which of the following pairs of maternal serum markers make up this combined screen?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Estriol and pregnancy-associated plasma protein A in maternal serum"
+        },
+        {
+          "label": "B",
+          "text": "Inhibin A and unconjugated estriol in maternal serum"
+        },
+        {
+          "label": "C",
+          "text": "MSAFP and estriol measured in maternal serum"
+        },
+        {
+          "label": "D",
+          "text": "MSAFP and inhibin A measured in maternal serum"
+        },
+        {
+          "label": "E",
+          "text": "Pregnancy-associated plasma protein A and free beta-hCG"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The first-trimester combined screen is nuchal translucency plus PAPP-A and free beta-hCG.",
+        "whyCorrect": "The first-trimester combined screening test uses the nuchal translucency measurement on ultrasound together with two maternal serum biomarkers: pregnancy-associated plasma protein A (PAPP-A) and free beta-hCG.",
+        "whyWrongByChoice": {
+          "A": "Estriol is a second-trimester marker; only PAPP-A is a first-trimester marker.",
+          "B": "Inhibin A and estriol are second-trimester quad screen markers.",
+          "C": "MSAFP and estriol are part of the second-trimester quad screen, not the first-trimester screen.",
+          "D": "MSAFP and inhibin A belong to the quad screen."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "first trimester screen",
+        "PAPP-A",
+        "nuchal translucency"
+      ],
+      "topicId": "prenatal-genetic-testing-neonatal-screening",
+      "topicName": "Prenatal Genetic Testing & Neonatal Screening",
+      "tier": "core"
+    },
+    {
+      "id": "bo57-007",
+      "stem": "A couple in their late twenties who have been unable to conceive naturally present for a consultation about in vitro fertilization. Both have relatives affected by an inherited genetic disorder and are worried about passing it on. They ask whether embryos can be tested for the specific mutation before a pregnancy is established. Which of the following describes the appropriate test?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Amniocentesis in the second trimester"
+        },
+        {
+          "label": "B",
+          "text": "Anatomy ultrasound in the second trimester"
+        },
+        {
+          "label": "C",
+          "text": "Chorionic villus sampling in the first trimester"
+        },
+        {
+          "label": "D",
+          "text": "Noninvasive prenatal testing of cell-free DNA"
+        },
+        {
+          "label": "E",
+          "text": "Preimplantation genetic diagnosis"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Preimplantation genetic diagnosis tests a day-5 embryo during IVF, before implantation.",
+        "whyCorrect": "Preimplantation genetic diagnosis (PGD) tests whether a specific genetic change is present in a day-5 embryo (blastocyst) as part of in vitro fertilization. A biopsy removes about 3-8 cells from each blastocyst, and the embryo is usually frozen and implanted later only if unaffected.",
+        "whyWrongByChoice": {
+          "A": "Amniocentesis is performed on an already established pregnancy in the second trimester.",
+          "B": "Ultrasound provides anatomic imaging, not genetic information, and requires an established pregnancy.",
+          "C": "CVS is performed on an already established pregnancy in the first trimester.",
+          "D": "NIPT is a maternal blood screening test done during an established pregnancy."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "PGD",
+        "IVF",
+        "blastocyst biopsy"
+      ],
+      "topicId": "prenatal-genetic-testing-neonatal-screening",
+      "topicName": "Prenatal Genetic Testing & Neonatal Screening",
+      "tier": "core"
+    },
+    {
+      "id": "bo57-008",
+      "stem": "A pregnant patient at 20 weeks of gestation has a serum alpha-fetoprotein concentration of 90 ng/mL. The median AFP for unaffected pregnancies at this gestational age in the laboratory's population is 45 ng/mL. What is this patient's AFP expressed as a multiple of the median (MoM)?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "0.5"
+        },
+        {
+          "label": "B",
+          "text": "1.0"
+        },
+        {
+          "label": "C",
+          "text": "2.0"
+        },
+        {
+          "label": "D",
+          "text": "3.0"
+        },
+        {
+          "label": "E",
+          "text": "4.0"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "MoM equals the patient's result divided by the population median: 90/45 = 2.0.",
+        "whyCorrect": "Multiple of the median (MoM) is calculated as the patient's result divided by the median of the unaffected matched patient population. Here, 90 ng/mL divided by the median of 45 ng/mL equals a MoM of 2.0.",
+        "whyWrongByChoice": {
+          "A": "0.5 would require the patient's value to be half the median.",
+          "B": "1.0 is the expected MoM under normal circumstances (patient value equal to the median).",
+          "D": "3.0 would require a patient value of 135 ng/mL.",
+          "E": "4.0 would require a patient value of 180 ng/mL."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "multiple of the median",
+        "MSAFP",
+        "lab interpretation"
+      ],
+      "topicId": "prenatal-genetic-testing-neonatal-screening",
+      "topicName": "Prenatal Genetic Testing & Neonatal Screening",
+      "tier": "core"
+    },
+    {
+      "id": "bo57-009",
+      "stem": "A 39-year-old woman undergoes chorionic villus sampling at 11 weeks of gestation. Analysis of the sampled tissue provides fetal genetic information because the cells obtained are derived from which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Amniotic fluid surrounding the fetus"
+        },
+        {
+          "label": "B",
+          "text": "Fetal blood drawn from the umbilical cord"
+        },
+        {
+          "label": "C",
+          "text": "Fetal skin cells shed into the amniotic cavity"
+        },
+        {
+          "label": "D",
+          "text": "Maternal decidua of the uterine lining"
+        },
+        {
+          "label": "E",
+          "text": "Trophoblast cells of the placental villi"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "CVS samples chorionic villus trophoblast, which is derived from the extraembryonic part of the embryo.",
+        "whyCorrect": "CVS involves a biopsy of tissue from the villi of the chorion. The trophoblast cells in the chorionic villi are derived from the extraembryonic part of the early developing embryo and are therefore a source of fetal genetic tissue. The procedure is performed under continuous ultrasound visualization.",
+        "whyWrongByChoice": {
+          "A": "Amniotic fluid is sampled during amniocentesis, not CVS.",
+          "B": "Umbilical cord blood sampling is a different procedure and is not what CVS collects.",
+          "C": "CVS samples chorionic villi, not shed fetal skin cells in the amniotic cavity.",
+          "D": "Maternal decidua is maternal tissue and would not provide fetal genetic information."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "CVS",
+        "chorionic villi",
+        "trophoblast"
+      ],
+      "topicId": "prenatal-genetic-testing-neonatal-screening",
+      "topicName": "Prenatal Genetic Testing & Neonatal Screening",
+      "tier": "core"
+    },
+    {
+      "id": "bo57-010",
+      "stem": "A term newborn is being evaluated in the nursery. As part of routine newborn screening for metabolic disorders, which of the following describes how the sample is obtained and analyzed?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Amniotic fluid obtained by amniocentesis and analyzed by next-generation sequencing"
+        },
+        {
+          "label": "B",
+          "text": "Buccal swab collected at the bedside and analyzed by chromosomal microarray"
+        },
+        {
+          "label": "C",
+          "text": "Cord blood collected at delivery and sent for G-banded karyotype analysis"
+        },
+        {
+          "label": "D",
+          "text": "Dried blood collected by heel stick and analyzed by tandem mass spectrometry"
+        },
+        {
+          "label": "E",
+          "text": "Maternal serum analyzed for cell-free fetal DNA in the third trimester"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Newborn metabolic screening uses dried blood from a heel stick, analyzed by tandem mass spectrometry.",
+        "whyCorrect": "Metabolic disorder screening tests use a sample of the neonate's dried blood collected by heel stick. Samples are then analyzed by tandem mass spectrometry or disease-specific methods. Metabolic disorders were among the first conditions included because early detection improves outcomes.",
+        "whyWrongByChoice": {
+          "A": "Amniotic fluid is obtained prenatally by amniocentesis, not from a newborn.",
+          "B": "A buccal swab with microarray is not the standard newborn metabolic screening method.",
+          "C": "Routine newborn metabolic screening does not use cord-blood karyotyping.",
+          "E": "Cell-free DNA from maternal serum is a prenatal screening test, not a newborn screen."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "newborn screening",
+        "heel stick",
+        "tandem mass spectrometry"
+      ],
+      "topicId": "prenatal-genetic-testing-neonatal-screening",
+      "topicName": "Prenatal Genetic Testing & Neonatal Screening",
+      "tier": "core"
+    },
+    {
+      "id": "bo57-011",
+      "stem": "A 35-year-old woman has a noninvasive prenatal test (NIPT) that returns a high-probability (positive) result for trisomy 21. She asks whether this means her fetus definitely has Down syndrome. Which of the following is the most appropriate next step to establish a diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Order a second-trimester quad screen"
+        },
+        {
+          "label": "B",
+          "text": "Perform a diagnostic test such as amniocentesis or CVS"
+        },
+        {
+          "label": "C",
+          "text": "Perform an anatomy ultrasound as the confirmatory test"
+        },
+        {
+          "label": "D",
+          "text": "Reassure the patient that no further testing is needed"
+        },
+        {
+          "label": "E",
+          "text": "Repeat the NIPT at a later date"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "A positive screening result must be confirmed with a diagnostic test.",
+        "whyCorrect": "All prenatal screening tests, including NIPT, estimate risk as higher or lower but are not diagnostic. A screen indicating increased risk must still be confirmed with a diagnostic test that examines fetal cells directly, such as amniocentesis or chorionic villus sampling with karyotype analysis.",
+        "whyWrongByChoice": {
+          "A": "The quad screen is another screening test and cannot confirm the diagnosis.",
+          "C": "Ultrasound can raise suspicion but is not diagnostic for a chromosomal abnormality.",
+          "D": "A positive screen indicates increased risk and requires confirmatory diagnostic testing, not reassurance alone.",
+          "E": "Repeating a screening test does not establish a diagnosis."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "screening vs diagnostic",
+        "NIPT",
+        "confirmatory testing"
+      ],
+      "topicId": "prenatal-genetic-testing-neonatal-screening",
+      "topicName": "Prenatal Genetic Testing & Neonatal Screening",
+      "tier": "core"
+    },
+    {
+      "id": "bo57-012",
+      "stem": "A 33-year-old woman at 12 weeks of gestation undergoes first-trimester combined screening. The ultrasound shows an increased nuchal translucency, and serum testing reveals a low PAPP-A with an elevated free beta-hCG. This marker profile is most consistent with an increased risk for which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Open neural tube defect"
+        },
+        {
+          "label": "B",
+          "text": "Trisomy 13 (Patau syndrome)"
+        },
+        {
+          "label": "C",
+          "text": "Trisomy 18 (Edwards syndrome)"
+        },
+        {
+          "label": "D",
+          "text": "Trisomy 21 (Down syndrome)"
+        },
+        {
+          "label": "E",
+          "text": "Turner syndrome (45,X)"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "In the first trimester, low PAPP-A with high beta-hCG and increased nuchal translucency points to trisomy 21.",
+        "whyCorrect": "In the first-trimester combined screen, trisomy 21 shows a low PAPP-A but an elevated beta-hCG, along with an increased nuchal translucency. Down syndrome is the only routinely screened trisomy in which beta-hCG is high rather than low.",
+        "whyWrongByChoice": {
+          "A": "Neural tube defects are detected by an elevated second-trimester MSAFP, and the first-trimester screen gives no information on NTDs.",
+          "B": "Trisomy 13 shows low PAPP-A and low beta-hCG.",
+          "C": "Trisomy 18 shows low PAPP-A and low beta-hCG, not an elevated beta-hCG.",
+          "E": "Turner syndrome is a sex chromosome aneuploidy and is not defined by this first-trimester serum trisomy pattern."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "first trimester screen",
+        "trisomy 21",
+        "nuchal translucency"
+      ],
+      "topicId": "prenatal-genetic-testing-neonatal-screening",
+      "topicName": "Prenatal Genetic Testing & Neonatal Screening",
+      "tier": "core"
+    }
+  ]
+}

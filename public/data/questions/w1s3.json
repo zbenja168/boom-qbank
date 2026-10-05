@@ -1,0 +1,1141 @@
+{
+  "categoryId": "w1s3",
+  "categoryName": "Session 3",
+  "questions": [
+    {
+      "id": "bo05-001",
+      "stem": "A 24-year-old woman is evaluated for fatigue. A complete blood count shows: RBC count 4.5 x10^6/uL (reference 3.8-5.0), hemoglobin 10.8 g/dL (reference 11.9-14.8), hematocrit 32% (reference 35-43), and mean corpuscular volume (MCV) 88 fL (reference 80-96). Which of the following is the most accurate interpretation of these results?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Macrocytic anemia"
+        },
+        {
+          "label": "B",
+          "text": "Microcytic anemia"
+        },
+        {
+          "label": "C",
+          "text": "No indication of anemia"
+        },
+        {
+          "label": "D",
+          "text": "Normocytic anemia"
+        },
+        {
+          "label": "E",
+          "text": "Polycythemia (elevated RBC mass)"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Anemia is defined by a reduction in RBC count, hemoglobin, or hematocrit, and MCV then classifies it.",
+        "whyCorrect": "The hemoglobin (10.8) and hematocrit (32%) are both below their reference ranges, which establishes anemia. Because the MCV of 88 fL falls within the reference range, the anemia is classified as normocytic.",
+        "whyWrongByChoice": {
+          "A": "Macrocytic anemia requires an MCV above the reference range, but this MCV of 88 fL is normal.",
+          "B": "Microcytic anemia requires an MCV below the reference range, but this MCV of 88 fL is normal.",
+          "C": "Both hemoglobin and hematocrit are below their reference ranges, so anemia is present.",
+          "E": "Polycythemia is an increased RBC mass; here the hemoglobin and hematocrit are low, not high."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "CBC",
+        "anemia",
+        "MCV"
+      ],
+      "topicId": "metabolic-overview-iii-o2-delivery-1-of-2",
+      "topicName": "Metabolic Overview III: O2 Delivery (1 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "bo05-002",
+      "stem": "A physiology instructor explains that mature red blood cells maintain ATP for their function strictly through glycolysis and lactate production, even though they carry high concentrations of oxygen. Which feature of the mature red blood cell best accounts for this exclusive reliance on glycolysis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A biconcave disc shape that limits diffusion"
+        },
+        {
+          "label": "B",
+          "text": "Absence of mitochondria"
+        },
+        {
+          "label": "C",
+          "text": "An unusually thick, rigid plasma membrane"
+        },
+        {
+          "label": "D",
+          "text": "Insufficient oxygen bound to hemoglobin"
+        },
+        {
+          "label": "E",
+          "text": "Presence of a large nucleus consuming ATP"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "RBCs rely on glycolysis because they lack mitochondria, not because they lack oxygen.",
+        "whyCorrect": "Mature RBCs completely lack organelles, including mitochondria, so they cannot perform oxidative phosphorylation and must generate ATP by glycolysis with lactate production. This metabolic preference also spares the abundant oxygen they carry for delivery to the tissues.",
+        "whyWrongByChoice": {
+          "A": "The biconcave shape enhances gas diffusion and flexibility; it is not the reason for glycolytic dependence.",
+          "C": "The RBC membrane is highly flexible, not thick and rigid, and membrane properties do not dictate the metabolic pathway.",
+          "D": "RBCs actually carry high concentrations of oxygen bound to hemoglobin; oxygen supply is not the limiting factor.",
+          "E": "Mature RBCs lack a nucleus entirely, so a nucleus cannot be consuming ATP."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "RBC metabolism",
+        "glycolysis",
+        "mitochondria"
+      ],
+      "topicId": "metabolic-overview-iii-o2-delivery-1-of-2",
+      "topicName": "Metabolic Overview III: O2 Delivery (1 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "bo05-003",
+      "stem": "A first-year medical student examines a peripheral blood smear and notes that normal red blood cells display a pale region in their center under light microscopy. Which of the following best explains this central pallor?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hemoglobin is concentrated only at the cell periphery"
+        },
+        {
+          "label": "B",
+          "text": "Mitochondria localize to the middle of the cell"
+        },
+        {
+          "label": "C",
+          "text": "The cells are rigid spheres that lack organelles"
+        },
+        {
+          "label": "D",
+          "text": "The cells are thinner in the middle and thicker at the edges"
+        },
+        {
+          "label": "E",
+          "text": "The convex surface of the cell diffracts light"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Central pallor reflects the biconcave disc shape, which is thinner in the center.",
+        "whyCorrect": "RBCs are biconcave discs whose thinner central region transmits more light during imaging, making it appear paler than the rest of the cell. Expansion or loss of this central pallor can be an important clinical observation in RBC disorders.",
+        "whyWrongByChoice": {
+          "A": "Hemoglobin fills the cell; the pale center is due to reduced cell thickness there, not absence of hemoglobin.",
+          "B": "Mature RBCs lack mitochondria entirely, so they cannot localize to the center.",
+          "C": "Rigid spheres, as in hereditary spherocytosis, actually lack central pallor rather than displaying it.",
+          "E": "The RBC surface is concave, not convex, and pallor is due to light transmission through the thin center, not diffraction."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "RBC morphology",
+        "biconcave disc",
+        "central pallor"
+      ],
+      "topicId": "metabolic-overview-iii-o2-delivery-1-of-2",
+      "topicName": "Metabolic Overview III: O2 Delivery (1 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "bo05-004",
+      "stem": "A 20-year-old man has intermittent jaundice and splenomegaly, and his red blood cells appear as rigid spheres lacking central pallor. When his red cells are placed in progressively hypotonic solutions, they lyse more readily than control cells. Mutation in which of the following best explains these findings?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A mitochondrial electron transport chain complex"
+        },
+        {
+          "label": "B",
+          "text": "Bisphosphoglycerate mutase in the Rapoport-Luebering shunt"
+        },
+        {
+          "label": "C",
+          "text": "Cytoskeletal and membrane proteins of the RBC"
+        },
+        {
+          "label": "D",
+          "text": "The beta-globin chain of hemoglobin"
+        },
+        {
+          "label": "E",
+          "text": "The gamma-globin chain of hemoglobin"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Hereditary spherocytosis results from mutations in RBC cytoskeletal/membrane proteins.",
+        "whyCorrect": "In hereditary spherocytosis, mutations in cytoskeletal or membrane proteins produce rigid spheres that lack central pallor and are prone to lysis and splenic turnover. A positive osmotic fragility test, in which the patient's RBCs lyse more readily than controls in hypotonic solution, supports this diagnosis.",
+        "whyWrongByChoice": {
+          "A": "Mature RBCs lack mitochondria, so an electron transport chain mutation cannot explain these findings.",
+          "B": "Bisphosphoglycerate mutase makes 2,3-BPG and modulates oxygen affinity; it does not cause spherical, fragile cells.",
+          "D": "A beta-globin substitution causes sickle cell disease, producing crescent-shaped cells rather than rigid spheres with a positive osmotic fragility test.",
+          "E": "The gamma chain is a component of fetal hemoglobin and is unrelated to membrane structure."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "hereditary spherocytosis",
+        "osmotic fragility",
+        "RBC membrane"
+      ],
+      "topicId": "metabolic-overview-iii-o2-delivery-1-of-2",
+      "topicName": "Metabolic Overview III: O2 Delivery (1 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "bo05-005",
+      "stem": "A 6-year-old boy has episodes of severe extremity pain and fatigue. A blood smear shows crescent-shaped red blood cells. The underlying defect is a single amino acid substitution in hemoglobin. Which change best describes this substitution and its primary consequence?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A gamma chain replaced entirely by a beta chain, lowering hemoglobin oxygen affinity"
+        },
+        {
+          "label": "B",
+          "text": "A nonpolar valine replaced by a polar glutamate, increasing hemoglobin solubility"
+        },
+        {
+          "label": "C",
+          "text": "A polar glutamate replaced by nonpolar valine, promoting hemoglobin polymerization"
+        },
+        {
+          "label": "D",
+          "text": "A polar histidine replaced by nonpolar valine, abolishing the Bohr effect"
+        },
+        {
+          "label": "E",
+          "text": "Loss of the heme porphyrin ring from each globin, preventing oxygen binding"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Sickle cell disease is caused by a glutamate-to-valine substitution that promotes Hb polymerization.",
+        "whyCorrect": "In sickle cell disease, a polar, negatively charged glutamate is replaced by a nonpolar valine within the hemoglobin tetramer. This decreases solubility and promotes polymerization of hemoglobin, distorting the cell into a crescent shape, which is the primary cause of the disease pathology.",
+        "whyWrongByChoice": {
+          "A": "Sickle cell disease involves an amino acid substitution within a chain, not replacement of an entire gamma chain by a beta chain.",
+          "B": "The substitution goes the opposite direction (polar to nonpolar) and decreases, not increases, solubility.",
+          "D": "The substitution involves glutamate and valine, not histidine, and does not target the Bohr effect.",
+          "E": "The heme porphyrin ring is intact; the defect lies in a globin amino acid substitution."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "sickle cell disease",
+        "hemoglobin",
+        "amino acid substitution"
+      ],
+      "topicId": "metabolic-overview-iii-o2-delivery-1-of-2",
+      "topicName": "Metabolic Overview III: O2 Delivery (1 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "bo05-006",
+      "stem": "A researcher compares the oxygen-binding curves of myoglobin and adult hemoglobin plotted together. In actively metabolizing peripheral muscle tissue, hemoglobin has released oxygen and is only about 50% saturated, while myoglobin saturation approaches 100% in the same environment. Which property of myoglobin best explains this pattern?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Myoglobin circulates within red blood cells"
+        },
+        {
+          "label": "B",
+          "text": "Myoglobin has a higher affinity for oxygen than hemoglobin"
+        },
+        {
+          "label": "C",
+          "text": "Myoglobin has a higher P50 than hemoglobin"
+        },
+        {
+          "label": "D",
+          "text": "Myoglobin is a tetramer that shows binding cooperativity"
+        },
+        {
+          "label": "E",
+          "text": "Myoglobin releases oxygen more readily than hemoglobin at low pO2"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Myoglobin has the highest oxygen affinity, allowing it to take up oxygen in tissue where Hb unloads it.",
+        "whyCorrect": "Myoglobin has the greatest oxygen affinity of the oxygen-carrying proteins (P50 about 2.8 versus 26 for hemoglobin), so it binds oxygen where hemoglobin in RBCs is releasing it. This lets myoglobin remain nearly fully saturated in tissue even as hemoglobin drops toward 50% saturation.",
+        "whyWrongByChoice": {
+          "A": "Myoglobin is expressed in tissue such as muscle, whereas hemoglobin is the protein within circulating RBCs.",
+          "C": "A higher P50 indicates lower affinity; myoglobin has a lower P50 (higher affinity) than hemoglobin.",
+          "D": "Myoglobin is a monomer and lacks cooperativity, giving it a hyperbolic rather than sigmoidal curve.",
+          "E": "Because of its high affinity, myoglobin holds onto oxygen tightly rather than releasing it readily at low pO2."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "myoglobin",
+        "oxygen affinity",
+        "dissociation curve"
+      ],
+      "topicId": "metabolic-overview-iii-o2-delivery-1-of-2",
+      "topicName": "Metabolic Overview III: O2 Delivery (1 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "bo05-007",
+      "stem": "A physiologist explains that during pregnancy, oxygen must be transferred from maternal blood to fetal blood across the placenta. Compared with adult hemoglobin (HbA), fetal hemoglobin (HbF) is best characterized by which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It has a higher oxygen affinity than myoglobin"
+        },
+        {
+          "label": "B",
+          "text": "It has a higher oxygen affinity, with a curve shifted to the left of HbA"
+        },
+        {
+          "label": "C",
+          "text": "It has a lower oxygen affinity, with a curve shifted to the right of HbA"
+        },
+        {
+          "label": "D",
+          "text": "It is a monomer that lacks binding cooperativity"
+        },
+        {
+          "label": "E",
+          "text": "It is composed of two alpha and two beta chains"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "HbF has a higher oxygen affinity than HbA, shifting its curve left to favor maternal-to-fetal transfer.",
+        "whyCorrect": "Fetal hemoglobin is tetrameric (two alpha and two gamma chains) and, like HbA, shows cooperativity, but its sigmoidal curve is shifted to the left of HbA, indicating higher oxygen affinity. This higher affinity allows oxygen exchange from the mother to the fetus.",
+        "whyWrongByChoice": {
+          "A": "HbF affinity is still lower than that of myoglobin, which has the highest affinity of the three.",
+          "C": "HbF has higher affinity than HbA, so its curve is shifted left, not right.",
+          "D": "HbF is tetrameric and does show cooperativity; myoglobin is the monomer that lacks cooperativity.",
+          "E": "HbF is composed of two alpha and two gamma chains; two alpha and two beta chains describe HbA."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "fetal hemoglobin",
+        "oxygen affinity",
+        "HbA vs HbF"
+      ],
+      "topicId": "metabolic-overview-iii-o2-delivery-1-of-2",
+      "topicName": "Metabolic Overview III: O2 Delivery (1 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "bo05-008",
+      "stem": "During intense exercise, a skeletal muscle produces lactate because oxygen availability is limited relative to demand, creating a localized area of low pH. According to the Bohr effect, how does this low pH alter hemoglobin, and what is the benefit?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It converts hemoglobin to carboxyhemoglobin, increasing oxygen delivery"
+        },
+        {
+          "label": "B",
+          "text": "It decreases hemoglobin affinity for oxygen, shifting the curve right and releasing more oxygen"
+        },
+        {
+          "label": "C",
+          "text": "It has no effect on hemoglobin affinity because pH acts only on myoglobin"
+        },
+        {
+          "label": "D",
+          "text": "It increases hemoglobin affinity for oxygen by deprotonating histidine residues"
+        },
+        {
+          "label": "E",
+          "text": "It increases hemoglobin affinity for oxygen, shifting the curve left and retaining oxygen"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Low pH (Bohr effect) decreases Hb oxygen affinity, right-shifting the curve to release more O2 to active tissue.",
+        "whyCorrect": "In the Bohr effect, elevated H+ protonates histidine residues (pKa about 6.5) in hemoglobin, stabilizing a lower-affinity form that favors oxygen dissociation. This right shift promotes increased oxygen release to an active muscle that needs it to recover its metabolic demand.",
+        "whyWrongByChoice": {
+          "A": "Carboxyhemoglobin is formed by carbon monoxide, not by low pH, and it impairs rather than increases delivery.",
+          "C": "Low pH acts on hemoglobin through the Bohr effect, altering its oxygen affinity.",
+          "D": "Low pH protonates (not deprotonates) histidine residues, and the result is decreased affinity, not increased.",
+          "E": "Low pH decreases affinity and shifts the curve right; it does not retain oxygen."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Bohr effect",
+        "pH",
+        "oxygen delivery"
+      ],
+      "topicId": "metabolic-overview-iii-o2-delivery-1-of-2",
+      "topicName": "Metabolic Overview III: O2 Delivery (1 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "bo05-009",
+      "stem": "At high altitude, tissue demand for oxygen rises and red blood cells increase production of a glucose-derived molecule that lowers hemoglobin affinity for oxygen. This molecule is generated from a glycolytic intermediate by an enzyme in the Rapoport-Luebering shunt. Which molecule and precursor are correctly described?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "2,3-BPG, formed from 1,3-bisphosphoglycerate"
+        },
+        {
+          "label": "B",
+          "text": "2,3-BPG, formed from glucose-6-phosphate by hexokinase"
+        },
+        {
+          "label": "C",
+          "text": "Carbaminohemoglobin, formed from CO2 binding to globin chains"
+        },
+        {
+          "label": "D",
+          "text": "Carbonic acid, formed from CO2 and water by carbonic anhydrase"
+        },
+        {
+          "label": "E",
+          "text": "Lactate, formed from pyruvate by lactate dehydrogenase"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "2,3-BPG is made from 1,3-BPG by bisphosphoglycerate mutase and lowers Hb oxygen affinity.",
+        "whyCorrect": "2,3-bisphosphoglycerate (2,3-BPG) is formed in RBCs from the glycolytic intermediate 1,3-bisphosphoglycerate by the enzyme bisphosphoglycerate mutase within the Rapoport-Luebering shunt. It lowers hemoglobin affinity for oxygen and can be produced rapidly in response to increased tissue demand or lower oxygen availability.",
+        "whyWrongByChoice": {
+          "B": "2,3-BPG derives from 1,3-bisphosphoglycerate via bisphosphoglycerate mutase, not from glucose-6-phosphate via hexokinase.",
+          "C": "Carbaminohemoglobin is formed by CO2 binding hemoglobin, not from a glycolytic intermediate by a mutase.",
+          "D": "Carbonic acid forms from CO2 and water and drives the Bohr effect but is not the glucose-derived 2,3-BPG.",
+          "E": "Lactate is made from pyruvate and lowers local pH, but it is not the 2,3-BPG molecule described here."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "2,3-BPG",
+        "Rapoport-Luebering shunt",
+        "oxygen affinity"
+      ],
+      "topicId": "metabolic-overview-iii-o2-delivery-1-of-2",
+      "topicName": "Metabolic Overview III: O2 Delivery (1 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "bo05-010",
+      "stem": "A 45-year-old man is brought to the emergency department after being found in a garage with a running car engine. He has headache, dizziness, and altered mental status. His standard pulse oximetry reads normal. Which of the following best explains his condition and its initial management?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Carbon monoxide forms carboxyhemoglobin; treat with high-flow 100% oxygen"
+        },
+        {
+          "label": "B",
+          "text": "Carbon monoxide lowers hemoglobin oxygen affinity; treat with a paper bag"
+        },
+        {
+          "label": "C",
+          "text": "Cyanide inhibits the electron transport chain; treat with intravenous glucose"
+        },
+        {
+          "label": "D",
+          "text": "Methemoglobin forms from oxidized iron; treat by lowering inspired oxygen"
+        },
+        {
+          "label": "E",
+          "text": "Respiratory alkalosis from hyperventilation; treat with rebreathing"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "CO poisoning forms carboxyhemoglobin and is treated with high-flow 100% oxygen to displace CO.",
+        "whyCorrect": "Carbon monoxide binds the same heme site as oxygen with over 200 times the affinity, forming carboxyhemoglobin, which reduces oxygen carrying and increases affinity for the little O2 still bound, causing tissue hypoxia. Standard pulse oximetry cannot distinguish CO-bound from O2-bound hemoglobin, so it reads normal; treatment is continuous high-flow 100% oxygen to competitively displace the bound CO.",
+        "whyWrongByChoice": {
+          "B": "CO increases hemoglobin oxygen affinity (a left shift), and a paper bag is used for hyperventilation, not CO poisoning.",
+          "C": "This is carbon monoxide from car exhaust, not cyanide, and glucose is not the treatment; CO impairs delivery rather than blocking the electron transport chain like cyanide.",
+          "D": "The scenario describes CO exposure, not methemoglobinemia, and lowering inspired oxygen would worsen hypoxia.",
+          "E": "Hyperventilation-induced respiratory alkalosis does not fit a garage exposure with normal pulse oximetry and altered mental status."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "carbon monoxide",
+        "carboxyhemoglobin",
+        "pulse oximetry"
+      ],
+      "topicId": "metabolic-overview-iii-o2-delivery-1-of-2",
+      "topicName": "Metabolic Overview III: O2 Delivery (1 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "bo05-011",
+      "stem": "A medical student develops tingling in the fingers, difficulty breathing, and dizziness while jogging under exam stress. A caregiver has her sit and breathe into a paper bag. Which of the following best explains the underlying disturbance and why the paper bag helps?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hyperventilation causes respiratory acidosis; the bag removes excess CO2"
+        },
+        {
+          "label": "B",
+          "text": "Hyperventilation forms carboxyhemoglobin; the bag displaces carbon monoxide"
+        },
+        {
+          "label": "C",
+          "text": "Hyperventilation increases 2,3-BPG, shifting the curve right; the bag lowers 2,3-BPG"
+        },
+        {
+          "label": "D",
+          "text": "Hyperventilation lowers CO2 and H+, increasing hemoglobin oxygen affinity; rebreathing restores CO2"
+        },
+        {
+          "label": "E",
+          "text": "Hyperventilation raises CO2, decreasing hemoglobin oxygen affinity; the bag adds oxygen"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Hyperventilation causes respiratory alkalosis, left-shifting the Hb curve; rebreathing restores CO2 and delivery.",
+        "whyCorrect": "Prolonged rapid expiration of CO2 during hyperventilation produces respiratory alkalosis and the loss of two allosteric regulators of Hb-O2 binding, CO2 and H+. Losing these regulators increases hemoglobin oxygen affinity (a left shift) and decreases delivery to peripheral tissues; breathing into a paper bag lets the patient re-inhale exhaled CO2, restoring CO2 levels and proper oxygen delivery.",
+        "whyWrongByChoice": {
+          "A": "Hyperventilation causes respiratory alkalosis, not acidosis, because CO2 is blown off rather than retained.",
+          "B": "Carboxyhemoglobin forms from carbon monoxide exposure, which is not occurring in this exercise-and-anxiety scenario.",
+          "C": "Hyperventilation does not increase 2,3-BPG; the disturbance is loss of CO2 and H+ causing a left shift.",
+          "E": "Hyperventilation lowers, not raises, CO2, and the resulting change increases affinity rather than decreasing it."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "respiratory alkalosis",
+        "hyperventilation",
+        "oxygen affinity"
+      ],
+      "topicId": "metabolic-overview-iii-o2-delivery-1-of-2",
+      "topicName": "Metabolic Overview III: O2 Delivery (1 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "bo05-012",
+      "stem": "A 70-year-old man with several days of vomiting and poor fluid intake has a hematocrit of 52% (reference 41-50), while his total red cell mass is estimated to be normal. Which of the following best explains the elevated hematocrit?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Anemia from chronic blood loss"
+        },
+        {
+          "label": "B",
+          "text": "Dehydration reducing plasma volume"
+        },
+        {
+          "label": "C",
+          "text": "Increased mean corpuscular volume"
+        },
+        {
+          "label": "D",
+          "text": "Loss of red cells to splenic turnover"
+        },
+        {
+          "label": "E",
+          "text": "Reduced hemoglobin concentration"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Hematocrit is the RBC fraction of blood volume, so losing plasma water artificially raises it.",
+        "whyCorrect": "Hematocrit measures the percentage of whole blood volume occupied by RBCs. Decreasing the overall volume by reducing the solvent (water), as in dehydration from vomiting, artificially inflates the hematocrit even when the actual red cell mass is normal.",
+        "whyWrongByChoice": {
+          "A": "Anemia is defined by a decrease in hematocrit (among other values), so it cannot explain a high hematocrit.",
+          "C": "An increased MCV indicates larger cells (macrocytic anemia) but does not increase the fraction of blood volume occupied by RBCs.",
+          "D": "Loss of red cells to splenic turnover would lower the red cell mass and hematocrit, not raise it.",
+          "E": "A reduced hemoglobin concentration accompanies anemia and low hematocrit, the opposite of the finding here."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "hematocrit",
+        "dehydration",
+        "CBC"
+      ],
+      "topicId": "metabolic-overview-iii-o2-delivery-1-of-2",
+      "topicName": "Metabolic Overview III: O2 Delivery (1 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "bo06-001",
+      "stem": "A 61-year-old man is evaluated for fatigue. Complete blood count shows anemia with a mean corpuscular volume (MCV) above the reference range, and the peripheral smear shows abnormally large red blood cells. Which of the following best explains the increased cell size?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Deficient porphyrin synthesis"
+        },
+        {
+          "label": "B",
+          "text": "Excess membrane lipid deposition in the red cell"
+        },
+        {
+          "label": "C",
+          "text": "Increased red cell turnover with otherwise normal morphology"
+        },
+        {
+          "label": "D",
+          "text": "Ineffective DNA synthesis with continued cytoplasmic growth"
+        },
+        {
+          "label": "E",
+          "text": "Insufficient globin chain production"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Macrocytic anemia arises when DNA synthesis is impaired but cytoplasmic growth continues, producing abnormally large red cells.",
+        "whyCorrect": "In macrocytic anemia, cell division slows because of insufficient DNA synthesis while cytoplasmic development proceeds at a normal rate. The mismatch between growth and division yields abnormally large RBCs, and this defect also affects other rapidly dividing cells.",
+        "whyWrongByChoice": {
+          "A": "Deficient porphyrin (heme) synthesis also causes microcytic, not macrocytic, anemia.",
+          "B": "Membrane lipid deposition is not the mechanism of macrocytosis described in nutritional anemias.",
+          "C": "Heightened red cell loss with normal morphology describes normocytic anemia, which has a normal MCV.",
+          "E": "Insufficient globin drives microcytic anemia, producing small cells with a low MCV."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "MCV classification",
+        "macrocytic anemia",
+        "DNA synthesis"
+      ],
+      "topicId": "anemia-mcv-classification-b-vitamins",
+      "topicName": "BOOM: Metabolic Overview III - O2 Delivery (2 of 2): Anemia, MCV Classification, and the B Vitamins",
+      "tier": "core"
+    },
+    {
+      "id": "bo06-002",
+      "stem": "A patient from a severely impoverished region presents with cheilosis, glossitis, and a mild anemia with a normal MCV. An enzymatic assay of erythrocyte glutathione reductase activity, measured before and after adding the relevant cofactor, yields an activity ratio of 1.4. Which of the following deficiencies is most consistent with these findings?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cobalamin (B12)"
+        },
+        {
+          "label": "B",
+          "text": "Folate (B9)"
+        },
+        {
+          "label": "C",
+          "text": "Pyridoxine (B6)"
+        },
+        {
+          "label": "D",
+          "text": "Riboflavin (B2)"
+        },
+        {
+          "label": "E",
+          "text": "Thiamine (B1)"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "An erythrocyte glutathione reductase activity ratio above 1.2 indicates ariboflavinosis (vitamin B2 deficiency), the classically tested cause of normocytic nutritional anemia.",
+        "whyCorrect": "Riboflavin is carried in flavoproteins as FMN/FAD, so a functional assay of erythrocyte glutathione reductase (a flavoprotein) reflects riboflavin status better than urine levels. A ratio above 1.2 signals deficiency. Because B2 is needed for maximal iron absorption and mild iron deficiency is normocytic, ariboflavinosis presents as normocytic anemia unless extremely severe.",
+        "whyWrongByChoice": {
+          "A": "Cobalamin deficiency causes macrocytic anemia and would not be detected by this riboflavin-specific assay.",
+          "B": "Folate deficiency causes macrocytic anemia, not a normal-MCV anemia.",
+          "C": "Pyridoxine deficiency causes microcytic anemia and is not assessed by the glutathione reductase activity ratio.",
+          "E": "Thiamine deficiency is excluded from the anemia differential and does not cause the described picture."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "riboflavin",
+        "normocytic anemia",
+        "glutathione reductase"
+      ],
+      "topicId": "anemia-mcv-classification-b-vitamins",
+      "topicName": "BOOM: Metabolic Overview III - O2 Delivery (2 of 2): Anemia, MCV Classification, and the B Vitamins",
+      "tier": "core"
+    },
+    {
+      "id": "bo06-003",
+      "stem": "A 34-year-old man being treated for tuberculosis with a regimen that includes isoniazid develops a microcytic anemia along with a sensory neuropathy. Deficiency of a coenzyme for which of the following reactions best explains his anemia?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Conversion of homocysteine to methionine by methionine synthase"
+        },
+        {
+          "label": "B",
+          "text": "Conversion of methylmalonyl-CoA to succinyl-CoA in mitochondria"
+        },
+        {
+          "label": "C",
+          "text": "Reduction of folate to tetrahydrofolate by dihydrofolate reductase"
+        },
+        {
+          "label": "D",
+          "text": "The first (committed) step of porphyrin (heme) synthesis"
+        },
+        {
+          "label": "E",
+          "text": "Transfer of one-carbon units for thymidine synthesis"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Isoniazid causes vitamin B6 (pyridoxine) deficiency; pyridoxal 5'-phosphate is the coenzyme for the initial step of porphyrin synthesis, so deficiency yields microcytic anemia.",
+        "whyCorrect": "Pyridoxal 5'-phosphate (PLP), the active B6 derivative, is required for the first step of porphyrin synthesis. Without adequate porphyrin, hemoglobin production falls and microcytic anemia results. Isoniazid is well known to impair B6, and the associated neuropathy fits the presentation.",
+        "whyWrongByChoice": {
+          "A": "Homocysteine to methionine is a B12/folate reaction associated with macrocytic anemia.",
+          "B": "Methylmalonyl-CoA to succinyl-CoA is a B12-dependent reaction, unrelated to microcytosis.",
+          "C": "Reduction of folate to FH4 is performed by DHFR and is a folate/macrocytic pathway, not the B6 microcytic mechanism.",
+          "E": "One-carbon transfer for thymidine is a folate function tied to macrocytic anemia."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "pyridoxine",
+        "microcytic anemia",
+        "isoniazid",
+        "heme synthesis"
+      ],
+      "topicId": "anemia-mcv-classification-b-vitamins",
+      "topicName": "BOOM: Metabolic Overview III - O2 Delivery (2 of 2): Anemia, MCV Classification, and the B Vitamins",
+      "tier": "core"
+    },
+    {
+      "id": "bo06-004",
+      "stem": "A 6-year-old child with acute leukemia is treated with methotrexate, a structural analogue of folate. This antifolate impairs DNA synthesis in rapidly dividing cells by directly inhibiting which of the following enzymes?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Dihydrofolate reductase"
+        },
+        {
+          "label": "B",
+          "text": "Glutathione reductase"
+        },
+        {
+          "label": "C",
+          "text": "Methionine synthase"
+        },
+        {
+          "label": "D",
+          "text": "Methylmalonyl-CoA mutase"
+        },
+        {
+          "label": "E",
+          "text": "Thymidylate synthase"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Methotrexate is an antifolate that inhibits dihydrofolate reductase (DHFR), blocking formation of the active one-carbon carrier tetrahydrofolate.",
+        "whyCorrect": "Folate must undergo reductions catalyzed by DHFR to form tetrahydrofolate (FH4), the form used in one-carbon transfers. Methotrexate mimics folate and inhibits DHFR, restricting substrates needed for DNA synthesis. This is the milestone antifolate mechanism attributed to Sidney Farber's leukemia work.",
+        "whyWrongByChoice": {
+          "B": "Glutathione reductase is a riboflavin-linked flavoprotein, not the methotrexate target.",
+          "C": "Methionine synthase uses methyl-B12 to convert homocysteine to methionine; it is not methotrexate's target.",
+          "D": "Methylmalonyl-CoA mutase is a B12-dependent enzyme unrelated to antifolate action.",
+          "E": "Thymidylate synthase is downstream and is not the enzyme methotrexate directly inhibits."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "folate",
+        "methotrexate",
+        "DHFR",
+        "antifolate"
+      ],
+      "topicId": "anemia-mcv-classification-b-vitamins",
+      "topicName": "BOOM: Metabolic Overview III - O2 Delivery (2 of 2): Anemia, MCV Classification, and the B Vitamins",
+      "tier": "core"
+    },
+    {
+      "id": "bo06-005",
+      "stem": "A 63-year-old woman has macrocytic anemia, and laboratory testing is positive for anti-intrinsic factor antibodies. Impaired absorption of which vitamin, at which anatomical site, best accounts for her anemia?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cobalamin, absorbed in the duodenum"
+        },
+        {
+          "label": "B",
+          "text": "Cobalamin, absorbed in the terminal ileum"
+        },
+        {
+          "label": "C",
+          "text": "Folate, absorbed in the duodenum and jejunum"
+        },
+        {
+          "label": "D",
+          "text": "Folate, absorbed in the terminal ileum"
+        },
+        {
+          "label": "E",
+          "text": "Iron, absorbed in the terminal ileum"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Intrinsic factor escorts cobalamin to the terminal ileum for absorption; antibodies against IF cause pernicious anemia and B12 malabsorption.",
+        "whyCorrect": "Parietal cells secrete intrinsic factor, which facilitates cobalamin transit through the small intestine so it can be absorbed in the terminal ileum. Autoantibodies against IF (pernicious anemia) block this, producing macrocytic anemia. Presence of anti-IF antibodies is usually sufficient for the diagnosis.",
+        "whyWrongByChoice": {
+          "A": "Cobalamin is absorbed in the terminal ileum, not the duodenum.",
+          "C": "Folate is absorbed in the duodenum and jejunum, but its uptake does not depend on intrinsic factor.",
+          "D": "Folate is not absorbed in the terminal ileum and is IF-independent.",
+          "E": "Iron absorption does not depend on intrinsic factor and does not cause macrocytic anemia."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "cobalamin",
+        "intrinsic factor",
+        "pernicious anemia",
+        "terminal ileum"
+      ],
+      "topicId": "anemia-mcv-classification-b-vitamins",
+      "topicName": "BOOM: Metabolic Overview III - O2 Delivery (2 of 2): Anemia, MCV Classification, and the B Vitamins",
+      "tier": "core"
+    },
+    {
+      "id": "bo06-006",
+      "stem": "A 58-year-old man with an undiagnosed vitamin B12 deficiency is treated with folate supplementation alone. His anemia partially improves, but over the following weeks his gait disturbance and paresthesias worsen. Which of the following best explains the danger of this approach?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Folate corrects the anemia but does not prevent nerve damage"
+        },
+        {
+          "label": "B",
+          "text": "Folate directly binds and inactivates cobalamin"
+        },
+        {
+          "label": "C",
+          "text": "Folate inhibits DHFR and blocks its own activation"
+        },
+        {
+          "label": "D",
+          "text": "Folate supplementation causes secondary iron overload"
+        },
+        {
+          "label": "E",
+          "text": "Folate worsens the anemia by trapping additional homocysteine"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Folate therapy can mask an underlying B12 deficiency: the anemia improves while progressive, irreversible neurologic damage continues.",
+        "whyCorrect": "Exogenous folate bypasses the methyl trap and restores FH4 intermediates for nucleic acid synthesis, so anemia symptoms improve temporarily. However, unlike folate deficiency, untreated B12 deficiency produces irreparable nerve damage. Thus folate can mask B12 deficiency while neurologic decline continues.",
+        "whyWrongByChoice": {
+          "B": "Folate does not physically bind or inactivate cobalamin.",
+          "C": "Folate does not inhibit DHFR; that is the action of the antifolate methotrexate.",
+          "D": "Folate does not cause iron overload.",
+          "E": "Folate actually relieves the anemia transiently; it does not worsen it by trapping homocysteine."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "methyl trap",
+        "folate masking",
+        "B12 neuropathy"
+      ],
+      "topicId": "anemia-mcv-classification-b-vitamins",
+      "topicName": "BOOM: Metabolic Overview III - O2 Delivery (2 of 2): Anemia, MCV Classification, and the B Vitamins",
+      "tier": "core"
+    },
+    {
+      "id": "bo06-007",
+      "stem": "Two patients each present with macrocytic anemia, hypersegmented neutrophils, and elevated serum homocysteine. Only one of them also has an elevated methylmalonic acid (MMA) level. The elevated MMA most specifically indicates a deficiency of which vitamin?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cobalamin (B12)"
+        },
+        {
+          "label": "B",
+          "text": "Folate (B9)"
+        },
+        {
+          "label": "C",
+          "text": "Pyridoxine (B6)"
+        },
+        {
+          "label": "D",
+          "text": "Riboflavin (B2)"
+        },
+        {
+          "label": "E",
+          "text": "Thiamine (B1)"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Elevated MMA is unique to cobalamin (B12) deficiency and distinguishes it from folate deficiency, which shares elevated homocysteine.",
+        "whyCorrect": "Both folate and B12 deficiency elevate homocysteine and produce macrocytic anemia with hypersegmented neutrophils. However, MMA accumulates only when the B12-dependent conversion of methylmalonyl-CoA to succinyl-CoA fails, so elevated MMA is specific for B12 deficiency.",
+        "whyWrongByChoice": {
+          "B": "Folate deficiency elevates homocysteine but leaves MMA normal.",
+          "C": "Pyridoxine deficiency causes microcytic anemia and does not elevate MMA.",
+          "D": "Riboflavin deficiency causes normocytic anemia and does not elevate MMA.",
+          "E": "Thiamine deficiency is not a cause of these hematologic or biochemical findings."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "MMA",
+        "cobalamin",
+        "folate",
+        "biomarkers"
+      ],
+      "topicId": "anemia-mcv-classification-b-vitamins",
+      "topicName": "BOOM: Metabolic Overview III - O2 Delivery (2 of 2): Anemia, MCV Classification, and the B Vitamins",
+      "tier": "core"
+    },
+    {
+      "id": "bo06-008",
+      "stem": "A patient with suspected nutritional anemia has an elevated urinary formiminoglutamate (FIGLU), a product of histidine catabolism. This older but still board-relevant biomarker most classically indicates a deficiency of which vitamin?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cobalamin (B12)"
+        },
+        {
+          "label": "B",
+          "text": "Folate (B9)"
+        },
+        {
+          "label": "C",
+          "text": "Niacin (B3)"
+        },
+        {
+          "label": "D",
+          "text": "Pyridoxine (B6)"
+        },
+        {
+          "label": "E",
+          "text": "Riboflavin (B2)"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Elevated urinary FIGLU is a classic marker of folate deficiency.",
+        "whyCorrect": "FIGLU is an intermediate of histidine catabolism whose further metabolism requires tetrahydrofolate. When folate is deficient, FIGLU accumulates and spills into the urine, making it a traditional (still board-tested) marker of folate deficiency.",
+        "whyWrongByChoice": {
+          "A": "B12 deficiency is more specifically indicated by elevated MMA, not by FIGLU.",
+          "C": "Niacin deficiency is excluded from the anemia differential and is not marked by FIGLU.",
+          "D": "Pyridoxine deficiency is not marked by FIGLU.",
+          "E": "Riboflavin status is assessed by the glutathione reductase activity ratio, not FIGLU."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "FIGLU",
+        "folate",
+        "biomarkers"
+      ],
+      "topicId": "anemia-mcv-classification-b-vitamins",
+      "topicName": "BOOM: Metabolic Overview III - O2 Delivery (2 of 2): Anemia, MCV Classification, and the B Vitamins",
+      "tier": "core"
+    },
+    {
+      "id": "bo06-009",
+      "stem": "A 22-year-old presents with new paresthesias and a macrocytic anemia. On questioning, the patient admits to recurrent recreational inhalation of nitrous oxide ('laughing gas'). Which of the following best explains the vitamin abnormality?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Nitrous oxide accelerates renal excretion of folate"
+        },
+        {
+          "label": "B",
+          "text": "Nitrous oxide binds the cobalt ion"
+        },
+        {
+          "label": "C",
+          "text": "Nitrous oxide blocks iron absorption in the duodenum"
+        },
+        {
+          "label": "D",
+          "text": "Nitrous oxide destroys gastric parietal cells"
+        },
+        {
+          "label": "E",
+          "text": "Nitrous oxide inhibits dihydrofolate reductase"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Nitrous oxide inactivates cobalamin by binding its cobalt ion, depleting functional B12 from both diet and stores.",
+        "whyCorrect": "Vitamin B12's structure contains a defining cobalt ion. N2O binds this cobalt, rendering the vitamin inert, and this rapidly inactivates all cobalamin whether obtained from diet or released from hepatic stores. This trend is increasingly seen in clinics and produces B12-deficiency findings.",
+        "whyWrongByChoice": {
+          "A": "N2O does not act by increasing renal folate loss.",
+          "C": "N2O does not impair duodenal iron absorption.",
+          "D": "N2O does not destroy parietal cells; that mechanism describes pernicious anemia.",
+          "E": "N2O does not inhibit DHFR; that describes the antifolate methotrexate."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "nitrous oxide",
+        "cobalamin",
+        "cobalt",
+        "predisposing factors"
+      ],
+      "topicId": "anemia-mcv-classification-b-vitamins",
+      "topicName": "BOOM: Metabolic Overview III - O2 Delivery (2 of 2): Anemia, MCV Classification, and the B Vitamins",
+      "tier": "core"
+    },
+    {
+      "id": "bo06-010",
+      "stem": "While constructing a differential for a nutritional (B-vitamin) anemia, a student lists several B vitamins. A deficiency of which of the following would NOT be expected to cause anemia and should therefore be excluded from the differential?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cobalamin (B12)"
+        },
+        {
+          "label": "B",
+          "text": "Folate (B9)"
+        },
+        {
+          "label": "C",
+          "text": "Pyridoxine (B6)"
+        },
+        {
+          "label": "D",
+          "text": "Riboflavin (B2)"
+        },
+        {
+          "label": "E",
+          "text": "Thiamine (B1)"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Thiamine (B1) is among the B vitamins excluded from the anemia differential; B2, B6, B9, and B12 all cause nutritional anemias.",
+        "whyCorrect": "The brick lists vitamins B1 (thiamine), B3 (niacin), B5 (pantothenate), and B7 (biotin) as vitamins that should be excluded when considering anemia. In contrast, riboflavin, pyridoxine, folate, and cobalamin each produce a nutritional anemia.",
+        "whyWrongByChoice": {
+          "A": "Cobalamin deficiency causes macrocytic anemia and belongs in the differential.",
+          "B": "Folate deficiency causes macrocytic anemia and belongs in the differential.",
+          "C": "Pyridoxine deficiency causes microcytic anemia and belongs in the differential.",
+          "D": "Riboflavin deficiency causes normocytic anemia and belongs in the differential."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "B vitamins",
+        "anemia differential",
+        "thiamine"
+      ],
+      "topicId": "anemia-mcv-classification-b-vitamins",
+      "topicName": "BOOM: Metabolic Overview III - O2 Delivery (2 of 2): Anemia, MCV Classification, and the B Vitamins",
+      "tier": "core"
+    },
+    {
+      "id": "bo06-011",
+      "stem": "A 44-year-old man with a 4-year history of heavy alcohol use presents with fatigue, distended tender abdomen, and elevated liver enzymes. Laboratory studies show a macrocytic anemia. Given chronic alcohol use, which vitamin deficiency typically develops earliest and is the most likely initial contributor?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cobalamin (B12)"
+        },
+        {
+          "label": "B",
+          "text": "Folate (B9)"
+        },
+        {
+          "label": "C",
+          "text": "Pyridoxine (B6)"
+        },
+        {
+          "label": "D",
+          "text": "Riboflavin (B2)"
+        },
+        {
+          "label": "E",
+          "text": "Thiamine (B1)"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "In chronic alcohol use, folate deficiency usually develops earlier than B12 deficiency because of folate's small body stores and direct alcohol-mediated malabsorption.",
+        "whyCorrect": "Alcohol denatures GI proteins and damages the gut lining, and it directly impairs folate absorption and storage. Because folate stores are small (weeks to months), folate deficiency appears earlier, whereas B12 deficiency generally appears later after prolonged gastric or hepatic dysfunction. Accompanying malnutrition compounds the problem.",
+        "whyWrongByChoice": {
+          "A": "Cobalamin deficiency generally appears later, since hepatic B12 stores last years.",
+          "C": "Pyridoxine deficiency causes microcytic anemia, not the earliest macrocytic change here.",
+          "D": "Riboflavin deficiency causes normocytic anemia and is not the classic earliest alcohol-related deficiency.",
+          "E": "Although thiamine is depleted in alcoholism, it is excluded from the anemia differential and does not explain the macrocytic anemia."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "alcohol",
+        "folate",
+        "macrocytic anemia",
+        "case connection"
+      ],
+      "topicId": "anemia-mcv-classification-b-vitamins",
+      "topicName": "BOOM: Metabolic Overview III - O2 Delivery (2 of 2): Anemia, MCV Classification, and the B Vitamins",
+      "tier": "core"
+    },
+    {
+      "id": "bo06-012",
+      "stem": "A 63-year-old woman with pernicious anemia due to intrinsic factor antibodies undergoes laboratory evaluation. Compared with reference ranges, which of the following values is most likely to be elevated (above normal) in this patient?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hematocrit (HCT)"
+        },
+        {
+          "label": "B",
+          "text": "Hemoglobin concentration"
+        },
+        {
+          "label": "C",
+          "text": "Mean corpuscular volume"
+        },
+        {
+          "label": "D",
+          "text": "Red blood cell count"
+        },
+        {
+          "label": "E",
+          "text": "Serum iron"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Pernicious anemia is a macrocytic anemia, so MCV is elevated while the measures of red cell mass are low.",
+        "whyCorrect": "Cobalamin deficiency impairs DNA synthesis, producing abnormally large red cells and raising the MCV above normal. Because the patient is anemic, the hematocrit, hemoglobin, and red cell count are normal or, more likely, decreased rather than elevated.",
+        "whyWrongByChoice": {
+          "A": "Hematocrit is reduced in anemia, not elevated.",
+          "B": "Hemoglobin concentration is low in an anemic patient.",
+          "D": "The red blood cell count is decreased in this anemia.",
+          "E": "Serum iron is not characteristically elevated by B12 deficiency and is unrelated to the macrocytosis."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "pernicious anemia",
+        "MCV",
+        "laboratory values",
+        "macrocytic anemia"
+      ],
+      "topicId": "anemia-mcv-classification-b-vitamins",
+      "topicName": "BOOM: Metabolic Overview III - O2 Delivery (2 of 2): Anemia, MCV Classification, and the B Vitamins",
+      "tier": "core"
+    }
+  ]
+}

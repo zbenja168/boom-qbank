@@ -1,0 +1,2825 @@
+{
+  "categoryId": "w7s3",
+  "categoryName": "Session 3",
+  "questions": [
+    {
+      "id": "bo51-001",
+      "stem": "A 6-year-old girl is evaluated for obesity and difficulty walking. At birth she had poor muscle tone and difficulty feeding. She now has a voracious appetite, and her family has locked the refrigerator to control her intake. Her BMI is 39, and she has mild intellectual impairment and hypogonadism. Which of the following best describes the underlying genetic abnormality?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hypomethylation of the paternal ICR1 at 11p15"
+        },
+        {
+          "label": "B",
+          "text": "Loss of maternally expressed UBE3A at the 15q11-q13 region"
+        },
+        {
+          "label": "C",
+          "text": "Loss of paternally expressed genes at the 15q11-q13 region"
+        },
+        {
+          "label": "D",
+          "text": "Paternal uniparental disomy of chromosome 6"
+        },
+        {
+          "label": "E",
+          "text": "Trisomy 21"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Infantile hypotonia and feeding difficulty followed by childhood hyperphagia, obesity, and hypogonadism is the classic course of Prader-Willi syndrome, caused by loss of paternal gene expression at 15q11-q13.",
+        "whyCorrect": "Prader-Willi syndrome results from loss of paternally expressed genes (including SNRPN) in the 15q11-q13 region, most often from paternal microdeletion or maternal uniparental disomy. Because the maternal copy of this region is normally imprinted (silenced), absence of the paternal contribution leaves the genes unexpressed, producing the characteristic biphasic feeding pattern and obesity.",
+        "whyWrongByChoice": {
+          "A": "Hypomethylation of paternal ICR1 at 11p15 lowers IGF2 and causes Silver-Russell syndrome, a growth-restriction disorder, the opposite of this child's obesity.",
+          "B": "Loss of maternal UBE3A at 15q11-q13 causes Angelman syndrome, which presents with severe developmental delay, ataxia, seizures, and a happy demeanor, not obesity and hyperphagia.",
+          "D": "Paternal uniparental disomy of chromosome 6 dysregulates PLAGL1 and causes transient neonatal diabetes, not Prader-Willi syndrome.",
+          "E": "Trisomy 21 (Down syndrome) is an aneuploidy, not an imprinting disorder, and does not produce this hypotonia-then-hyperphagia course."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Prader-Willi syndrome",
+        "imprinting",
+        "15q11-q13"
+      ],
+      "topicId": "genomic-imprinting-disorders",
+      "topicName": "Genomic Imprinting Disorders",
+      "tier": "core"
+    },
+    {
+      "id": "bo51-002",
+      "stem": "A 3-year-old boy has severe intellectual disability with essentially absent speech. He is noted to be unusually happy, laughs and smiles frequently, and displays hand-flapping movements. He has microcephaly, ataxia, and a history of seizures. Which gene is most likely responsible for his condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "IGF2"
+        },
+        {
+          "label": "B",
+          "text": "PLAGL1"
+        },
+        {
+          "label": "C",
+          "text": "SNRPN"
+        },
+        {
+          "label": "D",
+          "text": "UBE3A"
+        },
+        {
+          "label": "E",
+          "text": "ZFP57"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Happy demeanor with frequent laughter, minimal speech, ataxia, microcephaly, and seizures is Angelman syndrome, caused by loss of maternally expressed UBE3A.",
+        "whyCorrect": "Angelman syndrome is caused by loss of maternal expression of UBE3A in the 15q11-q13 region. UBE3A encodes a ubiquitin ligase responsible for protein degradation in neurons and is paternally imprinted, so only the maternal allele is expressed in the brain; loss of that allele produces the neurodevelopmental phenotype.",
+        "whyWrongByChoice": {
+          "A": "IGF2 dysregulation at 11p15 causes Silver-Russell syndrome (growth restriction) or Beckwith-Wiedemann syndrome (overgrowth), not this happy-puppet phenotype.",
+          "B": "PLAGL1 at 6q24 is associated with transient neonatal diabetes mellitus.",
+          "C": "SNRPN loss of paternal expression causes Prader-Willi syndrome, characterized by hypotonia, hyperphagia, and obesity.",
+          "E": "ZFP57 is a methylation-sensitive transcription factor implicated in maintaining imprints and in cancer, not in Angelman syndrome."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "Angelman syndrome",
+        "UBE3A",
+        "15q11-q13"
+      ],
+      "topicId": "genomic-imprinting-disorders",
+      "topicName": "Genomic Imprinting Disorders",
+      "tier": "core"
+    },
+    {
+      "id": "bo51-003",
+      "stem": "A family has multiple members affected by Angelman syndrome. Pedigree analysis shows that unaffected fathers who carry a UBE3A mutation have affected children, whereas unaffected mothers who carry the same mutation do not have affected children. Which of the following best explains this inheritance pattern?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The phenotype depends on mitochondrial inheritance from the mother"
+        },
+        {
+          "label": "B",
+          "text": "UBE3A follows classic autosomal dominant Mendelian inheritance"
+        },
+        {
+          "label": "C",
+          "text": "UBE3A is maternally imprinted, so only a paternally transmitted mutation causes disease"
+        },
+        {
+          "label": "D",
+          "text": "UBE3A is paternally imprinted, so only a maternally transmitted mutation causes disease"
+        },
+        {
+          "label": "E",
+          "text": "UBE3A is X-linked recessive"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "For UBE3A the paternal allele is imprinted (silenced) and the maternal allele is expressed, so a UBE3A mutation causes Angelman syndrome only when inherited from the mother.",
+        "whyCorrect": "Imprinting disorders do not follow typical Mendelian inheritance; the phenotype appears only when the deficient allele is transmitted by the parent whose allele is normally expressed. Because UBE3A is paternally imprinted (maternally expressed), a mutation causes disease only when inherited from the mother, so an unaffected carrier father can transmit disease to his children.",
+        "whyWrongByChoice": {
+          "A": "Mitochondrial inheritance would produce maternal transmission of disease, whereas here it is the carrier father who transmits the affected phenotype.",
+          "B": "Classic autosomal dominant inheritance would produce disease regardless of the transmitting parent's sex, which is not observed.",
+          "C": "This reverses the imprint. If UBE3A were maternally imprinted, paternal transmission would cause disease, which contradicts the pedigree.",
+          "E": "UBE3A is on chromosome 15, not the X chromosome, and the pattern is not X-linked recessive."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "Angelman syndrome",
+        "imprinting inheritance",
+        "UBE3A"
+      ],
+      "topicId": "genomic-imprinting-disorders",
+      "topicName": "Genomic Imprinting Disorders",
+      "tier": "core"
+    },
+    {
+      "id": "bo51-004",
+      "stem": "A 2-year-old boy has severe intrauterine and postnatal growth restriction with a relatively large-appearing head, a triangular face with prominent forehead, body asymmetry with one leg longer than the other, and clinodactyly of the fifth finger. Molecular testing points to an abnormality at chromosome 11p15. Which of the following is the most likely molecular defect?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Duplication of 6q24"
+        },
+        {
+          "label": "B",
+          "text": "Hypermethylation of the paternal 11p15 region, increasing IGF2 expression"
+        },
+        {
+          "label": "C",
+          "text": "Hypomethylation of the paternal ICR1, reducing IGF2 expression"
+        },
+        {
+          "label": "D",
+          "text": "Maternal uniparental disomy of chromosome 15"
+        },
+        {
+          "label": "E",
+          "text": "Paternal deletion of 15q11-q13"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Severe growth restriction with a triangular face and body asymmetry is Silver-Russell syndrome, most often caused by hypomethylation of the paternal ICR1 at 11p15 that reduces IGF2.",
+        "whyCorrect": "ICR1 is normally methylated only on the paternal allele near the paternally expressed IGF2 gene. Hypomethylation of the paternal ICR1 allows an insulator protein to bind and block enhancers from activating IGF2, reducing IGF2 (a growth factor) expression and producing the growth-restricted Silver-Russell phenotype.",
+        "whyWrongByChoice": {
+          "A": "Duplication of 6q24 is associated with transient neonatal diabetes, not Silver-Russell syndrome.",
+          "B": "Hypermethylation of paternal 11p15 increases IGF2 and causes Beckwith-Wiedemann syndrome, an overgrowth disorder, not growth restriction.",
+          "D": "Maternal uniparental disomy of chromosome 15 causes Prader-Willi syndrome.",
+          "E": "Paternal 15q11-q13 deletion causes Prader-Willi syndrome, not a growth-restriction disorder with triangular facies."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Silver-Russell syndrome",
+        "IGF2",
+        "11p15",
+        "ICR1"
+      ],
+      "topicId": "genomic-imprinting-disorders",
+      "topicName": "Genomic Imprinting Disorders",
+      "tier": "core"
+    },
+    {
+      "id": "bo51-005",
+      "stem": "A newborn is noted to have a very large tongue, an umbilical hernia, and episodes of hypoglycemia, and he is large for gestational age. Genetic evaluation reveals an epigenetic abnormality of the 11p15 region. Which of the following molecular findings is most consistent with this presentation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hypermethylation of the paternal 11p15 region"
+        },
+        {
+          "label": "B",
+          "text": "Hypomethylation of the paternal ICR1 at 11p15"
+        },
+        {
+          "label": "C",
+          "text": "Loss of maternal expression at 15q11-q13"
+        },
+        {
+          "label": "D",
+          "text": "Loss of paternal expression at 15q11-q13"
+        },
+        {
+          "label": "E",
+          "text": "Trinucleotide repeat expansion"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Macroglossia, umbilical hernia, hypoglycemia, and overgrowth describe Beckwith-Wiedemann syndrome, which in a subset of patients arises from hypermethylation of the paternal 11p15 region.",
+        "whyCorrect": "Beckwith-Wiedemann syndrome is an overgrowth syndrome; in about 5-10% of patients it is caused by hypermethylation of the 11p15 region on the paternal allele. This aberrant hypermethylation dysregulates the IGF2/H19 locus and drives excess growth, giving macroglossia, abdominal wall defects, and neonatal hypoglycemia.",
+        "whyWrongByChoice": {
+          "B": "Hypomethylation of paternal ICR1 reduces IGF2 and causes Silver-Russell syndrome, a growth-restriction disorder, not overgrowth.",
+          "C": "Loss of maternal expression at 15q11-q13 causes Angelman syndrome, unrelated to macroglossia and overgrowth.",
+          "D": "Loss of paternal expression at 15q11-q13 causes Prader-Willi syndrome, which features hypotonia and later obesity, not neonatal overgrowth with macroglossia.",
+          "E": "Trinucleotide repeat expansion causes disorders such as fragile X or Huntington disease, not this imprinting-related overgrowth syndrome."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Beckwith-Wiedemann syndrome",
+        "11p15",
+        "overgrowth"
+      ],
+      "topicId": "genomic-imprinting-disorders",
+      "topicName": "Genomic Imprinting Disorders",
+      "tier": "core"
+    },
+    {
+      "id": "bo51-006",
+      "stem": "A full-term neonate is small for gestational age and develops hyperglycemia requiring insulin during the first weeks of life. The diabetes resolves spontaneously by 3 months of age. The child is at increased risk of developing type 2 diabetes later in life. Which of the following imprinted loci is most likely involved?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "PLAGL1 at 6q24"
+        },
+        {
+          "label": "B",
+          "text": "IGF2 at 11p15"
+        },
+        {
+          "label": "C",
+          "text": "UBE3A at 15q11-q13"
+        },
+        {
+          "label": "D",
+          "text": "SNRPN at 15q11-q13"
+        },
+        {
+          "label": "E",
+          "text": "H19 at 11p15"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Low birth weight with neonatal diabetes that resolves by about 3 months is transient neonatal diabetes mellitus, linked to dysregulation of PLAGL1 at the 6q24 locus.",
+        "whyCorrect": "Transient neonatal diabetes is associated with paternal uniparental disomy of chromosome 6, duplication of 6q24, or hypomethylation of the 6q24 imprinting control region, all leading to dysregulation of PLAGL1. About 50% of cases resolve spontaneously after roughly 3 months, though these patients remain at higher risk of later type 2 diabetes.",
+        "whyWrongByChoice": {
+          "B": "IGF2 at 11p15 is linked to Silver-Russell and Beckwith-Wiedemann syndromes, not transient neonatal diabetes.",
+          "C": "UBE3A at 15q11-q13 is the Angelman syndrome gene and is not associated with neonatal diabetes.",
+          "D": "SNRPN at 15q11-q13 is associated with Prader-Willi syndrome; the type 2 diabetes there appears with childhood obesity, not as transient neonatal diabetes.",
+          "E": "H19 at 11p15 is part of the IGF2/H19 imprinted domain related to 11p15 syndromes, not to the 6q24 transient neonatal diabetes locus."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "transient neonatal diabetes",
+        "PLAGL1",
+        "6q24"
+      ],
+      "topicId": "genomic-imprinting-disorders",
+      "topicName": "Genomic Imprinting Disorders",
+      "tier": "core"
+    },
+    {
+      "id": "bo51-007",
+      "stem": "A geneticist wants a single first-line test that can simultaneously detect an abnormal epigenetic mark, copy number variations, and uniparental disomy within known imprinted regions, and can indicate which parental allele is affected. Which of the following techniques is most appropriate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Array comparative genomic hybridization (aCGH) of patient genomic DNA alone"
+        },
+        {
+          "label": "B",
+          "text": "Fluorescence in situ hybridization (FISH) with locus-specific probes"
+        },
+        {
+          "label": "C",
+          "text": "Karyotyping of cultured peripheral blood lymphocytes"
+        },
+        {
+          "label": "D",
+          "text": "Methylation-sensitive multiplex ligation-dependent probe amplification"
+        },
+        {
+          "label": "E",
+          "text": "Whole-genome sequencing at high read depth across the genome"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "MS-MLPA is the most widely used first-line test for imprinting disorders because it detects abnormal methylation, CNVs, and UPD and, being probe-dependent, can indicate the affected parental allele.",
+        "whyCorrect": "MS-MLPA detects abnormal DNA methylation patterns on selected regions, copy number variations, and uniparental disomy in known imprinted regions in a single assay. Because it is probe-dependent, it can distinguish which parental allele is affected, making it the preferred first-line diagnostic test.",
+        "whyWrongByChoice": {
+          "A": "aCGH identifies CNVs across the genome but does not provide information about parental origin or methylation status, so further analysis is required.",
+          "B": "FISH can confirm a deletion but does not detect methylation abnormalities or uniparental disomy and does not distinguish parental origin.",
+          "C": "Karyotyping detects large structural or numerical chromosomal changes but cannot detect the methylation defects or UPD central to imprinting disorders.",
+          "E": "Whole-genome (and exome) sequencing is not well-suited for identifying imprinting disorders because it does not readily assess methylation or parental origin."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "diagnosis",
+        "MS-MLPA",
+        "methylation"
+      ],
+      "topicId": "genomic-imprinting-disorders",
+      "topicName": "Genomic Imprinting Disorders",
+      "tier": "core"
+    },
+    {
+      "id": "bo51-008",
+      "stem": "A researcher is studying how a specific cis-acting DNA sequence establishes parent-of-origin gene silencing at an imprinted locus. This sequence lies within a CpG island near a gene promoter. Which of the following molecular events at this region most directly leads to silencing of the associated gene?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A point mutation changing the coding sequence of the gene"
+        },
+        {
+          "label": "B",
+          "text": "Acetylation of histones opening the chromatin"
+        },
+        {
+          "label": "C",
+          "text": "Deletion of the entire chromosome arm"
+        },
+        {
+          "label": "D",
+          "text": "Insertion of a trinucleotide repeat in the coding region"
+        },
+        {
+          "label": "E",
+          "text": "Methylation of cytosine residues"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Imprinting control regions lie within CpG islands, and methylation of their cytosine residues silences the associated gene without changing the DNA sequence.",
+        "whyCorrect": "Correct imprinted expression depends on an imprinting control region (ICR), often located within a CpG island near a promoter. CpG islands are usually unmethylated to allow expression; when the ICR becomes methylated at cytosine residues, the gene is silenced. This is an epigenetic mark that alters chromatin compaction rather than the DNA sequence.",
+        "whyWrongByChoice": {
+          "A": "A point mutation changes the DNA sequence and is not the epigenetic, parent-of-origin mechanism of imprinting-based silencing.",
+          "B": "Histone acetylation opens chromatin and promotes expression rather than silencing.",
+          "C": "Deletion of a chromosome arm is a large structural change affecting many genes, not the specific methylation-based silencing of an ICR.",
+          "D": "Trinucleotide repeat insertion is the mechanism of repeat-expansion disorders, not of imprinting control region silencing."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "imprinting control region",
+        "DNA methylation",
+        "CpG island"
+      ],
+      "topicId": "genomic-imprinting-disorders",
+      "topicName": "Genomic Imprinting Disorders",
+      "tier": "core"
+    },
+    {
+      "id": "bo51-009",
+      "stem": "During normal development, imprinting marks inherited by an embryo must be reset so that each new gamete carries sex-appropriate imprints. At which stage does the genome-wide erasure and re-establishment of imprinting marks primarily occur?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "During each round of mitosis in adult tissues"
+        },
+        {
+          "label": "B",
+          "text": "During gametogenesis in primordial germ cells"
+        },
+        {
+          "label": "C",
+          "text": "During implantation of the blastocyst"
+        },
+        {
+          "label": "D",
+          "text": "In terminally differentiated somatic cells throughout life"
+        },
+        {
+          "label": "E",
+          "text": "Only after birth during puberty"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Imprints are erased and rewritten during gametogenesis in primordial germ cells, when new sex-specific imprints are established.",
+        "whyCorrect": "During gametogenesis, primordial germ cells undergo genome-wide demethylation that erases existing imprints, and new maternal or paternal imprints are then established in a sex-specific manner in developing gametes. These new marks are preserved through fertilization even during the waves of genome-wide demethylation that follow.",
+        "whyWrongByChoice": {
+          "A": "Imprints are stably maintained through mitosis in adult tissues, not reset with each division.",
+          "C": "Imprints are already established in the gametes before fertilization; implantation is not when erasure and rewriting occur.",
+          "D": "Somatic cells maintain the imprints inherited from the zygote; they do not erase and rewrite them.",
+          "E": "Imprint resetting occurs in germ cells during gametogenesis, not specifically at puberty."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "gametogenesis",
+        "imprint erasure",
+        "epigenetics"
+      ],
+      "topicId": "genomic-imprinting-disorders",
+      "topicName": "Genomic Imprinting Disorders",
+      "tier": "core"
+    },
+    {
+      "id": "bo51-010",
+      "stem": "A child with a clinical imprinting disorder is found to have inherited both copies of a chromosome from a single parent, with no deletion or point mutation identified. This abnormal gene dosage of imprinted genes explains the phenotype. Which of the following mechanisms best describes this finding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Balanced reciprocal translocation"
+        },
+        {
+          "label": "B",
+          "text": "Nondisjunction producing viable trisomy"
+        },
+        {
+          "label": "C",
+          "text": "Robertsonian fusion of acrocentric chromosomes"
+        },
+        {
+          "label": "D",
+          "text": "Somatic mosaicism for a coding mutation"
+        },
+        {
+          "label": "E",
+          "text": "Uniparental disomy"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Inheriting both copies of a chromosome from one parent is uniparental disomy, a major cause of imprinting syndromes.",
+        "whyCorrect": "Uniparental disomy (UPD) occurs when both copies of a chromosome come from one parent, often as a rescue event after abnormal chromosome segregation would otherwise cause a lethal aneuploidy. For imprinted genes, UPD directly alters gene dosage of the parent-of-origin-expressed allele and leads to disease.",
+        "whyWrongByChoice": {
+          "A": "A balanced reciprocal translocation exchanges segments between chromosomes without loss or gain of material and does not describe inheriting both copies from one parent.",
+          "B": "Viable trisomy involves three copies of a chromosome, not two copies from a single parent with normal total number.",
+          "C": "A Robertsonian fusion joins two acrocentric chromosomes and is a structural rearrangement, not the parent-of-origin dosage abnormality described.",
+          "D": "Somatic mosaicism for a coding mutation involves a DNA sequence change in a subset of cells, not uniparental inheritance of a chromosome."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "uniparental disomy",
+        "aneuploidy rescue",
+        "imprinting"
+      ],
+      "topicId": "genomic-imprinting-disorders",
+      "topicName": "Genomic Imprinting Disorders",
+      "tier": "core"
+    },
+    {
+      "id": "bo51-011",
+      "stem": "Two infants each have a documented 15q11-q13 microdeletion. One has Prader-Willi syndrome and the other has Angelman syndrome. Beyond identifying the deletion, which additional test is most useful to determine which parental allele is affected and thereby distinguish the two disorders?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Complete blood count"
+        },
+        {
+          "label": "B",
+          "text": "Microsatellite or SNP analysis"
+        },
+        {
+          "label": "C",
+          "text": "Repeat karyotyping"
+        },
+        {
+          "label": "D",
+          "text": "Sequencing of an unrelated housekeeping gene"
+        },
+        {
+          "label": "E",
+          "text": "Serum growth hormone level"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Because Prader-Willi and Angelman syndromes involve the same 15q11-q13 region but opposite parental alleles, parental-origin testing such as microsatellite or SNP analysis (or DNA methylation analysis) is needed to distinguish them.",
+        "whyCorrect": "Microsatellite or SNP analysis compares the child's polymorphic markers to those of both parents, revealing the parental origin of the affected allele and detecting uniparental disomy. This distinguishes Prader-Willi (loss of paternal expression) from Angelman (loss of maternal expression), since the deletion alone does not indicate which parent's allele is involved.",
+        "whyWrongByChoice": {
+          "A": "A complete blood count is unrelated to identifying parental allele origin in an imprinting disorder.",
+          "C": "Karyotyping, like the initial detection, shows the deletion but cannot determine parental origin of the affected allele.",
+          "D": "Sequencing an unrelated housekeeping gene provides no information about the imprinted 15q11-q13 region or its parental origin.",
+          "E": "A growth hormone level assesses one clinical consequence and does not establish the parental origin of the genetic defect."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "Prader-Willi syndrome",
+        "Angelman syndrome",
+        "parental origin",
+        "SNP analysis"
+      ],
+      "topicId": "genomic-imprinting-disorders",
+      "topicName": "Genomic Imprinting Disorders",
+      "tier": "core"
+    },
+    {
+      "id": "bo51-012",
+      "stem": "A cancer researcher observes that in many tumors the IGF2 gene loses its normal imprinting, resulting in increased IGF2 expression, and that this loss of imprinting can be detected in blood samples as a potential biomarker. Which of the following best explains the molecular basis of IGF2 loss of imprinting in these cancers?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A frameshift mutation inactivating the entire IGF2 coding region"
+        },
+        {
+          "label": "B",
+          "text": "Complete demethylation of all CpG islands genome-wide"
+        },
+        {
+          "label": "C",
+          "text": "Deletion of the imprinted region at chromosome 6q24"
+        },
+        {
+          "label": "D",
+          "text": "Hypermethylation of ICR1 leading to biallelic IGF2 expression"
+        },
+        {
+          "label": "E",
+          "text": "Loss of the maternal UBE3A allele on chromosome 15q11-13"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "IGF2 loss of imprinting in cancer is associated with hypermethylation of ICR1, which leads to increased (effectively biallelic) IGF2 expression and can serve as a biomarker of cancer risk.",
+        "whyCorrect": "Loss of imprinting of IGF2 is associated with hypermethylation of ICR1 and leads to increased gene expression in the majority of cancers. Because the maternal allele normally uses unmethylated ICR1 as an insulator to keep IGF2 silent, hypermethylation abolishes this insulation and drives excess IGF2, contributing to tumorigenesis; because loss of imprinting is detectable in blood, it is a candidate biomarker.",
+        "whyWrongByChoice": {
+          "A": "A frameshift inactivating IGF2 would decrease IGF2 function, whereas loss of imprinting increases IGF2 expression.",
+          "B": "Genome-wide demethylation of all CpG islands is not the specific ICR1 mechanism described and would not selectively increase IGF2 through loss of imprinting.",
+          "C": "Deletion of 6q24 relates to transient neonatal diabetes (PLAGL1), not IGF2 loss of imprinting in cancer.",
+          "E": "Loss of the maternal UBE3A allele causes Angelman syndrome and is unrelated to IGF2 expression in tumors."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "IGF2",
+        "loss of imprinting",
+        "cancer",
+        "ICR1"
+      ],
+      "topicId": "genomic-imprinting-disorders",
+      "topicName": "Genomic Imprinting Disorders",
+      "tier": "core"
+    },
+    {
+      "id": "bo52-001",
+      "stem": "A medical student is asked to classify the factors that contribute to a multifactorial (complex) disorder such as hypertension. Which of the following is LEAST characteristic of the way multifactorial disorders arise?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Environmental exposures such as diet and toxins"
+        },
+        {
+          "label": "B",
+          "text": "Epigenetic modifications such as DNA methylation"
+        },
+        {
+          "label": "C",
+          "text": "Genetic predisposition from multiple variants"
+        },
+        {
+          "label": "D",
+          "text": "Lifestyle factors such as physical activity and stress"
+        },
+        {
+          "label": "E",
+          "text": "Single-gene (monogenic) Mendelian inheritance"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Multifactorial disorders arise from many interacting factors rather than a single gene.",
+        "whyCorrect": "By definition, multifactorial diseases do not follow a clear-cut, single-gene inheritance pattern; they result from the combined action of many genetic variants together with epigenetic, environmental, and lifestyle influences. Classic monogenic Mendelian inheritance is the exception, not the rule, for these conditions.",
+        "whyWrongByChoice": {
+          "A": "Environmental exposures including diet, stress, and toxins shape disease risk and progression.",
+          "B": "Epigenetic modifications such as CpG methylation play a crucial role in these disorders.",
+          "C": "Genetic predispositions from multiple variants increase susceptibility and are a core component of multifactorial disease.",
+          "D": "Lifestyle factors are among the environmental influences that contribute significantly."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "multifactorial",
+        "definition",
+        "inheritance"
+      ],
+      "topicId": "multifactorial-disorders",
+      "topicName": "Multifactorial Disorders",
+      "tier": "core"
+    },
+    {
+      "id": "bo52-002",
+      "stem": "A 30-year-old woman whose father developed early-onset Alzheimer disease asks her physician about her own chance of developing the condition given this family history. The likelihood the physician estimates for her, because an affected relative is already known, is best described by which of the following terms?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Concordance rate"
+        },
+        {
+          "label": "B",
+          "text": "Occurrence risk"
+        },
+        {
+          "label": "C",
+          "text": "Penetrance"
+        },
+        {
+          "label": "D",
+          "text": "Population prevalence"
+        },
+        {
+          "label": "E",
+          "text": "Recurrence risk"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Recurrence risk is the likelihood of disease when a family member is already affected.",
+        "whyCorrect": "The brick distinguishes occurrence risk (chance of disease with NO family history) from recurrence risk (chance of disease when someone in the family already has it). Because this woman has an affected father, the estimate applies specifically to recurrence risk.",
+        "whyWrongByChoice": {
+          "A": "Concordance rate compares affected status between twin pairs, not an individual's familial risk.",
+          "B": "Occurrence risk applies when there is no family history, which is not the case here.",
+          "C": "Penetrance describes the proportion of genotype carriers who express a phenotype, not familial risk estimation.",
+          "D": "Population prevalence is the overall frequency in a population, independent of a specific family history."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "recurrence-risk",
+        "occurrence-risk",
+        "genetic-counseling"
+      ],
+      "topicId": "multifactorial-disorders",
+      "topicName": "Multifactorial Disorders",
+      "tier": "core"
+    },
+    {
+      "id": "bo52-003",
+      "stem": "Neural tube defects occur in approximately 1 in 1,500 live births, reflecting a relatively low population prevalence. A couple whose first child was born with a neural tube defect is told their recurrence risk in a future pregnancy is roughly 2-5%, about 37.5 times higher than the baseline. Using the liability-threshold model, which statement best explains this pattern?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A high liability threshold produces low prevalence but higher recurrence risk"
+        },
+        {
+          "label": "B",
+          "text": "A high threshold lowers recurrence risk because fewer relatives are susceptible"
+        },
+        {
+          "label": "C",
+          "text": "A low liability threshold produces both low prevalence and low recurrence risk"
+        },
+        {
+          "label": "D",
+          "text": "Recurrence risk is independent of how many genetic risk factors a family carries"
+        },
+        {
+          "label": "E",
+          "text": "The defect follows autosomal dominant inheritance with 50% recurrence"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "A higher liability threshold lowers population prevalence yet raises recurrence risk in affected families.",
+        "whyCorrect": "In the threshold model, a higher threshold means more genetic and environmental risk factors are required to cross into the affected range, so the disease is rare in the general population. But an affected individual must carry a heavy load of risk factors, and their relatives share more of those factors, giving a higher recurrence risk, as with the ~2-5% recurrence for neural tube defects.",
+        "whyWrongByChoice": {
+          "B": "A high threshold increases recurrence risk in affected families because affected members carry more risk factors.",
+          "C": "A high (not low) threshold underlies the low prevalence, and recurrence risk within families is elevated, not low.",
+          "D": "Recurrence risk rises with the genetic risk-factor load shared among relatives.",
+          "E": "Neural tube defects are multifactorial, not simple autosomal dominant traits with 50% recurrence."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "threshold-model",
+        "neural-tube-defect",
+        "recurrence-risk"
+      ],
+      "topicId": "multifactorial-disorders",
+      "topicName": "Multifactorial Disorders",
+      "tier": "core"
+    },
+    {
+      "id": "bo52-004",
+      "stem": "Pyloric stenosis is about four times more common in male infants than in female infants. A pediatric geneticist counsels the family of an affected female infant that the relatives of an affected girl carry a notably higher recurrence risk than the relatives of an affected boy. Which concept best accounts for this observation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "An affected female indicates the trait is purely environmental in her family and not heritable"
+        },
+        {
+          "label": "B",
+          "text": "Females have a higher threshold, so an affected girl must carry a greater genetic load"
+        },
+        {
+          "label": "C",
+          "text": "Males have a higher threshold and therefore transmit more risk alleles to their relatives"
+        },
+        {
+          "label": "D",
+          "text": "Sex has no effect on the liability threshold for multifactorial traits such as this one"
+        },
+        {
+          "label": "E",
+          "text": "The condition is X-linked recessive, sparing most females who carry a single copy"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "When the less-susceptible sex is affected, it signals a heavier genetic load and higher recurrence risk in relatives.",
+        "whyCorrect": "The brick explains that females have a higher threshold for pyloric stenosis, requiring more genetic and environmental risk factors. An affected female therefore carries a greater genetic load despite the higher threshold, and her relatives are more likely to inherit those risk factors, producing a higher familial recurrence risk (the Carter effect).",
+        "whyWrongByChoice": {
+          "A": "An affected female implies a heavier genetic contribution, not a purely environmental cause.",
+          "C": "Males have the LOWER threshold; the male predominance reflects easier crossing into the affected range.",
+          "D": "The incidence of many multifactorial diseases differs by sex precisely because thresholds differ.",
+          "E": "Pyloric stenosis is a multifactorial trait, not an X-linked recessive single-gene disorder."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "threshold-model",
+        "sex-differences",
+        "pyloric-stenosis",
+        "recurrence-risk"
+      ],
+      "topicId": "multifactorial-disorders",
+      "topicName": "Multifactorial Disorders",
+      "tier": "core"
+    },
+    {
+      "id": "bo52-005",
+      "stem": "A study of oral clefts found a concordance rate of 50% in monozygotic twins compared with 8% in dizygotic twins. Which conclusion about oral clefts is best supported by these data?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Environment plays no role because concordance is higher in monozygotic twins"
+        },
+        {
+          "label": "B",
+          "text": "Genes play no role because monozygotic twins are not 100% concordant"
+        },
+        {
+          "label": "C",
+          "text": "It is a multifactorial condition with a substantial genetic component"
+        },
+        {
+          "label": "D",
+          "text": "It is a purely environmental condition with no genetic basis"
+        },
+        {
+          "label": "E",
+          "text": "It is a single-gene autosomal recessive disorder"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Higher MZ than DZ concordance, but well below 100%, indicates a multifactorial trait with a strong genetic component.",
+        "whyCorrect": "Because monozygotic twins share nearly identical genotypes, concordance far above the dizygotic rate (50% vs 8%) points to a strong genetic contribution. Yet the fact that 50% of MZ twins are discordant shows non-genetic factors also matter, so oral cleft is multifactorial with a substantial genetic component.",
+        "whyWrongByChoice": {
+          "A": "Incomplete MZ concordance (50% discordant) shows environmental factors do contribute.",
+          "B": "Higher MZ than DZ concordance directly implicates genes; incomplete concordance does not erase that.",
+          "D": "The much higher MZ concordance demonstrates a clear genetic contribution, not a purely environmental cause.",
+          "E": "Single-gene autosomal recessive inheritance would predict very different, more predictable concordance, not this multifactorial pattern."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "twin-studies",
+        "concordance",
+        "oral-cleft"
+      ],
+      "topicId": "multifactorial-disorders",
+      "topicName": "Multifactorial Disorders",
+      "tier": "core"
+    },
+    {
+      "id": "bo52-006",
+      "stem": "Investigators note that a pair of monozygotic twins is discordant for a particular disease, meaning only one twin is affected despite the twins being genetically nearly identical. What does discordance in monozygotic twins most strongly suggest about the disease?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Non-genetic factors contribute to the disease"
+        },
+        {
+          "label": "B",
+          "text": "The disease cannot be studied using twin methods"
+        },
+        {
+          "label": "C",
+          "text": "The disease has complete genetic determination"
+        },
+        {
+          "label": "D",
+          "text": "The disease is caused solely by a single dominant gene"
+        },
+        {
+          "label": "E",
+          "text": "The twins are actually dizygotic"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Discordance in genetically identical twins points to non-genetic contributions and a multifactorial origin.",
+        "whyCorrect": "Monozygotic twins have nearly identical genotypes, so if only one twin is affected, genetics alone cannot explain the difference. The brick states this discordance indicates that non-genetic factors contribute, supporting a multifactorial origin.",
+        "whyWrongByChoice": {
+          "B": "Twin studies are in fact a powerful method for exactly this kind of gene-versus-environment analysis.",
+          "C": "Complete genetic determination would predict concordance in identical twins, the opposite of what is seen.",
+          "D": "A single fully penetrant dominant gene would tend to make identical twins concordant, not discordant.",
+          "E": "The premise specifies monozygotic (identical) twins; discordance does not reclassify their zygosity."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "twin-studies",
+        "discordance",
+        "gene-environment"
+      ],
+      "topicId": "multifactorial-disorders",
+      "topicName": "Multifactorial Disorders",
+      "tier": "core"
+    },
+    {
+      "id": "bo52-007",
+      "stem": "A research team wants to identify common genetic variants that occur more frequently in patients with type 2 diabetes than in unaffected controls, testing millions of variants across tens of thousands of individuals. Which study design is being described?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Genome-wide association study (GWAS)"
+        },
+        {
+          "label": "B",
+          "text": "Karyotype analysis"
+        },
+        {
+          "label": "C",
+          "text": "Linkage analysis in a single large family"
+        },
+        {
+          "label": "D",
+          "text": "Monozygotic twin concordance study"
+        },
+        {
+          "label": "E",
+          "text": "Randomized controlled trial"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "GWAS scan many genomes to find SNPs more common in cases than controls.",
+        "whyCorrect": "A genome-wide association study scans the genomes of thousands to millions of individuals to find single-nucleotide polymorphisms that occur more frequently in people with a disease than in those without it. The brick notes GWAS have identified about 75 susceptibility loci for type 2 diabetes and related metabolic traits.",
+        "whyWrongByChoice": {
+          "B": "Karyotype analysis detects large chromosomal abnormalities, not common single-nucleotide risk variants.",
+          "C": "Linkage analysis tracks co-inheritance within families and is suited to higher-penetrance, familial loci rather than common risk SNPs across populations.",
+          "D": "A twin concordance study estimates heritability, but it does not localize specific SNPs across the genome.",
+          "E": "A randomized controlled trial tests interventions or treatments, not naturally occurring genetic associations."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "GWAS",
+        "type-2-diabetes",
+        "study-design"
+      ],
+      "topicId": "multifactorial-disorders",
+      "topicName": "Multifactorial Disorders",
+      "tier": "core"
+    },
+    {
+      "id": "bo52-008",
+      "stem": "A geneticist explains that a typical human genome carries roughly 5 to 10 million single-nucleotide variants, most of which are benign and present in more than 1% of the population. Which term best describes this class of common, benign sequence variants?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Chromosomal aneuploidies"
+        },
+        {
+          "label": "B",
+          "text": "De novo Mendelian mutations"
+        },
+        {
+          "label": "C",
+          "text": "Deleterious mutations"
+        },
+        {
+          "label": "D",
+          "text": "Frameshift mutations"
+        },
+        {
+          "label": "E",
+          "text": "Polymorphisms"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Polymorphisms are benign variants with a population frequency above 1%.",
+        "whyCorrect": "The brick defines polymorphisms as benign mutations with a frequency greater than 1%, and notes a human genome typically carries 5 to 10 million SNPs. Some of these common variants are now recognized as risk factors for multifactorial disease through GWAS.",
+        "whyWrongByChoice": {
+          "A": "Aneuploidies are gains or losses of whole chromosomes, not single-nucleotide variants.",
+          "B": "De novo Mendelian mutations are rare, newly arising, disease-causing changes rather than common polymorphisms.",
+          "C": "Deleterious mutations are rare variants with a direct disease-causing effect, especially in Mendelian disorders, not common benign variants.",
+          "D": "Frameshift mutations are a specific disruptive mutation type, not a description of common benign SNPs."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "polymorphism",
+        "SNP",
+        "variant-classification"
+      ],
+      "topicId": "multifactorial-disorders",
+      "topicName": "Multifactorial Disorders",
+      "tier": "core"
+    },
+    {
+      "id": "bo52-009",
+      "stem": "A 68-year-old man is started on warfarin. Genotyping shows a CYP2C9 variant associated with reduced enzyme activity. Based on the pharmacogenomics discussed for warfarin, what is the most likely consequence of this variant, and how should dosing be adjusted?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Faster drug breakdown lowers warfarin levels, so a higher dose is needed"
+        },
+        {
+          "label": "B",
+          "text": "Slower drug breakdown raises blood warfarin levels, so a lower dose is needed"
+        },
+        {
+          "label": "C",
+          "text": "The variant has no effect on warfarin metabolism or dosing"
+        },
+        {
+          "label": "D",
+          "text": "The variant increases vitamin K synthesis, requiring more warfarin"
+        },
+        {
+          "label": "E",
+          "text": "The variant makes warfarin ineffective, so it should be discontinued entirely"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Reduced-activity CYP2C9 variants slow warfarin breakdown, raising drug levels and requiring lower doses.",
+        "whyCorrect": "CYP2C9 encodes the liver enzyme that breaks down warfarin. Certain variants slow this process, increasing warfarin levels in the blood. The brick states patients with such variants may require lower doses to avoid bleeding, and this information is used clinically to personalize dosing.",
+        "whyWrongByChoice": {
+          "A": "A reduced-activity variant slows metabolism and raises levels; it does not speed breakdown or lower levels.",
+          "C": "The variant meaningfully alters metabolism and is used to guide dosing, so it is not inconsequential.",
+          "D": "CYP2C9 affects warfarin breakdown, not vitamin K synthesis; VKORC1 is the gene linked to the vitamin K epoxide reductase target.",
+          "E": "Warfarin remains effective; dosing is simply reduced to prevent excessive anticoagulation."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "pharmacogenomics",
+        "warfarin",
+        "CYP2C9"
+      ],
+      "topicId": "multifactorial-disorders",
+      "topicName": "Multifactorial Disorders",
+      "tier": "core"
+    },
+    {
+      "id": "bo52-010",
+      "stem": "GWAS have identified variants in VKORC1 that influence a patient's response to warfarin. According to the brick, VKORC1 affects warfarin response primarily through which mechanism?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Altering expression of vitamin K epoxide reductase"
+        },
+        {
+          "label": "B",
+          "text": "Directly binding warfarin in the plasma to inactivate it"
+        },
+        {
+          "label": "C",
+          "text": "Encoding a serotonin receptor targeted by the drug"
+        },
+        {
+          "label": "D",
+          "text": "Encoding the hepatic enzyme that metabolizes and clears warfarin"
+        },
+        {
+          "label": "E",
+          "text": "Increasing intestinal absorption of warfarin"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "VKORC1 alters expression of warfarin's target enzyme, vitamin K epoxide reductase, changing drug sensitivity.",
+        "whyCorrect": "The brick states VKORC1 affects the drug's target enzyme by altering the expression of vitamin K epoxide reductase, which influences the body's sensitivity to warfarin. This is distinct from CYP2C9, which affects metabolism.",
+        "whyWrongByChoice": {
+          "B": "VKORC1 does not act by directly binding and inactivating warfarin in plasma.",
+          "C": "Serotonin receptors (for example HTR1F) relate to migraine drug targets, not warfarin's mechanism.",
+          "D": "Metabolism and clearance of warfarin are governed by CYP2C9, not VKORC1.",
+          "E": "The brick attributes VKORC1's effect to the target enzyme, not to intestinal absorption."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "pharmacogenomics",
+        "warfarin",
+        "VKORC1"
+      ],
+      "topicId": "multifactorial-disorders",
+      "topicName": "Multifactorial Disorders",
+      "tier": "core"
+    },
+    {
+      "id": "bo52-011",
+      "stem": "A recent migraine GWAS discovered new risk loci, some containing genes that encode existing migraine-specific drug targets. Monoclonal antibodies and gepants used for migraine act on the product of which of these genes?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "CALCA/CALCB, encoding calcitonin gene-related peptide"
+        },
+        {
+          "label": "B",
+          "text": "CYP2C9, encoding a warfarin-metabolizing enzyme"
+        },
+        {
+          "label": "C",
+          "text": "HIST1H2BD, encoding a histone protein"
+        },
+        {
+          "label": "D",
+          "text": "IL10RA, encoding an interleukin-10 receptor subunit"
+        },
+        {
+          "label": "E",
+          "text": "VKORC1, encoding vitamin K epoxide reductase"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Gepants and anti-CGRP monoclonal antibodies target CGRP, encoded by CALCA/CALCB.",
+        "whyCorrect": "The brick notes that migraine GWAS identified loci with genes encoding migraine-specific drug targets, namely the calcitonin gene-related peptide (CALCA/CALCB). CGRP is the target of preventive and acute migraine therapies delivered via monoclonal antibodies and gepants.",
+        "whyWrongByChoice": {
+          "B": "CYP2C9 relates to warfarin metabolism, not migraine therapy.",
+          "C": "HIST1H2BD is associated with cocaine dependence, not migraine treatment.",
+          "D": "IL10RA is implicated in inflammatory bowel disease, not migraine drug targeting.",
+          "E": "VKORC1 is a warfarin-response gene, unrelated to CGRP-targeting migraine drugs."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "GWAS",
+        "migraine",
+        "CGRP",
+        "drug-targets"
+      ],
+      "topicId": "multifactorial-disorders",
+      "topicName": "Multifactorial Disorders",
+      "tier": "core"
+    },
+    {
+      "id": "bo52-012",
+      "stem": "Studies suggest that a grandmother's smoking during pregnancy may alter DNA methylation patterns in her daughter and potentially in her grandchildren, influencing health outcomes beyond the immediate generation. This phenomenon is best described by which term?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Anticipation in a trinucleotide repeat disorder"
+        },
+        {
+          "label": "B",
+          "text": "Genomic imprinting reversal in the germline"
+        },
+        {
+          "label": "C",
+          "text": "Mendelian codominance at a single locus"
+        },
+        {
+          "label": "D",
+          "text": "Somatic mosaicism arising after fertilization"
+        },
+        {
+          "label": "E",
+          "text": "Transgenerational epigenetic inheritance"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Environmental exposures altering methylation across generations reflect transgenerational epigenetic inheritance.",
+        "whyCorrect": "The brick describes how prenatal environmental exposures, such as grandmaternal smoking, can alter DNA methylation and affect biological outcomes in later generations, a phenomenon called transgenerational epigenetic inheritance. Watkins et al. reported sex-specific methylation associations linked to grandmaternal smoking.",
+        "whyWrongByChoice": {
+          "A": "Anticipation describes worsening or earlier onset over generations in repeat-expansion disorders, not methylation transmission.",
+          "B": "The example involves inherited methylation changes across generations, not a reversal of genomic imprinting.",
+          "C": "Codominance is a Mendelian allelic expression pattern, unrelated to environmentally induced epigenetic changes.",
+          "D": "Somatic mosaicism refers to genetically distinct cell populations within one individual, not inherited epigenetic marks."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "epigenetics",
+        "DNA-methylation",
+        "transgenerational-inheritance"
+      ],
+      "topicId": "multifactorial-disorders",
+      "topicName": "Multifactorial Disorders",
+      "tier": "core"
+    },
+    {
+      "id": "bo59-001",
+      "stem": "A 29-year-old woman whose first pregnancy was affected by an open neural tube defect asks about the chance that a future pregnancy will be similarly affected. Neither she nor her partner has any known family history of the condition. Which of the following best estimates this risk and the concept it illustrates?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "About 25%, reflecting autosomal recessive inheritance"
+        },
+        {
+          "label": "B",
+          "text": "About 50%, reflecting autosomal dominant inheritance"
+        },
+        {
+          "label": "C",
+          "text": "Approximately 1 in 1,500, equal to the general-population occurrence risk"
+        },
+        {
+          "label": "D",
+          "text": "Approximately 2-5%, reflecting recurrence risk in a multifactorial disorder"
+        },
+        {
+          "label": "E",
+          "text": "Essentially 0%, because neural tube defects are purely environmental"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Recurrence risk is the chance of disease when a family member is already affected, and for neural tube defects it is roughly 2-5%.",
+        "whyCorrect": "The brick states that women who have had a child with a neural tube defect face a recurrence risk of approximately 2-5% in future pregnancies, about 37.5 times higher than the general-population occurrence risk of ~1 in 1,500. Multifactorial disorders do not follow Mendelian fractions.",
+        "whyWrongByChoice": {
+          "A": "A 25% risk implies autosomal recessive single-gene inheritance, which does not describe multifactorial neural tube defects.",
+          "B": "A 50% risk implies autosomal dominant single-gene inheritance, which does not apply here.",
+          "C": "1 in 1,500 is the general-population occurrence risk, not the recurrence risk after an affected child.",
+          "E": "Neural tube defects are multifactorial, with both genetic and environmental contributions, so recurrence risk is elevated, not zero."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "recurrence risk",
+        "neural tube defect",
+        "multifactorial inheritance"
+      ],
+      "topicId": "multifactorial-disorders-b59",
+      "topicName": "Multifactorial Disorders",
+      "tier": "core"
+    },
+    {
+      "id": "bo59-002",
+      "stem": "A healthy 40-year-old man with no relatives affected by Alzheimer disease asks his physician, \"What is my chance of ever developing Alzheimer disease?\" This question is best described by which of the following terms?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Complete penetrance"
+        },
+        {
+          "label": "B",
+          "text": "Concordance rate"
+        },
+        {
+          "label": "C",
+          "text": "Occurrence risk"
+        },
+        {
+          "label": "D",
+          "text": "Recurrence risk"
+        },
+        {
+          "label": "E",
+          "text": "Relative risk reduction"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Occurrence risk is the chance of being affected by a disease without a family history of it.",
+        "whyCorrect": "The brick defines occurrence risk as the chance of being affected by a disease when no one in the family has had it, using the example of Alzheimer disease with no affected relatives. Because this man has no family history, his question concerns occurrence risk.",
+        "whyWrongByChoice": {
+          "A": "Penetrance describes the proportion of genotype carriers who express the phenotype, not this risk question.",
+          "B": "Concordance rate is a twin-study measure of whether both twins share a disease, not an individual's baseline risk.",
+          "D": "Recurrence risk applies when a family member is already affected, which is not the case here.",
+          "E": "Relative risk reduction is a treatment-effect measure, unrelated to baseline disease risk."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "occurrence risk",
+        "definitions",
+        "risk assessment"
+      ],
+      "topicId": "multifactorial-disorders-b59",
+      "topicName": "Multifactorial Disorders",
+      "tier": "core"
+    },
+    {
+      "id": "bo59-003",
+      "stem": "In the liability-threshold model of multifactorial disease, a particular condition has a very high threshold. Which of the following is most likely true of this condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It affects males and females at exactly equal rates"
+        },
+        {
+          "label": "B",
+          "text": "It follows a single-gene, autosomal dominant inheritance pattern"
+        },
+        {
+          "label": "C",
+          "text": "It has a high prevalence in the general population"
+        },
+        {
+          "label": "D",
+          "text": "It has a low prevalence in the general population"
+        },
+        {
+          "label": "E",
+          "text": "Recurrence risk is independent of how many relatives are affected"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "A higher threshold means fewer people cross it (lower prevalence) but affected individuals carry more risk factors, raising familial recurrence risk.",
+        "whyCorrect": "The brick teaches that the higher the threshold, the lower the population prevalence, because a greater combined genetic and environmental load is required to become affected. It also states that a higher threshold means a higher recurrence risk within families, because affected individuals likely carry more genetic risk factors that relatives may share.",
+        "whyWrongByChoice": {
+          "A": "Thresholds and prevalence can differ between sexes; equal rates are not implied by a high threshold.",
+          "B": "Multifactorial disorders do not follow single-gene Mendelian inheritance patterns.",
+          "C": "A high threshold lowers, not raises, population prevalence.",
+          "E": "Recurrence risk rises with more affected relatives and a heavier genetic load, so it is not independent of family involvement."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "liability threshold",
+        "prevalence",
+        "recurrence risk"
+      ],
+      "topicId": "multifactorial-disorders-b59",
+      "topicName": "Multifactorial Disorders",
+      "tier": "core"
+    },
+    {
+      "id": "bo59-004",
+      "stem": "Pyloric stenosis is roughly four times more common in male than in female infants. A female infant is diagnosed with pyloric stenosis. Based on the liability-threshold model, which of the following best describes the implication for her future siblings?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Because an affected female must exceed a higher threshold, she likely carries a greater genetic load"
+        },
+        {
+          "label": "B",
+          "text": "Because females have a lower liability threshold, her siblings carry a below-average risk of disease"
+        },
+        {
+          "label": "C",
+          "text": "Her siblings have no increased risk because pyloric stenosis is purely environmental in origin"
+        },
+        {
+          "label": "D",
+          "text": "Only her sisters, and not her brothers, are at increased risk of developing pyloric stenosis"
+        },
+        {
+          "label": "E",
+          "text": "Recurrence risk is 50% for each sibling, consistent with autosomal dominant inheritance"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "When the less-often-affected sex is affected, that individual carries a heavier genetic load, increasing recurrence risk in relatives.",
+        "whyCorrect": "The brick explains that females have a higher threshold for pyloric stenosis, so an affected female must carry a greater genetic and environmental load. As a result her relatives are significantly more likely to inherit these risk factors, producing a higher recurrence risk within the family.",
+        "whyWrongByChoice": {
+          "B": "Females have a higher, not lower, threshold for pyloric stenosis, so this reasoning is reversed.",
+          "C": "Pyloric stenosis is multifactorial with a strong genetic contribution, not purely environmental.",
+          "D": "Both brothers and sisters can inherit the shared genetic risk factors; risk is not limited to sisters.",
+          "E": "A fixed 50% recurrence reflects autosomal dominant single-gene inheritance, which does not apply to this multifactorial condition."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "pyloric stenosis",
+        "sex differences",
+        "liability threshold"
+      ],
+      "topicId": "multifactorial-disorders-b59",
+      "topicName": "Multifactorial Disorders",
+      "tier": "core"
+    },
+    {
+      "id": "bo59-005",
+      "stem": "Monozygotic twins share nearly identical genomes. For a particular disease, researchers observe that many monozygotic twin pairs are discordant, meaning only one twin of the pair is affected. This discordance most strongly indicates which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Non-genetic factors contribute to the disease"
+        },
+        {
+          "label": "B",
+          "text": "The disease cannot be inherited at all"
+        },
+        {
+          "label": "C",
+          "text": "The disease has complete penetrance"
+        },
+        {
+          "label": "D",
+          "text": "The disease is caused by a single dominant gene"
+        },
+        {
+          "label": "E",
+          "text": "The twins must actually be dizygotic"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Discordance in genetically identical twins points to a non-genetic (multifactorial) contribution.",
+        "whyCorrect": "The brick states that because monozygotic twins have nearly identical genotypes, the existence of discordant pairs (only one affected) indicates that non-genetic factors contribute to the disease, supporting a multifactorial origin.",
+        "whyWrongByChoice": {
+          "B": "Discordance shows environmental influence but does not mean the disease has no heritable component.",
+          "C": "Complete penetrance would produce concordance in identical twins, the opposite of what is observed.",
+          "D": "A single dominant gene would tend to make identical twins concordant, not discordant.",
+          "E": "The premise states the twins are monozygotic; discordance does not change their zygosity."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "twin studies",
+        "concordance",
+        "gene-environment"
+      ],
+      "topicId": "multifactorial-disorders-b59",
+      "topicName": "Multifactorial Disorders",
+      "tier": "core"
+    },
+    {
+      "id": "bo59-006",
+      "stem": "A twin study reports the concordance rate for oral clefts as 50% in monozygotic twins and 8% in dizygotic twins. Which of the following conclusions is best supported by these data?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Dizygotic twins should always be concordant for oral cleft"
+        },
+        {
+          "label": "B",
+          "text": "Genetic factors are unimportant because monozygotic concordance is only 50%"
+        },
+        {
+          "label": "C",
+          "text": "Oral cleft has no genetic contribution"
+        },
+        {
+          "label": "D",
+          "text": "Oral cleft is a single-gene disorder with complete penetrance"
+        },
+        {
+          "label": "E",
+          "text": "Oral cleft is multifactorial with a substantial genetic component"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Higher concordance in monozygotic than dizygotic twins, with MZ concordance well below 100%, indicates a multifactorial disease with a strong genetic component.",
+        "whyCorrect": "The brick uses this exact example: because concordance is higher in monozygotic (50%) than dizygotic (8%) twins, oral cleft has a strong genetic component; because 50% of monozygotic pairs are still discordant, it is classified as multifactorial rather than purely genetic.",
+        "whyWrongByChoice": {
+          "A": "Dizygotic twins share only about half their genes on average, so they are not expected to be always concordant.",
+          "B": "The higher monozygotic concordance actually signals that genetics is important; 50% simply also implicates environment.",
+          "C": "The much higher monozygotic than dizygotic concordance demonstrates a clear genetic contribution.",
+          "D": "A single-gene, fully penetrant disorder would produce near-100% monozygotic concordance, not 50%."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "twin studies",
+        "oral cleft",
+        "concordance"
+      ],
+      "topicId": "multifactorial-disorders-b59",
+      "topicName": "Multifactorial Disorders",
+      "tier": "core"
+    },
+    {
+      "id": "bo59-007",
+      "stem": "A research team scans the genomes of 20,000 individuals with ADHD and 35,000 unaffected controls to identify single-nucleotide polymorphisms that occur more frequently in affected individuals, then displays the results as a Manhattan plot. This approach is best described as which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A genome-wide association study (GWAS)"
+        },
+        {
+          "label": "B",
+          "text": "A randomized controlled trial"
+        },
+        {
+          "label": "C",
+          "text": "A twin study"
+        },
+        {
+          "label": "D",
+          "text": "Karyotype analysis"
+        },
+        {
+          "label": "E",
+          "text": "Linkage analysis within a single large family"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "GWAS scans many genomes to find SNPs that are more common in affected than unaffected people.",
+        "whyCorrect": "The brick defines GWAS as scanning the genomes of thousands to millions of individuals to find SNPs that occur more frequently in people with a disease than in those without it, and it describes an ADHD meta-analysis of 20,183 cases and 35,191 controls visualized with a Manhattan plot.",
+        "whyWrongByChoice": {
+          "B": "A randomized controlled trial tests interventions, not inherent genetic associations.",
+          "C": "Twin studies compare disease concordance in twin pairs; they do not scan genome-wide SNP frequencies across large case-control cohorts.",
+          "D": "Karyotyping examines chromosome number and structure, not individual SNP associations.",
+          "E": "Linkage analysis tracks markers co-segregating with disease in families, not population-level SNP frequency comparisons."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "GWAS",
+        "Manhattan plot",
+        "ADHD"
+      ],
+      "topicId": "multifactorial-disorders-b59",
+      "topicName": "Multifactorial Disorders",
+      "tier": "core"
+    },
+    {
+      "id": "bo59-008",
+      "stem": "In population genetics, DNA sequence variants are classified by how often they occur. A benign variant present in more than 1% of the population is best classified as which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A de novo pathogenic variant"
+        },
+        {
+          "label": "B",
+          "text": "A deleterious mutation"
+        },
+        {
+          "label": "C",
+          "text": "A frameshift mutation"
+        },
+        {
+          "label": "D",
+          "text": "A polymorphism"
+        },
+        {
+          "label": "E",
+          "text": "Aneuploidy"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Polymorphisms are benign variants with a population frequency greater than 1%.",
+        "whyCorrect": "The brick defines polymorphisms as benign mutations with a frequency greater than 1%, noting that a human genome typically carries 5-10 million single-nucleotide polymorphisms (SNPs). Some of these common SNPs are now recognized as disease risk factors.",
+        "whyWrongByChoice": {
+          "A": "A de novo pathogenic variant is a new, typically rare, disease-causing change, not a common benign one.",
+          "B": "Deleterious mutations are rare variants with a direct disease-causing effect, not benign high-frequency variants.",
+          "C": "A frameshift mutation is a specific disruptive coding change, not a frequency-based classification.",
+          "E": "Aneuploidy is an abnormal chromosome number, a different category of variation."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "polymorphism",
+        "SNP",
+        "variant classification"
+      ],
+      "topicId": "multifactorial-disorders-b59",
+      "topicName": "Multifactorial Disorders",
+      "tier": "core"
+    },
+    {
+      "id": "bo59-009",
+      "stem": "A patient is started on warfarin, which has a narrow therapeutic window. Genetic testing reveals a CYP2C9 variant that reduces the activity of the hepatic enzyme that metabolizes the drug. Which of the following is the most appropriate expectation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The patient will accumulate higher warfarin levels and require a lower dose"
+        },
+        {
+          "label": "B",
+          "text": "The patient will clear warfarin faster and require a higher dose"
+        },
+        {
+          "label": "C",
+          "text": "The variant acts by directly increasing vitamin K epoxide reductase expression"
+        },
+        {
+          "label": "D",
+          "text": "The variant eliminates any need for INR monitoring"
+        },
+        {
+          "label": "E",
+          "text": "Warfarin will be ineffective regardless of the dose used"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Reduced CYP2C9 activity slows warfarin breakdown, raising drug levels so a lower dose is needed to avoid bleeding.",
+        "whyCorrect": "The brick explains that CYP2C9 encodes the liver enzyme that breaks down warfarin, and certain variants slow this process, increasing drug levels in the blood. Patients with such variants may therefore require lower doses to avoid bleeding, and this pharmacogenomic information is used to personalize dosing.",
+        "whyWrongByChoice": {
+          "B": "Reduced enzyme activity slows clearance, so the drug accumulates and a lower, not higher, dose is needed.",
+          "C": "Altering vitamin K epoxide reductase expression is the mechanism of VKORC1 variants, not CYP2C9.",
+          "D": "Warfarin still requires INR monitoring; pharmacogenomic testing complements, not replaces, it.",
+          "E": "Warfarin remains effective; the concern is excess drug levels, not loss of effect."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "pharmacogenomics",
+        "warfarin",
+        "CYP2C9"
+      ],
+      "topicId": "multifactorial-disorders-b59",
+      "topicName": "Multifactorial Disorders",
+      "tier": "core"
+    },
+    {
+      "id": "bo59-010",
+      "stem": "Genome-wide association studies of migraine identified risk loci containing the CALCA and CALCB genes, which encode calcitonin gene-related peptide (CGRP). This finding helps explain the effectiveness of which class of migraine therapy?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Anti-CGRP monoclonal antibodies and gepants"
+        },
+        {
+          "label": "B",
+          "text": "Broad-spectrum antibiotics such as doxycycline"
+        },
+        {
+          "label": "C",
+          "text": "Inhaled corticosteroids such as budesonide"
+        },
+        {
+          "label": "D",
+          "text": "Proton pump inhibitors such as omeprazole"
+        },
+        {
+          "label": "E",
+          "text": "Warfarin and other vitamin K antagonist anticoagulants"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "CALCA/CALCB encode CGRP, the target of anti-CGRP monoclonal antibodies and gepants.",
+        "whyCorrect": "The brick notes that newly identified migraine risk loci include genes encoding migraine-specific drug targets, specifically CGRP (CALCA/CALCB), which is the target of preventive and acute therapies delivered as monoclonal antibodies and gepants.",
+        "whyWrongByChoice": {
+          "B": "Antibiotics treat infections and have no role in the CGRP pathway.",
+          "C": "Inhaled corticosteroids treat airway inflammation, not CGRP-mediated migraine.",
+          "D": "Proton pump inhibitors reduce gastric acid and are not migraine-specific CGRP agents.",
+          "E": "Vitamin K antagonists are anticoagulants, unrelated to CGRP-directed migraine therapy."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "migraine",
+        "CGRP",
+        "GWAS",
+        "drug targets"
+      ],
+      "topicId": "multifactorial-disorders-b59",
+      "topicName": "Multifactorial Disorders",
+      "tier": "core"
+    },
+    {
+      "id": "bo59-011",
+      "stem": "Studies suggest that a grandmother's smoking during pregnancy may alter DNA methylation patterns that are detectable in her daughter and potentially in her grandchildren. This phenomenon is best termed which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Classic Mendelian inheritance"
+        },
+        {
+          "label": "B",
+          "text": "Genetic anticipation"
+        },
+        {
+          "label": "C",
+          "text": "Genomic imprinting limited to a single generation"
+        },
+        {
+          "label": "D",
+          "text": "Somatic mosaicism"
+        },
+        {
+          "label": "E",
+          "text": "Transgenerational epigenetic inheritance"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Prenatal exposures altering methylation across multiple generations is transgenerational epigenetic inheritance.",
+        "whyCorrect": "The brick describes how a grandmother's smoking during pregnancy may alter DNA methylation in her daughter and potentially her grandchildren, and names this phenomenon transgenerational epigenetic inheritance, in which prenatal environmental exposures influence outcomes beyond the immediate generation.",
+        "whyWrongByChoice": {
+          "A": "Mendelian inheritance involves transmission of DNA-sequence alleles, whereas this involves epigenetic marks.",
+          "B": "Anticipation is worsening or earlier disease onset over generations (as in trinucleotide repeat disorders), not methylation changes from an ancestor's exposure.",
+          "C": "Genomic imprinting involves parent-of-origin gene silencing, not smoking-induced effects transmitted across several generations.",
+          "D": "Somatic mosaicism refers to genetically different cell populations within one individual, not inherited methylation changes."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "epigenetics",
+        "transgenerational inheritance",
+        "DNA methylation"
+      ],
+      "topicId": "multifactorial-disorders-b59",
+      "topicName": "Multifactorial Disorders",
+      "tier": "core"
+    },
+    {
+      "id": "bo59-012",
+      "stem": "A medical student explains to a patient that allelic variation underlies much of human phenotypic diversity. Which of the following statements best describes the role of allelic variation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It affects only single-gene Mendelian disorders and no other human traits"
+        },
+        {
+          "label": "B",
+          "text": "It contributes only to disease and never to normal inherited human traits"
+        },
+        {
+          "label": "C",
+          "text": "It contributes to normal traits as well as to disease susceptibility"
+        },
+        {
+          "label": "D",
+          "text": "It is largely irrelevant to human genetics and phenotypic diversity"
+        },
+        {
+          "label": "E",
+          "text": "It occurs only within the non-coding regions of the human genome"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Allelic variation shapes both normal phenotypic traits and susceptibility to disease.",
+        "whyCorrect": "The brick teaches that allelic variation contributes to normal traits, disease susceptibility, and disease itself, giving examples such as body size (multifactorial) and eye color (multigenic), and states that these variants occur in both coding and non-coding regions of DNA.",
+        "whyWrongByChoice": {
+          "A": "It contributes to multifactorial and multigenic traits, not just single-gene Mendelian disorders.",
+          "B": "Allelic variation affects normal traits like size and eye color, not disease alone.",
+          "D": "Allelic variation is central to human genetic and phenotypic diversity, not irrelevant.",
+          "E": "Variation occurs in both coding and non-coding regions, not only non-coding DNA."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "allelic variation",
+        "phenotypic diversity",
+        "learning objective 2"
+      ],
+      "topicId": "multifactorial-disorders-b59",
+      "topicName": "Multifactorial Disorders",
+      "tier": "core"
+    },
+    {
+      "id": "bo53-001",
+      "stem": "A group of 500 people leaves an island by raft to settle a new island. Before departure, 400 have curly hair (dominant) and 100 have straight hair (recessive). During the voyage several rafts sink, and the group that arrives contains 375 with curly hair and 25 with straight hair. The change in allele proportions in the arriving group was caused by the random sinking of rafts rather than any survival advantage of a trait. Which phenomenon best explains this change in allele frequency?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Assortative mating"
+        },
+        {
+          "label": "B",
+          "text": "Bottleneck effect"
+        },
+        {
+          "label": "C",
+          "text": "Gene flow"
+        },
+        {
+          "label": "D",
+          "text": "Mendelian inheritance"
+        },
+        {
+          "label": "E",
+          "text": "Natural selection"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "A random disaster that sharply cuts population size and shifts allele frequencies by chance is the bottleneck effect.",
+        "whyCorrect": "The bottleneck effect is a sharp reduction in population size (and therefore alleles) caused by a random event such as a disaster. The sinking rafts randomly eliminated individuals, changing allele frequencies through genetic drift rather than through any fitness advantage.",
+        "whyWrongByChoice": {
+          "A": "Assortative mating is a preference for mating with similar individuals, which does not apply to a disaster that randomly removes people.",
+          "C": "Gene flow is the transfer of alleles between populations by migration and would increase variation, not the random loss seen here.",
+          "D": "Mendelian inheritance describes random reassortment of parental alleles into offspring genotypes, not a population-level frequency shift from a disaster.",
+          "E": "Natural selection favors alleles that confer a reproductive advantage; here the loss was random, with no trait providing an advantage."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "genetic drift",
+        "bottleneck effect"
+      ],
+      "topicId": "population-genetics",
+      "topicName": "Population Genetics",
+      "tier": "core"
+    },
+    {
+      "id": "bo53-002",
+      "stem": "In a stable, randomly mating population of 10,000 people, 5 individuals are affected by an autosomal recessive condition. Assuming Hardy-Weinberg equilibrium, which of the following best approximates the frequency of the recessive allele (q)?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "0.0005"
+        },
+        {
+          "label": "B",
+          "text": "0.022"
+        },
+        {
+          "label": "C",
+          "text": "0.043"
+        },
+        {
+          "label": "D",
+          "text": "0.5"
+        },
+        {
+          "label": "E",
+          "text": "0.978"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The recessive allele frequency q is the square root of the homozygous recessive frequency q-squared.",
+        "whyCorrect": "The affected homozygous recessive genotype frequency is q-squared = 5/10,000 = 0.0005. Taking the square root gives q = the square root of 0.0005, which is approximately 0.022.",
+        "whyWrongByChoice": {
+          "A": "0.0005 is q-squared (the frequency of affected individuals), not the allele frequency q itself; you must take its square root.",
+          "C": "0.043 corresponds to the heterozygote frequency 2pq, not the recessive allele frequency.",
+          "D": "0.5 would only occur if both alleles were equally common, which is not the case for a rare disease.",
+          "E": "0.978 is the frequency of the dominant allele p (equal to 1 minus q), not the recessive allele frequency."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Hardy-Weinberg",
+        "allele frequency"
+      ],
+      "topicId": "population-genetics",
+      "topicName": "Population Genetics",
+      "tier": "core"
+    },
+    {
+      "id": "bo53-003",
+      "stem": "In a randomly mating population of 1,000 people at Hardy-Weinberg equilibrium, 20 people are affected by an autosomal recessive disease. Approximately how many people in this population are unaffected heterozygous carriers?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "24"
+        },
+        {
+          "label": "B",
+          "text": "140"
+        },
+        {
+          "label": "C",
+          "text": "240"
+        },
+        {
+          "label": "D",
+          "text": "320"
+        },
+        {
+          "label": "E",
+          "text": "860"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Carrier count equals the heterozygote frequency 2pq multiplied by the total population.",
+        "whyCorrect": "q-squared = 20/1000 = 0.02, so q = approximately 0.14 and p = 1 minus 0.14 = 0.86. The carrier frequency is 2pq = 2 x 0.86 x 0.14 = approximately 0.24, and 0.24 x 1000 = 240 carriers.",
+        "whyWrongByChoice": {
+          "A": "24 results from multiplying the carrier frequency of 0.24 by 100 instead of by the true population of 1,000.",
+          "B": "140 confuses the allele frequency q (0.14) scaled to the population with the number of carriers, which requires 2pq.",
+          "D": "320 is not obtained by any correct step of the Hardy-Weinberg calculation.",
+          "E": "860 corresponds to p x 1000, the scaled dominant allele frequency, not the heterozygote count."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Hardy-Weinberg",
+        "carrier frequency"
+      ],
+      "topicId": "population-genetics",
+      "topicName": "Population Genetics",
+      "tier": "core"
+    },
+    {
+      "id": "bo53-004",
+      "stem": "A woman with curly hair reports that she is only romantically attracted to men who also have curly hair. If this preference were widespread, it would reduce random pairing in the population. This behavior is an example of which genetic phenomenon?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Assortative mating"
+        },
+        {
+          "label": "B",
+          "text": "Bottleneck effect"
+        },
+        {
+          "label": "C",
+          "text": "Founder effect"
+        },
+        {
+          "label": "D",
+          "text": "Gene flow"
+        },
+        {
+          "label": "E",
+          "text": "Genetic drift"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Preferring mates with similar traits, decreasing random mating, is assortative mating.",
+        "whyCorrect": "Assortative mating refers to the tendency of individuals to mate with others who are similar to them, which decreases random mating within a population. Attraction to a partner who shares the same phenotype (curly hair) is phenotypic assortative mating, a violation of the Hardy-Weinberg random-mating assumption.",
+        "whyWrongByChoice": {
+          "B": "The bottleneck effect is a disaster-driven reduction in population size, not a mate-choice pattern.",
+          "C": "The founder effect involves a small group separating from a larger population, not a mating preference.",
+          "D": "Gene flow is the transfer of alleles between populations by migration, unrelated to choosing similar mates.",
+          "E": "Genetic drift is random change in allele frequency by chance and does not involve mate preference."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "assortative mating",
+        "Hardy-Weinberg assumptions"
+      ],
+      "topicId": "population-genetics",
+      "topicName": "Population Genetics",
+      "tier": "core"
+    },
+    {
+      "id": "bo53-005",
+      "stem": "The Afrikaner population of South Africa descends largely from a small number of Dutch colonists and today has an unusually high frequency of the gene that causes Huntington disease. This elevated frequency is best explained by which mechanism?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A high spontaneous mutation rate at the Huntington locus"
+        },
+        {
+          "label": "B",
+          "text": "A recent environmental disaster reducing the population"
+        },
+        {
+          "label": "C",
+          "text": "Founder effect"
+        },
+        {
+          "label": "D",
+          "text": "Gene flow from neighboring populations"
+        },
+        {
+          "label": "E",
+          "text": "Natural selection favoring the Huntington allele"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "A disease that is common because a few original settlers happened to carry the allele reflects the founder effect.",
+        "whyCorrect": "The founder effect occurs when a small group separates from a larger population; the new subpopulation resembles that small founding group. Because the founding Dutch colonists carried the Huntington allele by chance, it spread to their descendants within the isolated community, raising its frequency.",
+        "whyWrongByChoice": {
+          "A": "The high frequency reflects inheritance from founders who already carried the allele, not an elevated mutation rate.",
+          "B": "A sudden disaster describes the bottleneck effect; the Afrikaner example is driven by a small founding group, not a catastrophe.",
+          "D": "Gene flow mixes alleles between populations and increases diversity; here an isolated community concentrated a founder allele.",
+          "E": "Huntington disease confers no reproductive advantage, so selection does not explain its high frequency; the spread was by chance."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "founder effect",
+        "genetic drift"
+      ],
+      "topicId": "population-genetics",
+      "topicName": "Population Genetics",
+      "tier": "core"
+    },
+    {
+      "id": "bo53-006",
+      "stem": "A physician in a small town notes that residents were historically descendants of southern European immigrants, among whom thalassemia minor was common. Over recent generations, young people left for university, married partners from elsewhere, and returned to raise families, so many current residents no longer share the southern European ancestry. The physician now observes that the incidence of thalassemia minor has decreased. Which mechanism best explains this decline?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Assortative mating"
+        },
+        {
+          "label": "B",
+          "text": "Bottleneck effect"
+        },
+        {
+          "label": "C",
+          "text": "Founder effect"
+        },
+        {
+          "label": "D",
+          "text": "Gene flow"
+        },
+        {
+          "label": "E",
+          "text": "Natural selection against the thalassemia allele"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "New alleles entering a population through migration and mating is gene flow, which increases variation and dilutes a previously common allele.",
+        "whyCorrect": "Gene flow is genetic variation caused by migration of individuals from other populations into a given population. As residents married outsiders and introduced new alleles, the shared inherited thalassemia allele became diluted, lowering the disease incidence. This may make broad screening less cost-effective than before.",
+        "whyWrongByChoice": {
+          "A": "Assortative mating is preference for similar partners; the scenario describes mixing with dissimilar outsiders.",
+          "B": "The bottleneck effect reduces population size via disaster and decreases diversity; here diversity is increasing through migration.",
+          "C": "The founder effect concentrates alleles in a small isolated group, the opposite of what mixing produces.",
+          "E": "There is no described selective pressure acting against the thalassemia allele; the change is due to incoming alleles."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "gene flow",
+        "clinical decision making"
+      ],
+      "topicId": "population-genetics",
+      "topicName": "Population Genetics",
+      "tier": "core"
+    },
+    {
+      "id": "bo53-007",
+      "stem": "In regions of the world where malaria is endemic, the recessive HbS allele of the beta-globin chain is maintained at a relatively high frequency in the population, whereas in non-malarial regions it is selected against. Which of the following best explains why HbS persists where malaria is common?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Gene flow continually imports HbS from non-malarial regions"
+        },
+        {
+          "label": "B",
+          "text": "HbS/HbA heterozygotes have a survival advantage against severe malaria"
+        },
+        {
+          "label": "C",
+          "text": "HbS/HbS homozygotes are protected from malaria and reproduce more"
+        },
+        {
+          "label": "D",
+          "text": "Random genetic drift fixes HbS in large malarial populations"
+        },
+        {
+          "label": "E",
+          "text": "The HbS allele mutates back to HbA more slowly in malarial regions"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Heterozygote advantage: carriers with sickle cell trait resist the worst complications of malaria and reproduce, keeping HbS frequent.",
+        "whyCorrect": "Carriers of HbS (genotype HbA/HbS) have sickle cell trait and are more likely to survive severe malaria, giving them a reproductive advantage where malaria is common. This natural selection for heterozygotes maintains the HbS allele in the population, even though homozygotes (HbS/HbS) have sickle cell disease.",
+        "whyWrongByChoice": {
+          "A": "Non-malarial regions select against HbS and have lower frequencies, so they are not a source of imported HbS.",
+          "C": "HbS/HbS homozygotes have sickle cell disease and historically suffered early mortality, so they do not drive the allele's persistence.",
+          "D": "Genetic drift is random and strongest in small populations; the pattern here is driven by consistent selection tied to malaria.",
+          "E": "Persistence is explained by selection favoring heterozygotes, not by differences in reverse-mutation rates."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "natural selection",
+        "heterozygote advantage",
+        "sickle cell"
+      ],
+      "topicId": "population-genetics",
+      "topicName": "Population Genetics",
+      "tier": "core"
+    },
+    {
+      "id": "bo53-008",
+      "stem": "A 6-month-old infant of Ashkenazi Jewish descent presents with seizures, progressive neurologic deterioration, and a cherry-red macula on fundoscopic examination. This disorder results from deficiency of which of the following enzymes?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Alpha-galactosidase A"
+        },
+        {
+          "label": "B",
+          "text": "Glucocerebrosidase"
+        },
+        {
+          "label": "C",
+          "text": "Hexosaminidase A"
+        },
+        {
+          "label": "D",
+          "text": "Phenylalanine hydroxylase"
+        },
+        {
+          "label": "E",
+          "text": "The CFTR chloride transporter"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Tay-Sachs disease results from hexosaminidase A deficiency and is more common in Ashkenazi Jews.",
+        "whyCorrect": "Tay-Sachs disease results from a deficiency of the hexosaminidase A enzyme, causing seizures, a cherry-red macula, and other neurologic deficits. It is found at higher rates in Ashkenazi Jews, prompting ACOG to recommend screening for Ashkenazi Jews or those of mixed Jewish ancestry considering children.",
+        "whyWrongByChoice": {
+          "A": "Alpha-galactosidase A deficiency causes Fabry disease, which is not associated with this presentation in the brick.",
+          "B": "Glucocerebrosidase deficiency causes Gaucher disease, another founder-effect disorder in Jewish populations, but it does not produce the cherry-red macula of Tay-Sachs.",
+          "D": "Phenylalanine hydroxylase deficiency causes phenylketonuria, which is not the disorder described here.",
+          "E": "The CFTR chloride transporter is defective in cystic fibrosis, not in this neurodegenerative presentation."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Tay-Sachs",
+        "founder effect",
+        "carrier screening"
+      ],
+      "topicId": "population-genetics",
+      "topicName": "Population Genetics",
+      "tier": "core"
+    },
+    {
+      "id": "bo53-009",
+      "stem": "A genetic counselor explains to a couple that a cystic fibrosis carrier screening panel has an estimated sensitivity of 71.9% in white-American couples but only 23.4% in Asian-American couples. What is the best interpretation of this difference for counseling?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A negative screen more reliably rules out carrier status in white-American than in Asian-American couples"
+        },
+        {
+          "label": "B",
+          "text": "A positive screen is a false positive more often in white-American than in Asian-American couples"
+        },
+        {
+          "label": "C",
+          "text": "Asian-American couples have a higher absolute risk of having an affected child regardless of screening results"
+        },
+        {
+          "label": "D",
+          "text": "Screening sensitivity is identical across ancestries once the number of mutations tested is equalized"
+        },
+        {
+          "label": "E",
+          "text": "The CFTR gene is present only in white-American populations and is absent in Asian-American ones"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Because causative CFTR mutations differ by ancestry, panel sensitivity varies, so a negative result is more trustworthy where sensitivity is higher.",
+        "whyCorrect": "Carrier rates and the specific CFTR mutations causing cystic fibrosis are highly dependent on ancestry. Because the panel detects more of the relevant mutations in white-American couples (71.9% sensitivity) than in Asian-American couples (23.4%), a negative test is more likely to be truly negative for a white-American couple.",
+        "whyWrongByChoice": {
+          "B": "The figures describe sensitivity (detection of true carriers), not the false-positive rate of a positive result.",
+          "C": "Lower sensitivity means residual risk is harder to exclude after a negative test; it does not by itself establish a higher baseline disease risk.",
+          "D": "The point of the example is that sensitivity genuinely differs by ancestry because causative mutations differ.",
+          "E": "The CFTR gene is present in all populations; only the frequency and type of mutations differ."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cystic fibrosis",
+        "CFTR",
+        "screening",
+        "ancestry"
+      ],
+      "topicId": "population-genetics",
+      "topicName": "Population Genetics",
+      "tier": "core"
+    },
+    {
+      "id": "bo53-010",
+      "stem": "A textbook describes the differences in DNA sequence for a specific gene at the same position on a chromosome, noting that these differences can lead to diverse traits, disease risks, and medication responses within a population. This description best defines which term?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Allelic variation"
+        },
+        {
+          "label": "B",
+          "text": "Assortative mating"
+        },
+        {
+          "label": "C",
+          "text": "Bottleneck effect"
+        },
+        {
+          "label": "D",
+          "text": "Founder effect"
+        },
+        {
+          "label": "E",
+          "text": "Genetic drift"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Different alleles of a gene at the same locus contributing to varied phenotypes is allelic variation.",
+        "whyCorrect": "Allelic variation describes differences in DNA sequence (alleles) for a specific gene at the same position on a chromosome. This variation contributes to observable phenotypes in both normal and pathogenic ways and increases overall genetic diversity, influencing traits, disease risk, and drug response.",
+        "whyWrongByChoice": {
+          "B": "Assortative mating is a mate-choice pattern, unrelated to defining DNA sequence differences at a locus.",
+          "C": "The bottleneck effect is a type of genetic drift that decreases diversity, not the definition of sequence differences at a locus.",
+          "D": "The founder effect is also a form of genetic drift and concentrates alleles in a small group; it is not the definition of allelic differences.",
+          "E": "Genetic drift is random change in allele frequency and decreases diversity, rather than defining the differences themselves."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "allelic variation",
+        "genetic diversity"
+      ],
+      "topicId": "population-genetics",
+      "topicName": "Population Genetics",
+      "tier": "core"
+    },
+    {
+      "id": "bo53-011",
+      "stem": "A student lists conditions under which a population would remain in Hardy-Weinberg equilibrium. Which of the following, if present in a population, would violate a Hardy-Weinberg assumption and shift gene frequencies over generations?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A very large population size"
+        },
+        {
+          "label": "B",
+          "text": "Absence of any immigration or emigration"
+        },
+        {
+          "label": "C",
+          "text": "Completely random mating"
+        },
+        {
+          "label": "D",
+          "text": "Natural selection favoring one allele"
+        },
+        {
+          "label": "E",
+          "text": "No mutation between generations"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Selection favoring an allele violates the no-selection assumption of Hardy-Weinberg and changes allele frequencies.",
+        "whyCorrect": "Hardy-Weinberg equilibrium assumes no selective forces favor one allele over another. If natural selection gives one allele a reproductive advantage, its frequency will change across generations, breaking equilibrium.",
+        "whyWrongByChoice": {
+          "A": "A large population is one of the required assumptions; it helps maintain, not violate, equilibrium.",
+          "B": "No immigration or emigration is a required assumption; its presence supports equilibrium.",
+          "C": "Random mating is an assumption of the model and supports equilibrium rather than disrupting it.",
+          "E": "Absence of mutation is a required assumption; it preserves stable allele frequencies."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Hardy-Weinberg assumptions",
+        "natural selection"
+      ],
+      "topicId": "population-genetics",
+      "topicName": "Population Genetics",
+      "tier": "core"
+    },
+    {
+      "id": "bo53-012",
+      "stem": "A population geneticist explains that a certain deleterious recessive allele persists in a population at a stable low frequency because new copies arise from errors in DNA replication at the same rate that affected homozygotes are removed from the breeding population. This steady state is best described as which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Assortative mating for a similar phenotype"
+        },
+        {
+          "label": "B",
+          "text": "Bottleneck effect after a natural disaster"
+        },
+        {
+          "label": "C",
+          "text": "Founder effect in a small separated group"
+        },
+        {
+          "label": "D",
+          "text": "Gene flow from a neighboring population"
+        },
+        {
+          "label": "E",
+          "text": "Mutation-selection equilibrium"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "A balance between mutation creating deleterious alleles and selection removing them is mutation-selection equilibrium.",
+        "whyCorrect": "The mutation-selection equilibrium is a state where the rate of creation of deleterious alleles (usually recessive) by mutation is balanced by the rate of their elimination by selection. This balance helps maintain genetic variation within populations at a stable low frequency.",
+        "whyWrongByChoice": {
+          "A": "Assortative mating is a preference for similar mates and does not describe this equilibrium.",
+          "B": "The bottleneck effect is a disaster-driven reduction in population size, unrelated to a steady mutation-selection balance.",
+          "C": "The founder effect concentrates alleles in a small separated group and is a form of genetic drift, not a mutation-selection balance.",
+          "D": "Gene flow is the migration-driven transfer of alleles between populations, not a within-population balance of mutation and selection."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "mutation-selection equilibrium",
+        "deleterious alleles"
+      ],
+      "topicId": "population-genetics",
+      "topicName": "Population Genetics",
+      "tier": "core"
+    },
+    {
+      "id": "bo60-001",
+      "stem": "A physician has practiced for decades in a small, historically isolated town whose residents were once nearly all descendants of southern European immigrants. Over the past two generations, young adults have left to study elsewhere, married partners of diverse backgrounds, and returned to raise families, so the town is now genetically mixed. The physician notices that the incidence of thalassemia minor has steadily declined. Which population-genetics concept best explains this observation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Assortative mating"
+        },
+        {
+          "label": "B",
+          "text": "Bottleneck effect"
+        },
+        {
+          "label": "C",
+          "text": "Founder effect"
+        },
+        {
+          "label": "D",
+          "text": "Gene flow"
+        },
+        {
+          "label": "E",
+          "text": "Genetic drift"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Migration of genetically diverse individuals into a population is gene flow, which dilutes previously common alleles.",
+        "whyCorrect": "Gene flow is the transfer of alleles between populations through migration and mating, and it increases genetic variation. As outsiders without the southern European thalassemia allele move in and have children, the frequency of that allele, and therefore the incidence of thalassemia minor, falls.",
+        "whyWrongByChoice": {
+          "A": "Assortative mating is preferential mating with similar individuals and would not systematically reduce a specific disease allele from outside migration.",
+          "B": "The bottleneck effect is a sharp reduction in population size from a disaster; no catastrophic die-off occurred.",
+          "C": "The founder effect describes a small separated group establishing a new, less diverse population; here diversity is increasing, not the reverse.",
+          "E": "Genetic drift is random change in allele frequency by chance in small populations; the change here is driven by directed migration, not chance."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "gene flow",
+        "migration",
+        "genetic diversity"
+      ],
+      "topicId": "population-genetics-b60",
+      "topicName": "Population Genetics",
+      "tier": "core"
+    },
+    {
+      "id": "bo60-002",
+      "stem": "The Afrikaner population of South Africa descends largely from a small number of 17th-century Dutch colonists. Today this group has an unusually high frequency of the allele causing Huntington disease compared with the general European population. Which mechanism best accounts for this elevated frequency?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Founder effect"
+        },
+        {
+          "label": "B",
+          "text": "Gene flow"
+        },
+        {
+          "label": "C",
+          "text": "Mutation-selection equilibrium"
+        },
+        {
+          "label": "D",
+          "text": "Natural selection favoring the allele"
+        },
+        {
+          "label": "E",
+          "text": "Random mating"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "When a new population is founded by a few individuals, alleles those founders happened to carry become overrepresented in descendants.",
+        "whyCorrect": "The founder effect occurs when a small group separates from a larger population and founds a new one whose genotypes resemble that small group. Because some original Dutch colonists carried the Huntington allele, chance overrepresentation among the founders spread it through the isolated, growing community.",
+        "whyWrongByChoice": {
+          "B": "Gene flow introduces alleles from other populations and increases diversity; this scenario reflects isolation and descent from few founders.",
+          "C": "Mutation-selection equilibrium balances new deleterious mutations against their removal by selection and does not explain enrichment in one descended community.",
+          "D": "Huntington disease is not associated with a reproductive advantage that natural selection would favor.",
+          "E": "Random mating alone does not raise the frequency of a specific allele; the key here is the limited founding gene pool."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "founder effect",
+        "Huntington disease",
+        "genetic drift"
+      ],
+      "topicId": "population-genetics-b60",
+      "topicName": "Population Genetics",
+      "tier": "core"
+    },
+    {
+      "id": "bo60-003",
+      "stem": "A large population of beetles lives in a meadow. A person walking through the meadow unintentionally steps on and kills nearly all of the brown/green beetles in a single afternoon, leaving mostly tan beetles to reproduce. The next generation is overwhelmingly tan. Which term best describes this phenomenon?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Assortative mating"
+        },
+        {
+          "label": "B",
+          "text": "Bottleneck effect"
+        },
+        {
+          "label": "C",
+          "text": "Gene flow"
+        },
+        {
+          "label": "D",
+          "text": "Mendelian inheritance"
+        },
+        {
+          "label": "E",
+          "text": "Mutation-selection equilibrium"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "A sudden, random event that sharply reduces population size and eliminates alleles is the bottleneck effect.",
+        "whyCorrect": "The bottleneck effect is a sharp reduction in population size, and therefore in alleles, caused by an environmental event. The random destruction of most brown/green beetles rapidly decreased those alleles, producing genetic drift toward the tan allele and reduced overall genetic variation.",
+        "whyWrongByChoice": {
+          "A": "Assortative mating is preferential mating with similar individuals, not death from a random event.",
+          "C": "Gene flow is movement of alleles between populations by migration; no migration occurred here.",
+          "D": "Mendelian inheritance describes how offspring inherit parental alleles, not a sudden loss of individuals.",
+          "E": "Mutation-selection equilibrium is a steady-state balance of mutation and selection, not an abrupt catastrophic loss."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "bottleneck effect",
+        "genetic drift",
+        "genetic variation"
+      ],
+      "topicId": "population-genetics-b60",
+      "topicName": "Population Genetics",
+      "tier": "core"
+    },
+    {
+      "id": "bo60-004",
+      "stem": "In a population of 10,000 people that mates randomly, 400 individuals are affected by an autosomal recessive disorder. Assuming Hardy-Weinberg equilibrium, approximately how many individuals in this population are unaffected carriers of the disease allele?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "400"
+        },
+        {
+          "label": "B",
+          "text": "800"
+        },
+        {
+          "label": "C",
+          "text": "1,600"
+        },
+        {
+          "label": "D",
+          "text": "3,200"
+        },
+        {
+          "label": "E",
+          "text": "6,400"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Carrier count equals the heterozygote frequency 2pq multiplied by the total population.",
+        "whyCorrect": "The affected are homozygous recessive, so q squared = 400/10,000 = 0.04 and q = 0.2. Then p = 1 - q = 0.8. Carriers are heterozygotes: 2pq = 2 x 0.8 x 0.2 = 0.32. Multiplying by 10,000 gives 3,200 carriers.",
+        "whyWrongByChoice": {
+          "A": "400 is the number of affected homozygous recessive individuals, not the carriers.",
+          "B": "800 corresponds to using q (0.2) times... an incorrect setup and does not represent 2pq.",
+          "C": "1,600 results from omitting the factor of 2 and using pq (0.16) instead of 2pq.",
+          "E": "6,400 is p squared times the population (0.64 x 10,000), the number of homozygous dominant individuals, not carriers."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "Hardy-Weinberg",
+        "carrier frequency",
+        "calculation"
+      ],
+      "topicId": "population-genetics-b60",
+      "topicName": "Population Genetics",
+      "tier": "core"
+    },
+    {
+      "id": "bo60-005",
+      "stem": "A student is applying the Hardy-Weinberg equation p squared + 2pq + q squared = 1 to a single gene with one dominant and one recessive allele. Which term of this equation represents the frequency of heterozygous individuals in the population?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "2pq"
+        },
+        {
+          "label": "B",
+          "text": "p"
+        },
+        {
+          "label": "C",
+          "text": "p squared"
+        },
+        {
+          "label": "D",
+          "text": "q"
+        },
+        {
+          "label": "E",
+          "text": "q squared"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "In the Hardy-Weinberg equation, 2pq is the frequency of heterozygotes.",
+        "whyCorrect": "The middle term 2pq represents the probability of inheriting one dominant and one recessive allele, which is the heterozygote. The factor of 2 accounts for the two ways a heterozygote can form, with the dominant allele coming from either the maternal or paternal side.",
+        "whyWrongByChoice": {
+          "B": "p is the frequency of the dominant allele, not a genotype frequency.",
+          "C": "p squared is the frequency of homozygous dominant individuals.",
+          "D": "q is the frequency of the recessive allele, not a genotype frequency.",
+          "E": "q squared is the frequency of homozygous recessive individuals."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "Hardy-Weinberg",
+        "heterozygote",
+        "allele frequency"
+      ],
+      "topicId": "population-genetics-b60",
+      "topicName": "Population Genetics",
+      "tier": "core"
+    },
+    {
+      "id": "bo60-006",
+      "stem": "In several regions of the world where malaria is endemic, the recessive HbS allele of the beta-globin gene remains at a relatively high frequency, even though individuals who are homozygous (HbS/HbS) develop sickle cell disease and historically often died before reproducing. Which explanation best accounts for the persistence of this allele in these populations?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Assortative mating causes HbS carriers to preferentially mate with one another"
+        },
+        {
+          "label": "B",
+          "text": "Gene flow from non-malarial regions continually adds HbS alleles"
+        },
+        {
+          "label": "C",
+          "text": "Heterozygous carriers (HbA/HbS) have a survival advantage against severe malaria"
+        },
+        {
+          "label": "D",
+          "text": "Random genetic drift alone fixes the HbS allele in large populations"
+        },
+        {
+          "label": "E",
+          "text": "The HbS allele arose by a founder effect in every affected region"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Balancing natural selection maintains the HbS allele because heterozygotes resist the worst complications of malaria.",
+        "whyCorrect": "The HbS allele can confer resistance to the worst complications of malaria in carriers with sickle cell trait (HbA/HbS). In malaria-endemic areas these heterozygotes are more likely to survive and reproduce, so natural selection maintains the allele despite the harm to homozygotes.",
+        "whyWrongByChoice": {
+          "A": "The brick attributes persistence to a malaria-related survival advantage, not to carriers choosing one another as mates.",
+          "B": "The allele is retained by selective pressure within malarial regions, not by import from non-malarial areas, which actually select against HbS.",
+          "D": "Genetic drift is random and is a weaker force in large populations; it does not explain a directional survival advantage.",
+          "E": "A founder effect independently producing the same allele in every malarial region is not the mechanism; selection explains its maintenance."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "natural selection",
+        "sickle cell",
+        "heterozygote advantage"
+      ],
+      "topicId": "population-genetics-b60",
+      "topicName": "Population Genetics",
+      "tier": "core"
+    },
+    {
+      "id": "bo60-007",
+      "stem": "A researcher wants to model a gene using the Hardy-Weinberg principle, which requires the population to be in equilibrium. Which of the following is one of the assumptions that must hold for a population to remain in Hardy-Weinberg equilibrium?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Alleles frequently mutate from one generation to the next"
+        },
+        {
+          "label": "B",
+          "text": "Mating occurs randomly within the population"
+        },
+        {
+          "label": "C",
+          "text": "Strong natural selection favors one allele over another"
+        },
+        {
+          "label": "D",
+          "text": "The population is very small"
+        },
+        {
+          "label": "E",
+          "text": "There is ongoing immigration and emigration"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Random mating is a required assumption of Hardy-Weinberg equilibrium.",
+        "whyCorrect": "The Hardy-Weinberg model assumes no selection, no mutation, a large population, random mating, and no migration. Random mating is therefore one of the necessary assumptions for the equation to hold.",
+        "whyWrongByChoice": {
+          "A": "Recurrent mutation changes allele frequencies over generations and is assumed not to occur.",
+          "C": "Selection favoring one allele violates the assumption of no selective forces and shifts allele frequencies away from equilibrium.",
+          "D": "A very small population makes genetic drift powerful; equilibrium assumes a population large enough that one new individual does not alter allele proportions.",
+          "E": "Immigration and emigration introduce gene flow, which the model explicitly assumes is absent."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Hardy-Weinberg",
+        "assumptions",
+        "equilibrium"
+      ],
+      "topicId": "population-genetics-b60",
+      "topicName": "Population Genetics",
+      "tier": "core"
+    },
+    {
+      "id": "bo60-008",
+      "stem": "A couple seeks preconception genetic counseling for cystic fibrosis carrier screening. The counselor explains that the standard panel tests for the most common CFTR mutations, and that a negative result is more reassuring for the white-American partner (panel sensitivity about 71.9%) than it would be for a patient of Asian ancestry (panel sensitivity about 23.4%). Which statement best explains this difference?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cystic fibrosis is not a heritable condition in people of Asian ancestry and arises only sporadically"
+        },
+        {
+          "label": "B",
+          "text": "People of Asian ancestry cannot be carriers of CFTR mutations, so screening them is unnecessary"
+        },
+        {
+          "label": "C",
+          "text": "The CFTR gene is X-linked, so ancestry changes the inheritance pattern and the detection rate"
+        },
+        {
+          "label": "D",
+          "text": "The panel detects a smaller proportion of the disease-causing CFTR mutations present in people of Asian ancestry"
+        },
+        {
+          "label": "E",
+          "text": "The standard panel has 100% sensitivity in all ancestral groups and therefore misses no disease-causing mutations"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Carrier screening sensitivity depends on ancestry because the causative CFTR mutations differ between populations.",
+        "whyCorrect": "Carrier rates and the specific CFTR mutations that cause cystic fibrosis are highly dependent on ancestry. The standard panel captures a lower fraction of the mutations found in Asian-American patients (23.4%) than in white-American patients (71.9%), so a negative result leaves a larger residual carrier risk and is less reassuring.",
+        "whyWrongByChoice": {
+          "A": "Cystic fibrosis is an autosomal recessive heritable disease in all populations; it is not absent in any ancestry.",
+          "B": "People of any ancestry can carry CFTR mutations; the panel simply detects fewer of them in this group.",
+          "C": "CFTR is autosomal, not X-linked, and the inheritance pattern does not change with ancestry.",
+          "E": "The panel does not have perfect sensitivity; the stated values (71.9% and 23.4%) show it misses some mutations."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cystic fibrosis",
+        "CFTR",
+        "carrier screening",
+        "ancestry"
+      ],
+      "topicId": "population-genetics-b60",
+      "topicName": "Population Genetics",
+      "tier": "core"
+    },
+    {
+      "id": "bo60-009",
+      "stem": "A 6-month-old infant of Ashkenazi Jewish descent presents with developmental regression, exaggerated startle response, seizures, and a cherry-red spot on the macula. Deficiency of which enzyme is most likely responsible for this presentation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Alpha-galactosidase A"
+        },
+        {
+          "label": "B",
+          "text": "Glucocerebrosidase"
+        },
+        {
+          "label": "C",
+          "text": "Hexosaminidase A"
+        },
+        {
+          "label": "D",
+          "text": "Phenylalanine hydroxylase"
+        },
+        {
+          "label": "E",
+          "text": "The CFTR chloride channel"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Tay-Sachs disease results from hexosaminidase A deficiency and is more common in Ashkenazi Jews.",
+        "whyCorrect": "Tay-Sachs disease results from a deficiency of the hexosaminidase A enzyme and causes seizures, a cherry-red macula, and other neurological deficits. It is found at higher rates in Ashkenazi Jews, consistent with this infant's ancestry and findings.",
+        "whyWrongByChoice": {
+          "A": "Alpha-galactosidase A deficiency causes Fabry disease, which does not present with a cherry-red macula in infancy.",
+          "B": "Glucocerebrosidase deficiency is associated with Gaucher disease, a different autosomal recessive condition also enriched in Jewish populations but not marked by a cherry-red macula in this classic infantile pattern.",
+          "D": "Phenylalanine hydroxylase deficiency causes phenylketonuria, which is not the disorder described here.",
+          "E": "The CFTR chloride channel defect causes cystic fibrosis, a respiratory and digestive disease, not this neurodegenerative picture."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Tay-Sachs",
+        "hexosaminidase A",
+        "Ashkenazi Jews"
+      ],
+      "topicId": "population-genetics-b60",
+      "topicName": "Population Genetics",
+      "tier": "core"
+    },
+    {
+      "id": "bo60-010",
+      "stem": "A woman with curly hair reports that she is romantically attracted only to men who also have curly hair. Considering the genetic concepts that cause populations to deviate from Hardy-Weinberg equilibrium, this preference is an example of which phenomenon?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Assortative mating"
+        },
+        {
+          "label": "B",
+          "text": "Bottleneck effect"
+        },
+        {
+          "label": "C",
+          "text": "Gene flow"
+        },
+        {
+          "label": "D",
+          "text": "Genetic drift"
+        },
+        {
+          "label": "E",
+          "text": "Random mating"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Choosing mates who share a trait is assortative mating, a deviation from random mating.",
+        "whyCorrect": "Assortative mating is the tendency of individuals to mate with others who are similar to them, which decreases random mating in a population. Preferring a partner who shares the curly-hair phenotype is phenotypic assortative mating.",
+        "whyWrongByChoice": {
+          "B": "The bottleneck effect is a sharp population reduction from a disaster, unrelated to mate choice.",
+          "C": "Gene flow is the movement of alleles between populations by migration.",
+          "D": "Genetic drift is random change in allele frequency by chance, not a mating preference.",
+          "E": "Random mating is the opposite of the described behavior; this woman is selecting mates nonrandomly by phenotype."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "assortative mating",
+        "nonrandom mating",
+        "Hardy-Weinberg"
+      ],
+      "topicId": "population-genetics-b60",
+      "topicName": "Population Genetics",
+      "tier": "core"
+    },
+    {
+      "id": "bo60-011",
+      "stem": "A genetics lecturer defines a term as the differences in DNA sequence for a specific gene at the same position on a chromosome, which can lead to diverse traits, disease risks, or medication responses within a population and influences features such as eye color. Which term is being described?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Allelic variation"
+        },
+        {
+          "label": "B",
+          "text": "Bottleneck effect"
+        },
+        {
+          "label": "C",
+          "text": "Founder effect"
+        },
+        {
+          "label": "D",
+          "text": "Genetic drift"
+        },
+        {
+          "label": "E",
+          "text": "Mendelian inheritance"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Different forms of a gene at the same locus are allelic variation, the basis of genetic diversity.",
+        "whyCorrect": "Allelic variation describes the presence of different alleles at a specific position (locus) on a chromosome. It contributes to overall genetic diversity within a population and underlies both normal traits, such as eye color, and disease risks or drug responses.",
+        "whyWrongByChoice": {
+          "B": "The bottleneck effect is a type of genetic drift that decreases diversity, not the definition of sequence differences at a locus.",
+          "C": "The founder effect is also a type of genetic drift and reduces diversity in a new subpopulation.",
+          "D": "Genetic drift is random change in allele frequency by chance, not the definition of allele differences themselves.",
+          "E": "Mendelian inheritance describes the random reassortment of parental alleles to form offspring genotypes, not the diversity of alleles at a locus."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "allelic variation",
+        "genetic diversity",
+        "definitions"
+      ],
+      "topicId": "population-genetics-b60",
+      "topicName": "Population Genetics",
+      "tier": "core"
+    },
+    {
+      "id": "bo60-012",
+      "stem": "A harmful recessive allele that causes disease only in homozygotes persists in a large population at a low, stable frequency across many generations. Affected homozygotes are removed from the breeding population each generation, yet the allele does not disappear because new copies keep arising. Which population-genetics concept best describes this stable balance?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Assortative mating between similar individuals"
+        },
+        {
+          "label": "B",
+          "text": "Bottleneck effect from a sudden population reduction"
+        },
+        {
+          "label": "C",
+          "text": "Founder effect in a newly founded population"
+        },
+        {
+          "label": "D",
+          "text": "Gene flow between neighboring populations"
+        },
+        {
+          "label": "E",
+          "text": "Mutation-selection equilibrium"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "A balance between new deleterious mutations and their removal by selection is the mutation-selection equilibrium.",
+        "whyCorrect": "The mutation-selection equilibrium is a state in which the rate of creation of deleterious alleles by mutation is balanced by the rate of their elimination by selection. This balance helps maintain genetic variation, keeping the harmful allele at a low but stable frequency.",
+        "whyWrongByChoice": {
+          "A": "Assortative mating is preferential mating with similar individuals and does not describe a mutation-selection balance.",
+          "B": "The bottleneck effect is a sudden population reduction from a disaster, not a steady equilibrium.",
+          "C": "The founder effect involves a small group founding a new population, not an ongoing mutation-versus-selection balance.",
+          "D": "Gene flow is migration of alleles between populations and would change frequencies rather than hold them stable through mutation and selection."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "mutation-selection equilibrium",
+        "deleterious alleles",
+        "selection"
+      ],
+      "topicId": "population-genetics-b60",
+      "topicName": "Population Genetics",
+      "tier": "core"
+    }
+  ]
+}

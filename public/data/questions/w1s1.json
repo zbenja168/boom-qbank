@@ -1,0 +1,1145 @@
+{
+  "categoryId": "w1s1",
+  "categoryName": "Session 1",
+  "questions": [
+    {
+      "id": "bo01-001",
+      "stem": "A biochemist describes a hepatic process in which individual amino acids are joined by peptide bonds at the ribosome to synthesize a new protein, a process that consumes a large fraction of the cell's ATP. This process is best classified as which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A catabolic, energy-releasing process"
+        },
+        {
+          "label": "B",
+          "text": "A process that is neither anabolic nor catabolic"
+        },
+        {
+          "label": "C",
+          "text": "An anabolic, energy-consuming process"
+        },
+        {
+          "label": "D",
+          "text": "An oxidative process that generates ATP"
+        },
+        {
+          "label": "E",
+          "text": "Glycogenolysis"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Building larger molecules from smaller ones while consuming energy is anabolism.",
+        "whyCorrect": "Anabolism is the building up of smaller molecules into larger ones in an energy-dependent process. Synthesis of a protein from amino acids at the ribosome by forming peptide bonds is anabolic and is a predominant source of ATP expenditure within a cell.",
+        "whyWrongByChoice": {
+          "A": "Catabolism breaks complex molecules down into smaller ones and releases energy; protein synthesis does the opposite.",
+          "B": "Protein synthesis is a clear example of anabolism, so it can be classified.",
+          "D": "The process consumes ATP rather than generating it, and it is a reductive/anabolic build-up, not an ATP-yielding oxidation.",
+          "E": "Glycogenolysis is the catabolic breakdown of glycogen to glucose and is unrelated to protein synthesis."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "catabolism",
+        "anabolism",
+        "protein synthesis"
+      ],
+      "topicId": "metabolic-overview-i-general-reactions",
+      "topicName": "Metabolic Overview I: General Reactions",
+      "tier": "core"
+    },
+    {
+      "id": "bo01-002",
+      "stem": "The amino acid tyrosine is synthesized from the amino acid phenylalanine. Considering only the perspective of phenylalanine, the transformation is best described as which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Anabolic, because a new amino acid is formed"
+        },
+        {
+          "label": "B",
+          "text": "Catabolic, because ATP is always produced when phenylalanine reacts"
+        },
+        {
+          "label": "C",
+          "text": "Catabolic, because phenylalanine is consumed"
+        },
+        {
+          "label": "D",
+          "text": "Energy-independent, because no ATP is involved"
+        },
+        {
+          "label": "E",
+          "text": "Neither anabolic nor catabolic, because amino acids cannot be interconverted"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The same reaction can be catabolic or anabolic depending on which molecule's perspective is taken.",
+        "whyCorrect": "From the perspective of phenylalanine, the reaction is catabolic because phenylalanine is consumed. From the perspective of tyrosine the same reaction is anabolic because tyrosine is produced, illustrating why perspective matters when classifying pathways.",
+        "whyWrongByChoice": {
+          "A": "Forming tyrosine is anabolic only from tyrosine's perspective; the question specifies phenylalanine's perspective, from which it is catabolic.",
+          "B": "ATP is not always produced when phenylalanine reacts, and that is not the reason this is catabolic from phenylalanine's viewpoint.",
+          "D": "Whether ATP is involved is not the basis for calling it catabolic; consumption of phenylalanine defines it as catabolic here.",
+          "E": "Phenylalanine is in fact converted to tyrosine, so the transformation can be classified."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "catabolism",
+        "anabolism",
+        "perspective"
+      ],
+      "topicId": "metabolic-overview-i-general-reactions",
+      "topicName": "Metabolic Overview I: General Reactions",
+      "tier": "core"
+    },
+    {
+      "id": "bo01-003",
+      "stem": "Using the metabolic definitions of oxidation and reduction, which of the following molecular changes constitutes an oxidation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Gain of a bond to hydrogen"
+        },
+        {
+          "label": "B",
+          "text": "Gain of a bond to oxygen"
+        },
+        {
+          "label": "C",
+          "text": "Loss of a bond to nitrogen"
+        },
+        {
+          "label": "D",
+          "text": "Loss of a bond to oxygen"
+        },
+        {
+          "label": "E",
+          "text": "Loss of a bond to sulfur"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Oxidation is the gain of bonds to oxygen, nitrogen, or sulfur and/or the loss of bonds to hydrogen.",
+        "whyCorrect": "Gaining a bond to oxygen fits the definition of oxidation, which is the gain of bonds to oxygen, nitrogen, or sulfur and/or the loss of bonds to hydrogen.",
+        "whyWrongByChoice": {
+          "A": "Gaining a bond to hydrogen is a reduction, the opposite of oxidation.",
+          "C": "Losing a bond to nitrogen is a reduction.",
+          "D": "Losing a bond to oxygen is a reduction.",
+          "E": "Losing a bond to sulfur is a reduction."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "oxidation",
+        "reduction",
+        "definitions"
+      ],
+      "topicId": "metabolic-overview-i-general-reactions",
+      "topicName": "Metabolic Overview I: General Reactions",
+      "tier": "core"
+    },
+    {
+      "id": "bo01-004",
+      "stem": "Alcohol dehydrogenase oxidizes retinol (vitamin A) to retinaldehyde. Because oxidation and reduction reactions occur in concert, what happens to the NAD+ coenzyme during this reaction?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It is oxidized to NADH"
+        },
+        {
+          "label": "B",
+          "text": "It is phosphorylated to NADP+"
+        },
+        {
+          "label": "C",
+          "text": "It is reduced to FADH2"
+        },
+        {
+          "label": "D",
+          "text": "It is reduced to NADH"
+        },
+        {
+          "label": "E",
+          "text": "It is unchanged because electrons pass directly to oxygen"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "When a biomolecule is oxidized, its partner coenzyme is concomitantly reduced.",
+        "whyCorrect": "A reactant can only be oxidized if another is reduced. As vitamin A is oxidized to retinaldehyde, the NAD+ coenzyme is concomitantly reduced to NADH, acting as the electron shuttle.",
+        "whyWrongByChoice": {
+          "A": "NAD+ to NADH is a reduction; NADH is the reduced form of the coenzyme.",
+          "B": "Phosphorylation of NAD+ to NADP+ is not part of this oxidoreductase reaction.",
+          "C": "FADH2 is the reduced form of FAD, a different coenzyme not used by alcohol dehydrogenase here.",
+          "E": "The electrons are captured by NAD+ to form NADH, not passed directly to oxygen in this step."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "oxidation",
+        "reduction",
+        "NAD",
+        "vitamin A"
+      ],
+      "topicId": "metabolic-overview-i-general-reactions",
+      "topicName": "Metabolic Overview I: General Reactions",
+      "tier": "core"
+    },
+    {
+      "id": "bo01-005",
+      "stem": "Vitamin A (retinol) is a largely inert nutrient that is sequentially oxidized by alcohol dehydrogenase and then aldehyde dehydrogenase. The final product, retinoic acid, is most important for which of the following functions?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Embryonic development, tissue maintenance, and immunity"
+        },
+        {
+          "label": "B",
+          "text": "Maintaining blood glucose during prolonged overnight fasting"
+        },
+        {
+          "label": "C",
+          "text": "Serving as the terminal electron acceptor of the electron transport chain"
+        },
+        {
+          "label": "D",
+          "text": "Substrate-level ATP production during anaerobic glycolysis"
+        },
+        {
+          "label": "E",
+          "text": "Vision, by combining with opsin to form rhodopsin in rods"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Oxidative biotransformation converts inert retinol into bioactive derivatives with distinct roles.",
+        "whyCorrect": "Retinoic acid, the fully oxidized carboxylic acid product, is critical for embryonic development, tissue maintenance, and immunity.",
+        "whyWrongByChoice": {
+          "B": "Blood glucose during fasting is maintained by glycogenolysis and gluconeogenesis, not retinoic acid.",
+          "C": "Oxygen, not retinoic acid, is the terminal electron acceptor in the electron transport chain.",
+          "D": "Retinoic acid is a signaling derivative and is not involved in anaerobic ATP production.",
+          "E": "Vision is the function of the intermediate retinaldehyde, not retinoic acid."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "vitamin A",
+        "retinoic acid",
+        "oxidation"
+      ],
+      "topicId": "metabolic-overview-i-general-reactions",
+      "topicName": "Metabolic Overview I: General Reactions",
+      "tier": "core"
+    },
+    {
+      "id": "bo01-006",
+      "stem": "A physiologist studying mitochondrial ATP synthesis wants to explain the fundamental biological requirement for molecular oxygen. Which statement best accounts for this need?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Oxygen directly phosphorylates ADP to form ATP at the inner mitochondrial membrane"
+        },
+        {
+          "label": "B",
+          "text": "Oxygen is a required reagent in every metabolic reaction of the cell, aerobic or not"
+        },
+        {
+          "label": "C",
+          "text": "Oxygen is one of the products released by any combustion reaction of a carbon fuel"
+        },
+        {
+          "label": "D",
+          "text": "Oxygen is reduced to water in the terminal step of the electron transport chain"
+        },
+        {
+          "label": "E",
+          "text": "Oxygen is required for the reduction of all vitamin-derived coenzymes such as NAD+ and FAD"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Oxygen is essential as the terminal electron acceptor of the ETC.",
+        "whyCorrect": "Oxygen is predominantly consumed in the electron transport chain, where it serves as the terminal electron acceptor and is reduced to water. Without oxygen, electrons cannot pass along the chain, the proton gradient collapses, and ETC-driven ATP production ceases.",
+        "whyWrongByChoice": {
+          "A": "ATP synthase phosphorylates ADP using the proton gradient; oxygen does not directly phosphorylate ADP.",
+          "B": "Glycolysis and other pathways proceed anaerobically, so oxygen is not a reagent in every metabolic reaction.",
+          "C": "Oxygen is a reagent (substrate) of combustion, not a product; the products are water and carbon dioxide.",
+          "E": "Vitamin-derived cofactors such as NADH can be reduced without oxygen present."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "oxygen",
+        "electron transport chain",
+        "ATP"
+      ],
+      "topicId": "metabolic-overview-i-general-reactions",
+      "topicName": "Metabolic Overview I: General Reactions",
+      "tier": "core"
+    },
+    {
+      "id": "bo01-007",
+      "stem": "Oxidative catabolism of a single 16-carbon fatty acid generates substantially more ATP than catabolism of a 6-carbon glucose molecule. Which principle best explains this difference?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A larger, more oxidizable carbon substrate produces more reduced coenzymes"
+        },
+        {
+          "label": "B",
+          "text": "Fatty acid catabolism does not require oxygen at any step of its pathway"
+        },
+        {
+          "label": "C",
+          "text": "Fatty acids are catabolized completely without ever producing carbon dioxide"
+        },
+        {
+          "label": "D",
+          "text": "Fatty acids can be catabolized anaerobically in the cytosol whereas glucose cannot"
+        },
+        {
+          "label": "E",
+          "text": "Glucose catabolism yields no ATP once its six carbons are fully oxidized"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The more a carbon substrate can be oxidized, the more reduced coenzymes and ATP it yields.",
+        "whyCorrect": "The more a carbon substrate can be oxidized, the more reduced coenzymes are produced to drive ATP synthesis through the ETC. A fatty acid containing 10-20 carbons can be oxidized far more than a six-carbon glucose molecule, so it yields more ATP.",
+        "whyWrongByChoice": {
+          "B": "Fatty acid oxidation is an aerobic mitochondrial process that requires oxygen for the ETC.",
+          "C": "Carbons of fatty acids are oxidized to carbon dioxide, the most oxidized form of carbon in the body.",
+          "D": "It is glucose (via glycolysis) that can be catabolized anaerobically; fatty acid oxidation requires oxygen.",
+          "E": "Glucose catabolism does yield ATP; it simply yields less than a long fatty acid."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "fatty acid",
+        "glucose",
+        "ATP yield",
+        "oxidation"
+      ],
+      "topicId": "metabolic-overview-i-general-reactions",
+      "topicName": "Metabolic Overview I: General Reactions",
+      "tier": "core"
+    },
+    {
+      "id": "bo01-008",
+      "stem": "Among the major biomolecules, which class is oxidatively catabolized but, unlike the others, does not yield ATP?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Amino acid"
+        },
+        {
+          "label": "B",
+          "text": "Carbohydrate"
+        },
+        {
+          "label": "C",
+          "text": "Glycogen"
+        },
+        {
+          "label": "D",
+          "text": "Lipid"
+        },
+        {
+          "label": "E",
+          "text": "Nucleotide"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Nucleotide catabolism is the exception that does not generate ATP.",
+        "whyCorrect": "While nucleotides are oxidatively catabolized, this process is not linked to ATP production. This is the stated exception to the rule that oxidative catabolism of carbon substrates yields ATP.",
+        "whyWrongByChoice": {
+          "A": "Amino acids have enzymatic pathways that feed catabolism and produce ATP.",
+          "B": "Carbohydrates such as glucose are oxidatively catabolized to produce ATP.",
+          "C": "Glycogen is a stored carbohydrate that is broken to glucose and ultimately yields ATP.",
+          "D": "Lipids are catabolized through fatty acid oxidation to produce large amounts of ATP."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "nucleotide",
+        "ATP",
+        "catabolism"
+      ],
+      "topicId": "metabolic-overview-i-general-reactions",
+      "topicName": "Metabolic Overview I: General Reactions",
+      "tier": "core"
+    },
+    {
+      "id": "bo01-009",
+      "stem": "A 34-year-old woman with iron-deficiency anemia and a low hematocrit reports fatigue and shortness of breath on exertion. Which mechanism best explains her symptoms?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Accumulation of NADH from anaerobic glycolysis in all tissues"
+        },
+        {
+          "label": "B",
+          "text": "Excess oxygen delivery driving overproduction of ATP"
+        },
+        {
+          "label": "C",
+          "text": "Glucagon excess forcing continuous gluconeogenesis"
+        },
+        {
+          "label": "D",
+          "text": "Insulin deficiency preventing cellular glucose uptake"
+        },
+        {
+          "label": "E",
+          "text": "Reduced oxygen delivery limiting ATP production in tissues"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Anemia limits oxygen delivery, which limits the product of the combustion-like reaction: ATP.",
+        "whyCorrect": "In anemia, decreased red blood cell mass diminishes oxygen delivery capacity. Because oxygen is a required substrate for maximal ATP production, tissue ATP falls, producing fatigue, exhaustion, and dyspnea on exertion.",
+        "whyWrongByChoice": {
+          "A": "Her limitation is oxygen substrate availability, not a generalized buildup of NADH from anaerobic glycolysis.",
+          "B": "Anemia decreases, not increases, oxygen delivery, so ATP production is reduced rather than overproduced.",
+          "C": "Glucagon-driven gluconeogenesis is not the mechanism of anemia-related fatigue.",
+          "D": "Her symptoms stem from impaired oxygen delivery, not from insulin deficiency or defective glucose uptake."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "anemia",
+        "oxygen delivery",
+        "ATP",
+        "clinical correlation"
+      ],
+      "topicId": "metabolic-overview-i-general-reactions",
+      "topicName": "Metabolic Overview I: General Reactions",
+      "tier": "core"
+    },
+    {
+      "id": "bo01-010",
+      "stem": "A 58-year-old man with poorly controlled diabetes has a chronic, non-healing foot ulcer, and his physician recommends hyperbaric oxygen therapy (HBOT). What is the primary rationale for this treatment?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "HBOT delivers about 100% oxygen to raise tissue oxygen and restore ATP"
+        },
+        {
+          "label": "B",
+          "text": "HBOT directly lowers blood glucose levels in the poorly perfused limb"
+        },
+        {
+          "label": "C",
+          "text": "HBOT supplies enough oxygen to eliminate the healing tissue's need for the electron transport chain"
+        },
+        {
+          "label": "D",
+          "text": "HBOT reduces the patient's daily insulin requirement by roughly half"
+        },
+        {
+          "label": "E",
+          "text": "HBOT supplies an additional carbon substrate that is oxidized for ATP"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "HBOT overcomes poor peripheral oxygen delivery to restore ATP needed for wound healing.",
+        "whyCorrect": "Hyperglycemia damages vessels through glycation and impairs perfusion, lowering peripheral oxygen delivery and hindering ATP production. Because wound healing is energetically expensive, HBOT provides an enriched environment of about 100% oxygen (versus about 21% in the atmosphere) to restore ATP production and promote wound closure.",
+        "whyWrongByChoice": {
+          "B": "HBOT supplies oxygen; it does not directly lower blood glucose.",
+          "C": "HBOT supplies the ETC's oxygen substrate; it does not remove the need for the ETC.",
+          "D": "HBOT does not act on insulin requirements; it corrects an oxygen delivery deficit.",
+          "E": "Oxygen is the terminal electron acceptor, not a carbon substrate that is oxidized for ATP."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "HBOT",
+        "wound healing",
+        "diabetes",
+        "oxygen"
+      ],
+      "topicId": "metabolic-overview-i-general-reactions",
+      "topicName": "Metabolic Overview I: General Reactions",
+      "tier": "core"
+    },
+    {
+      "id": "bo01-011",
+      "stem": "Approximately three hours after a carbohydrate-rich meal, a healthy adult is in the absorptive state. Which hormone predominates, and which pathway is favored to store the excess glucose?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Glucagon; fatty acid oxidation"
+        },
+        {
+          "label": "B",
+          "text": "Glucagon; gluconeogenesis"
+        },
+        {
+          "label": "C",
+          "text": "Glucagon; glycogenolysis"
+        },
+        {
+          "label": "D",
+          "text": "Insulin; glycogenesis"
+        },
+        {
+          "label": "E",
+          "text": "Insulin; lipolysis"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "In the fed state, insulin drives anabolic storage of glucose as glycogen.",
+        "whyCorrect": "In the fed (postprandial, absorptive) state, insulin is abundant and anabolic pathways such as glycogenesis in the liver and skeletal muscle predominate to store carbons for later fasting states.",
+        "whyWrongByChoice": {
+          "A": "Fatty acid oxidation and glucagon characterize fasting, not the fed absorptive state.",
+          "B": "Gluconeogenesis is a glucagon-driven catabolic response of prolonged fasting.",
+          "C": "Glucagon and glycogenolysis dominate the fasting state, not the fed state.",
+          "E": "Insulin does predominate, but it promotes storage (glycogenesis/lipogenesis), not lipolysis."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "fed state",
+        "insulin",
+        "glycogenesis"
+      ],
+      "topicId": "metabolic-overview-i-general-reactions",
+      "topicName": "Metabolic Overview I: General Reactions",
+      "tier": "core"
+    },
+    {
+      "id": "bo01-012",
+      "stem": "A 12-year-old girl presents with unexplained weight loss and is diagnosed with new-onset type 1 diabetes caused by insulin insufficiency. Compared with an unaffected child, which metabolic function is most diminished in this patient?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Glucagon promoting anabolic processes"
+        },
+        {
+          "label": "B",
+          "text": "Glucagon promoting catabolic processes"
+        },
+        {
+          "label": "C",
+          "text": "Insulin promoting anabolic processes"
+        },
+        {
+          "label": "D",
+          "text": "Insulin promoting catabolic processes"
+        },
+        {
+          "label": "E",
+          "text": "Oxygen delivery to peripheral tissues"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Insulin is an anabolic hormone, so its deficiency diminishes anabolic storage and causes weight loss.",
+        "whyCorrect": "Insulin is an anabolic hormone that promotes storage of glucose into glycogen and can stimulate lipogenesis. In insulin insufficiency, the loss of anabolic signaling accounts for the unexplained weight loss, so insulin-driven anabolic processes are diminished.",
+        "whyWrongByChoice": {
+          "A": "Glucagon promotes catabolism, not anabolism, so this pairing is incorrect.",
+          "B": "Diminished glucagon-driven catabolism would not cause weight loss; increased catabolism, not decreased, promotes weight loss.",
+          "D": "Insulin is anabolic, not catabolic, so it does not promote catabolic processes.",
+          "E": "Oxygen delivery is not the primary metabolic deficit in insulin insufficiency."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "insulin",
+        "type 1 diabetes",
+        "anabolism",
+        "clinical correlation"
+      ],
+      "topicId": "metabolic-overview-i-general-reactions",
+      "topicName": "Metabolic Overview I: General Reactions",
+      "tier": "core"
+    },
+    {
+      "id": "bo02-001",
+      "stem": "A researcher maintains a cultured cell line under strictly anaerobic conditions. Despite the complete absence of oxygen, the cells continue to generate ATP. Which of the following processes is most likely responsible for this ATP production?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "ATP synthase driven by a proton gradient"
+        },
+        {
+          "label": "B",
+          "text": "Complex IV proton pumping"
+        },
+        {
+          "label": "C",
+          "text": "Electron transport chain activity"
+        },
+        {
+          "label": "D",
+          "text": "Oxidative phosphorylation"
+        },
+        {
+          "label": "E",
+          "text": "Substrate level phosphorylation"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Substrate level phosphorylation generates ATP without oxygen by directly transferring a phosphoryl group onto ADP.",
+        "whyCorrect": "Substrate level phosphorylation produces ATP by direct transfer of a phosphoryl group from a donor compound onto ADP, usually via a kinase, and does not require oxygen. It occurs in select steps of glycolysis in the cytoplasm and in one TCA step, allowing ATP generation even under anaerobic conditions.",
+        "whyWrongByChoice": {
+          "A": "ATP synthase depends on the proton gradient established by the oxygen-dependent ETC.",
+          "B": "Complex IV activity is part of the ETC and requires oxygen to proceed.",
+          "C": "The electron transport chain requires oxygen as the terminal electron acceptor and halts without it.",
+          "D": "Oxidative phosphorylation is completely reliant on the presence of oxygen and cannot function anaerobically."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "OXPHOS",
+        "substrate level phosphorylation",
+        "ATP generation"
+      ],
+      "topicId": "metabolic-overview-i-general-reactions-2-of-2",
+      "topicName": "Metabolic Overview I: General Reactions (2 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "bo02-002",
+      "stem": "A 55-year-old man in septic shock has markedly reduced tissue perfusion, and his serum lactate is elevated. His cells are relying on glycolysis for ATP because oxidative phosphorylation is impaired. Which of the following best explains why lactate is accumulating in this setting?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Glycolytic flux has decreased below baseline"
+        },
+        {
+          "label": "B",
+          "text": "Hepatic gluconeogenesis is consuming the accumulated lactate"
+        },
+        {
+          "label": "C",
+          "text": "Lactate dehydrogenase regenerates NAD+ so glycolysis can continue"
+        },
+        {
+          "label": "D",
+          "text": "Pyruvate dehydrogenase is converting excess pyruvate to acetyl-CoA"
+        },
+        {
+          "label": "E",
+          "text": "The electron transport chain is reoxidizing NADH more efficiently"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "When the ETC cannot reoxidize NADH, LDH converts pyruvate to lactate to regenerate NAD+ and sustain glycolysis.",
+        "whyCorrect": "With limited oxygen, ATP production from OXPHOS diminishes and NADH can no longer pass electrons to the ETC. Because glycolysis depends on NAD+, the cell must regenerate NAD+ from NADH apart from the ETC. Lactate dehydrogenase reduces pyruvate to lactate while oxidizing NADH to NAD+, allowing glycolytic substrate level phosphorylation to continue.",
+        "whyWrongByChoice": {
+          "A": "Glycolytic flux increases to compensate for absent OXPHOS; it does not fall.",
+          "B": "Impaired perfusion and a low NAD+/NADH state favor lactate production, not its consumption by gluconeogenesis.",
+          "D": "Under hypoxia pyruvate is diverted to lactate, not efficiently converted to acetyl-CoA for the TCA cycle.",
+          "E": "The oxygen-deprived ETC cannot reoxidize NADH, which is precisely why lactate forms."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "lactate",
+        "hypoxia",
+        "lactate dehydrogenase"
+      ],
+      "topicId": "metabolic-overview-i-general-reactions-2-of-2",
+      "topicName": "Metabolic Overview I: General Reactions (2 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "bo02-003",
+      "stem": "A physiology student is asked why mature red blood cells depend entirely on lactate production for their energy supply. Which of the following features of the mature erythrocyte best accounts for this dependence?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "They contain abundant mitochondria optimized for OXPHOS"
+        },
+        {
+          "label": "B",
+          "text": "They generate ATP through gluconeogenesis"
+        },
+        {
+          "label": "C",
+          "text": "They lack mitochondria"
+        },
+        {
+          "label": "D",
+          "text": "They preferentially use fatty acid beta-oxidation"
+        },
+        {
+          "label": "E",
+          "text": "They rely on the electron transport chain for most ATP"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Mature erythrocytes lack mitochondria, so their only route to ATP is glycolysis coupled to lactate production.",
+        "whyCorrect": "Mature red blood cells normally lack all membrane-bound organelles, including mitochondria. Without mitochondria, their sole option for energy is substrate level phosphorylation during glycolysis, and ATP production relies on lactate formation. These cells are correspondingly enriched with lactate dehydrogenase.",
+        "whyWrongByChoice": {
+          "A": "Mature erythrocytes lack mitochondria entirely, so they cannot perform OXPHOS.",
+          "B": "Gluconeogenesis is an energy-consuming pathway and is not how erythrocytes generate ATP.",
+          "D": "Beta-oxidation occurs in mitochondria, which mature red blood cells do not possess.",
+          "E": "The electron transport chain resides in mitochondria, which these cells lack."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "erythrocyte",
+        "glycolysis",
+        "lactate"
+      ],
+      "topicId": "metabolic-overview-i-general-reactions-2-of-2",
+      "topicName": "Metabolic Overview I: General Reactions (2 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "bo02-004",
+      "stem": "A 49-year-old man with a long history of heavy alcohol use is found confused and is admitted to the emergency department. Laboratory studies reveal a serum glucose of 50 mg/dL. Ethanol oxidation in his liver has shifted the balance of a cofactor pair. An elevated ratio of which of the following is most directly responsible for his hypoglycemia?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acetate:acetyl-CoA"
+        },
+        {
+          "label": "B",
+          "text": "ADH:ALDH"
+        },
+        {
+          "label": "C",
+          "text": "NADH:NAD+"
+        },
+        {
+          "label": "D",
+          "text": "NADPH:NADP"
+        },
+        {
+          "label": "E",
+          "text": "Pyruvate:lactate"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Ethanol oxidation via ADH and ALDH raises NADH, and the resulting low NAD+/NADH ratio inhibits gluconeogenesis, causing fasting hypoglycemia.",
+        "whyCorrect": "Oxidation of ethanol through ADH and ALDH produces an accumulation of NADH in the cytosol and mitochondria. This low NAD+/NADH ratio inhibits gluconeogenesis, so de novo glucose synthesis fails. In individuals who drink routinely and eat poorly, this produces fasting hypoglycemia.",
+        "whyWrongByChoice": {
+          "A": "This ratio is not the mechanism linking ethanol metabolism to impaired glucose production.",
+          "B": "Although alcohol can induce oxidative enzymes, a change in this ratio does not explain the hypoglycemia.",
+          "D": "Ethanol metabolism does not significantly alter the NADPH/NADP ratio; this coenzyme is not the driver of hypoglycemia here.",
+          "E": "Alcohol increases NADH and shifts equilibrium toward lactate, so the pyruvate:lactate ratio is low, not elevated."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "ethanol",
+        "gluconeogenesis",
+        "hypoglycemia",
+        "NADH"
+      ],
+      "topicId": "metabolic-overview-i-general-reactions-2-of-2",
+      "topicName": "Metabolic Overview I: General Reactions (2 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "bo02-005",
+      "stem": "A 40-year-old man presents with blurred vision progressing toward blindness, headache, and severe nausea after consuming improperly distilled homemade liquor. Laboratory studies show a high anion gap metabolic acidosis. Which metabolite is most directly responsible for his toxicity?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acetaldehyde"
+        },
+        {
+          "label": "B",
+          "text": "Acetate"
+        },
+        {
+          "label": "C",
+          "text": "Formic acid"
+        },
+        {
+          "label": "D",
+          "text": "Glycolaldehyde"
+        },
+        {
+          "label": "E",
+          "text": "Oxalic acid"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Methanol is converted by ADH to formaldehyde and by ALDH to formic acid, which inhibits the ETC at complex IV and damages the optic nerve.",
+        "whyCorrect": "Methanol is metabolized by ADH into formaldehyde and then by ALDH into formic acid. Formic acid blunts ATP formation in the mitochondria by inhibiting the electron transport chain at complex IV. Because the optic nerve and eye are high energy demand tissues, they are especially vulnerable, producing the characteristic visual disturbance and blindness.",
+        "whyWrongByChoice": {
+          "A": "Acetaldehyde is the toxic first metabolite of ethanol and accounts for hangover symptoms, not methanol-induced blindness.",
+          "B": "Acetate is the non-toxic final product of ethanol oxidation.",
+          "D": "Glycolaldehyde is an intermediate of ethylene glycol metabolism, not methanol.",
+          "E": "Oxalic acid is the toxic end product of ethylene glycol and causes renal failure, not visual loss."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "methanol",
+        "formic acid",
+        "anion gap",
+        "toxic alcohol"
+      ],
+      "topicId": "metabolic-overview-i-general-reactions-2-of-2",
+      "topicName": "Metabolic Overview I: General Reactions (2 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "bo02-006",
+      "stem": "A 32-year-old man is brought to the emergency department after intentionally ingesting antifreeze. He develops flank pain and acute renal failure, and urinalysis reveals numerous envelope-shaped crystals. Which metabolite of the ingested compound is most directly responsible for his renal injury?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acetaldehyde"
+        },
+        {
+          "label": "B",
+          "text": "Acetate"
+        },
+        {
+          "label": "C",
+          "text": "Formaldehyde"
+        },
+        {
+          "label": "D",
+          "text": "Formic acid"
+        },
+        {
+          "label": "E",
+          "text": "Oxalic acid"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Ethylene glycol is oxidized to oxalic acid, which forms calcium oxalate crystals that precipitate in the proximal renal tubule and cause renal failure.",
+        "whyCorrect": "Ethylene glycol, the active chemical in antifreeze, is metabolized by ADH to glycolaldehyde and by ALDH to glyoxylic acid, which is converted to oxalic acid. Oxalic acid forms calcium oxalate crystals that precipitate in the proximal renal tubule, producing the hallmark folded-envelope shaped crystals and renal failure.",
+        "whyWrongByChoice": {
+          "A": "Acetaldehyde is the intermediate of ethanol metabolism and is responsible for hangover symptoms.",
+          "B": "Acetate is the harmless final product of ethanol oxidation.",
+          "C": "Formaldehyde is the intermediate metabolite of methanol, not ethylene glycol.",
+          "D": "Formic acid is the toxic metabolite of methanol and causes blindness by inhibiting the ETC, not envelope-shaped renal crystals."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "ethylene glycol",
+        "oxalic acid",
+        "calcium oxalate",
+        "renal failure"
+      ],
+      "topicId": "metabolic-overview-i-general-reactions-2-of-2",
+      "topicName": "Metabolic Overview I: General Reactions (2 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "bo02-007",
+      "stem": "A 3-year-old refugee child is brought to a clinic with abdominal distension, a palpable enlarged liver, and peripheral pitting edema. His caloric intake had been adequate but consisted almost entirely of protein-poor grain products. Which mechanism best explains the child's edema?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Decreased hepatic albumin production lowering plasma oncotic pressure"
+        },
+        {
+          "label": "B",
+          "text": "Deposition of calcium oxalate crystals in the renal tubules"
+        },
+        {
+          "label": "C",
+          "text": "Elevated blood glucose causing osmotic fluid shifts"
+        },
+        {
+          "label": "D",
+          "text": "Excessive oxidative catabolism of muscle and subcutaneous fat"
+        },
+        {
+          "label": "E",
+          "text": "Increased plasma oncotic pressure drawing fluid into vessels"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Kwashiorkor results from protein deficiency; decreased hepatic albumin lowers oncotic pressure, driving fluid from the intravascular into the extravascular space.",
+        "whyCorrect": "This child has kwashiorkor, a severe protein deficiency with adequate overall calories. Decreased protein intake decreases hepatic albumin production, which decreases oncotic pressure. The fall in oncotic pressure causes water to move from the intravascular into the extravascular space, producing edema, while decreased lipoprotein production causes the associated hepatomegaly.",
+        "whyWrongByChoice": {
+          "B": "Calcium oxalate deposition is a feature of ethylene glycol poisoning, unrelated to protein malnutrition.",
+          "C": "Kwashiorkor edema is driven by low albumin, not by hyperglycemia-related osmotic shifts.",
+          "D": "Oxidative catabolism of muscle and fat characterizes marasmus, which presents with wasting rather than edema.",
+          "E": "Oncotic pressure is decreased, not increased; a rise would retain fluid in vessels and prevent edema."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "kwashiorkor",
+        "albumin",
+        "oncotic pressure",
+        "malnutrition"
+      ],
+      "topicId": "metabolic-overview-i-general-reactions-2-of-2",
+      "topicName": "Metabolic Overview I: General Reactions (2 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "bo02-008",
+      "stem": "A 2-year-old child in a drought-stricken region has had almost no access to food of any kind for weeks. On examination he weighs far too little for his height, has broomstick extremities with loss of subcutaneous fat, and no edema. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Chronic malnutrition with stunting"
+        },
+        {
+          "label": "B",
+          "text": "Kwashiorkor"
+        },
+        {
+          "label": "C",
+          "text": "Marasmic kwashiorkor"
+        },
+        {
+          "label": "D",
+          "text": "Marasmus"
+        },
+        {
+          "label": "E",
+          "text": "Refeeding syndrome"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Marasmus is a generalized caloric deficiency producing wasting, broomstick extremities, and loss of subcutaneous fat without edema.",
+        "whyCorrect": "Marasmus is the most common form of acute malnutrition and reflects insufficient calories across all dietary components (fat, carbohydrate, and protein). Muscle and fat are oxidatively catabolized for energy, producing broomstick extremities and loss of subcutaneous fat so the child appears as only skin and bones. The absence of edema distinguishes it from kwashiorkor.",
+        "whyWrongByChoice": {
+          "A": "Chronic malnutrition presents with stunting and decreased head circumference rather than acute wasting from sudden food loss.",
+          "B": "Kwashiorkor is a specific protein deficiency with adequate calories and is characterized by edema, which this child lacks.",
+          "C": "Marasmic kwashiorkor combines features of both states, including edema, and is the least common form.",
+          "E": "Refeeding syndrome is a complication of reintroducing nutrients, not a presenting malnutrition state."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "marasmus",
+        "acute malnutrition",
+        "wasting"
+      ],
+      "topicId": "metabolic-overview-i-general-reactions-2-of-2",
+      "topicName": "Metabolic Overview I: General Reactions (2 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "bo02-009",
+      "stem": "A 45-year-old woman presents with an altered mental status and a suspected toxic ingestion. Her basic metabolic panel shows Na+ 140 mEq/L, K+ 4.2 mEq/L, Cl- 104 mEq/L, and HCO3- 8 mEq/L. Using the standard formula that excludes potassium, what is her calculated anion gap?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "8 mEq/L"
+        },
+        {
+          "label": "B",
+          "text": "12 mEq/L"
+        },
+        {
+          "label": "C",
+          "text": "20 mEq/L"
+        },
+        {
+          "label": "D",
+          "text": "28 mEq/L"
+        },
+        {
+          "label": "E",
+          "text": "32 mEq/L"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Anion gap equals Na+ minus (Cl- plus HCO3-); here 140 - (104 + 8) = 28 mEq/L, a high anion gap.",
+        "whyCorrect": "The anion gap is calculated as AG = Na+ - (Cl- + HCO3-). Substituting the values gives 140 - (104 + 8) = 28 mEq/L. Because normal ranges are roughly 8-16 mEq/L, this elevated value signifies a high anion gap metabolic acidosis consistent with toxic alcohol ingestion.",
+        "whyWrongByChoice": {
+          "A": "8 mEq/L would only result from subtracting incorrectly; it does not match the given values.",
+          "B": "12 mEq/L would fall within the normal range and does not reflect this patient's low bicarbonate.",
+          "C": "20 mEq/L is arithmetically incorrect for these values.",
+          "E": "32 mEq/L overestimates the gap; the correct subtraction yields 28."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "anion gap",
+        "metabolic acidosis",
+        "calculation"
+      ],
+      "topicId": "metabolic-overview-i-general-reactions-2-of-2",
+      "topicName": "Metabolic Overview I: General Reactions (2 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "bo02-010",
+      "stem": "A 6-month-old infant presents with hepatomegaly, a doll-like face, profound fasting hypoglycemia, and lactic acidosis. Studies confirm that glucose 6-phosphate produced from glycogenolysis cannot be converted to free glucose for release into the blood. Deficiency of which enzyme best explains these findings?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Alcohol dehydrogenase"
+        },
+        {
+          "label": "B",
+          "text": "Aldehyde dehydrogenase"
+        },
+        {
+          "label": "C",
+          "text": "Glucose 6-phosphatase"
+        },
+        {
+          "label": "D",
+          "text": "Lactate dehydrogenase"
+        },
+        {
+          "label": "E",
+          "text": "Pyruvate dehydrogenase"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Von Gierke's disease is a glucose 6-phosphatase deficiency causing fasting hypoglycemia and lactic acidosis from excess pyruvate.",
+        "whyCorrect": "Von Gierke's disease (Type I glycogen storage disease) is a deficiency of glucose 6-phosphatase in the liver. Glucose 6-phosphate from glycogenolysis cannot be transformed into free glucose for systemic release, causing fasting hypoglycemia. The buildup of glucose 6-phosphate yields excess pyruvate, which is shunted into lactate and produces lactic acidosis.",
+        "whyWrongByChoice": {
+          "A": "Alcohol dehydrogenase acts on ethanol and other alcohols, not on glucose metabolism.",
+          "B": "Aldehyde dehydrogenase oxidizes aldehydes in alcohol metabolism and is unrelated to glycogen storage.",
+          "D": "Lactate dehydrogenase deficiency would impair lactate formation, not cause its accumulation with hypoglycemia.",
+          "E": "Pyruvate dehydrogenase deficiency causes lactic acidosis but does not block conversion of glucose 6-phosphate to glucose."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "von Gierke disease",
+        "glucose 6-phosphatase",
+        "lactic acidosis",
+        "hypoglycemia"
+      ],
+      "topicId": "metabolic-overview-i-general-reactions-2-of-2",
+      "topicName": "Metabolic Overview I: General Reactions (2 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "bo02-011",
+      "stem": "A neonate presents with lethargy and a persistent lactic acidosis. Laboratory studies show elevated levels of both pyruvate and lactate. The defect prevents pyruvate, the final product of glycolysis, from entering the TCA cycle. Which of the following best explains this child's lactic acidosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Absence of mitochondria forces reliance on glycolysis"
+        },
+        {
+          "label": "B",
+          "text": "Formic acid inhibits the electron transport chain at complex IV"
+        },
+        {
+          "label": "C",
+          "text": "Glucose 6-phosphatase deficiency blocks glucose release from the liver"
+        },
+        {
+          "label": "D",
+          "text": "Increased NADH from ethanol oxidation drives pyruvate to lactate"
+        },
+        {
+          "label": "E",
+          "text": "Pyruvate cannot be converted to acetyl-CoA and is shunted to lactate"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Pyruvate dehydrogenase deficiency prevents conversion of pyruvate to acetyl-CoA, so accumulating pyruvate is driven into lactate.",
+        "whyCorrect": "Pyruvate dehydrogenase deficiency prevents the conversion of pyruvate, the final product of glycolysis, into acetyl-CoA, the first reactant of the TCA cycle. The lack of acetyl-CoA production causes an energy decrement, and because pyruvate accumulates through underutilization, equilibrium shifts to produce lactate, yielding lactic acidosis.",
+        "whyWrongByChoice": {
+          "A": "The vignette describes an enzyme block, not an absence of mitochondria; erythrocytes exemplify the latter.",
+          "B": "Formic acid inhibition of the ETC is a feature of methanol poisoning, not an enzyme deficiency.",
+          "C": "Glucose 6-phosphatase deficiency defines von Gierke's disease and acts upstream on glucose 6-phosphate, not on pyruvate entry into the TCA cycle.",
+          "D": "There is no ethanol exposure in a neonate; the lactic acidosis stems from a pyruvate metabolism defect."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "pyruvate dehydrogenase",
+        "lactic acidosis",
+        "acetyl-CoA"
+      ],
+      "topicId": "metabolic-overview-i-general-reactions-2-of-2",
+      "topicName": "Metabolic Overview I: General Reactions (2 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "bo02-012",
+      "stem": "A 50-year-old man with a long history of routine heavy alcohol consumption develops severe hepatotoxicity after taking a standard dose of acetaminophen. Induction of which enzyme by his chronic alcohol use best accounts for his increased susceptibility to acetaminophen poisoning?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Alcohol dehydrogenase"
+        },
+        {
+          "label": "B",
+          "text": "Aldehyde dehydrogenase"
+        },
+        {
+          "label": "C",
+          "text": "Catalase"
+        },
+        {
+          "label": "D",
+          "text": "Cytochrome P450 2E1"
+        },
+        {
+          "label": "E",
+          "text": "Lactate dehydrogenase"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "CYP2E1 is enriched in hepatic microsomes and induced by routine excess alcohol, making it clinically relevant in acetaminophen poisoning.",
+        "whyCorrect": "The cytochrome P450 2E1 isoform (CYP2E1) is enriched in hepatic microsomes and is induced when alcohol consumption is excessive and routine. This alcohol-dependent induction becomes medically relevant in acetaminophen poisoning and select forms of porphyria, because increased CYP2E1 activity increases conversion of substrates into harmful metabolites.",
+        "whyWrongByChoice": {
+          "A": "Alcohol dehydrogenase is the major first-step enzyme of ethanol oxidation but is not the inducible microsomal enzyme tied to acetaminophen toxicity.",
+          "B": "Aldehyde dehydrogenase catalyzes the final oxidative step and is not the enzyme induced to worsen acetaminophen toxicity.",
+          "C": "Catalase resides in peroxisomes and metabolizes only a very small amount of alcohol.",
+          "E": "Lactate dehydrogenase interconverts pyruvate and lactate and has no role in acetaminophen metabolism."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "CYP2E1",
+        "alcohol",
+        "acetaminophen",
+        "enzyme induction"
+      ],
+      "topicId": "metabolic-overview-i-general-reactions-2-of-2",
+      "topicName": "Metabolic Overview I: General Reactions (2 of 2)",
+      "tier": "core"
+    }
+  ]
+}

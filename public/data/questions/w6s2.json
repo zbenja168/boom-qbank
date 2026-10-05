@@ -1,0 +1,570 @@
+{
+  "categoryId": "w6s2",
+  "categoryName": "Session 2",
+  "questions": [
+    {
+      "id": "bo37-001",
+      "stem": "A 6-month-old infant is brought in for poor growth and a protuberant abdomen. He has doll-like facial features with fat cheeks. After a brief fast he develops a seizure; labs show severe hypoglycemia, elevated lactate, hypertriglyceridemia, and hyperuricemia. Exam reveals marked hepatomegaly. Deficiency of which of the following enzymes is the most likely cause?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Debranching enzyme (alpha-1,6-glucosidase)"
+        },
+        {
+          "label": "B",
+          "text": "Glucose-6-phosphatase"
+        },
+        {
+          "label": "C",
+          "text": "Glycogen branching enzyme"
+        },
+        {
+          "label": "D",
+          "text": "Lysosomal acid alpha-glucosidase"
+        },
+        {
+          "label": "E",
+          "text": "Muscle glycogen phosphorylase"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "von Gierke disease (GSD type I) is glucose-6-phosphatase deficiency causing severe fasting hypoglycemia with lactic acidosis, hyperlipidemia, and hyperuricemia.",
+        "whyCorrect": "Without glucose-6-phosphatase the liver cannot convert glucose-6-phosphate to free exportable glucose, so both gluconeogenesis and glycogenolysis are impaired. Accumulating glucose-6-phosphate spills into other pathways, producing lactic acidosis (impaired Cori cycle), hypertriglyceridemia, and hyperuricemia, along with hepatomegaly and doll-like facies.",
+        "whyWrongByChoice": {
+          "A": "Debranching enzyme deficiency causes Cori disease, which is milder with only mild hypoglycemia and characteristically no lactic acidosis.",
+          "C": "Branching enzyme deficiency causes Andersen disease, marked by abnormal amylopectin-like glycogen and early cirrhosis rather than this metabolic picture.",
+          "D": "Acid alpha-glucosidase deficiency causes Pompe disease, which spares the liver's glucose output (normal glucose and pH) and presents with cardiomyopathy and hypotonia.",
+          "E": "Muscle glycogen phosphorylase deficiency causes McArdle disease, an exercise-related muscle disorder without infantile hepatomegaly or fasting hypoglycemia."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "glycogen storage disease",
+        "von Gierke",
+        "hypoglycemia"
+      ],
+      "topicId": "inborn-errors-of-carbohydrate-metabolism",
+      "topicName": "Inborn Errors of Carbohydrate Metabolism",
+      "tier": "core"
+    },
+    {
+      "id": "bo37-002",
+      "stem": "A 4-month-old boy has a large protruding tongue, profound hypotonia, and difficulty feeding. Exam reveals a markedly enlarged heart, and echocardiography demonstrates hypertrophic cardiomyopathy. Fasting glucose and blood pH are normal, but serum creatine kinase is elevated. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cori disease"
+        },
+        {
+          "label": "B",
+          "text": "Hers disease"
+        },
+        {
+          "label": "C",
+          "text": "McArdle disease"
+        },
+        {
+          "label": "D",
+          "text": "Pompe disease"
+        },
+        {
+          "label": "E",
+          "text": "von Gierke disease"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Macroglossia, hypotonia, and hypertrophic cardiomyopathy with normal glucose and pH point to Pompe disease (lysosomal acid alpha-glucosidase deficiency).",
+        "whyCorrect": "Pompe disease is a lysosomal storage disease in which glycogen accumulates in lysosomes and damages muscle fibers. The classic infantile form presents with macroglossia, weakness, hypotonia, and rapidly progressive hypertrophic cardiomyopathy; because the liver functions normally there is no hypoglycemia or lactic acidosis, and creatine kinase is elevated from muscle damage.",
+        "whyWrongByChoice": {
+          "A": "Cori disease causes hepatomegaly with mild hypoglycemia, not the hypertrophic cardiomyopathy and macroglossia seen here.",
+          "B": "Hers disease is a milder hepatic phosphorylase deficiency presenting with hypoglycemia and ketosis, not cardiomyopathy.",
+          "C": "McArdle disease affects skeletal muscle and presents in adolescence or young adulthood with exercise intolerance, not in infancy with cardiomegaly.",
+          "E": "von Gierke disease affects the liver and would produce severe fasting hypoglycemia and lactic acidosis, not normal glucose and pH."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "Pompe",
+        "lysosomal storage",
+        "cardiomyopathy"
+      ],
+      "topicId": "inborn-errors-of-carbohydrate-metabolism",
+      "topicName": "Inborn Errors of Carbohydrate Metabolism",
+      "tier": "core"
+    },
+    {
+      "id": "bo37-003",
+      "stem": "A 14-year-old boy reports muscle cramps and weakness within minutes of starting to run, but if he pushes through and slows down he can then continue comfortably for the rest of a race. After intense training his urine turns reddish-brown. Serum creatine kinase is elevated at rest. Deficiency of which of the following enzymes best explains his presentation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acid alpha-glucosidase"
+        },
+        {
+          "label": "B",
+          "text": "Glucose-6-phosphatase"
+        },
+        {
+          "label": "C",
+          "text": "Hepatic glycogen phosphorylase"
+        },
+        {
+          "label": "D",
+          "text": "Muscle glycogen phosphorylase"
+        },
+        {
+          "label": "E",
+          "text": "Muscle phosphofructokinase"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Exercise-induced cramps with a second-wind phenomenon and myoglobinuria indicate McArdle disease (muscle glycogen phosphorylase deficiency).",
+        "whyCorrect": "McArdle disease presents in adolescence with muscle cramps early in exercise and a pathognomonic second-wind phenomenon, in which increased blood flow delivers circulating glucose so activity can continue after the initial fatigue. Muscle breakdown produces rhabdomyolysis and myoglobinuria (dark urine) with elevated creatine kinase.",
+        "whyWrongByChoice": {
+          "A": "Acid alpha-glucosidase deficiency (Pompe) presents in infancy with cardiomyopathy and hypotonia, not adolescent exercise intolerance.",
+          "B": "Glucose-6-phosphatase deficiency (von Gierke) causes hepatic hypoglycemia, not exercise-triggered myoglobinuria.",
+          "C": "Hepatic glycogen phosphorylase deficiency (Hers disease) affects the liver with hypoglycemia and ketosis, not exertional muscle symptoms.",
+          "E": "Muscle phosphofructokinase deficiency (Tarui) causes similar exertional myopathy but characteristically LACKS the second-wind phenomenon this patient shows."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "McArdle",
+        "second wind",
+        "myoglobinuria"
+      ],
+      "topicId": "inborn-errors-of-carbohydrate-metabolism",
+      "topicName": "Inborn Errors of Carbohydrate Metabolism",
+      "tier": "core"
+    },
+    {
+      "id": "bo37-004",
+      "stem": "A 2-year-old has mild fasting hypoglycemia, hepatomegaly, and short stature. Unlike a related glycogen storage disease, her blood lactate is normal and she has no lactic acidosis. Liver biopsy shows glycogen with a normal branching pattern but abnormally short outer branches (limit dextrin). Which of the following best explains the absence of lactic acidosis in this patient?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Gluconeogenesis remains intact, keeping the Cori cycle functional"
+        },
+        {
+          "label": "B",
+          "text": "Glucose-6-phosphatase activity is preserved and exports glucose normally"
+        },
+        {
+          "label": "C",
+          "text": "Glycogen synthesis is completely absent"
+        },
+        {
+          "label": "D",
+          "text": "Lysosomal glycogen degradation is selectively impaired"
+        },
+        {
+          "label": "E",
+          "text": "Skeletal muscle is entirely spared from the enzyme defect"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "In Cori disease (debranching enzyme deficiency), gluconeogenesis is unaffected, so the Cori cycle clears lactate and no lactic acidosis develops.",
+        "whyCorrect": "Cori disease results from deficiency of the debranching enzyme (alpha-1,6-glucosidase), producing limit dextrin accumulation. Because the defect does not impede gluconeogenesis, lactate can still be converted to glucose in the liver, so unlike von Gierke disease these patients do not develop lactic acidosis and have only mild fasting hypoglycemia.",
+        "whyWrongByChoice": {
+          "B": "Glucose-6-phosphatase is normal in Cori disease, but that is not the reason lactic acidosis is absent; the key is that gluconeogenesis and the Cori cycle stay intact.",
+          "C": "Absent glycogen synthesis describes GSD type 0 (glycogen synthase deficiency), a different disorder that actually causes fasting lactic acidosis.",
+          "D": "Impaired lysosomal glycogen degradation describes Pompe disease, which is not the mechanism here.",
+          "E": "Muscle is not spared in Cori disease; debranching enzyme deficiency can cause muscle weakness and cardiomyopathy, and this does not explain the lactate finding."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "Cori disease",
+        "limit dextrin",
+        "lactic acidosis"
+      ],
+      "topicId": "inborn-errors-of-carbohydrate-metabolism",
+      "topicName": "Inborn Errors of Carbohydrate Metabolism",
+      "tier": "core"
+    },
+    {
+      "id": "bo37-005",
+      "stem": "A 7-year-old boy develops fatigue, scleral icterus, and dark urine two days after starting an antibiotic; he had also recently eaten fava beans. A peripheral blood smear shows Heinz bodies and bite cells. The underlying enzyme deficiency most directly leads to which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Accumulation of limit dextrin within erythrocytes"
+        },
+        {
+          "label": "B",
+          "text": "Impaired ATP generation from glycolysis"
+        },
+        {
+          "label": "C",
+          "text": "Inability to reduce ferric iron within hemoglobin"
+        },
+        {
+          "label": "D",
+          "text": "Inadequate NADPH, leading to oxidative injury of hemoglobin"
+        },
+        {
+          "label": "E",
+          "text": "Reduced synthesis of the glutathione reductase protein itself"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "G6PD deficiency reduces NADPH production, leaving red cells unable to neutralize reactive oxygen species, which oxidizes and damages hemoglobin.",
+        "whyCorrect": "G6PD generates NADPH in the pentose phosphate pathway. Without adequate NADPH, glutathione cannot be kept reduced, so reactive oxygen species accumulate and oxidize hemoglobin. This produces Heinz bodies (oxidized Hb polymers) and bite cells, culminating in episodic hemolysis triggered by oxidative stressors such as drugs, infection, or fava beans.",
+        "whyWrongByChoice": {
+          "A": "Limit dextrin accumulation is a feature of Cori disease in liver and muscle, not a red-cell process.",
+          "B": "Impaired glycolytic ATP production describes pyruvate kinase deficiency, which causes chronic hemolysis without an oxidative trigger, not Heinz bodies and bite cells.",
+          "C": "Inability to reduce ferric iron describes methemoglobinemia (cytochrome b5 reductase deficiency), which causes cyanosis rather than oxidative hemolysis.",
+          "E": "Glutathione reductase function is lost because of missing NADPH cofactor, not because the reductase protein itself is deficient or under-synthesized."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "G6PD deficiency",
+        "oxidative stress",
+        "Heinz bodies"
+      ],
+      "topicId": "inborn-errors-of-carbohydrate-metabolism",
+      "topicName": "Inborn Errors of Carbohydrate Metabolism",
+      "tier": "core"
+    },
+    {
+      "id": "bo37-006",
+      "stem": "A newborn is found to have hemolytic anemia present since birth with no identifiable oxidative trigger. The peripheral smear shows spiculated (echinocyte) red cells, and the oxygen-hemoglobin dissociation curve is right-shifted. Which of the following best characterizes this disorder compared with G6PD deficiency?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Heinz bodies and bite cells are the characteristic smear finding"
+        },
+        {
+          "label": "B",
+          "text": "Hemolysis is chronic rather than episodic, and 2,3-BPG is increased"
+        },
+        {
+          "label": "C",
+          "text": "Hemolysis requires exposure to oxidant drugs or fava beans"
+        },
+        {
+          "label": "D",
+          "text": "NADPH production through the pentose phosphate pathway is deficient"
+        },
+        {
+          "label": "E",
+          "text": "Red cells rely on mitochondrial oxidative phosphorylation for ATP"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Pyruvate kinase deficiency causes chronic hemolysis from birth (no trigger needed) and elevated 2,3-BPG, distinguishing it from the episodic, trigger-dependent hemolysis of G6PD deficiency.",
+        "whyCorrect": "Because mature red cells rely solely on glycolysis for ATP, pyruvate kinase deficiency impairs ATP generation, producing rigid spiculated cells that undergo chronic hemolysis diagnosed early in life. The upstream glycolytic block redistributes intermediates through the shunt that generates 2,3-BPG, so 2,3-BPG is elevated.",
+        "whyWrongByChoice": {
+          "A": "Heinz bodies and bite cells are hallmarks of oxidative hemolysis in G6PD deficiency, not pyruvate kinase deficiency.",
+          "C": "Requiring an oxidant trigger describes G6PD deficiency; pyruvate kinase deficiency causes hemolysis without such triggers.",
+          "D": "Deficient NADPH from the pentose phosphate pathway is the defect in G6PD deficiency, not pyruvate kinase deficiency.",
+          "E": "Mature red cells lack mitochondria and depend on glycolysis for ATP, so they cannot use oxidative phosphorylation."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "pyruvate kinase deficiency",
+        "hemolytic anemia",
+        "2,3-BPG"
+      ],
+      "topicId": "inborn-errors-of-carbohydrate-metabolism",
+      "topicName": "Inborn Errors of Carbohydrate Metabolism",
+      "tier": "core"
+    },
+    {
+      "id": "bo37-007",
+      "stem": "A cyanotic infant has an oxygen saturation that does not improve with supplemental oxygen, and arterial blood is described as chocolate-brown. Cyanosis resolves promptly after intravenous methylene blue. Deficiency of which of the following enzymes is the most likely underlying cause?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acid alpha-glucosidase"
+        },
+        {
+          "label": "B",
+          "text": "Cytochrome b5 reductase"
+        },
+        {
+          "label": "C",
+          "text": "Glucose-6-phosphate dehydrogenase"
+        },
+        {
+          "label": "D",
+          "text": "Phosphoenolpyruvate carboxykinase"
+        },
+        {
+          "label": "E",
+          "text": "Pyruvate kinase"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Congenital methemoglobinemia results from cytochrome b5 reductase deficiency, leaving hemoglobin iron in the ferric (Fe3+) state.",
+        "whyCorrect": "Cytochrome b5 reductase normally reconverts methemoglobin (ferric, Fe3+) back to functional hemoglobin (ferrous, Fe2+). When it is deficient, methemoglobin accumulates and cannot bind oxygen, producing cyanosis and chocolate-brown blood that does not respond to oxygen. Methylene blue reduces met-Hb to Hb in an NADPH-dependent manner, reversing the cyanosis.",
+        "whyWrongByChoice": {
+          "A": "Acid alpha-glucosidase deficiency causes Pompe disease with cardiomyopathy, unrelated to cyanosis.",
+          "C": "G6PD deficiency causes episodic oxidative hemolysis; although severe oxidative stress can transiently form met-Hb, it is not the classic congenital cause described here.",
+          "D": "PEPCK deficiency impairs gluconeogenesis and causes fasting hypoglycemia, not methemoglobinemia.",
+          "E": "Pyruvate kinase deficiency causes chronic hemolytic anemia, not methemoglobinemia or chocolate-brown blood."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "methemoglobinemia",
+        "cytochrome b5 reductase",
+        "methylene blue"
+      ],
+      "topicId": "inborn-errors-of-carbohydrate-metabolism",
+      "topicName": "Inborn Errors of Carbohydrate Metabolism",
+      "tier": "core"
+    },
+    {
+      "id": "bo37-008",
+      "stem": "A neonate has failure to thrive, severe lactic acidosis, hypotonia, and ataxia, with abnormalities on neuroimaging. A high-fat, low-carbohydrate (ketogenic) diet along with thiamine supplementation is initiated. Which of the following best explains why the ketogenic diet is beneficial in this disorder?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Dietary fat provides substrate for hepatic glycogen synthesis"
+        },
+        {
+          "label": "B",
+          "text": "Fatty acids stimulate residual glucose-6-phosphatase activity"
+        },
+        {
+          "label": "C",
+          "text": "Ketone bodies inhibit lactate production by pyruvate carboxylase"
+        },
+        {
+          "label": "D",
+          "text": "Ketone-derived acetyl-CoA bypasses pyruvate dehydrogenase"
+        },
+        {
+          "label": "E",
+          "text": "Ketosis restores debranching enzyme function in muscle"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "In pyruvate dehydrogenase (PDH) complex deficiency, a ketogenic diet supplies acetyl-CoA from ketone bodies, bypassing the blocked pyruvate-to-acetyl-CoA step.",
+        "whyCorrect": "PDH deficiency prevents pyruvate from being converted to acetyl-CoA, so glycolysis cannot be linked to the citric acid cycle and lactate builds up, severely affecting the brain. A ketogenic diet generates acetyl-CoA from ketone bodies instead of pyruvate, providing CNS fuel; vitamin cofactors like thiamine are tried to recover any residual enzyme activity.",
+        "whyWrongByChoice": {
+          "A": "Providing substrate for glycogen synthesis would not address the block linking glycolysis to the TCA cycle.",
+          "B": "The defect is in pyruvate dehydrogenase, not glucose-6-phosphatase, and fatty acids do not stimulate that enzyme.",
+          "C": "The benefit comes from generating acetyl-CoA that bypasses PDH, not from inhibiting pyruvate carboxylase.",
+          "E": "Debranching enzyme is unrelated to PDH deficiency, and ketosis does not restore its function."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "pyruvate dehydrogenase deficiency",
+        "ketogenic diet",
+        "lactic acidosis"
+      ],
+      "topicId": "inborn-errors-of-carbohydrate-metabolism",
+      "topicName": "Inborn Errors of Carbohydrate Metabolism",
+      "tier": "core"
+    },
+    {
+      "id": "bo37-009",
+      "stem": "A 3-month-old presents with fasting hypoglycemia, lactic acidosis, hepatomegaly, and hypotonia. In addition, serum ammonia is markedly elevated. This hyperammonemia distinguishes the disorder from PEPCK deficiency and is best explained by a deficiency of which of the following enzymes?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Glucose-6-phosphatase"
+        },
+        {
+          "label": "B",
+          "text": "Hepatic glycogen phosphorylase"
+        },
+        {
+          "label": "C",
+          "text": "Phosphoenolpyruvate carboxykinase"
+        },
+        {
+          "label": "D",
+          "text": "Pyruvate carboxylase"
+        },
+        {
+          "label": "E",
+          "text": "Pyruvate dehydrogenase complex"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Pyruvate carboxylase deficiency causes fasting hypoglycemia and acidosis like PEPCK deficiency but is uniquely associated with hyperammonemia due to reduced oxaloacetate.",
+        "whyCorrect": "Pyruvate carboxylase converts pyruvate to oxaloacetate, an anaplerotic reaction that supports gluconeogenesis, the TCA cycle, and the urea cycle. When it is deficient, dampened oxaloacetate formation deprives the urea cycle of needed intermediates, producing hyperammonemia in addition to the fasting hypoglycemia and acidosis shared with PEPCK deficiency.",
+        "whyWrongByChoice": {
+          "A": "Glucose-6-phosphatase deficiency (von Gierke) causes hepatomegaly and hyperuricemia but is not characterized by hyperammonemia.",
+          "B": "Hepatic glycogen phosphorylase deficiency (Hers) causes mild hypoglycemia and ketosis, not hyperammonemia.",
+          "C": "PEPCK deficiency impairs gluconeogenesis and causes fasting hypoglycemia, but it does not produce hyperammonemia, which is the distinguishing feature here.",
+          "E": "PDH complex deficiency causes lactic acidosis with prominent neurologic disease, not the hyperammonemia that specifically defines this case."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "pyruvate carboxylase deficiency",
+        "hyperammonemia",
+        "gluconeogenesis"
+      ],
+      "topicId": "inborn-errors-of-carbohydrate-metabolism",
+      "topicName": "Inborn Errors of Carbohydrate Metabolism",
+      "tier": "core"
+    },
+    {
+      "id": "bo37-010",
+      "stem": "A child with confirmed glucose-6-phosphatase deficiency is noted to have persistently elevated serum uric acid and later develops gout, for which allopurinol is started. Which of the following mechanisms best accounts for the hyperuricemia in this disorder?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Chronic hemolysis releases purines from red cell breakdown that raise serum uric acid"
+        },
+        {
+          "label": "B",
+          "text": "Deficient renal gluconeogenesis increases proximal tubular secretion of urate into the filtrate"
+        },
+        {
+          "label": "C",
+          "text": "Excess glucose-6-phosphate is shunted into the pentose phosphate pathway to overproduce purines"
+        },
+        {
+          "label": "D",
+          "text": "Impaired purine salvage by HGPRT increases renal tubular reabsorption of hypoxanthine"
+        },
+        {
+          "label": "E",
+          "text": "Ketone bodies accumulating during fasting directly stimulate xanthine oxidase activity"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "In von Gierke disease, hyperuricemia arises from purine overproduction via the pentose phosphate pathway plus reduced renal urate clearance because lactate competes for the same transporter.",
+        "whyCorrect": "Accumulated glucose-6-phosphate is diverted into the pentose phosphate pathway, driving overproduction of purines and thus uric acid. At the same time, elevated lactate competes with urate for the shared renal transporter, impairing uric acid clearance. Both mechanisms raise serum uric acid, and allopurinol is used to manage resulting gout.",
+        "whyWrongByChoice": {
+          "A": "von Gierke disease is not a hemolytic disorder, so hemolysis-derived purines do not explain the hyperuricemia.",
+          "B": "Renal handling is impaired (reduced clearance), and there is no increase in tubular urate secretion in this disease.",
+          "D": "The problem is purine overproduction and impaired excretion, not enhanced renal reabsorption of hypoxanthine.",
+          "E": "Ketone bodies do not directly stimulate xanthine oxidase; the mechanism involves purine flux and lactate competition."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "von Gierke",
+        "hyperuricemia",
+        "pentose phosphate pathway"
+      ],
+      "topicId": "inborn-errors-of-carbohydrate-metabolism",
+      "topicName": "Inborn Errors of Carbohydrate Metabolism",
+      "tier": "core"
+    },
+    {
+      "id": "bo37-011",
+      "stem": "A 15-month-old has failure to thrive and progressive hepatomegaly with early cirrhosis. Liver biopsy shows abnormal, poorly branched glycogen resembling amylopectin, accompanied by an inflammatory reaction thought to reflect an immune response against the abnormal glycogen. The child dies before age 2. Deficiency of which of the following enzymes is most likely?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Glucose-6-phosphatase"
+        },
+        {
+          "label": "B",
+          "text": "Glycogen branching enzyme"
+        },
+        {
+          "label": "C",
+          "text": "Glycogen debranching enzyme"
+        },
+        {
+          "label": "D",
+          "text": "Hepatic glycogen phosphorylase"
+        },
+        {
+          "label": "E",
+          "text": "Hepatic glycogen synthase"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Andersen disease (GSD type IV) is branching enzyme deficiency, producing amylopectin-like glycogen, early cirrhosis, and death by about 2 years.",
+        "whyCorrect": "The branching enzyme forms alpha-1,6 glycosidic branches. Its deficiency yields abnormal, long-chain, poorly branched glycogen resembling amylopectin. This abnormal glycogen triggers an inflammatory immune response leading to early liver cirrhosis and death by roughly 2 years of age.",
+        "whyWrongByChoice": {
+          "A": "Glucose-6-phosphatase deficiency (von Gierke) causes severe hypoglycemia with normal glycogen structure, not abnormal branching.",
+          "C": "Debranching enzyme deficiency causes Cori disease, which produces limit dextrin (short branches), not long amylopectin-like polymers, and is comparatively milder.",
+          "D": "Hepatic glycogen phosphorylase deficiency (Hers) is a milder disorder with normal glycogen structure.",
+          "E": "Glycogen synthase deficiency (GSD type 0) results in essentially absent glycogen, not abnormally structured amylopectin-like glycogen."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Andersen disease",
+        "branching enzyme",
+        "cirrhosis"
+      ],
+      "topicId": "inborn-errors-of-carbohydrate-metabolism",
+      "topicName": "Inborn Errors of Carbohydrate Metabolism",
+      "tier": "core"
+    },
+    {
+      "id": "bo37-012",
+      "stem": "A 5-year-old with a hereditary hemolytic anemia is admitted during an active hemolytic crisis. Which of the following laboratory findings is expected as a shared consequence of both G6PD deficiency and pyruvate kinase deficiency during ongoing hemolysis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Decreased reticulocyte count"
+        },
+        {
+          "label": "B",
+          "text": "Decreased serum haptoglobin"
+        },
+        {
+          "label": "C",
+          "text": "Decreased serum lactate dehydrogenase"
+        },
+        {
+          "label": "D",
+          "text": "Decreased total bilirubin"
+        },
+        {
+          "label": "E",
+          "text": "Increased serum haptoglobin"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Active hemolysis from either enzyme deficiency consumes haptoglobin as it binds released free hemoglobin, so serum haptoglobin falls.",
+        "whyCorrect": "Haptoglobin binds cell-free hemoglobin released during hemolysis, and the complex is cleared by macrophages. During a hemolytic crisis the surplus of free hemoglobin depletes haptoglobin, so levels are low regardless of whether the hemolysis is oxidative (G6PD) or from impaired glycolytic ATP (pyruvate kinase).",
+        "whyWrongByChoice": {
+          "A": "The reticulocyte count increases as the marrow compensates for red-cell loss, so it is not decreased.",
+          "C": "Serum LDH is elevated in hemolysis because it is released from lysed red cells, not decreased.",
+          "D": "Hemolysis produces hyperbilirubinemia and jaundice, so total bilirubin rises rather than falls.",
+          "E": "Haptoglobin decreases, not increases, because it is consumed binding free hemoglobin during hemolysis."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "hemolysis",
+        "haptoglobin",
+        "laboratory findings"
+      ],
+      "topicId": "inborn-errors-of-carbohydrate-metabolism",
+      "topicName": "Inborn Errors of Carbohydrate Metabolism",
+      "tier": "core"
+    }
+  ]
+}

@@ -1,0 +1,1138 @@
+{
+  "categoryId": "w3s1",
+  "categoryName": "Session 1",
+  "questions": [
+    {
+      "id": "bo18-001",
+      "stem": "A weaning infant is diagnosed with an inherited enzyme deficiency that impairs fructose metabolism, and ingestion of fructose is causing progressive liver injury. The parents are counseled to eliminate dietary fructose. In addition to obvious fructose sources, which of the following dietary carbohydrates must they avoid because its digestion releases fructose?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Amylose"
+        },
+        {
+          "label": "B",
+          "text": "Cellulose"
+        },
+        {
+          "label": "C",
+          "text": "Lactose"
+        },
+        {
+          "label": "D",
+          "text": "Maltose"
+        },
+        {
+          "label": "E",
+          "text": "Sucrose"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Sucrose is a disaccharide of glucose and fructose, so its hydrolysis liberates free fructose.",
+        "whyCorrect": "The brick teaches that sucrose (table sugar) is composed of glucose and fructose linked through both anomeric carbons. When digested, it releases fructose, which would be harmful to an infant unable to metabolize it.",
+        "whyWrongByChoice": {
+          "A": "Amylose is a linear alpha-1,4 polymer of glucose only, with no fructose.",
+          "B": "Cellulose is a beta-1,4 glucose polymer; it contains no fructose and is not digestible by humans.",
+          "C": "Lactose is composed of galactose and glucose and contains no fructose.",
+          "D": "Maltose is composed of two glucose molecules linked by an alpha-1,4 bond and contains no fructose."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "disaccharides",
+        "fructose",
+        "clinical"
+      ],
+      "topicId": "carbohydrates-and-carbohydrate-metabolism-overview-i",
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I",
+      "tier": "core"
+    },
+    {
+      "id": "bo18-002",
+      "stem": "A researcher studies a membrane protein in the apical brush border of renal proximal tubule cells that moves glucose into the cell even when the intracellular glucose concentration exceeds that of the tubular lumen. This uphill transport is powered by an inwardly directed sodium gradient maintained by the Na+/K+ ATPase. Which of the following transporters is being described?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "GLUT1"
+        },
+        {
+          "label": "B",
+          "text": "GLUT2"
+        },
+        {
+          "label": "C",
+          "text": "GLUT4"
+        },
+        {
+          "label": "D",
+          "text": "GLUT5"
+        },
+        {
+          "label": "E",
+          "text": "SGLT"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "SGLT uses sodium symport to move glucose against its concentration gradient by secondary active transport.",
+        "whyCorrect": "The brick states that all GLUTs use facilitated diffusion except the sodium-glucose transporter (SGLT), which couples glucose uptake to a sodium gradient (secondary active transport) to reabsorb glucose in the proximal tubule and take up glucose/galactose from the intestinal lumen.",
+        "whyWrongByChoice": {
+          "A": "GLUT1 is a facilitated-diffusion transporter on RBCs and barrier tissues; it cannot move glucose against a gradient.",
+          "B": "GLUT2 is a bidirectional facilitated transporter of liver, beta-cells, and basolateral enterocytes; it does not use sodium.",
+          "C": "GLUT4 is an insulin-responsive facilitated transporter of muscle and adipose; it does not perform active transport.",
+          "D": "GLUT5 is a facilitated fructose transporter and does not use a sodium gradient."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "GLUT",
+        "SGLT",
+        "membrane transport"
+      ],
+      "topicId": "carbohydrates-and-carbohydrate-metabolism-overview-i",
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I",
+      "tier": "core"
+    },
+    {
+      "id": "bo18-003",
+      "stem": "In pancreatic beta-cells, a glucose transporter with a high Km and high Vmax allows glucose entry to track blood glucose concentration, so uptake rises sharply only when blood glucose is elevated. This behavior helps couple hyperglycemia to insulin secretion. Which transporter has these kinetic properties?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "GLUT1"
+        },
+        {
+          "label": "B",
+          "text": "GLUT2"
+        },
+        {
+          "label": "C",
+          "text": "GLUT3"
+        },
+        {
+          "label": "D",
+          "text": "GLUT4"
+        },
+        {
+          "label": "E",
+          "text": "SGLT"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "GLUT2 has a high Km (low affinity) and high Vmax, matching the glucose-sensing role of the liver and pancreatic beta-cells.",
+        "whyCorrect": "The brick emphasizes that GLUT2's high relative Km means it only transports appreciably at high glucose concentrations, and its high Vmax and bidirectional flux fit the liver's role in blood glucose control and the beta-cell's role in sensing high glucose to release insulin.",
+        "whyWrongByChoice": {
+          "A": "GLUT1 has a low Km (high affinity) for basal uptake, not the high-Km sensing kinetics described.",
+          "C": "GLUT3 has a low Km to preserve glucose for neurons, opposite of the described kinetics.",
+          "D": "GLUT4 has a low Km and is insulin-responsive in muscle and adipose, not a high-Km beta-cell sensor.",
+          "E": "SGLT is a sodium-coupled active transporter of kidney and gut, not the beta-cell glucose sensor."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "GLUT2",
+        "kinetics",
+        "insulin"
+      ],
+      "topicId": "carbohydrates-and-carbohydrate-metabolism-overview-i",
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I",
+      "tier": "core"
+    },
+    {
+      "id": "bo18-004",
+      "stem": "A patient with type 2 diabetes and insulin resistance is counseled that physical activity lowers blood glucose independently of insulin. During exercise, ATP is consumed and AMP accumulates, activating a cascade that increases glucose uptake into skeletal muscle. Which transporter is recruited to the plasma membrane by both insulin and this exercise-induced pathway?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "GLUT1"
+        },
+        {
+          "label": "B",
+          "text": "GLUT2"
+        },
+        {
+          "label": "C",
+          "text": "GLUT3"
+        },
+        {
+          "label": "D",
+          "text": "GLUT4"
+        },
+        {
+          "label": "E",
+          "text": "GLUT5"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "GLUT4 is the insulin-responsive muscle/adipose transporter that is also recruited during exercise via AMP signaling.",
+        "whyCorrect": "The brick states GLUT4 is recruited to the membrane in response to insulin, and that exercise causes ATP expenditure and AMP accumulation, activating a cascade that also deposits GLUT4 on the cell surface. This insulin-independent route helps lower glucose when insulin resistance is present.",
+        "whyWrongByChoice": {
+          "A": "GLUT1 provides constitutive basal uptake and is not insulin- or exercise-recruited.",
+          "B": "GLUT2 is a high-Km sensor of liver and beta-cells, not the muscle insulin-responsive transporter.",
+          "C": "GLUT3 is the CNS neuronal transporter and is not recruited by insulin or exercise.",
+          "E": "GLUT5 transports fructose in the intestine and sperm, unrelated to insulin-stimulated muscle uptake."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "GLUT4",
+        "insulin",
+        "exercise",
+        "diabetes"
+      ],
+      "topicId": "carbohydrates-and-carbohydrate-metabolism-overview-i",
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I",
+      "tier": "core"
+    },
+    {
+      "id": "bo18-005",
+      "stem": "Red blood cells lack mitochondria and depend entirely on glucose for energy, so they must take up glucose continuously even when a person is fasting and blood glucose is relatively low. Which property of the glucose transporter expressed on RBCs allows uptake to continue during fasting?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A high Km that limits uptake to high glucose levels"
+        },
+        {
+          "label": "B",
+          "text": "A low Km giving it high affinity for glucose"
+        },
+        {
+          "label": "C",
+          "text": "Insulin-dependent recruitment to the membrane"
+        },
+        {
+          "label": "D",
+          "text": "Selective specificity for fructose over glucose"
+        },
+        {
+          "label": "E",
+          "text": "Sodium-coupled secondary active transport"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "GLUT1 on RBCs has a low Km (high affinity), so it binds and transports glucose even at low concentrations.",
+        "whyCorrect": "The brick teaches that GLUT1, expressed on RBCs and barrier tissues, has a low Km (high affinity) and can transport glucose during times of fasting. Tissues that heavily rely on glucose express low-Km transporters mirroring high-affinity hexokinase.",
+        "whyWrongByChoice": {
+          "A": "A high Km would restrict uptake to high glucose levels, which is the GLUT2 pattern and would fail RBCs during fasting.",
+          "C": "GLUT1 is not insulin-dependent; that describes GLUT4 in muscle and adipose.",
+          "D": "The RBC transporter carries glucose, not fructose; GLUT5 is the fructose transporter.",
+          "E": "Sodium-coupled active transport is a feature of SGLT in kidney and gut, not the RBC transporter."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "GLUT1",
+        "RBC",
+        "Km",
+        "fasting"
+      ],
+      "topicId": "carbohydrates-and-carbohydrate-metabolism-overview-i",
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I",
+      "tier": "core"
+    },
+    {
+      "id": "bo18-006",
+      "stem": "Neurons can use only glucose for energy production, and the body prioritizes delivering glucose to the brain when circulating glucose is limited. The major central nervous system glucose transporter accomplishes this because it has a low Km for glucose. Which transporter is the major CNS transporter?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "GLUT1"
+        },
+        {
+          "label": "B",
+          "text": "GLUT2"
+        },
+        {
+          "label": "C",
+          "text": "GLUT3"
+        },
+        {
+          "label": "D",
+          "text": "GLUT4"
+        },
+        {
+          "label": "E",
+          "text": "GLUT5"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "GLUT3 is the major CNS neuronal transporter with a low Km (high affinity) that reserves scarce glucose for neurons.",
+        "whyCorrect": "The brick identifies GLUT3 as the major CNS transporter expressed on neurons, with a low relative Km for glucose, allowing low blood glucose to be reserved for neurons that can only use glucose for energy.",
+        "whyWrongByChoice": {
+          "A": "GLUT1 has a low Km but is described for RBCs and barrier tissues (including the blood-brain barrier), not as the neuronal CNS transporter.",
+          "B": "GLUT2 is a high-Km sensor of liver and beta-cells, unsuitable for guaranteeing neuronal uptake at low glucose.",
+          "D": "GLUT4 is the insulin-responsive muscle/adipose transporter, not a neuronal transporter.",
+          "E": "GLUT5 transports fructose in the intestine and sperm, not glucose in the CNS."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "GLUT3",
+        "CNS",
+        "neurons"
+      ],
+      "topicId": "carbohydrates-and-carbohydrate-metabolism-overview-i",
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I",
+      "tier": "core"
+    },
+    {
+      "id": "bo18-007",
+      "stem": "A 25-year-old develops bloating and diarrhea after drinking milk because of a brush-border enzyme deficiency. The offending sugar is a disaccharide of galactose and glucose. The brush-border enzyme normally hydrolyzes the specific glycosidic bond linking these two monosaccharides. Which glycosidic linkage joins the two sugars of this disaccharide?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "alpha-1,2"
+        },
+        {
+          "label": "B",
+          "text": "beta-1,3"
+        },
+        {
+          "label": "C",
+          "text": "alpha-1,4"
+        },
+        {
+          "label": "D",
+          "text": "beta-1,4"
+        },
+        {
+          "label": "E",
+          "text": "alpha-1,6"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Lactose is galactose and glucose joined by a beta-1,4 glycosidic bond that lactase hydrolyzes.",
+        "whyCorrect": "The brick states lactose is made of galactose and glucose linked in a beta-1,4 glycosidic bond, and that human lactase hydrolyzes this beta-1,4 bond. Deficiency of this brush-border enzyme causes lactose intolerance.",
+        "whyWrongByChoice": {
+          "A": "alpha-1,2 is the linkage in sucrose (glucose-fructose), not lactose.",
+          "B": "beta-1,3 is found in oat mucilage beta-glucan, not in lactose.",
+          "C": "alpha-1,4 links the two glucose units of maltose, not galactose and glucose.",
+          "E": "alpha-1,6 forms the branch points of amylopectin, not the lactose linkage."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "lactose",
+        "glycosidic bond",
+        "lactase"
+      ],
+      "topicId": "carbohydrates-and-carbohydrate-metabolism-overview-i",
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I",
+      "tier": "core"
+    },
+    {
+      "id": "bo18-008",
+      "stem": "During a laboratory exercise, a student finds that glucose, maltose, and lactose all give a positive result in an assay that detects reducing sugars, but sucrose does not. Which structural feature best explains why sucrose is a nonreducing sugar?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Both anomeric carbons are engaged in the glycosidic bond"
+        },
+        {
+          "label": "B",
+          "text": "It contains a ketose rather than an aldose unit"
+        },
+        {
+          "label": "C",
+          "text": "It contains only five-carbon monosaccharides"
+        },
+        {
+          "label": "D",
+          "text": "It is a furanose rather than a pyranose ring"
+        },
+        {
+          "label": "E",
+          "text": "It is joined by a beta rather than an alpha linkage"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Sucrose is nonreducing because glucose and fructose are linked through both of their anomeric carbons, leaving no free anomeric carbon to be oxidized.",
+        "whyCorrect": "The brick explains a reducing sugar has a free anomeric carbon that can interconvert to the open-chain carbonyl and be oxidized. In sucrose, glucose and fructose are linked through both anomeric carbons (alpha-1,2), so neither can open to a carbonyl, making sucrose nonreducing.",
+        "whyWrongByChoice": {
+          "B": "Fructose is a ketose, but having a ketose unit does not prevent reduction; free fructose is a reducing sugar.",
+          "C": "Sucrose is built from two hexoses, and carbon count does not determine reducing status.",
+          "D": "Ring size (furanose vs pyranose) does not determine reducing status; a free anomeric carbon does.",
+          "E": "Bond stereochemistry (alpha vs beta) does not determine reducing status; lactose is beta-linked yet reducing."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "reducing sugar",
+        "anomeric carbon",
+        "sucrose"
+      ],
+      "topicId": "carbohydrates-and-carbohydrate-metabolism-overview-i",
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I",
+      "tier": "core"
+    },
+    {
+      "id": "bo18-009",
+      "stem": "A nutritionist explains that dietary cellulose passes through the gastrointestinal tract largely intact, providing bulk but minimal caloric value, whereas starch is readily digested to glucose. Both are polymers of glucose. What is the fundamental reason humans cannot digest cellulose?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cellulose cannot be transported across enterocytes by GLUT2"
+        },
+        {
+          "label": "B",
+          "text": "Cellulose is made of galactose rather than glucose"
+        },
+        {
+          "label": "C",
+          "text": "Cellulose lacks a free anomeric carbon anywhere in the polymer"
+        },
+        {
+          "label": "D",
+          "text": "Humans lack an enzyme to cleave the beta-1,4 linkages between its glucose units"
+        },
+        {
+          "label": "E",
+          "text": "Salivary amylase is inactivated by the acidic stomach before reaching cellulose"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Humans lack the enzyme needed to hydrolyze cellulose's beta-1,4 glucose linkages, so it is indigestible.",
+        "whyCorrect": "The brick contrasts human lactase, which can hydrolyze the beta-1,4 bond of lactose, with cellulose, whose repeating beta-1,4 glucose linkages humans cannot cleave. Therefore cellulose has minimal nutritional value and moves through the gut as fiber.",
+        "whyWrongByChoice": {
+          "A": "The block is enzymatic hydrolysis, not transport; monosaccharides are never generated from cellulose to transport.",
+          "B": "Cellulose is a polymer of glucose, not galactose; the problem is the bond, not the monomer.",
+          "C": "Reducing-end chemistry is not why cellulose is indigestible; the missing enzyme for beta-1,4 bonds is.",
+          "E": "Amylase acts on starch's alpha-1,4 bonds; even a fully active amylase could not cleave cellulose's beta-1,4 bonds."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "cellulose",
+        "fiber",
+        "beta-1,4",
+        "digestion"
+      ],
+      "topicId": "carbohydrates-and-carbohydrate-metabolism-overview-i",
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I",
+      "tier": "core"
+    },
+    {
+      "id": "bo18-010",
+      "stem": "A modern glucometer uses glucose oxidase to convert glucose to gluconate, and the reaction is coupled to a signal read as glucose concentration. Because this enzymatic step is irreversible, nearly all of the blood glucose can be measured. Which principle explains why the irreversible reaction improves the measurement?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It activates SGLT to concentrate glucose at the sensor"
+        },
+        {
+          "label": "B",
+          "text": "It converts the furanose ring to a more stable pyranose ring"
+        },
+        {
+          "label": "C",
+          "text": "It hydrolyzes glycosidic bonds to release additional glucose"
+        },
+        {
+          "label": "D",
+          "text": "It prevents fructose in the sample from interfering with the reading"
+        },
+        {
+          "label": "E",
+          "text": "It pulls the equilibrium toward the open-chain aldehyde form"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Glucose oxidase irreversibly removes the open-chain form, shifting the equilibrium so essentially all glucose is pulled into the oxidizable open-chain aldehyde.",
+        "whyCorrect": "The brick describes that glucose exists in equilibrium between cyclic and open-chain forms, and that the irreversible glucose oxidase step drives the equilibrium toward the open-chain aldehyde, so relatively all blood glucose is 'pulled' into the form that is oxidized and measured.",
+        "whyWrongByChoice": {
+          "A": "SGLT is an intestinal/renal transporter and plays no role in the glucometer chemistry.",
+          "B": "Ring size conversion is not the mechanism; the assay depends on accessing the open-chain carbonyl.",
+          "C": "Glucose oxidase oxidizes glucose; it does not hydrolyze glycosidic bonds to liberate more glucose.",
+          "D": "The advantage is completeness of measurement via equilibrium shift, not exclusion of fructose."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "glucometer",
+        "glucose oxidase",
+        "equilibrium",
+        "reducing sugar"
+      ],
+      "topicId": "carbohydrates-and-carbohydrate-metabolism-overview-i",
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I",
+      "tier": "core"
+    },
+    {
+      "id": "bo18-011",
+      "stem": "A 40-year-old with chronic diarrhea and weight loss is evaluated for malabsorption. She is given an oral dose of a simple sugar that requires no digestive enzymes and is absorbed largely by passive diffusion across an intact mucosa without a dedicated transporter; blood and urine levels are then measured. Reduced absorption suggests mucosal damage. Which sugar is used in this test?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "D-xylose"
+        },
+        {
+          "label": "B",
+          "text": "Fructose"
+        },
+        {
+          "label": "C",
+          "text": "Lactose"
+        },
+        {
+          "label": "D",
+          "text": "Maltose"
+        },
+        {
+          "label": "E",
+          "text": "Sucrose"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The D-xylose test assesses intestinal mucosal integrity because D-xylose is absorbed by passive diffusion without needing enzymes or a transporter.",
+        "whyCorrect": "The brick explains the D-xylose test: D-xylose is a simple sugar that does not require digestive enzymes and is absorbed by passive diffusion across an intact mucosa, so measuring its blood and urine levels reflects mucosal integrity, with decreased absorption in mucosal damage.",
+        "whyWrongByChoice": {
+          "B": "Fructose requires the GLUT5 transporter for absorption, so it does not measure passive diffusion across the mucosa.",
+          "C": "Lactose requires lactase and specific transport, and it tests for lactase deficiency, not general mucosal integrity by passive diffusion.",
+          "D": "Maltose is a disaccharide requiring maltase digestion and is not the passive-diffusion probe used clinically.",
+          "E": "Sucrose is a disaccharide requiring sucrase digestion, so it cannot test passive mucosal absorption directly."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "D-xylose",
+        "malabsorption",
+        "absorption"
+      ],
+      "topicId": "carbohydrates-and-carbohydrate-metabolism-overview-i",
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I",
+      "tier": "core"
+    },
+    {
+      "id": "bo18-012",
+      "stem": "In a well-fed hepatocyte, glucose is abundant and glycolysis generates more acetyl-CoA than the TCA cycle can oxidize for immediate energy needs. Rather than being fully oxidized, this excess acetyl-CoA is diverted to store energy. Which of the following is an alternative fate of the excess acetyl-CoA?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Direct conversion to ribose-5-phosphate"
+        },
+        {
+          "label": "B",
+          "text": "Glycogen synthesis"
+        },
+        {
+          "label": "C",
+          "text": "Lipogenesis (fatty acid synthesis)"
+        },
+        {
+          "label": "D",
+          "text": "Pentose phosphate pathway"
+        },
+        {
+          "label": "E",
+          "text": "Reabsorption of glucose from the renal tubule"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Excess acetyl-CoA is channeled into lipogenesis, storing surplus glucose carbon as fat.",
+        "whyCorrect": "The brick teaches that abundant glucose in the liver can be used for the pentose phosphate pathway, glycogenesis, or fatty acid production, and that excess acetyl-CoA (not solely used as a TCA substrate) is stored as lipid via lipogenesis.",
+        "whyWrongByChoice": {
+          "A": "Ribose-5-phosphate is produced from glucose-6-phosphate in the pentose phosphate pathway, not from acetyl-CoA.",
+          "B": "Glycogen is synthesized from glucose-6-phosphate, not from acetyl-CoA.",
+          "D": "The pentose phosphate pathway uses glucose-6-phosphate as substrate; acetyl-CoA does not enter it.",
+          "E": "Renal glucose reabsorption is an SGLT transport function, not a metabolic fate of acetyl-CoA."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "glucose fates",
+        "acetyl-CoA",
+        "lipogenesis"
+      ],
+      "topicId": "carbohydrates-and-carbohydrate-metabolism-overview-i",
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I",
+      "tier": "core"
+    },
+    {
+      "id": "bo19-001",
+      "stem": "A 4-year-old boy is evaluated because his parents noticed he does not track objects well and has cloudiness of both eyes. Examination reveals bilateral cataracts. He is growing and developing normally, has no hepatomegaly, and has met his cognitive milestones. Urinalysis reveals reducing substances and elevated galactose. Which of the following enzymes is most likely deficient?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Aldose reductase"
+        },
+        {
+          "label": "B",
+          "text": "Galactokinase"
+        },
+        {
+          "label": "C",
+          "text": "Galactose-1-phosphate uridyl transferase (GALT)"
+        },
+        {
+          "label": "D",
+          "text": "Lactase"
+        },
+        {
+          "label": "E",
+          "text": "UDP-galactose epimerase (GALE)"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Isolated cataracts with elevated galactose and no systemic disease indicate galactokinase deficiency (type II galactosemia).",
+        "whyCorrect": "Galactokinase deficiency is a mild disorder in which galactose-1-phosphate is never formed, so patients lack hepatic and neurologic disease. Excess galactose is instead shunted to galactitol by aldose reductase; galactitol accumulates in the lens and causes cataracts, which are often the only manifestation.",
+        "whyWrongByChoice": {
+          "A": "Aldose reductase is the enzyme that produces galactitol; it is not deficient here and its loss would prevent, not cause, cataracts.",
+          "C": "GALT deficiency is classic (type I) galactosemia and causes severe hepatomegaly, jaundice, failure to thrive, and intellectual disability, not isolated cataracts in a well-developing child.",
+          "D": "Lactase deficiency causes gastrointestinal symptoms such as diarrhea and bloating, not cataracts.",
+          "E": "GALE deficiency (type III) is rare, and its severity is generally similar to classic galactosemia, not a mild isolated-cataract picture."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "galactosemia",
+        "galactokinase deficiency",
+        "cataracts"
+      ],
+      "topicId": "glycogen-lactose-intolerance-galactosemia",
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I: Glycogen, Lactose Intolerance, and Galactosemia",
+      "tier": "core"
+    },
+    {
+      "id": "bo19-002",
+      "stem": "A 6-day-old exclusively breastfed girl presents with poor feeding, vomiting, jaundice, and hepatomegaly. Laboratory studies show hypoglycemia and urinary reducing substances that are not glucose. She subsequently develops Escherichia coli sepsis. Which of the following enzymes is most likely deficient?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Aldolase B (fructose 1-phosphate aldolase)"
+        },
+        {
+          "label": "B",
+          "text": "Aldose reductase (NADPH-dependent enzyme)"
+        },
+        {
+          "label": "C",
+          "text": "Galactokinase (galactose 1-kinase)"
+        },
+        {
+          "label": "D",
+          "text": "Galactose-1-phosphate uridyl transferase"
+        },
+        {
+          "label": "E",
+          "text": "Lactase (intestinal brush border)"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "A breastfed neonate with jaundice, hepatomegaly, hypoglycemia, and E. coli sepsis has classic (type I) galactosemia from GALT deficiency.",
+        "whyCorrect": "In classic galactosemia the deficient enzyme is GALT, so galactose-1-phosphate accumulates and is toxic, producing hepatomegaly, jaundice, failure to thrive, and hypoglycemia within days of milk (lactose) feeding. Excess galactose within neutrophils impairs their bactericidal activity, predisposing the neonate to E. coli sepsis.",
+        "whyWrongByChoice": {
+          "A": "Aldolase B deficiency (hereditary fructose intolerance) is triggered by fructose or sucrose on weaning to fruits, not by lactose in breast milk.",
+          "B": "Aldose reductase produces galactitol and is not a primary deficiency disorder; it does not explain hepatic failure and sepsis.",
+          "C": "Galactokinase deficiency is mild, causing isolated cataracts without liver disease or sepsis.",
+          "E": "Lactase deficiency causes osmotic diarrhea, not hepatomegaly, jaundice, and sepsis."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "classic galactosemia",
+        "GALT",
+        "neonatal sepsis"
+      ],
+      "topicId": "glycogen-lactose-intolerance-galactosemia",
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I: Glycogen, Lactose Intolerance, and Galactosemia",
+      "tier": "core"
+    },
+    {
+      "id": "bo19-003",
+      "stem": "Both galactokinase deficiency and classic galactosemia can cause cataracts even though galactose-1-phosphate accumulates in only one of them. Which of the following is the direct biochemical cause of the lens opacity shared by both disorders?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Accumulation of UDP-galactose"
+        },
+        {
+          "label": "B",
+          "text": "Conversion of excess galactose to galactitol"
+        },
+        {
+          "label": "C",
+          "text": "Deposition of galactose-1-phosphate within lens fibers"
+        },
+        {
+          "label": "D",
+          "text": "Glycation of crystallin proteins by free galactose"
+        },
+        {
+          "label": "E",
+          "text": "Primary deficiency of glutathione peroxidase in the lens"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Cataracts in galactose disorders result from galactitol produced by aldose reductase, which causes osmotic and oxidative stress in the lens.",
+        "whyCorrect": "Excess galactose is reduced to galactitol by aldose reductase in the lens. Galactitol cannot be further metabolized or exported, so it accumulates and draws in water (osmotic stress); its production also consumes NADPH, lowering reduced glutathione and adding oxidative stress. Together these denature and aggregate lens proteins, producing opacity.",
+        "whyWrongByChoice": {
+          "A": "UDP-galactose accumulation relates to GALE and is not the lens cataract mechanism.",
+          "C": "Galactose-1-phosphate does not accumulate in galactokinase deficiency, yet cataracts still occur, so the shared cause must be galactitol, not galactose-1-phosphate.",
+          "D": "Glycation of crystallins is not the mechanism described in the source.",
+          "E": "The problem is reduced NADPH supply for glutathione, not a primary glutathione peroxidase deficiency."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "galactitol",
+        "aldose reductase",
+        "cataracts"
+      ],
+      "topicId": "glycogen-lactose-intolerance-galactosemia",
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I: Glycogen, Lactose Intolerance, and Galactosemia",
+      "tier": "core"
+    },
+    {
+      "id": "bo19-004",
+      "stem": "Aldose reductase converts galactose to galactitol in patients with galactosemia but is essentially inactive under normal physiologic conditions. Which of the following properties best explains why this enzyme becomes active only when galactose is in excess?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It has a very high Km (low affinity) for galactose"
+        },
+        {
+          "label": "B",
+          "text": "It has a very low Km (high affinity) for galactose"
+        },
+        {
+          "label": "C",
+          "text": "It is competitively inhibited by NADPH"
+        },
+        {
+          "label": "D",
+          "text": "It is expressed only during the fasting state"
+        },
+        {
+          "label": "E",
+          "text": "It requires ATP that is depleted at normal galactose levels"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Aldose reductase has a very high Km, so it only produces galactitol when galactose accumulates to high levels.",
+        "whyCorrect": "A very high Km means low substrate affinity, so at normal galactose concentrations the enzyme is nearly inactive. Only when galactose accumulates (as in galactosemia) does the substrate concentration approach the Km, allowing the enzyme to generate galactitol while consuming NADPH.",
+        "whyWrongByChoice": {
+          "B": "A low Km (high affinity) enzyme such as galactokinase works efficiently at low substrate concentrations, which is the opposite of aldose reductase.",
+          "C": "NADPH is the cofactor consumed by the reaction, not an inhibitor.",
+          "D": "Its activity is driven by substrate concentration, not by the fasting state.",
+          "E": "Aldose reductase uses NADPH, not ATP."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "aldose reductase",
+        "enzyme kinetics",
+        "Km"
+      ],
+      "topicId": "glycogen-lactose-intolerance-galactosemia",
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I: Glycogen, Lactose Intolerance, and Galactosemia",
+      "tier": "core"
+    },
+    {
+      "id": "bo19-005",
+      "stem": "Glycogen consists of glucose residues joined into linear chains with periodic branches. Which of the following linkages is found specifically at the branch points?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Alpha-1,1 glycosidic bond"
+        },
+        {
+          "label": "B",
+          "text": "Alpha-1,4 glycosidic bond"
+        },
+        {
+          "label": "C",
+          "text": "Beta-1,4 glycosidic bond"
+        },
+        {
+          "label": "D",
+          "text": "Alpha-1,6 glycosidic bond"
+        },
+        {
+          "label": "E",
+          "text": "Beta-1,6 glycosidic bond"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Glycogen branch points are formed by alpha-1,6 glycosidic bonds.",
+        "whyCorrect": "The linear core of glycogen is linked by alpha-1,4 glycosidic bonds, while branch points, which occur every 8 to 12 residues, are created by alpha-1,6 glycosidic bonds. This branching produces glycogen's highly branched architecture.",
+        "whyWrongByChoice": {
+          "A": "Alpha-1,1 links glucose units in trehalose, not in glycogen.",
+          "B": "Alpha-1,4 bonds form the linear chains, not the branch points.",
+          "C": "Beta-1,4 linkages are found in cellulose and lactose, not in glycogen branches.",
+          "E": "Beta-1,6 is not the glycogen branch linkage."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "glycogen",
+        "glycosidic bonds",
+        "structure"
+      ],
+      "topicId": "glycogen-lactose-intolerance-galactosemia",
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I: Glycogen, Lactose Intolerance, and Galactosemia",
+      "tier": "core"
+    },
+    {
+      "id": "bo19-006",
+      "stem": "The highly branched structure of glycogen is advantageous in exercising muscle or in the fasting liver. Which of the following features of branching most directly permits rapid mobilization of glucose?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It allows glucose to diffuse out of the polymer without enzymes"
+        },
+        {
+          "label": "B",
+          "text": "It creates many non-reducing ends where degradative enzymes act"
+        },
+        {
+          "label": "C",
+          "text": "It increases the number of reducing ends attached to glycogenin"
+        },
+        {
+          "label": "D",
+          "text": "It reduces the total number of glucose molecules that can be stored"
+        },
+        {
+          "label": "E",
+          "text": "It strengthens alpha-1,6 bonds against hydrolysis"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Branching multiplies non-reducing ends, allowing many enzymes to release glucose at once.",
+        "whyCorrect": "Each branch adds a non-reducing end, and degradative enzymes act on non-reducing ends. Numerous branches therefore let many enzyme molecules liberate glucose simultaneously, greatly increasing the rate of release. A linear polymer would offer only a single such site.",
+        "whyWrongByChoice": {
+          "A": "Glucose release requires enzymatic cleavage of the polymer, not free diffusion.",
+          "C": "There is only one reducing end (attached to glycogenin); branching multiplies non-reducing ends, not reducing ends.",
+          "D": "Branching organizes the same amount of glucose for faster access and does not reduce how much is stored.",
+          "E": "Branching does not make bonds resistant to hydrolysis; the benefit is faster degradation, not stability."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "glycogen",
+        "non-reducing ends",
+        "glucose mobilization"
+      ],
+      "topicId": "glycogen-lactose-intolerance-galactosemia",
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I: Glycogen, Lactose Intolerance, and Galactosemia",
+      "tier": "core"
+    },
+    {
+      "id": "bo19-007",
+      "stem": "Cells store glucose as glycogen rather than as free glucose molecules. Storing the same total quantity of glucose as free monosaccharides instead of polymerized glycogen would most likely cause which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "An increase in blood glucose osmolarity only"
+        },
+        {
+          "label": "B",
+          "text": "Depletion of cellular ATP"
+        },
+        {
+          "label": "C",
+          "text": "Intracellular acidosis"
+        },
+        {
+          "label": "D",
+          "text": "Massive osmotic water influx and cell swelling"
+        },
+        {
+          "label": "E",
+          "text": "Precipitation of glucose crystals within the cytoplasm"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Polymerizing glucose into glycogen minimizes osmotically active particles, preventing water influx.",
+        "whyCorrect": "Combining many glucose units into one large glycogen molecule greatly reduces the number of osmotically active particles inside the cell. The same amount of glucose as free monosaccharides would raise intracellular osmolarity and draw water in to balance osmolality, swelling and distorting the tissue and compromising function.",
+        "whyWrongByChoice": {
+          "A": "The osmotic stress is intracellular, not limited to the blood.",
+          "B": "Storing free glucose does not by itself deplete ATP; the concern is osmosis.",
+          "C": "The stress described is osmotic, not a change in pH or acidosis.",
+          "E": "Glucose remains in solution and does not precipitate as crystals."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "glycogen",
+        "osmolarity",
+        "storage"
+      ],
+      "topicId": "glycogen-lactose-intolerance-galactosemia",
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I: Glycogen, Lactose Intolerance, and Galactosemia",
+      "tier": "core"
+    },
+    {
+      "id": "bo19-008",
+      "stem": "A 10-month-old infant has hepatomegaly, failure to thrive, and progressive liver cirrhosis. A liver biopsy shows abnormally structured glycogen with a normal core but absent branches, along with chronic hepatic inflammation. The condition is usually fatal within about 2 years. Which of the following enzymes is most likely deficient?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Galactokinase"
+        },
+        {
+          "label": "B",
+          "text": "Glucose-6-phosphatase"
+        },
+        {
+          "label": "C",
+          "text": "Glycogen branching enzyme"
+        },
+        {
+          "label": "D",
+          "text": "Glycogen debranching enzyme"
+        },
+        {
+          "label": "E",
+          "text": "Lysosomal acid alpha-glucosidase"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Unbranched glycogen with hepatic inflammation and early fatal cirrhosis is Andersen disease (type IV GSD), a branching enzyme deficiency.",
+        "whyCorrect": "In Andersen disease the branching enzyme is deficient, so the glycogen core forms but branches fail. The abnormally structured glycogen is perceived by the immune system as foreign, causing chronic hepatic inflammation, cirrhosis, and death typically within about 2 years.",
+        "whyWrongByChoice": {
+          "A": "Galactokinase deficiency causes cataracts, not this hepatic picture.",
+          "B": "Glucose-6-phosphatase deficiency (von Gierke disease) causes severe fasting hypoglycemia and hepatomegaly, not unbranched glycogen with cirrhosis.",
+          "D": "Debranching enzyme deficiency (Cori disease) produces glycogen with short outer branches rather than absent branches, and it is generally milder.",
+          "E": "Acid alpha-glucosidase deficiency (Pompe disease) causes lysosomal glycogen accumulation with cardiomegaly and hypotonia."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "Andersen disease",
+        "glycogen storage disease",
+        "branching enzyme"
+      ],
+      "topicId": "glycogen-lactose-intolerance-galactosemia",
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I: Glycogen, Lactose Intolerance, and Galactosemia",
+      "tier": "core"
+    },
+    {
+      "id": "bo19-009",
+      "stem": "An adult with lactase deficiency develops bloating, flatulence, and watery diarrhea after drinking milk. Which of the following mechanisms best explains the watery diarrhea?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Autoimmune destruction of the intestinal villi and brush border"
+        },
+        {
+          "label": "B",
+          "text": "Direct toxicity of undigested lactose to the enterocytes"
+        },
+        {
+          "label": "C",
+          "text": "Increased SGLT-mediated glucose absorption across the brush border"
+        },
+        {
+          "label": "D",
+          "text": "Osmotically active lactic acid from bacterial fermentation"
+        },
+        {
+          "label": "E",
+          "text": "Pancreatic enzyme insufficiency with impaired starch digestion"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Undigested lactose is fermented by gut bacteria to osmotically active lactic acid, which draws water into the lumen and triggers diarrhea.",
+        "whyCorrect": "Because lactase is deficient, lactose remains in the gut lumen where bacteria ferment it into gas (CO2, methane) plus lactic acid and other byproducts. The gas causes bloating and flatulence, while the osmotically active lactic acid pulls water into the lumen, distending the intestinal wall and triggering powerful peristalsis that produces watery diarrhea.",
+        "whyWrongByChoice": {
+          "A": "Lactose intolerance is not an autoimmune villous destruction, which characterizes celiac disease.",
+          "B": "Lactose is not directly toxic to enterocytes; the problem is luminal fermentation and osmosis.",
+          "C": "Absorption is decreased, not increased; uncleaved lactose does not liberate glucose and galactose for SGLT uptake.",
+          "E": "The pancreas and its enzymes are normal in lactose intolerance."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "lactose intolerance",
+        "osmotic diarrhea",
+        "bacterial fermentation"
+      ],
+      "topicId": "glycogen-lactose-intolerance-galactosemia",
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I: Glycogen, Lactose Intolerance, and Galactosemia",
+      "tier": "core"
+    },
+    {
+      "id": "bo19-010",
+      "stem": "A newborn develops severe watery diarrhea, weight loss, and dehydration within days of starting breast milk. The symptoms resolve completely when a lactose-free formula is substituted. The disorder is inherited in an autosomal recessive pattern. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Adult-type hypolactasia"
+        },
+        {
+          "label": "B",
+          "text": "Andersen disease"
+        },
+        {
+          "label": "C",
+          "text": "Classic galactosemia"
+        },
+        {
+          "label": "D",
+          "text": "Congenital lactase deficiency"
+        },
+        {
+          "label": "E",
+          "text": "Hereditary fructose intolerance"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "A severe autosomal recessive newborn diarrhea that resolves with lactose removal is congenital lactase deficiency.",
+        "whyCorrect": "Congenital lactase deficiency is a severe autosomal recessive disorder with markedly reduced or absent lactase from birth. It presents as soon as the newborn is fed breast milk or lactose-containing formula, with watery diarrhea, weight loss, and dehydration, and removing lactose from the diet restores normal growth and development.",
+        "whyWrongByChoice": {
+          "A": "Adult-type hypolactasia develops later in childhood or adulthood as lactase levels decline, not in a newborn.",
+          "B": "Andersen disease causes progressive liver failure and cirrhosis, not diarrhea that resolves with a formula change.",
+          "C": "Classic galactosemia causes systemic disease such as jaundice, hepatomegaly, and hypoglycemia rather than isolated osmotic diarrhea that resolves cleanly.",
+          "E": "Hereditary fructose intolerance presents when fructose or sucrose is introduced on weaning to fruits, not with breast milk."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "congenital lactase deficiency",
+        "newborn",
+        "autosomal recessive"
+      ],
+      "topicId": "glycogen-lactose-intolerance-galactosemia",
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I: Glycogen, Lactose Intolerance, and Galactosemia",
+      "tier": "core"
+    },
+    {
+      "id": "bo19-011",
+      "stem": "A gastroenterologist wants to confirm carbohydrate malabsorption noninvasively. The patient ingests a specific test sugar, and exhaled breath is analyzed over time. Detection of which of the following gases indicates bacterial fermentation of unabsorbed sugar?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Ammonia"
+        },
+        {
+          "label": "B",
+          "text": "Carbon monoxide"
+        },
+        {
+          "label": "C",
+          "text": "Hydrogen"
+        },
+        {
+          "label": "D",
+          "text": "Nitric oxide"
+        },
+        {
+          "label": "E",
+          "text": "Oxygen and nitrogen"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The hydrogen breath test detects hydrogen, methane, or hydrogen sulfide produced by bacterial fermentation of unabsorbed sugar.",
+        "whyCorrect": "In the hydrogen breath test, a patient consumes a specific carbohydrate and breath samples are analyzed for hydrogen, methane, or hydrogen sulfide. Elevated gas content indicates that undigested or unabsorbed sugars are being fermented by gut bacteria, supporting diagnoses such as lactose intolerance, SIBO, or fructose malabsorption.",
+        "whyWrongByChoice": {
+          "A": "Ammonia is not the gas measured in this diagnostic test.",
+          "B": "Carbon monoxide is not the bacterial fermentation product measured in this test.",
+          "D": "Nitric oxide is not the gas assayed by the hydrogen breath test.",
+          "E": "Oxygen and nitrogen are normal components of air and are not fermentation markers."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "hydrogen breath test",
+        "malabsorption",
+        "diagnosis"
+      ],
+      "topicId": "glycogen-lactose-intolerance-galactosemia",
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I: Glycogen, Lactose Intolerance, and Galactosemia",
+      "tier": "core"
+    },
+    {
+      "id": "bo19-012",
+      "stem": "In classic galactosemia, affected infants develop fasting hypoglycemia. Accumulated galactose-1-phosphate contributes to this hypoglycemia by which of the following pairs of mechanisms?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Activating insulin secretion and causing glucagon resistance"
+        },
+        {
+          "label": "B",
+          "text": "Depleting ATP and inhibiting glycogen phosphorylase"
+        },
+        {
+          "label": "C",
+          "text": "Enhancing gluconeogenesis and glycogenolysis"
+        },
+        {
+          "label": "D",
+          "text": "Inhibiting hexokinase and activating glucose-6-phosphatase"
+        },
+        {
+          "label": "E",
+          "text": "Stimulating aldose reductase and glycogen synthase"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Galactose-1-phosphate traps phosphate to deplete ATP and inhibits glycogen phosphorylase, impairing glucose output and causing hypoglycemia.",
+        "whyCorrect": "Because the first step (galactokinase) is intact in GALT deficiency, galactose-1-phosphate accumulates, trapping phosphate and depleting ATP, which impairs ATP-dependent hepatic gluconeogenesis. High galactose-1-phosphate also inhibits glycogen phosphorylase, blocking the first step of glycogen degradation. Both effects reduce hepatic glucose output, producing fasting hypoglycemia.",
+        "whyWrongByChoice": {
+          "A": "The mechanism is metabolic enzyme inhibition and ATP depletion, not altered insulin or glucagon signaling.",
+          "C": "Gluconeogenesis and glycogenolysis are impaired, not enhanced, in classic galactosemia.",
+          "D": "Hexokinase inhibition and glucose-6-phosphatase activation are not the mechanisms described.",
+          "E": "Aldose reductase produces galactitol (cataracts) and does not raise blood glucose, and stimulating glycogen synthase would not explain reduced glucose output."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "classic galactosemia",
+        "phosphate trapping",
+        "hypoglycemia"
+      ],
+      "topicId": "glycogen-lactose-intolerance-galactosemia",
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I: Glycogen, Lactose Intolerance, and Galactosemia",
+      "tier": "core"
+    }
+  ]
+}

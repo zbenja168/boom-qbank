@@ -1,0 +1,1134 @@
+{
+  "categoryId": "w5s2",
+  "categoryName": "Session 2",
+  "questions": [
+    {
+      "id": "bo32-001",
+      "stem": "A researcher studies protein digestion by measuring proteolytic activity across a range of pH values. One enzyme retains full activity at a pH of approximately 2.0. Which of the following enzymes is this most likely to be?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Alanine transaminase"
+        },
+        {
+          "label": "B",
+          "text": "Carboxypeptidase"
+        },
+        {
+          "label": "C",
+          "text": "Glutamate dehydrogenase"
+        },
+        {
+          "label": "D",
+          "text": "Pepsin"
+        },
+        {
+          "label": "E",
+          "text": "Trypsin"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Pepsin is the gastric protease that is activated by, and functions within, the acidic environment of the stomach.",
+        "whyCorrect": "Pepsin is secreted as the zymogen pepsinogen and is activated by the acidic stomach environment, where it hydrolyzes peptide bonds with very broad specificity. Its activity at low pH is essential to begin digesting denatured dietary proteins.",
+        "whyWrongByChoice": {
+          "A": "Alanine transaminase acts within bodily tissues at near-neutral pH and does not operate in the acidic stomach.",
+          "B": "Carboxypeptidase is a pancreatic enzyme secreted into the small intestine, where bicarbonate neutralizes the chyme; it does not function at pH 2.0.",
+          "C": "Glutamate dehydrogenase is an intracellular nitrogen-handling enzyme of tissues such as liver and muscle, not an acid-active gastric protease.",
+          "E": "Trypsin is a pancreatic protease that works in the small intestine after bicarbonate neutralizes the acidic chyme, not at pH 2.0."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "protein digestion",
+        "pepsin",
+        "gastric enzymes"
+      ],
+      "topicId": "amino-acid-metabolism-i-nitrogen-balance-and-urea-cycle",
+      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle",
+      "tier": "core"
+    },
+    {
+      "id": "bo32-002",
+      "stem": "During catabolism of an amino acid, the nitrogen is removed from the carbon skeleton and can be redirected into biosynthesis. Which of the following molecules can be synthesized using this liberated nitrogen?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Adenine"
+        },
+        {
+          "label": "B",
+          "text": "Alpha-ketoglutarate"
+        },
+        {
+          "label": "C",
+          "text": "Carbon dioxide"
+        },
+        {
+          "label": "D",
+          "text": "Fumarate"
+        },
+        {
+          "label": "E",
+          "text": "Glucose"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Nitrogen freed from amino acids is used to build nitrogen-containing biomolecules such as the purine and pyrimidine bases.",
+        "whyCorrect": "One of the three defined fates of amino acid components is the biosynthesis of nitrogen-containing compounds, including nitrogenous bases for DNA and RNA. Adenine is a nitrogen-rich purine base whose synthesis requires nitrogen donors.",
+        "whyWrongByChoice": {
+          "B": "Alpha-ketoglutarate is the carbon skeleton left behind after nitrogen is removed from glutamate; the molecule itself contains no nitrogen.",
+          "C": "Carbon dioxide arises from oxidative catabolism of the carbon backbone, not from the amino-group nitrogen.",
+          "D": "Fumarate is a carbon-based TCA cycle intermediate that lacks nitrogen and does not incorporate the liberated amino group.",
+          "E": "Glucose can be made from the carbon skeleton of certain amino acids, but glucose contains no nitrogen and is not built from the liberated amino group."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "nitrogen fate",
+        "biosynthesis",
+        "nitrogenous bases"
+      ],
+      "topicId": "amino-acid-metabolism-i-nitrogen-balance-and-urea-cycle",
+      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle",
+      "tier": "core"
+    },
+    {
+      "id": "bo32-003",
+      "stem": "A 2-day-old male becomes progressively lethargic after feeding and begins to breathe rapidly. Within an hour he is nearly comatose, responding only to painful stimuli. Laboratory studies show marked hyperammonemia, and a urea cycle disorder is suspected. Which amino acid is most likely to be elevated in this patient before treatment?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Asparagine"
+        },
+        {
+          "label": "B",
+          "text": "Glutamate"
+        },
+        {
+          "label": "C",
+          "text": "Glutamine"
+        },
+        {
+          "label": "D",
+          "text": "Glycine"
+        },
+        {
+          "label": "E",
+          "text": "Histidine"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "When ammonia is in excess, glutamine synthetase drives accumulation of glutamine, the osmotically active nitrogen carrier.",
+        "whyCorrect": "Elevated ammonia stimulates glutamine synthetase, which consumes glutamate to package nitrogen into glutamine. Because glutamine is the predominant nitrogen transporter and accumulates when the liver cannot dispose of ammonia, it rises in hyperammonemic states.",
+        "whyWrongByChoice": {
+          "A": "Asparagine can undergo deamination but does not accumulate as a nitrogen buffer during hyperammonemia.",
+          "B": "Glutamate is typically depleted, not elevated, because it is rapidly consumed by glutamine synthetase as ammonia rises.",
+          "D": "Glycine is not a primary participant in the ammonia-buffering shuttle and would not be expected to rise from hyperammonemia.",
+          "E": "Histidine can be deaminated as a source of ammonia but is not the amino acid that accumulates in response to excess ammonia."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "hyperammonemia",
+        "glutamine",
+        "urea cycle disorder"
+      ],
+      "topicId": "amino-acid-metabolism-i-nitrogen-balance-and-urea-cycle",
+      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle",
+      "tier": "core"
+    },
+    {
+      "id": "bo32-004",
+      "stem": "A biochemist characterizes an enzyme that transfers the amino group of one amino acid onto an alpha-keto acid, effectively placing nitrogen on a new carbon skeleton without releasing free ammonia. This class of enzyme requires which of the following cofactors?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Biotin"
+        },
+        {
+          "label": "B",
+          "text": "Cobalamin (vitamin B12)"
+        },
+        {
+          "label": "C",
+          "text": "Pyridoxal phosphate (vitamin B6)"
+        },
+        {
+          "label": "D",
+          "text": "Tetrahydrofolate"
+        },
+        {
+          "label": "E",
+          "text": "Thiamine pyrophosphate (vitamin B1)"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Transaminases (aminotransferases) require pyridoxal phosphate, a vitamin B6 derivative, to swap amino and carbonyl groups.",
+        "whyCorrect": "Nearly all aminotransferases use PLP, a vitamin B6 derivative, to move the amino group of an amino acid onto an alpha-keto acid. This allows nitrogen to flow safely between carbon carriers without being released as toxic ammonia.",
+        "whyWrongByChoice": {
+          "A": "Biotin is the cofactor for carboxylase reactions, not for amino-group transfer.",
+          "B": "Cobalamin (B12) is used by methylmalonyl-CoA mutase and methionine synthase, not by transaminases.",
+          "D": "Tetrahydrofolate carries one-carbon units and is not required for transamination.",
+          "E": "Thiamine pyrophosphate serves dehydrogenase and transketolase reactions, not transamination."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "transaminase",
+        "PLP",
+        "vitamin B6"
+      ],
+      "topicId": "amino-acid-metabolism-i-nitrogen-balance-and-urea-cycle",
+      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle",
+      "tier": "core"
+    },
+    {
+      "id": "bo32-005",
+      "stem": "In peripheral tissues, a carbon skeleton that has already accepted one nitrogen as glutamate accepts a second nitrogen in an ATP-dependent, irreversible reaction to form the nitrogen-rich blood carrier. Which enzyme catalyzes this step?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Aspartate transaminase"
+        },
+        {
+          "label": "B",
+          "text": "Carbamoyl phosphate synthetase I"
+        },
+        {
+          "label": "C",
+          "text": "Glutamate dehydrogenase"
+        },
+        {
+          "label": "D",
+          "text": "Glutaminase"
+        },
+        {
+          "label": "E",
+          "text": "Glutamine synthetase"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Glutamine synthetase irreversibly adds a second ammonia onto glutamate, using ATP, to form glutamine.",
+        "whyCorrect": "Glutamate can accept another nitrogen through the action of glutamine synthetase, producing the nitrogen-rich carrier glutamine. The reaction consumes ATP and is irreversible, so a separate enzyme is required to reverse it in the liver.",
+        "whyWrongByChoice": {
+          "A": "Aspartate transaminase swaps amino and keto groups between amino acids and does not incorporate free ammonia into glutamine.",
+          "B": "Carbamoyl phosphate synthetase I incorporates ammonia into carbamoyl phosphate for the urea cycle, not onto glutamate to form glutamine.",
+          "C": "Glutamate dehydrogenase forms glutamate from alpha-ketoglutarate and ammonia; it does not make glutamine.",
+          "D": "Glutaminase performs the opposite reaction, hydrolyzing glutamine back to glutamate and ammonia."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "glutamine synthetase",
+        "nitrogen transport",
+        "ATP"
+      ],
+      "topicId": "amino-acid-metabolism-i-nitrogen-balance-and-urea-cycle",
+      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle",
+      "tier": "core"
+    },
+    {
+      "id": "bo32-006",
+      "stem": "A patient develops metabolic acidosis, and the kidney responds by generating ammonia to buffer the urine. This process begins with an enzyme that hydrolyzes glutamine to glutamate while releasing an ammonium ion. Which enzyme catalyzes this reaction?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Alanine transaminase"
+        },
+        {
+          "label": "B",
+          "text": "Glutamate dehydrogenase"
+        },
+        {
+          "label": "C",
+          "text": "Glutaminase"
+        },
+        {
+          "label": "D",
+          "text": "Glutamine synthetase"
+        },
+        {
+          "label": "E",
+          "text": "Pepsin"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Glutaminase uses water to cleave ammonia from glutamine, supplying ammonia the kidney uses to resolve acidosis.",
+        "whyCorrect": "Glutaminase hydrolyzes glutamine to glutamate and an ammonium ion. In the kidney it acts as an ammonia depot, using its ready supply of glutamine to liberate ammonia that buffers the urine and helps rapidly resolve metabolic acidosis.",
+        "whyWrongByChoice": {
+          "A": "Alanine transaminase swaps functional groups without releasing free ammonia from glutamine.",
+          "B": "Glutamate dehydrogenase acts on glutamate (not glutamine) to release the second ammonia; the first ammonia comes from glutaminase.",
+          "D": "Glutamine synthetase makes glutamine by adding ammonia to glutamate, the reverse of what is needed here.",
+          "E": "Pepsin is a gastric protease and has no role in renal ammonia generation."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "glutaminase",
+        "kidney",
+        "acid-base balance"
+      ],
+      "topicId": "amino-acid-metabolism-i-nitrogen-balance-and-urea-cycle",
+      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle",
+      "tier": "core"
+    },
+    {
+      "id": "bo32-007",
+      "stem": "A physiology lecture emphasizes how the body moves nitrogen safely between tissues to avoid releasing toxic ammonia. Which molecule serves as the predominant nitrogen transporter in the blood?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Alanine"
+        },
+        {
+          "label": "B",
+          "text": "Aspartate"
+        },
+        {
+          "label": "C",
+          "text": "Glutamate"
+        },
+        {
+          "label": "D",
+          "text": "Glutamine"
+        },
+        {
+          "label": "E",
+          "text": "Urea"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Glutamine, which carries two nitrogens per molecule, is the predominant nitrogen transporter in the blood.",
+        "whyCorrect": "Because glutamine holds two nitrogens per amino acid, it is nitrogen-rich and serves as the predominant ammonia transporter in the blood, shuttling nitrogen from peripheral tissues to the liver for urea production.",
+        "whyWrongByChoice": {
+          "A": "Alanine can carry nitrogen, but with only one amino group it is not the predominant blood carrier described here.",
+          "B": "Aspartate donates a nitrogen within the urea cycle but is not the predominant nitrogen carrier in the blood.",
+          "C": "Glutamate is the substrate that is loaded and unloaded within cells rather than the main circulating nitrogen carrier.",
+          "E": "Urea is the excretory waste form of nitrogen produced in the liver, not the amino acid transporter that delivers nitrogen to it."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "glutamine",
+        "nitrogen transport",
+        "blood"
+      ],
+      "topicId": "amino-acid-metabolism-i-nitrogen-balance-and-urea-cycle",
+      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle",
+      "tier": "core"
+    },
+    {
+      "id": "bo32-008",
+      "stem": "A 56-year-old man with a history of liver cirrhosis is brought to the emergency department by his daughter because he is confused and sleepy. He is disoriented to time, and when his wrists are extended his hands make a jerky, flapping movement. Which of the following laboratory tests will be most helpful in establishing the diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Serum albumin level"
+        },
+        {
+          "label": "B",
+          "text": "Serum ammonia level"
+        },
+        {
+          "label": "C",
+          "text": "Serum creatinine level"
+        },
+        {
+          "label": "D",
+          "text": "Serum glucose level"
+        },
+        {
+          "label": "E",
+          "text": "Serum lipase level"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "In suspected hepatic encephalopathy, a serum ammonia level confirms hyperammonemia from impaired hepatic urea production.",
+        "whyCorrect": "The flapping tremor (asterixis), confusion, and lethargy in a cirrhotic patient point to hepatic encephalopathy. A greatly elevated serum ammonia reflects the failing liver's reduced ability to convert ammonia to urea and supports the diagnosis.",
+        "whyWrongByChoice": {
+          "A": "Serum albumin reflects hepatic synthetic capacity but does not directly demonstrate the elevated ammonia causing his symptoms.",
+          "C": "Serum creatinine assesses renal function and does not confirm hyperammonemic encephalopathy.",
+          "D": "Serum glucose does not identify the ammonia-driven mechanism responsible for this presentation.",
+          "E": "Serum lipase is used to evaluate pancreatitis, not hepatic encephalopathy."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "hepatic encephalopathy",
+        "asterixis",
+        "serum ammonia"
+      ],
+      "topicId": "amino-acid-metabolism-i-nitrogen-balance-and-urea-cycle",
+      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle",
+      "tier": "core"
+    },
+    {
+      "id": "bo32-009",
+      "stem": "A patient with severe hyperammonemia develops cerebral edema and rising intracranial pressure. Which of the following best explains the mechanism of the astrocyte swelling in this setting?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Accumulation of glutamine as an osmolyte draws water into astrocytes"
+        },
+        {
+          "label": "B",
+          "text": "Ammonia binds directly to neuronal membranes, rupturing them"
+        },
+        {
+          "label": "C",
+          "text": "Hyperglycemia increases plasma osmolarity and dehydrates neurons"
+        },
+        {
+          "label": "D",
+          "text": "Iron deposition within astrocytes triggers oxidative lysis"
+        },
+        {
+          "label": "E",
+          "text": "Lactate crossing the blood-brain barrier directly lyses astrocytes"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Excess ammonia drives glutamine synthesis, and glutamine acts as an osmolyte that pulls water into astrocytes.",
+        "whyCorrect": "As ammonia rises, glutamine synthetase produces ever-increasing amounts of glutamine. Glutamine is an active osmolyte, so its accumulation promotes water influx and osmotic swelling of astrocytes, leading to cerebral edema and increased intracranial pressure.",
+        "whyWrongByChoice": {
+          "B": "The injury results from osmotic swelling, not from ammonia directly rupturing neuronal membranes.",
+          "C": "Hyperglycemia is not the described mechanism and would tend to draw water out of cells, not cause swelling.",
+          "D": "Iron deposition is not part of the ammonia neurotoxicity mechanism taught here.",
+          "E": "Although hyperammonemia can be associated with lactic acidosis, lactate is not the cause of the astrocyte osmotic swelling."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cerebral edema",
+        "astrocyte",
+        "glutamine osmolyte"
+      ],
+      "topicId": "amino-acid-metabolism-i-nitrogen-balance-and-urea-cycle",
+      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle",
+      "tier": "core"
+    },
+    {
+      "id": "bo32-010",
+      "stem": "In peripheral tissues, free ammonia is captured by adding it to the TCA cycle intermediate alpha-ketoglutarate, and the same enzyme reverses the reaction in the liver to liberate ammonia for urea synthesis. Which enzyme catalyzes this reversible reaction?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Pancreatic carboxypeptidase"
+        },
+        {
+          "label": "B",
+          "text": "Glutamate dehydrogenase"
+        },
+        {
+          "label": "C",
+          "text": "Mitochondrial glutaminase"
+        },
+        {
+          "label": "D",
+          "text": "Cytosolic glutamine synthetase"
+        },
+        {
+          "label": "E",
+          "text": "Pepsin (gastric protease)"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Glutamate dehydrogenase reversibly incorporates ammonia into alpha-ketoglutarate to form glutamate, using NAD(P).",
+        "whyCorrect": "Glutamate dehydrogenase reversibly joins free ammonia to the TCA intermediate alpha-ketoglutarate to make glutamate, using NAD(P)+/NAD(P)H. It loads nitrogen in peripheral tissues and runs in reverse in the liver to release ammonia for urea production.",
+        "whyWrongByChoice": {
+          "A": "Carboxypeptidase is a pancreatic protease and does not handle nitrogen incorporation.",
+          "C": "Glutaminase removes ammonia from glutamine, not from alpha-ketoglutarate.",
+          "D": "Glutamine synthetase adds ammonia onto glutamate to form glutamine using ATP; it does not act on alpha-ketoglutarate.",
+          "E": "Pepsin is a gastric protease with no role in ammonia incorporation."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "glutamate dehydrogenase",
+        "alpha-ketoglutarate",
+        "ammonia"
+      ],
+      "topicId": "amino-acid-metabolism-i-nitrogen-balance-and-urea-cycle",
+      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle",
+      "tier": "core"
+    },
+    {
+      "id": "bo32-011",
+      "stem": "A digestive enzyme is secreted in an inactive form and only functions after bicarbonate neutralizes the acidic chyme entering the small intestine. Which of the following enzymes best fits this description?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Aminopeptidase"
+        },
+        {
+          "label": "B",
+          "text": "Glutamate dehydrogenase"
+        },
+        {
+          "label": "C",
+          "text": "Glutaminase"
+        },
+        {
+          "label": "D",
+          "text": "Pepsin"
+        },
+        {
+          "label": "E",
+          "text": "Trypsin"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Trypsin is a pancreatic protease secreted into the small intestine, where bicarbonate neutralizes the acidic chyme.",
+        "whyCorrect": "Trypsin, along with chymotrypsin and carboxypeptidase, is a pancreatic enzyme secreted into the small intestine together with bicarbonate that neutralizes the acidic chyme. These enzymes collectively cleave peptides from a variety of proteins.",
+        "whyWrongByChoice": {
+          "A": "Aminopeptidases are produced by brush border cells rather than secreted by the pancreas with bicarbonate.",
+          "B": "Glutamate dehydrogenase is an intracellular enzyme of nitrogen metabolism, not a luminal digestive enzyme.",
+          "C": "Glutaminase is an intracellular nitrogen-handling enzyme, not a secreted digestive protease.",
+          "D": "Pepsin works in the acidic stomach and does not depend on bicarbonate neutralization."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "pancreatic enzymes",
+        "trypsin",
+        "bicarbonate"
+      ],
+      "topicId": "amino-acid-metabolism-i-nitrogen-balance-and-urea-cycle",
+      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle",
+      "tier": "core"
+    },
+    {
+      "id": "bo32-012",
+      "stem": "A patient with hyperammonemia is hyperventilating despite normal oxygenation and no metabolic acidosis. An arterial blood gas shows a low pCO2 and an elevated pH. Which of the following best explains this acid-base disturbance?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A normal, compensated acid-base state"
+        },
+        {
+          "label": "B",
+          "text": "Metabolic acidosis from bicarbonate loss"
+        },
+        {
+          "label": "C",
+          "text": "Metabolic alkalosis from protracted vomiting"
+        },
+        {
+          "label": "D",
+          "text": "Respiratory acidosis from hypoventilation"
+        },
+        {
+          "label": "E",
+          "text": "Respiratory alkalosis from ammonia effects"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Ammonia compromises the brainstem respiratory centers, driving hyperventilation that produces respiratory alkalosis.",
+        "whyCorrect": "Ammonia toxicity compromises the brainstem respiratory centers and causes hyperventilation in the absence of hypoxia or metabolic acidosis. Excessive exhalation of CO2 lowers arterial pCO2, raising blood pH and producing respiratory alkalosis.",
+        "whyWrongByChoice": {
+          "A": "The abnormal low pCO2 and elevated pH indicate a true acid-base disturbance, not a normal state.",
+          "B": "Metabolic acidosis would lower the pH, whereas this patient has an elevated pH.",
+          "C": "Metabolic alkalosis from vomiting is not the ammonia-driven respiratory mechanism described, and the low pCO2 reflects a respiratory process.",
+          "D": "Respiratory acidosis is caused by hypoventilation with a high pCO2, the opposite of the low pCO2 seen here."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "respiratory alkalosis",
+        "ammonia toxicity",
+        "acid-base"
+      ],
+      "topicId": "amino-acid-metabolism-i-nitrogen-balance-and-urea-cycle",
+      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle",
+      "tier": "core"
+    },
+    {
+      "id": "bo33-001",
+      "stem": "A full-term male newborn is well until 24 hours of life, when he becomes irritable and feeds poorly, then develops lethargy, vomiting, and tachypnea. Arterial blood gas shows a respiratory alkalosis. Serum ammonia is 2,800 micromol/L and serum glutamine is elevated. Urinalysis shows orotic aciduria, and a complete blood count is normal. Which of the following enzyme deficiencies is the most likely cause?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Arginase"
+        },
+        {
+          "label": "B",
+          "text": "Argininosuccinate synthetase"
+        },
+        {
+          "label": "C",
+          "text": "Carbamoyl phosphate synthetase-I"
+        },
+        {
+          "label": "D",
+          "text": "Ornithine transcarbamylase"
+        },
+        {
+          "label": "E",
+          "text": "Uridine monophosphate synthase"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "OTC deficiency is the most common urea cycle defect and uniquely produces orotic aciduria with hyperammonemia but no anemia.",
+        "whyCorrect": "Ornithine transcarbamylase deficiency is the most common urea cycle disorder. Without OTC, carbamoyl phosphate accumulates, leaks into the cytosol, and is diverted into the pyrimidine synthesis pathway to form orotic acid. This yields the combination of hyperammonemia, elevated glutamine, low/absent citrulline, and orotic aciduria with a normal CBC.",
+        "whyWrongByChoice": {
+          "A": "Arginase deficiency presents later with spasticity and markedly elevated arginine, not neonatal orotic aciduria.",
+          "B": "Argininosuccinate synthetase deficiency (citrullinemia) causes elevated, not low, citrulline and does not cause orotic aciduria.",
+          "C": "CPS-I deficiency causes low citrulline and hyperammonemia but produces normal or low orotic acid, because carbamoyl phosphate is not made.",
+          "E": "UMP synthase deficiency (hereditary orotic aciduria) causes orotic aciduria with megaloblastic anemia and NO hyperammonemia."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "urea cycle",
+        "OTC deficiency",
+        "hyperammonemia"
+      ],
+      "topicId": "nitrogen-balance-and-urea-cycle",
+      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle",
+      "tier": "core"
+    },
+    {
+      "id": "bo33-002",
+      "stem": "A 3-day-old infant with lethargy and vomiting is found to have orotic aciduria. Genetic and metabolic workup is pending. Which additional finding would best distinguish ornithine transcarbamylase deficiency from hereditary orotic aciduria (UMP synthase deficiency)?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Elevated serum glutamine"
+        },
+        {
+          "label": "B",
+          "text": "Elevated urinary orotic acid"
+        },
+        {
+          "label": "C",
+          "text": "Low blood urea nitrogen"
+        },
+        {
+          "label": "D",
+          "text": "Presence of hyperammonemia"
+        },
+        {
+          "label": "E",
+          "text": "Presence of megaloblastic anemia"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "OTC deficiency causes hyperammonemia without anemia, whereas hereditary orotic aciduria causes anemia without hyperammonemia.",
+        "whyCorrect": "Both disorders present with high orotic acid, so they must be differentiated. UMP synthase deficiency causes classic orotic aciduria with megaloblastic anemia but does NOT cause hyperammonemia. In contrast, OTC deficiency does present with hyperammonemia but does not cause megaloblastic anemia.",
+        "whyWrongByChoice": {
+          "A": "Elevated glutamine accompanies hyperammonemia of urea cycle defects but is not the defining discriminator between these two.",
+          "B": "Both conditions share elevated orotic acid, so this cannot distinguish them.",
+          "C": "Low BUN reflects impaired urea synthesis but is not specific and would not separate these two possibilities cleanly.",
+          "E": "Megaloblastic anemia points toward hereditary orotic aciduria, not OTC deficiency, so it would not identify OTC."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "orotic aciduria",
+        "OTC deficiency",
+        "differential diagnosis"
+      ],
+      "topicId": "nitrogen-balance-and-urea-cycle",
+      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle",
+      "tier": "core"
+    },
+    {
+      "id": "bo33-003",
+      "stem": "A neonate presents with hyperammonemia and elevated serum glutamine. Plasma amino acid analysis reveals markedly elevated citrulline with low argininosuccinic acid. Which enzyme is most likely deficient?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Arginase"
+        },
+        {
+          "label": "B",
+          "text": "Argininosuccinate lyase"
+        },
+        {
+          "label": "C",
+          "text": "Argininosuccinate synthetase"
+        },
+        {
+          "label": "D",
+          "text": "Carbamoyl phosphate synthetase-I"
+        },
+        {
+          "label": "E",
+          "text": "Ornithine transcarbamylase"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Argininosuccinate synthetase deficiency (citrullinemia) causes citrulline buildup with low argininosuccinic acid.",
+        "whyCorrect": "Argininosuccinate synthetase converts citrulline into argininosuccinate. When it is deficient, its substrate citrulline accumulates while its product argininosuccinic acid (ASA) remains low. This pattern of high citrulline with low ASA defines citrullinemia and distinguishes it from lyase deficiency.",
+        "whyWrongByChoice": {
+          "A": "Arginase deficiency elevates arginine and presents with spasticity, not a citrulline/ASA imbalance.",
+          "B": "Argininosuccinate lyase deficiency elevates BOTH citrulline and argininosuccinic acid, not low ASA.",
+          "D": "CPS-I deficiency causes low citrulline because upstream carbamoyl phosphate is not produced.",
+          "E": "OTC deficiency causes low or absent citrulline, not elevated citrulline."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "citrullinemia",
+        "urea cycle disorders",
+        "biomarkers"
+      ],
+      "topicId": "nitrogen-balance-and-urea-cycle",
+      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle",
+      "tier": "core"
+    },
+    {
+      "id": "bo33-004",
+      "stem": "A hyperammonemic infant has plasma studies showing elevated citrulline and elevated argininosuccinic acid. Which enzyme deficiency best explains these findings?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Arginase"
+        },
+        {
+          "label": "B",
+          "text": "Argininosuccinate lyase"
+        },
+        {
+          "label": "C",
+          "text": "Argininosuccinate synthetase"
+        },
+        {
+          "label": "D",
+          "text": "N-acetylglutamate synthetase"
+        },
+        {
+          "label": "E",
+          "text": "Ornithine transcarbamylase"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Argininosuccinate lyase deficiency (argininosuccinic aciduria) elevates both citrulline and argininosuccinic acid.",
+        "whyCorrect": "Argininosuccinate lyase cleaves argininosuccinate into arginine and fumarate. When it is deficient, argininosuccinic acid accumulates, and citrulline upstream also rises. The presence of high ASA together with high citrulline defines argininosuccinic aciduria and separates it from citrullinemia, where ASA is low.",
+        "whyWrongByChoice": {
+          "A": "Arginase deficiency elevates arginine, not citrulline and ASA.",
+          "C": "Synthetase deficiency (citrullinemia) elevates citrulline but keeps argininosuccinic acid LOW.",
+          "D": "NAGS deficiency causes low urea cycle intermediates from impaired CPS-I activation, not ASA accumulation.",
+          "E": "OTC deficiency causes low citrulline and high orotic acid, not elevated ASA."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "argininosuccinic aciduria",
+        "urea cycle disorders",
+        "biomarkers"
+      ],
+      "topicId": "nitrogen-balance-and-urea-cycle",
+      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle",
+      "tier": "core"
+    },
+    {
+      "id": "bo33-005",
+      "stem": "A 2-year-old child has progressive spasticity and stiff, scissoring gait present since infancy, and was initially thought to have cerebral palsy. Serum ammonia is only mildly elevated, but plasma arginine is nearly four-fold above the upper reference limit. Which enzyme is most likely deficient?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Arginase"
+        },
+        {
+          "label": "B",
+          "text": "Argininosuccinate lyase"
+        },
+        {
+          "label": "C",
+          "text": "Argininosuccinate synthetase"
+        },
+        {
+          "label": "D",
+          "text": "Carbamoyl phosphate synthetase-I"
+        },
+        {
+          "label": "E",
+          "text": "Ornithine transcarbamylase"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Arginase deficiency uniquely presents with progressive spasticity mimicking cerebral palsy and markedly elevated arginine with only mild hyperammonemia.",
+        "whyCorrect": "Arginase cleaves arginine into ornithine and urea. Its deficiency causes arginine to rise three- to four-fold above normal, and the elevated arginine and arginine-derived compounds drive the neurological picture. Symptoms progress from birth with mean onset around 2 years and are often mistaken for cerebral palsy, while ammonia is only mildly high.",
+        "whyWrongByChoice": {
+          "B": "Lyase deficiency elevates citrulline and argininosuccinic acid, not isolated arginine with spasticity.",
+          "C": "Synthetase deficiency causes citrullinemia with high citrulline, not high arginine.",
+          "D": "CPS-I deficiency causes severe neonatal hyperammonemia with low intermediates, not elevated arginine.",
+          "E": "OTC deficiency typically presents in the neonatal period with severe hyperammonemia and orotic aciduria, not late spasticity."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "arginase deficiency",
+        "urea cycle disorders",
+        "neurology"
+      ],
+      "topicId": "nitrogen-balance-and-urea-cycle",
+      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle",
+      "tier": "core"
+    },
+    {
+      "id": "bo33-006",
+      "stem": "An infant with recurrent hyperammonemia has a complete but poorly stimulated urea cycle. Enzymatic studies show that carbamoyl phosphate synthetase-I fails to be activated normally. Administration of carbamylglutamate corrects the hyperammonemia. Which of the following best explains why this therapy works in this patient?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It inhibits pyrimidine synthesis to lower orotic acid"
+        },
+        {
+          "label": "B",
+          "text": "It is a synthetic N-acetylglutamate analog"
+        },
+        {
+          "label": "C",
+          "text": "It replaces deficient arginase activity"
+        },
+        {
+          "label": "D",
+          "text": "It scavenges glutamine for urinary excretion"
+        },
+        {
+          "label": "E",
+          "text": "It supplies the missing carbamoyl phosphate directly"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "In NAGS deficiency, carbamylglutamate is a synthetic NAG analog that directly activates CPS-I, bypassing the need for endogenous NAG.",
+        "whyCorrect": "CPS-I is allosterically activated by N-acetylglutamate (NAG), which is made by NAG synthetase (NAGS). In NAGS deficiency the urea cycle enzymes are intact but cannot be stimulated. Carbamylglutamate is a synthetic analog of NAG that activates CPS-I directly, restoring flux; this is well tolerated and often eliminates the need for protein restriction. CPS-I deficiency itself, by contrast, is non-responsive to carbamylglutamate.",
+        "whyWrongByChoice": {
+          "A": "Its benefit is activation of the urea cycle, not inhibition of pyrimidine synthesis.",
+          "C": "It does not substitute for arginase; it acts at the CPS-I regulatory step.",
+          "D": "Glutamine scavenging is the action of phenylbutyrate, not carbamylglutamate.",
+          "E": "Carbamylglutamate is an activator of CPS-I, not a source of carbamoyl phosphate."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "NAGS deficiency",
+        "CPS-I",
+        "carbamylglutamate"
+      ],
+      "topicId": "nitrogen-balance-and-urea-cycle",
+      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle",
+      "tier": "core"
+    },
+    {
+      "id": "bo33-007",
+      "stem": "A researcher studies the first committed step of the urea cycle in isolated hepatocyte mitochondria. Which of the following molecules is the physiologic allosteric activator required for carbamoyl phosphate synthetase-I activity?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Argininosuccinate"
+        },
+        {
+          "label": "B",
+          "text": "Aspartate"
+        },
+        {
+          "label": "C",
+          "text": "Fumarate"
+        },
+        {
+          "label": "D",
+          "text": "N-acetylglutamate"
+        },
+        {
+          "label": "E",
+          "text": "Ornithine"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "CPS-I is allosterically activated by N-acetylglutamate (NAG).",
+        "whyCorrect": "Carbamoyl phosphate synthetase-I converts ammonia and CO2 into carbamoyl phosphate and requires allosteric activation by N-acetylglutamate. Arginine, a urea cycle intermediate, further stimulates NAG synthase to increase NAG when nitrogen-rich intermediates accumulate, ensuring augmented nitrogen disposal.",
+        "whyWrongByChoice": {
+          "A": "Argininosuccinate is a downstream intermediate, not the CPS-I activator.",
+          "B": "Aspartate is a substrate that donates the second nitrogen at the argininosuccinate synthetase step, not a CPS-I activator.",
+          "C": "Fumarate is a product of the lyase step that links to the TCA cycle, not a regulator of CPS-I.",
+          "E": "Ornithine combines with carbamoyl phosphate at the OTC step; it does not allosterically activate CPS-I."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "CPS-I",
+        "N-acetylglutamate",
+        "regulation"
+      ],
+      "topicId": "nitrogen-balance-and-urea-cycle",
+      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle",
+      "tier": "core"
+    },
+    {
+      "id": "bo33-008",
+      "stem": "In the urea cycle, one nitrogen of urea is derived from free ammonia, and the second nitrogen is supplied by another amino acid. This second nitrogen donor is regenerated from fumarate by way of malate and oxaloacetate. Which molecule provides this second nitrogen atom to the urea cycle?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Alanine"
+        },
+        {
+          "label": "B",
+          "text": "Aspartate"
+        },
+        {
+          "label": "C",
+          "text": "Citrulline"
+        },
+        {
+          "label": "D",
+          "text": "Glutamine"
+        },
+        {
+          "label": "E",
+          "text": "Ornithine"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Aspartate supplies the second nitrogen of urea and is regenerated from fumarate via malate, oxaloacetate, and AST.",
+        "whyCorrect": "Argininosuccinate synthetase uses aspartate to add the second nitrogen atom. The fumarate released by argininosuccinate lyase is converted to malate and then oxaloacetate, which is transaminated by aspartate aminotransferase (AST) using glutamate as the nitrogen donor to regenerate aspartate, sustaining nitrogen flow into urea.",
+        "whyWrongByChoice": {
+          "A": "Alanine transports nitrogen to the liver in the Cahill cycle but does not directly provide the second urea nitrogen.",
+          "C": "Citrulline is an intermediate that accepts aspartate; it is not itself the second nitrogen donor.",
+          "D": "Glutamine is a major nitrogen transporter to the liver but is not the direct second-nitrogen donor within the cycle.",
+          "E": "Ornithine is the carrier that accepts carbamoyl phosphate and is regenerated by arginase; it does not donate the second nitrogen."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "urea cycle",
+        "aspartate",
+        "fumarate"
+      ],
+      "topicId": "nitrogen-balance-and-urea-cycle",
+      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle",
+      "tier": "core"
+    },
+    {
+      "id": "bo33-009",
+      "stem": "A child with a urea cycle defect and chronic hyperammonemia is treated with sodium phenylbutyrate. Which of the following best describes why removing this drug's target molecule helps control the patient's ammonia levels?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It binds glutamine for urinary excretion"
+        },
+        {
+          "label": "B",
+          "text": "It binds urea directly to accelerate its transport to the kidney"
+        },
+        {
+          "label": "C",
+          "text": "It inhibits arginase to prevent ammonia release"
+        },
+        {
+          "label": "D",
+          "text": "It neutralizes ammonia by acidifying the blood"
+        },
+        {
+          "label": "E",
+          "text": "It replaces the deficient urea cycle enzyme"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Phenylbutyrate (via phenylacetate) conjugates glutamine, the predominant nitrogen transporter, providing a urea-independent route to excrete nitrogen.",
+        "whyCorrect": "Phenylbutyrate is oxidized to phenylacetate, which covalently binds glutamine to form a derivative excreted in the urine. Because glutamine is the predominant nitrogen transporter in the body, its removal provides an alternative path for nitrogen disposal that bypasses the compromised urea cycle, keeping ammonia within a safer range.",
+        "whyWrongByChoice": {
+          "B": "It does not bind urea; it conjugates glutamine, and the whole point is to bypass urea production.",
+          "C": "It works by scavenging glutamine, not by inhibiting arginase.",
+          "D": "It does not lower ammonia through blood acidification; it removes nitrogen as a glutamine conjugate.",
+          "E": "Nitrogen scavengers do not replace the deficient enzyme; they provide an alternate excretion route."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "hyperammonemia treatment",
+        "phenylbutyrate",
+        "glutamine"
+      ],
+      "topicId": "nitrogen-balance-and-urea-cycle",
+      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle",
+      "tier": "core"
+    },
+    {
+      "id": "bo33-010",
+      "stem": "During prolonged vigorous exercise, skeletal muscle transfers amino acid nitrogen to a carrier that travels to the liver, where it is converted to pyruvate for gluconeogenesis and its nitrogen enters the urea cycle. Which molecule serves as this nitrogen carrier?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Alanine"
+        },
+        {
+          "label": "B",
+          "text": "Creatinine"
+        },
+        {
+          "label": "C",
+          "text": "Lactate"
+        },
+        {
+          "label": "D",
+          "text": "Oxaloacetate"
+        },
+        {
+          "label": "E",
+          "text": "Urea"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "In the glucose-alanine (Cahill) cycle, alanine carries nitrogen from muscle to the liver and its carbon skeleton becomes pyruvate for gluconeogenesis.",
+        "whyCorrect": "Alanine is a key nitrogen transporter, especially during prolonged intense exercise. Via ALT, muscle nitrogen is loaded onto pyruvate to form alanine, which travels to the liver; there ALT converts alanine back to pyruvate for gluconeogenesis, and the released nitrogen feeds urea synthesis. This process is known as the Cahill cycle.",
+        "whyWrongByChoice": {
+          "B": "Creatinine is a waste product of creatine metabolism, not a gluconeogenic nitrogen shuttle.",
+          "C": "Lactate carries carbon in the Cori cycle but does not transport nitrogen, and no transaminase is involved.",
+          "D": "Oxaloacetate is an intermediate that regenerates aspartate; it is not the muscle nitrogen carrier.",
+          "E": "Urea is the excreted nitrogen end product, not the muscle-to-liver carrier."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "glucose-alanine cycle",
+        "Cahill cycle",
+        "nitrogen transport"
+      ],
+      "topicId": "nitrogen-balance-and-urea-cycle",
+      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle",
+      "tier": "core"
+    },
+    {
+      "id": "bo33-011",
+      "stem": "A physiologist compares two interorgan shuttles. In one, muscle and erythrocytes send a three-carbon molecule to the liver to be remade into glucose without any amino acid metabolism. Which statement best characterizes this Cori cycle relative to the glucose-alanine cycle?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It converts ammonia to glutamine within erythrocytes and muscle"
+        },
+        {
+          "label": "B",
+          "text": "It generates urea directly within skeletal muscle mitochondria"
+        },
+        {
+          "label": "C",
+          "text": "It occurs only in the presence of high insulin levels"
+        },
+        {
+          "label": "D",
+          "text": "It transports alanine and requires ALT transamination"
+        },
+        {
+          "label": "E",
+          "text": "It transports lactate and requires no transaminase enzymes"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The Cori cycle recycles lactate from muscle and erythrocytes back to glucose in the liver and, unlike the Cahill cycle, needs no transaminases.",
+        "whyCorrect": "The Cori cycle allows lactate produced by anaerobic glycolysis in muscle or by erythrocytes to be returned to the liver and remade into glucose. Because it does not involve amino acid metabolism, no amino transaminases are required, in contrast to the glucose-alanine cycle which relies on ALT.",
+        "whyWrongByChoice": {
+          "A": "Erythrocytes releasing lactate is central to the Cori cycle; it does not convert ammonia to glutamine here.",
+          "B": "Skeletal muscle does not run the urea cycle; urea is made in the liver.",
+          "C": "The lactate-recycling Cori cycle is not defined by insulin presence; the glucose-alanine cycle notably does not occur when insulin is present.",
+          "D": "Transporting alanine and requiring ALT describes the glucose-alanine (Cahill) cycle, not the Cori cycle."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Cori cycle",
+        "lactate",
+        "interorgan metabolism"
+      ],
+      "topicId": "nitrogen-balance-and-urea-cycle",
+      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle",
+      "tier": "core"
+    },
+    {
+      "id": "bo33-012",
+      "stem": "A previously healthy adult undergoes a prolonged fast during which glucagon promotes breakdown of body protein for energy. Compared with a fed state, which of the following best describes this person's nitrogen balance and its cause?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Negative nitrogen balance because protein catabolism causes nitrogen loss"
+        },
+        {
+          "label": "B",
+          "text": "Negative nitrogen balance because urea synthesis is suppressed by glucagon"
+        },
+        {
+          "label": "C",
+          "text": "Nitrogen equilibrium because intake equals loss"
+        },
+        {
+          "label": "D",
+          "text": "Positive nitrogen balance because the urea cycle is downregulated"
+        },
+        {
+          "label": "E",
+          "text": "Positive nitrogen balance because tissue is being actively built"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Fasting drives a catabolic, negative nitrogen balance because nitrogen loss exceeds intake as body protein is broken down.",
+        "whyCorrect": "Negative nitrogen balance occurs when nitrogen loss exceeds intake, indicating a catabolic state in which the body breaks down its own proteins. During fasting, glucagon promotes protein catabolism for energy from the amino acid carbon skeletons; this generates ammonia that is converted to urea and upregulates the urea cycle, pushing the individual toward negative nitrogen balance.",
+        "whyWrongByChoice": {
+          "B": "Glucagon during fasting increases, not suppresses, urea synthesis; the balance is negative because of increased catabolism.",
+          "C": "Equilibrium is typical of healthy adults on a balanced diet, not during a prolonged fast.",
+          "D": "Starvation actually upregulates the urea cycle to increase urea excretion, and the balance is negative, not positive.",
+          "E": "Positive nitrogen balance is an anabolic state seen in growth, pregnancy, and recovery, not fasting."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "nitrogen balance",
+        "fasting",
+        "glucagon"
+      ],
+      "topicId": "nitrogen-balance-and-urea-cycle",
+      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle",
+      "tier": "core"
+    }
+  ]
+}

@@ -1,0 +1,1152 @@
+{
+  "categoryId": "w3s2",
+  "categoryName": "Session 2",
+  "questions": [
+    {
+      "id": "bo20-001",
+      "stem": "A skeletal muscle cell accumulates high levels of glucose 6-phosphate during rest. Which enzyme's activity is most directly reduced as a consequence of this accumulation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Glucokinase"
+        },
+        {
+          "label": "B",
+          "text": "Glucose 6-phosphatase"
+        },
+        {
+          "label": "C",
+          "text": "Hexokinase"
+        },
+        {
+          "label": "D",
+          "text": "Phosphofructokinase-1"
+        },
+        {
+          "label": "E",
+          "text": "Pyruvate kinase"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Hexokinase is feedback-inhibited by its own product, glucose 6-phosphate.",
+        "whyCorrect": "Hexokinase catalyzes step 1 of glycolysis and has a low Km and low Vmax. High glucose 6-phosphate signals that a cell's glucose/energy needs are met, so the product allosterically inhibits hexokinase to prevent trapping additional glucose that could be prioritized for other tissues.",
+        "whyWrongByChoice": {
+          "A": "Glucokinase, the liver isozyme, is NOT inhibited by glucose 6-phosphate, allowing continued rapid glucose uptake when glucose is abundant.",
+          "B": "Glucose 6-phosphatase is a gluconeogenic enzyme; its activity is not governed by product inhibition from glucose 6-phosphate in this manner.",
+          "D": "PFK-1 is inhibited by ATP and citrate, not directly by glucose 6-phosphate.",
+          "E": "Pyruvate kinase (step 10) is inhibited by ATP, alanine, and glucagon signaling, not by glucose 6-phosphate."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "glycolysis",
+        "hexokinase",
+        "control points"
+      ],
+      "topicId": "carbohydrate-metabolism-overview-ii",
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II",
+      "tier": "core"
+    },
+    {
+      "id": "bo20-002",
+      "stem": "A well-fed hepatocyte is exposed to high insulin during glucose abundance. Which molecule most directly increases glycolytic flux at phosphofructokinase-1?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Alanine from muscle protein"
+        },
+        {
+          "label": "B",
+          "text": "ATP from oxidative phosphorylation"
+        },
+        {
+          "label": "C",
+          "text": "Citrate from the TCA cycle"
+        },
+        {
+          "label": "D",
+          "text": "Fructose 2,6-bisphosphate"
+        },
+        {
+          "label": "E",
+          "text": "Glucose 6-phosphate from hexokinase"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Fructose 2,6-bisphosphate is the potent allosteric activator of PFK-1 in the fed liver.",
+        "whyCorrect": "In the liver, insulin promotes the kinase activity of the bifunctional enzyme PFK-2, which produces fructose 2,6-bisphosphate. This metabolite is a positive allosteric activator of PFK-1, speeding glycolysis so glucose can be used for glycogen replenishment and fatty acid synthesis.",
+        "whyWrongByChoice": {
+          "A": "Alanine is an inhibitor of pyruvate kinase and a gluconeogenic substrate, not a PFK-1 activator.",
+          "B": "ATP is a high-energy signal that inhibits PFK-1, slowing glycolysis when energy is abundant.",
+          "C": "Citrate, an early TCA intermediate, inhibits PFK-1 as a signal of sufficient biosynthetic and energy substrate.",
+          "E": "Glucose 6-phosphate inhibits hexokinase (step 1) and is not the direct activator of PFK-1."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "PFK-1",
+        "PFK-2",
+        "insulin",
+        "glycolysis"
+      ],
+      "topicId": "carbohydrate-metabolism-overview-ii",
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II",
+      "tier": "core"
+    },
+    {
+      "id": "bo20-003",
+      "stem": "A fasting patient's hepatocytes are exposed to high glucagon, which raises intracellular cAMP and activates protein kinase A (PKA). Which of the following is most likely occurring in these liver cells?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Fructose 2,6-bisphosphate accumulates and promotes hepatic glycolysis"
+        },
+        {
+          "label": "B",
+          "text": "Insulin activates the kinase domain of PFK-2, raising fructose 2,6-bisphosphate"
+        },
+        {
+          "label": "C",
+          "text": "PFK-1 is allosterically activated by fructose 2,6-bisphosphate to accelerate glycolysis"
+        },
+        {
+          "label": "D",
+          "text": "PKA phosphorylates PFK-2, lowering fructose 2,6-bisphosphate and slowing glycolysis"
+        },
+        {
+          "label": "E",
+          "text": "Pyruvate kinase is dephosphorylated and thereby activated"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Glucagon (via cAMP/PKA) phosphorylates PFK-2, activating its phosphatase function and lowering fructose 2,6-bisphosphate to slow hepatic glycolysis.",
+        "whyCorrect": "During fasting, glucagon binds hepatocytes, activating adenylate cyclase, raising cAMP, and activating PKA. PKA phosphorylates PFK-2, which suppresses its kinase activity and activates its FBPase-2 (phosphatase) activity. This decreases fructose 2,6-bisphosphate, reducing PFK-1 activation so the liver exports glucose rather than catabolizing it.",
+        "whyWrongByChoice": {
+          "A": "Fructose 2,6-bisphosphate is cleaved and decreases during fasting, slowing rather than promoting glycolysis.",
+          "B": "Insulin (not glucagon) drives PFK-2 kinase activity; this state is dominated by glucagon.",
+          "C": "Fructose 2,6-bisphosphate levels fall in this state, so PFK-1 is not being activated by it.",
+          "E": "Glucagon/PKA phosphorylates and inhibits pyruvate kinase; it does not dephosphorylate/activate it."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "glucagon",
+        "PFK-2",
+        "cAMP",
+        "hepatic glycolysis"
+      ],
+      "topicId": "carbohydrate-metabolism-overview-ii",
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II",
+      "tier": "core"
+    },
+    {
+      "id": "bo20-004",
+      "stem": "During prolonged fasting, a hepatocyte converts pyruvate to oxaloacetate to sustain gluconeogenesis. Which enzyme catalyzes this step, requiring biotin and activation by acetyl-CoA?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Fructose 1,6-bisphosphatase"
+        },
+        {
+          "label": "B",
+          "text": "Glucose 6-phosphatase"
+        },
+        {
+          "label": "C",
+          "text": "PEP carboxykinase (PEPCK)"
+        },
+        {
+          "label": "D",
+          "text": "Pyruvate carboxylase"
+        },
+        {
+          "label": "E",
+          "text": "Pyruvate kinase"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Pyruvate carboxylase adds CO2 to pyruvate to form oxaloacetate, requiring biotin (vitamin B7) and activation by acetyl-CoA.",
+        "whyCorrect": "Pyruvate carboxylase is a gluconeogenic bypass enzyme that carboxylates pyruvate to oxaloacetate. It requires the cofactor biotin (vitamin B7) and is allosterically activated by acetyl-CoA, which accumulates during fasting from fatty acid oxidation.",
+        "whyWrongByChoice": {
+          "A": "Fructose 1,6-bisphosphatase cleaves a phosphate off fructose 1,6-bisphosphate, bypassing PFK-1, not the pyruvate step.",
+          "B": "Glucose 6-phosphatase removes phosphate from glucose 6-phosphate for export; it does not act on pyruvate.",
+          "C": "PEPCK converts oxaloacetate to phosphoenolpyruvate; it acts after pyruvate carboxylase and does not use biotin.",
+          "E": "Pyruvate kinase runs the forward glycolytic step (PEP to pyruvate) and is not gluconeogenic."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "gluconeogenesis",
+        "pyruvate carboxylase",
+        "biotin"
+      ],
+      "topicId": "carbohydrate-metabolism-overview-ii",
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II",
+      "tier": "core"
+    },
+    {
+      "id": "bo20-005",
+      "stem": "A hepatocyte performs active gluconeogenesis and glycogenolysis but is unable to release free glucose into the bloodstream via GLUT2. A deficiency of which enzyme best explains this finding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Fructose 1,6-bisphosphatase"
+        },
+        {
+          "label": "B",
+          "text": "Glucokinase"
+        },
+        {
+          "label": "C",
+          "text": "Glucose 6-phosphatase"
+        },
+        {
+          "label": "D",
+          "text": "PEP carboxykinase (PEPCK)"
+        },
+        {
+          "label": "E",
+          "text": "Pyruvate carboxylase"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Glucose 6-phosphatase removes the phosphate from glucose 6-phosphate so that glucose can be exported via GLUT2.",
+        "whyCorrect": "There is no transporter for phosphorylated glucose. Glucose 6-phosphatase produces free glucose from glucose 6-phosphate, enabling export of glucose derived from both gluconeogenesis and glycogenolysis. Without it, the liver cannot release glucose to the circulation.",
+        "whyWrongByChoice": {
+          "A": "Fructose 1,6-bisphosphatase acts at the fructose bisphosphate step, not the terminal glucose 6-phosphate step.",
+          "B": "Glucokinase phosphorylates glucose (traps it in the cell); its loss would not block export of already-formed glucose.",
+          "D": "PEPCK acts upstream converting oxaloacetate to PEP and does not dephosphorylate glucose 6-phosphate.",
+          "E": "Pyruvate carboxylase forms oxaloacetate from pyruvate, an early gluconeogenic step, not the final export step."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "gluconeogenesis",
+        "glucose 6-phosphatase",
+        "GLUT2"
+      ],
+      "topicId": "carbohydrate-metabolism-overview-ii",
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II",
+      "tier": "core"
+    },
+    {
+      "id": "bo20-006",
+      "stem": "An investigational drug inhibits the malate-aspartate shuttle in hepatocytes. Which of the following is most likely to increase as a direct result?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acetyl-CoA entry into the TCA cycle"
+        },
+        {
+          "label": "B",
+          "text": "Gluconeogenic flux"
+        },
+        {
+          "label": "C",
+          "text": "Lactate production"
+        },
+        {
+          "label": "D",
+          "text": "Mitochondrial ATP yield from glucose"
+        },
+        {
+          "label": "E",
+          "text": "Oxidative phosphorylation rate"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Blocking NADH shuttles causes cytosolic NADH to accumulate, driving pyruvate toward lactate.",
+        "whyCorrect": "There is no mitochondrial NAD+/NADH transporter, so cytosolic NADH from glycolysis reaches the ETC only through shuttles. Inhibiting the malate-aspartate shuttle leaves cytosolic NADH elevated, shifting the lactate dehydrogenase equilibrium to convert pyruvate to lactate and regenerate NAD+.",
+        "whyWrongByChoice": {
+          "A": "Acetyl-CoA entry into the TCA is not increased; impaired NADH transfer reduces overall oxidative flux.",
+          "B": "Gluconeogenesis would fall, since accumulated NADH diverts pyruvate to lactate rather than to glucose synthesis.",
+          "D": "ATP yield would decrease because glycolytic reducing equivalents no longer reach the ETC.",
+          "E": "Oxidative phosphorylation would decrease because fewer reducing equivalents reach the electron transport chain."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "malate-aspartate shuttle",
+        "NADH",
+        "lactate"
+      ],
+      "topicId": "carbohydrate-metabolism-overview-ii",
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II",
+      "tier": "core"
+    },
+    {
+      "id": "bo20-007",
+      "stem": "Mature red blood cells lack mitochondria and rely entirely on glycolysis for ATP. Which fate of pyruvate allows these cells to regenerate NAD+ and sustain glycolysis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Carboxylation to oxaloacetate by pyruvate carboxylase"
+        },
+        {
+          "label": "B",
+          "text": "Conversion to acetyl-CoA by pyruvate dehydrogenase"
+        },
+        {
+          "label": "C",
+          "text": "Conversion to glucose via gluconeogenesis"
+        },
+        {
+          "label": "D",
+          "text": "Reduction to lactate by lactate dehydrogenase"
+        },
+        {
+          "label": "E",
+          "text": "Transamination to alanine by ALT"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "In RBCs, pyruvate is reduced to lactate by LDH, regenerating NAD+ needed to keep glycolysis running.",
+        "whyCorrect": "Because RBCs cannot oxidize NADH in mitochondria, they must regenerate cytosolic NAD+ another way. Lactate dehydrogenase reduces pyruvate to lactate while oxidizing NADH to NAD+, allowing glycolysis (the RBC's only ATP source) to continue.",
+        "whyWrongByChoice": {
+          "A": "Pyruvate carboxylase is mitochondrial and gluconeogenic; RBCs do not perform this reaction.",
+          "B": "PDH requires mitochondria, which mature RBCs lack, so acetyl-CoA formation cannot occur.",
+          "C": "RBCs do not perform gluconeogenesis; that is a hepatic (and renal) process.",
+          "E": "Alanine formation via ALT does not regenerate NAD+ and is not the RBC's mechanism for sustaining glycolysis."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "pyruvate fates",
+        "RBC",
+        "lactate dehydrogenase"
+      ],
+      "topicId": "carbohydrate-metabolism-overview-ii",
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II",
+      "tier": "core"
+    },
+    {
+      "id": "bo20-008",
+      "stem": "The pyruvate dehydrogenase complex oxidatively decarboxylates pyruvate, generating NADH and CO2. Which of its required coenzymes is derived from niacin (vitamin B3)?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Coenzyme A (CoA), the acyl group carrier"
+        },
+        {
+          "label": "B",
+          "text": "Flavin adenine dinucleotide (FAD), the E3 cofactor"
+        },
+        {
+          "label": "C",
+          "text": "Lipoate (lipoamide), the swinging arm carrier"
+        },
+        {
+          "label": "D",
+          "text": "Nicotinamide adenine dinucleotide (NAD+)"
+        },
+        {
+          "label": "E",
+          "text": "Thiamin pyrophosphate (TPP), the E1 cofactor"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "NAD+ is the PDH coenzyme derived from niacin (vitamin B3).",
+        "whyCorrect": "The PDH complex requires five coenzymes. NAD+, derived from niacin (vitamin B3), is the terminal electron acceptor that is reduced to NADH during the oxidative decarboxylation of pyruvate to acetyl-CoA.",
+        "whyWrongByChoice": {
+          "A": "Coenzyme A is derived from pantothenate (vitamin B5).",
+          "B": "FAD is derived from riboflavin (vitamin B2).",
+          "C": "Lipoate is derived from octanoic acid, a fatty acid, not from niacin.",
+          "E": "Thiamin pyrophosphate (TPP) is derived from thiamin (vitamin B1), not niacin."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "PDH complex",
+        "coenzymes",
+        "niacin",
+        "NAD+"
+      ],
+      "topicId": "carbohydrate-metabolism-overview-ii",
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II",
+      "tier": "core"
+    },
+    {
+      "id": "bo20-009",
+      "stem": "A 35-year-old man presents with two months of fatigue, difficulty walking, and new peripheral pain. Five months ago he began eating mostly white rice after losing his job. Exam shows pronounced calf muscle weakness; labs reveal a high anion gap metabolic acidosis with elevated lactate. Which enzyme is most likely adversely affected?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Glucose 6-phosphate dehydrogenase"
+        },
+        {
+          "label": "B",
+          "text": "Phosphofructokinase-1"
+        },
+        {
+          "label": "C",
+          "text": "Phosphofructokinase-2"
+        },
+        {
+          "label": "D",
+          "text": "Pyruvate dehydrogenase complex"
+        },
+        {
+          "label": "E",
+          "text": "Pyruvate kinase"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "A white-rice diet causes thiamin deficiency, which compromises the thiamin (TPP)-dependent pyruvate dehydrogenase complex.",
+        "whyCorrect": "The PDH complex requires thiamin (as TPP), which becomes deficient with a polished-rice diet. Impaired PDH activity causes pyruvate to accumulate and shift toward lactate (lactic/metabolic acidosis) and greatly limits ATP production, accounting for the weakness. This is the beriberi picture.",
+        "whyWrongByChoice": {
+          "A": "Glucose 6-phosphate dehydrogenase requires niacin-derived NADP+, not thiamin, and its deficiency causes hemolysis, not this presentation.",
+          "B": "PFK-1 is a glycolytic control point enzyme that does not require a vitamin-derived coenzyme.",
+          "C": "PFK-2 regulates fructose 2,6-bisphosphate and does not require a thiamin coenzyme.",
+          "E": "Pyruvate kinase is a glycolytic enzyme not dependent on a vitamin-derived coenzyme."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "thiamin deficiency",
+        "beriberi",
+        "PDH complex",
+        "vignette"
+      ],
+      "topicId": "carbohydrate-metabolism-overview-ii",
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II",
+      "tier": "core"
+    },
+    {
+      "id": "bo20-010",
+      "stem": "A patient with severe thiamin deficiency presents with lower extremity edema and dilated cardiomyopathy. Which classification best describes this presentation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Dry beriberi"
+        },
+        {
+          "label": "B",
+          "text": "Korsakoff dementia"
+        },
+        {
+          "label": "C",
+          "text": "Pellagra"
+        },
+        {
+          "label": "D",
+          "text": "Wernicke encephalopathy"
+        },
+        {
+          "label": "E",
+          "text": "Wet beriberi"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Wet beriberi is the cardiovascular form of thiamin deficiency, with edema and dilated cardiomyopathy.",
+        "whyCorrect": "Beriberi has two classifications by presentation: wet beriberi is cardiovascular in nature, presenting with edema due to dilated cardiomyopathy, whereas dry beriberi is neuromuscular. This patient's edema and dilated cardiomyopathy define the wet form.",
+        "whyWrongByChoice": {
+          "A": "Dry beriberi is neuromuscular, presenting with muscle weakness and peripheral nerve pain (typically in the legs), not cardiac edema.",
+          "B": "Korsakoff dementia is a chronic amnestic syndrome with confabulation, not a cardiovascular presentation.",
+          "C": "Pellagra results from niacin (B3) deficiency, causing dermatitis, diarrhea, and dementia.",
+          "D": "Wernicke encephalopathy presents with ataxia, confusion, and ophthalmoplegia/nystagmus, not dilated cardiomyopathy."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "thiamin deficiency",
+        "beriberi",
+        "cardiomyopathy"
+      ],
+      "topicId": "carbohydrate-metabolism-overview-ii",
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II",
+      "tier": "core"
+    },
+    {
+      "id": "bo20-011",
+      "stem": "A disoriented patient with a history of chronic alcohol abuse is hypoglycemic and acidotic. The attending insists on giving thiamin before administering IV dextrose. What is the best rationale for giving thiamin first?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Dextrose directly inhibits transketolase in the pentose phosphate pathway"
+        },
+        {
+          "label": "B",
+          "text": "Dextrose precipitates hemolysis in thiamin-deficient patients"
+        },
+        {
+          "label": "C",
+          "text": "Glucose administration acutely raises blood ammonia levels"
+        },
+        {
+          "label": "D",
+          "text": "Pyruvate dehydrogenase requires thiamin"
+        },
+        {
+          "label": "E",
+          "text": "Thiamin is required to activate glucokinase before glucose can be phosphorylated"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "In thiamin deficiency, PDH cannot fully oxidize administered glucose, so giving dextrose before thiamin can be harmful.",
+        "whyCorrect": "PDH requires thiamin (TPP). If a chronically malnourished alcoholic is thiamin-deficient, administered glucose cannot be properly oxidized through PDH, and the glucose load can precipitate or worsen thiamin-dependent enzyme failure, driving lactic acidosis and neurologic decline (e.g., Wernicke encephalopathy). A thiamin bolus should ensure PDH is functional before glucose is given.",
+        "whyWrongByChoice": {
+          "A": "Dextrose does not directly inhibit transketolase; the problem is a lack of thiamin cofactor, not glucose-mediated inhibition.",
+          "B": "Dextrose does not cause hemolysis in thiamin deficiency; the risk is metabolic and neurologic.",
+          "C": "The danger relates to impaired glucose oxidation, not an acute rise in ammonia.",
+          "E": "Glucokinase does not require thiamin; the thiamin-dependent enzyme in glucose oxidation is PDH."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "thiamin",
+        "alcohol",
+        "PDH",
+        "clinical reasoning"
+      ],
+      "topicId": "carbohydrate-metabolism-overview-ii",
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II",
+      "tier": "core"
+    },
+    {
+      "id": "bo20-012",
+      "stem": "A patient has chronic hemolytic anemia, and a peripheral smear shows echinocytes (burr cells) with evenly distributed spiky surfaces. Deficiency of which glycolytic enzyme in red blood cells best explains these findings?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Glucose 6-phosphate dehydrogenase"
+        },
+        {
+          "label": "B",
+          "text": "Hexokinase"
+        },
+        {
+          "label": "C",
+          "text": "Lactate dehydrogenase"
+        },
+        {
+          "label": "D",
+          "text": "Phosphofructokinase-1"
+        },
+        {
+          "label": "E",
+          "text": "Pyruvate kinase"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "RBC pyruvate kinase deficiency causes chronic hemolytic anemia with echinocytes (burr cells).",
+        "whyCorrect": "RBCs depend entirely on glycolysis for ATP. Pyruvate kinase deficiency depletes ATP; without ATP, Na/K pumps fail and the membrane retracts, producing echinocytes (burr cells) with evenly distributed spiky surfaces and chronic hemolytic anemia.",
+        "whyWrongByChoice": {
+          "A": "G6PD deficiency causes oxidative hemolysis with Heinz bodies and bite cells, not echinocytes from ATP depletion.",
+          "B": "Hexokinase deficiency is not the enzyme specifically linked in this brick to hemolysis with echinocytes.",
+          "C": "Lactate dehydrogenase deficiency does not produce this classic ATP-depletion echinocyte picture.",
+          "D": "PFK-1 deficiency is not the cause described here; the brick attributes RBC hemolysis and burr cells to pyruvate kinase."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "pyruvate kinase deficiency",
+        "hemolytic anemia",
+        "echinocytes",
+        "RBC"
+      ],
+      "topicId": "carbohydrate-metabolism-overview-ii",
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II",
+      "tier": "core"
+    },
+    {
+      "id": "bo21-001",
+      "stem": "A physiologist is comparing how the body handles a dietary bolus of glucose versus an equivalent bolus of fructose. Unlike glucose, which is taken up and metabolized by a wide spectrum of tissues, dietary fructose is metabolized almost exclusively at a single site. In which organ does the great majority of fructose metabolism occur?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Adipose tissue"
+        },
+        {
+          "label": "B",
+          "text": "Brain"
+        },
+        {
+          "label": "C",
+          "text": "Liver"
+        },
+        {
+          "label": "D",
+          "text": "Red blood cells"
+        },
+        {
+          "label": "E",
+          "text": "Skeletal muscle"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Fructose is metabolized nearly exclusively in the liver, unlike glucose, which is used throughout the body.",
+        "whyCorrect": "The brick states that, unlike glucose, fructose is nearly exclusively metabolized within the liver (and to a much lesser extent the kidneys). Hepatic fructokinase and aldolase B carry out the first committed steps of fructose catabolism.",
+        "whyWrongByChoice": {
+          "A": "Adipose tissue stores the lipid products of hepatic fructose metabolism but does not itself carry out the bulk of fructose catabolism.",
+          "B": "The brain uses glucose (and ketones during fasting) as fuel and is not the major site of fructose metabolism.",
+          "D": "Red blood cells depend on glucose taken up by GLUT1 for glycolysis; they are not a site of fructose metabolism.",
+          "E": "Skeletal muscle relies on glucose and does not appreciably metabolize fructose; fructose handling is hepatic."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "fructose metabolism",
+        "liver",
+        "LO1"
+      ],
+      "topicId": "carbohydrate-metabolism-fructose-polyol-disorders",
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II: Fructose, HFCS, the Polyol Pathway, and Fructose Disorders",
+      "tier": "core"
+    },
+    {
+      "id": "bo21-002",
+      "stem": "A student is tracing carbon atoms through hepatic sugar metabolism. She notes that fructose metabolism and glycolysis proceed through separate early enzymes but ultimately share a common pair of three-carbon intermediates, after which the pathways are identical. Which pair of intermediates represents this point of convergence?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Dihydroxyacetone phosphate and glyceraldehyde 3-phosphate"
+        },
+        {
+          "label": "B",
+          "text": "Fructose 1-phosphate and fructose 6-phosphate of the early steps"
+        },
+        {
+          "label": "C",
+          "text": "Fructose 6-phosphate and fructose 1,6-bisphosphate at the PFK-1 step"
+        },
+        {
+          "label": "D",
+          "text": "Glucose 6-phosphate and the pentose phosphate pathway product NADPH"
+        },
+        {
+          "label": "E",
+          "text": "Pyruvate and lactate at the very end of the glycolytic pathway"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Glucose and fructose metabolism converge at DHAP and glyceraldehyde 3-phosphate.",
+        "whyCorrect": "The brick teaches that both pathways produce dihydroxyacetone phosphate (DHAP) and glyceraldehyde 3-phosphate as intermediates, at which point the pathways converge. In fructose metabolism these are generated by aldolase B, downstream of the PFK-1 control point.",
+        "whyWrongByChoice": {
+          "B": "Fructose 1-phosphate is exclusive to fructose metabolism and fructose 6-phosphate is exclusive to glycolysis; they are not the shared convergence intermediates.",
+          "C": "Fructose 6-phosphate and fructose 1,6-bisphosphate are glycolytic intermediates produced before and at the PFK-1 step, upstream of the convergence point.",
+          "D": "Glucose 6-phosphate is an early glycolytic intermediate and NADPH is a pentose phosphate pathway product; neither marks the convergence with fructose metabolism.",
+          "E": "Pyruvate and lactate lie far downstream after glycolysis is already complete and shared, not at the point where the two pathways first merge."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "glycolysis",
+        "fructose metabolism",
+        "convergence",
+        "LO1"
+      ],
+      "topicId": "carbohydrate-metabolism-fructose-polyol-disorders",
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II: Fructose, HFCS, the Polyol Pathway, and Fructose Disorders",
+      "tier": "core"
+    },
+    {
+      "id": "bo21-003",
+      "stem": "A biochemistry instructor emphasizes that fructose metabolism is metabolically hazardous largely because of where its carbons enter glycolysis relative to a key regulated step. Fructose-derived intermediates join glycolysis downstream of the enzyme that is normally inhibited by ATP and citrate. Which glycolytic enzyme does fructose metabolism bypass?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Glucokinase"
+        },
+        {
+          "label": "B",
+          "text": "Hexokinase"
+        },
+        {
+          "label": "C",
+          "text": "Phosphofructokinase-1"
+        },
+        {
+          "label": "D",
+          "text": "Pyruvate dehydrogenase"
+        },
+        {
+          "label": "E",
+          "text": "Pyruvate kinase"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Fructose metabolism bypasses the PFK-1 control point of glycolysis.",
+        "whyCorrect": "Aldolase B produces DHAP and glyceraldehyde 3-phosphate, which enter glycolysis after the PFK-1 step. Because PFK-1 is the major control point inhibited by ATP and citrate, fructose escapes this negative feedback and can be shunted toward lipogenesis.",
+        "whyWrongByChoice": {
+          "A": "Glucokinase catalyzes the first step of glucose (not fructose) metabolism; fructose uses fructokinase instead, so glucokinase is not the bypassed regulatory step.",
+          "B": "Hexokinase phosphorylates glucose in most tissues but is not the key regulated point of glycolysis that fructose bypasses.",
+          "D": "Pyruvate dehydrogenase links glycolysis to the TCA cycle after pyruvate formation and is not part of glycolytic flux control that fructose evades.",
+          "E": "Pyruvate kinase acts at the end of glycolysis and uses substrate generated by both pathways; it is not the regulated step that fructose circumvents."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "PFK-1",
+        "regulation",
+        "fructose metabolism",
+        "LO2"
+      ],
+      "topicId": "carbohydrate-metabolism-fructose-polyol-disorders",
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II: Fructose, HFCS, the Polyol Pathway, and Fructose Disorders",
+      "tier": "core"
+    },
+    {
+      "id": "bo21-004",
+      "stem": "A 45-year-old sedentary man consumes several sugar-sweetened sodas daily and has gained substantial weight over the past year. His clinician explains that fructose is handled differently from glucose and that this difference underlies his rapid weight gain. Which mechanism best explains why chronic high fructose intake promotes fat storage even when cellular energy is already abundant?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Fructose cannot be metabolized and is excreted unchanged in the urine"
+        },
+        {
+          "label": "B",
+          "text": "Fructose enters glycolysis below the PFK-1 step, feeding lipogenesis"
+        },
+        {
+          "label": "C",
+          "text": "Fructose inhibits fructokinase, causing carbons to accumulate as fructose 1-phosphate"
+        },
+        {
+          "label": "D",
+          "text": "Fructose is preferentially stored as glycogen rather than metabolized"
+        },
+        {
+          "label": "E",
+          "text": "Fructose strongly stimulates insulin secretion, driving glucose into fat cells"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Fructose bypasses the ATP/citrate-regulated PFK-1 step, so excess carbons flow unchecked into fatty acid synthesis.",
+        "whyCorrect": "Because fructose intermediates converge with glycolysis downstream of PFK-1, they are not subject to the negative feedback exerted by ATP and citrate. Even when citrate accumulates, fructose is not shunted into alternative pathways, so a sedentary person converts the excess into fatty acids and stores lipids, causing rapid weight gain.",
+        "whyWrongByChoice": {
+          "A": "Normal fructose is metabolized in the liver, not simply excreted; urinary fructose is a feature of essential fructosuria, not typical intake.",
+          "C": "Fructokinase is highly efficient and is not inhibited by fructose; pathologic fructose 1-phosphate accumulation occurs in hereditary fructose intolerance due to aldolase B deficiency, not in a healthy person.",
+          "D": "Fructose is not preferentially diverted into glycogen; when not used for energy it is converted to fatty acids and stored as lipid.",
+          "E": "Fructose has a low glycemic index and does not acutely stimulate insulin secretion, so an insulin surge is not the mechanism."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "HFCS",
+        "lipogenesis",
+        "weight gain",
+        "LO2"
+      ],
+      "topicId": "carbohydrate-metabolism-fructose-polyol-disorders",
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II: Fructose, HFCS, the Polyol Pathway, and Fructose Disorders",
+      "tier": "core"
+    },
+    {
+      "id": "bo21-005",
+      "stem": "A food scientist is manufacturing high fructose corn syrup (HFCS). Corn starch is first broken down into free glucose, yielding conventional corn syrup. To create HFCS, an additional processing step converts a portion of that glucose into fructose. Which enzyme catalyzes this final glucose-to-fructose conversion?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Aldolase B"
+        },
+        {
+          "label": "B",
+          "text": "Alpha-amylase"
+        },
+        {
+          "label": "C",
+          "text": "Fructokinase"
+        },
+        {
+          "label": "D",
+          "text": "Glucose isomerase"
+        },
+        {
+          "label": "E",
+          "text": "Sorbitol dehydrogenase"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "An isomerase converts glucose to fructose to produce HFCS from corn syrup.",
+        "whyCorrect": "The brick explains that plant starch is broken into free glucose by alpha-amylase to make conventional corn syrup; to make HFCS, the glucose-containing corn syrup is further processed by an isomerase that generates fructose from glucose.",
+        "whyWrongByChoice": {
+          "A": "Aldolase B cleaves fructose 1-phosphate during metabolism and has no role in HFCS manufacture.",
+          "B": "Alpha-amylase digests corn starch into free glucose (making conventional corn syrup) but does not convert glucose to fructose.",
+          "C": "Fructokinase phosphorylates fructose to fructose 1-phosphate inside the liver; it is not used in industrial HFCS production.",
+          "E": "Sorbitol dehydrogenase converts sorbitol to fructose in the polyol pathway, not glucose to fructose during HFCS production."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "HFCS",
+        "isomerase",
+        "food science",
+        "LO2"
+      ],
+      "topicId": "carbohydrate-metabolism-fructose-polyol-disorders",
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II: Fructose, HFCS, the Polyol Pathway, and Fructose Disorders",
+      "tier": "core"
+    },
+    {
+      "id": "bo21-006",
+      "stem": "Fructose has a glycemic index of only about 20, a value that might suggest it is a benign sweetener. Which of the following best explains why fructose has such a low glycemic index yet still carries metabolic risk?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Fructose does not acutely stimulate insulin secretion, but bypasses PFK-1 regulation"
+        },
+        {
+          "label": "B",
+          "text": "Fructose is converted to glucose in the intestine before absorption"
+        },
+        {
+          "label": "C",
+          "text": "Fructose is not absorbed from the gut, so it never reaches the circulation"
+        },
+        {
+          "label": "D",
+          "text": "Fructose raises blood glucose more slowly because it is stored entirely as glycogen"
+        },
+        {
+          "label": "E",
+          "text": "Fructose triggers a large insulin spike that rapidly clears it from the blood"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Fructose's low glycemic index reflects that it does not acutely raise glucose or insulin, yet it still promotes lipogenesis by escaping PFK-1 control.",
+        "whyCorrect": "The brick states that fructose has a low glycemic index of 20 and does not acutely stimulate insulin secretion, but warns this value is deceptive: because fructose metabolism bypasses the PFK-1 control point, it can be converted to fatty acids and stored as lipid without feedback regulation.",
+        "whyWrongByChoice": {
+          "B": "Dietary fructose is not converted to glucose in the intestine before absorption; it is largely metabolized in the liver.",
+          "C": "Fructose is absorbed and delivered to the liver, where it is metabolized; it does reach the circulation.",
+          "D": "The low glycemic index is due to a lack of acute glucose/insulin rise, not to complete storage as glycogen.",
+          "E": "Fructose does not trigger a large acute insulin spike; a lack of acute insulin stimulation is precisely why its glycemic index is low."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "glycemic index",
+        "insulin",
+        "fructose",
+        "LO2"
+      ],
+      "topicId": "carbohydrate-metabolism-fructose-polyol-disorders",
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II: Fructose, HFCS, the Polyol Pathway, and Fructose Disorders",
+      "tier": "core"
+    },
+    {
+      "id": "bo21-007",
+      "stem": "A 58-year-old man with a 15-year history of poorly controlled type 2 diabetes develops bilateral cataracts and a symmetric peripheral neuropathy. His physician explains that persistently elevated intracellular glucose in the lens and peripheral nerves activates a pathway that would normally be inactive. Which enzyme initiates this pathologic pathway by reducing glucose to sorbitol?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Aldolase B"
+        },
+        {
+          "label": "B",
+          "text": "Aldose reductase"
+        },
+        {
+          "label": "C",
+          "text": "Glucokinase"
+        },
+        {
+          "label": "D",
+          "text": "Hexokinase"
+        },
+        {
+          "label": "E",
+          "text": "Sorbitol dehydrogenase"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Aldose reductase reduces glucose to sorbitol and initiates the polyol pathway that damages lens and nerve in diabetes.",
+        "whyCorrect": "Aldose reductase has a high Km for glucose, so it becomes active only when glucose is in excess, as in poorly controlled diabetes. Retina and nerve cells constitutively express GLUTs and polyol enzymes, so excess glucose is reduced to sorbitol, contributing to cataract formation and neuropathy.",
+        "whyWrongByChoice": {
+          "A": "Aldolase B is a fructose metabolism enzyme (cleaving fructose 1-phosphate) and has no role in the polyol pathway.",
+          "C": "Glucokinase phosphorylates glucose in the liver during glycolysis and is unrelated to sorbitol production in lens and nerve.",
+          "D": "Hexokinase traps glucose as glucose 6-phosphate for glycolysis but does not produce sorbitol.",
+          "E": "Sorbitol dehydrogenase acts second, oxidizing sorbitol to fructose; it does not initiate the pathway by reducing glucose."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "polyol pathway",
+        "aldose reductase",
+        "diabetes",
+        "LO3"
+      ],
+      "topicId": "carbohydrate-metabolism-fructose-polyol-disorders",
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II: Fructose, HFCS, the Polyol Pathway, and Fructose Disorders",
+      "tier": "core"
+    },
+    {
+      "id": "bo21-008",
+      "stem": "In the polyol pathway, glucose is reduced to a sugar alcohol that cannot readily leave the cell and therefore accumulates when glucose is chronically elevated. This trapped intermediate draws water into the cell. Which type of cellular stress does this accumulating intermediate most directly produce?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Endoplasmic reticulum stress"
+        },
+        {
+          "label": "B",
+          "text": "Glycative stress"
+        },
+        {
+          "label": "C",
+          "text": "Osmotic stress"
+        },
+        {
+          "label": "D",
+          "text": "Oxidative stress"
+        },
+        {
+          "label": "E",
+          "text": "Shear stress"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Sorbitol accumulation is osmotically active, drawing water into the cell and causing osmotic stress.",
+        "whyCorrect": "The brick teaches that sorbitol production and accumulation causes osmotic stress, meaning water moves into the cell. Sorbitol is the alcohol sugar of glucose and is osmotically active when it builds up intracellularly.",
+        "whyWrongByChoice": {
+          "A": "Endoplasmic reticulum stress is not the mechanism described for sorbitol accumulation in the brick.",
+          "B": "Glycative stress is produced by fructose covalently linking to protein side chains, not by the osmotic effect of sorbitol.",
+          "D": "Oxidative stress in the polyol pathway results from NADPH depletion and GSSG accumulation, not from sorbitol drawing in water.",
+          "E": "Shear stress refers to mechanical force on cells (e.g., from blood flow) and is unrelated to intracellular sorbitol accumulation."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "polyol pathway",
+        "sorbitol",
+        "osmotic stress",
+        "LO3"
+      ],
+      "topicId": "carbohydrate-metabolism-fructose-polyol-disorders",
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II: Fructose, HFCS, the Polyol Pathway, and Fructose Disorders",
+      "tier": "core"
+    },
+    {
+      "id": "bo21-009",
+      "stem": "A researcher studying diabetic tissue damage observes that aldose reductase activity consumes a specific reducing cofactor. Depletion of this cofactor impairs the regeneration of reduced glutathione, allowing the oxidized glutathione dimer to accumulate and leaving cells unable to neutralize reactive oxygen species. Which cofactor is being depleted?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "ATP"
+        },
+        {
+          "label": "B",
+          "text": "Biotin"
+        },
+        {
+          "label": "C",
+          "text": "FADH2"
+        },
+        {
+          "label": "D",
+          "text": "NADPH"
+        },
+        {
+          "label": "E",
+          "text": "Thiamine pyrophosphate"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Aldose reductase consumes NADPH, and its depletion causes oxidative stress via impaired glutathione regeneration.",
+        "whyCorrect": "The brick states that consumption of NADPH leads to accumulation of the oxidized GSSG dimer, which is unable to neutralize oxidative species. NADPH is required to regenerate reduced glutathione (GSH), so its depletion produces oxidative stress.",
+        "whyWrongByChoice": {
+          "A": "ATP is depleted in hereditary fructose intolerance, not by aldose reductase in the polyol pathway; glutathione regeneration depends on NADPH.",
+          "B": "Biotin is a cofactor for carboxylase enzymes and has no role in the polyol pathway or glutathione recycling.",
+          "C": "FADH2 is an electron carrier in the electron transport chain and TCA cycle; it is not consumed by aldose reductase or used to regenerate glutathione.",
+          "E": "Thiamine pyrophosphate is a cofactor for enzymes such as pyruvate dehydrogenase and transketolase, not for glutathione regeneration."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "polyol pathway",
+        "NADPH",
+        "oxidative stress",
+        "glutathione",
+        "LO3"
+      ],
+      "topicId": "carbohydrate-metabolism-fructose-polyol-disorders",
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II: Fructose, HFCS, the Polyol Pathway, and Fructose Disorders",
+      "tier": "core"
+    },
+    {
+      "id": "bo21-010",
+      "stem": "A 62-year-old woman with type 2 diabetes has her hemoglobin A1c measured to assess long-term glycemic control. Her physician explains that A1c reflects average blood glucose over roughly the preceding few months. Which statement best describes how HbA1c is generated?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A1c reflects a single snapshot of blood glucose at the moment of the draw"
+        },
+        {
+          "label": "B",
+          "text": "An enzyme actively attaches glucose to hemoglobin in proportion to insulin levels"
+        },
+        {
+          "label": "C",
+          "text": "Fructose covalently modifies hemoglobin during red cell maturation"
+        },
+        {
+          "label": "D",
+          "text": "Glucose binds hemoglobin non-enzymatically in a purely equilibrium-driven manner"
+        },
+        {
+          "label": "E",
+          "text": "Sorbitol accumulates within red cells and is measured as A1c"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "HbA1c is a non-enzymatic, equilibrium-driven glycation of hemoglobin that rises with sustained hyperglycemia.",
+        "whyCorrect": "The brick teaches that HbA1c is a glycated form of hemoglobin whose formation is not enzymatic but driven purely by equilibrium: the more circulating glucose, the more HbA1c forms. Because red cells express GLUT1 and live about four months, A1c serves as a long-term monitor of glucose control.",
+        "whyWrongByChoice": {
+          "A": "A single snapshot of blood glucose is provided by a glucometer; A1c reflects long-term (about four-month) glucose control, not an instantaneous value.",
+          "B": "HbA1c formation is explicitly non-enzymatic and is driven by glucose concentration and equilibrium, not by an enzyme or insulin levels.",
+          "C": "It is glucose, not fructose, that glycates hemoglobin to form A1c; the process is equilibrium-driven glycation by glucose.",
+          "E": "Sorbitol is a polyol pathway intermediate and is not what A1c measures; A1c is glycated hemoglobin."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "HbA1c",
+        "glycation",
+        "diabetes monitoring",
+        "LO3"
+      ],
+      "topicId": "carbohydrate-metabolism-fructose-polyol-disorders",
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II: Fructose, HFCS, the Polyol Pathway, and Fructose Disorders",
+      "tier": "core"
+    },
+    {
+      "id": "bo21-011",
+      "stem": "A 7-month-old boy is brought in with recurrent vomiting, lethargy, and sweating shortly after being started on pureed fruit and juice. He was entirely well while exclusively breastfed. Exam shows hepatomegaly and jaundice. Laboratory studies reveal hypoglycemia, elevated uric acid, and low phosphate. A deficiency of which enzyme best explains this presentation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Aldolase B"
+        },
+        {
+          "label": "B",
+          "text": "Fructokinase"
+        },
+        {
+          "label": "C",
+          "text": "Galactokinase"
+        },
+        {
+          "label": "D",
+          "text": "Galactose 1-phosphate uridyltransferase (GALT)"
+        },
+        {
+          "label": "E",
+          "text": "Glucokinase"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Aldolase B deficiency causes hereditary fructose intolerance, presenting after weaning with hypoglycemia, hepatomegaly, and phosphate trapping.",
+        "whyCorrect": "In hereditary fructose intolerance, aldolase B is deficient, so fructose 1-phosphate accumulates while the efficient fructokinase step continues to consume ATP. This depletes ATP and traps phosphate, producing hypoglycemia (gluconeogenesis and glycogenolysis stall, and fructose 1-phosphate inhibits glycogen phosphorylase), hepatomegaly, jaundice, and hyperuricemia. Symptoms appear when fructose-containing foods (fruit, juice) are introduced after breastfeeding.",
+        "whyWrongByChoice": {
+          "B": "Fructokinase deficiency causes essential fructosuria, a benign condition without hypoglycemia, hepatomegaly, or metabolic derangement.",
+          "C": "Galactokinase deficiency causes isolated cataracts from galactitol and is provoked by galactose, not by fructose-containing fruit and juice.",
+          "D": "GALT deficiency causes classic galactosemia, which is triggered by lactose/galactose (present in breast milk) and typically presents earlier, often with intellectual disability.",
+          "E": "Glucokinase is the first enzyme of hepatic glycolysis; its deficiency is not associated with this fructose-triggered syndrome."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "hereditary fructose intolerance",
+        "aldolase B",
+        "hypoglycemia",
+        "LO4"
+      ],
+      "topicId": "carbohydrate-metabolism-fructose-polyol-disorders",
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II: Fructose, HFCS, the Polyol Pathway, and Fructose Disorders",
+      "tier": "core"
+    },
+    {
+      "id": "bo21-012",
+      "stem": "A 5-year-old girl undergoes urinalysis during a routine visit, which unexpectedly detects a reducing sugar identified as fructose. She is completely asymptomatic, growing normally, and has no history of hypoglycemia, vomiting, or liver disease. Her parents recall that she eats a lot of fruit. Which of the following is the most appropriate description of her condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A benign fructokinase deficiency requiring no treatment"
+        },
+        {
+          "label": "B",
+          "text": "A glucokinase deficiency causing neonatal diabetes"
+        },
+        {
+          "label": "C",
+          "text": "Aldolase B deficiency requiring strict lifelong fructose avoidance to prevent liver failure"
+        },
+        {
+          "label": "D",
+          "text": "Classic galactosemia requiring elimination of lactose and galactose"
+        },
+        {
+          "label": "E",
+          "text": "Galactokinase deficiency requiring urgent ophthalmologic surgery"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Essential fructosuria is a benign fructokinase deficiency that is asymptomatic and needs no treatment.",
+        "whyCorrect": "Essential fructosuria is a deficiency of fructokinase, described as a rare, benign 'non-disease.' Excess fructose can still be handled to some extent by hexokinase or excreted in the urine, so patients are asymptomatic and require no treatment; fructose may simply appear in blood or urine when intake is high.",
+        "whyWrongByChoice": {
+          "B": "Glucokinase deficiency is unrelated to urinary fructose and does not describe this benign, asymptomatic condition.",
+          "C": "Aldolase B deficiency (hereditary fructose intolerance) causes hypoglycemia, hepatomegaly, and vomiting; this asymptomatic child with normal growth does not fit that severe picture.",
+          "D": "Classic galactosemia involves galactose (not fructose) accumulation and causes serious illness including hepatomegaly and intellectual disability, not incidental asymptomatic fructosuria.",
+          "E": "Galactokinase deficiency causes cataracts from galactitol and involves galactose, not the incidental finding of urinary fructose in a well child."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "essential fructosuria",
+        "fructokinase",
+        "benign",
+        "LO4"
+      ],
+      "topicId": "carbohydrate-metabolism-fructose-polyol-disorders",
+      "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II: Fructose, HFCS, the Polyol Pathway, and Fructose Disorders",
+      "tier": "core"
+    }
+  ]
+}

@@ -1,0 +1,570 @@
+{
+  "categoryId": "w8s3",
+  "categoryName": "Session 3",
+  "questions": [
+    {
+      "id": "bo61-001",
+      "stem": "A 29-year-old man is started on carbamazepine for focal seizures. Within the first week of therapy he develops a rapidly spreading painful rash with mucosal involvement and skin blistering, and the reaction is thought to be immune-mediated. Which of the following pharmacogenetic findings most likely explains this adverse drug reaction?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "CYP2D6*2"
+        },
+        {
+          "label": "B",
+          "text": "DRD2 rs1799732"
+        },
+        {
+          "label": "C",
+          "text": "TPMT*2, *3"
+        },
+        {
+          "label": "D",
+          "text": "CYP3A4*17"
+        },
+        {
+          "label": "E",
+          "text": "HLA-B*15:02"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Certain HLA alleles predispose to severe cutaneous hypersensitivity reactions to specific drugs.",
+        "whyCorrect": "Alleles of the human leukocyte antigen (HLA) system are associated with idiosyncratic, delayed hypersensitivity adverse drug reactions such as Stevens-Johnson syndrome and toxic epidermal necrolysis. Carbamazepine-triggered severe cutaneous reactions are linked to HLA variants (HLA-B*15:02), so this genotype best explains an immune-mediated blistering rash appearing shortly after starting the drug.",
+        "whyWrongByChoice": {
+          "A": "CYP2D6 variants alter oxidative Phase 1 metabolism of drugs such as antidepressants; they change drug levels rather than trigger an HLA-mediated immune skin reaction.",
+          "B": "DRD2 dopamine receptor variants affect antipsychotic efficacy and weight gain, not carbamazepine hypersensitivity.",
+          "C": "TPMT deficiency causes myelosuppression with thiopurines (azathioprine, 6-mercaptopurine), not carbamazepine-associated skin reactions.",
+          "D": "CYP3A4 reduced-function variants slow metabolism of drugs like tacrolimus and cyclosporine, causing accumulation and toxicity, not an immune cutaneous reaction."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "HLA",
+        "adverse drug reaction",
+        "carbamazepine"
+      ],
+      "topicId": "pharmacogenetics-an-introduction",
+      "topicName": "Pharmacogenetics: An Introduction",
+      "tier": "core"
+    },
+    {
+      "id": "bo61-002",
+      "stem": "A woman with uncontrolled hypertension is about to add metoprolol to her regimen. Her pharmacogenetic panel reveals the ADRB1 Arg389Gly (R389G) receptor variant, which is reported to increase the efficacy of metoprolol. Which of the following is the most appropriate parameter to monitor for this patient's response to therapy?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Asthma exacerbation frequency"
+        },
+        {
+          "label": "B",
+          "text": "Blood pressure"
+        },
+        {
+          "label": "C",
+          "text": "Body weight"
+        },
+        {
+          "label": "D",
+          "text": "Serum cholesterol level"
+        },
+        {
+          "label": "E",
+          "text": "Short-term memory"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Monitoring should target the intended therapeutic effect of the drug given the receptor variant.",
+        "whyCorrect": "Metoprolol is a beta-1 adrenergic antagonist used to lower blood pressure, and the ADRB1 R389G variant is reported to alter the antihypertensive response at the beta-1 receptor. Because the drug is being used to control hypertension, blood pressure is the parameter that directly reflects efficacy and should be monitored.",
+        "whyWrongByChoice": {
+          "A": "Asthma exacerbation risk relates to beta-2 receptor (ADRB2) variants and beta-agonist therapy, not the beta-1 ADRB1 variant.",
+          "C": "Weight gain is associated with dopamine D2 receptor variants and antipsychotic therapy, not with a beta-1 receptor variant and metoprolol.",
+          "D": "Cholesterol is not the therapeutic target of a beta-blocker used for blood pressure control and does not reflect the ADRB1 variant effect.",
+          "E": "Memory change is linked to certain serotonin receptor variants with escitalopram, not to a beta-1 receptor variant."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "GPCR",
+        "ADRB1",
+        "monitoring"
+      ],
+      "topicId": "pharmacogenetics-an-introduction",
+      "topicName": "Pharmacogenetics: An Introduction",
+      "tier": "core"
+    },
+    {
+      "id": "bo61-003",
+      "stem": "A genetics lecture reviews how variation in DNA sequence among individuals underlies differences in drug response. Genetic polymorphism refers to the presence of two or more variant forms of a DNA sequence in a population. Which of the following is the most common cause of these genetic variants?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Advancing age of the patient"
+        },
+        {
+          "label": "B",
+          "text": "Multiple-nucleotide insertion polymorphism"
+        },
+        {
+          "label": "C",
+          "text": "Multiple-nucleotide deletion polymorphism in a coding segment"
+        },
+        {
+          "label": "D",
+          "text": "Obesity and increased body fat"
+        },
+        {
+          "label": "E",
+          "text": "Single-nucleotide polymorphisms"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The most common type of genetic polymorphism is a single-nucleotide change.",
+        "whyCorrect": "The brick states that the most common type of polymorphism involves variation at a single nucleotide (for example, A to G) in the DNA sequence, also called a single-nucleotide polymorphism (SNP). SNPs can occur in coding, non-coding, or regulatory regions of genes.",
+        "whyWrongByChoice": {
+          "A": "Age influences drug metabolism and excretion but is not a cause of genetic variants.",
+          "B": "Addition of multiple nucleotides (insertions) is a form of variation but is not the most common type of polymorphism.",
+          "C": "Deletion of multiple nucleotides occurs but is far less common than single-nucleotide variation.",
+          "D": "Obesity is a non-genetic factor that can affect drug distribution and clearance; it is not a cause of DNA sequence variants."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "SNP",
+        "polymorphism",
+        "genetics"
+      ],
+      "topicId": "pharmacogenetics-an-introduction",
+      "topicName": "Pharmacogenetics: An Introduction",
+      "tier": "core"
+    },
+    {
+      "id": "bo61-004",
+      "stem": "A 24-year-old woman with Crohn disease is started on azathioprine. Two weeks later she develops profound leukopenia, anemia, and easy bruising. Genotyping shows she carries TPMT*2 and *3 alleles. Which of the following best explains her bone marrow toxicity?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "An HLA-mediated immune reaction destroys marrow precursors"
+        },
+        {
+          "label": "B",
+          "text": "Decreased inactivation of 6-mercaptopurine"
+        },
+        {
+          "label": "C",
+          "text": "Enhanced renal excretion reduces drug half-life"
+        },
+        {
+          "label": "D",
+          "text": "Increased beta-endorphin binding at opioid receptors"
+        },
+        {
+          "label": "E",
+          "text": "Increased methylation accelerates clearance of the active drug"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "TPMT deficiency reduces inactivation of thiopurines, leading to toxic accumulation and myelosuppression.",
+        "whyCorrect": "Thiopurine S-methyltransferase (TPMT) is a Phase 2 enzyme that methylates and inactivates thiopurine drugs. Defects in the TPMT gene lead to decreased methylation and decreased inactivation of 6-mercaptopurine, so cytotoxic metabolites accumulate and cause enhanced bone marrow toxicity with myelosuppression, anemia, leukopenia, and bleeding tendency.",
+        "whyWrongByChoice": {
+          "A": "The mechanism here is impaired drug inactivation and metabolite accumulation, not an HLA immune reaction.",
+          "C": "The toxicity results from reduced enzymatic inactivation, not enhanced renal excretion, which would lower drug exposure.",
+          "D": "Beta-endorphin binding relates to the OPRM1 opioid receptor variant, unrelated to thiopurine toxicity.",
+          "E": "TPMT variants decrease, not increase, methylation; increased methylation would inactivate the drug and reduce toxicity."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "TPMT",
+        "thiopurine",
+        "myelosuppression"
+      ],
+      "topicId": "pharmacogenetics-an-introduction",
+      "topicName": "Pharmacogenetics: An Introduction",
+      "tier": "core"
+    },
+    {
+      "id": "bo61-005",
+      "stem": "A 40-year-old man with reflux esophagitis reports no symptom relief after weeks of a standard-dose proton pump inhibitor. Genotyping reveals CYP2C19*1/*17, classifying him as an ultra-rapid metabolizer. Which of the following best explains his treatment failure?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Increased enzyme activity clears the drug before it can act"
+        },
+        {
+          "label": "B",
+          "text": "The drug accumulates to toxic levels and inhibits its own target"
+        },
+        {
+          "label": "C",
+          "text": "The variant alters the proton pump so the drug cannot bind"
+        },
+        {
+          "label": "D",
+          "text": "The variant blocks intestinal absorption of the drug"
+        },
+        {
+          "label": "E",
+          "text": "The variant triggers an immune hypersensitivity reaction"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Increased-function CYP2C19 variants speed drug metabolism, reducing drug exposure and efficacy.",
+        "whyCorrect": "The CYP2C19*17 variant increases the enzyme's ability to metabolize drugs, and two copies produce an ultra-rapid metabolizer phenotype. Increased metabolism of proton pump inhibitors leads to loss of drug effectiveness, and a higher dose may be needed to achieve a therapeutic effect.",
+        "whyWrongByChoice": {
+          "B": "Ultra-rapid metabolism lowers drug levels rather than causing toxic accumulation; accumulation occurs with poor metabolizers.",
+          "C": "The variant affects the metabolizing enzyme, not the structure of the proton pump target.",
+          "D": "CYP2C19 governs hepatic metabolism, not intestinal absorption of the drug.",
+          "E": "This is a metabolic (pharmacokinetic) effect, not an HLA-mediated immune reaction."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "CYP2C19",
+        "ultra-rapid metabolizer",
+        "proton pump inhibitor"
+      ],
+      "topicId": "pharmacogenetics-an-introduction",
+      "topicName": "Pharmacogenetics: An Introduction",
+      "tier": "core"
+    },
+    {
+      "id": "bo61-006",
+      "stem": "A 35-year-old man is started on low-dose venlafaxine for anxiety. After 8 days he reports that although the drug helped somewhat, he did not feel like himself and had troubling side effects, so he stopped it. A pharmacogenetic panel returns a CYP2D6 *4/*10 genotype. Which of the following best describes his metabolizer status and its effect?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Enhanced drug transporter uptake increasing efficacy"
+        },
+        {
+          "label": "B",
+          "text": "Immune sensitization causing a hypersensitivity reaction"
+        },
+        {
+          "label": "C",
+          "text": "Intermediate metabolizer with reduced drug clearance"
+        },
+        {
+          "label": "D",
+          "text": "Normal metabolizer requiring no dose change"
+        },
+        {
+          "label": "E",
+          "text": "Ultra-rapid metabolizer with subtherapeutic drug levels"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Reduced-function CYP2D6 genotypes produce an intermediate metabolizer with higher drug exposure and adverse effects.",
+        "whyCorrect": "The CYP2D6 *4/*10 genotype predicts reduced or intermediate metabolizer status. Reduced CYP2D6 function decreases metabolism of venlafaxine (and affects roughly 25% of commonly prescribed drugs), so the drug is cleared more slowly and adverse effects are more likely, which explains why the patient did not feel like himself.",
+        "whyWrongByChoice": {
+          "A": "CYP2D6 is a metabolizing enzyme, not a drug transporter, and reduced function decreases rather than enhances clearance.",
+          "B": "His symptoms reflect a pharmacokinetic metabolizer effect, not an HLA-type immune hypersensitivity reaction.",
+          "D": "The *4/*10 genotype reduces enzyme function, so this is not a normal metabolizer requiring no change.",
+          "E": "Ultra-rapid metabolizers clear drug quickly and tend to have subtherapeutic levels; the *4/*10 genotype produces the opposite, reduced metabolism."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "CYP2D6",
+        "intermediate metabolizer",
+        "venlafaxine"
+      ],
+      "topicId": "pharmacogenetics-an-introduction",
+      "topicName": "Pharmacogenetics: An Introduction",
+      "tier": "core"
+    },
+    {
+      "id": "bo61-007",
+      "stem": "A 52-year-old kidney transplant recipient maintained on tacrolimus is found to carry a CYP3A4 decreased-function variant (CYP3A4*8). Which of the following outcomes is most likely if the standard dose is used without adjustment?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "An HLA-mediated skin reaction"
+        },
+        {
+          "label": "B",
+          "text": "Elevated tacrolimus levels and drug toxicity"
+        },
+        {
+          "label": "C",
+          "text": "Increased risk of asthma exacerbation"
+        },
+        {
+          "label": "D",
+          "text": "No change in tacrolimus levels"
+        },
+        {
+          "label": "E",
+          "text": "Subtherapeutic tacrolimus levels and graft rejection"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Decreased-function metabolizing enzyme variants raise drug levels and toxicity risk for narrow-therapeutic-index drugs.",
+        "whyCorrect": "Decreased-function CYP3A4 variants (such as *8, *11, *13) reduce metabolism of drugs like cyclosporine and tacrolimus. Slower clearance leads to drug accumulation and toxicity, which is especially dangerous for immunosuppressants with a narrow therapeutic index.",
+        "whyWrongByChoice": {
+          "A": "CYP3A4 variants act through metabolism, not HLA-mediated immune skin reactions.",
+          "C": "Asthma exacerbation risk relates to beta-2 receptor variants, not CYP3A4 metabolism.",
+          "D": "A decreased-function variant does change pharmacokinetics, increasing exposure.",
+          "E": "Reduced metabolism raises, not lowers, drug levels, so subtherapeutic levels and rejection would be unexpected."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "CYP3A4",
+        "tacrolimus",
+        "narrow therapeutic index"
+      ],
+      "topicId": "pharmacogenetics-an-introduction",
+      "topicName": "Pharmacogenetics: An Introduction",
+      "tier": "core"
+    },
+    {
+      "id": "bo61-008",
+      "stem": "Before prescribing abacavir to a patient with HIV, a clinician orders pharmacogenetic screening. The result is positive for HLA-B*57:01. Which of the following is the most appropriate reason to avoid abacavir in this patient?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Abacavir will accumulate due to reduced Phase 1 metabolism"
+        },
+        {
+          "label": "B",
+          "text": "The drug transporter variant will block cellular uptake"
+        },
+        {
+          "label": "C",
+          "text": "The patient is at high risk of a drug hypersensitivity reaction"
+        },
+        {
+          "label": "D",
+          "text": "The patient will be an ultra-rapid metabolizer of abacavir"
+        },
+        {
+          "label": "E",
+          "text": "The variant reduces abacavir binding to its target"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "HLA-B*57:01 predicts an immune-mediated hypersensitivity reaction to abacavir.",
+        "whyCorrect": "The HLA-B*57:01 allele is associated with an activated immune reaction, a hypersensitivity reaction to the drug abacavir. Because HLA alleles drive idiosyncratic, immune-mediated adverse reactions, carrying this allele is a reason to avoid abacavir and use an alternative.",
+        "whyWrongByChoice": {
+          "A": "The concern is an HLA-driven immune reaction, not reduced Phase 1 metabolism and accumulation.",
+          "B": "HLA molecules present antigens to immune cells; they are not drug transporters affecting uptake.",
+          "D": "HLA alleles determine immune recognition, not metabolizer status; abacavir risk here is immunologic, not metabolic.",
+          "E": "The reaction reflects immune activation, not altered drug binding to a pharmacologic target."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "HLA-B*57:01",
+        "abacavir",
+        "hypersensitivity"
+      ],
+      "topicId": "pharmacogenetics-an-introduction",
+      "topicName": "Pharmacogenetics: An Introduction",
+      "tier": "core"
+    },
+    {
+      "id": "bo61-009",
+      "stem": "A pharmacogenomics researcher identifies a SNP located outside of a gene that reliably correlates with response to a particular drug but has no effect on protein production or function. Which of the following best classifies this SNP?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Coding SNP"
+        },
+        {
+          "label": "B",
+          "text": "Copy number variation"
+        },
+        {
+          "label": "C",
+          "text": "Frameshift variant"
+        },
+        {
+          "label": "D",
+          "text": "Linked (indicative) SNP"
+        },
+        {
+          "label": "E",
+          "text": "Noncoding (causative) SNP within the gene"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "SNPs outside a gene that correlate with a trait without changing protein are linked (indicative) SNPs.",
+        "whyCorrect": "Linked SNPs, also called indicative SNPs, occur outside the gene and have no effect on protein production or function, yet they may correlate with drug response or a certain disease. This matches a marker outside the gene that predicts drug response without altering the protein.",
+        "whyWrongByChoice": {
+          "A": "A coding SNP lies within the coding region and changes the amino acid sequence, so it does affect the protein.",
+          "B": "A copy number variation is a deletion or duplication of a DNA segment, not a single-nucleotide marker outside the gene.",
+          "C": "A frameshift variant is a loss-of-function change within the coding sequence that alters the protein, not a non-functional marker.",
+          "E": "A noncoding causative SNP lies inside the gene and changes the amount of protein produced, unlike this marker."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "SNP",
+        "linked SNP",
+        "classification"
+      ],
+      "topicId": "pharmacogenetics-an-introduction",
+      "topicName": "Pharmacogenetics: An Introduction",
+      "tier": "core"
+    },
+    {
+      "id": "bo61-010",
+      "stem": "A student is asked to distinguish pharmacogenetics from pharmacogenomics. Which of the following statements most accurately describes pharmacogenetics?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It analyzes the complete set of proteins expressed in a cell or tissue sample"
+        },
+        {
+          "label": "B",
+          "text": "It examines multi-gene interactions across the whole genome and their drug effects"
+        },
+        {
+          "label": "C",
+          "text": "It measures the full set of metabolites produced in a cell or tissue"
+        },
+        {
+          "label": "D",
+          "text": "It studies how a person's entire genome influences the response to medications"
+        },
+        {
+          "label": "E",
+          "text": "It studies how variations in a single gene affect response to a specific drug"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Pharmacogenetics focuses on single-gene variants and their effect on drug response.",
+        "whyCorrect": "The brick defines pharmacogenetics as the study of how variations in a single gene affect an individual's response to a specific drug. Pharmacogenomics takes the broader approach of looking at how the entire genome and multi-gene interactions influence response to medications.",
+        "whyWrongByChoice": {
+          "A": "Analyzing the full set of proteins is proteomics, not pharmacogenetics.",
+          "B": "Studying multi-gene interactions across the genome is pharmacogenomics, not the single-gene focus of pharmacogenetics.",
+          "C": "Measuring the full set of metabolites is metabolomics, not pharmacogenetics.",
+          "D": "This describes pharmacogenomics, the broader whole-genome approach, not pharmacogenetics."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "pharmacogenetics",
+        "pharmacogenomics",
+        "definitions"
+      ],
+      "topicId": "pharmacogenetics-an-introduction",
+      "topicName": "Pharmacogenetics: An Introduction",
+      "tier": "core"
+    },
+    {
+      "id": "bo61-011",
+      "stem": "A review of G protein-coupled receptors (GPCRs) as drug targets notes that roughly a third of FDA-approved drugs act through them and that GPCR drug targets are frequently affected by a particular kind of variant. Which of the following types of mutation most commonly affects GPCR drug targets?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Balanced reciprocal translocation"
+        },
+        {
+          "label": "B",
+          "text": "Missense mutations"
+        },
+        {
+          "label": "C",
+          "text": "Mitochondrial DNA depletion"
+        },
+        {
+          "label": "D",
+          "text": "Trinucleotide repeat expansion"
+        },
+        {
+          "label": "E",
+          "text": "Whole-chromosome aneuploidy"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "GPCR drug targets are most often affected by missense mutations.",
+        "whyCorrect": "The brick states that GPCR drug targets are often affected by missense mutations, followed by loss-of-function changes from nonsense or frameshift mutations and by copy number variations. The results can include decreased ligand binding, modified G protein selectivity, or altered expression, localization, trafficking, or desensitization.",
+        "whyWrongByChoice": {
+          "A": "Balanced translocations are structural chromosomal changes, not the missense mutations most often affecting GPCRs.",
+          "C": "Mitochondrial DNA depletion is unrelated to the missense variants that affect GPCR drug targets.",
+          "D": "Trinucleotide repeat expansions cause other disorders and are not the described GPCR target variant.",
+          "E": "Whole-chromosome aneuploidy is not described as the common variant affecting GPCR drug targets."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "GPCR",
+        "missense mutation",
+        "drug target"
+      ],
+      "topicId": "pharmacogenetics-an-introduction",
+      "topicName": "Pharmacogenetics: An Introduction",
+      "tier": "core"
+    },
+    {
+      "id": "bo61-012",
+      "stem": "A clinical genetics report describes a genomic change as a variant that may increase a person's risk of developing a condition, disorder, or disease. According to the American College of Medical Genetics and Genomics classification, which of the following terms best describes this variant?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Benign variant"
+        },
+        {
+          "label": "B",
+          "text": "Likely benign variant"
+        },
+        {
+          "label": "C",
+          "text": "Pathogenic variant"
+        },
+        {
+          "label": "D",
+          "text": "Silent (synonymous) variant"
+        },
+        {
+          "label": "E",
+          "text": "Variant of uncertain significance"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "A variant that increases disease risk is classified as pathogenic.",
+        "whyCorrect": "The brick defines a pathogenic variant as a genomic variant that may increase a person's risk of developing a condition, disorder, or disease. The ACMG classification system applies the modifiers pathogenic, likely pathogenic, uncertain significance, likely benign, and benign to describe how a change may impact gene function.",
+        "whyWrongByChoice": {
+          "A": "A benign variant has little to no effect and does not increase disease risk.",
+          "B": "A likely benign variant is probably harmless and is not described as increasing disease risk.",
+          "D": "Silent or synonymous is a molecular description of a coding change and is not one of the ACMG clinical significance categories used here.",
+          "E": "A variant of uncertain significance has insufficient evidence to classify its impact, so it is not defined as increasing risk."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "variant classification",
+        "pathogenic",
+        "ACMG"
+      ],
+      "topicId": "pharmacogenetics-an-introduction",
+      "topicName": "Pharmacogenetics: An Introduction",
+      "tier": "core"
+    }
+  ]
+}

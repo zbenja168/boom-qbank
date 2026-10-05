@@ -1,0 +1,1712 @@
+{
+  "categoryId": "w2s3",
+  "categoryName": "Session 3",
+  "questions": [
+    {
+      "id": "bo15-001",
+      "stem": "A researcher measures the equilibrium constant of a reversible reaction with and without a purified enzyme present. The enzyme dramatically increases the rate at which equilibrium is reached. Which of the following is the enzyme most likely to leave unchanged?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The activation energy required for the reaction"
+        },
+        {
+          "label": "B",
+          "text": "The overall equilibrium of the reaction"
+        },
+        {
+          "label": "C",
+          "text": "The rate at which the transition state is formed"
+        },
+        {
+          "label": "D",
+          "text": "The rate of the forward reaction"
+        },
+        {
+          "label": "E",
+          "text": "The time required to reach equilibrium"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Enzymes accelerate reaction rates (kinetics) but do not alter thermodynamics.",
+        "whyCorrect": "Enzymes are catalysts that lower the activation energy and speed the rate at which a reaction proceeds, but they do not change whether the reaction is thermodynamically favorable or shift its equilibrium position. A catalyzed reaction reaches the same equilibrium as an uncatalyzed one, only faster.",
+        "whyWrongByChoice": {
+          "A": "Lowering the activation energy is the defining action of an enzyme, so this is changed.",
+          "C": "Enzymes favor formation of the transition state, accelerating its appearance.",
+          "D": "By lowering activation energy the enzyme increases the forward rate, so this is changed.",
+          "E": "Because the enzyme increases the rate, equilibrium is reached in less time."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "enzymes",
+        "activation energy",
+        "kinetics vs thermodynamics"
+      ],
+      "topicId": "proteins-enzymatic-machines-and-protein-based-disorders-ii",
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II",
+      "tier": "core"
+    },
+    {
+      "id": "bo15-002",
+      "stem": "An otherwise healthy patient develops fasting hypoglycemia after weeks of eating raw eggs, which sequester biotin. The impaired reaction adds CO2 to pyruvate to form oxaloacetate in an ATP-dependent step of gluconeogenesis. Which class of enzyme catalyzes this diminished reaction?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Isomerase"
+        },
+        {
+          "label": "B",
+          "text": "Ligase"
+        },
+        {
+          "label": "C",
+          "text": "Lyase"
+        },
+        {
+          "label": "D",
+          "text": "Oxidoreductase"
+        },
+        {
+          "label": "E",
+          "text": "Transferase"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "A biotin-dependent carboxylase that covalently joins two substrates using ATP is a ligase.",
+        "whyCorrect": "Ligases form a covalent bond between substrates in an ATP-dependent manner; the carboxylase subclass adds CO2 to a substrate to form a carboxylic acid and requires biotin (vitamin B7). Pyruvate carboxylase adding CO2 to pyruvate fits this exactly.",
+        "whyWrongByChoice": {
+          "A": "The molecular formula changes between substrates and product, so this is not a simple isomerization.",
+          "C": "A lyase breaks bonds without hydrolysis or oxidation; here a bond is being formed with ATP.",
+          "D": "No oxidation-reduction (electron transfer) occurs in this reaction.",
+          "E": "No functional group is being swapped between two substrates; a new covalent bond is being created."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "enzyme classification",
+        "ligase",
+        "carboxylase",
+        "biotin"
+      ],
+      "topicId": "proteins-enzymatic-machines-and-protein-based-disorders-ii",
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II",
+      "tier": "core"
+    },
+    {
+      "id": "bo15-003",
+      "stem": "During glycogenolysis in skeletal muscle, an enzyme uses free inorganic phosphate (Pi) to cleave a glucose unit from glycogen, releasing glucose-1-phosphate. Which term best describes this enzyme?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Isomerase"
+        },
+        {
+          "label": "B",
+          "text": "Kinase"
+        },
+        {
+          "label": "C",
+          "text": "Phosphatase"
+        },
+        {
+          "label": "D",
+          "text": "Phosphoglucomutase"
+        },
+        {
+          "label": "E",
+          "text": "Phosphorylase"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "A phosphorylase uses inorganic phosphate to break a bond and generate a phosphorylated product.",
+        "whyCorrect": "A phosphorylase adds phosphate onto a substrate but, unlike a kinase, it uses free inorganic phosphate (Pi) rather than ATP to break bonds. Glycogen phosphorylase cleaves glycogen with Pi to liberate glucose-1-phosphate.",
+        "whyWrongByChoice": {
+          "A": "An isomerase rearranges a substrate without adding phosphate.",
+          "B": "A kinase transfers a phosphate from ATP, not from free inorganic phosphate.",
+          "C": "A phosphatase removes a phosphate using water; here phosphate is being added.",
+          "D": "Phosphoglucomutase relocates a phosphate on the sugar (glucose-1-P to glucose-6-P) rather than cleaving glycogen with Pi."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "phosphorylase",
+        "glycogenolysis",
+        "phosphate-handling enzymes"
+      ],
+      "topicId": "proteins-enzymatic-machines-and-protein-based-disorders-ii",
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II",
+      "tier": "core"
+    },
+    {
+      "id": "bo15-004",
+      "stem": "A 20-year-old athlete reports painful muscle cramps that occur only during intense exercise. Muscle biopsy shows abnormal glycogen accumulation in skeletal muscle, and testing reveals deficiency of the muscle isoform of glycogen phosphorylase. Which of the following best explains the exertional symptoms?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Ammonia accumulates because transamination is impaired"
+        },
+        {
+          "label": "B",
+          "text": "Lysosomal enzymes are mistrafficked out of the cell"
+        },
+        {
+          "label": "C",
+          "text": "Muscle cannot liberate glucose substrates from glycogen"
+        },
+        {
+          "label": "D",
+          "text": "Muscle glycogen synthesis is blocked, depleting glycogen stores"
+        },
+        {
+          "label": "E",
+          "text": "Pyruvate kinase deficiency causes red-cell hemolysis"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "McArdle disease (type V glycogen storage disease) results from muscle glycogen phosphorylase deficiency.",
+        "whyCorrect": "Deficiency of the muscle isoform of glycogen phosphorylase (McArdle disease) prevents breakdown of glycogen, so glycogen accumulates and engorges the muscle. During exertion the muscle cannot provide sufficient glucose-derived substrate for ATP production, producing painful cramps.",
+        "whyWrongByChoice": {
+          "A": "Ammonia buildup relates to impaired transamination, not glycogen phosphorylase.",
+          "B": "Mistrafficking of lysosomal enzymes describes I-cell disease, a defect of post-translational mannose-6-phosphate tagging.",
+          "D": "The defect is in glycogen breakdown, not synthesis; glycogen accumulates rather than depletes.",
+          "E": "Pyruvate kinase deficiency affects red blood cells and causes hemolytic anemia, not exertional muscle cramps."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "McArdle disease",
+        "glycogen phosphorylase",
+        "glycogen storage disease"
+      ],
+      "topicId": "proteins-enzymatic-machines-and-protein-based-disorders-ii",
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II",
+      "tier": "core"
+    },
+    {
+      "id": "bo15-005",
+      "stem": "A patient develops jaundice, fatigue, and pallor after eating fava beans and is found to have an underlying red-cell enzyme deficiency causing acute hemolysis. Which plasma biomarker is most likely to be elevated as a result of the red-cell destruction?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Gamma-glutamyltransferase (GGT)"
+        },
+        {
+          "label": "B",
+          "text": "Lactate dehydrogenase (LDH)"
+        },
+        {
+          "label": "C",
+          "text": "Lipase"
+        },
+        {
+          "label": "D",
+          "text": "Lysosomal enzymes"
+        },
+        {
+          "label": "E",
+          "text": "Prostate-specific antigen (PSA)"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "LDH is highly enriched in red blood cells, so hemolysis releases it into plasma.",
+        "whyCorrect": "Lactate dehydrogenase is present in many tissues but is highly enriched in red blood cells, which depend on interconversion of lactate and pyruvate. When RBCs lyse (as in G6PD deficiency triggered by fava beans), circulating LDH rises.",
+        "whyWrongByChoice": {
+          "A": "GGT is a marker of hepatobiliary or pancreatic membranes, not red-cell lysis.",
+          "C": "Lipase indicates pancreatic pathology.",
+          "D": "Lysosomal enzymes in the circulation point to I-cell disease, not hemolysis.",
+          "E": "PSA is a marker of prostate tissue, not red-cell turnover."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "biomarkers",
+        "LDH",
+        "hemolysis"
+      ],
+      "topicId": "proteins-enzymatic-machines-and-protein-based-disorders-ii",
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II",
+      "tier": "core"
+    },
+    {
+      "id": "bo15-006",
+      "stem": "A 58-year-old man presents with acute crushing chest pain. The clinician wants an enzyme biomarker that is relatively specific for cardiac muscle injury. Which of the following is most appropriate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Alanine transaminase (ALT)"
+        },
+        {
+          "label": "B",
+          "text": "Alkaline phosphatase (ALP)"
+        },
+        {
+          "label": "C",
+          "text": "Creatine kinase-MB (CK-MB)"
+        },
+        {
+          "label": "D",
+          "text": "Gamma-glutamyltransferase (GGT)"
+        },
+        {
+          "label": "E",
+          "text": "Pancreatic alpha-amylase"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "CK-MB isoforms are a biomarker of cardiac (heart) injury such as myocardial infarction.",
+        "whyCorrect": "Creatine kinase-MB isoforms serve as a biomarker of the heart, and their rise in plasma indicates myocardial injury such as a myocardial infarction, matching this presentation.",
+        "whyWrongByChoice": {
+          "A": "ALT is a marker of liver injury.",
+          "B": "ALP reflects liver or bone disease.",
+          "D": "GGT indicates hepatobiliary (and sometimes pancreatic) disease, not myocardial injury.",
+          "E": "Pancreatic alpha-amylase points to pancreatic pathology."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "biomarkers",
+        "CK-MB",
+        "myocardial infarction"
+      ],
+      "topicId": "proteins-enzymatic-machines-and-protein-based-disorders-ii",
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II",
+      "tier": "core"
+    },
+    {
+      "id": "bo15-007",
+      "stem": "Two isozymes, A and B, act on the same substrate and have nearly identical Vmax values (~200 umol/L/s). Isozyme A reaches half of Vmax at a substrate concentration of 10 mM, whereas isozyme B reaches half of Vmax at 5 mM. Which isozyme has the higher affinity for the substrate, and why?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Isozyme A, because it has the larger Km"
+        },
+        {
+          "label": "B",
+          "text": "Isozyme A, because it has the smaller Km"
+        },
+        {
+          "label": "C",
+          "text": "Isozyme B, because it has the larger Km"
+        },
+        {
+          "label": "D",
+          "text": "Isozyme B, because it has the smaller Km"
+        },
+        {
+          "label": "E",
+          "text": "They have equal affinity because their Vmax values are equal"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Km is the substrate concentration at half of Vmax, and a lower Km means higher affinity.",
+        "whyCorrect": "Km equals the substrate concentration when velocity is one-half of Vmax. Isozyme B reaches half-Vmax at a lower substrate concentration (5 mM vs 10 mM), so it has the smaller Km. Because Km and affinity are inversely related, the smaller Km reflects higher affinity for the substrate.",
+        "whyWrongByChoice": {
+          "A": "A larger Km indicates lower, not higher, affinity.",
+          "B": "Isozyme A has the larger Km, not the smaller one, so this reasoning is wrong.",
+          "C": "Isozyme B has the smaller Km, not the larger one.",
+          "E": "Affinity is determined by Km, not by Vmax, so equal Vmax values do not imply equal affinity."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Michaelis-Menten",
+        "Km",
+        "affinity",
+        "isozymes"
+      ],
+      "topicId": "proteins-enzymatic-machines-and-protein-based-disorders-ii",
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II",
+      "tier": "core"
+    },
+    {
+      "id": "bo15-008",
+      "stem": "A student assumes that raising the substrate concentration to 10 times an enzyme's Km will drive a Michaelis-Menten reaction all the way to Vmax. For an enzyme obeying Michaelis-Menten kinetics, what velocity is actually achieved when [S] = 10 x Km?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "0.15 Vmax"
+        },
+        {
+          "label": "B",
+          "text": "0.33 Vmax"
+        },
+        {
+          "label": "C",
+          "text": "0.50 Vmax"
+        },
+        {
+          "label": "D",
+          "text": "0.91 Vmax"
+        },
+        {
+          "label": "E",
+          "text": "Exactly Vmax"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Because Vmax is an asymptote, even [S] = 10 x Km reaches only about 91% of Vmax.",
+        "whyCorrect": "Using V0 = Vmax[S]/(Km + [S]) with [S] = 10Km gives V0 = (Vmax x 10Km)/(Km + 10Km) = 10Vmax/11 = 0.91 Vmax. Vmax is only a theoretical asymptote that the curve approaches, so high substrate concentrations never fully reach it.",
+        "whyWrongByChoice": {
+          "A": "This underestimates the velocity; at 10x Km the enzyme is well past the low-substrate range.",
+          "B": "0.33 Vmax would correspond to a substrate concentration well below Km.",
+          "C": "0.50 Vmax occurs when [S] equals Km, not 10 times Km.",
+          "E": "Vmax is an asymptote and is only truly reached at infinite substrate; it cannot be achieved at a finite concentration."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "Michaelis-Menten",
+        "Vmax",
+        "kinetics calculation"
+      ],
+      "topicId": "proteins-enzymatic-machines-and-protein-based-disorders-ii",
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II",
+      "tier": "core"
+    },
+    {
+      "id": "bo15-009",
+      "stem": "An investigator plots reaction velocity against substrate concentration for an enzyme with quaternary structure and obtains a sigmoidal (S-shaped) curve rather than a hyperbolic one. Which property best explains why this enzyme does not obey Michaelis-Menten kinetics?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "An unusually high turnover number"
+        },
+        {
+          "label": "B",
+          "text": "Competitive inhibition by product"
+        },
+        {
+          "label": "C",
+          "text": "Cooperativity between subunits"
+        },
+        {
+          "label": "D",
+          "text": "Covalent modification by phosphorylation"
+        },
+        {
+          "label": "E",
+          "text": "Irreversible denaturation at high substrate"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Michaelis-Menten kinetics apply only to enzymes that lack cooperativity.",
+        "whyCorrect": "Michaelis-Menten kinetics only apply to enzymes that lack cooperativity. Multi-subunit enzymes with quaternary structure can show allostery between subunits, generating a sigmoidal curve (like hemoglobin's oxygen binding), whereas a non-cooperative monomer (like myoglobin) gives a hyperbolic curve.",
+        "whyWrongByChoice": {
+          "A": "A high turnover number affects how fast product forms, not the shape of the curve.",
+          "B": "Product inhibition alters apparent kinetics but does not itself produce a sigmoidal cooperativity curve.",
+          "D": "Phosphorylation is a regulatory modification but is not what makes the velocity curve sigmoidal.",
+          "E": "Denaturation would reduce activity rather than create a cooperative S-shaped curve."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "cooperativity",
+        "sigmoidal kinetics",
+        "allostery"
+      ],
+      "topicId": "proteins-enzymatic-machines-and-protein-based-disorders-ii",
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II",
+      "tier": "core"
+    },
+    {
+      "id": "bo15-010",
+      "stem": "A pharmacologist uses a Lineweaver-Burk (double-reciprocal) plot to characterize how a drug alters enzyme kinetics. On this plot, which parameter is represented by the x-intercept?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "-1/Km"
+        },
+        {
+          "label": "B",
+          "text": "1/Vmax"
+        },
+        {
+          "label": "C",
+          "text": "Km"
+        },
+        {
+          "label": "D",
+          "text": "Km/Vmax"
+        },
+        {
+          "label": "E",
+          "text": "Vmax"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "On a Lineweaver-Burk plot the x-intercept equals the negative reciprocal of Km.",
+        "whyCorrect": "The Lineweaver-Burk plot is a double reciprocal of the Michaelis-Menten plot. On it, the x-intercept equals -1/Km, the y-intercept equals 1/Vmax, and the slope equals Km/Vmax. This makes changes in Km and Vmax easier to detect when studying drugs that alter kinetics.",
+        "whyWrongByChoice": {
+          "B": "1/Vmax is the y-intercept, not the x-intercept.",
+          "C": "Km is obtained as the negative reciprocal of the x-intercept, not the x-intercept value itself.",
+          "D": "Km/Vmax is the slope of the line, not an intercept.",
+          "E": "Vmax itself is not read directly off an intercept; it is the reciprocal of the y-intercept."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Lineweaver-Burk",
+        "double reciprocal plot",
+        "Km"
+      ],
+      "topicId": "proteins-enzymatic-machines-and-protein-based-disorders-ii",
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II",
+      "tier": "core"
+    },
+    {
+      "id": "bo15-011",
+      "stem": "An enzyme's active site is lined with several aspartate and glutamate residues. Which of the following is the most likely chemical feature of its preferred substrate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A hydrophobic core that excludes water entirely"
+        },
+        {
+          "label": "B",
+          "text": "A region composed of several acidic (negatively charged) amino acid residues"
+        },
+        {
+          "label": "C",
+          "text": "A region composed of several basic (positively charged) amino acid residues"
+        },
+        {
+          "label": "D",
+          "text": "A region composed of several bulky, aromatic nonpolar residues"
+        },
+        {
+          "label": "E",
+          "text": "A region composed of several small, nonpolar residues"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "An active site rich in acidic residues favors binding a positively charged (basic) substrate.",
+        "whyCorrect": "Aspartate and glutamate have negatively charged, acidic side chains, so the active site is negatively charged. This favors recognition and binding of a positively charged substrate, such as one enriched in basic residues like lysine and arginine.",
+        "whyWrongByChoice": {
+          "A": "The active site is polar and charged here, so a purely hydrophobic, water-excluding substrate would not bind well.",
+          "B": "An acidic substrate would carry the same negative charge as the active site, causing repulsion instead of attraction.",
+          "D": "Bulky nonpolar residues would not favor association with the polar, negatively charged active site.",
+          "E": "Small nonpolar residues also lack the positive charge needed to complement an acidic active site."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "active site",
+        "substrate specificity",
+        "charge complementarity"
+      ],
+      "topicId": "proteins-enzymatic-machines-and-protein-based-disorders-ii",
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II",
+      "tier": "core"
+    },
+    {
+      "id": "bo15-012",
+      "stem": "After moderate drinking, blood ethanol reaches 10-20 mM, while alcohol dehydrogenase has a Km of about 1-2 mM for ethanol. Because [S] far exceeds Km, which factor is the rate-limiting determinant of ethanol clearance, and why does blood alcohol accumulate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cooperativity between alcohol dehydrogenase subunits at high substrate levels"
+        },
+        {
+          "label": "B",
+          "text": "Enzyme turnover, because the enzyme is saturated and operating near Vmax"
+        },
+        {
+          "label": "C",
+          "text": "Substrate availability, because the enzyme is far from saturation at these levels"
+        },
+        {
+          "label": "D",
+          "text": "The activation energy, which rises as ethanol accumulates in the blood"
+        },
+        {
+          "label": "E",
+          "text": "The Km of alcohol dehydrogenase, which increases as more ethanol is consumed"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "When [S] greatly exceeds Km the enzyme is saturated, so enzyme turnover becomes rate-limiting.",
+        "whyCorrect": "When substrate concentration exceeds Km, enzyme turnover (how fast the enzyme can operate) is the rate-limiting factor. Because ethanol (10-20 mM) far exceeds the Km of alcohol dehydrogenase (1-2 mM), the enzyme is saturated and working near Vmax, so alcohol builds up in the blood faster than it can be cleared.",
+        "whyWrongByChoice": {
+          "A": "The rate limitation here reflects saturation kinetics, not subunit cooperativity.",
+          "C": "Substrate availability is rate-limiting only when [S] is below Km; here [S] is well above Km.",
+          "D": "Activation energy is a fixed property lowered by the enzyme and does not rise with substrate accumulation.",
+          "E": "Km is an intrinsic constant of the enzyme and does not increase simply because more ethanol is consumed."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "rate-limiting step",
+        "enzyme saturation",
+        "alcohol dehydrogenase",
+        "Km"
+      ],
+      "topicId": "proteins-enzymatic-machines-and-protein-based-disorders-ii",
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II",
+      "tier": "core"
+    },
+    {
+      "id": "bo16-001",
+      "stem": "A researcher compares two isozymes that both catalyze the first step of glycolysis. Enzyme X, found in red blood cells and neurons, becomes half-maximally active at a very low glucose concentration, whereas enzyme Y, found in hepatocytes, requires a much higher glucose concentration to reach half-maximal activity. Which property best explains why enzyme X can phosphorylate glucose even during fasting?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Enzyme X binds glucose at an allosteric site rather than the active site"
+        },
+        {
+          "label": "B",
+          "text": "Enzyme X has a high Km, reflecting low affinity for glucose"
+        },
+        {
+          "label": "C",
+          "text": "Enzyme X has a higher Vmax than enzyme Y"
+        },
+        {
+          "label": "D",
+          "text": "Enzyme X has a low Km, reflecting high affinity for glucose"
+        },
+        {
+          "label": "E",
+          "text": "Enzyme X is only expressed when blood glucose is high"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Hexokinase's low Km gives it high glucose affinity, letting glucose-dependent cells trap glucose even at low blood levels.",
+        "whyCorrect": "A low Km means the enzyme reaches half-maximal velocity at a low substrate concentration, i.e., high affinity for glucose. Hexokinase (enzyme X) is expressed in neurons and RBCs, which rely on circulating glucose, so its low Km permits rapid conversion of glucose to glucose 6-phosphate even when blood glucose is low.",
+        "whyWrongByChoice": {
+          "A": "Both hexokinase and glucokinase phosphorylate glucose at the active site, not an allosteric site.",
+          "B": "A high Km indicates low affinity and describes glucokinase (enzyme Y), which cannot phosphorylate glucose efficiently when levels are low.",
+          "C": "Hexokinase actually has a lower Vmax than glucokinase; this prevents overaccumulation rather than explaining low-glucose function.",
+          "E": "Being active only at high glucose describes the liver's glucokinase, not the RBC/neuron enzyme."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "hexokinase",
+        "glucokinase",
+        "Km",
+        "glycolysis"
+      ],
+      "topicId": "proteins-enzymatic-machines-protein-based-disorders-ii",
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II",
+      "tier": "core"
+    },
+    {
+      "id": "bo16-002",
+      "stem": "In the liver, glucokinase (hexokinase IV) has both a higher Km and a higher Vmax than the hexokinase found in most other tissues. During a period of glucose abundance after a large meal, what is the physiological advantage of this kinetic profile for hepatocytes?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It allows the liver to trap glucose even when blood glucose concentrations are very low during fasting"
+        },
+        {
+          "label": "B",
+          "text": "It ensures the liver competes with neurons for the scarce glucose available during fasting"
+        },
+        {
+          "label": "C",
+          "text": "It makes the liver's rate of glucose phosphorylation independent of the blood glucose concentration entirely"
+        },
+        {
+          "label": "D",
+          "text": "It permits rapid, high-volume conversion of glucose to glucose 6-phosphate only when glucose is plentiful"
+        },
+        {
+          "label": "E",
+          "text": "It prevents the liver from ever forming glucose 6-phosphate from the glucose it absorbs"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Glucokinase's high Km plus high Vmax lets the liver phosphorylate glucose rapidly, but only when glucose is abundant, feeding storage pathways.",
+        "whyCorrect": "The high Km means glucokinase only becomes substantially active at elevated glucose (e.g., postprandial), which spares blood glucose during fasting. The high Vmax then allows fast, efficient accumulation of glucose 6-phosphate to supply anabolic storage pathways such as glycogen and lipid synthesis.",
+        "whyWrongByChoice": {
+          "A": "Trapping glucose at very low concentrations describes low-Km hexokinase, not high-Km glucokinase.",
+          "B": "The high Km specifically spares blood glucose for other tissues during fasting rather than competing with neurons.",
+          "C": "Glucokinase activity is strongly dependent on glucose concentration; it rises steeply as glucose increases.",
+          "E": "Glucokinase does form glucose 6-phosphate; it simply restricts this to high-glucose conditions."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "glucokinase",
+        "Vmax",
+        "liver",
+        "fasting"
+      ],
+      "topicId": "proteins-enzymatic-machines-protein-based-disorders-ii",
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II",
+      "tier": "core"
+    },
+    {
+      "id": "bo16-003",
+      "stem": "A pharmacologist studies a drug that binds reversibly and noncovalently to the active site of an enzyme and structurally resembles the natural substrate. On a Lineweaver-Burk plot, adding this drug shifts the x-intercept to be less negative but leaves the y-intercept unchanged. Which type of inhibitor is this drug?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Allosteric activator"
+        },
+        {
+          "label": "B",
+          "text": "Competitive inhibitor"
+        },
+        {
+          "label": "C",
+          "text": "Irreversible (suicide) inhibitor"
+        },
+        {
+          "label": "D",
+          "text": "Noncompetitive inhibitor"
+        },
+        {
+          "label": "E",
+          "text": "Uncompetitive inhibitor"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "A reversible active-site inhibitor that resembles substrate, raises apparent Km, and leaves Vmax unchanged is competitive.",
+        "whyCorrect": "Competitive inhibitors compete with substrate at the active site and commonly mimic its structure. On a Lineweaver-Burk plot, Vmax (y-intercept) is unchanged because excess substrate can still overcome the inhibitor, while the apparent Km rises, seen as a less negative x-intercept (-1/Km).",
+        "whyWrongByChoice": {
+          "A": "An activator would increase activity, not inhibit; it would not raise apparent Km.",
+          "C": "Irreversible/suicide inhibitors bind covalently, are not overcome by dilution, and decrease Vmax without changing Km.",
+          "D": "Noncompetitive inhibitors bind an allosteric site, leave Km unchanged, and decrease Vmax (increased y-intercept).",
+          "E": "Uncompetitive inhibitors decrease both Km and Vmax and bind only after substrate is bound."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "competitive inhibition",
+        "Lineweaver-Burk",
+        "Km"
+      ],
+      "topicId": "proteins-enzymatic-machines-protein-based-disorders-ii",
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II",
+      "tier": "core"
+    },
+    {
+      "id": "bo16-004",
+      "stem": "An enzyme is exposed to an inhibitor that binds an allosteric site, does not resemble the substrate, and cannot be overcome by increasing substrate concentration. The enzyme-substrate complex still forms normally. Which pair of kinetic changes is expected?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Km decreased, Vmax decreased"
+        },
+        {
+          "label": "B",
+          "text": "Km increased, Vmax increased"
+        },
+        {
+          "label": "C",
+          "text": "Km increased, Vmax unchanged"
+        },
+        {
+          "label": "D",
+          "text": "Km unchanged, Vmax decreased"
+        },
+        {
+          "label": "E",
+          "text": "Km unchanged, Vmax unchanged"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Noncompetitive inhibitors leave Km unchanged and decrease Vmax.",
+        "whyCorrect": "A noncompetitive inhibitor binds an allosteric site, changes enzyme shape, and reduces product formation regardless of substrate concentration. Because it does not compete at the active site, the enzyme-substrate complex forms normally and Km is unchanged, but Vmax falls because functional catalysis is reduced.",
+        "whyWrongByChoice": {
+          "A": "Decreased Km and decreased Vmax describes an uncompetitive inhibitor, which binds only after substrate is bound.",
+          "B": "No inhibitor increases Vmax; that would be activation.",
+          "C": "Increased Km with unchanged Vmax describes a competitive inhibitor.",
+          "E": "Unchanged Km and Vmax would mean no inhibitory effect at all."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "noncompetitive inhibition",
+        "Vmax",
+        "allosteric"
+      ],
+      "topicId": "proteins-enzymatic-machines-protein-based-disorders-ii",
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II",
+      "tier": "core"
+    },
+    {
+      "id": "bo16-005",
+      "stem": "A toxicology exam asks which single feature is shared by a reversible competitive inhibitor and an irreversible suicide inhibitor acting on the same enzyme. Which of the following is that shared feature?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Both are relieved by dilution"
+        },
+        {
+          "label": "B",
+          "text": "Both bind at an allosteric site"
+        },
+        {
+          "label": "C",
+          "text": "Both bind at the active site"
+        },
+        {
+          "label": "D",
+          "text": "Both increase the apparent Km of the enzyme"
+        },
+        {
+          "label": "E",
+          "text": "Both leave Vmax unchanged"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Competitive and suicide inhibitors both act at the active site and resemble the substrate.",
+        "whyCorrect": "Both a competitive enzyme inhibitor and an irreversible suicide inhibitor bind the active site, and to do so they chemically resemble the substrate to some extent. Their key difference is the bond formed: competitive inhibitors bind noncovalently and reversibly, while suicide inhibitors bind covalently and irreversibly.",
+        "whyWrongByChoice": {
+          "A": "Only the reversible competitive inhibitor is relieved by dilution; covalent suicide inhibition is not.",
+          "B": "Neither binds an allosteric site; both act at the active site.",
+          "D": "Only the competitive inhibitor raises apparent Km; the suicide inhibitor leaves Km unchanged.",
+          "E": "The competitive inhibitor leaves Vmax unchanged, but the suicide inhibitor decreases Vmax."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "competitive inhibition",
+        "suicide inhibitor",
+        "irreversible inhibition"
+      ],
+      "topicId": "proteins-enzymatic-machines-protein-based-disorders-ii",
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II",
+      "tier": "core"
+    },
+    {
+      "id": "bo16-006",
+      "stem": "A 60-year-old man is brought to the emergency department after ingesting an organophosphate pesticide. This class of poison, along with drugs such as allopurinol and aspirin, acts by binding covalently to an enzyme's active site so that the inhibition cannot be reversed by dilution. What is the expected effect on the enzyme system's kinetics?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Both Km and Vmax are increased"
+        },
+        {
+          "label": "B",
+          "text": "Enzyme function is fully restored by simply diluting the inhibitor"
+        },
+        {
+          "label": "C",
+          "text": "Km is decreased and Vmax is unchanged"
+        },
+        {
+          "label": "D",
+          "text": "Vmax is lowered while the affinity (Km) is unchanged"
+        },
+        {
+          "label": "E",
+          "text": "Vmax is unchanged while Km is increased"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Irreversible (suicide) inhibitors covalently remove functional enzyme, lowering Vmax without changing the Km of the remaining enzyme.",
+        "whyCorrect": "Irreversible inhibitors bind covalently and effectively subtract functional enzyme molecules from the mixture, so Vmax drops. The enzyme copies that remain unbound behave normally, so their affinity for substrate (Km) is unchanged. Organophosphates, allopurinol, and aspirin are cited as suicide inhibitors.",
+        "whyWrongByChoice": {
+          "A": "Increasing both Km and Vmax is not a recognized inhibition pattern.",
+          "B": "Covalent irreversible inhibition is not removed by dilution; recovery requires synthesis of new enzyme.",
+          "C": "Decreased Km with unchanged Vmax does not describe irreversible inhibition (it partially resembles uncompetitive inhibition).",
+          "E": "Unchanged Vmax with increased Km describes a reversible competitive inhibitor."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "suicide inhibitor",
+        "organophosphate",
+        "Vmax",
+        "irreversible inhibition"
+      ],
+      "topicId": "proteins-enzymatic-machines-protein-based-disorders-ii",
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II",
+      "tier": "core"
+    },
+    {
+      "id": "bo16-007",
+      "stem": "During a lecture on hepatic drug metabolism, phase I and phase II reactions are contrasted. Which statement most accurately distinguishes them?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Phase I and phase II reactions both must occur strictly in sequence and cannot occur independently"
+        },
+        {
+          "label": "B",
+          "text": "Phase I reactions conjugate polar groups; phase II reactions oxidize substrates"
+        },
+        {
+          "label": "C",
+          "text": "Phase I reactions decrease water solubility, while phase II reactions decrease it further"
+        },
+        {
+          "label": "D",
+          "text": "Phase I reactions oxidize/hydrolyze substrates, while phase II reactions covalently add polar groups"
+        },
+        {
+          "label": "E",
+          "text": "Phase II enzymes generate reactive oxygen species using NADPH, while phase I enzymes do not"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Phase I enzymes (CYP450) oxidize/hydrolyze xenobiotics; phase II enzymes conjugate polar groups to boost water solubility.",
+        "whyCorrect": "Phase I reactions transform molecules chiefly by oxidation, reduction, hydrolysis, or hydroxylation and are largely catalyzed by CYP450 enzymes. Phase II reactions are conjugations in which polar molecules such as glutathione, glucuronate, or sulfate are covalently linked to the substrate, increasing water solubility for excretion.",
+        "whyWrongByChoice": {
+          "A": "The brick states the pattern is generally sequential but that broad specificity allows phase II to occur apart from phase I in some cases.",
+          "B": "This reverses the two phases; oxidation is phase I and conjugation is phase II.",
+          "C": "Both phases increase water solubility to promote excretion, not decrease it.",
+          "E": "ROS generation and NADPH use are hallmarks of the CYP450 (phase I) enzymes, not phase II."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "phase I",
+        "phase II",
+        "detoxification",
+        "CYP450"
+      ],
+      "topicId": "proteins-enzymatic-machines-protein-based-disorders-ii",
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II",
+      "tier": "core"
+    },
+    {
+      "id": "bo16-008",
+      "stem": "A member of the CYP450 enzyme family is described as containing a heme prosthetic group, requiring NADPH as a coenzyme, being associated with ER membranes and mitochondria, and being inducible by substrate abundance. Which additional property is characteristic of all CYP450 enzymes and contributes to their potential cytotoxicity?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "They add glucuronate to bilirubin during phase II conjugation"
+        },
+        {
+          "label": "B",
+          "text": "They bind their substrate irreversibly and cannot be induced by it"
+        },
+        {
+          "label": "C",
+          "text": "They conjugate glutathione onto substrates during phase II metabolism"
+        },
+        {
+          "label": "D",
+          "text": "They generate a free-radical/reactive oxygen intermediate"
+        },
+        {
+          "label": "E",
+          "text": "They phosphorylate glucose to glucose 6-phosphate in hepatocytes"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "All CYP450 enzymes generate a free-radical/ROS intermediate that can be cytotoxic when it accumulates.",
+        "whyCorrect": "The brick lists that all CYP450 members oxidize substrate while reducing oxygen, require NADPH to produce a reduced active oxygen species that can form reactive oxygen species, and generate a free-radical intermediate that upon accumulation can be cytotoxic. This underlies liver damage from ethanol oxidation via CYP2E1.",
+        "whyWrongByChoice": {
+          "A": "Glucuronate addition to bilirubin is done by UDP-glucuronosyltransferase, a phase II enzyme.",
+          "B": "CYP450 enzymes are inducible by substrate abundance, so this statement is incorrect.",
+          "C": "Glutathione conjugation is a phase II reaction performed by glutathione S-transferase, not CYP450.",
+          "E": "Glucose phosphorylation is done by hexokinase/glucokinase, unrelated to CYP450."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "CYP450",
+        "reactive oxygen species",
+        "heme",
+        "NADPH"
+      ],
+      "topicId": "proteins-enzymatic-machines-protein-based-disorders-ii",
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II",
+      "tier": "core"
+    },
+    {
+      "id": "bo16-009",
+      "stem": "A 45-year-old man with heavy chronic alcohol use is being counseled about medication safety. He notes that at high levels of alcohol intake, a larger proportion of ingested ethanol is handled by CYP2E1 rather than alcohol dehydrogenase. Which statement about CYP2E1 best explains this shift and its clinical consequence?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "CYP2E1 conjugates ethanol with sulfate to make it water soluble"
+        },
+        {
+          "label": "B",
+          "text": "CYP2E1 has a higher Km and is induced by ethanol, so heavy drinking increases toxic by-product formation"
+        },
+        {
+          "label": "C",
+          "text": "CYP2E1 has a lower Km for ethanol than alcohol dehydrogenase, so it acts first at low ethanol levels"
+        },
+        {
+          "label": "D",
+          "text": "CYP2E1 is a phase II enzyme that inactivates ethanol without generating any reactive species"
+        },
+        {
+          "label": "E",
+          "text": "CYP2E1 is inhibited by ethanol, so heavy drinking decreases its activity"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "CYP2E1 has a higher Km for ethanol than ADH and is induced by ethanol, so heavy drinking shifts metabolism toward the microsomal system and its toxic by-products.",
+        "whyCorrect": "CYP2E1 has a much higher Km for ethanol (~10 mM) than ADH (~1 mM), so a greater fraction of ethanol is metabolized by CYP2E1 when levels are high. As a CYP450, it generates free-radical/toxic by-products, and because CYP2E1 is induced by ethanol, damage such as cirrhosis is enhanced with increased intake.",
+        "whyWrongByChoice": {
+          "A": "Sulfate conjugation is a phase II reaction (sulfotransferase), not the phase I oxidation performed by CYP2E1.",
+          "C": "CYP2E1 has a higher, not lower, Km than ADH, which is why it dominates only at high ethanol levels.",
+          "D": "CYP2E1 is a phase I CYP450 and does generate reactive/free-radical species that damage the liver.",
+          "E": "CYP2E1 is induced by ethanol, so activity increases, not decreases, with heavier intake."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "CYP2E1",
+        "ethanol",
+        "MEOS",
+        "Km",
+        "cirrhosis"
+      ],
+      "topicId": "proteins-enzymatic-machines-protein-based-disorders-ii",
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II",
+      "tier": "core"
+    },
+    {
+      "id": "bo16-010",
+      "stem": "A 55-year-old woman is stabilized on a benzodiazepine and a statin, both metabolized by CYP3A4. She begins drinking large amounts of fresh grapefruit juice daily. Which change in her drug metabolism is most likely, and why?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Grapefruit activates phase II conjugation, eliminating both of her drugs much faster"
+        },
+        {
+          "label": "B",
+          "text": "Grapefruit converts CYP3A4 into an irreversible inhibitor of hepatic hexokinase"
+        },
+        {
+          "label": "C",
+          "text": "Grapefruit has no effect because CYP3A4 metabolizes very few clinically used drugs"
+        },
+        {
+          "label": "D",
+          "text": "Grapefruit induces CYP3A4, lowering the blood levels of both of her drugs"
+        },
+        {
+          "label": "E",
+          "text": "Grapefruit inhibits CYP3A4, raising blood levels of her CYP3A4-metabolized drugs"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Grapefruit inhibits CYP3A4, so drugs cleared by CYP3A4 accumulate to higher blood levels.",
+        "whyCorrect": "Citrus fruits, especially grapefruit, contain components that inhibit the enzymatic contribution of CYP3A4. If a drug is predominantly inactivated by CYP3A4, inhibiting that enzyme reduces clearance and alters (raises) the drug's blood levels compared with previous experience. CYP3A4 acts on more drugs than any other CYP450 isoform.",
+        "whyWrongByChoice": {
+          "A": "Grapefruit's effect is on CYP3A4 (phase I), not on accelerating phase II conjugation.",
+          "B": "Grapefruit does not turn CYP3A4 into a hexokinase inhibitor; these enzymes are unrelated.",
+          "C": "CYP3A4 alone accounts for over one-third of hepatic CYP450 and acts on more drugs than any other isoform, so the effect is clinically significant.",
+          "D": "Grapefruit inhibits rather than induces CYP3A4; St. John's Wort is described as having an activating (inducing) effect."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "CYP3A4",
+        "grapefruit",
+        "drug interaction",
+        "enzyme inhibition"
+      ],
+      "topicId": "proteins-enzymatic-machines-protein-based-disorders-ii",
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II",
+      "tier": "core"
+    },
+    {
+      "id": "bo16-011",
+      "stem": "A 16-year-old boy is brought in with scleral icterus and elevated ALT and AST after taking a large amount of acetaminophen for muscle soreness. He denies alcohol use, and his HCT and MCV are normal. Testing later reveals a polymorphic, sub-optimal variant of UDP-glucuronosyltransferase. Which mechanism best explains his jaundice and elevated liver enzymes?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "CYP3A4 induction by acetaminophen destroys circulating red blood cells, releasing bilirubin"
+        },
+        {
+          "label": "B",
+          "text": "Excess glutathione directly damages hepatocytes, releasing ALT and AST into the blood"
+        },
+        {
+          "label": "C",
+          "text": "His defective phase II conjugation cannot keep pace, so acetaminophen is shunted to NAPQI"
+        },
+        {
+          "label": "D",
+          "text": "His hexokinase cannot phosphorylate glucose, causing hemolysis and resulting jaundice"
+        },
+        {
+          "label": "E",
+          "text": "Sulfotransferase overactivity converts bilirubin into a toxic free radical species"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "A weak UDP-glucuronosyltransferase variant overwhelmed by high acetaminophen impairs bilirubin conjugation and shunts drug to NAPQI, producing jaundice and liver injury.",
+        "whyCorrect": "UDP-glucuronosyltransferase conjugates bilirubin for excretion; a suboptimal variant plus an abundant xenobiotic (acetaminophen) prevents adequate bilirubin conjugation, causing jaundice. With conjugation overwhelmed, more acetaminophen is oxidized by CYP2E1 to NAPQI, and elevated liver enzymes reflect hepatic damage. Alcohol can potentiate this but is not required in individuals with such variants.",
+        "whyWrongByChoice": {
+          "A": "CYP3A4 is a drug-metabolizing phase I enzyme and does not lyse red blood cells; his RBC indices are normal.",
+          "B": "Glutathione is protective, neutralizing NAPQI; it does not directly damage hepatocytes.",
+          "D": "His normal HCT and MCV argue against hemolysis, and hexokinase deficiency is not the described mechanism; the defect is in phase II conjugation.",
+          "E": "Sulfotransferase is a normal phase II route; it does not convert bilirubin into a toxic radical."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "UDP-glucuronosyltransferase",
+        "bilirubin",
+        "jaundice",
+        "acetaminophen",
+        "NAPQI"
+      ],
+      "topicId": "proteins-enzymatic-machines-protein-based-disorders-ii",
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II",
+      "tier": "core"
+    },
+    {
+      "id": "bo16-012",
+      "stem": "A patient with a large acetaminophen overdose develops rising liver enzymes because the toxic metabolite NAPQI is accumulating. Which agent is the appropriate antidote, and by what mechanism does it work?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Allopurinol, because it competitively conjugates NAPQI with sulfate"
+        },
+        {
+          "label": "B",
+          "text": "Ethanol, because it inhibits CYP2E1 and stops NAPQI formation"
+        },
+        {
+          "label": "C",
+          "text": "Glucose, because hexokinase converts NAPQI to glucose 6-phosphate"
+        },
+        {
+          "label": "D",
+          "text": "Grapefruit juice, because it induces UDP-glucuronosyltransferase"
+        },
+        {
+          "label": "E",
+          "text": "N-acetylcysteine, because it rapidly replenishes glutathione stores"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "N-acetylcysteine replenishes GSH, which glutathione S-transferase uses to conjugate and detoxify NAPQI.",
+        "whyCorrect": "NAPQI is normally conjugated with glutathione by glutathione S-transferase (forming mercapturic acid), but this system is easily saturated in overdose, letting NAPQI bind cellular cysteines and cause damage. N-acetylcysteine rapidly replenishes GSH stores to counteract NAPQI accumulation, restoring the protective conjugation pathway.",
+        "whyWrongByChoice": {
+          "A": "Allopurinol is a suicide inhibitor of xanthine oxidase and does not conjugate NAPQI with sulfate.",
+          "B": "Ethanol induces CYP2E1, which would increase NAPQI formation; it is not an antidote here.",
+          "C": "Hexokinase phosphorylates glucose, not NAPQI; this pathway is unrelated to detoxification.",
+          "D": "Grapefruit juice inhibits CYP3A4 and does not induce UDP-glucuronosyltransferase; it would not detoxify NAPQI."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "N-acetylcysteine",
+        "glutathione",
+        "NAPQI",
+        "acetaminophen toxicity"
+      ],
+      "topicId": "proteins-enzymatic-machines-protein-based-disorders-ii",
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II",
+      "tier": "core"
+    },
+    {
+      "id": "bo17-001",
+      "stem": "A 34-year-old man has a reactive HIV screening immunoassay. Following laboratory protocol, a confirmatory test is performed in which proteins are denatured, given a uniform negative charge, separated through a gel by size, transferred to a membrane, and then probed with labeled antibodies. Which of the following techniques is being used?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Flow cytometry"
+        },
+        {
+          "label": "B",
+          "text": "Hemoglobin electrophoresis"
+        },
+        {
+          "label": "C",
+          "text": "Immunohistochemistry"
+        },
+        {
+          "label": "D",
+          "text": "Indirect ELISA"
+        },
+        {
+          "label": "E",
+          "text": "Western blot"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Western blot separates denatured proteins by size and detects them on a membrane with antibodies.",
+        "whyCorrect": "In western blotting, proteins are denatured, given a uniform negative charge by detergent, separated by size through a porous gel (largest proteins migrate least), transferred to a membrane, and probed with antibodies. HIV infection and Lyme disease still use western blotting as the confirmatory test.",
+        "whyWrongByChoice": {
+          "A": "Flow cytometry analyzes antigens on intact cells passed one at a time through a light source, not denatured proteins on a membrane.",
+          "B": "Hemoglobin electrophoresis separates proteins by charge and does not use antibodies or a membrane-transfer step.",
+          "C": "Immunohistochemistry stains antigens within a tissue biopsy examined by microscopy, not proteins run on a gel.",
+          "D": "ELISA uses an immobilized antigen and antibody binding in a plate; it does not separate proteins by size on a gel or membrane."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "western blot",
+        "protein detection",
+        "HIV"
+      ],
+      "topicId": "biotechniques-protein-detection",
+      "topicName": "Biotechniques: Protein Detection",
+      "tier": "core"
+    },
+    {
+      "id": "bo17-002",
+      "stem": "A 41-year-old woman with HIV requires monitoring of her absolute CD4+ T-cell count to guide therapy. The most appropriate laboratory method passes intact cells one at a time past a light source and uses labeled antibodies against surface markers to quantify how many cells express a given antigen. Which of the following techniques is this?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Enzymatic assay"
+        },
+        {
+          "label": "B",
+          "text": "Flow cytometry"
+        },
+        {
+          "label": "C",
+          "text": "Immunofluorescence of a biopsy"
+        },
+        {
+          "label": "D",
+          "text": "Indirect ELISA"
+        },
+        {
+          "label": "E",
+          "text": "Western blot"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Flow cytometry uniquely analyzes and counts antigens on intact cells one at a time.",
+        "whyCorrect": "Flow cytometry uses fluid dynamics to run individual cells past a light source; light scatter separates cells by size and granularity, and antibodies against markers such as CD4 quantify the number of cells expressing that antigen within a population.",
+        "whyWrongByChoice": {
+          "A": "An enzymatic assay quantifies enzyme activity against a standard and does not enumerate cells.",
+          "C": "Immunofluorescence localizes antigens within a fixed tissue biopsy by microscopy rather than counting cells in suspension.",
+          "D": "ELISA measures the abundance of a soluble antibody or antigen but does not detect antigens on intact cells.",
+          "E": "Western blot analyzes denatured proteins for size and cannot examine or count intact whole cells."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "flow cytometry",
+        "CD4",
+        "protein detection"
+      ],
+      "topicId": "biotechniques-protein-detection",
+      "topicName": "Biotechniques: Protein Detection",
+      "tier": "core"
+    },
+    {
+      "id": "bo17-003",
+      "stem": "As part of school health protocols, a student has a reactive (positive) hepatitis B titer by ELISA and is told no follow-up is needed, while a classmate is negative and must complete a vaccination series. Which of the following best explains the significance of the student's positive titer?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A protective concentration of anti-hepatitis B antibodies is present"
+        },
+        {
+          "label": "B",
+          "text": "Active hepatitis B viral replication is present and requires treatment"
+        },
+        {
+          "label": "C",
+          "text": "Hepatitis B viral surface protein was directly detected in the blood"
+        },
+        {
+          "label": "D",
+          "text": "The immune system has failed to respond to prior vaccination"
+        },
+        {
+          "label": "E",
+          "text": "The test measured the size of a hepatitis B protein"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "A titer measures the relative concentration of a patient's antibody; a positive result reflects protective immunity.",
+        "whyCorrect": "The ELISA measures the relative quantity of anti-hepatitis B antibodies, not the virus. A reactive titer means the student has a sufficient antibody concentration for protection, so no booster is needed. The negative classmate lacks antibodies and requires vaccination.",
+        "whyWrongByChoice": {
+          "B": "The titer detects antibodies, not the virus, so it does not indicate active viral replication.",
+          "C": "The clinic is not measuring for the virus or its surface protein; it is measuring the patient's antibodies.",
+          "D": "A positive titer indicates a successful, not failed, antibody response.",
+          "E": "ELISA measures antibody abundance; only western blot provides the size of a protein."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "ELISA",
+        "titer",
+        "immunity"
+      ],
+      "topicId": "biotechniques-protein-detection",
+      "topicName": "Biotechniques: Protein Detection",
+      "tier": "core"
+    },
+    {
+      "id": "bo17-004",
+      "stem": "A 6-year-old boy with a family history of sickle cell disease undergoes evaluation. The disorder is caused by an alteration in the beta-globin chain of hemoglobin. Which of the following amino acid changes at position 6 of the beta subunit is responsible?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A hydrophobic leucine is replaced by a polar serine"
+        },
+        {
+          "label": "B",
+          "text": "A negatively charged glutamate is replaced by a neutral valine"
+        },
+        {
+          "label": "C",
+          "text": "A neutral glutamine is replaced by a positively charged arginine"
+        },
+        {
+          "label": "D",
+          "text": "A neutral valine is replaced by a negatively charged glutamate"
+        },
+        {
+          "label": "E",
+          "text": "A positively charged lysine is replaced by a neutral glycine"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Sickle cell disease results from a single glutamate-to-valine substitution in beta-globin.",
+        "whyCorrect": "In sickle cell disease a negatively charged glutamate is replaced by a neutral, nonpolar valine within the beta subunit at position 6. This exposes a hydrophobic residue that drives HbS polymerization when deoxygenated.",
+        "whyWrongByChoice": {
+          "A": "Leucine and serine are not the residues involved in the sickle mutation.",
+          "C": "Glutamine and arginine are not the residues involved in the sickle mutation.",
+          "D": "This reverses the actual change; the normal glutamate is the residue lost, not gained.",
+          "E": "Lysine and glycine are not the residues involved in the sickle mutation."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "sickle cell",
+        "hemoglobin",
+        "mutation"
+      ],
+      "topicId": "biotechniques-protein-detection",
+      "topicName": "Biotechniques: Protein Detection",
+      "tier": "core"
+    },
+    {
+      "id": "bo17-005",
+      "stem": "A hematology laboratory uses gel electrophoresis to distinguish normal adult hemoglobin (HbA) from sickle hemoglobin (HbS). Because HbA and HbS are otherwise very similar molecules, which of the following properties allows the two forms to be separated by this technique?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Antibody specificity"
+        },
+        {
+          "label": "B",
+          "text": "Molecular size"
+        },
+        {
+          "label": "C",
+          "text": "Overall charge"
+        },
+        {
+          "label": "D",
+          "text": "Polarity"
+        },
+        {
+          "label": "E",
+          "text": "Quaternary shape"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Hemoglobin electrophoresis separates HbA from HbS on the basis of a difference in charge.",
+        "whyCorrect": "Electrophoresis separates proteins by their charge at a selected pH. Because HbS lacks the negatively charged glutamate present in HbA, it carries a more positive (less negative) overall charge and migrates differently, allowing the variants to be distinguished.",
+        "whyWrongByChoice": {
+          "A": "Hemoglobin electrophoresis relies on charge migration and does not use antibodies.",
+          "B": "The size difference between exchanging a glutamate for a valine is too small to resolve HbA from HbS.",
+          "D": "Although there is a slight polarity difference, hemoglobin electrophoresis does not separate proteins by polarity.",
+          "E": "HbA and HbS have the same tetrameric quaternary structure, so shape does not separate them."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "hemoglobin electrophoresis",
+        "sickle cell",
+        "charge"
+      ],
+      "topicId": "biotechniques-protein-detection",
+      "topicName": "Biotechniques: Protein Detection",
+      "tier": "core"
+    },
+    {
+      "id": "bo17-006",
+      "stem": "A 28-year-old asymptomatic woman undergoes hemoglobin electrophoresis during pregnancy screening. Her gel shows two distinct bands: one comigrating with the HbA reference and a second, more slowly migrating HbS band. Which of the following is the most likely genotype?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Absent beta-globin (no hemoglobin produced)"
+        },
+        {
+          "label": "B",
+          "text": "Beta-A / Beta-A (normal)"
+        },
+        {
+          "label": "C",
+          "text": "Beta-A / Beta-S (sickle cell trait)"
+        },
+        {
+          "label": "D",
+          "text": "Beta-S / Beta-S (sickle cell anemia)"
+        },
+        {
+          "label": "E",
+          "text": "Two identical HbS alleles with no HbA"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "A heterozygous carrier shows both HbA and HbS bands on electrophoresis.",
+        "whyCorrect": "A sample with both HbA and HbS bands indicates a heterozygous carrier (sickle cell trait, Beta-A/Beta-S). Carriers express both the normal and variant beta-globin and are typically asymptomatic.",
+        "whyWrongByChoice": {
+          "A": "Absent beta-globin production is not consistent with two visible hemoglobin bands.",
+          "B": "A normal Beta-A/Beta-A genotype would show only a single HbA band.",
+          "D": "Sickle cell anemia (Beta-S/Beta-S) produces only an HbS band, with no HbA band.",
+          "E": "Two HbS alleles with no HbA describes sickle cell anemia, which would lack the HbA band she displays."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "sickle cell trait",
+        "hemoglobin electrophoresis",
+        "genotype"
+      ],
+      "topicId": "biotechniques-protein-detection",
+      "topicName": "Biotechniques: Protein Detection",
+      "tier": "core"
+    },
+    {
+      "id": "bo17-007",
+      "stem": "On a hemoglobin electrophoresis gel, the sample is loaded near the positive pole and proteins migrate toward the negative pole. Compared with HbA, the HbS band is observed to travel farther from the positive pole. Which of the following best explains this migration pattern?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "HbS carries a more positive (less negative) charge than HbA"
+        },
+        {
+          "label": "B",
+          "text": "HbS has a greater net negative charge and is drawn to the positive pole"
+        },
+        {
+          "label": "C",
+          "text": "HbS has already polymerized into an insoluble mass"
+        },
+        {
+          "label": "D",
+          "text": "HbS is a larger tetramer that moves faster through the gel"
+        },
+        {
+          "label": "E",
+          "text": "HbS is bound by antibodies that pull it toward the negative pole"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Because HbS lacks a negative glutamate, its more positive charge shifts it away from the positive pole.",
+        "whyCorrect": "HbS lacks the negatively charged glutamate of HbA and therefore has a more positive overall charge. A less negative protein is drawn less strongly toward the positive pole, so HbS migrates farther from it (closer to the negative pole) than HbA.",
+        "whyWrongByChoice": {
+          "B": "HbS is less negative than HbA, not more negative, so it is not pulled harder toward the positive pole.",
+          "C": "Migration on the gel reflects charge of the soluble protein, not polymerization state.",
+          "D": "The size difference between the variants is negligible and does not explain the migration; separation here is by charge.",
+          "E": "Hemoglobin electrophoresis does not use antibodies to move the protein."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "hemoglobin electrophoresis",
+        "charge",
+        "sickle cell"
+      ],
+      "topicId": "biotechniques-protein-detection",
+      "topicName": "Biotechniques: Protein Detection",
+      "tier": "core"
+    },
+    {
+      "id": "bo17-008",
+      "stem": "A 9-year-old boy with sickle cell disease presents in a painful vaso-occlusive crisis after strenuous exercise. Understanding that the sickling process is driven by a hydrophobic interaction, which of the following best describes the underlying mechanism and a key therapeutic goal?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A frameshift truncates beta-globin; treatment requires enzyme replacement"
+        },
+        {
+          "label": "B",
+          "text": "Antibodies against RBCs cause hemolysis; treatment requires immunosuppression"
+        },
+        {
+          "label": "C",
+          "text": "Deoxygenated HbS exposes valine; treatment aims to raise oxygen saturation"
+        },
+        {
+          "label": "D",
+          "text": "Glutamate enters the hydrophobic pocket; treatment aims to reduce hydration"
+        },
+        {
+          "label": "E",
+          "text": "Oxygenated HbS polymerizes; treatment aims to lower oxygen saturation"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Deoxygenation exposes the sickle valine, driving HbS polymerization; increasing oxygenation reverses it.",
+        "whyCorrect": "When Hb is deoxygenated, a hydrophobic pocket forms. In HbS the abnormal valine is exposed to the polar environment and binds an adjacent deoxy-Hb tetramer, causing polymerization and rigid sickled RBCs. Because sickling is favored at low oxygen, a major intervention is to increase oxygen saturation (e.g., nasal cannula) and reduce exertion.",
+        "whyWrongByChoice": {
+          "A": "Sickle cell disease is a point mutation, not a frameshift, and beta-globin is produced full length.",
+          "B": "Sickling is due to HbS polymerization, not antibody-mediated hemolysis.",
+          "D": "It is the neutral valine, not glutamate, that interacts with the hydrophobic pocket in HbS.",
+          "E": "Polymerization occurs with deoxygenated, not oxygenated, HbS; oxygenation reverses sickling, so lowering oxygen would worsen it."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "sickle cell",
+        "pathophysiology",
+        "vaso-occlusion"
+      ],
+      "topicId": "biotechniques-protein-detection",
+      "topicName": "Biotechniques: Protein Detection",
+      "tier": "core"
+    },
+    {
+      "id": "bo17-009",
+      "stem": "A pathologist evaluates a breast biopsy to determine the tissue and cellular localization of a specific antigen for cancer staging. Antibodies are applied to the tissue section, and stained cells are examined under the microscope. Which of the following techniques is being used?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Enzymatic activity assay"
+        },
+        {
+          "label": "B",
+          "text": "Fluorescent flow cytometry"
+        },
+        {
+          "label": "C",
+          "text": "Immunohistochemistry"
+        },
+        {
+          "label": "D",
+          "text": "Indirect ELISA on serum"
+        },
+        {
+          "label": "E",
+          "text": "Western immunoblot"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Immunohistochemistry uses antibody-stained tissue biopsies to reveal antigen localization by microscopy.",
+        "whyCorrect": "Immunohistochemistry and immunofluorescence use a patient biopsy, apply antibodies, and examine the stained sample by microscopy to determine the relative localization of an antigen in tissue. These techniques are commonly used in pathology to stage cancer.",
+        "whyWrongByChoice": {
+          "A": "An enzymatic assay measures enzyme activity and does not visualize antigen location in tissue.",
+          "B": "Flow cytometry analyzes intact cells in suspension and does not preserve tissue architecture for localization.",
+          "D": "ELISA measures the abundance of a soluble antibody or antigen in a plate, not localization in tissue.",
+          "E": "Western blot provides antigen size from a protein mixture, not tissue localization."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "immunohistochemistry",
+        "biopsy",
+        "cancer staging"
+      ],
+      "topicId": "biotechniques-protein-detection",
+      "topicName": "Biotechniques: Protein Detection",
+      "tier": "core"
+    },
+    {
+      "id": "bo17-010",
+      "stem": "In an indirect ELISA, a laboratory-produced viral antigen is immobilized on a plastic surface and a patient's serum is added and incubated. After washing, which of the following steps allows the bound patient antibodies to be detected?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Applying a labeled anti-human antibody"
+        },
+        {
+          "label": "B",
+          "text": "Applying an electric field to migrate the antibodies by charge"
+        },
+        {
+          "label": "C",
+          "text": "Passing the sample one cell at a time past a laser"
+        },
+        {
+          "label": "D",
+          "text": "Separating the antibodies by size through a porous gel"
+        },
+        {
+          "label": "E",
+          "text": "Staining a tissue section and viewing it by microscopy"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Indirect ELISA discloses bound patient antibody using a labeled anti-human antibody that generates a color signal.",
+        "whyCorrect": "In an indirect ELISA, after the patient's antibodies bind the immobilized antigen, a labeled anti-human antibody is added to disclose the bound antibodies; a substrate then produces a color change, with a positive test showing color and a negative test remaining clear.",
+        "whyWrongByChoice": {
+          "B": "Charge-based migration in an electric field describes electrophoresis.",
+          "C": "Passing cells past a laser is flow cytometry, not ELISA.",
+          "D": "Size separation through a gel is a step in western blotting, not ELISA.",
+          "E": "Staining and microscopy of a tissue section describes immunohistochemistry."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "ELISA",
+        "antibody",
+        "detection"
+      ],
+      "topicId": "biotechniques-protein-detection",
+      "topicName": "Biotechniques: Protein Detection",
+      "tier": "core"
+    },
+    {
+      "id": "bo17-011",
+      "stem": "A 55-year-old man has a routine liver panel that reports ALT and AST values. Unlike western blotting or flow cytometry, this measurement provides no direct visualization of the protein. Which of the following best describes how these values are obtained?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "By counting the number of hepatocytes expressing the enzyme"
+        },
+        {
+          "label": "B",
+          "text": "By determining the molecular weight of each enzyme"
+        },
+        {
+          "label": "C",
+          "text": "By localizing the enzyme within a liver biopsy"
+        },
+        {
+          "label": "D",
+          "text": "By quantifying the enzyme's activity relative to a standard"
+        },
+        {
+          "label": "E",
+          "text": "By separating the enzymes on a charge-based gel"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Enzymatic assays report protein abundance as activity measured against a reference standard.",
+        "whyCorrect": "ALT and AST in liver panels are measured by enzymatic assays tailored to detect and quantify a specific enzyme. The consumption or conversion of a substrate is measured, and protein abundance is based on the extent of enzyme activity referenced to a standard, without visualizing the protein.",
+        "whyWrongByChoice": {
+          "A": "Counting cells that express a marker is flow cytometry, not an enzymatic assay.",
+          "B": "Molecular weight is provided by western blotting, not by an activity-based enzymatic assay.",
+          "C": "Localizing an enzyme within a biopsy describes immunohistochemistry.",
+          "E": "Charge-based gel separation describes electrophoresis, not an enzymatic activity assay."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "enzymatic assay",
+        "liver panel",
+        "protein detection"
+      ],
+      "topicId": "biotechniques-protein-detection",
+      "topicName": "Biotechniques: Protein Detection",
+      "tier": "core"
+    },
+    {
+      "id": "bo17-012",
+      "stem": "A researcher needs to confirm both the presence and the approximate molecular weight of a specific antigen within a complex protein mixture. Which of the following techniques is uniquely suited to provide the size of the detected antigen?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Flow cytometry"
+        },
+        {
+          "label": "B",
+          "text": "Hemoglobin electrophoresis"
+        },
+        {
+          "label": "C",
+          "text": "Immunofluorescence"
+        },
+        {
+          "label": "D",
+          "text": "Indirect ELISA"
+        },
+        {
+          "label": "E",
+          "text": "Western blot"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Western blot uniquely reports the molecular weight (size) of a detected antigen.",
+        "whyCorrect": "Because proteins are separated by size before antibody detection, western blot is the only listed technique that provides the molecular weight of an antigen within a mixture, in addition to confirming its presence.",
+        "whyWrongByChoice": {
+          "A": "Flow cytometry quantifies antigens on intact cells and does not give protein molecular weight.",
+          "B": "Hemoglobin electrophoresis separates by charge and is not used to report antigen size in a general protein mixture.",
+          "C": "Immunofluorescence shows antigen localization in tissue, not molecular weight.",
+          "D": "ELISA reports the relative abundance of an antibody or antigen but not its size."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "western blot",
+        "molecular weight",
+        "protein detection"
+      ],
+      "topicId": "biotechniques-protein-detection",
+      "topicName": "Biotechniques: Protein Detection",
+      "tier": "core"
+    }
+  ]
+}
