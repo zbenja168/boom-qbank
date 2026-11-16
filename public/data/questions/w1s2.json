@@ -141,7 +141,8 @@
       ],
       "topicId": "metabolic-overview-ii-oxphos",
       "topicName": "Metabolic Overview II: OXPHOS",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo03-004",
@@ -188,7 +189,8 @@
       ],
       "topicId": "metabolic-overview-ii-oxphos",
       "topicName": "Metabolic Overview II: OXPHOS",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo03-005",
@@ -235,7 +237,8 @@
       ],
       "topicId": "metabolic-overview-ii-oxphos",
       "topicName": "Metabolic Overview II: OXPHOS",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo03-006",
@@ -282,7 +285,8 @@
       ],
       "topicId": "metabolic-overview-ii-oxphos",
       "topicName": "Metabolic Overview II: OXPHOS",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo03-007",
@@ -329,7 +333,8 @@
       ],
       "topicId": "metabolic-overview-ii-oxphos",
       "topicName": "Metabolic Overview II: OXPHOS",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo03-008",
@@ -376,7 +381,8 @@
       ],
       "topicId": "metabolic-overview-ii-oxphos",
       "topicName": "Metabolic Overview II: OXPHOS",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo03-009",
@@ -423,7 +429,8 @@
       ],
       "topicId": "metabolic-overview-ii-oxphos",
       "topicName": "Metabolic Overview II: OXPHOS",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo03-010",
@@ -612,7 +619,8 @@
       ],
       "topicId": "oxphos-uncouplers-and-inhibitors",
       "topicName": "Metabolic Overview II: OXPHOS Uncouplers and Inhibitors",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo04-002",
@@ -708,7 +716,8 @@
       ],
       "topicId": "oxphos-uncouplers-and-inhibitors",
       "topicName": "Metabolic Overview II: OXPHOS Uncouplers and Inhibitors",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo04-004",
@@ -756,7 +765,8 @@
       ],
       "topicId": "oxphos-uncouplers-and-inhibitors",
       "topicName": "Metabolic Overview II: OXPHOS Uncouplers and Inhibitors",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo04-005",
@@ -804,7 +814,8 @@
       ],
       "topicId": "oxphos-uncouplers-and-inhibitors",
       "topicName": "Metabolic Overview II: OXPHOS Uncouplers and Inhibitors",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo04-006",
@@ -852,7 +863,8 @@
       ],
       "topicId": "oxphos-uncouplers-and-inhibitors",
       "topicName": "Metabolic Overview II: OXPHOS Uncouplers and Inhibitors",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo04-007",
@@ -900,7 +912,8 @@
       ],
       "topicId": "oxphos-uncouplers-and-inhibitors",
       "topicName": "Metabolic Overview II: OXPHOS Uncouplers and Inhibitors",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo04-008",
@@ -948,7 +961,8 @@
       ],
       "topicId": "oxphos-uncouplers-and-inhibitors",
       "topicName": "Metabolic Overview II: OXPHOS Uncouplers and Inhibitors",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo04-009",
@@ -1140,7 +1154,8 @@
       ],
       "topicId": "oxphos-uncouplers-and-inhibitors",
       "topicName": "Metabolic Overview II: OXPHOS Uncouplers and Inhibitors",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     }
   ]
 }

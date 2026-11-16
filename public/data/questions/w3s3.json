@@ -48,7 +48,8 @@
       ],
       "topicId": "lipids-and-lipid-metabolism-introduction",
       "topicName": "Lipids and Lipid Metabolism Introduction",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo22-002",
@@ -96,7 +97,8 @@
       ],
       "topicId": "lipids-and-lipid-metabolism-introduction",
       "topicName": "Lipids and Lipid Metabolism Introduction",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo22-003",
@@ -144,7 +146,8 @@
       ],
       "topicId": "lipids-and-lipid-metabolism-introduction",
       "topicName": "Lipids and Lipid Metabolism Introduction",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo22-004",
@@ -192,7 +195,8 @@
       ],
       "topicId": "lipids-and-lipid-metabolism-introduction",
       "topicName": "Lipids and Lipid Metabolism Introduction",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo22-005",
@@ -240,7 +244,8 @@
       ],
       "topicId": "lipids-and-lipid-metabolism-introduction",
       "topicName": "Lipids and Lipid Metabolism Introduction",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo22-006",
@@ -288,7 +293,8 @@
       ],
       "topicId": "lipids-and-lipid-metabolism-introduction",
       "topicName": "Lipids and Lipid Metabolism Introduction",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo22-007",
@@ -336,7 +342,8 @@
       ],
       "topicId": "lipids-and-lipid-metabolism-introduction",
       "topicName": "Lipids and Lipid Metabolism Introduction",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo22-008",
@@ -384,7 +391,8 @@
       ],
       "topicId": "lipids-and-lipid-metabolism-introduction",
       "topicName": "Lipids and Lipid Metabolism Introduction",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo22-009",
@@ -432,7 +440,8 @@
       ],
       "topicId": "lipids-and-lipid-metabolism-introduction",
       "topicName": "Lipids and Lipid Metabolism Introduction",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo22-010",
@@ -623,7 +632,8 @@
       ],
       "topicId": "cholesterol-synthesis-and-ketone-bodies",
       "topicName": "Lipids and Lipid Metabolism: Cholesterol Synthesis and Ketone Bodies",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo23-002",
@@ -670,7 +680,8 @@
       ],
       "topicId": "cholesterol-synthesis-and-ketone-bodies",
       "topicName": "Lipids and Lipid Metabolism: Cholesterol Synthesis and Ketone Bodies",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo23-003",
@@ -717,7 +728,8 @@
       ],
       "topicId": "cholesterol-synthesis-and-ketone-bodies",
       "topicName": "Lipids and Lipid Metabolism: Cholesterol Synthesis and Ketone Bodies",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo23-004",
@@ -858,7 +870,8 @@
       ],
       "topicId": "cholesterol-synthesis-and-ketone-bodies",
       "topicName": "Lipids and Lipid Metabolism: Cholesterol Synthesis and Ketone Bodies",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo23-007",
@@ -952,7 +965,8 @@
       ],
       "topicId": "cholesterol-synthesis-and-ketone-bodies",
       "topicName": "Lipids and Lipid Metabolism: Cholesterol Synthesis and Ketone Bodies",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo23-009",
@@ -999,7 +1013,8 @@
       ],
       "topicId": "cholesterol-synthesis-and-ketone-bodies",
       "topicName": "Lipids and Lipid Metabolism: Cholesterol Synthesis and Ketone Bodies",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo23-010",
@@ -1046,7 +1061,8 @@
       ],
       "topicId": "cholesterol-synthesis-and-ketone-bodies",
       "topicName": "Lipids and Lipid Metabolism: Cholesterol Synthesis and Ketone Bodies",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo23-011",
@@ -1093,7 +1109,8 @@
       ],
       "topicId": "cholesterol-synthesis-and-ketone-bodies",
       "topicName": "Lipids and Lipid Metabolism: Cholesterol Synthesis and Ketone Bodies",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo23-012",
@@ -1187,7 +1204,8 @@
       ],
       "topicId": "boom-lipids-and-lipid-metabolism-introduction-3-of-3",
       "topicName": "BOOM: Lipids and Lipid Metabolism Introduction (3 of 3)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo24-002",
@@ -1328,7 +1346,8 @@
       ],
       "topicId": "boom-lipids-and-lipid-metabolism-introduction-3-of-3",
       "topicName": "BOOM: Lipids and Lipid Metabolism Introduction (3 of 3)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo24-005",
@@ -1376,7 +1395,8 @@
       ],
       "topicId": "boom-lipids-and-lipid-metabolism-introduction-3-of-3",
       "topicName": "BOOM: Lipids and Lipid Metabolism Introduction (3 of 3)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo24-006",
@@ -1472,7 +1492,8 @@
       ],
       "topicId": "boom-lipids-and-lipid-metabolism-introduction-3-of-3",
       "topicName": "BOOM: Lipids and Lipid Metabolism Introduction (3 of 3)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo24-008",
@@ -1520,7 +1541,8 @@
       ],
       "topicId": "boom-lipids-and-lipid-metabolism-introduction-3-of-3",
       "topicName": "BOOM: Lipids and Lipid Metabolism Introduction (3 of 3)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo24-009",
@@ -1568,7 +1590,8 @@
       ],
       "topicId": "boom-lipids-and-lipid-metabolism-introduction-3-of-3",
       "topicName": "BOOM: Lipids and Lipid Metabolism Introduction (3 of 3)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo24-010",

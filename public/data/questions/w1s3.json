@@ -47,7 +47,8 @@
       ],
       "topicId": "metabolic-overview-iii-o2-delivery-1-of-2",
       "topicName": "Metabolic Overview III: O2 Delivery (1 of 2)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo05-002",
@@ -94,7 +95,8 @@
       ],
       "topicId": "metabolic-overview-iii-o2-delivery-1-of-2",
       "topicName": "Metabolic Overview III: O2 Delivery (1 of 2)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo05-003",
@@ -235,7 +237,8 @@
       ],
       "topicId": "metabolic-overview-iii-o2-delivery-1-of-2",
       "topicName": "Metabolic Overview III: O2 Delivery (1 of 2)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo05-006",
@@ -282,7 +285,8 @@
       ],
       "topicId": "metabolic-overview-iii-o2-delivery-1-of-2",
       "topicName": "Metabolic Overview III: O2 Delivery (1 of 2)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo05-007",
@@ -329,7 +333,8 @@
       ],
       "topicId": "metabolic-overview-iii-o2-delivery-1-of-2",
       "topicName": "Metabolic Overview III: O2 Delivery (1 of 2)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo05-008",
@@ -376,7 +381,8 @@
       ],
       "topicId": "metabolic-overview-iii-o2-delivery-1-of-2",
       "topicName": "Metabolic Overview III: O2 Delivery (1 of 2)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo05-009",
@@ -423,7 +429,8 @@
       ],
       "topicId": "metabolic-overview-iii-o2-delivery-1-of-2",
       "topicName": "Metabolic Overview III: O2 Delivery (1 of 2)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo05-010",
@@ -470,7 +477,8 @@
       ],
       "topicId": "metabolic-overview-iii-o2-delivery-1-of-2",
       "topicName": "Metabolic Overview III: O2 Delivery (1 of 2)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo05-011",
@@ -517,7 +525,8 @@
       ],
       "topicId": "metabolic-overview-iii-o2-delivery-1-of-2",
       "topicName": "Metabolic Overview III: O2 Delivery (1 of 2)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo05-012",
@@ -564,7 +573,8 @@
       ],
       "topicId": "metabolic-overview-iii-o2-delivery-1-of-2",
       "topicName": "Metabolic Overview III: O2 Delivery (1 of 2)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo06-001",
@@ -611,7 +621,8 @@
       ],
       "topicId": "anemia-mcv-classification-b-vitamins",
       "topicName": "BOOM: Metabolic Overview III - O2 Delivery (2 of 2): Anemia, MCV Classification, and the B Vitamins",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo06-002",
@@ -706,7 +717,8 @@
       ],
       "topicId": "anemia-mcv-classification-b-vitamins",
       "topicName": "BOOM: Metabolic Overview III - O2 Delivery (2 of 2): Anemia, MCV Classification, and the B Vitamins",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo06-004",
@@ -754,7 +766,8 @@
       ],
       "topicId": "anemia-mcv-classification-b-vitamins",
       "topicName": "BOOM: Metabolic Overview III - O2 Delivery (2 of 2): Anemia, MCV Classification, and the B Vitamins",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo06-005",
@@ -802,7 +815,8 @@
       ],
       "topicId": "anemia-mcv-classification-b-vitamins",
       "topicName": "BOOM: Metabolic Overview III - O2 Delivery (2 of 2): Anemia, MCV Classification, and the B Vitamins",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo06-006",
@@ -849,7 +863,8 @@
       ],
       "topicId": "anemia-mcv-classification-b-vitamins",
       "topicName": "BOOM: Metabolic Overview III - O2 Delivery (2 of 2): Anemia, MCV Classification, and the B Vitamins",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo06-007",
@@ -897,7 +912,8 @@
       ],
       "topicId": "anemia-mcv-classification-b-vitamins",
       "topicName": "BOOM: Metabolic Overview III - O2 Delivery (2 of 2): Anemia, MCV Classification, and the B Vitamins",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo06-008",
@@ -1087,7 +1103,8 @@
       ],
       "topicId": "anemia-mcv-classification-b-vitamins",
       "topicName": "BOOM: Metabolic Overview III - O2 Delivery (2 of 2): Anemia, MCV Classification, and the B Vitamins",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo06-012",

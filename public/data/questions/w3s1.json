@@ -141,7 +141,8 @@
       ],
       "topicId": "carbohydrates-and-carbohydrate-metabolism-overview-i",
       "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo18-004",
@@ -189,7 +190,8 @@
       ],
       "topicId": "carbohydrates-and-carbohydrate-metabolism-overview-i",
       "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo18-005",
@@ -237,7 +239,8 @@
       ],
       "topicId": "carbohydrates-and-carbohydrate-metabolism-overview-i",
       "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo18-006",
@@ -284,7 +287,8 @@
       ],
       "topicId": "carbohydrates-and-carbohydrate-metabolism-overview-i",
       "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo18-007",
@@ -331,7 +335,8 @@
       ],
       "topicId": "carbohydrates-and-carbohydrate-metabolism-overview-i",
       "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo18-008",
@@ -378,7 +383,8 @@
       ],
       "topicId": "carbohydrates-and-carbohydrate-metabolism-overview-i",
       "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo18-009",
@@ -426,7 +432,8 @@
       ],
       "topicId": "carbohydrates-and-carbohydrate-metabolism-overview-i",
       "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo18-010",
@@ -568,7 +575,8 @@
       ],
       "topicId": "carbohydrates-and-carbohydrate-metabolism-overview-i",
       "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo19-001",
@@ -615,7 +623,8 @@
       ],
       "topicId": "glycogen-lactose-intolerance-galactosemia",
       "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I: Glycogen, Lactose Intolerance, and Galactosemia",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo19-002",
@@ -662,7 +671,8 @@
       ],
       "topicId": "glycogen-lactose-intolerance-galactosemia",
       "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I: Glycogen, Lactose Intolerance, and Galactosemia",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo19-003",
@@ -709,7 +719,8 @@
       ],
       "topicId": "glycogen-lactose-intolerance-galactosemia",
       "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I: Glycogen, Lactose Intolerance, and Galactosemia",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo19-004",
@@ -850,7 +861,8 @@
       ],
       "topicId": "glycogen-lactose-intolerance-galactosemia",
       "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I: Glycogen, Lactose Intolerance, and Galactosemia",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo19-007",
@@ -944,7 +956,8 @@
       ],
       "topicId": "glycogen-lactose-intolerance-galactosemia",
       "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I: Glycogen, Lactose Intolerance, and Galactosemia",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo19-009",
@@ -991,7 +1004,8 @@
       ],
       "topicId": "glycogen-lactose-intolerance-galactosemia",
       "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I: Glycogen, Lactose Intolerance, and Galactosemia",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo19-010",
@@ -1085,7 +1099,8 @@
       ],
       "topicId": "glycogen-lactose-intolerance-galactosemia",
       "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I: Glycogen, Lactose Intolerance, and Galactosemia",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo19-012",
@@ -1132,7 +1147,8 @@
       ],
       "topicId": "glycogen-lactose-intolerance-galactosemia",
       "topicName": "Carbohydrates and Carbohydrate Metabolism Overview I: Glycogen, Lactose Intolerance, and Galactosemia",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     }
   ]
 }

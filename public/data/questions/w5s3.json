@@ -47,7 +47,8 @@
       ],
       "topicId": "inborn-errors-of-amino-acid-metabolism",
       "topicName": "Inborn Errors of Amino Acid Metabolism",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo34-002",
@@ -94,7 +95,8 @@
       ],
       "topicId": "inborn-errors-of-amino-acid-metabolism",
       "topicName": "Inborn Errors of Amino Acid Metabolism",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo34-003",
@@ -141,7 +143,8 @@
       ],
       "topicId": "inborn-errors-of-amino-acid-metabolism",
       "topicName": "Inborn Errors of Amino Acid Metabolism",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo34-004",
@@ -188,7 +191,8 @@
       ],
       "topicId": "inborn-errors-of-amino-acid-metabolism",
       "topicName": "Inborn Errors of Amino Acid Metabolism",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo34-005",
@@ -235,7 +239,8 @@
       ],
       "topicId": "inborn-errors-of-amino-acid-metabolism",
       "topicName": "Inborn Errors of Amino Acid Metabolism",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo34-006",
@@ -329,7 +334,8 @@
       ],
       "topicId": "inborn-errors-of-amino-acid-metabolism",
       "topicName": "Inborn Errors of Amino Acid Metabolism",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo34-008",
@@ -376,7 +382,8 @@
       ],
       "topicId": "inborn-errors-of-amino-acid-metabolism",
       "topicName": "Inborn Errors of Amino Acid Metabolism",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo34-009",
@@ -423,7 +430,8 @@
       ],
       "topicId": "inborn-errors-of-amino-acid-metabolism",
       "topicName": "Inborn Errors of Amino Acid Metabolism",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo34-010",
@@ -564,7 +572,8 @@
       ],
       "topicId": "inborn-errors-of-amino-acid-metabolism",
       "topicName": "Inborn Errors of Amino Acid Metabolism",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     }
   ]
 }

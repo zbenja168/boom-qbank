@@ -95,7 +95,8 @@
       ],
       "topicId": "carbohydrate-metabolism-overview-ii",
       "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo20-003",
@@ -143,7 +144,8 @@
       ],
       "topicId": "carbohydrate-metabolism-overview-ii",
       "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo20-004",
@@ -190,7 +192,8 @@
       ],
       "topicId": "carbohydrate-metabolism-overview-ii",
       "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo20-005",
@@ -331,7 +334,8 @@
       ],
       "topicId": "carbohydrate-metabolism-overview-ii",
       "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo20-008",
@@ -427,7 +431,8 @@
       ],
       "topicId": "carbohydrate-metabolism-overview-ii",
       "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo20-010",
@@ -474,7 +479,8 @@
       ],
       "topicId": "carbohydrate-metabolism-overview-ii",
       "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo20-011",
@@ -522,7 +528,8 @@
       ],
       "topicId": "carbohydrate-metabolism-overview-ii",
       "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo20-012",
@@ -570,7 +577,8 @@
       ],
       "topicId": "carbohydrate-metabolism-overview-ii",
       "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo21-001",
@@ -617,7 +625,8 @@
       ],
       "topicId": "carbohydrate-metabolism-fructose-polyol-disorders",
       "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II: Fructose, HFCS, the Polyol Pathway, and Fructose Disorders",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo21-002",
@@ -761,7 +770,8 @@
       ],
       "topicId": "carbohydrate-metabolism-fructose-polyol-disorders",
       "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II: Fructose, HFCS, the Polyol Pathway, and Fructose Disorders",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo21-005",
@@ -905,7 +915,8 @@
       ],
       "topicId": "carbohydrate-metabolism-fructose-polyol-disorders",
       "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II: Fructose, HFCS, the Polyol Pathway, and Fructose Disorders",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo21-008",
@@ -953,7 +964,8 @@
       ],
       "topicId": "carbohydrate-metabolism-fructose-polyol-disorders",
       "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II: Fructose, HFCS, the Polyol Pathway, and Fructose Disorders",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo21-009",
@@ -1002,7 +1014,8 @@
       ],
       "topicId": "carbohydrate-metabolism-fructose-polyol-disorders",
       "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II: Fructose, HFCS, the Polyol Pathway, and Fructose Disorders",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo21-010",
@@ -1098,7 +1111,8 @@
       ],
       "topicId": "carbohydrate-metabolism-fructose-polyol-disorders",
       "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II: Fructose, HFCS, the Polyol Pathway, and Fructose Disorders",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo21-012",
@@ -1146,7 +1160,8 @@
       ],
       "topicId": "carbohydrate-metabolism-fructose-polyol-disorders",
       "topicName": "Carbohydrates and Carbohydrate Metabolism Overview II: Fructose, HFCS, the Polyol Pathway, and Fructose Disorders",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     }
   ]
 }

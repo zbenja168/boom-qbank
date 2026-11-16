@@ -47,7 +47,8 @@
       ],
       "topicId": "genomic-imprinting-disorders",
       "topicName": "Genomic Imprinting Disorders",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo51-002",
@@ -94,7 +95,8 @@
       ],
       "topicId": "genomic-imprinting-disorders",
       "topicName": "Genomic Imprinting Disorders",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo51-003",
@@ -141,7 +143,8 @@
       ],
       "topicId": "genomic-imprinting-disorders",
       "topicName": "Genomic Imprinting Disorders",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo51-004",
@@ -189,7 +192,8 @@
       ],
       "topicId": "genomic-imprinting-disorders",
       "topicName": "Genomic Imprinting Disorders",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo51-005",
@@ -236,7 +240,8 @@
       ],
       "topicId": "genomic-imprinting-disorders",
       "topicName": "Genomic Imprinting Disorders",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo51-006",
@@ -377,7 +382,8 @@
       ],
       "topicId": "genomic-imprinting-disorders",
       "topicName": "Genomic Imprinting Disorders",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo51-009",
@@ -424,7 +430,8 @@
       ],
       "topicId": "genomic-imprinting-disorders",
       "topicName": "Genomic Imprinting Disorders",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo51-010",
@@ -471,7 +478,8 @@
       ],
       "topicId": "genomic-imprinting-disorders",
       "topicName": "Genomic Imprinting Disorders",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo51-011",
@@ -661,7 +669,8 @@
       ],
       "topicId": "multifactorial-disorders",
       "topicName": "Multifactorial Disorders",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo52-003",
@@ -708,7 +717,8 @@
       ],
       "topicId": "multifactorial-disorders",
       "topicName": "Multifactorial Disorders",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo52-004",
@@ -756,7 +766,8 @@
       ],
       "topicId": "multifactorial-disorders",
       "topicName": "Multifactorial Disorders",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo52-005",
@@ -803,7 +814,8 @@
       ],
       "topicId": "multifactorial-disorders",
       "topicName": "Multifactorial Disorders",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo52-006",
@@ -850,7 +862,8 @@
       ],
       "topicId": "multifactorial-disorders",
       "topicName": "Multifactorial Disorders",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo52-007",
@@ -897,7 +910,8 @@
       ],
       "topicId": "multifactorial-disorders",
       "topicName": "Multifactorial Disorders",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo52-008",
@@ -944,7 +958,8 @@
       ],
       "topicId": "multifactorial-disorders",
       "topicName": "Multifactorial Disorders",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo52-009",
@@ -991,7 +1006,8 @@
       ],
       "topicId": "multifactorial-disorders",
       "topicName": "Multifactorial Disorders",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo52-010",
@@ -1180,7 +1196,8 @@
       ],
       "topicId": "multifactorial-disorders-b59",
       "topicName": "Multifactorial Disorders",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo59-002",
@@ -1321,7 +1338,8 @@
       ],
       "topicId": "multifactorial-disorders-b59",
       "topicName": "Multifactorial Disorders",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo59-005",
@@ -1415,7 +1433,8 @@
       ],
       "topicId": "multifactorial-disorders-b59",
       "topicName": "Multifactorial Disorders",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo59-007",
@@ -1698,7 +1717,8 @@
       ],
       "topicId": "multifactorial-disorders-b59",
       "topicName": "Multifactorial Disorders",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo53-001",
@@ -1744,7 +1764,8 @@
       ],
       "topicId": "population-genetics",
       "topicName": "Population Genetics",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo53-002",
@@ -1790,7 +1811,8 @@
       ],
       "topicId": "population-genetics",
       "topicName": "Population Genetics",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo53-003",
@@ -1836,7 +1858,8 @@
       ],
       "topicId": "population-genetics",
       "topicName": "Population Genetics",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo53-004",
@@ -1928,7 +1951,8 @@
       ],
       "topicId": "population-genetics",
       "topicName": "Population Genetics",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo53-006",
@@ -1974,7 +1998,8 @@
       ],
       "topicId": "population-genetics",
       "topicName": "Population Genetics",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo53-007",
@@ -2021,7 +2046,8 @@
       ],
       "topicId": "population-genetics",
       "topicName": "Population Genetics",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo53-008",
@@ -2068,7 +2094,8 @@
       ],
       "topicId": "population-genetics",
       "topicName": "Population Genetics",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo53-009",
@@ -2116,7 +2143,8 @@
       ],
       "topicId": "population-genetics",
       "topicName": "Population Genetics",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo53-010",
@@ -2208,7 +2236,8 @@
       ],
       "topicId": "population-genetics",
       "topicName": "Population Genetics",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo53-012",
@@ -2254,7 +2283,8 @@
       ],
       "topicId": "population-genetics",
       "topicName": "Population Genetics",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo60-001",
@@ -2301,7 +2331,8 @@
       ],
       "topicId": "population-genetics-b60",
       "topicName": "Population Genetics",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo60-002",
@@ -2348,7 +2379,8 @@
       ],
       "topicId": "population-genetics-b60",
       "topicName": "Population Genetics",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo60-003",
@@ -2442,7 +2474,8 @@
       ],
       "topicId": "population-genetics-b60",
       "topicName": "Population Genetics",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo60-005",
@@ -2678,7 +2711,8 @@
       ],
       "topicId": "population-genetics-b60",
       "topicName": "Population Genetics",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo60-010",

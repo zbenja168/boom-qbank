@@ -47,7 +47,8 @@
       ],
       "topicId": "metabolic-overview-i-general-reactions",
       "topicName": "Metabolic Overview I: General Reactions",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo01-002",
@@ -141,7 +142,8 @@
       ],
       "topicId": "metabolic-overview-i-general-reactions",
       "topicName": "Metabolic Overview I: General Reactions",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo01-004",
@@ -189,7 +191,8 @@
       ],
       "topicId": "metabolic-overview-i-general-reactions",
       "topicName": "Metabolic Overview I: General Reactions",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo01-005",
@@ -283,7 +286,8 @@
       ],
       "topicId": "metabolic-overview-i-general-reactions",
       "topicName": "Metabolic Overview I: General Reactions",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo01-007",
@@ -426,7 +430,8 @@
       ],
       "topicId": "metabolic-overview-i-general-reactions",
       "topicName": "Metabolic Overview I: General Reactions",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo01-010",
@@ -474,7 +479,8 @@
       ],
       "topicId": "metabolic-overview-i-general-reactions",
       "topicName": "Metabolic Overview I: General Reactions",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo01-011",
@@ -521,7 +527,8 @@
       ],
       "topicId": "metabolic-overview-i-general-reactions",
       "topicName": "Metabolic Overview I: General Reactions",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo01-012",
@@ -569,7 +576,8 @@
       ],
       "topicId": "metabolic-overview-i-general-reactions",
       "topicName": "Metabolic Overview I: General Reactions",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo02-001",
@@ -616,7 +624,8 @@
       ],
       "topicId": "metabolic-overview-i-general-reactions-2-of-2",
       "topicName": "Metabolic Overview I: General Reactions (2 of 2)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo02-002",
@@ -663,7 +672,8 @@
       ],
       "topicId": "metabolic-overview-i-general-reactions-2-of-2",
       "topicName": "Metabolic Overview I: General Reactions (2 of 2)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo02-003",
@@ -710,7 +720,8 @@
       ],
       "topicId": "metabolic-overview-i-general-reactions-2-of-2",
       "topicName": "Metabolic Overview I: General Reactions (2 of 2)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo02-004",
@@ -758,7 +769,8 @@
       ],
       "topicId": "metabolic-overview-i-general-reactions-2-of-2",
       "topicName": "Metabolic Overview I: General Reactions (2 of 2)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo02-005",
@@ -806,7 +818,8 @@
       ],
       "topicId": "metabolic-overview-i-general-reactions-2-of-2",
       "topicName": "Metabolic Overview I: General Reactions (2 of 2)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo02-006",
@@ -854,7 +867,8 @@
       ],
       "topicId": "metabolic-overview-i-general-reactions-2-of-2",
       "topicName": "Metabolic Overview I: General Reactions (2 of 2)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo02-007",
@@ -902,7 +916,8 @@
       ],
       "topicId": "metabolic-overview-i-general-reactions-2-of-2",
       "topicName": "Metabolic Overview I: General Reactions (2 of 2)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo02-008",
@@ -949,7 +964,8 @@
       ],
       "topicId": "metabolic-overview-i-general-reactions-2-of-2",
       "topicName": "Metabolic Overview I: General Reactions (2 of 2)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo02-009",
@@ -996,7 +1012,8 @@
       ],
       "topicId": "metabolic-overview-i-general-reactions-2-of-2",
       "topicName": "Metabolic Overview I: General Reactions (2 of 2)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo02-010",
@@ -1091,7 +1108,8 @@
       ],
       "topicId": "metabolic-overview-i-general-reactions-2-of-2",
       "topicName": "Metabolic Overview I: General Reactions (2 of 2)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo02-012",

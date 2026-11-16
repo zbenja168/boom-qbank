@@ -47,7 +47,8 @@
       ],
       "topicId": "pedigrees-and-patterns-of-monogenic-inheritance",
       "topicName": "Pedigrees and Patterns of Monogenic Inheritance",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo46-002",
@@ -94,7 +95,8 @@
       ],
       "topicId": "pedigrees-and-patterns-of-monogenic-inheritance",
       "topicName": "Pedigrees and Patterns of Monogenic Inheritance",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo46-003",
@@ -235,7 +237,8 @@
       ],
       "topicId": "pedigrees-and-patterns-of-monogenic-inheritance",
       "topicName": "Pedigrees and Patterns of Monogenic Inheritance",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo46-006",
@@ -282,7 +285,8 @@
       ],
       "topicId": "pedigrees-and-patterns-of-monogenic-inheritance",
       "topicName": "Pedigrees and Patterns of Monogenic Inheritance",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo46-007",
@@ -329,7 +333,8 @@
       ],
       "topicId": "pedigrees-and-patterns-of-monogenic-inheritance",
       "topicName": "Pedigrees and Patterns of Monogenic Inheritance",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo46-008",
@@ -376,7 +381,8 @@
       ],
       "topicId": "pedigrees-and-patterns-of-monogenic-inheritance",
       "topicName": "Pedigrees and Patterns of Monogenic Inheritance",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo46-009",
@@ -423,7 +429,8 @@
       ],
       "topicId": "pedigrees-and-patterns-of-monogenic-inheritance",
       "topicName": "Pedigrees and Patterns of Monogenic Inheritance",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo46-010",
@@ -658,7 +665,8 @@
       ],
       "topicId": "genotype-phenotype-correlation",
       "topicName": "Genotype-Phenotype Correlation",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo47-003",
@@ -704,7 +712,8 @@
       ],
       "topicId": "genotype-phenotype-correlation",
       "topicName": "Genotype-Phenotype Correlation",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo47-004",
@@ -750,7 +759,8 @@
       ],
       "topicId": "genotype-phenotype-correlation",
       "topicName": "Genotype-Phenotype Correlation",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo47-005",
@@ -797,7 +807,8 @@
       ],
       "topicId": "genotype-phenotype-correlation",
       "topicName": "Genotype-Phenotype Correlation",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo47-006",
@@ -843,7 +854,8 @@
       ],
       "topicId": "genotype-phenotype-correlation",
       "topicName": "Genotype-Phenotype Correlation",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo47-007",
@@ -937,7 +949,8 @@
       ],
       "topicId": "genotype-phenotype-correlation",
       "topicName": "Genotype-Phenotype Correlation",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo47-009",
@@ -983,7 +996,8 @@
       ],
       "topicId": "genotype-phenotype-correlation",
       "topicName": "Genotype-Phenotype Correlation",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo47-010",
@@ -1030,7 +1044,8 @@
       ],
       "topicId": "genotype-phenotype-correlation",
       "topicName": "Genotype-Phenotype Correlation",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo47-011",
@@ -1170,7 +1185,8 @@
       ],
       "topicId": "molecular-biology-techniques-dna-analysis",
       "topicName": "Molecular Biology Techniques (2 of 3): DNA Analysis",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo48-002",
@@ -1264,7 +1280,8 @@
       ],
       "topicId": "molecular-biology-techniques-dna-analysis",
       "topicName": "Molecular Biology Techniques (2 of 3): DNA Analysis",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo48-004",
@@ -1452,7 +1469,8 @@
       ],
       "topicId": "molecular-biology-techniques-dna-analysis",
       "topicName": "Molecular Biology Techniques (2 of 3): DNA Analysis",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo48-008",
@@ -1499,7 +1517,8 @@
       ],
       "topicId": "molecular-biology-techniques-dna-analysis",
       "topicName": "Molecular Biology Techniques (2 of 3): DNA Analysis",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo48-009",
@@ -1640,7 +1659,8 @@
       ],
       "topicId": "molecular-biology-techniques-dna-analysis",
       "topicName": "Molecular Biology Techniques (2 of 3): DNA Analysis",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo48-012",
@@ -1687,7 +1707,8 @@
       ],
       "topicId": "molecular-biology-techniques-dna-analysis",
       "topicName": "Molecular Biology Techniques (2 of 3): DNA Analysis",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo55-001",
@@ -1828,7 +1849,8 @@
       ],
       "topicId": "molecular-biology-techniques-dna-analysis-b55",
       "topicName": "Molecular Biology Techniques (2 of 3), DNA analysis",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo55-004",
@@ -1875,7 +1897,8 @@
       ],
       "topicId": "molecular-biology-techniques-dna-analysis-b55",
       "topicName": "Molecular Biology Techniques (2 of 3), DNA analysis",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo55-005",
@@ -1922,7 +1945,8 @@
       ],
       "topicId": "molecular-biology-techniques-dna-analysis-b55",
       "topicName": "Molecular Biology Techniques (2 of 3), DNA analysis",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo55-006",
@@ -1969,7 +1993,8 @@
       ],
       "topicId": "molecular-biology-techniques-dna-analysis-b55",
       "topicName": "Molecular Biology Techniques (2 of 3), DNA analysis",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo55-007",
@@ -2063,7 +2088,8 @@
       ],
       "topicId": "molecular-biology-techniques-dna-analysis-b55",
       "topicName": "Molecular Biology Techniques (2 of 3), DNA analysis",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo55-009",
@@ -2157,7 +2183,8 @@
       ],
       "topicId": "molecular-biology-techniques-dna-analysis-b55",
       "topicName": "Molecular Biology Techniques (2 of 3), DNA analysis",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo55-011",
@@ -2298,7 +2325,8 @@
       ],
       "topicId": "repeat-expansion-disorders",
       "topicName": "Repeat Expansion Disorders",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo49-002",
@@ -2346,7 +2374,8 @@
       ],
       "topicId": "repeat-expansion-disorders",
       "topicName": "Repeat Expansion Disorders",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo49-003",
@@ -2394,7 +2423,8 @@
       ],
       "topicId": "repeat-expansion-disorders",
       "topicName": "Repeat Expansion Disorders",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo49-004",
@@ -2442,7 +2472,8 @@
       ],
       "topicId": "repeat-expansion-disorders",
       "topicName": "Repeat Expansion Disorders",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo49-005",
@@ -2490,7 +2521,8 @@
       ],
       "topicId": "repeat-expansion-disorders",
       "topicName": "Repeat Expansion Disorders",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo49-006",
@@ -2537,7 +2569,8 @@
       ],
       "topicId": "repeat-expansion-disorders",
       "topicName": "Repeat Expansion Disorders",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo49-007",
@@ -2585,7 +2618,8 @@
       ],
       "topicId": "repeat-expansion-disorders",
       "topicName": "Repeat Expansion Disorders",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo49-008",
@@ -2681,7 +2715,8 @@
       ],
       "topicId": "repeat-expansion-disorders",
       "topicName": "Repeat Expansion Disorders",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo49-010",
@@ -2729,7 +2764,8 @@
       ],
       "topicId": "repeat-expansion-disorders",
       "topicName": "Repeat Expansion Disorders",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo49-011",
@@ -2872,7 +2908,8 @@
       ],
       "topicId": "mitochondrial-diseases",
       "topicName": "Mitochondrial Diseases",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo50-002",
@@ -2919,7 +2956,8 @@
       ],
       "topicId": "mitochondrial-diseases",
       "topicName": "Mitochondrial Diseases",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo50-003",
@@ -2966,7 +3004,8 @@
       ],
       "topicId": "mitochondrial-diseases",
       "topicName": "Mitochondrial Diseases",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo50-004",
@@ -3013,7 +3052,8 @@
       ],
       "topicId": "mitochondrial-diseases",
       "topicName": "Mitochondrial Diseases",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo50-005",
@@ -3060,7 +3100,8 @@
       ],
       "topicId": "mitochondrial-diseases",
       "topicName": "Mitochondrial Diseases",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo50-006",
@@ -3107,7 +3148,8 @@
       ],
       "topicId": "mitochondrial-diseases",
       "topicName": "Mitochondrial Diseases",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo50-007",

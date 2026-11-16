@@ -10,7 +10,9 @@
           "sourceFile": "BOOM Brick 1",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 8
         },
         {
           "id": "metabolic-overview-i-general-reactions-2-of-2",
@@ -18,7 +20,9 @@
           "sourceFile": "BOOM Brick 2",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 10
         }
       ],
       "week": 1,
@@ -35,7 +39,9 @@
           "sourceFile": "BOOM Brick 3",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 7
         },
         {
           "id": "oxphos-uncouplers-and-inhibitors",
@@ -43,7 +49,9 @@
           "sourceFile": "BOOM Brick 4",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 8
         }
       ],
       "week": 1,
@@ -60,7 +68,9 @@
           "sourceFile": "BOOM Brick 5",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 10
         },
         {
           "id": "anemia-mcv-classification-b-vitamins",
@@ -68,7 +78,9 @@
           "sourceFile": "BOOM Brick 6",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 7
         }
       ],
       "week": 1,
@@ -85,7 +97,9 @@
           "sourceFile": "BOOM Brick 7",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 10
         },
         {
           "id": "dna-damage-and-dna-repair-mechanism",
@@ -93,7 +107,9 @@
           "sourceFile": "BOOM Brick 8",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 7
         },
         {
           "id": "dna-structure",
@@ -101,7 +117,9 @@
           "sourceFile": "BOOM Brick 9",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 9
         },
         {
           "id": "dna-replication",
@@ -109,7 +127,9 @@
           "sourceFile": "BOOM Brick 10",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 9
         },
         {
           "id": "the-central-dogma-dna-to-rna-to-proteins",
@@ -117,7 +137,9 @@
           "sourceFile": "BOOM Brick 11",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 8
         },
         {
           "id": "dna-point-mutations",
@@ -125,7 +147,9 @@
           "sourceFile": "BOOM Brick 12",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 9
         }
       ],
       "week": 2,
@@ -142,7 +166,9 @@
           "sourceFile": "BOOM Brick 13",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 7
         },
         {
           "id": "proteins-enzymatic-machines-protein-based-disorders-i-2",
@@ -150,7 +176,9 @@
           "sourceFile": "BOOM Brick 14",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 11
         }
       ],
       "week": 2,
@@ -167,7 +195,9 @@
           "sourceFile": "BOOM Brick 15",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 6
         },
         {
           "id": "proteins-enzymatic-machines-protein-based-disorders-ii",
@@ -175,7 +205,9 @@
           "sourceFile": "BOOM Brick 16",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 10
         },
         {
           "id": "biotechniques-protein-detection",
@@ -183,7 +215,9 @@
           "sourceFile": "BOOM Brick 17",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 7
         }
       ],
       "week": 2,
@@ -200,7 +234,9 @@
           "sourceFile": "BOOM Brick 18",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 8
         },
         {
           "id": "glycogen-lactose-intolerance-galactosemia",
@@ -208,7 +244,9 @@
           "sourceFile": "BOOM Brick 19",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 8
         }
       ],
       "week": 3,
@@ -225,7 +263,9 @@
           "sourceFile": "BOOM Brick 20",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 8
         },
         {
           "id": "carbohydrate-metabolism-fructose-polyol-disorders",
@@ -233,7 +273,9 @@
           "sourceFile": "BOOM Brick 21",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 7
         }
       ],
       "week": 3,
@@ -250,7 +292,9 @@
           "sourceFile": "BOOM Brick 22",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 9
         },
         {
           "id": "cholesterol-synthesis-and-ketone-bodies",
@@ -258,7 +302,9 @@
           "sourceFile": "BOOM Brick 23",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 8
         },
         {
           "id": "boom-lipids-and-lipid-metabolism-introduction-3-of-3",
@@ -266,7 +312,9 @@
           "sourceFile": "BOOM Brick 24",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 6
         }
       ],
       "week": 3,
@@ -283,7 +331,9 @@
           "sourceFile": "BOOM Brick 25",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 8
         },
         {
           "id": "overview-of-cell-signaling-2",
@@ -291,7 +341,9 @@
           "sourceFile": "BOOM Brick 26",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 9
         }
       ],
       "week": 4,
@@ -308,7 +360,9 @@
           "sourceFile": "BOOM Brick 27",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 7
         },
         {
           "id": "cell-signaling-fed-and-fasting-metabolic-state-2",
@@ -316,7 +370,9 @@
           "sourceFile": "BOOM Brick 28",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 9
         }
       ],
       "week": 4,
@@ -333,7 +389,9 @@
           "sourceFile": "BOOM Brick 29",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 8
         },
         {
           "id": "fat-soluble-vitamins-a-d-e-k",
@@ -341,7 +399,9 @@
           "sourceFile": "BOOM Brick 30",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 9
         },
         {
           "id": "basic-nutritional-requirements-select-minerals",
@@ -349,7 +409,9 @@
           "sourceFile": "BOOM Brick 31",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 8
         }
       ],
       "week": 5,
@@ -366,7 +428,9 @@
           "sourceFile": "BOOM Brick 32",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 9
         },
         {
           "id": "nitrogen-balance-and-urea-cycle",
@@ -374,7 +438,9 @@
           "sourceFile": "BOOM Brick 33",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 7
         }
       ],
       "week": 5,
@@ -391,7 +457,9 @@
           "sourceFile": "BOOM Brick 34",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 9
         }
       ],
       "week": 5,
@@ -408,7 +476,9 @@
           "sourceFile": "BOOM Brick 35",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 11
         },
         {
           "id": "porphyrins-and-iron-homeostasis-2",
@@ -416,7 +486,9 @@
           "sourceFile": "BOOM Brick 36",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 9
         }
       ],
       "week": 6,
@@ -433,7 +505,9 @@
           "sourceFile": "BOOM Brick 37",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 9
         }
       ],
       "week": 6,
@@ -450,7 +524,9 @@
           "sourceFile": "BOOM Brick 38",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 11,
+          "hyCoreCount": 9
         },
         {
           "id": "lysosomal-storage-and-peroxisomal-disorders",
@@ -458,7 +534,9 @@
           "sourceFile": "BOOM Brick 39",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 11,
+          "hyCoreCount": 9
         }
       ],
       "week": 6,
@@ -475,7 +553,9 @@
           "sourceFile": "BOOM Brick 40",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 8
         },
         {
           "id": "variants-in-chromosome-number",
@@ -483,7 +563,9 @@
           "sourceFile": "BOOM Brick 41",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 8
         },
         {
           "id": "sex-chromosome-aneuploidy",
@@ -491,7 +573,9 @@
           "sourceFile": "BOOM Brick 42",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 9
         },
         {
           "id": "subchromosomal-deletion-syndromes",
@@ -499,7 +583,9 @@
           "sourceFile": "BOOM Brick 43",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 11
         },
         {
           "id": "mosaicism",
@@ -507,7 +593,9 @@
           "sourceFile": "BOOM Brick 44",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 11,
+          "hyCoreCount": 8
         },
         {
           "id": "molecular-biology-techniques-cytogenetics",
@@ -515,7 +603,9 @@
           "sourceFile": "BOOM Brick 45",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 9,
+          "hyCoreCount": 5
         },
         {
           "id": "molecular-biology-techniques-cytogenetics-b54",
@@ -523,7 +613,9 @@
           "sourceFile": "BOOM Brick 54",
           "coreCount": 12,
           "extraCount": 0,
-          "questionCount": 12
+          "questionCount": 12,
+          "hyCount": 4,
+          "hyCoreCount": 4
         }
       ],
       "week": 7,
@@ -540,7 +632,9 @@
           "sourceFile": "BOOM Brick 46",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 11,
+          "hyCoreCount": 7
         },
         {
           "id": "genotype-phenotype-correlation",
@@ -548,7 +642,9 @@
           "sourceFile": "BOOM Brick 47",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 8
         },
         {
           "id": "molecular-biology-techniques-dna-analysis",
@@ -556,7 +652,9 @@
           "sourceFile": "BOOM Brick 48",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 6
         },
         {
           "id": "molecular-biology-techniques-dna-analysis-b55",
@@ -564,7 +662,9 @@
           "sourceFile": "BOOM Brick 55",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 6
         },
         {
           "id": "repeat-expansion-disorders",
@@ -572,7 +672,9 @@
           "sourceFile": "BOOM Brick 49",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 9
         },
         {
           "id": "mitochondrial-diseases",
@@ -580,7 +682,9 @@
           "sourceFile": "BOOM Brick 50",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 10,
+          "hyCoreCount": 6
         }
       ],
       "week": 7,
@@ -597,7 +701,9 @@
           "sourceFile": "BOOM Brick 51",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 8
         },
         {
           "id": "multifactorial-disorders",
@@ -605,7 +711,9 @@
           "sourceFile": "BOOM Brick 52",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 8
         },
         {
           "id": "multifactorial-disorders-b59",
@@ -613,7 +721,9 @@
           "sourceFile": "BOOM Brick 59",
           "coreCount": 12,
           "extraCount": 0,
-          "questionCount": 12
+          "questionCount": 12,
+          "hyCount": 4,
+          "hyCoreCount": 4
         },
         {
           "id": "population-genetics",
@@ -621,7 +731,9 @@
           "sourceFile": "BOOM Brick 53",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 10
         },
         {
           "id": "population-genetics-b60",
@@ -629,7 +741,9 @@
           "sourceFile": "BOOM Brick 60",
           "coreCount": 12,
           "extraCount": 0,
-          "questionCount": 12
+          "questionCount": 12,
+          "hyCount": 4,
+          "hyCoreCount": 4
         }
       ],
       "week": 7,
@@ -646,7 +760,9 @@
           "sourceFile": "BOOM Brick 56",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 7
         },
         {
           "id": "prenatal-genetic-testing-neonatal-screening",
@@ -654,7 +770,9 @@
           "sourceFile": "BOOM Brick 57",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 9
         }
       ],
       "week": 8,
@@ -671,7 +789,9 @@
           "sourceFile": "BOOM Brick 58",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 7
         }
       ],
       "week": 8,
@@ -688,7 +808,9 @@
           "sourceFile": "BOOM Brick 61",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 8
         }
       ],
       "week": 8,

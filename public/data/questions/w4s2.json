@@ -94,7 +94,8 @@
       ],
       "topicId": "fed-and-fasting-metabolic-state",
       "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo27-003",
@@ -141,7 +142,8 @@
       ],
       "topicId": "fed-and-fasting-metabolic-state",
       "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo27-004",
@@ -235,7 +237,8 @@
       ],
       "topicId": "fed-and-fasting-metabolic-state",
       "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo27-006",
@@ -282,7 +285,8 @@
       ],
       "topicId": "fed-and-fasting-metabolic-state",
       "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo27-007",
@@ -329,7 +333,8 @@
       ],
       "topicId": "fed-and-fasting-metabolic-state",
       "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo27-008",
@@ -376,7 +381,8 @@
       ],
       "topicId": "fed-and-fasting-metabolic-state",
       "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo27-009",
@@ -470,7 +476,8 @@
       ],
       "topicId": "fed-and-fasting-metabolic-state",
       "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo27-011",
@@ -611,7 +618,8 @@
       ],
       "topicId": "cell-signaling-fed-and-fasting-metabolic-state-2",
       "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State (2 of 2)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo28-002",
@@ -658,7 +666,8 @@
       ],
       "topicId": "cell-signaling-fed-and-fasting-metabolic-state-2",
       "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State (2 of 2)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo28-003",
@@ -705,7 +714,8 @@
       ],
       "topicId": "cell-signaling-fed-and-fasting-metabolic-state-2",
       "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State (2 of 2)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo28-004",
@@ -752,7 +762,8 @@
       ],
       "topicId": "cell-signaling-fed-and-fasting-metabolic-state-2",
       "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State (2 of 2)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo28-005",
@@ -799,7 +810,8 @@
       ],
       "topicId": "cell-signaling-fed-and-fasting-metabolic-state-2",
       "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State (2 of 2)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo28-006",
@@ -893,7 +905,8 @@
       ],
       "topicId": "cell-signaling-fed-and-fasting-metabolic-state-2",
       "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State (2 of 2)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo28-008",
@@ -1034,7 +1047,8 @@
       ],
       "topicId": "cell-signaling-fed-and-fasting-metabolic-state-2",
       "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State (2 of 2)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo28-011",
@@ -1081,7 +1095,8 @@
       ],
       "topicId": "cell-signaling-fed-and-fasting-metabolic-state-2",
       "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State (2 of 2)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo28-012",
@@ -1128,7 +1143,8 @@
       ],
       "topicId": "cell-signaling-fed-and-fasting-metabolic-state-2",
       "topicName": "Cell Signaling in Context: Fed and Fasting Metabolic State (2 of 2)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     }
   ]
 }

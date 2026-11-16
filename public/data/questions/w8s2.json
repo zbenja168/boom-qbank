@@ -47,7 +47,8 @@
       ],
       "topicId": "animal-models-in-novel-therapeutics",
       "topicName": "From Bench to Bedside: The Role of Animal Models in Novel Therapeutics",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo58-002",
@@ -94,7 +95,8 @@
       ],
       "topicId": "animal-models-in-novel-therapeutics",
       "topicName": "From Bench to Bedside: The Role of Animal Models in Novel Therapeutics",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo58-003",
@@ -329,7 +331,8 @@
       ],
       "topicId": "animal-models-in-novel-therapeutics",
       "topicName": "From Bench to Bedside: The Role of Animal Models in Novel Therapeutics",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo58-008",
@@ -376,7 +379,8 @@
       ],
       "topicId": "animal-models-in-novel-therapeutics",
       "topicName": "From Bench to Bedside: The Role of Animal Models in Novel Therapeutics",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo58-009",
@@ -423,7 +427,8 @@
       ],
       "topicId": "animal-models-in-novel-therapeutics",
       "topicName": "From Bench to Bedside: The Role of Animal Models in Novel Therapeutics",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo58-010",
@@ -517,7 +522,8 @@
       ],
       "topicId": "animal-models-in-novel-therapeutics",
       "topicName": "From Bench to Bedside: The Role of Animal Models in Novel Therapeutics",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo58-012",
@@ -564,7 +570,8 @@
       ],
       "topicId": "animal-models-in-novel-therapeutics",
       "topicName": "From Bench to Bedside: The Role of Animal Models in Novel Therapeutics",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     }
   ]
 }

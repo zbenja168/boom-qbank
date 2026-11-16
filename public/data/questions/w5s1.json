@@ -94,7 +94,8 @@
       ],
       "topicId": "basic-nutritional-requirements-for-metabolism",
       "topicName": "Basic Nutritional Requirements for Metabolism (1 of 3)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo29-003",
@@ -190,7 +191,8 @@
       ],
       "topicId": "basic-nutritional-requirements-for-metabolism",
       "topicName": "Basic Nutritional Requirements for Metabolism (1 of 3)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo29-005",
@@ -238,7 +240,8 @@
       ],
       "topicId": "basic-nutritional-requirements-for-metabolism",
       "topicName": "Basic Nutritional Requirements for Metabolism (1 of 3)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo29-006",
@@ -286,7 +289,8 @@
       ],
       "topicId": "basic-nutritional-requirements-for-metabolism",
       "topicName": "Basic Nutritional Requirements for Metabolism (1 of 3)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo29-007",
@@ -334,7 +338,8 @@
       ],
       "topicId": "basic-nutritional-requirements-for-metabolism",
       "topicName": "Basic Nutritional Requirements for Metabolism (1 of 3)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo29-008",
@@ -381,7 +386,8 @@
       ],
       "topicId": "basic-nutritional-requirements-for-metabolism",
       "topicName": "Basic Nutritional Requirements for Metabolism (1 of 3)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo29-009",
@@ -477,7 +483,8 @@
       ],
       "topicId": "basic-nutritional-requirements-for-metabolism",
       "topicName": "Basic Nutritional Requirements for Metabolism (1 of 3)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo29-011",
@@ -525,7 +532,8 @@
       ],
       "topicId": "basic-nutritional-requirements-for-metabolism",
       "topicName": "Basic Nutritional Requirements for Metabolism (1 of 3)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo29-012",
@@ -620,7 +628,8 @@
       ],
       "topicId": "fat-soluble-vitamins-a-d-e-k",
       "topicName": "Fat-Soluble Vitamins (A, D, E, K)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo30-002",
@@ -667,7 +676,8 @@
       ],
       "topicId": "fat-soluble-vitamins-a-d-e-k",
       "topicName": "Fat-Soluble Vitamins (A, D, E, K)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo30-003",
@@ -715,7 +725,8 @@
       ],
       "topicId": "fat-soluble-vitamins-a-d-e-k",
       "topicName": "Fat-Soluble Vitamins (A, D, E, K)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo30-004",
@@ -810,7 +821,8 @@
       ],
       "topicId": "fat-soluble-vitamins-a-d-e-k",
       "topicName": "Fat-Soluble Vitamins (A, D, E, K)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo30-006",
@@ -953,7 +965,8 @@
       ],
       "topicId": "fat-soluble-vitamins-a-d-e-k",
       "topicName": "Fat-Soluble Vitamins (A, D, E, K)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo30-009",
@@ -1001,7 +1014,8 @@
       ],
       "topicId": "fat-soluble-vitamins-a-d-e-k",
       "topicName": "Fat-Soluble Vitamins (A, D, E, K)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo30-010",
@@ -1048,7 +1062,8 @@
       ],
       "topicId": "fat-soluble-vitamins-a-d-e-k",
       "topicName": "Fat-Soluble Vitamins (A, D, E, K)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo30-011",
@@ -1096,7 +1111,8 @@
       ],
       "topicId": "fat-soluble-vitamins-a-d-e-k",
       "topicName": "Fat-Soluble Vitamins (A, D, E, K)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo30-012",
@@ -1144,7 +1160,8 @@
       ],
       "topicId": "fat-soluble-vitamins-a-d-e-k",
       "topicName": "Fat-Soluble Vitamins (A, D, E, K)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo31-001",
@@ -1192,7 +1209,8 @@
       ],
       "topicId": "basic-nutritional-requirements-select-minerals",
       "topicName": "Basic Nutritional Requirements for Metabolism: Select Minerals",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo31-002",
@@ -1240,7 +1258,8 @@
       ],
       "topicId": "basic-nutritional-requirements-select-minerals",
       "topicName": "Basic Nutritional Requirements for Metabolism: Select Minerals",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo31-003",
@@ -1384,7 +1403,8 @@
       ],
       "topicId": "basic-nutritional-requirements-select-minerals",
       "topicName": "Basic Nutritional Requirements for Metabolism: Select Minerals",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo31-006",
@@ -1480,7 +1500,8 @@
       ],
       "topicId": "basic-nutritional-requirements-select-minerals",
       "topicName": "Basic Nutritional Requirements for Metabolism: Select Minerals",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo31-008",
@@ -1528,7 +1549,8 @@
       ],
       "topicId": "basic-nutritional-requirements-select-minerals",
       "topicName": "Basic Nutritional Requirements for Metabolism: Select Minerals",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo31-009",
@@ -1576,7 +1598,8 @@
       ],
       "topicId": "basic-nutritional-requirements-select-minerals",
       "topicName": "Basic Nutritional Requirements for Metabolism: Select Minerals",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo31-010",
@@ -1624,7 +1647,8 @@
       ],
       "topicId": "basic-nutritional-requirements-select-minerals",
       "topicName": "Basic Nutritional Requirements for Metabolism: Select Minerals",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo31-011",
@@ -1672,7 +1696,8 @@
       ],
       "topicId": "basic-nutritional-requirements-select-minerals",
       "topicName": "Basic Nutritional Requirements for Metabolism: Select Minerals",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "bo31-012",
