@@ -816,7 +816,86 @@
       "week": 8,
       "weekName": "Week 8",
       "weekSubtitle": ""
+    },
+    {
+      "id": "pictures",
+      "name": "Pictures by week",
+      "topics": [
+        {
+          "id": "pictures-w1",
+          "name": "Week 1 pictures",
+          "sourceFile": "Picture QBank (curated)",
+          "coreCount": 1,
+          "extraCount": 0,
+          "questionCount": 1,
+          "hyCount": 1,
+          "hyCoreCount": 1
+        },
+        {
+          "id": "pictures-w2",
+          "name": "Week 2 pictures",
+          "sourceFile": "Picture QBank (curated)",
+          "coreCount": 6,
+          "extraCount": 0,
+          "questionCount": 6,
+          "hyCount": 6,
+          "hyCoreCount": 6
+        },
+        {
+          "id": "pictures-w3",
+          "name": "Week 3 pictures",
+          "sourceFile": "Picture QBank (curated)",
+          "coreCount": 1,
+          "extraCount": 0,
+          "questionCount": 1,
+          "hyCount": 1,
+          "hyCoreCount": 1
+        },
+        {
+          "id": "pictures-w4",
+          "name": "Week 4 pictures",
+          "sourceFile": "Picture QBank (curated)",
+          "coreCount": 1,
+          "extraCount": 0,
+          "questionCount": 1,
+          "hyCount": 1,
+          "hyCoreCount": 1
+        },
+        {
+          "id": "pictures-w5",
+          "name": "Week 5 pictures",
+          "sourceFile": "Picture QBank (curated)",
+          "coreCount": 4,
+          "extraCount": 0,
+          "questionCount": 4,
+          "hyCount": 4,
+          "hyCoreCount": 4
+        },
+        {
+          "id": "pictures-w6",
+          "name": "Week 6 pictures",
+          "sourceFile": "Picture QBank (curated)",
+          "coreCount": 5,
+          "extraCount": 0,
+          "questionCount": 5,
+          "hyCount": 5,
+          "hyCoreCount": 5
+        },
+        {
+          "id": "pictures-w7",
+          "name": "Week 7 pictures",
+          "sourceFile": "Picture QBank (curated)",
+          "coreCount": 10,
+          "extraCount": 0,
+          "questionCount": 10,
+          "hyCount": 10,
+          "hyCoreCount": 10
+        }
+      ],
+      "week": 9,
+      "weekName": "Picture questions",
+      "weekSubtitle": ""
     }
   ],
-  "totalQuestions": 2124
+  "totalQuestions": 2152
 }

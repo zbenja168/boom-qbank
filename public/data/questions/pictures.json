@@ -1,0 +1,1378 @@
+{
+  "categoryId": "pictures",
+  "categoryName": "Pictures by week",
+  "questions": [
+    {
+      "id": "bopic-027",
+      "topicId": "pictures-w1",
+      "topicName": "Week 1 pictures",
+      "stem": "A urine microscopy specimen from a patient with a suspected toxic ingestion shows the colorless crystals in this image. What are they?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Calcium oxalate crystals"
+        },
+        {
+          "label": "B",
+          "text": "Cholesterol crystals"
+        },
+        {
+          "label": "C",
+          "text": "Cystine crystals"
+        },
+        {
+          "label": "D",
+          "text": "Struvite (triple phosphate) crystals"
+        },
+        {
+          "label": "E",
+          "text": "Uric acid crystals"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Colorless, square bipyramidal ('envelope') crystals with an X across the face are calcium oxalate dihydrate, the most common urinary crystal and stone type; they are associated with hypercalciuria and ethylene glycol toxicity.",
+        "whyCorrect": "The square 'envelope' shape with an X across the face is characteristic of calcium oxalate dihydrate crystals. They form in acidic or neutral urine and are classically seen with ethylene glycol ingestion and hypercalciuria.",
+        "whyWrongByChoice": {
+          "B": "Cholesterol crystals appear as flat plates with notched corners, seen in nephrotic syndrome, not envelope shapes.",
+          "C": "Cystine crystals are flat, colorless hexagons, as seen in cystinuria.",
+          "D": "Struvite crystals have a coffin-lid (rectangular prism) shape and form in alkaline urine with urease-producing bacteria.",
+          "E": "Uric acid crystals are yellow-brown rhomboid or rosette shapes in acidic urine, not colorless envelopes."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "bopic-027_2_p13_1.png",
+      "tags": [
+        "picture"
+      ],
+      "lecture": "Metabolic Overview I: General Reactions (2 of 2)",
+      "lectureTopicId": "metabolic-overview-i-general-reactions-2-of-2",
+      "source": "boom-picqbank"
+    },
+    {
+      "id": "bopic-098",
+      "topicId": "pictures-w2",
+      "topicName": "Week 2 pictures",
+      "stem": "In this figure, blue strands are parental and red strands are newly synthesized. Which model of DNA replication does it illustrate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bidirectional theta replication"
+        },
+        {
+          "label": "B",
+          "text": "Conservative replication"
+        },
+        {
+          "label": "C",
+          "text": "Dispersive replication"
+        },
+        {
+          "label": "D",
+          "text": "Rolling-circle replication"
+        },
+        {
+          "label": "E",
+          "text": "Semiconservative replication"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Each daughter helix retains one parental (original template) strand paired with one newly synthesized strand, which is the defining feature of semiconservative replication.",
+        "whyCorrect": "Each daughter helix retains one parental (original template) strand paired with one newly synthesized strand, which is the defining feature of semiconservative replication.",
+        "whyWrongByChoice": {
+          "A": "Theta replication describes the bidirectional copying of circular bacterial chromosomes, a fork geometry rather than a model of strand inheritance.",
+          "B": "Conservative replication would leave one daughter with both original strands and the other entirely new, which is not shown.",
+          "C": "Dispersive replication would mix old and new segments within each strand, not keep one intact parental strand per duplex.",
+          "D": "Rolling-circle replication copies circular DNA (e.g., plasmids, some viruses) by continuously extending one strand, not two symmetric daughter duplexes."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "bopic-098_10_p2_1.png",
+      "tags": [
+        "picture"
+      ],
+      "lecture": "DNA Replication",
+      "lectureTopicId": "dna-replication",
+      "source": "boom-picqbank"
+    },
+    {
+      "id": "bopic-019",
+      "topicId": "pictures-w2",
+      "topicName": "Week 2 pictures",
+      "stem": "A man develops dark urine and anemia two days after starting primaquine. A peripheral smear stained with a supravital dye shows the red cell inclusions marked by the arrows. What are these inclusions?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Basophilic stippling"
+        },
+        {
+          "label": "B",
+          "text": "Heinz bodies"
+        },
+        {
+          "label": "C",
+          "text": "Howell-Jolly bodies"
+        },
+        {
+          "label": "D",
+          "text": "Malarial ring trophozoites"
+        },
+        {
+          "label": "E",
+          "text": "Pappenheimer bodies"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Oxidative denaturation of hemoglobin (as in G6PD deficiency) precipitates as Heinz bodies, seen with supravital stains as small inclusions at the RBC membrane. Splenic removal of these produces bite cells.",
+        "whyCorrect": "Oxidative denaturation of hemoglobin (as in G6PD deficiency) precipitates as Heinz bodies, seen with supravital stains as small inclusions at the RBC membrane. Splenic removal of these produces bite cells.",
+        "whyWrongByChoice": {
+          "A": "Basophilic stippling is fine diffuse ribosomal RNA granules, as in lead poisoning, not clumps of oxidized hemoglobin.",
+          "C": "Howell-Jolly bodies are single nuclear DNA remnants seen on routine Wright stain in asplenia, not oxidative inclusions.",
+          "D": "Malarial rings are delicate circles with a chromatin dot inside the cell, seen on Giemsa stain, not clumps at the membrane from oxidative damage.",
+          "E": "Pappenheimer bodies are iron granules detected with Prussian blue in sideroblastic states, not denatured hemoglobin."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "bopic-019_14_p5_1.png",
+      "tags": [
+        "picture"
+      ],
+      "lecture": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I (2 of 2)",
+      "lectureTopicId": "proteins-enzymatic-machines-protein-based-disorders-i-2",
+      "source": "boom-picqbank"
+    },
+    {
+      "id": "bopic-117",
+      "topicId": "pictures-w2",
+      "topicName": "Week 2 pictures",
+      "stem": "Which enzyme catalyzes the reaction shown?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acetyl-CoA carboxylase"
+        },
+        {
+          "label": "B",
+          "text": "PEP carboxykinase"
+        },
+        {
+          "label": "C",
+          "text": "Pyruvate carboxylase"
+        },
+        {
+          "label": "D",
+          "text": "Pyruvate dehydrogenase"
+        },
+        {
+          "label": "E",
+          "text": "Pyruvate kinase"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Pyruvate carboxylase (a biotin-dependent, ATP-requiring enzyme) carboxylates pyruvate to oxaloacetate, an anaplerotic and gluconeogenic step. It is activated by acetyl-CoA.",
+        "whyCorrect": "Pyruvate carboxylase (a biotin-dependent, ATP-requiring enzyme) carboxylates pyruvate to oxaloacetate, an anaplerotic and gluconeogenic step. It is activated by acetyl-CoA.",
+        "whyWrongByChoice": {
+          "A": "Acetyl-CoA carboxylase carboxylates acetyl-CoA to malonyl-CoA for fatty acid synthesis, not pyruvate.",
+          "B": "PEP carboxykinase converts oxaloacetate to PEP (using GTP) in the next gluconeogenic step.",
+          "D": "Pyruvate dehydrogenase decarboxylates pyruvate to acetyl-CoA, releasing CO2 rather than fixing it.",
+          "E": "Pyruvate kinase converts PEP to pyruvate in glycolysis, generating ATP rather than consuming it."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "bopic-117_15_p24_1.png",
+      "tags": [
+        "picture"
+      ],
+      "lecture": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II",
+      "lectureTopicId": "proteins-enzymatic-machines-and-protein-based-disorders-ii",
+      "source": "boom-picqbank"
+    },
+    {
+      "id": "bopic-126",
+      "topicId": "pictures-w2",
+      "topicName": "Week 2 pictures",
+      "stem": "This Lineweaver-Burk plot compares an enzyme with and without an inhibitor. What type of inhibition is depicted?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Allosteric activation (increased Vmax and decreased Km)"
+        },
+        {
+          "label": "B",
+          "text": "Competitive inhibition (unchanged Vmax, increased apparent Km)"
+        },
+        {
+          "label": "C",
+          "text": "Irreversible inhibition (permanent loss of active enzyme)"
+        },
+        {
+          "label": "D",
+          "text": "Noncompetitive inhibition (decreased Vmax, unchanged Km)"
+        },
+        {
+          "label": "E",
+          "text": "Uncompetitive inhibition (decreased Vmax and decreased Km)"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "A shared y-intercept means Vmax is unchanged, while the shifted x-intercept indicates an increased apparent Km. This pattern is classic for competitive inhibition, where the inhibitor competes with substrate and can be overcome by high substrate concentrations.",
+        "whyCorrect": "A shared y-intercept means Vmax is unchanged, while the shifted x-intercept indicates an increased apparent Km. This pattern is classic for competitive inhibition, where the inhibitor competes with substrate and can be overcome by high substrate concentrations.",
+        "whyWrongByChoice": {
+          "A": "Activation would lower the slope and y-intercept, but here the inhibitor line is steeper with the same y-intercept, indicating inhibition, not activation.",
+          "C": "Irreversible inhibition removes functional enzyme and behaves like decreased Vmax, which would raise the y-intercept rather than leave it unchanged.",
+          "D": "Noncompetitive inhibition decreases Vmax, raising the y-intercept while keeping the x-intercept fixed; here the y-intercept is shared and the x-intercept moves.",
+          "E": "Uncompetitive inhibition lowers both Vmax and Km, producing parallel lines with a higher y-intercept, not a shared y-intercept with a steeper slope."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "bopic-126_16_p8_1.png",
+      "tags": [
+        "picture"
+      ],
+      "lecture": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II",
+      "lectureTopicId": "proteins-enzymatic-machines-protein-based-disorders-ii",
+      "source": "boom-picqbank"
+    },
+    {
+      "id": "bopic-127",
+      "topicId": "pictures-w2",
+      "topicName": "Week 2 pictures",
+      "stem": "This Lineweaver-Burk plot compares an enzyme with and without an inhibitor. What type of enzyme inhibition does this represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Competitive inhibition (unchanged Vmax, increased Km)"
+        },
+        {
+          "label": "B",
+          "text": "Feedback activation of the enzyme"
+        },
+        {
+          "label": "C",
+          "text": "Mixed inhibition (decreased Vmax, increased Km)"
+        },
+        {
+          "label": "D",
+          "text": "Noncompetitive inhibition (decreased Vmax, unchanged Km)"
+        },
+        {
+          "label": "E",
+          "text": "Uncompetitive inhibition (decreased Vmax and decreased Km)"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "A shared x-intercept indicates an unchanged Km, while the raised y-intercept reflects a lowered Vmax. This is the signature of noncompetitive inhibition, in which the inhibitor binds independent of substrate and cannot be overcome by adding more substrate.",
+        "whyCorrect": "A shared x-intercept indicates an unchanged Km, while the raised y-intercept reflects a lowered Vmax. This is the signature of noncompetitive inhibition, in which the inhibitor binds independent of substrate and cannot be overcome by adding more substrate.",
+        "whyWrongByChoice": {
+          "A": "Competitive inhibition leaves Vmax unchanged (shared y-intercept) and moves the x-intercept toward zero; this plot shows the reverse pattern.",
+          "B": "The plot shows an inhibitor reducing Vmax (a higher y-intercept), not any activation of the enzyme.",
+          "C": "Mixed inhibition lowers Vmax but also changes Km, so the x-intercept would move; here the lines share the x-intercept, so Km is unchanged.",
+          "E": "Uncompetitive inhibition lowers both Km and Vmax, giving a line parallel to the control with shifted x- and y-intercepts, not a shared x-intercept."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "bopic-127_16_p9_1.png",
+      "tags": [
+        "picture"
+      ],
+      "lecture": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II",
+      "lectureTopicId": "proteins-enzymatic-machines-protein-based-disorders-ii",
+      "source": "boom-picqbank"
+    },
+    {
+      "id": "bopic-053",
+      "topicId": "pictures-w2",
+      "topicName": "Week 2 pictures",
+      "stem": "Scanning electron micrographs compare a normal red blood cell (left) with a red cell from a patient with recurrent pain crises (right). The shape change on the right results directly from what molecular event?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Accumulation of excess iron within the cytoplasm"
+        },
+        {
+          "label": "B",
+          "text": "Antibody-mediated agglutination of the red cell surface"
+        },
+        {
+          "label": "C",
+          "text": "Loss of the cell membrane cytoskeleton due to complement attack"
+        },
+        {
+          "label": "D",
+          "text": "Osmotic swelling from impaired sodium pumping"
+        },
+        {
+          "label": "E",
+          "text": "Polymerization of deoxygenated hemoglobin S into rigid fibers"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "In sickle cell disease, a valine-for-glutamate substitution in beta-globin causes deoxygenated HbS to polymerize into rigid fibers that distort the red cell into the characteristic sickle/crescent shape seen on the right.",
+        "whyCorrect": "In sickle cell disease, a valine-for-glutamate substitution in beta-globin causes deoxygenated HbS to polymerize into rigid fibers that distort the red cell into the characteristic sickle/crescent shape seen on the right.",
+        "whyWrongByChoice": {
+          "A": "Iron accumulation within red cells produces siderocytes or Pappenheimer bodies, not rigid crescent deformation of the whole cell.",
+          "B": "Antibody-mediated agglutination clumps red cells together and leads to spherocytes, not individual elongated crescent-shaped cells.",
+          "C": "Complement attack lyses red cells, as in PNH, causing intravascular hemolysis rather than converting them into rigid sickle shapes.",
+          "D": "Failed sodium pumping causes cells to swell toward spheres and lyse; the crescent shape comes from intracellular HbS polymer fibers."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "bopic-053_17_p13_1.png",
+      "tags": [
+        "picture"
+      ],
+      "lecture": "Biotechniques: Protein Detection",
+      "lectureTopicId": "biotechniques-protein-detection",
+      "source": "boom-picqbank"
+    },
+    {
+      "id": "bopic-150",
+      "topicId": "pictures-w3",
+      "topicName": "Week 3 pictures",
+      "stem": "The figure depicts the protein-mediated exchange occurring between VLDL and HDL particles. What is the net effect of this exchange activity?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Apolipoprotein B-100 is transferred from VLDL to HDL"
+        },
+        {
+          "label": "B",
+          "text": "Free fatty acids are shuttled from adipocytes to the liver"
+        },
+        {
+          "label": "C",
+          "text": "HDL gives up cholesteryl esters to VLDL and receives triglycerides"
+        },
+        {
+          "label": "D",
+          "text": "HDL transfers triglycerides to VLDL and receives cholesteryl esters"
+        },
+        {
+          "label": "E",
+          "text": "LDL receptors are upregulated on hepatocytes"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Cholesteryl ester transfer protein (CETP) swaps cholesteryl esters from HDL into VLDL/LDL in exchange for triglycerides moving to HDL. This raises triglyceride content of HDL and delivers cholesteryl esters to apoB-containing particles.",
+        "whyCorrect": "Cholesteryl ester transfer protein (CETP) swaps cholesteryl esters from HDL into VLDL/LDL in exchange for triglycerides moving to HDL. This raises triglyceride content of HDL and delivers cholesteryl esters to apoB-containing particles.",
+        "whyWrongByChoice": {
+          "A": "ApoB-100 is a structural, nonexchangeable protein that stays with VLDL, IDL and LDL; exchangeable apoproteins are apoC and apoE.",
+          "B": "Fatty acids travel from adipocytes to liver bound to albumin, not by protein-mediated exchange between VLDL and HDL.",
+          "D": "This reverses the direction of CETP exchange: HDL donates cholesteryl esters and receives triglycerides.",
+          "E": "LDL receptor upregulation is driven by low hepatocyte cholesterol via SREBP, not by lipid exchange between circulating lipoproteins."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "bopic-150_22_p10_1.png",
+      "tags": [
+        "picture"
+      ],
+      "lecture": "Lipids and Lipid Metabolism Introduction",
+      "lectureTopicId": "lipids-and-lipid-metabolism-introduction",
+      "source": "boom-picqbank"
+    },
+    {
+      "id": "bopic-057",
+      "topicId": "pictures-w4",
+      "topicName": "Week 4 pictures",
+      "stem": "The chromosomal rearrangement shown in this figure is the hallmark of which malignancy?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acute promyelocytic leukemia"
+        },
+        {
+          "label": "B",
+          "text": "Burkitt lymphoma"
+        },
+        {
+          "label": "C",
+          "text": "Chronic myeloid leukemia (CML)"
+        },
+        {
+          "label": "D",
+          "text": "Ewing sarcoma"
+        },
+        {
+          "label": "E",
+          "text": "Follicular lymphoma"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The t(9;22) translocation creates the BCR-ABL fusion gene on the shortened chromosome 22 (Philadelphia chromosome). BCR-ABL is a constitutively active tyrosine kinase and is the defining lesion of chronic myeloid leukemia, targeted by imatinib.",
+        "whyCorrect": "The t(9;22) translocation creates the BCR-ABL fusion gene on the shortened chromosome 22 (Philadelphia chromosome). BCR-ABL is a constitutively active tyrosine kinase and is the defining lesion of chronic myeloid leukemia, targeted by imatinib.",
+        "whyWrongByChoice": {
+          "A": "Acute promyelocytic leukemia is defined by t(15;17), producing the PML-RARA fusion.",
+          "B": "Burkitt lymphoma carries t(8;14), placing MYC under immunoglobulin heavy-chain control.",
+          "D": "Ewing sarcoma carries t(11;22), producing the EWSR1-FLI1 fusion, not BCR-ABL.",
+          "E": "Follicular lymphoma carries t(14;18), placing BCL2 next to the immunoglobulin heavy-chain locus, not a 9;22 fusion."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "bopic-057_26_p19_1.png",
+      "tags": [
+        "picture"
+      ],
+      "lecture": "Overview of Cell Signaling (2 of 2)",
+      "lectureTopicId": "overview-of-cell-signaling-2",
+      "source": "boom-picqbank"
+    },
+    {
+      "id": "bopic-059",
+      "topicId": "pictures-w5",
+      "topicName": "Week 5 pictures",
+      "stem": "This finding is seen on the posterior neck of an obese adolescent. What condition is shown and what does it most commonly signal?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acanthosis nigricans, associated with insulin resistance"
+        },
+        {
+          "label": "B",
+          "text": "Addisonian hyperpigmentation from cortisol deficiency"
+        },
+        {
+          "label": "C",
+          "text": "Contact dermatitis from a necklace"
+        },
+        {
+          "label": "D",
+          "text": "Tinea versicolor, a superficial fungal infection"
+        },
+        {
+          "label": "E",
+          "text": "Vitiligo, an autoimmune depigmentation"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Acanthosis nigricans presents as symmetric velvety hyperpigmentation in flexural areas such as the neck and axillae. It most often reflects hyperinsulinemia/insulin resistance (obesity, type 2 diabetes) and can occasionally be a paraneoplastic sign.",
+        "whyCorrect": "Acanthosis nigricans presents as symmetric velvety hyperpigmentation in flexural areas such as the neck and axillae. It most often reflects hyperinsulinemia/insulin resistance (obesity, type 2 diabetes) and can occasionally be a paraneoplastic sign.",
+        "whyWrongByChoice": {
+          "B": "Addisonian hyperpigmentation is diffuse and accentuated in creases, mucosa and scars, without velvety thickening of the skin.",
+          "C": "Contact dermatitis is itchy, erythematous and often vesicular in the shape of the contact, not symmetric velvety hyperpigmentation.",
+          "D": "Tinea versicolor causes scaly hypo- or hyperpigmented macules on the trunk, not velvety thickened plaques in flexural folds.",
+          "E": "Vitiligo causes depigmented white patches, the opposite of the dark, thickened plaques shown."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "bopic-059_29_p11_1.png",
+      "tags": [
+        "picture"
+      ],
+      "lecture": "Basic Nutritional Requirements for Metabolism (1 of 3)",
+      "lectureTopicId": "basic-nutritional-requirements-for-metabolism",
+      "source": "boom-picqbank"
+    },
+    {
+      "id": "bopic-060",
+      "topicId": "pictures-w5",
+      "topicName": "Week 5 pictures",
+      "stem": "This radiograph is from a toddler with delayed walking and a diet low in vitamin D. What condition does it depict?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Achondroplasia"
+        },
+        {
+          "label": "B",
+          "text": "Osteogenesis imperfecta"
+        },
+        {
+          "label": "C",
+          "text": "Osteopetrosis"
+        },
+        {
+          "label": "D",
+          "text": "Paget disease of bone"
+        },
+        {
+          "label": "E",
+          "text": "Rickets"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Bowing deformities and cupped, frayed metaphyses in a child indicate rickets, caused by vitamin D (or calcium/phosphate) deficiency leading to defective mineralization of growing bone.",
+        "whyCorrect": "Bowing deformities and cupped, frayed metaphyses in a child indicate rickets, caused by vitamin D (or calcium/phosphate) deficiency leading to defective mineralization of growing bone.",
+        "whyWrongByChoice": {
+          "A": "Achondroplasia causes short limbs with normally mineralized bone from FGFR3 mutation, not frayed, poorly mineralized metaphyses.",
+          "B": "Osteogenesis imperfecta causes brittle bones with multiple fractures from type I collagen defects, but the metaphyses are not cupped and frayed.",
+          "C": "Osteopetrosis produces dense, sclerotic bones from osteoclast failure, the opposite of poorly mineralized bone.",
+          "D": "Paget disease affects older adults, with thickened, coarse bone and enlarged skull, not childhood metaphyseal widening."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "bopic-060_30_p13_1.png",
+      "tags": [
+        "picture"
+      ],
+      "lecture": "Fat-Soluble Vitamins (A, D, E, K)",
+      "lectureTopicId": "fat-soluble-vitamins-a-d-e-k",
+      "source": "boom-picqbank"
+    },
+    {
+      "id": "bopic-216",
+      "topicId": "pictures-w5",
+      "topicName": "Week 5 pictures",
+      "stem": "This figure shows a cycle linking skeletal muscle and the liver. What is this cycle called?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Citric acid (Krebs) cycle"
+        },
+        {
+          "label": "B",
+          "text": "Cori cycle"
+        },
+        {
+          "label": "C",
+          "text": "Glucose-alanine (Cahill) cycle"
+        },
+        {
+          "label": "D",
+          "text": "Malate-aspartate shuttle"
+        },
+        {
+          "label": "E",
+          "text": "Urea cycle"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "In the glucose-alanine (Cahill) cycle, muscle transaminates pyruvate to alanine using ALT, exporting both carbon and nitrogen to the liver. The liver reconverts alanine to pyruvate for gluconeogenesis and channels the nitrogen into urea. This differs from the Cori cycle, which shuttles lactate rather than alanine and carries no nitrogen.",
+        "whyCorrect": "In the glucose-alanine (Cahill) cycle, muscle transaminates pyruvate to alanine using ALT, exporting both carbon and nitrogen to the liver. The liver reconverts alanine to pyruvate for gluconeogenesis and channels the nitrogen into urea. This differs from the Cori cycle, which shuttles lactate rather than alanine and carries no nitrogen.",
+        "whyWrongByChoice": {
+          "A": "The citric acid cycle oxidizes acetyl-CoA within mitochondria of a single cell and is not an interorgan exchange of alanine and glucose.",
+          "B": "The Cori cycle shuttles lactate from muscle to liver and back as glucose; lactate carries no nitrogen, so it cannot export muscle nitrogen.",
+          "D": "The malate-aspartate shuttle moves reducing equivalents across the inner mitochondrial membrane within one cell, not between muscle and liver.",
+          "E": "The urea cycle is a hepatic pathway that converts ammonia to urea; it does not shuttle carbon and nitrogen between muscle and liver."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "bopic-216_33_p11_1.png",
+      "tags": [
+        "picture"
+      ],
+      "lecture": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle",
+      "lectureTopicId": "nitrogen-balance-and-urea-cycle",
+      "source": "boom-picqbank"
+    },
+    {
+      "id": "bopic-031",
+      "topicId": "pictures-w5",
+      "topicName": "Week 5 pictures",
+      "stem": "These crystals are seen on urine microscopy from a young adult with recurrent kidney stones. Which condition do they indicate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Calcium phosphate nephrocalcinosis"
+        },
+        {
+          "label": "B",
+          "text": "Cystinuria"
+        },
+        {
+          "label": "C",
+          "text": "Gout (uric acid stones)"
+        },
+        {
+          "label": "D",
+          "text": "Primary hyperoxaluria"
+        },
+        {
+          "label": "E",
+          "text": "Struvite (infection) stones"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Flat, colorless hexagonal crystals are the classic microscopic finding of cystinuria, reflecting defective reabsorption of cystine and dibasic amino acids.",
+        "whyCorrect": "Flat, colorless hexagonal crystals are the classic microscopic finding of cystinuria, reflecting defective reabsorption of cystine and dibasic amino acids.",
+        "whyWrongByChoice": {
+          "A": "Calcium phosphate forms amorphous or wedge-shaped crystals in alkaline urine, and nephrocalcinosis is parenchymal deposition, not hexagonal urinary crystals.",
+          "C": "Uric acid crystals are yellow-brown rhomboids or rosettes in acidic urine, not flat colorless hexagons.",
+          "D": "Primary hyperoxaluria produces calcium oxalate crystals, which look like envelopes (dihydrate) or dumbbells (monohydrate), not hexagons.",
+          "E": "Struvite stones form coffin-lid shaped rectangular prism crystals in alkaline urine with urease-producing bacteria, not hexagons."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "bopic-031_34_p25_1.png",
+      "tags": [
+        "picture"
+      ],
+      "lecture": "Inborn Errors of Amino Acid Metabolism",
+      "lectureTopicId": "inborn-errors-of-amino-acid-metabolism",
+      "source": "boom-picqbank"
+    },
+    {
+      "id": "bopic-014",
+      "topicId": "pictures-w6",
+      "topicName": "Week 6 pictures",
+      "stem": "A Prussian blue stain of a bone marrow aspirate from a patient with microcytic anemia is shown. What is the cell marked by the arrow?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Basophilic stippled erythrocyte"
+        },
+        {
+          "label": "B",
+          "text": "Heinz body"
+        },
+        {
+          "label": "C",
+          "text": "Howell-Jolly body"
+        },
+        {
+          "label": "D",
+          "text": "Ringed sideroblast"
+        },
+        {
+          "label": "E",
+          "text": "Target cell"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "A ringed sideroblast is an erythroid precursor with iron-laden mitochondria forming a perinuclear ring (Prussian blue positive), diagnostic of sideroblastic anemia.",
+        "whyCorrect": "A ringed sideroblast is an erythroid precursor with iron-laden mitochondria forming a perinuclear ring (Prussian blue positive), diagnostic of sideroblastic anemia.",
+        "whyWrongByChoice": {
+          "A": "Basophilic stippling consists of ribosomal RNA aggregates scattered through a mature red cell, seen on Wright stain, not a perinuclear iron ring in a nucleated precursor.",
+          "B": "Heinz bodies are denatured hemoglobin inclusions seen with supravital stains in G6PD deficiency, not iron-laden mitochondria around a nucleus.",
+          "C": "Howell-Jolly bodies are single nuclear DNA remnants in red cells after splenectomy, not a ring of Prussian blue-positive granules.",
+          "E": "Target cells are mature red cells with a central dense spot, seen in thalassemia and liver disease, without nuclei or iron granules."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "bopic-014_35_p6_1.png",
+      "tags": [
+        "picture"
+      ],
+      "lecture": "Porphyrins and Iron Homeostasis (1 of 2)",
+      "lectureTopicId": "porphyrins-and-iron-homeostasis",
+      "source": "boom-picqbank"
+    },
+    {
+      "id": "bopic-064",
+      "topicId": "pictures-w6",
+      "topicName": "Week 6 pictures",
+      "stem": "A 22-year-old with lifelong mild, fluctuating conjugated hyperbilirubinemia and normal liver enzymes undergoes laparoscopy. The liver appearance shown is characteristic of which inherited disorder?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Crigler-Najjar syndrome"
+        },
+        {
+          "label": "B",
+          "text": "Dubin-Johnson syndrome"
+        },
+        {
+          "label": "C",
+          "text": "Gilbert syndrome"
+        },
+        {
+          "label": "D",
+          "text": "Rotor syndrome"
+        },
+        {
+          "label": "E",
+          "text": "Wilson disease"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Dubin-Johnson syndrome (defective MRP2/canalicular transport of conjugated bilirubin) causes accumulation of dark pigment giving the liver a grossly black appearance, with conjugated hyperbilirubinemia.",
+        "whyCorrect": "Dubin-Johnson syndrome (defective MRP2/canalicular transport of conjugated bilirubin) causes accumulation of dark pigment giving the liver a grossly black appearance, with conjugated hyperbilirubinemia.",
+        "whyWrongByChoice": {
+          "A": "Crigler-Najjar syndrome is severe unconjugated hyperbilirubinemia from absent or reduced UGT1A1 activity, with no hepatic pigmentation.",
+          "C": "Gilbert syndrome causes mild unconjugated hyperbilirubinemia from reduced UGT1A1 activity, with a normal-appearing liver.",
+          "D": "Rotor syndrome also causes conjugated hyperbilirubinemia, but the liver is grossly and histologically normal, without black pigment.",
+          "E": "Wilson disease causes copper accumulation and cirrhosis, but not a black liver or an inherited conjugated hyperbilirubinemia."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "bopic-064_35_p18_1.png",
+      "tags": [
+        "picture"
+      ],
+      "lecture": "Porphyrins and Iron Homeostasis (1 of 2)",
+      "lectureTopicId": "porphyrins-and-iron-homeostasis",
+      "source": "boom-picqbank"
+    },
+    {
+      "id": "bopic-068",
+      "topicId": "pictures-w6",
+      "topicName": "Week 6 pictures",
+      "stem": "A 50-year-old man who drinks heavily has had the skin changes shown on his hands for several months; they worsen after sun exposure. Which condition is most likely?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acute intermittent porphyria"
+        },
+        {
+          "label": "B",
+          "text": "Allergic contact dermatitis"
+        },
+        {
+          "label": "C",
+          "text": "Bullous pemphigoid"
+        },
+        {
+          "label": "D",
+          "text": "Pellagra"
+        },
+        {
+          "label": "E",
+          "text": "Porphyria cutanea tarda"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Porphyria cutanea tarda causes skin fragility and blistering on sun-exposed skin (especially the dorsal hands) due to photosensitizing uroporphyrins from uroporphyrinogen decarboxylase deficiency. Lesions heal with scarring, milia, and hyperpigmentation.",
+        "whyCorrect": "Porphyria cutanea tarda causes skin fragility and blistering on sun-exposed skin (especially the dorsal hands) due to photosensitizing uroporphyrins from uroporphyrinogen decarboxylase deficiency. Lesions heal with scarring, milia, and hyperpigmentation.",
+        "whyWrongByChoice": {
+          "A": "Acute intermittent porphyria causes neurovisceral attacks without skin lesions, because ALA and porphobilinogen are not photosensitizing.",
+          "B": "Allergic contact dermatitis produces itchy eczematous plaques in the pattern of contact, not fragile, scarring blisters limited to sun-exposed skin.",
+          "C": "Bullous pemphigoid causes tense blisters on the trunk and flexures in older adults, not photo-distributed fragility with scarring and milia.",
+          "D": "Pellagra causes a photosensitive dermatitis that is scaly and hyperpigmented, not vesicles and erosions healing with scars and milia."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "bopic-068_36_p9_1.png",
+      "tags": [
+        "picture"
+      ],
+      "lecture": "Porphyrins and Iron Homeostasis (2 of 2)",
+      "lectureTopicId": "porphyrins-and-iron-homeostasis-2",
+      "source": "boom-picqbank"
+    },
+    {
+      "id": "bopic-070",
+      "topicId": "pictures-w6",
+      "topicName": "Week 6 pictures",
+      "stem": "The arrow marks a finding in the eye of a 34-year-old man whose father had a myocardial infarction at age 42. This finding is most strongly associated with which condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Chronic uremia"
+        },
+        {
+          "label": "B",
+          "text": "Familial hypercholesterolemia"
+        },
+        {
+          "label": "C",
+          "text": "Uncontrolled diabetes mellitus"
+        },
+        {
+          "label": "D",
+          "text": "Vitamin A deficiency"
+        },
+        {
+          "label": "E",
+          "text": "Wilson disease"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The finding is corneal arcus, a ring of lipid deposition at the corneal margin. In older patients it is an age-related change (arcus senilis), but when it appears before roughly age 45 it suggests a significant lipid disorder such as familial hypercholesterolemia. (A copper-colored Kayser-Fleischer ring, by contrast, indicates Wilson disease.)",
+        "whyCorrect": "The finding is corneal arcus, a ring of lipid deposition at the corneal margin. In older patients it is an age-related change (arcus senilis), but when it appears before roughly age 45 it suggests a significant lipid disorder such as familial hypercholesterolemia. (A copper-colored Kayser-Fleischer ring, by contrast, indicates Wilson disease.)",
+        "whyWrongByChoice": {
+          "A": "Chronic uremia can cause band keratopathy from calcium deposition across the interpalpebral cornea, not a circumferential peripheral arc.",
+          "C": "Diabetes mellitus causes retinopathy and cataracts, not a peripheral corneal lipid ring.",
+          "D": "Vitamin A deficiency causes xerophthalmia, Bitot spots and keratomalacia, not a gray-white peripheral ring.",
+          "E": "Wilson disease produces a golden-brown copper Kayser-Fleischer ring at the limbus, not a gray-white lipid ring."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "bopic-070_38_p8_1.png",
+      "tags": [
+        "picture"
+      ],
+      "lecture": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism",
+      "lectureTopicId": "dyslipidemias-lipid-storage-disorders-and-defects-in-lipid-metabolism",
+      "source": "boom-picqbank"
+    },
+    {
+      "id": "bopic-071",
+      "topicId": "pictures-w6",
+      "topicName": "Week 6 pictures",
+      "stem": "A patient with poorly controlled diabetes develops the sudden crop of skin lesions shown on the buttocks and thighs. These lesions are most characteristic of which underlying metabolic abnormality?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hypercalcemia from hyperparathyroidism"
+        },
+        {
+          "label": "B",
+          "text": "Hyperuricemia with tophaceous gout"
+        },
+        {
+          "label": "C",
+          "text": "Isolated hypercholesterolemia with normal triglycerides"
+        },
+        {
+          "label": "D",
+          "text": "Severe hypertriglyceridemia"
+        },
+        {
+          "label": "E",
+          "text": "Vitamin C deficiency with perifollicular hemorrhage"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "These are eruptive xanthomas, sudden crops of lipid-laden papules that arise when serum triglycerides are markedly elevated (as in familial hyperchylomicronemia or severe combined hyperlipidemia). They are composed of triglyceride-laden macrophages and typically regress when triglyceride levels are lowered, distinguishing them from the tendon xanthomas of hypercholesterolemia.",
+        "whyCorrect": "These are eruptive xanthomas, sudden crops of lipid-laden papules that arise when serum triglycerides are markedly elevated (as in familial hyperchylomicronemia or severe combined hyperlipidemia). They are composed of triglyceride-laden macrophages and typically regress when triglyceride levels are lowered, distinguishing them from the tendon xanthomas of hypercholesterolemia.",
+        "whyWrongByChoice": {
+          "A": "Hypercalcemia can cause metastatic calcification and calcinosis, typically firm white nodules, not crops of yellow-red papules with erythematous bases.",
+          "B": "Tophaceous gout produces firm chalky nodules over joints, ears and tendons, not sudden crops of small yellow papules.",
+          "C": "Isolated hypercholesterolemia causes tendon xanthomas and xanthelasma, while eruptive xanthomas require markedly elevated triglycerides.",
+          "E": "Scurvy causes perifollicular hemorrhages with corkscrew hairs, not lipid-laden yellow papules."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "bopic-071_38_p8_2.png",
+      "tags": [
+        "picture"
+      ],
+      "lecture": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism",
+      "lectureTopicId": "dyslipidemias-lipid-storage-disorders-and-defects-in-lipid-metabolism",
+      "source": "boom-picqbank"
+    },
+    {
+      "id": "bopic-255",
+      "topicId": "pictures-w7",
+      "topicName": "Week 7 pictures",
+      "stem": "The diagram shows a structural rearrangement in which a chromosomal segment is excised, flipped, and reinserted. Based on the position of the centromere relative to the rearranged segment, which abnormality is depicted?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Paracentric inversion"
+        },
+        {
+          "label": "B",
+          "text": "Pericentric inversion"
+        },
+        {
+          "label": "C",
+          "text": "Reciprocal translocation"
+        },
+        {
+          "label": "D",
+          "text": "Tandem duplication"
+        },
+        {
+          "label": "E",
+          "text": "Terminal deletion"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "An inversion in which the reversed segment lies entirely on one arm and excludes the centromere is a paracentric inversion; a pericentric inversion would span the centromere.",
+        "whyCorrect": "An inversion in which the reversed segment lies entirely on one arm and excludes the centromere is a paracentric inversion; a pericentric inversion would span the centromere.",
+        "whyWrongByChoice": {
+          "B": "A pericentric inversion includes the centromere in the flipped segment; this one excludes the centromere.",
+          "C": "A reciprocal translocation exchanges segments between two non-homologous chromosomes, rather than flipping a segment within one.",
+          "D": "A tandem duplication adds an extra copy of a segment next to the original rather than reversing its orientation.",
+          "E": "A terminal deletion removes a chromosome end with no reinsertion or reversal."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "bopic-255_40_p22_1.png",
+      "tags": [
+        "picture"
+      ],
+      "lecture": "Chromosomes",
+      "lectureTopicId": "chromosomes",
+      "source": "boom-picqbank"
+    },
+    {
+      "id": "bopic-045",
+      "topicId": "pictures-w7",
+      "topicName": "Week 7 pictures",
+      "stem": "This G-banded karyotype is obtained from a newborn girl. Which clinical syndrome does it show?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Down syndrome"
+        },
+        {
+          "label": "B",
+          "text": "Edwards syndrome"
+        },
+        {
+          "label": "C",
+          "text": "Klinefelter syndrome"
+        },
+        {
+          "label": "D",
+          "text": "Patau syndrome"
+        },
+        {
+          "label": "E",
+          "text": "Turner syndrome"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The karyotype shows three copies of chromosome 21 with two X chromosomes (47,XX,+21), i.e., trisomy 21, which causes Down syndrome: intellectual disability, characteristic facies, and increased risk of congenital heart defects.",
+        "whyCorrect": "Chromosome 21 is present in three copies with an otherwise normal female complement (47,XX,+21). Trisomy 21 causes Down syndrome. Edwards (18) and Patau (13) are other autosomal trisomies, and chromosomes 13 and 18 are paired normally here.",
+        "whyWrongByChoice": {
+          "B": "Edwards syndrome is trisomy 18; chromosome 18 is present in two copies here.",
+          "C": "Klinefelter syndrome is 47,XXY; there is no Y chromosome and the extra chromosome is a 21.",
+          "D": "Patau syndrome is trisomy 13; chromosome 13 is present in two copies here.",
+          "E": "Turner syndrome is 45,X; this karyotype has two X chromosomes and 47 total."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "bopic-045_45_p3_1.png",
+      "tags": [
+        "picture"
+      ],
+      "lecture": "Numerical & Structural Chromosomal Alterations (1/3) - Variants in Chromosome Number",
+      "lectureTopicId": "variants-in-chromosome-number",
+      "source": "boom-picqbank"
+    },
+    {
+      "id": "bopic-041",
+      "topicId": "pictures-w7",
+      "topicName": "Week 7 pictures",
+      "stem": "This G-banded karyotype is obtained from a phenotypically male patient. Which condition does it represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Down syndrome"
+        },
+        {
+          "label": "B",
+          "text": "Jacobs syndrome (XYY)"
+        },
+        {
+          "label": "C",
+          "text": "Klinefelter syndrome"
+        },
+        {
+          "label": "D",
+          "text": "Trisomy X"
+        },
+        {
+          "label": "E",
+          "text": "Turner syndrome"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "A 47,XXY karyotype with an extra X chromosome is diagnostic of Klinefelter syndrome, associated with tall stature, gynecomastia, small testes, and infertility.",
+        "whyCorrect": "A 47,XXY karyotype with an extra X chromosome is diagnostic of Klinefelter syndrome, associated with tall stature, gynecomastia, small testes, and infertility.",
+        "whyWrongByChoice": {
+          "A": "Down syndrome is trisomy 21, an autosomal trisomy with normal sex chromosomes.",
+          "B": "Jacobs syndrome is 47,XYY, with an extra Y chromosome rather than an extra X.",
+          "D": "Trisomy X is 47,XXX, with three X chromosomes and no Y, producing a female phenotype.",
+          "E": "Turner syndrome is 45,X, a single X with no second sex chromosome."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "bopic-041_42_p12_1.png",
+      "tags": [
+        "picture"
+      ],
+      "lecture": "Sex Chromosome Aneuploidy",
+      "lectureTopicId": "sex-chromosome-aneuploidy",
+      "source": "boom-picqbank"
+    },
+    {
+      "id": "bopic-078",
+      "topicId": "pictures-w7",
+      "topicName": "Week 7 pictures",
+      "stem": "A phenotypically male adult has the physical findings shown. Which chromosomal complement best explains this presentation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "45,X"
+        },
+        {
+          "label": "B",
+          "text": "46,XY with 5-alpha-reductase deficiency"
+        },
+        {
+          "label": "C",
+          "text": "47,XXX"
+        },
+        {
+          "label": "D",
+          "text": "47,XXY"
+        },
+        {
+          "label": "E",
+          "text": "47,XYY"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The combination of eunuchoid tall stature, gynecomastia, small firm testes, and hypoandrogenic features is classic for Klinefelter syndrome (47,XXY), in which an extra X chromosome causes primary hypogonadism and testosterone deficiency.",
+        "whyCorrect": "The combination of eunuchoid tall stature, gynecomastia, small firm testes, and hypoandrogenic features is classic for Klinefelter syndrome (47,XXY), in which an extra X chromosome causes primary hypogonadism and testosterone deficiency.",
+        "whyWrongByChoice": {
+          "A": "45,X produces a phenotypic female with short stature (Turner syndrome), not a tall male.",
+          "B": "5-alpha-reductase deficiency causes ambiguous genitalia at birth with virilization at puberty, not tall stature with gynecomastia and small firm testes.",
+          "C": "47,XXX produces a phenotypic female, not a male with gynecomastia and small testes.",
+          "E": "47,XYY males are tall but generally have normal testes and androgenization, without gynecomastia or hypogonadism."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "bopic-078_42_p14_1.png",
+      "tags": [
+        "picture"
+      ],
+      "lecture": "Sex Chromosome Aneuploidy",
+      "lectureTopicId": "sex-chromosome-aneuploidy",
+      "source": "boom-picqbank"
+    },
+    {
+      "id": "bopic-046",
+      "topicId": "pictures-w7",
+      "topicName": "Week 7 pictures",
+      "stem": "This metaphase spread is from an infant with a conotruncal heart defect and hypocalcemia. The arrows mark the two copies of chromosome 22. What technique produced this image?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Comparative genomic hybridization"
+        },
+        {
+          "label": "B",
+          "text": "Fluorescence in situ hybridization"
+        },
+        {
+          "label": "C",
+          "text": "G-banded karyotyping"
+        },
+        {
+          "label": "D",
+          "text": "Polymerase chain reaction"
+        },
+        {
+          "label": "E",
+          "text": "Southern blotting"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "FISH applies fluorescent locus-specific probes to metaphase or interphase chromosomes. Absence of the probe signal on one chromosome 22 indicates a targeted microdeletion (e.g., 22q11.2) that a standard karyotype would miss.",
+        "whyCorrect": "FISH applies fluorescent locus-specific probes to metaphase or interphase chromosomes. Absence of the probe signal on one chromosome 22 indicates a targeted microdeletion (e.g., 22q11.2) that a standard karyotype would miss.",
+        "whyWrongByChoice": {
+          "A": "CGH compares labeled test and reference DNA hybridized to an array or normal metaphases, rather than a single locus-specific probe.",
+          "C": "G-banded karyotyping uses Giemsa stain to create light and dark bands, without fluorescent locus-specific probe signals.",
+          "D": "PCR amplifies DNA in a tube and does not visualize probe signals on intact chromosomes.",
+          "E": "Southern blotting analyzes DNA fragments on a membrane, not chromosomes in a metaphase spread."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "bopic-046_45_p7_1.png",
+      "tags": [
+        "picture"
+      ],
+      "lecture": "Molecular Biology Techniques (1 of 3) - Cytogenetics",
+      "lectureTopicId": "molecular-biology-techniques-cytogenetics",
+      "source": "boom-picqbank"
+    },
+    {
+      "id": "bopic-271",
+      "topicId": "pictures-w7",
+      "topicName": "Week 7 pictures",
+      "stem": "Filled symbols indicate affected individuals in this pedigree. What is the most likely mode of inheritance?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Autosomal dominant"
+        },
+        {
+          "label": "B",
+          "text": "Autosomal recessive"
+        },
+        {
+          "label": "C",
+          "text": "Mitochondrial"
+        },
+        {
+          "label": "D",
+          "text": "X-linked dominant"
+        },
+        {
+          "label": "E",
+          "text": "X-linked recessive"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Vertical transmission through every generation with both sexes affected and each affected individual having an affected parent is the hallmark of autosomal dominant inheritance. Male-to-male transmission would further exclude X-linkage.",
+        "whyCorrect": "Vertical transmission through every generation with both sexes affected and each affected individual having an affected parent is the hallmark of autosomal dominant inheritance. Male-to-male transmission would further exclude X-linkage.",
+        "whyWrongByChoice": {
+          "B": "Autosomal recessive traits typically skip generations and appear in offspring of unaffected carrier parents.",
+          "C": "Mitochondrial traits pass only from affected mothers, never from affected fathers to their children.",
+          "D": "X-linked dominant inheritance would show affected fathers passing the trait to all daughters and no sons, not equal transmission to both sexes.",
+          "E": "X-linked recessive traits affect mostly males, transmitted through unaffected carrier mothers, without vertical male-to-male transmission."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "bopic-271_46_p11_1.png",
+      "tags": [
+        "picture"
+      ],
+      "lecture": "Pedigrees and Patterns of Monogenic Inheritance",
+      "lectureTopicId": "pedigrees-and-patterns-of-monogenic-inheritance",
+      "source": "boom-picqbank"
+    },
+    {
+      "id": "bopic-272",
+      "topicId": "pictures-w7",
+      "topicName": "Week 7 pictures",
+      "stem": "In this pedigree, filled symbols indicate affected individuals and a central dot indicates a heterozygous carrier. What is the most likely mode of inheritance?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Autosomal dominant"
+        },
+        {
+          "label": "B",
+          "text": "Autosomal recessive"
+        },
+        {
+          "label": "C",
+          "text": "Mitochondrial"
+        },
+        {
+          "label": "D",
+          "text": "X-linked dominant"
+        },
+        {
+          "label": "E",
+          "text": "Y-linked"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Two unaffected heterozygous carriers producing affected children, with the trait skipping generations and affecting both sexes, is characteristic of autosomal recessive inheritance. Carrier status (dot) is emphasized because heterozygotes are clinically silent.",
+        "whyCorrect": "Two unaffected heterozygous carriers producing affected children, with the trait skipping generations and affecting both sexes, is characteristic of autosomal recessive inheritance. Carrier status (dot) is emphasized because heterozygotes are clinically silent.",
+        "whyWrongByChoice": {
+          "A": "Autosomal dominant traits appear in every generation with an affected parent, not in children of two unaffected parents.",
+          "C": "Mitochondrial inheritance passes from an affected mother to all her children, and carrier status is not marked this way.",
+          "D": "X-linked dominant traits require an affected parent and appear in every generation, not in one sibship of unaffected parents.",
+          "E": "Y-linked traits affect only males and pass from father to son, unlike this pattern involving both sexes."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "bopic-272_46_p13_1.png",
+      "tags": [
+        "picture"
+      ],
+      "lecture": "Pedigrees and Patterns of Monogenic Inheritance",
+      "lectureTopicId": "pedigrees-and-patterns-of-monogenic-inheritance",
+      "source": "boom-picqbank"
+    },
+    {
+      "id": "bopic-273",
+      "topicId": "pictures-w7",
+      "topicName": "Week 7 pictures",
+      "stem": "Filled symbols indicate affected individuals in this pedigree. What is the most likely mode of inheritance?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Autosomal dominant"
+        },
+        {
+          "label": "B",
+          "text": "Autosomal recessive"
+        },
+        {
+          "label": "C",
+          "text": "X-linked dominant"
+        },
+        {
+          "label": "D",
+          "text": "X-linked recessive"
+        },
+        {
+          "label": "E",
+          "text": "Y-linked"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "An affected male passes his single X to every daughter and his Y to every son, so in X-linked dominant inheritance all daughters and no sons of an affected father are affected. Absence of male-to-male transmission is the key clue.",
+        "whyCorrect": "An affected male passes his single X to every daughter and his Y to every son, so in X-linked dominant inheritance all daughters and no sons of an affected father are affected. Absence of male-to-male transmission is the key clue.",
+        "whyWrongByChoice": {
+          "A": "Autosomal dominant inheritance would allow an affected father to pass the trait to about half of sons and daughters, including male-to-male transmission.",
+          "B": "Autosomal recessive traits do not pass from an affected father to every daughter; the children would usually be unaffected carriers.",
+          "D": "In X-linked recessive inheritance, daughters of an affected father become unaffected carriers rather than being affected themselves.",
+          "E": "Y-linked traits pass from father to every son and never to daughters, the reverse of this pattern."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "bopic-273_46_p15_1.png",
+      "tags": [
+        "picture"
+      ],
+      "lecture": "Pedigrees and Patterns of Monogenic Inheritance",
+      "lectureTopicId": "pedigrees-and-patterns-of-monogenic-inheritance",
+      "source": "boom-picqbank"
+    },
+    {
+      "id": "bopic-274",
+      "topicId": "pictures-w7",
+      "topicName": "Week 7 pictures",
+      "stem": "In this pedigree, filled symbols indicate affected individuals and a central dot indicates a heterozygous carrier. What is the most likely mode of inheritance?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Autosomal dominant"
+        },
+        {
+          "label": "B",
+          "text": "Autosomal recessive"
+        },
+        {
+          "label": "C",
+          "text": "Mitochondrial"
+        },
+        {
+          "label": "D",
+          "text": "X-linked dominant"
+        },
+        {
+          "label": "E",
+          "text": "X-linked recessive"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "In X-linked recessive inheritance an affected male makes all daughters obligate carriers; those carrier daughters then transmit the allele to affected sons. The disorder predominantly affects males and skips through unaffected carrier females, with no male-to-male transmission.",
+        "whyCorrect": "In X-linked recessive inheritance an affected male makes all daughters obligate carriers; those carrier daughters then transmit the allele to affected sons. The disorder predominantly affects males and skips through unaffected carrier females, with no male-to-male transmission.",
+        "whyWrongByChoice": {
+          "A": "Autosomal dominant traits would make about half of an affected male's children affected, including sons, and carriers would show the trait.",
+          "B": "Autosomal recessive traits do not show this consistent male predominance transmitted through carrier daughters of affected males.",
+          "C": "Mitochondrial disorders pass only from mothers; an affected male would not transmit through his daughters.",
+          "D": "In X-linked dominant inheritance all daughters of an affected male would be affected, not unaffected carriers."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "bopic-274_46_p17_1.png",
+      "tags": [
+        "picture"
+      ],
+      "lecture": "Pedigrees and Patterns of Monogenic Inheritance",
+      "lectureTopicId": "pedigrees-and-patterns-of-monogenic-inheritance",
+      "source": "boom-picqbank"
+    },
+    {
+      "id": "bopic-275",
+      "topicId": "pictures-w7",
+      "topicName": "Week 7 pictures",
+      "stem": "The top cell in this figure divides, and its daughter cells show variable disease phenotypes. What term describes the mitochondrial genotype of the top cell?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Anticipation"
+        },
+        {
+          "label": "B",
+          "text": "Genomic imprinting"
+        },
+        {
+          "label": "C",
+          "text": "Heteroplasmy"
+        },
+        {
+          "label": "D",
+          "text": "Homoplasmy"
+        },
+        {
+          "label": "E",
+          "text": "Locus heterogeneity"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Heteroplasmy is the presence of both mutant and wild-type mtDNA in one cell. Random segregation during division changes the mutant load; disease appears only once the mutant fraction exceeds a tissue-specific threshold for phenotypic expression, as shown by the disease vs normal phenotype branches.",
+        "whyCorrect": "Heteroplasmy is the presence of both mutant and wild-type mtDNA in one cell. Random segregation during division changes the mutant load; disease appears only once the mutant fraction exceeds a tissue-specific threshold for phenotypic expression, as shown by the disease vs normal phenotype branches.",
+        "whyWrongByChoice": {
+          "A": "Anticipation is worsening severity or earlier onset in successive generations, typical of trinucleotide repeat disorders.",
+          "B": "Genomic imprinting is parent-of-origin-specific expression of nuclear genes, not a mix of mitochondrial genotypes.",
+          "D": "Homoplasmy means all mitochondrial genomes in a cell are identical, either all mutant or all normal.",
+          "E": "Locus heterogeneity means mutations in different genes cause the same phenotype, not mixed mtDNA within a cell."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "bopic-275_46_p7_1.png",
+      "tags": [
+        "picture"
+      ],
+      "lecture": "Mitochondrial Diseases",
+      "lectureTopicId": "mitochondrial-diseases",
+      "source": "boom-picqbank"
+    }
+  ]
+}
