@@ -42,16 +42,6 @@ export const SITE: SiteConfig = {
       "label": "Picture QBank",
       "url": "https://zbenja168.github.io/boom-picqbank/",
       "current": false
-    },
-    {
-      "label": "Picture Match",
-      "url": "https://zbenja168.github.io/boom-picdnd/",
-      "current": false
-    },
-    {
-      "label": "Anatomy ID",
-      "url": "https://zbenja168.github.io/boom-anatomy/",
-      "current": false
     }
   ]
 };
