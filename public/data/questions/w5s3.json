@@ -574,6 +574,53 @@
       "topicName": "Inborn Errors of Amino Acid Metabolism",
       "tier": "core",
       "hy": true
+    },
+    {
+      "id": "bopic-031",
+      "topicId": "inborn-errors-of-amino-acid-metabolism",
+      "topicName": "Inborn Errors of Amino Acid Metabolism",
+      "stem": "These crystals are seen on urine microscopy from a young adult with recurrent kidney stones. Which condition do they indicate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Calcium phosphate nephrocalcinosis"
+        },
+        {
+          "label": "B",
+          "text": "Cystinuria"
+        },
+        {
+          "label": "C",
+          "text": "Gout (uric acid stones)"
+        },
+        {
+          "label": "D",
+          "text": "Primary hyperoxaluria"
+        },
+        {
+          "label": "E",
+          "text": "Struvite (infection) stones"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Flat, colorless hexagonal crystals are the classic microscopic finding of cystinuria, reflecting defective reabsorption of cystine and dibasic amino acids.",
+        "whyCorrect": "Flat, colorless hexagonal crystals are the classic microscopic finding of cystinuria, reflecting defective reabsorption of cystine and dibasic amino acids.",
+        "whyWrongByChoice": {
+          "A": "Calcium phosphate forms amorphous or wedge-shaped crystals in alkaline urine, and nephrocalcinosis is parenchymal deposition, not hexagonal urinary crystals.",
+          "C": "Uric acid crystals are yellow-brown rhomboids or rosettes in acidic urine, not flat colorless hexagons.",
+          "D": "Primary hyperoxaluria produces calcium oxalate crystals, which look like envelopes (dihydrate) or dumbbells (monohydrate), not hexagons.",
+          "E": "Struvite stones form coffin-lid shaped rectangular prism crystals in alkaline urine with urease-producing bacteria, not hexagons."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "bopic-031_34_p25_1.png",
+      "tags": [
+        "picture"
+      ],
+      "source": "boom-picqbank"
     }
   ]
 }

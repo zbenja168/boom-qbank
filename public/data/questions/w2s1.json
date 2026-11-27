@@ -2290,6 +2290,53 @@
       "hy": true
     },
     {
+      "id": "bopic-098",
+      "topicId": "dna-replication",
+      "topicName": "DNA Replication",
+      "stem": "In this figure, blue strands are parental and red strands are newly synthesized. Which model of DNA replication does it illustrate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bidirectional theta replication"
+        },
+        {
+          "label": "B",
+          "text": "Conservative replication"
+        },
+        {
+          "label": "C",
+          "text": "Dispersive replication"
+        },
+        {
+          "label": "D",
+          "text": "Rolling-circle replication"
+        },
+        {
+          "label": "E",
+          "text": "Semiconservative replication"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Each daughter helix retains one parental (original template) strand paired with one newly synthesized strand, which is the defining feature of semiconservative replication.",
+        "whyCorrect": "Each daughter helix retains one parental (original template) strand paired with one newly synthesized strand, which is the defining feature of semiconservative replication.",
+        "whyWrongByChoice": {
+          "A": "Theta replication describes the bidirectional copying of circular bacterial chromosomes, a fork geometry rather than a model of strand inheritance.",
+          "B": "Conservative replication would leave one daughter with both original strands and the other entirely new, which is not shown.",
+          "C": "Dispersive replication would mix old and new segments within each strand, not keep one intact parental strand per duplex.",
+          "D": "Rolling-circle replication copies circular DNA (e.g., plasmids, some viruses) by continuously extending one strand, not two symmetric daughter duplexes."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "bopic-098_10_p2_1.png",
+      "tags": [
+        "picture"
+      ],
+      "source": "boom-picqbank"
+    },
+    {
       "id": "bo11-001",
       "stem": "A 40-year-old man is prescribed an antibiotic that treats his bacterial infection by disrupting the translation of mRNA into protein. After reading the drug information sheet, he worries the drug will also shut down protein synthesis in his own cells. Which of the following best explains why the antibiotic will not interfere with translation in humans?",
       "choices": [

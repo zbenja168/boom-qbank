@@ -576,6 +576,53 @@
       "hy": true
     },
     {
+      "id": "bopic-117",
+      "topicId": "proteins-enzymatic-machines-and-protein-based-disorders-ii",
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II",
+      "stem": "Which enzyme catalyzes the reaction shown?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acetyl-CoA carboxylase"
+        },
+        {
+          "label": "B",
+          "text": "PEP carboxykinase"
+        },
+        {
+          "label": "C",
+          "text": "Pyruvate carboxylase"
+        },
+        {
+          "label": "D",
+          "text": "Pyruvate dehydrogenase"
+        },
+        {
+          "label": "E",
+          "text": "Pyruvate kinase"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Pyruvate carboxylase (a biotin-dependent, ATP-requiring enzyme) carboxylates pyruvate to oxaloacetate, an anaplerotic and gluconeogenic step. It is activated by acetyl-CoA.",
+        "whyCorrect": "Pyruvate carboxylase (a biotin-dependent, ATP-requiring enzyme) carboxylates pyruvate to oxaloacetate, an anaplerotic and gluconeogenic step. It is activated by acetyl-CoA.",
+        "whyWrongByChoice": {
+          "A": "Acetyl-CoA carboxylase carboxylates acetyl-CoA to malonyl-CoA for fatty acid synthesis, not pyruvate.",
+          "B": "PEP carboxykinase converts oxaloacetate to PEP (using GTP) in the next gluconeogenic step.",
+          "D": "Pyruvate dehydrogenase decarboxylates pyruvate to acetyl-CoA, releasing CO2 rather than fixing it.",
+          "E": "Pyruvate kinase converts PEP to pyruvate in glycolysis, generating ATP rather than consuming it."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "bopic-117_15_p24_1.png",
+      "tags": [
+        "picture"
+      ],
+      "source": "boom-picqbank"
+    },
+    {
       "id": "bo16-001",
       "stem": "A researcher compares two isozymes that both catalyze the first step of glycolysis. Enzyme X, found in red blood cells and neurons, becomes half-maximally active at a very low glucose concentration, whereas enzyme Y, found in hepatocytes, requires a much higher glucose concentration to reach half-maximal activity. Which property best explains why enzyme X can phosphorylate glucose even during fasting?",
       "choices": [
@@ -1161,6 +1208,100 @@
       "hy": true
     },
     {
+      "id": "bopic-126",
+      "topicId": "proteins-enzymatic-machines-protein-based-disorders-ii",
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II",
+      "stem": "This Lineweaver-Burk plot compares an enzyme with and without an inhibitor. What type of inhibition is depicted?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Allosteric activation (increased Vmax and decreased Km)"
+        },
+        {
+          "label": "B",
+          "text": "Competitive inhibition (unchanged Vmax, increased apparent Km)"
+        },
+        {
+          "label": "C",
+          "text": "Irreversible inhibition (permanent loss of active enzyme)"
+        },
+        {
+          "label": "D",
+          "text": "Noncompetitive inhibition (decreased Vmax, unchanged Km)"
+        },
+        {
+          "label": "E",
+          "text": "Uncompetitive inhibition (decreased Vmax and decreased Km)"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "A shared y-intercept means Vmax is unchanged, while the shifted x-intercept indicates an increased apparent Km. This pattern is classic for competitive inhibition, where the inhibitor competes with substrate and can be overcome by high substrate concentrations.",
+        "whyCorrect": "A shared y-intercept means Vmax is unchanged, while the shifted x-intercept indicates an increased apparent Km. This pattern is classic for competitive inhibition, where the inhibitor competes with substrate and can be overcome by high substrate concentrations.",
+        "whyWrongByChoice": {
+          "A": "Activation would lower the slope and y-intercept, but here the inhibitor line is steeper with the same y-intercept, indicating inhibition, not activation.",
+          "C": "Irreversible inhibition removes functional enzyme and behaves like decreased Vmax, which would raise the y-intercept rather than leave it unchanged.",
+          "D": "Noncompetitive inhibition decreases Vmax, raising the y-intercept while keeping the x-intercept fixed; here the y-intercept is shared and the x-intercept moves.",
+          "E": "Uncompetitive inhibition lowers both Vmax and Km, producing parallel lines with a higher y-intercept, not a shared y-intercept with a steeper slope."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "bopic-126_16_p8_1.png",
+      "tags": [
+        "picture"
+      ],
+      "source": "boom-picqbank"
+    },
+    {
+      "id": "bopic-127",
+      "topicId": "proteins-enzymatic-machines-protein-based-disorders-ii",
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II",
+      "stem": "This Lineweaver-Burk plot compares an enzyme with and without an inhibitor. What type of enzyme inhibition does this represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Competitive inhibition (unchanged Vmax, increased Km)"
+        },
+        {
+          "label": "B",
+          "text": "Feedback activation of the enzyme"
+        },
+        {
+          "label": "C",
+          "text": "Mixed inhibition (decreased Vmax, increased Km)"
+        },
+        {
+          "label": "D",
+          "text": "Noncompetitive inhibition (decreased Vmax, unchanged Km)"
+        },
+        {
+          "label": "E",
+          "text": "Uncompetitive inhibition (decreased Vmax and decreased Km)"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "A shared x-intercept indicates an unchanged Km, while the raised y-intercept reflects a lowered Vmax. This is the signature of noncompetitive inhibition, in which the inhibitor binds independent of substrate and cannot be overcome by adding more substrate.",
+        "whyCorrect": "A shared x-intercept indicates an unchanged Km, while the raised y-intercept reflects a lowered Vmax. This is the signature of noncompetitive inhibition, in which the inhibitor binds independent of substrate and cannot be overcome by adding more substrate.",
+        "whyWrongByChoice": {
+          "A": "Competitive inhibition leaves Vmax unchanged (shared y-intercept) and moves the x-intercept toward zero; this plot shows the reverse pattern.",
+          "B": "The plot shows an inhibitor reducing Vmax (a higher y-intercept), not any activation of the enzyme.",
+          "C": "Mixed inhibition lowers Vmax but also changes Km, so the x-intercept would move; here the lines share the x-intercept, so Km is unchanged.",
+          "E": "Uncompetitive inhibition lowers both Km and Vmax, giving a line parallel to the control with shifted x- and y-intercepts, not a shared x-intercept."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "bopic-127_16_p9_1.png",
+      "tags": [
+        "picture"
+      ],
+      "source": "boom-picqbank"
+    },
+    {
       "id": "bo17-001",
       "stem": "A 34-year-old man has a reactive HIV screening immunoassay. Following laboratory protocol, a confirmatory test is performed in which proteins are denatured, given a uniform negative charge, separated through a gel by size, transferred to a membrane, and then probed with labeled antibodies. Which of the following techniques is being used?",
       "choices": [
@@ -1730,6 +1871,53 @@
       "topicName": "Biotechniques: Protein Detection",
       "tier": "core",
       "hy": true
+    },
+    {
+      "id": "bopic-053",
+      "topicId": "biotechniques-protein-detection",
+      "topicName": "Biotechniques: Protein Detection",
+      "stem": "Scanning electron micrographs compare a normal red blood cell (left) with a red cell from a patient with recurrent pain crises (right). The shape change on the right results directly from what molecular event?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Accumulation of excess iron within the cytoplasm"
+        },
+        {
+          "label": "B",
+          "text": "Antibody-mediated agglutination of the red cell surface"
+        },
+        {
+          "label": "C",
+          "text": "Loss of the cell membrane cytoskeleton due to complement attack"
+        },
+        {
+          "label": "D",
+          "text": "Osmotic swelling from impaired sodium pumping"
+        },
+        {
+          "label": "E",
+          "text": "Polymerization of deoxygenated hemoglobin S into rigid fibers"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "In sickle cell disease, a valine-for-glutamate substitution in beta-globin causes deoxygenated HbS to polymerize into rigid fibers that distort the red cell into the characteristic sickle/crescent shape seen on the right.",
+        "whyCorrect": "In sickle cell disease, a valine-for-glutamate substitution in beta-globin causes deoxygenated HbS to polymerize into rigid fibers that distort the red cell into the characteristic sickle/crescent shape seen on the right.",
+        "whyWrongByChoice": {
+          "A": "Iron accumulation within red cells produces siderocytes or Pappenheimer bodies, not rigid crescent deformation of the whole cell.",
+          "B": "Antibody-mediated agglutination clumps red cells together and leads to spherocytes, not individual elongated crescent-shaped cells.",
+          "C": "Complement attack lyses red cells, as in PNH, causing intravascular hemolysis rather than converting them into rigid sickle shapes.",
+          "D": "Failed sodium pumping causes cells to swell toward spheres and lyse; the crescent shape comes from intracellular HbS polymer fibers."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "bopic-053_17_p13_1.png",
+      "tags": [
+        "picture"
+      ],
+      "source": "boom-picqbank"
     }
   ]
 }

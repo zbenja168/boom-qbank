@@ -1158,6 +1158,53 @@
       "topicId": "metabolic-overview-i-general-reactions-2-of-2",
       "topicName": "Metabolic Overview I: General Reactions (2 of 2)",
       "tier": "core"
+    },
+    {
+      "id": "bopic-027",
+      "topicId": "metabolic-overview-i-general-reactions-2-of-2",
+      "topicName": "Metabolic Overview I: General Reactions (2 of 2)",
+      "stem": "A urine microscopy specimen from a patient with a suspected toxic ingestion shows the colorless crystals in this image. What are they?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Calcium oxalate crystals"
+        },
+        {
+          "label": "B",
+          "text": "Cholesterol crystals"
+        },
+        {
+          "label": "C",
+          "text": "Cystine crystals"
+        },
+        {
+          "label": "D",
+          "text": "Struvite (triple phosphate) crystals"
+        },
+        {
+          "label": "E",
+          "text": "Uric acid crystals"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Colorless, square bipyramidal ('envelope') crystals with an X across the face are calcium oxalate dihydrate, the most common urinary crystal and stone type; they are associated with hypercalciuria and ethylene glycol toxicity.",
+        "whyCorrect": "The square 'envelope' shape with an X across the face is characteristic of calcium oxalate dihydrate crystals. They form in acidic or neutral urine and are classically seen with ethylene glycol ingestion and hypercalciuria.",
+        "whyWrongByChoice": {
+          "B": "Cholesterol crystals appear as flat plates with notched corners, seen in nephrotic syndrome, not envelope shapes.",
+          "C": "Cystine crystals are flat, colorless hexagons, as seen in cystinuria.",
+          "D": "Struvite crystals have a coffin-lid (rectangular prism) shape and form in alkaline urine with urease-producing bacteria.",
+          "E": "Uric acid crystals are yellow-brown rhomboid or rosette shapes in acidic urine, not colorless envelopes."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "bopic-027_2_p13_1.png",
+      "tags": [
+        "picture"
+      ],
+      "source": "boom-picqbank"
     }
   ]
 }

@@ -1145,6 +1145,53 @@
       "topicId": "nitrogen-balance-and-urea-cycle",
       "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle",
       "tier": "core"
+    },
+    {
+      "id": "bopic-216",
+      "topicId": "nitrogen-balance-and-urea-cycle",
+      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle",
+      "stem": "This figure shows a cycle linking skeletal muscle and the liver. What is this cycle called?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Citric acid (Krebs) cycle"
+        },
+        {
+          "label": "B",
+          "text": "Cori cycle"
+        },
+        {
+          "label": "C",
+          "text": "Glucose-alanine (Cahill) cycle"
+        },
+        {
+          "label": "D",
+          "text": "Malate-aspartate shuttle"
+        },
+        {
+          "label": "E",
+          "text": "Urea cycle"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "In the glucose-alanine (Cahill) cycle, muscle transaminates pyruvate to alanine using ALT, exporting both carbon and nitrogen to the liver. The liver reconverts alanine to pyruvate for gluconeogenesis and channels the nitrogen into urea. This differs from the Cori cycle, which shuttles lactate rather than alanine and carries no nitrogen.",
+        "whyCorrect": "In the glucose-alanine (Cahill) cycle, muscle transaminates pyruvate to alanine using ALT, exporting both carbon and nitrogen to the liver. The liver reconverts alanine to pyruvate for gluconeogenesis and channels the nitrogen into urea. This differs from the Cori cycle, which shuttles lactate rather than alanine and carries no nitrogen.",
+        "whyWrongByChoice": {
+          "A": "The citric acid cycle oxidizes acetyl-CoA within mitochondria of a single cell and is not an interorgan exchange of alanine and glucose.",
+          "B": "The Cori cycle shuttles lactate from muscle to liver and back as glucose; lactate carries no nitrogen, so it cannot export muscle nitrogen.",
+          "D": "The malate-aspartate shuttle moves reducing equivalents across the inner mitochondrial membrane within one cell, not between muscle and liver.",
+          "E": "The urea cycle is a hepatic pathway that converts ammonia to urea; it does not shuttle carbon and nitrogen between muscle and liver."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "bopic-216_33_p11_1.png",
+      "tags": [
+        "picture"
+      ],
+      "source": "boom-picqbank"
     }
   ]
 }

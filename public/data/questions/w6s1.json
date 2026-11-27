@@ -578,6 +578,100 @@
       "hy": true
     },
     {
+      "id": "bopic-014",
+      "topicId": "porphyrins-and-iron-homeostasis",
+      "topicName": "Porphyrins and Iron Homeostasis (1 of 2)",
+      "stem": "A Prussian blue stain of a bone marrow aspirate from a patient with microcytic anemia is shown. What is the cell marked by the arrow?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Basophilic stippled erythrocyte"
+        },
+        {
+          "label": "B",
+          "text": "Heinz body"
+        },
+        {
+          "label": "C",
+          "text": "Howell-Jolly body"
+        },
+        {
+          "label": "D",
+          "text": "Ringed sideroblast"
+        },
+        {
+          "label": "E",
+          "text": "Target cell"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "A ringed sideroblast is an erythroid precursor with iron-laden mitochondria forming a perinuclear ring (Prussian blue positive), diagnostic of sideroblastic anemia.",
+        "whyCorrect": "A ringed sideroblast is an erythroid precursor with iron-laden mitochondria forming a perinuclear ring (Prussian blue positive), diagnostic of sideroblastic anemia.",
+        "whyWrongByChoice": {
+          "A": "Basophilic stippling consists of ribosomal RNA aggregates scattered through a mature red cell, seen on Wright stain, not a perinuclear iron ring in a nucleated precursor.",
+          "B": "Heinz bodies are denatured hemoglobin inclusions seen with supravital stains in G6PD deficiency, not iron-laden mitochondria around a nucleus.",
+          "C": "Howell-Jolly bodies are single nuclear DNA remnants in red cells after splenectomy, not a ring of Prussian blue-positive granules.",
+          "E": "Target cells are mature red cells with a central dense spot, seen in thalassemia and liver disease, without nuclei or iron granules."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "bopic-014_35_p6_1.png",
+      "tags": [
+        "picture"
+      ],
+      "source": "boom-picqbank"
+    },
+    {
+      "id": "bopic-064",
+      "topicId": "porphyrins-and-iron-homeostasis",
+      "topicName": "Porphyrins and Iron Homeostasis (1 of 2)",
+      "stem": "A 22-year-old with lifelong mild, fluctuating conjugated hyperbilirubinemia and normal liver enzymes undergoes laparoscopy. The liver appearance shown is characteristic of which inherited disorder?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Crigler-Najjar syndrome"
+        },
+        {
+          "label": "B",
+          "text": "Dubin-Johnson syndrome"
+        },
+        {
+          "label": "C",
+          "text": "Gilbert syndrome"
+        },
+        {
+          "label": "D",
+          "text": "Rotor syndrome"
+        },
+        {
+          "label": "E",
+          "text": "Wilson disease"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Dubin-Johnson syndrome (defective MRP2/canalicular transport of conjugated bilirubin) causes accumulation of dark pigment giving the liver a grossly black appearance, with conjugated hyperbilirubinemia.",
+        "whyCorrect": "Dubin-Johnson syndrome (defective MRP2/canalicular transport of conjugated bilirubin) causes accumulation of dark pigment giving the liver a grossly black appearance, with conjugated hyperbilirubinemia.",
+        "whyWrongByChoice": {
+          "A": "Crigler-Najjar syndrome is severe unconjugated hyperbilirubinemia from absent or reduced UGT1A1 activity, with no hepatic pigmentation.",
+          "C": "Gilbert syndrome causes mild unconjugated hyperbilirubinemia from reduced UGT1A1 activity, with a normal-appearing liver.",
+          "D": "Rotor syndrome also causes conjugated hyperbilirubinemia, but the liver is grossly and histologically normal, without black pigment.",
+          "E": "Wilson disease causes copper accumulation and cirrhosis, but not a black liver or an inherited conjugated hyperbilirubinemia."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "bopic-064_35_p18_1.png",
+      "tags": [
+        "picture"
+      ],
+      "source": "boom-picqbank"
+    },
+    {
       "id": "bo36-001",
       "stem": "A 24-year-old woman presents with recurrent attacks of severe, diffuse abdominal pain lasting several days, accompanied by nausea, tingling in her arms, and anxiety. The attacks tend to coincide with her menstrual cycle and a recent low-calorie diet. Her abdomen is soft with no peritoneal signs, and a urine sample left at the bedside darkens to a port-wine color on standing. Which of the following enzyme deficiencies is most likely responsible?",
       "choices": [
@@ -1154,6 +1248,53 @@
       "topicId": "porphyrins-and-iron-homeostasis-2",
       "topicName": "Porphyrins and Iron Homeostasis (2 of 2)",
       "tier": "core"
+    },
+    {
+      "id": "bopic-068",
+      "topicId": "porphyrins-and-iron-homeostasis-2",
+      "topicName": "Porphyrins and Iron Homeostasis (2 of 2)",
+      "stem": "A 50-year-old man who drinks heavily has had the skin changes shown on his hands for several months; they worsen after sun exposure. Which condition is most likely?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acute intermittent porphyria"
+        },
+        {
+          "label": "B",
+          "text": "Allergic contact dermatitis"
+        },
+        {
+          "label": "C",
+          "text": "Bullous pemphigoid"
+        },
+        {
+          "label": "D",
+          "text": "Pellagra"
+        },
+        {
+          "label": "E",
+          "text": "Porphyria cutanea tarda"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Porphyria cutanea tarda causes skin fragility and blistering on sun-exposed skin (especially the dorsal hands) due to photosensitizing uroporphyrins from uroporphyrinogen decarboxylase deficiency. Lesions heal with scarring, milia, and hyperpigmentation.",
+        "whyCorrect": "Porphyria cutanea tarda causes skin fragility and blistering on sun-exposed skin (especially the dorsal hands) due to photosensitizing uroporphyrins from uroporphyrinogen decarboxylase deficiency. Lesions heal with scarring, milia, and hyperpigmentation.",
+        "whyWrongByChoice": {
+          "A": "Acute intermittent porphyria causes neurovisceral attacks without skin lesions, because ALA and porphobilinogen are not photosensitizing.",
+          "B": "Allergic contact dermatitis produces itchy eczematous plaques in the pattern of contact, not fragile, scarring blisters limited to sun-exposed skin.",
+          "C": "Bullous pemphigoid causes tense blisters on the trunk and flexures in older adults, not photo-distributed fragility with scarring and milia.",
+          "D": "Pellagra causes a photosensitive dermatitis that is scaly and hyperpigmented, not vesicles and erosions healing with scars and milia."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "bopic-068_36_p9_1.png",
+      "tags": [
+        "picture"
+      ],
+      "source": "boom-picqbank"
     }
   ]
 }

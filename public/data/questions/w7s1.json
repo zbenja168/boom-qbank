@@ -575,6 +575,53 @@
       "tier": "core"
     },
     {
+      "id": "bopic-255",
+      "topicId": "chromosomes",
+      "topicName": "Chromosomes",
+      "stem": "The diagram shows a structural rearrangement in which a chromosomal segment is excised, flipped, and reinserted. Based on the position of the centromere relative to the rearranged segment, which abnormality is depicted?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Paracentric inversion"
+        },
+        {
+          "label": "B",
+          "text": "Pericentric inversion"
+        },
+        {
+          "label": "C",
+          "text": "Reciprocal translocation"
+        },
+        {
+          "label": "D",
+          "text": "Tandem duplication"
+        },
+        {
+          "label": "E",
+          "text": "Terminal deletion"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "An inversion in which the reversed segment lies entirely on one arm and excludes the centromere is a paracentric inversion; a pericentric inversion would span the centromere.",
+        "whyCorrect": "An inversion in which the reversed segment lies entirely on one arm and excludes the centromere is a paracentric inversion; a pericentric inversion would span the centromere.",
+        "whyWrongByChoice": {
+          "B": "A pericentric inversion includes the centromere in the flipped segment; this one excludes the centromere.",
+          "C": "A reciprocal translocation exchanges segments between two non-homologous chromosomes, rather than flipping a segment within one.",
+          "D": "A tandem duplication adds an extra copy of a segment next to the original rather than reversing its orientation.",
+          "E": "A terminal deletion removes a chromosome end with no reinsertion or reversal."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "bopic-255_40_p22_1.png",
+      "tags": [
+        "picture"
+      ],
+      "source": "boom-picqbank"
+    },
+    {
       "id": "bo41-001",
       "stem": "A 38-year-old woman delivers a newborn with flat facies, prominent epicanthal folds, a single transverse palmar crease, and a wide gap between the first and second toes. Karyotype shows 47,XX,+21. This trisomy most commonly results from nondisjunction occurring during which of the following?",
       "choices": [
@@ -1145,6 +1192,53 @@
       "topicId": "variants-in-chromosome-number",
       "topicName": "Numerical & Structural Chromosomal Alterations (1/3) - Variants in Chromosome Number",
       "tier": "core"
+    },
+    {
+      "id": "bopic-045",
+      "topicId": "variants-in-chromosome-number",
+      "topicName": "Numerical & Structural Chromosomal Alterations (1/3) - Variants in Chromosome Number",
+      "stem": "This G-banded karyotype is obtained from a newborn girl. Which clinical syndrome does it show?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Down syndrome"
+        },
+        {
+          "label": "B",
+          "text": "Edwards syndrome"
+        },
+        {
+          "label": "C",
+          "text": "Klinefelter syndrome"
+        },
+        {
+          "label": "D",
+          "text": "Patau syndrome"
+        },
+        {
+          "label": "E",
+          "text": "Turner syndrome"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The karyotype shows three copies of chromosome 21 with two X chromosomes (47,XX,+21), i.e., trisomy 21, which causes Down syndrome: intellectual disability, characteristic facies, and increased risk of congenital heart defects.",
+        "whyCorrect": "Chromosome 21 is present in three copies with an otherwise normal female complement (47,XX,+21). Trisomy 21 causes Down syndrome. Edwards (18) and Patau (13) are other autosomal trisomies, and chromosomes 13 and 18 are paired normally here.",
+        "whyWrongByChoice": {
+          "B": "Edwards syndrome is trisomy 18; chromosome 18 is present in two copies here.",
+          "C": "Klinefelter syndrome is 47,XXY; there is no Y chromosome and the extra chromosome is a 21.",
+          "D": "Patau syndrome is trisomy 13; chromosome 13 is present in two copies here.",
+          "E": "Turner syndrome is 45,X; this karyotype has two X chromosomes and 47 total."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "bopic-045_45_p3_1.png",
+      "tags": [
+        "picture"
+      ],
+      "source": "boom-picqbank"
     },
     {
       "id": "bo42-001",
@@ -1718,6 +1812,100 @@
       "topicName": "Sex Chromosome Aneuploidy",
       "tier": "core",
       "hy": true
+    },
+    {
+      "id": "bopic-041",
+      "topicId": "sex-chromosome-aneuploidy",
+      "topicName": "Sex Chromosome Aneuploidy",
+      "stem": "This G-banded karyotype is obtained from a phenotypically male patient. Which condition does it represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Down syndrome"
+        },
+        {
+          "label": "B",
+          "text": "Jacobs syndrome (XYY)"
+        },
+        {
+          "label": "C",
+          "text": "Klinefelter syndrome"
+        },
+        {
+          "label": "D",
+          "text": "Trisomy X"
+        },
+        {
+          "label": "E",
+          "text": "Turner syndrome"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "A 47,XXY karyotype with an extra X chromosome is diagnostic of Klinefelter syndrome, associated with tall stature, gynecomastia, small testes, and infertility.",
+        "whyCorrect": "A 47,XXY karyotype with an extra X chromosome is diagnostic of Klinefelter syndrome, associated with tall stature, gynecomastia, small testes, and infertility.",
+        "whyWrongByChoice": {
+          "A": "Down syndrome is trisomy 21, an autosomal trisomy with normal sex chromosomes.",
+          "B": "Jacobs syndrome is 47,XYY, with an extra Y chromosome rather than an extra X.",
+          "D": "Trisomy X is 47,XXX, with three X chromosomes and no Y, producing a female phenotype.",
+          "E": "Turner syndrome is 45,X, a single X with no second sex chromosome."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "bopic-041_42_p12_1.png",
+      "tags": [
+        "picture"
+      ],
+      "source": "boom-picqbank"
+    },
+    {
+      "id": "bopic-078",
+      "topicId": "sex-chromosome-aneuploidy",
+      "topicName": "Sex Chromosome Aneuploidy",
+      "stem": "A phenotypically male adult has the physical findings shown. Which chromosomal complement best explains this presentation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "45,X"
+        },
+        {
+          "label": "B",
+          "text": "46,XY with 5-alpha-reductase deficiency"
+        },
+        {
+          "label": "C",
+          "text": "47,XXX"
+        },
+        {
+          "label": "D",
+          "text": "47,XXY"
+        },
+        {
+          "label": "E",
+          "text": "47,XYY"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The combination of eunuchoid tall stature, gynecomastia, small firm testes, and hypoandrogenic features is classic for Klinefelter syndrome (47,XXY), in which an extra X chromosome causes primary hypogonadism and testosterone deficiency.",
+        "whyCorrect": "The combination of eunuchoid tall stature, gynecomastia, small firm testes, and hypoandrogenic features is classic for Klinefelter syndrome (47,XXY), in which an extra X chromosome causes primary hypogonadism and testosterone deficiency.",
+        "whyWrongByChoice": {
+          "A": "45,X produces a phenotypic female with short stature (Turner syndrome), not a tall male.",
+          "B": "5-alpha-reductase deficiency causes ambiguous genitalia at birth with virilization at puberty, not tall stature with gynecomastia and small firm testes.",
+          "C": "47,XXX produces a phenotypic female, not a male with gynecomastia and small testes.",
+          "E": "47,XYY males are tall but generally have normal testes and androgenization, without gynecomastia or hypogonadism."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "bopic-078_42_p14_1.png",
+      "tags": [
+        "picture"
+      ],
+      "source": "boom-picqbank"
     },
     {
       "id": "bo43-001",
@@ -3440,6 +3628,53 @@
       "topicName": "Molecular Biology Techniques (1 of 3) - Cytogenetics",
       "tier": "core",
       "hy": true
+    },
+    {
+      "id": "bopic-046",
+      "topicId": "molecular-biology-techniques-cytogenetics",
+      "topicName": "Molecular Biology Techniques (1 of 3) - Cytogenetics",
+      "stem": "This metaphase spread is from an infant with a conotruncal heart defect and hypocalcemia. The arrows mark the two copies of chromosome 22. What technique produced this image?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Comparative genomic hybridization"
+        },
+        {
+          "label": "B",
+          "text": "Fluorescence in situ hybridization"
+        },
+        {
+          "label": "C",
+          "text": "G-banded karyotyping"
+        },
+        {
+          "label": "D",
+          "text": "Polymerase chain reaction"
+        },
+        {
+          "label": "E",
+          "text": "Southern blotting"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "FISH applies fluorescent locus-specific probes to metaphase or interphase chromosomes. Absence of the probe signal on one chromosome 22 indicates a targeted microdeletion (e.g., 22q11.2) that a standard karyotype would miss.",
+        "whyCorrect": "FISH applies fluorescent locus-specific probes to metaphase or interphase chromosomes. Absence of the probe signal on one chromosome 22 indicates a targeted microdeletion (e.g., 22q11.2) that a standard karyotype would miss.",
+        "whyWrongByChoice": {
+          "A": "CGH compares labeled test and reference DNA hybridized to an array or normal metaphases, rather than a single locus-specific probe.",
+          "C": "G-banded karyotyping uses Giemsa stain to create light and dark bands, without fluorescent locus-specific probe signals.",
+          "D": "PCR amplifies DNA in a tube and does not visualize probe signals on intact chromosomes.",
+          "E": "Southern blotting analyzes DNA fragments on a membrane, not chromosomes in a metaphase spread."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "bopic-046_45_p7_1.png",
+      "tags": [
+        "picture"
+      ],
+      "source": "boom-picqbank"
     },
     {
       "id": "bo54-001",

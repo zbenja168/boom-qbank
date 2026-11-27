@@ -574,6 +574,194 @@
       "tier": "core"
     },
     {
+      "id": "bopic-271",
+      "topicId": "pedigrees-and-patterns-of-monogenic-inheritance",
+      "topicName": "Pedigrees and Patterns of Monogenic Inheritance",
+      "stem": "Filled symbols indicate affected individuals in this pedigree. What is the most likely mode of inheritance?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Autosomal dominant"
+        },
+        {
+          "label": "B",
+          "text": "Autosomal recessive"
+        },
+        {
+          "label": "C",
+          "text": "Mitochondrial"
+        },
+        {
+          "label": "D",
+          "text": "X-linked dominant"
+        },
+        {
+          "label": "E",
+          "text": "X-linked recessive"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Vertical transmission through every generation with both sexes affected and each affected individual having an affected parent is the hallmark of autosomal dominant inheritance. Male-to-male transmission would further exclude X-linkage.",
+        "whyCorrect": "Vertical transmission through every generation with both sexes affected and each affected individual having an affected parent is the hallmark of autosomal dominant inheritance. Male-to-male transmission would further exclude X-linkage.",
+        "whyWrongByChoice": {
+          "B": "Autosomal recessive traits typically skip generations and appear in offspring of unaffected carrier parents.",
+          "C": "Mitochondrial traits pass only from affected mothers, never from affected fathers to their children.",
+          "D": "X-linked dominant inheritance would show affected fathers passing the trait to all daughters and no sons, not equal transmission to both sexes.",
+          "E": "X-linked recessive traits affect mostly males, transmitted through unaffected carrier mothers, without vertical male-to-male transmission."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "bopic-271_46_p11_1.png",
+      "tags": [
+        "picture"
+      ],
+      "source": "boom-picqbank"
+    },
+    {
+      "id": "bopic-272",
+      "topicId": "pedigrees-and-patterns-of-monogenic-inheritance",
+      "topicName": "Pedigrees and Patterns of Monogenic Inheritance",
+      "stem": "In this pedigree, filled symbols indicate affected individuals and a central dot indicates a heterozygous carrier. What is the most likely mode of inheritance?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Autosomal dominant"
+        },
+        {
+          "label": "B",
+          "text": "Autosomal recessive"
+        },
+        {
+          "label": "C",
+          "text": "Mitochondrial"
+        },
+        {
+          "label": "D",
+          "text": "X-linked dominant"
+        },
+        {
+          "label": "E",
+          "text": "Y-linked"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Two unaffected heterozygous carriers producing affected children, with the trait skipping generations and affecting both sexes, is characteristic of autosomal recessive inheritance. Carrier status (dot) is emphasized because heterozygotes are clinically silent.",
+        "whyCorrect": "Two unaffected heterozygous carriers producing affected children, with the trait skipping generations and affecting both sexes, is characteristic of autosomal recessive inheritance. Carrier status (dot) is emphasized because heterozygotes are clinically silent.",
+        "whyWrongByChoice": {
+          "A": "Autosomal dominant traits appear in every generation with an affected parent, not in children of two unaffected parents.",
+          "C": "Mitochondrial inheritance passes from an affected mother to all her children, and carrier status is not marked this way.",
+          "D": "X-linked dominant traits require an affected parent and appear in every generation, not in one sibship of unaffected parents.",
+          "E": "Y-linked traits affect only males and pass from father to son, unlike this pattern involving both sexes."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "bopic-272_46_p13_1.png",
+      "tags": [
+        "picture"
+      ],
+      "source": "boom-picqbank"
+    },
+    {
+      "id": "bopic-273",
+      "topicId": "pedigrees-and-patterns-of-monogenic-inheritance",
+      "topicName": "Pedigrees and Patterns of Monogenic Inheritance",
+      "stem": "Filled symbols indicate affected individuals in this pedigree. What is the most likely mode of inheritance?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Autosomal dominant"
+        },
+        {
+          "label": "B",
+          "text": "Autosomal recessive"
+        },
+        {
+          "label": "C",
+          "text": "X-linked dominant"
+        },
+        {
+          "label": "D",
+          "text": "X-linked recessive"
+        },
+        {
+          "label": "E",
+          "text": "Y-linked"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "An affected male passes his single X to every daughter and his Y to every son, so in X-linked dominant inheritance all daughters and no sons of an affected father are affected. Absence of male-to-male transmission is the key clue.",
+        "whyCorrect": "An affected male passes his single X to every daughter and his Y to every son, so in X-linked dominant inheritance all daughters and no sons of an affected father are affected. Absence of male-to-male transmission is the key clue.",
+        "whyWrongByChoice": {
+          "A": "Autosomal dominant inheritance would allow an affected father to pass the trait to about half of sons and daughters, including male-to-male transmission.",
+          "B": "Autosomal recessive traits do not pass from an affected father to every daughter; the children would usually be unaffected carriers.",
+          "D": "In X-linked recessive inheritance, daughters of an affected father become unaffected carriers rather than being affected themselves.",
+          "E": "Y-linked traits pass from father to every son and never to daughters, the reverse of this pattern."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "bopic-273_46_p15_1.png",
+      "tags": [
+        "picture"
+      ],
+      "source": "boom-picqbank"
+    },
+    {
+      "id": "bopic-274",
+      "topicId": "pedigrees-and-patterns-of-monogenic-inheritance",
+      "topicName": "Pedigrees and Patterns of Monogenic Inheritance",
+      "stem": "In this pedigree, filled symbols indicate affected individuals and a central dot indicates a heterozygous carrier. What is the most likely mode of inheritance?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Autosomal dominant"
+        },
+        {
+          "label": "B",
+          "text": "Autosomal recessive"
+        },
+        {
+          "label": "C",
+          "text": "Mitochondrial"
+        },
+        {
+          "label": "D",
+          "text": "X-linked dominant"
+        },
+        {
+          "label": "E",
+          "text": "X-linked recessive"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "In X-linked recessive inheritance an affected male makes all daughters obligate carriers; those carrier daughters then transmit the allele to affected sons. The disorder predominantly affects males and skips through unaffected carrier females, with no male-to-male transmission.",
+        "whyCorrect": "In X-linked recessive inheritance an affected male makes all daughters obligate carriers; those carrier daughters then transmit the allele to affected sons. The disorder predominantly affects males and skips through unaffected carrier females, with no male-to-male transmission.",
+        "whyWrongByChoice": {
+          "A": "Autosomal dominant traits would make about half of an affected male's children affected, including sons, and carriers would show the trait.",
+          "B": "Autosomal recessive traits do not show this consistent male predominance transmitted through carrier daughters of affected males.",
+          "C": "Mitochondrial disorders pass only from mothers; an affected male would not transmit through his daughters.",
+          "D": "In X-linked dominant inheritance all daughters of an affected male would be affected, not unaffected carriers."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "bopic-274_46_p17_1.png",
+      "tags": [
+        "picture"
+      ],
+      "source": "boom-picqbank"
+    },
+    {
       "id": "bo47-001",
       "stem": "A 9-year-old boy and his 12-year-old sister both carry the same pathogenic NF1 variant and both have neurofibromatosis 1. The boy has only a few small cafe-au-lait spots, whereas his sister has numerous large cafe-au-lait spots, several neurofibromas, and scoliosis. Which of the following best explains the difference in the severity of disease between these two siblings?",
       "choices": [
@@ -3432,6 +3620,53 @@
       "topicId": "mitochondrial-diseases",
       "topicName": "Mitochondrial Diseases",
       "tier": "core"
+    },
+    {
+      "id": "bopic-275",
+      "topicId": "mitochondrial-diseases",
+      "topicName": "Mitochondrial Diseases",
+      "stem": "The top cell in this figure divides, and its daughter cells show variable disease phenotypes. What term describes the mitochondrial genotype of the top cell?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Anticipation"
+        },
+        {
+          "label": "B",
+          "text": "Genomic imprinting"
+        },
+        {
+          "label": "C",
+          "text": "Heteroplasmy"
+        },
+        {
+          "label": "D",
+          "text": "Homoplasmy"
+        },
+        {
+          "label": "E",
+          "text": "Locus heterogeneity"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Heteroplasmy is the presence of both mutant and wild-type mtDNA in one cell. Random segregation during division changes the mutant load; disease appears only once the mutant fraction exceeds a tissue-specific threshold for phenotypic expression, as shown by the disease vs normal phenotype branches.",
+        "whyCorrect": "Heteroplasmy is the presence of both mutant and wild-type mtDNA in one cell. Random segregation during division changes the mutant load; disease appears only once the mutant fraction exceeds a tissue-specific threshold for phenotypic expression, as shown by the disease vs normal phenotype branches.",
+        "whyWrongByChoice": {
+          "A": "Anticipation is worsening severity or earlier onset in successive generations, typical of trinucleotide repeat disorders.",
+          "B": "Genomic imprinting is parent-of-origin-specific expression of nuclear genes, not a mix of mitochondrial genotypes.",
+          "D": "Homoplasmy means all mitochondrial genomes in a cell are identical, either all mutant or all normal.",
+          "E": "Locus heterogeneity means mutations in different genes cause the same phenotype, not mixed mtDNA within a cell."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "bopic-275_46_p7_1.png",
+      "tags": [
+        "picture"
+      ],
+      "source": "boom-picqbank"
     }
   ]
 }

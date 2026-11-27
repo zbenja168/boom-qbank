@@ -576,6 +576,100 @@
       "hy": true
     },
     {
+      "id": "bopic-070",
+      "topicId": "dyslipidemias-lipid-storage-disorders-and-defects-in-lipid-metabolism",
+      "topicName": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism",
+      "stem": "The arrow marks a finding in the eye of a 34-year-old man whose father had a myocardial infarction at age 42. This finding is most strongly associated with which condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Chronic uremia"
+        },
+        {
+          "label": "B",
+          "text": "Familial hypercholesterolemia"
+        },
+        {
+          "label": "C",
+          "text": "Uncontrolled diabetes mellitus"
+        },
+        {
+          "label": "D",
+          "text": "Vitamin A deficiency"
+        },
+        {
+          "label": "E",
+          "text": "Wilson disease"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The finding is corneal arcus, a ring of lipid deposition at the corneal margin. In older patients it is an age-related change (arcus senilis), but when it appears before roughly age 45 it suggests a significant lipid disorder such as familial hypercholesterolemia. (A copper-colored Kayser-Fleischer ring, by contrast, indicates Wilson disease.)",
+        "whyCorrect": "The finding is corneal arcus, a ring of lipid deposition at the corneal margin. In older patients it is an age-related change (arcus senilis), but when it appears before roughly age 45 it suggests a significant lipid disorder such as familial hypercholesterolemia. (A copper-colored Kayser-Fleischer ring, by contrast, indicates Wilson disease.)",
+        "whyWrongByChoice": {
+          "A": "Chronic uremia can cause band keratopathy from calcium deposition across the interpalpebral cornea, not a circumferential peripheral arc.",
+          "C": "Diabetes mellitus causes retinopathy and cataracts, not a peripheral corneal lipid ring.",
+          "D": "Vitamin A deficiency causes xerophthalmia, Bitot spots and keratomalacia, not a gray-white peripheral ring.",
+          "E": "Wilson disease produces a golden-brown copper Kayser-Fleischer ring at the limbus, not a gray-white lipid ring."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "bopic-070_38_p8_1.png",
+      "tags": [
+        "picture"
+      ],
+      "source": "boom-picqbank"
+    },
+    {
+      "id": "bopic-071",
+      "topicId": "dyslipidemias-lipid-storage-disorders-and-defects-in-lipid-metabolism",
+      "topicName": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism",
+      "stem": "A patient with poorly controlled diabetes develops the sudden crop of skin lesions shown on the buttocks and thighs. These lesions are most characteristic of which underlying metabolic abnormality?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hypercalcemia from hyperparathyroidism"
+        },
+        {
+          "label": "B",
+          "text": "Hyperuricemia with tophaceous gout"
+        },
+        {
+          "label": "C",
+          "text": "Isolated hypercholesterolemia with normal triglycerides"
+        },
+        {
+          "label": "D",
+          "text": "Severe hypertriglyceridemia"
+        },
+        {
+          "label": "E",
+          "text": "Vitamin C deficiency with perifollicular hemorrhage"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "These are eruptive xanthomas, sudden crops of lipid-laden papules that arise when serum triglycerides are markedly elevated (as in familial hyperchylomicronemia or severe combined hyperlipidemia). They are composed of triglyceride-laden macrophages and typically regress when triglyceride levels are lowered, distinguishing them from the tendon xanthomas of hypercholesterolemia.",
+        "whyCorrect": "These are eruptive xanthomas, sudden crops of lipid-laden papules that arise when serum triglycerides are markedly elevated (as in familial hyperchylomicronemia or severe combined hyperlipidemia). They are composed of triglyceride-laden macrophages and typically regress when triglyceride levels are lowered, distinguishing them from the tendon xanthomas of hypercholesterolemia.",
+        "whyWrongByChoice": {
+          "A": "Hypercalcemia can cause metastatic calcification and calcinosis, typically firm white nodules, not crops of yellow-red papules with erythematous bases.",
+          "B": "Tophaceous gout produces firm chalky nodules over joints, ears and tendons, not sudden crops of small yellow papules.",
+          "C": "Isolated hypercholesterolemia causes tendon xanthomas and xanthelasma, while eruptive xanthomas require markedly elevated triglycerides.",
+          "E": "Scurvy causes perifollicular hemorrhages with corkscrew hairs, not lipid-laden yellow papules."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "bopic-071_38_p8_2.png",
+      "tags": [
+        "picture"
+      ],
+      "source": "boom-picqbank"
+    },
+    {
       "id": "bo39-001",
       "stem": "A 6-month-old boy of Ashkenazi Jewish descent, who developed normally until now, is losing previously acquired motor skills and demonstrates an exaggerated startle response to loud sounds. Fundoscopic exam reveals a cherry-red spot on the macula. The liver and spleen are not enlarged. Which of the following enzyme deficiencies is most likely responsible?",
       "choices": [

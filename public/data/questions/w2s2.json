@@ -1154,6 +1154,53 @@
       "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I (2 of 2)",
       "tier": "core",
       "hy": true
+    },
+    {
+      "id": "bopic-019",
+      "topicId": "proteins-enzymatic-machines-protein-based-disorders-i-2",
+      "topicName": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I (2 of 2)",
+      "stem": "A man develops dark urine and anemia two days after starting primaquine. A peripheral smear stained with a supravital dye shows the red cell inclusions marked by the arrows. What are these inclusions?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Basophilic stippling"
+        },
+        {
+          "label": "B",
+          "text": "Heinz bodies"
+        },
+        {
+          "label": "C",
+          "text": "Howell-Jolly bodies"
+        },
+        {
+          "label": "D",
+          "text": "Malarial ring trophozoites"
+        },
+        {
+          "label": "E",
+          "text": "Pappenheimer bodies"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Oxidative denaturation of hemoglobin (as in G6PD deficiency) precipitates as Heinz bodies, seen with supravital stains as small inclusions at the RBC membrane. Splenic removal of these produces bite cells.",
+        "whyCorrect": "Oxidative denaturation of hemoglobin (as in G6PD deficiency) precipitates as Heinz bodies, seen with supravital stains as small inclusions at the RBC membrane. Splenic removal of these produces bite cells.",
+        "whyWrongByChoice": {
+          "A": "Basophilic stippling is fine diffuse ribosomal RNA granules, as in lead poisoning, not clumps of oxidized hemoglobin.",
+          "C": "Howell-Jolly bodies are single nuclear DNA remnants seen on routine Wright stain in asplenia, not oxidative inclusions.",
+          "D": "Malarial rings are delicate circles with a chromatin dot inside the cell, seen on Giemsa stain, not clumps at the membrane from oxidative damage.",
+          "E": "Pappenheimer bodies are iron granules detected with Prussian blue in sideroblastic states, not denatured hemoglobin."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "bopic-019_14_p5_1.png",
+      "tags": [
+        "picture"
+      ],
+      "source": "boom-picqbank"
     }
   ]
 }

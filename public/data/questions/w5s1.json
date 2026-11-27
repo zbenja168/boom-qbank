@@ -584,6 +584,53 @@
       "tier": "core"
     },
     {
+      "id": "bopic-059",
+      "topicId": "basic-nutritional-requirements-for-metabolism",
+      "topicName": "Basic Nutritional Requirements for Metabolism (1 of 3)",
+      "stem": "This finding is seen on the posterior neck of an obese adolescent. What condition is shown and what does it most commonly signal?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acanthosis nigricans, associated with insulin resistance"
+        },
+        {
+          "label": "B",
+          "text": "Addisonian hyperpigmentation from cortisol deficiency"
+        },
+        {
+          "label": "C",
+          "text": "Contact dermatitis from a necklace"
+        },
+        {
+          "label": "D",
+          "text": "Tinea versicolor, a superficial fungal infection"
+        },
+        {
+          "label": "E",
+          "text": "Vitiligo, an autoimmune depigmentation"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Acanthosis nigricans presents as symmetric velvety hyperpigmentation in flexural areas such as the neck and axillae. It most often reflects hyperinsulinemia/insulin resistance (obesity, type 2 diabetes) and can occasionally be a paraneoplastic sign.",
+        "whyCorrect": "Acanthosis nigricans presents as symmetric velvety hyperpigmentation in flexural areas such as the neck and axillae. It most often reflects hyperinsulinemia/insulin resistance (obesity, type 2 diabetes) and can occasionally be a paraneoplastic sign.",
+        "whyWrongByChoice": {
+          "B": "Addisonian hyperpigmentation is diffuse and accentuated in creases, mucosa and scars, without velvety thickening of the skin.",
+          "C": "Contact dermatitis is itchy, erythematous and often vesicular in the shape of the contact, not symmetric velvety hyperpigmentation.",
+          "D": "Tinea versicolor causes scaly hypo- or hyperpigmented macules on the trunk, not velvety thickened plaques in flexural folds.",
+          "E": "Vitiligo causes depigmented white patches, the opposite of the dark, thickened plaques shown."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "bopic-059_29_p11_1.png",
+      "tags": [
+        "picture"
+      ],
+      "source": "boom-picqbank"
+    },
+    {
       "id": "bo30-001",
       "stem": "A 6-year-old boy with cystic fibrosis is evaluated for poor weight gain and greasy, foul-smelling stools. His parents report he has recently had trouble seeing in dim light. Laboratory testing confirms pancreatic insufficiency with low fecal elastase. Which of the following best explains why this child is at risk for vitamin A deficiency?",
       "choices": [
@@ -1162,6 +1209,53 @@
       "topicName": "Fat-Soluble Vitamins (A, D, E, K)",
       "tier": "core",
       "hy": true
+    },
+    {
+      "id": "bopic-060",
+      "topicId": "fat-soluble-vitamins-a-d-e-k",
+      "topicName": "Fat-Soluble Vitamins (A, D, E, K)",
+      "stem": "This radiograph is from a toddler with delayed walking and a diet low in vitamin D. What condition does it depict?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Achondroplasia"
+        },
+        {
+          "label": "B",
+          "text": "Osteogenesis imperfecta"
+        },
+        {
+          "label": "C",
+          "text": "Osteopetrosis"
+        },
+        {
+          "label": "D",
+          "text": "Paget disease of bone"
+        },
+        {
+          "label": "E",
+          "text": "Rickets"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Bowing deformities and cupped, frayed metaphyses in a child indicate rickets, caused by vitamin D (or calcium/phosphate) deficiency leading to defective mineralization of growing bone.",
+        "whyCorrect": "Bowing deformities and cupped, frayed metaphyses in a child indicate rickets, caused by vitamin D (or calcium/phosphate) deficiency leading to defective mineralization of growing bone.",
+        "whyWrongByChoice": {
+          "A": "Achondroplasia causes short limbs with normally mineralized bone from FGFR3 mutation, not frayed, poorly mineralized metaphyses.",
+          "B": "Osteogenesis imperfecta causes brittle bones with multiple fractures from type I collagen defects, but the metaphyses are not cupped and frayed.",
+          "C": "Osteopetrosis produces dense, sclerotic bones from osteoclast failure, the opposite of poorly mineralized bone.",
+          "D": "Paget disease affects older adults, with thickened, coarse bone and enlarged skull, not childhood metaphyseal widening."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "bopic-060_30_p13_1.png",
+      "tags": [
+        "picture"
+      ],
+      "source": "boom-picqbank"
     },
     {
       "id": "bo31-001",

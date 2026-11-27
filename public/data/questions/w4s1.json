@@ -1149,6 +1149,53 @@
       "topicId": "overview-of-cell-signaling-2",
       "topicName": "Overview of Cell Signaling (2 of 2)",
       "tier": "core"
+    },
+    {
+      "id": "bopic-057",
+      "topicId": "overview-of-cell-signaling-2",
+      "topicName": "Overview of Cell Signaling (2 of 2)",
+      "stem": "The chromosomal rearrangement shown in this figure is the hallmark of which malignancy?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acute promyelocytic leukemia"
+        },
+        {
+          "label": "B",
+          "text": "Burkitt lymphoma"
+        },
+        {
+          "label": "C",
+          "text": "Chronic myeloid leukemia (CML)"
+        },
+        {
+          "label": "D",
+          "text": "Ewing sarcoma"
+        },
+        {
+          "label": "E",
+          "text": "Follicular lymphoma"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The t(9;22) translocation creates the BCR-ABL fusion gene on the shortened chromosome 22 (Philadelphia chromosome). BCR-ABL is a constitutively active tyrosine kinase and is the defining lesion of chronic myeloid leukemia, targeted by imatinib.",
+        "whyCorrect": "The t(9;22) translocation creates the BCR-ABL fusion gene on the shortened chromosome 22 (Philadelphia chromosome). BCR-ABL is a constitutively active tyrosine kinase and is the defining lesion of chronic myeloid leukemia, targeted by imatinib.",
+        "whyWrongByChoice": {
+          "A": "Acute promyelocytic leukemia is defined by t(15;17), producing the PML-RARA fusion.",
+          "B": "Burkitt lymphoma carries t(8;14), placing MYC under immunoglobulin heavy-chain control.",
+          "D": "Ewing sarcoma carries t(11;22), producing the EWSR1-FLI1 fusion, not BCR-ABL.",
+          "E": "Follicular lymphoma carries t(14;18), placing BCL2 next to the immunoglobulin heavy-chain locus, not a 9;22 fusion."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "bopic-057_26_p19_1.png",
+      "tags": [
+        "picture"
+      ],
+      "source": "boom-picqbank"
     }
   ]
 }

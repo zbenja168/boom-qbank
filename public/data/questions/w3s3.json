@@ -588,6 +588,53 @@
       "tier": "core"
     },
     {
+      "id": "bopic-150",
+      "topicId": "lipids-and-lipid-metabolism-introduction",
+      "topicName": "Lipids and Lipid Metabolism Introduction",
+      "stem": "The figure depicts the protein-mediated exchange occurring between VLDL and HDL particles. What is the net effect of this exchange activity?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Apolipoprotein B-100 is transferred from VLDL to HDL"
+        },
+        {
+          "label": "B",
+          "text": "Free fatty acids are shuttled from adipocytes to the liver"
+        },
+        {
+          "label": "C",
+          "text": "HDL gives up cholesteryl esters to VLDL and receives triglycerides"
+        },
+        {
+          "label": "D",
+          "text": "HDL transfers triglycerides to VLDL and receives cholesteryl esters"
+        },
+        {
+          "label": "E",
+          "text": "LDL receptors are upregulated on hepatocytes"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Cholesteryl ester transfer protein (CETP) swaps cholesteryl esters from HDL into VLDL/LDL in exchange for triglycerides moving to HDL. This raises triglyceride content of HDL and delivers cholesteryl esters to apoB-containing particles.",
+        "whyCorrect": "Cholesteryl ester transfer protein (CETP) swaps cholesteryl esters from HDL into VLDL/LDL in exchange for triglycerides moving to HDL. This raises triglyceride content of HDL and delivers cholesteryl esters to apoB-containing particles.",
+        "whyWrongByChoice": {
+          "A": "ApoB-100 is a structural, nonexchangeable protein that stays with VLDL, IDL and LDL; exchangeable apoproteins are apoC and apoE.",
+          "B": "Fatty acids travel from adipocytes to liver bound to albumin, not by protein-mediated exchange between VLDL and HDL.",
+          "D": "This reverses the direction of CETP exchange: HDL donates cholesteryl esters and receives triglycerides.",
+          "E": "LDL receptor upregulation is driven by low hepatocyte cholesterol via SREBP, not by lipid exchange between circulating lipoproteins."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "bopic-150_22_p10_1.png",
+      "tags": [
+        "picture"
+      ],
+      "source": "boom-picqbank"
+    },
+    {
       "id": "bo23-001",
       "stem": "A researcher studies the endogenous pathway that converts acetyl-CoA into cholesterol in hepatocytes. She wishes to target the single step that is rate-limiting and is exploited by a major class of lipid-lowering drugs. Which enzyme should she target?",
       "choices": [
