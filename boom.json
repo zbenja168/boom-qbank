@@ -1,0 +1,594 @@
+{
+ "course": "BOOM",
+ "whole": {
+  "file": "boom.apkg",
+  "cards": 1591,
+  "mb": 21.6
+ },
+ "weeks": [
+  {
+   "file": "boom/week-1.apkg",
+   "cards": 139,
+   "mb": 0.6,
+   "week": 1,
+   "sessions": [
+    {
+     "file": "boom/week-1-session-1.apkg",
+     "cards": 57,
+     "mb": 0.3,
+     "session": 1,
+     "lectures": [
+      {
+       "file": "boom/lecture-01.apkg",
+       "cards": 29,
+       "mb": 0.1,
+       "title": "Metabolic Overview I: General Reactions"
+      },
+      {
+       "file": "boom/lecture-02.apkg",
+       "cards": 28,
+       "mb": 0.2,
+       "title": "Metabolic Overview I: General Reactions (2 of 2)"
+      }
+     ]
+    },
+    {
+     "file": "boom/week-1-session-2.apkg",
+     "cards": 26,
+     "mb": 0.1,
+     "session": 2,
+     "lectures": [
+      {
+       "file": "boom/lecture-03.apkg",
+       "cards": 26,
+       "mb": 0.1,
+       "title": "Metabolic Overview II: OXPHOS"
+      }
+     ]
+    },
+    {
+     "file": "boom/week-1-session-3.apkg",
+     "cards": 56,
+     "mb": 0.3,
+     "session": 3,
+     "lectures": [
+      {
+       "file": "boom/lecture-05.apkg",
+       "cards": 28,
+       "mb": 0.3,
+       "title": "Metabolic Overview III: O2 Delivery (1 of 2)"
+      },
+      {
+       "file": "boom/lecture-06.apkg",
+       "cards": 28,
+       "mb": 0.1,
+       "title": "BOOM: Metabolic Overview III - O2 Delivery (2 of 2): Anemia, MCV Classification, and the B Vitamins"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "file": "boom/week-2.apkg",
+   "cards": 317,
+   "mb": 4.1,
+   "week": 2,
+   "sessions": [
+    {
+     "file": "boom/week-2-session-1.apkg",
+     "cards": 176,
+     "mb": 2.4,
+     "session": 1,
+     "lectures": [
+      {
+       "file": "boom/lecture-07.apkg",
+       "cards": 33,
+       "mb": 0.7,
+       "title": "Nitrogenous Base Metabolism"
+      },
+      {
+       "file": "boom/lecture-08.apkg",
+       "cards": 31,
+       "mb": 0.6,
+       "title": "DNA Damage and DNA Repair Mechanism"
+      },
+      {
+       "file": "boom/lecture-09.apkg",
+       "cards": 29,
+       "mb": 0.3,
+       "title": "DNA Structure"
+      },
+      {
+       "file": "boom/lecture-10.apkg",
+       "cards": 29,
+       "mb": 0.6,
+       "title": "DNA Replication"
+      },
+      {
+       "file": "boom/lecture-11.apkg",
+       "cards": 29,
+       "mb": 0.4,
+       "title": "The Central Dogma: DNA to RNA to Proteins"
+      },
+      {
+       "file": "boom/lecture-12.apkg",
+       "cards": 25,
+       "mb": 0.3,
+       "title": "DNA Point Mutations"
+      }
+     ]
+    },
+    {
+     "file": "boom/week-2-session-2.apkg",
+     "cards": 55,
+     "mb": 0.6,
+     "session": 2,
+     "lectures": [
+      {
+       "file": "boom/lecture-13.apkg",
+       "cards": 27,
+       "mb": 0.3,
+       "title": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I"
+      },
+      {
+       "file": "boom/lecture-14.apkg",
+       "cards": 28,
+       "mb": 0.4,
+       "title": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I (2 of 2)"
+      }
+     ]
+    },
+    {
+     "file": "boom/week-2-session-3.apkg",
+     "cards": 86,
+     "mb": 1.2,
+     "session": 3,
+     "lectures": [
+      {
+       "file": "boom/lecture-15.apkg",
+       "cards": 30,
+       "mb": 0.3,
+       "title": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II"
+      },
+      {
+       "file": "boom/lecture-16.apkg",
+       "cards": 29,
+       "mb": 0.3,
+       "title": "Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II"
+      },
+      {
+       "file": "boom/lecture-17.apkg",
+       "cards": 27,
+       "mb": 0.6,
+       "title": "Biotechniques: Protein Detection"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "file": "boom/week-3.apkg",
+   "cards": 219,
+   "mb": 5.5,
+   "week": 3,
+   "sessions": [
+    {
+     "file": "boom/week-3-session-1.apkg",
+     "cards": 60,
+     "mb": 1.2,
+     "session": 1,
+     "lectures": [
+      {
+       "file": "boom/lecture-18.apkg",
+       "cards": 29,
+       "mb": 0.4,
+       "title": "Carbohydrates and Carbohydrate Metabolism Overview I"
+      },
+      {
+       "file": "boom/lecture-19.apkg",
+       "cards": 31,
+       "mb": 0.9,
+       "title": "Carbohydrates and Carbohydrate Metabolism Overview I: Glycogen, Lactose Intolerance, and Galactosemia"
+      }
+     ]
+    },
+    {
+     "file": "boom/week-3-session-2.apkg",
+     "cards": 71,
+     "mb": 2.9,
+     "session": 2,
+     "lectures": [
+      {
+       "file": "boom/lecture-20.apkg",
+       "cards": 36,
+       "mb": 1.4,
+       "title": "Carbohydrates and Carbohydrate Metabolism Overview II"
+      },
+      {
+       "file": "boom/lecture-21.apkg",
+       "cards": 35,
+       "mb": 1.5,
+       "title": "Carbohydrates and Carbohydrate Metabolism Overview II: Fructose, HFCS, the Polyol Pathway, and Fructose Disorders"
+      }
+     ]
+    },
+    {
+     "file": "boom/week-3-session-3.apkg",
+     "cards": 88,
+     "mb": 1.5,
+     "session": 3,
+     "lectures": [
+      {
+       "file": "boom/lecture-22.apkg",
+       "cards": 30,
+       "mb": 0.4,
+       "title": "Lipids and Lipid Metabolism Introduction"
+      },
+      {
+       "file": "boom/lecture-23.apkg",
+       "cards": 33,
+       "mb": 0.9,
+       "title": "Lipids and Lipid Metabolism: Cholesterol Synthesis and Ketone Bodies"
+      },
+      {
+       "file": "boom/lecture-24.apkg",
+       "cards": 25,
+       "mb": 0.3,
+       "title": "BOOM: Lipids and Lipid Metabolism Introduction (3 of 3)"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "file": "boom/week-4.apkg",
+   "cards": 110,
+   "mb": 1.7,
+   "week": 4,
+   "sessions": [
+    {
+     "file": "boom/week-4-session-1.apkg",
+     "cards": 59,
+     "mb": 1.1,
+     "session": 1,
+     "lectures": [
+      {
+       "file": "boom/lecture-25.apkg",
+       "cards": 30,
+       "mb": 0.7,
+       "title": "Overview of Cell Signaling"
+      },
+      {
+       "file": "boom/lecture-26.apkg",
+       "cards": 29,
+       "mb": 0.5,
+       "title": "Overview of Cell Signaling (2 of 2)"
+      }
+     ]
+    },
+    {
+     "file": "boom/week-4-session-2.apkg",
+     "cards": 51,
+     "mb": 0.6,
+     "session": 2,
+     "lectures": [
+      {
+       "file": "boom/lecture-27.apkg",
+       "cards": 26,
+       "mb": 0.4,
+       "title": "Cell Signaling in Context: Fed and Fasting Metabolic State"
+      },
+      {
+       "file": "boom/lecture-28.apkg",
+       "cards": 25,
+       "mb": 0.3,
+       "title": "Cell Signaling in Context: Fed and Fasting Metabolic State (2 of 2)"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "file": "boom/week-5.apkg",
+   "cards": 181,
+   "mb": 3.3,
+   "week": 5,
+   "sessions": [
+    {
+     "file": "boom/week-5-session-1.apkg",
+     "cards": 84,
+     "mb": 0.8,
+     "session": 1,
+     "lectures": [
+      {
+       "file": "boom/lecture-29.apkg",
+       "cards": 28,
+       "mb": 0.5,
+       "title": "Basic Nutritional Requirements for Metabolism (1 of 3)"
+      },
+      {
+       "file": "boom/lecture-30.apkg",
+       "cards": 29,
+       "mb": 0.2,
+       "title": "Fat-Soluble Vitamins (A, D, E, K)"
+      },
+      {
+       "file": "boom/lecture-31.apkg",
+       "cards": 27,
+       "mb": 0.3,
+       "title": "Basic Nutritional Requirements for Metabolism: Select Minerals"
+      }
+     ]
+    },
+    {
+     "file": "boom/week-5-session-2.apkg",
+     "cards": 63,
+     "mb": 1.6,
+     "session": 2,
+     "lectures": [
+      {
+       "file": "boom/lecture-32.apkg",
+       "cards": 25,
+       "mb": 0.4,
+       "title": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle"
+      },
+      {
+       "file": "boom/lecture-33.apkg",
+       "cards": 38,
+       "mb": 1.2,
+       "title": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle"
+      }
+     ]
+    },
+    {
+     "file": "boom/week-5-session-3.apkg",
+     "cards": 34,
+     "mb": 1.0,
+     "session": 3,
+     "lectures": [
+      {
+       "file": "boom/lecture-34.apkg",
+       "cards": 34,
+       "mb": 1.0,
+       "title": "Inborn Errors of Amino Acid Metabolism"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "file": "boom/week-6.apkg",
+   "cards": 146,
+   "mb": 2.1,
+   "week": 6,
+   "sessions": [
+    {
+     "file": "boom/week-6-session-1.apkg",
+     "cards": 58,
+     "mb": 0.8,
+     "session": 1,
+     "lectures": [
+      {
+       "file": "boom/lecture-35.apkg",
+       "cards": 29,
+       "mb": 0.4,
+       "title": "Porphyrins and Iron Homeostasis (1 of 2)"
+      },
+      {
+       "file": "boom/lecture-36.apkg",
+       "cards": 29,
+       "mb": 0.5,
+       "title": "Porphyrins and Iron Homeostasis (2 of 2)"
+      }
+     ]
+    },
+    {
+     "file": "boom/week-6-session-2.apkg",
+     "cards": 35,
+     "mb": 0.9,
+     "session": 2,
+     "lectures": [
+      {
+       "file": "boom/lecture-37.apkg",
+       "cards": 35,
+       "mb": 0.9,
+       "title": "Inborn Errors of Carbohydrate Metabolism"
+      }
+     ]
+    },
+    {
+     "file": "boom/week-6-session-3.apkg",
+     "cards": 53,
+     "mb": 0.4,
+     "session": 3,
+     "lectures": [
+      {
+       "file": "boom/lecture-38.apkg",
+       "cards": 26,
+       "mb": 0.4,
+       "title": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism"
+      },
+      {
+       "file": "boom/lecture-39.apkg",
+       "cards": 27,
+       "mb": 0.1,
+       "title": "Dyslipidemias, Lipid Storage Disorders, and other defects in Lipid Metabolism (2 of 2)"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "file": "boom/week-7.apkg",
+   "cards": 377,
+   "mb": 3.3,
+   "week": 7,
+   "sessions": [
+    {
+     "file": "boom/week-7-session-1.apkg",
+     "cards": 162,
+     "mb": 1.6,
+     "session": 1,
+     "lectures": [
+      {
+       "file": "boom/lecture-40.apkg",
+       "cards": 28,
+       "mb": 0.6,
+       "title": "Chromosomes"
+      },
+      {
+       "file": "boom/lecture-41.apkg",
+       "cards": 30,
+       "mb": 0.1,
+       "title": "Numerical & Structural Chromosomal Alterations (1/3) - Variants in Chromosome Number"
+      },
+      {
+       "file": "boom/lecture-42.apkg",
+       "cards": 28,
+       "mb": 0.3,
+       "title": "Sex Chromosome Aneuploidy"
+      },
+      {
+       "file": "boom/lecture-43.apkg",
+       "cards": 22,
+       "mb": 0.2,
+       "title": "Numerical and Structural Chromosomal Alterations (2/3) - Subchromosomal Deletion Syndromes"
+      },
+      {
+       "file": "boom/lecture-44.apkg",
+       "cards": 28,
+       "mb": 0.4,
+       "title": "Mosaicism"
+      },
+      {
+       "file": "boom/lecture-45.apkg",
+       "cards": 26,
+       "mb": 0.3,
+       "title": "Molecular Biology Techniques (1 of 3) - Cytogenetics"
+      }
+     ]
+    },
+    {
+     "file": "boom/week-7-session-2.apkg",
+     "cards": 135,
+     "mb": 1.3,
+     "session": 2,
+     "lectures": [
+      {
+       "file": "boom/lecture-46.apkg",
+       "cards": 27,
+       "mb": 0.4,
+       "title": "Pedigrees and Patterns of Monogenic Inheritance"
+      },
+      {
+       "file": "boom/lecture-47.apkg",
+       "cards": 23,
+       "mb": 0.1,
+       "title": "Genotype-Phenotype Correlation"
+      },
+      {
+       "file": "boom/lecture-48.apkg",
+       "cards": 28,
+       "mb": 0.4,
+       "title": "Molecular Biology Techniques (2 of 3): DNA Analysis"
+      },
+      {
+       "file": "boom/lecture-49.apkg",
+       "cards": 30,
+       "mb": 0.4,
+       "title": "Repeat Expansion Disorders"
+      },
+      {
+       "file": "boom/lecture-50.apkg",
+       "cards": 27,
+       "mb": 0.3,
+       "title": "Mitochondrial Diseases"
+      }
+     ]
+    },
+    {
+     "file": "boom/week-7-session-3.apkg",
+     "cards": 80,
+     "mb": 0.5,
+     "session": 3,
+     "lectures": [
+      {
+       "file": "boom/lecture-51.apkg",
+       "cards": 28,
+       "mb": 0.3,
+       "title": "Genomic Imprinting Disorders"
+      },
+      {
+       "file": "boom/lecture-52.apkg",
+       "cards": 26,
+       "mb": 0.2,
+       "title": "Multifactorial Disorders"
+      },
+      {
+       "file": "boom/lecture-53.apkg",
+       "cards": 26,
+       "mb": 0.1,
+       "title": "Population Genetics"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "file": "boom/week-8.apkg",
+   "cards": 102,
+   "mb": 1.4,
+   "week": 8,
+   "sessions": [
+    {
+     "file": "boom/week-8-session-1.apkg",
+     "cards": 51,
+     "mb": 0.7,
+     "session": 1,
+     "lectures": [
+      {
+       "file": "boom/lecture-56.apkg",
+       "cards": 24,
+       "mb": 0.3,
+       "title": "Molecular Biology Techniques (3 of 3), RNA analysis"
+      },
+      {
+       "file": "boom/lecture-57.apkg",
+       "cards": 27,
+       "mb": 0.4,
+       "title": "Prenatal Genetic Testing & Neonatal Screening"
+      }
+     ]
+    },
+    {
+     "file": "boom/week-8-session-2.apkg",
+     "cards": 28,
+     "mb": 0.5,
+     "session": 2,
+     "lectures": [
+      {
+       "file": "boom/lecture-58.apkg",
+       "cards": 28,
+       "mb": 0.5,
+       "title": "From Bench to Bedside: The Role of Animal Models in Novel Therapeutics"
+      }
+     ]
+    },
+    {
+     "file": "boom/week-8-session-3.apkg",
+     "cards": 23,
+     "mb": 0.3,
+     "session": 3,
+     "lectures": [
+      {
+       "file": "boom/lecture-61.apkg",
+       "cards": 23,
+       "mb": 0.3,
+       "title": "Pharmacogenetics: An Introduction"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
