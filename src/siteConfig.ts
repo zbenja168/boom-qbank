@@ -6,6 +6,7 @@ export interface SiteConfig {
   repo: string;
   family: 'qbank' | 'picqbank' | 'picdnd' | 'anatomy';
   course: string;
+  courseKey: string;
   type: string;
   title: string;
   accent: string;
@@ -19,6 +20,7 @@ export const SITE: SiteConfig = {
   "repo": "boom-qbank",
   "family": "qbank",
   "course": "BOOM",
+  "courseKey": "boom",
   "type": "QBank",
   "title": "BOOM QBank",
   "accent": "#8b5cf6",
@@ -36,11 +38,6 @@ export const SITE: SiteConfig = {
     {
       "label": "Games",
       "url": "https://zbenja168.github.io/boom-dragndrop/",
-      "current": false
-    },
-    {
-      "label": "Picture QBank",
-      "url": "https://zbenja168.github.io/boom-picqbank/",
       "current": false
     }
   ]
