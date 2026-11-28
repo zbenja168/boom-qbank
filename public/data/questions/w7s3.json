@@ -156,7 +156,7 @@
         },
         {
           "label": "B",
-          "text": "Hypermethylation of the paternal 11p15 region, increasing IGF2 expression"
+          "text": "Gain of methylation at the maternal ICR1, increasing IGF2 expression"
         },
         {
           "label": "C",
@@ -177,7 +177,7 @@
         "whyCorrect": "ICR1 is normally methylated only on the paternal allele near the paternally expressed IGF2 gene. Hypomethylation of the paternal ICR1 allows an insulator protein to bind and block enhancers from activating IGF2, reducing IGF2 (a growth factor) expression and producing the growth-restricted Silver-Russell phenotype.",
         "whyWrongByChoice": {
           "A": "Duplication of 6q24 is associated with transient neonatal diabetes, not Silver-Russell syndrome.",
-          "B": "Hypermethylation of paternal 11p15 increases IGF2 and causes Beckwith-Wiedemann syndrome, an overgrowth disorder, not growth restriction.",
+          "B": "Gain of methylation at the maternal ICR1 increases IGF2 and causes Beckwith-Wiedemann syndrome, an overgrowth disorder, not growth restriction.",
           "D": "Maternal uniparental disomy of chromosome 15 causes Prader-Willi syndrome.",
           "E": "Paternal 15q11-q13 deletion causes Prader-Willi syndrome, not a growth-restriction disorder with triangular facies."
         }
@@ -201,7 +201,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Hypermethylation of the paternal 11p15 region"
+          "text": "Gain of methylation at the maternal ICR1 (11p15)"
         },
         {
           "label": "B",
@@ -222,8 +222,8 @@
       ],
       "correctAnswer": "A",
       "explanation": {
-        "summary": "Macroglossia, umbilical hernia, hypoglycemia, and overgrowth describe Beckwith-Wiedemann syndrome, which in a subset of patients arises from hypermethylation of the paternal 11p15 region.",
-        "whyCorrect": "Beckwith-Wiedemann syndrome is an overgrowth syndrome; in about 5-10% of patients it is caused by hypermethylation of the 11p15 region on the paternal allele. This aberrant hypermethylation dysregulates the IGF2/H19 locus and drives excess growth, giving macroglossia, abdominal wall defects, and neonatal hypoglycemia.",
+        "summary": "Macroglossia, umbilical hernia, hypoglycemia, and overgrowth describe Beckwith-Wiedemann syndrome, which in a subset of patients arises from gain of methylation at ICR1 on the maternal 11p15 allele.",
+        "whyCorrect": "Beckwith-Wiedemann syndrome is an overgrowth syndrome. ICR1 is normally methylated only on the paternal allele, which silences H19 and lets IGF2 be expressed from that allele alone. In about 5-10% of patients the maternal ICR1 also becomes methylated, so IGF2 is expressed from both alleles. The excess IGF2 drives overgrowth, macroglossia, abdominal wall defects, and neonatal hypoglycemia.",
         "whyWrongByChoice": {
           "B": "Hypomethylation of paternal ICR1 reduces IGF2 and causes Silver-Russell syndrome, a growth-restriction disorder, not overgrowth.",
           "C": "Loss of maternal expression at 15q11-q13 causes Angelman syndrome, unrelated to macroglossia and overgrowth.",
